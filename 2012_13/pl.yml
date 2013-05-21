@@ -1,0 +1,32 @@
+############################
+# Premier League 2012/13
+
+
+league: en
+season: 2012/13
+start_at: 2012-08-18
+
+######################
+# 20 Teams
+
+teams:
+- chelsea
+- manunited
+- mancity
+- everton
+- tottenham
+- westbrom
+- arsenal
+- westham
+- fulham
+- newcastle
+- swansea
+- stoke
+- sunderland
+- liverpool
+- wigan
+- astonvilla
+- southampton
+- reading
+- norwich
+- qpr
