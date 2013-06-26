@@ -1,16 +1,8 @@
 ############################
 # Premier League 2012/13
-#
-#  see en.wikipedia.org/wiki/2012-13_Premier_League
-#
-#  es.wikipedia.org/wiki/Premier_League_2012/13
-#   (includes fixtures per round)
-#
-#  official -> premierleague.com
-#
 
 
-Round 1
+Matchday 1
 
 18.08. 15:00   Arsenal FC - Sunderland AFC  0-0
 18.08. 15:00   Fulham FC - Norwich City  5-0
@@ -26,7 +18,7 @@ Round 1
 20.08. 20:00   Everton FC - Manchester United  1-0
 
 
-Round 2
+Matchday 2
 
 ### nota 2 - 11.12 19:45  *** delayed
 #
@@ -50,7 +42,7 @@ Round 2
 26.08. 16:00   Liverpool FC - Manchester City  2-2
 
 
-Round 3
+Matchday 3
 
 ### note 3
 # El partido entre Chelsea y Reading se jugó antes de la segunda jornada debido
@@ -72,7 +64,7 @@ Round 3
 02.09. 16:00   Southampton FC - Manchester United  2-3
 
 
-Round 4
+Matchday 4
 
 15.09. 12:45   Norwich City - West Ham United  0-0
 15.09. 15:00   Arsenal FC - Southampton FC  6-1
@@ -86,7 +78,7 @@ Round 4
 17.09. 20:00   Everton FC - Newcastle United  2-2
 
 
-Round 5
+Matchday 5
 
 22.09. 12:45   Swansea City - Everton FC  0-3
 22.09. 15:00   Chelsea FC - Stoke City  1-0
@@ -101,7 +93,7 @@ Round 5
 23.09. 16:00   Tottenham Hotspur - Queens Park Rangers  2-1
 
 
-Round 6
+Matchday 6
 
 29.09. 12:45   Arsenal FC - Chelsea FC  1-2
 29.09. 15:00   Everton FC - Southampton FC  3-1
@@ -117,7 +109,7 @@ Round 6
 01.10. 20:00   Queens Park Rangers - West Ham United  1-2
 
 
-Round 7
+Matchday 7
 
 06.10. 12:45   Manchester City - Sunderland AFC  3-0
 06.10. 15:00   Chelsea FC - Norwich City  4-1
@@ -132,7 +124,7 @@ Round 7
 07.10. 16:00   Newcastle United - Manchester United  0-3
 
 
-Round 8
+Matchday 8
 
 20.10. 12:45   Tottenham Hotspur - Chelsea FC  2-4
 20.10. 15:00   Fulham FC - Aston Villa   1-0
@@ -147,7 +139,7 @@ Round 8
 21.10. 16:00   Queens Park Rangers - Everton FC   1-1
 
 
-Round 9
+Matchday 9
 
 27.10. 12:45   Everton FC - Liverpool FC  2-2
 27.10. 15:00   Arsenal FC - Queens Park Rangers  1-0
@@ -162,7 +154,7 @@ Round 9
 28.10. 16:00   Chelsea FC - Manchester United    2-3
 
 
-Round 10
+Matchday 10
 
 03.11. 13:45 (Sa) Manchester United - Arsenal FC  2-1
 03.11. 16:00 (Sa) Fulham FC - Everton FC          2-2
@@ -178,7 +170,7 @@ Round 10
 05.11. 21:00 (Mo) West Bromwich Albion - Southampton FC   2-0
 
 
-Round 11
+Matchday 11
 
 10.11. 16:00 (Sa) Arsenal FC - Fulham FC         3-3
 10.11. 16:00 (Sa) Everton FC - Sunderland AFC    2-1
@@ -193,7 +185,7 @@ Round 11
 11.11. 17:00 (Su) Chelsea FC - Liverpool FC             1-1
 
 
-Round 12
+Matchday 12
 
 17.11. 13:45 (Sa) Arsenal FC - Tottenham Hotspur   5-2
 17.11. 16:00 (Sa) Liverpool FC - Wigan Athletic    3-0
@@ -208,7 +200,7 @@ Round 12
 19.11. 21:00 (Mo) West Ham United - Stoke City   1-1
 
 
-Round 13
+Matchday 13
 
 ## todo/fix: check dates
 
@@ -225,7 +217,7 @@ Round 13
 25.11. 17:00 (Su) Tottenham Hotspur - West Ham United    3-1
 
 
-Round 14
+Matchday 14
 
 27.11. 20:45 (Tu) Southampton FC - Norwich City   1-1
 27.11. 20:45 (Tu) Stoke City - Newcastle United   2-1
@@ -240,7 +232,7 @@ Round 14
 28.11. 21:00 (We) Wigan Athletic - Manchester City     0-2
 
 
-Round 15
+Matchday 15
 
 ## todo: fix dates
 
@@ -256,7 +248,7 @@ Round 15
 01.12. 00:00 (Sa) West Ham United - Chelsea FC        3-1
 
 
-Round 16
+Matchday 16
 
 08.12. 00:00 (Sa) Arsenal FC  - West Bromwich Albion   2-0
 08.12. 00:00 (Sa) Aston Villa - Stoke City             0-0
@@ -271,7 +263,7 @@ Round 16
 09.12. 00:00 (Su) Everton FC - Tottenham Hotspur       2-1
 
 
-Round 17
+Matchday 17
 
 ## nota 4
 # El partido entre Chelsea y Southampton (jornada 17) fue aplazado debido
@@ -292,7 +284,7 @@ Round 17
 15.12. 00:00 (Sa) West Bromwich Albion  - West Ham United   0-0
 
 
-Round 18
+Matchday 18
 
 22.12. 00:00 (Sa) Chelsea FC - Aston Villa        8-0
 22.12. 00:00 (Sa) Liverpool FC - Fulham FC        4-0
@@ -306,7 +298,7 @@ Round 18
 22.12. 00:00 (Sa) Wigan Athletic - Arsenal FC          0-1
 
 
-Round 19
+Matchday 19
 
 ## nota 5 
 # El partido entre Arsenal y West Ham se aplazó por la huelga en el metro de Londres.
@@ -330,7 +322,7 @@ Round 19
 # 2nd round 
 
 
-Round 20
+Matchday 20
 
 29.12. 00:00 (Sa) Arsenal FC - Newcastle United        7-3
 29.12. 00:00 (Sa) Aston Villa - Wigan Athletic         0-3

@@ -1,0 +1,6 @@
+
+
+qpr,         Queens Park Rangers,                       QPR, city:london 
+reading,     Reading|Reading FC|FC Reading,             RDG, city:reading
+wigan,       Wigan Athletic|Wigan,                      WIG, city:wigan
+

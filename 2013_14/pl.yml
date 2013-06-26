@@ -1,0 +1,32 @@
+############################
+# Premier League 2013/14
+
+
+league: en
+season: 2013/14
+start_at: 2013-08-17
+
+######################
+# 20 Teams
+
+teams:
+- chelsea
+- manunited
+- mancity
+- everton
+- tottenham
+- westbrom
+- arsenal
+- westham
+- fulham
+- newcastle
+- swansea
+- stoke
+- sunderland
+- liverpool
+- astonvilla
+- southampton
+- norwich
+- hull
+- crystalpalace
+- cardiff

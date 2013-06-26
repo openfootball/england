@@ -8,7 +8,6 @@ arsenal,     Arsenal|Arsenal FC|FC Arsenal,             ARS, city:london
 tottenham,   Tottenham Hotspur|Tottenham,               TOT, city:london
 westham,     West Ham United|West Ham,                  WHU, city:london
 fulham,      Fulham|Fulham FC|FC Fulham,                FUL, city:london
-qpr,         Queens Park Rangers,                       QPR, city:london 
 
 manunited,   Manchester United|Man Utd|Manchester U.,   MUN, city:manchester
 mancity,     Manchester City|Man City|Man. City,        MCI, city:manchester
@@ -20,12 +19,17 @@ westbrom,    West Bromwich Albion|West Brom,            WBA, city:westbrom
 newcastle,   Newcastle United|Newcastle,                NEW, city:newcastle
 stoke,       Stoke City|Stoke,                          STK, city:stoke
 sunderland,  Sunderland|Sunderland AFC|AFC Sunderland,  SUN, city:sunderland
-wigan,       Wigan Athletic|Wigan,                      WIG, city:wigan
 astonvilla,  Aston Villa,                               AVL, city:birmingham
 southampton, Southampton|Southampton FC|FC Southampton, SOU, city:southampton
-reading,     Reading|Reading FC|FC Reading,             RDG, city:reading
 norwich,     Norwich City|Norwich,                      NOR, city:norwich
+
+
+
+hull,          Hull City,         HUL     #  Kingston upon Hull,
+crystalpalace, Crystal Palace,    CRY,   city:london
+
 
 ## NB: 
 ##
 ##  for Swansea City include club/europe/teams_w.txt  (from Wales)
+##  for Cardiff City (cardiff) include  (from Wales)
