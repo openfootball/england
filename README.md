@@ -7,6 +7,7 @@ for use in any (programming) language
 (e.g. uses plain text fixtures/data sets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
+
 ## Intro
 
 Free open public domain football data for England / Europe. Events include:
@@ -39,40 +40,20 @@ Sa, 17.08.2013   Manchester City  Newcastle United
 
 ## Build Your Own `football.db` Copy
 
-To build your own `football.db` copy from the plain text fixtures
-use the sportdb command line tool. Example:
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
-Step 1:  Get a copy of the `world.db` fixtures
-
-    $ git clone git://github.com/geraldb/world.db.git
-
-Step 2:  Get a copy the `en-england` fixtures
-
-    $ git clone git://github.com/openfootball/en-england.git
-
-Step 3:  Let's build the `football.db`
-
-    $ sportdb setup --include ./en-england --worldinclude ./world.db
-
-That's it. For more
-see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby).
 
 
 ## Links
 
 
-### Web Admin App
-
-Try the `football.db` Web Admin app running on Heroku
-[`footballdb.herokuapp.com/en`](http://footballdb.herokuapp.com/en).
-
-
 ### Premier League
 
-Official Site - [`www.premierleague.com`](http://www.premierleague.com)
+Official site - [`www.premierleague.com`](http://www.premierleague.com)
 
-- 20 Teams
-- 380 Matches
+- 20 teams
+- 380 matches
 
 #### Wikipedia
 

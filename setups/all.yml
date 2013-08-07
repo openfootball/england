@@ -1,8 +1,8 @@
-####
-# all
+##################
+# all fixtures
 
-seasons:
-- en-england!/setups/data/seasons
+data:
+- en-england!/setups/data/teams     # include teams from wales
 
 
 leagues:
@@ -14,7 +14,6 @@ leagues:
 teams:
 - en-england!/teams
 - en-england!/teams_x
-- en-england!/setups/data/teams     # copy of teams from wales
 
 ############
 # fixtures
