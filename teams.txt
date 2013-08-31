@@ -5,7 +5,7 @@
 
 chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE, city:london
 arsenal,     Arsenal|Arsenal FC|FC Arsenal,             ARS, city:london
-tottenham,   Tottenham Hotspur|Tottenham,               TOT, city:london
+tottenham,   Tottenham Hotspur|Tottenham|Spurs,         TOT, city:london
 westham,     West Ham United|West Ham,                  WHU, city:london
 fulham,      Fulham|Fulham FC|FC Fulham,                FUL, city:london
 
@@ -15,18 +15,18 @@ mancity,     Manchester City|Man City|Man. City,        MCI, city:manchester
 everton,     Everton|Everton FC|FC Everton,             EVE, city:liverpool
 liverpool,   Liverpool|Liverpool FC|FC Liverpool,       LIV, city:liverpool
 
-westbrom,    West Bromwich Albion|West Brom,            WBA, city:westbrom
+westbrom,    West Bromwich Albion|West Brom|Albion,     WBA, city:westbrom
 newcastle,   Newcastle United|Newcastle,                NEW, city:newcastle
 stoke,       Stoke City|Stoke,                          STK, city:stoke
 sunderland,  Sunderland|Sunderland AFC|AFC Sunderland,  SUN, city:sunderland
-astonvilla,  Aston Villa,                               AVL, city:birmingham
+astonvilla,  Aston Villa|Villa,                         AVL, city:birmingham
 southampton, Southampton|Southampton FC|FC Southampton, SOU, city:southampton
 norwich,     Norwich City|Norwich,                      NOR, city:norwich
 
 
 
-hull,          Hull City,         HUL     #  Kingston upon Hull,
-crystalpalace, Crystal Palace,    CRY,   city:london
+hull,          Hull City|Hull,         HUL     #  Kingston upon Hull,
+crystalpalace, Crystal Palace|C Palace|Palace,    CRY,   city:london
 
 
 ## NB: 

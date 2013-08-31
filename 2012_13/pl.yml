@@ -6,6 +6,11 @@ league: en
 season: 2012/13
 start_at: 2012-08-18
 
+fixtures:
+- pl
+- pl_ii
+
+
 ######################
 # 20 Teams
 
