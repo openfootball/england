@@ -1,10 +1,6 @@
 ##################
 # all fixtures
 
-data:
-- en-england!/setups/data/teams     # include teams from wales
-
-
 leagues:
 - en-england!/leagues
 

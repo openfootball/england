@@ -32,8 +32,8 @@ manunited,   Manchester United|Man Utd|Manchester U.,   MUN, city:manchester
 
 Matchday 1
 
-Sa, 17.08.2013   Chelsea FC       Hull City
-Sa, 17.08.2013   Manchester City  Newcastle United
+Sat, 17.08.2013   Chelsea FC       Hull City
+Sat, 17.08.2013   Manchester City  Newcastle United
 ...
 ~~~
 
@@ -44,22 +44,8 @@ Use the `sportdb` command line tool to build your own `football.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
-
-## Links
-
-
-### Premier League
-
-Official site - [`www.premierleague.com`](http://www.premierleague.com)
-
-- 20 teams
-- 380 matches
-
-#### Wikipedia
-
-- [Premier_League](http://en.wikipedia.org/wiki/Premier_League)
-- [2013–14_Premier_League](http://en.wikipedia.org/wiki/2013–14_Premier_League)
-- [2012–13_Premier_League](http://en.wikipedia.org/wiki/2012–13_Premier_League)
+Note:  The Premier League includes teams from Wales
+(e.g. Swansea City or Cardiff City).
 
 
 
