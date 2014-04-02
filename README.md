@@ -22,8 +22,8 @@ Example:
 ~~~
 ### Premier League
 
-chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE, city:london
-manunited,   Manchester United|Man Utd|Manchester U.,   MUN, city:manchester
+chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE
+manunited,   Manchester United|Man Utd|Manchester U.,   MUN
 ...
 ~~~
 
@@ -32,8 +32,8 @@ manunited,   Manchester United|Man Utd|Manchester U.,   MUN, city:manchester
 
 Matchday 1
 
-Sat, 17.08.2013   Chelsea FC       Hull City
-Sat, 17.08.2013   Manchester City  Newcastle United
+Sat, 17.08.   Chelsea FC       Hull City
+Sat, 17.08.   Manchester City  Newcastle United
 ...
 ~~~
 

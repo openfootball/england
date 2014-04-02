@@ -1,0 +1,287 @@
+############################
+# Premier League 2013/14
+
+
+Matchday 20
+
+01.01. (We)  Swansea City    2-3  Manchester City
+01.01. (We)  Arsenal FC      2-0  Cardiff City
+01.01. (We)  Crystal Palace  1-1  Norwich City
+01.01. (We)  Fulham FC       2-1  West Ham United
+01.01. (We)  Liverpool FC    2-0  Hull City
+01.01. (We)  Southampton FC  0-3  Chelsea FC
+01.01. (We)  Stoke City      1-1  Everton FC
+01.01. (We)  Sunderland AFC  0-1  Aston Villa
+01.01. (We)  West Bromwich Albion  1-0  Newcastle United
+01.01. (We)  Manchester United     1-2  Tottenham Hotspur
+
+
+Matchday 21
+
+11.01. (Sa)  Hull City          0-2  Chelsea FC
+11.01. (Sa)  Cardiff City       0-2  West Ham United
+11.01. (Sa)  Everton FC         2-0  Norwich City
+11.01. (Sa)  Fulham FC          2-0  Sunderland AFC
+11.01. (Sa)  Southampton FC     1-0  West Bromwich Albion
+11.01. (Sa)  Tottenham Hotspur  2-0  Crystal Palace
+11.01. (Sa)  Manchester United  2-0  Swansea City
+
+12.01. (Su)  Newcastle United   0-2  Manchester City
+12.01. (Su)  Stoke City         3-5  Liverpool FC
+
+13.01. (Mo)  Aston Villa        1-2  Arsenal FC
+
+
+Matchday 22
+
+18.01. (Sa)  Sunderland AFC  Southampton FC  2-2
+18.01. (Sa)  Manchester City  Cardiff City  4-2
+18.01. (Sa)  Arsenal FC  Fulham FC  2-0
+18.01. (Sa)  Norwich City  Hull City  1-0
+18.01. (Sa)  West Ham United  Newcastle United  1-3
+18.01. (Sa)  Crystal Palace  Stoke City  1-0
+18.01. (Sa)  Liverpool FC  Aston Villa  2-2
+
+19.01. (Su)  Swansea City  Tottenham Hotspur  1-3
+19.01. (Su)  Chelsea FC  Manchester United  3-1
+
+20.01. (Mo)  West Bromwich Albion  Everton FC  1-1
+
+
+Matchday 23
+
+28.01. (Tu)  Manchester United  Cardiff City  2-0
+28.01. (Tu)  Norwich City  Newcastle United  0-0
+28.01. (Tu)  Southampton FC  Arsenal FC  2-2
+28.01. (Tu)  Swansea City  Fulham FC  2-0
+28.01. (Tu)  Crystal Palace  Hull City  1-0
+28.01. (Tu)  Liverpool FC  Everton FC  4-0
+
+29.01. (We)  Aston Villa  West Bromwich Albion  4-3
+29.01. (We)  Sunderland AFC  Stoke City  1-0
+29.01. (We)  Chelsea FC  West Ham United  0-0
+29.01. (We)  Tottenham Hotspur  Manchester City  1-5
+
+
+Matchday 24
+
+01.02. (Sa)  Newcastle United  Sunderland AFC  0-3
+01.02. (Sa)  West Ham United  Swansea City  2-0
+01.02. (Sa)  Everton FC  Aston Villa  2-1
+01.02. (Sa)  Stoke City  Manchester United  2-1
+01.02. (Sa)  Cardiff City  Norwich City  2-1
+01.02. (Sa)  Fulham FC  Southampton FC  0-3
+01.02. (Sa)  Hull City  Tottenham Hotspur  1-1
+
+02.02. (Su)  West Bromwich Albion  Liverpool FC  1-1
+02.02. (Su)  Arsenal FC  Crystal Palace  2-0
+
+03.02. (Mo)  Manchester City  Chelsea FC  0-1
+
+
+Matchday 25
+
+08.02. (Sa)  Liverpool FC  Arsenal FC  5-1
+08.02. (Sa)  Aston Villa  West Ham United  0-2
+08.02. (Sa)  Chelsea FC  Newcastle United  3-0
+08.02. (Sa)  Crystal Palace  West Bromwich Albion  3-1
+08.02. (Sa)  Norwich City  Manchester City  0-0
+08.02. (Sa)  Southampton FC  Stoke City  2-2
+08.02. (Sa)  Sunderland AFC  Hull City  0-2
+08.02. (Sa)  Swansea City  Cardiff City  3-0
+
+09.02. (Su)  Tottenham Hotspur  Everton FC  1-0
+09.02. (Su)  Manchester United  Fulham FC  2-2
+
+
+Matchday 26
+
+11.02. (Tu)  Cardiff City  Aston Villa  0-0
+11.02. (Tu)  West Ham United  Norwich City  2-0
+11.02. (Tu)  Hull City  Southampton FC  0-1
+11.02. (Tu)  West Bromwich Albion  Chelsea FC  1-1
+
+12.02. (We)  Arsenal FC  Manchester United  0-0
+12.02. (We)  Newcastle United  Tottenham Hotspur  0-4
+12.02. (We)  Fulham FC  Liverpool FC  2-3
+12.02. (We)  Stoke City  Swansea City  1-1
+16.04. (We)  Everton FC  Crystal Palace  
+16.04. (We)  Manchester City  Sunderland AFC  
+
+
+
+Matchday 27
+
+22.02. (Sa)  Chelsea FC  Everton FC  1-0
+22.02. (Sa)  Arsenal FC  Sunderland AFC  4-1
+22.02. (Sa)  Cardiff City  Hull City  0-4
+22.02. (Sa)  Manchester City  Stoke City  1-0
+22.02. (Sa)  West Bromwich Albion  Fulham FC  1-1
+22.02. (Sa)  West Ham United  Southampton FC  3-1
+22.02. (Sa)  Crystal Palace  Manchester United  0-2
+
+23.02. (Su)  Liverpool FC  Swansea City  4-3
+23.02. (Su)  Newcastle United  Aston Villa  1-0
+23.02. (Su)  Norwich City  Tottenham Hotspur  1-0
+
+
+Matchday 28
+
+01.03. (Sa)  Stoke City  Arsenal FC  1-0
+01.03. (Sa)  Fulham FC  Chelsea FC  1-3
+01.03. (Sa)  Hull City  Newcastle United  1-4
+01.03. (Sa)  Everton FC  West Ham United  1-0
+01.03. (Sa)  Southampton FC  Liverpool FC  0-3
+
+02.03. (Su)  Tottenham Hotspur  Cardiff City  1-0
+02.03. (Su)  Swansea City  Crystal Palace  1-1
+02.03. (Su)  Aston Villa  Norwich City  4-1
+
+25.03. (Tu)  Manchester United  Manchester City  0-3
+
+07.05. (We)  Sunderland AFC  West Bromwich Albion  
+
+
+
+Matchday 29
+
+08.03. (Sa)  West Bromwich Albion  Manchester United  0-3
+08.03. (Sa)  Cardiff City  Fulham FC  3-1
+08.03. (Sa)  Crystal Palace  Southampton FC  0-1
+08.03. (Sa)  Norwich City  Stoke City  1-1
+08.03. (Sa)  Chelsea FC  Tottenham Hotspur  4-0
+
+25.03. (Tu)  Arsenal FC  Swansea City  2-2
+25.03. (Tu)  Newcastle United  Everton FC  0-3
+
+26.03. (We)  West Ham United  Hull City  2-1
+26.03. (We)  Liverpool FC  Sunderland AFC  2-1
+
+07.05. (We)  Manchester City  Aston Villa
+
+
+Matchday 30
+
+15.03. (Sa)  Hull City           0-2  Manchester City
+15.03. (Sa)  Everton FC          2-1  Cardiff City
+15.03. (Sa)  Sunderland AFC      0-0  Crystal Palace
+15.03. (Sa)  Fulham FC           1-0  Newcastle United
+15.03. (Sa)  Southampton FC      4-2  Norwich City
+15.03. (Sa)  Swansea City        1-2  West Bromwich Albion
+15.03. (Sa)  Stoke City          3-1  West Ham United
+15.03. (Sa)  Aston Villa         1-0  Chelsea FC
+
+16.03. (Su)  Manchester United   0-3  Liverpool FC
+16.03. (Su)  Tottenham Hotspur   0-1  Arsenal FC
+
+
+Matchday 31
+
+22.03. (Sa)  Chelsea FC         6-0  Arsenal FC
+22.03. (Sa)  Cardiff City       3-6  Liverpool FC
+22.03. (Sa)  Everton FC         3-2  Swansea City
+22.03. (Sa)  Hull City          2-0  West Bromwich Albion
+22.03. (Sa)  Manchester City    5-0  Fulham FC
+22.03. (Sa)  Newcastle United   1-0  Crystal Palace
+22.03. (Sa)  Norwich City       2-0  Sunderland AFC
+22.03. (Sa)  West Ham United    0-2  Manchester United
+
+23.03. (Su)  Tottenham Hotspur  3-2  Southampton FC
+23.03. (Su)  Aston Villa        1-4  Stoke City
+
+
+Matchday 32
+
+29.03. (Sa)  Manchester United  4-1 Aston Villa  
+29.03. (Sa)  West Bromwich Albion  3-3  Cardiff City
+29.03. (Sa)  Crystal Palace  1-0  Chelsea FC  
+29.03. (Sa)  Stoke City      1-0  Hull City
+29.03. (Sa)  Southampton FC  4-0  Newcastle United
+29.03. (Sa)  Swansea City    3-0  Norwich City
+29.03. (Sa)  Arsenal FC      1-1  Manchester City
+
+30.03. (Su)  Fulham FC       1-3  Everton FC
+30.03. (Su)  Liverpool FC    4-0  Tottenham Hotspur
+
+31.03. (Mo)  Sunderland AFC  1-2  West Ham United
+
+
+Matchday 33
+
+05.04. (Sa)  Manchester City    Southampton FC
+05.04. (Sa)  Aston Villa        Fulham FC
+05.04. (Sa)  Cardiff City       Crystal Palace
+05.04. (Sa)  Hull City          Swansea City
+05.04. (Sa)  Newcastle United   Manchester United
+05.04. (Sa)  Norwich City       West Bromwich Albion
+05.04. (Sa)  Chelsea FC         Stoke City
+06.04. (Su)  Everton FC         Arsenal FC
+06.04. (Su)  West Ham United    Liverpool FC
+07.04. (Mo)  Tottenham Hotspur  Sunderland AFC
+
+
+Matchday 34
+
+12.04. (Sa)  Crystal Palace      Aston Villa
+12.04. (Sa)  Southampton FC      Cardiff City
+12.04. (Sa)  Sunderland AFC      Everton FC
+12.04. (Sa)  Stoke City          Newcastle United
+12.04. (Sa)  Fulham FC           Norwich City
+12.04. (Sa)  West Bromwich Albion  Tottenham Hotspur
+13.04. (Su)  Liverpool FC        Manchester City
+13.04. (Su)  Swansea City        Chelsea FC
+15.04. (Tu)  Arsenal FC          West Ham United
+06.05. (Tu)  Manchester United   Hull City
+
+Matchday 35
+
+19.04. (Sa)  Tottenham Hotspur    Fulham FC
+19.04. (Sa)  Aston Villa          Southampton FC
+19.04. (Sa)  Cardiff City         Stoke City
+19.04. (Sa)  Newcastle United     Swansea City
+19.04. (Sa)  West Ham United      Crystal Palace
+19.04. (Sa)  Hull City            Arsenal FC
+20.04. (Su)  Norwich City         Liverpool FC
+20.04. (Su)  Chelsea FC           Sunderland AFC
+20.04. (Su)  Everton FC           Manchester United
+21.04. (Mo)  Manchester City      West Bromwich Albion
+
+Matchday 36
+
+26.04. (Sa)  Southampton FC        Everton FC
+26.04. (Sa)  Swansea City          Aston Villa
+26.04. (Sa)  Fulham FC             Hull City
+26.04. (Sa)  Stoke City            Tottenham Hotspur
+26.04. (Sa)  West Bromwich Albion  West Ham United
+26.04. (Sa)  Manchester United     Norwich City
+27.04. (Su)  Sunderland AFC        Cardiff City
+27.04. (Su)  Liverpool FC          Chelsea FC
+27.04. (Su)  Crystal Palace        Manchester City
+28.04. (Mo)  Arsenal FC            Newcastle United
+
+Matchday 37
+
+03.05. (Sa)  Arsenal FC         West Bromwich Albion
+03.05. (Sa)  Aston Villa        Hull City
+03.05. (Sa)  Chelsea FC         Norwich City
+03.05. (Sa)  Crystal Palace     Liverpool FC
+03.05. (Sa)  Everton FC         Manchester City
+03.05. (Sa)  Manchester United  Sunderland AFC
+03.05. (Sa)  Newcastle United   Cardiff City
+03.05. (Sa)  Stoke City         Fulham FC
+03.05. (Sa)  Swansea City       Southampton FC
+03.05. (Sa)  West Ham United    Tottenham Hotspur
+
+Matchday 38
+
+11.05. (Su)  Cardiff City       Chelsea FC
+11.05. (Su)  Fulham FC          Crystal Palace
+11.05. (Su)  Hull City          Everton FC
+11.05. (Su)  Liverpool FC       Newcastle United
+11.05. (Su)  Manchester City    West Ham United
+11.05. (Su)  Norwich City       Arsenal FC
+11.05. (Su)  Southampton FC     Manchester United
+11.05. (Su)  Sunderland AFC     Swansea City
+11.05. (Su)  Tottenham Hotspur  Aston Villa
+11.05. (Su)  West Bromwich Albion   Stoke City
+
