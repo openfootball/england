@@ -1,0 +1,290 @@
+###################################
+# English Premier League 2014/15
+
+
+Matchday 20
+
+[Thu Jan/1]
+  Aston Villa  -  Crystal Palace
+  Hull City    -  Everton FC
+  Liverpool FC -  Leicester City
+  Manchester City  - Sunderland AFC
+  Newcastle United - Burnley FC
+  Queens Park Rangers -  Swansea City
+  Southampton FC  - Arsenal FC
+  Stoke City  - Manchester United
+  Tottenham Hotspur  - Chelsea FC
+  West Ham United  - West Bromwich Albion
+
+
+Matchday 21
+
+[Sat Jan/10]
+  Arsenal FC  Stoke City
+  Burnley FC  Queens Park Rangers
+  Chelsea FC  Newcastle United
+  Crystal Palace  Tottenham Hotspur
+  Everton FC  Manchester City
+  Leicester City  Aston Villa
+  Manchester United  Southampton FC
+  Sunderland AFC  Liverpool FC
+  Swansea City  West Ham United
+  West Bromwich Albion  Hull City
+
+
+Matchday 22
+
+[Sat Jan/17]
+  Aston Villa  Liverpool FC  
+  Burnley FC  Crystal Palace  
+  Everton FC  West Bromwich Albion  
+  Leicester City  Stoke City  
+  Manchester City  Arsenal FC  
+  Newcastle United  Southampton FC  
+  Queens Park Rangers  Manchester United  
+  Swansea City  Chelsea FC  
+  Tottenham Hotspur  Sunderland AFC  
+  West Ham United  Hull City  
+
+
+Matchday 23
+
+[Sat Jan/31]
+  Arsenal FC  Aston Villa  
+  Chelsea FC  Manchester City  
+  Crystal Palace  Everton FC
+  Hull City  Newcastle United  
+  Liverpool FC  West Ham United  
+  Manchester United  Leicester City  
+  Southampton FC  Swansea City  
+  Stoke City  Queens Park Rangers  
+  Sunderland AFC  Burnley FC  
+  West Bromwich Albion  Tottenham Hotspur  
+
+
+Matchday 24
+
+[Sat Feb/7]
+  Aston Villa  Chelsea FC  
+  Burnley FC  West Bromwich Albion  
+  Everton FC  Liverpool FC  
+  Leicester City  Crystal Palace  
+  Manchester City  Hull City  
+  Newcastle United  Stoke City  
+  Queens Park Rangers  Southampton FC  
+  Swansea City  Sunderland AFC  
+  Tottenham Hotspur  Arsenal FC  
+  West Ham United  Manchester United  
+
+
+Matchday 25
+
+[Tue Feb/10]
+  Arsenal FC  Leicester City  
+  Hull City  Aston Villa  
+  Manchester United  Burnley FC  
+  Southampton FC  West Ham United  
+  Crystal Palace  Newcastle United  
+  Liverpool FC  Tottenham Hotspur  
+  West Bromwich Albion  Swansea City  
+[Wed Feb/11]
+  Chelsea FC  Everton FC  
+  Stoke City  Manchester City  
+  Sunderland AFC  Queens Park Rangers  
+
+
+Matchday 26
+
+[Sat Feb/21]
+  Aston Villa  Stoke City  
+  Chelsea FC  Burnley FC  
+  Crystal Palace  Arsenal FC  
+  Everton FC  Leicester City  
+  Hull City  Queens Park Rangers  
+  Manchester City  Newcastle United  
+  Southampton FC  Liverpool FC  
+  Sunderland AFC  West Bromwich Albion  
+  Swansea City  Manchester United  
+  Tottenham Hotspur  West Ham United  
+
+
+Matchday 27
+
+[Sat Feb/28]
+  Arsenal FC  Everton FC  
+  Burnley FC  Swansea City  
+  Leicester City  Chelsea FC  
+  Liverpool FC  Manchester City  
+  Manchester United  Sunderland AFC  
+  Newcastle United  Aston Villa  
+  Queens Park Rangers  Tottenham Hotspur  
+  Stoke City  Hull City  
+  West Bromwich Albion  Southampton FC  
+  West Ham United  Crystal Palace  
+
+
+Matchday 28
+
+[Tue Mar/3]
+  Aston Villa  West Bromwich Albion  
+  Hull City  Sunderland AFC  
+  Queens Park Rangers  Arsenal FC  
+  Southampton FC  Crystal Palace
+  West Ham United  Chelsea FC  
+  Liverpool FC  Burnley FC  
+[Wed Mar/4]
+  Manchester City  Leicester City  
+  Newcastle United  Manchester United  
+  Stoke City  Everton FC  
+  Tottenham Hotspur  Swansea City  
+
+
+Matchday 29
+
+[Sat Mar/14]
+  Arsenal FC  West Ham United  
+  Burnley FC  Manchester City  
+  Chelsea FC  Southampton FC  
+  Crystal Palace  Queens Park Rangers  
+  Everton FC  Newcastle United  
+  Leicester City  Hull City  
+  Manchester United  Tottenham Hotspur  
+  Sunderland AFC  Aston Villa  
+  Swansea City  Liverpool FC  
+  West Bromwich Albion  Stoke City  
+
+
+Matchday 30
+
+[Sat Mar/21]
+  Aston Villa  Swansea City  
+  Hull City  Chelsea FC  
+  Liverpool FC  Manchester United  
+  Manchester City  West Bromwich Albion  
+  Newcastle United  Arsenal FC  
+  Queens Park Rangers  Everton FC  
+  Southampton FC  Burnley FC  
+  Stoke City  Crystal Palace  
+  Tottenham Hotspur  Leicester City  
+  West Ham United  Sunderland AFC  
+
+
+Matchday 31
+
+[Sat Apr/4]
+  Arsenal FC  Liverpool FC  
+  Burnley FC  Tottenham Hotspur  
+  Chelsea FC  Stoke City  
+  Crystal Palace  Manchester City  
+  Everton FC  Southampton FC  
+  Leicester City  West Ham United  
+  Manchester United  Aston Villa  
+  Sunderland AFC  Newcastle United  
+  Swansea City  Hull City  
+  West Bromwich Albion  Queens Park Rangers  
+
+
+Matchday 32
+
+[Sat Apr/11]
+  Burnley FC  Arsenal FC  
+  Liverpool FC  Newcastle United  
+  Manchester United  Manchester City  
+  Queens Park Rangers  Chelsea FC  
+  Southampton FC  Hull City  
+  Sunderland AFC  Crystal Palace  
+  Swansea City  Everton FC  
+  Tottenham Hotspur  Aston Villa  
+  West Bromwich Albion  Leicester City  
+  West Ham United  Stoke City  
+
+
+Matchday 33
+
+[Sat Apr/18]
+  Arsenal FC  Sunderland AFC  
+  Aston Villa  Queens Park Rangers  
+  Chelsea FC  Manchester United  
+  Crystal Palace  West Bromwich Albion  
+  Everton FC  Burnley FC  
+  Hull City  Liverpool FC  
+  Leicester City  Swansea City  
+  Manchester City  West Ham United  
+  Newcastle United  Tottenham Hotspur  
+  Stoke City  Southampton FC  
+
+
+Matchday 34
+
+[Sat Apr/25]
+  Arsenal FC  Chelsea FC  
+  Burnley FC  Leicester City  
+  Crystal Palace  Hull City  
+  Everton FC  Manchester United  
+  Manchester City  Aston Villa  
+  Newcastle United  Swansea City  
+  Queens Park Rangers  West Ham United  
+  Southampton FC  Tottenham Hotspur  
+  Stoke City  Sunderland AFC  
+  West Bromwich Albion  Liverpool FC  
+
+
+Matchday 35
+
+[Sat May/2]
+  Aston Villa  Everton FC  
+  Chelsea FC  Crystal Palace  
+  Hull City  Arsenal FC  
+  Leicester City  Newcastle United  
+  Liverpool FC  Queens Park Rangers  
+  Manchester United  West Bromwich Albion  
+  Sunderland AFC  Southampton FC  
+  Swansea City  Stoke City  
+  Tottenham Hotspur  Manchester City  
+  West Ham United  Burnley FC  
+
+
+Matchday 36
+
+[Sat May/9]
+  Arsenal FC  Swansea City
+  Aston Villa  West Ham United
+  Chelsea FC  Liverpool FC
+  Crystal Palace  Manchester United
+  Everton FC  Sunderland AFC
+  Hull City  Burnley FC
+  Leicester City  Southampton FC
+  Manchester City  Queens Park Rangers
+  Newcastle United  West Bromwich Albion
+  Stoke City  Tottenham Hotspur
+
+
+Matchday 37
+
+[Sat May/16]
+  Burnley FC  Stoke City
+  Liverpool FC  Crystal Palace
+  Manchester United  Arsenal FC
+  Queens Park Rangers  Newcastle United
+  Southampton FC  Aston Villa
+  Sunderland AFC  Leicester City
+  Swansea City  Manchester City
+  Tottenham Hotspur  Hull City
+  West Bromwich Albion  Chelsea FC
+  West Ham United  Everton FC
+
+
+Matchday 38
+
+[Sun May/24]
+  Arsenal FC  West Bromwich Albion
+  Aston Villa  Burnley FC
+  Chelsea FC  Sunderland AFC
+  Crystal Palace  Swansea City
+  Everton FC  Tottenham Hotspur
+  Hull City  Manchester United
+  Leicester City  Queens Park Rangers
+  Manchester City  Southampton FC
+  Newcastle United  West Ham United
+  Stoke City  Liverpool FC
+

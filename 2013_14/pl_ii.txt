@@ -1,35 +1,37 @@
-############################
-# Premier League 2013/14
+###################################
+# English Premier League 2013/14
 
 
 Matchday 20
 
-01.01. (We)  Swansea City          2-3  Manchester City
-01.01. (We)  Arsenal FC            2-0  Cardiff City
-01.01. (We)  Crystal Palace        1-1  Norwich City
-01.01. (We)  Fulham FC             2-1  West Ham United
-01.01. (We)  Liverpool FC          2-0  Hull City
-01.01. (We)  Southampton FC        0-3  Chelsea FC
-01.01. (We)  Stoke City            1-1  Everton FC
-01.01. (We)  Sunderland AFC        0-1  Aston Villa
-01.01. (We)  West Bromwich Albion  1-0  Newcastle United
-01.01. (We)  Manchester United     1-2  Tottenham Hotspur
+[Wed Jan/1]
+  Swansea City          2-3  Manchester City
+  Arsenal FC            2-0  Cardiff City
+  Crystal Palace        1-1  Norwich City
+  Fulham FC             2-1  West Ham United
+  Liverpool FC          2-0  Hull City
+  Southampton FC        0-3  Chelsea FC
+  Stoke City            1-1  Everton FC
+  Sunderland AFC        0-1  Aston Villa
+  West Bromwich Albion  1-0  Newcastle United
+  Manchester United     1-2  Tottenham Hotspur
 
 
 Matchday 21
 
-11.01. (Sa)  Hull City             0-2  Chelsea FC
-11.01. (Sa)  Cardiff City          0-2  West Ham United
-11.01. (Sa)  Everton FC            2-0  Norwich City
-11.01. (Sa)  Fulham FC             2-0  Sunderland AFC
-11.01. (Sa)  Southampton FC        1-0  West Bromwich Albion
-11.01. (Sa)  Tottenham Hotspur     2-0  Crystal Palace
-11.01. (Sa)  Manchester United     2-0  Swansea City
-
-12.01. (Su)  Newcastle United      0-2  Manchester City
-12.01. (Su)  Stoke City            3-5  Liverpool FC
-
-13.01. (Mo)  Aston Villa           1-2  Arsenal FC
+[Sat Jan/11]
+  Hull City             0-2  Chelsea FC
+  Cardiff City          0-2  West Ham United
+  Everton FC            2-0  Norwich City
+  Fulham FC             2-0  Sunderland AFC
+  Southampton FC        1-0  West Bromwich Albion
+  Tottenham Hotspur     2-0  Crystal Palace
+  Manchester United     2-0  Swansea City
+[Sun Jan/12]
+  Newcastle United      0-2  Manchester City
+  Stoke City            3-5  Liverpool FC
+[Mon Jan/13]
+  Aston Villa           1-2  Arsenal FC
 
 
 Matchday 22

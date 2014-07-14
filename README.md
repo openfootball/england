@@ -1,4 +1,4 @@
-# England
+# England - English Premier League
 
 ## What's `football.db`?
 
@@ -14,13 +14,13 @@ Free open public domain football data for England / Europe. Events include:
 
 | Level |                                |            |
 | ----- | ------------------------------ | ---------- |
-| I     |  Premier League                |  20 Clubs  |
+| I     |  English Premier League        |  20 Clubs  |
 
 
 Example:
 
 ~~~
-### Premier League
+### English Premier League
 
 chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE
 manunited,   Manchester United|Man Utd|Manchester U.,   MUN
@@ -28,13 +28,16 @@ manunited,   Manchester United|Man Utd|Manchester U.,   MUN
 ~~~
 
 ~~~
-### Premier League 2013/14
+### English Premier League 2014/15
 
 Matchday 1
 
-Sat, 17.08.   Chelsea FC       Hull City
-Sat, 17.08.   Manchester City  Newcastle United
-...
+[Sat Aug/16]
+  Arsenal FC        - Crystal Palace
+  Burnley FC        - Chelsea FC
+  Manchester United - Swansea City
+  Liverpool FC      - Southampton FC
+  ...
 ~~~
 
 
@@ -44,7 +47,7 @@ Use the `sportdb` command line tool to build your own `football.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
-Note:  The Premier League includes teams from Wales
+Note:  The English Premier League includes teams from Wales
 (e.g. Swansea City or Cardiff City).
 
 
