@@ -5,18 +5,18 @@
 Matchday 1
 
 [Sat Aug/18]
-  15.00   Arsenal FC - Sunderland AFC  0-0
-  15.00   Fulham FC - Norwich City  5-0
-  15.00   Queens Park Rangers - Swansea City  0-5
-  15.00   Reading FC - Stoke City  1-1
-  15.00   West Bromwich Albion - Liverpool FC  3-0
-  15.00   West Ham United - Aston Villa  1-0
-  17.30   Newcastle United - Tottenham Hotspur  2-1
+  15.00   Arsenal FC  0-0  Sunderland AFC
+  15.00   Fulham FC  5-0  Norwich City
+  15.00   Queens Park Rangers  0-5  Swansea City
+  15.00   Reading FC  1-1  Stoke City
+  15.00   West Bromwich Albion  3-0  Liverpool FC
+  15.00   West Ham United  3-0  Aston Villa
+  17.30   Newcastle United  2-1  Tottenham Hotspur
 [Sun Aug/19]
-  13.30   Wigan Athletic - Chelsea FC  0-2
-  16.00   Manchester City - Southampton FC  3-2
+  13.30   Wigan Athletic  0-2  Chelsea FC
+  16.00   Manchester City  3-2  Southampton FC
 [Mon Aug/20]
-  20.00   Everton FC - Manchester United  1-0
+  20.00   Everton FC  1-0  Manchester United
 
 
 Matchday 2
@@ -29,17 +29,17 @@ Matchday 2
 ## todo: check status of this game why set to 0:0 and  ??
 
 [Sat Aug/25]
-  12.00   Sunderland AFC - Reading FC  3-0
-  12.45   Swansea City - West Ham United  3-0
-  15.00   Aston Villa - Everton FC  1-3
-  15.00   Manchester United - Fulham FC  3-2
-  15.00   Norwich City - Queens Park Rangers  1-1
-  15.00   Southampton FC - Wigan Athletic  0-2
-  15.00   Tottenham Hotspur - West Bromwich Albion  1-1
-  17.30   Chelsea FC - Newcastle United  2-0
+  12.00   Sunderland AFC  3-0  Reading FC
+  12.45   Swansea City  3-0  West Ham United
+  15.00   Aston Villa  1-3  Everton FC
+  15.00   Manchester United  3-2  Fulham FC
+  15.00   Norwich City  1-1  Queens Park Rangers
+  15.00   Southampton FC  0-2  Wigan Athletic
+  15.00   Tottenham Hotspur  1-1  West Bromwich Albion
+  17.30   Chelsea FC  2-0  Newcastle United
 [Sun Aug/26]
-  13.30   Stoke City - Arsenal FC  0-0
-  16.00   Liverpool FC - Manchester City  2-2
+  13.30   Stoke City  0-0  Arsenal FC
+  16.00   Liverpool FC  2-2  Manchester City
 
 
 Matchday 3
