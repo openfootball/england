@@ -1,19 +1,17 @@
 ############################
 # Premier League 2012/13
 
-
-# 2nd round
-
 Matchday 20
 
-29.12.2012 (Sa) Arsenal FC          7-3  Newcastle United
-29.12.2012 (Sa) Aston Villa         0-3  Wigan Athletic
-29.12.2012 (Sa) Everton FC          1-2  Chelsea FC
-29.12.2012 (Sa) Fulham FC           1-2  Swansea City
-29.12.2012 (Sa) Manchester United   2-0  West Brom
-29.12.2012 (Sa) Norwich City        3-4  Manchester City
-29.12.2012 (Sa) Queens Park Rangers 0-3  Liverpool FC
-29.12.2012 (Sa) Reading FC          1-0  West Ham United
-29.12.2012 (Sa) Stoke City          3-3  Southampton FC
-29.12.2012 (Sa) Sunderland AFC      1-2  Tottenham Hotspur
+[Sat Dec/29]
+  Arsenal FC          7-3  Newcastle United
+  Aston Villa         0-3  Wigan Athletic
+  Everton FC          1-2  Chelsea FC
+  Fulham FC           1-2  Swansea City
+  Manchester United   2-0  West Brom
+  Norwich City        3-4  Manchester City
+  Queens Park Rangers 0-3  Liverpool FC
+  Reading FC          1-0  West Ham United
+  Stoke City          3-3  Southampton FC
+  Sunderland AFC      1-2  Tottenham Hotspur
 

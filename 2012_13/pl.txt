@@ -4,42 +4,42 @@
 
 Matchday 1
 
-18.08. 15:00   Arsenal FC - Sunderland AFC  0-0
-18.08. 15:00   Fulham FC - Norwich City  5-0
-18.08. 15:00   Queens Park Rangers - Swansea City  0-5
-18.08. 15:00   Reading FC - Stoke City  1-1
-18.08. 15:00   West Bromwich Albion - Liverpool FC  3-0
-18.08. 15:00   West Ham United - Aston Villa  1-0
-18.08. 17:30   Newcastle United - Tottenham Hotspur  2-1
-
-19.08. 13:30   Wigan Athletic - Chelsea FC  0-2
-19.08. 16:00   Manchester City - Southampton FC  3-2
-
-20.08. 20:00   Everton FC - Manchester United  1-0
+[Sat Aug/18]
+  15.00   Arsenal FC - Sunderland AFC  0-0
+  15.00   Fulham FC - Norwich City  5-0
+  15.00   Queens Park Rangers - Swansea City  0-5
+  15.00   Reading FC - Stoke City  1-1
+  15.00   West Bromwich Albion - Liverpool FC  3-0
+  15.00   West Ham United - Aston Villa  1-0
+  17.30   Newcastle United - Tottenham Hotspur  2-1
+[Sun Aug/19]
+  13.30   Wigan Athletic - Chelsea FC  0-2
+  16.00   Manchester City - Southampton FC  3-2
+[Mon Aug/20]
+  20.00   Everton FC - Manchester United  1-0
 
 
 Matchday 2
 
-### nota 2 - 11.12 19:45  *** delayed
+### nota 2 - 11.12 19.45  *** delayed
 #
-#  El partido entre Sunderland y Reading (programado para el 25 de agosto de 2012 a las 15:00)
+#  El partido entre Sunderland y Reading (programado para el 25 de agosto de 2012 a las 15.00)
 # fue suspendido debido a que el terreno de juego no estaba en buenas condiciones
 # por las lluvias en el noroeste de Inglaterra.
-## todo: check status of this game why set to 0:0 and 00:00 ??
+## todo: check status of this game why set to 0:0 and  ??
 
-25.08. 12:00   Sunderland AFC - Reading FC  3-0
-
-
-25.08. 12:45   Swansea City - West Ham United  3-0
-25.08. 15:00   Aston Villa - Everton FC  1-3
-25.08. 15:00   Manchester United - Fulham FC  3-2
-25.08. 15:00   Norwich City - Queens Park Rangers  1-1
-25.08. 15:00   Southampton FC - Wigan Athletic  0-2
-25.08. 15:00   Tottenham Hotspur - West Bromwich Albion  1-1
-25.08. 17:30   Chelsea FC - Newcastle United  2-0
-
-26.08. 13:30   Stoke City - Arsenal FC  0-0
-26.08. 16:00   Liverpool FC - Manchester City  2-2
+[Sat Aug/25]
+  12.00   Sunderland AFC - Reading FC  3-0
+  12.45   Swansea City - West Ham United  3-0
+  15.00   Aston Villa - Everton FC  1-3
+  15.00   Manchester United - Fulham FC  3-2
+  15.00   Norwich City - Queens Park Rangers  1-1
+  15.00   Southampton FC - Wigan Athletic  0-2
+  15.00   Tottenham Hotspur - West Bromwich Albion  1-1
+  17.30   Chelsea FC - Newcastle United  2-0
+[Sun Aug/26]
+  13.30   Stoke City - Arsenal FC  0-0
+  16.00   Liverpool FC - Manchester City  2-2
 
 
 Matchday 3
@@ -49,218 +49,235 @@ Matchday 3
 # a que el Chelsea estará disputando la Supercopa de Europa 2012 el 31 de agosto de 2012.
 ## set to different date - ?
 
-22.08. 19:45   Chelsea FC - Reading FC  4-2
-
-
-01.09. 12:45   West Ham United - Fulham FC  3-0
-01.09. 15:00   Swansea City - Sunderland AFC  2-2
-01.09. 15:00   Tottenham Hotspur - Norwich City  1-1
-01.09. 15:00   West Bromwich Albion - Everton FC  2-0
-01.09. 15:00   Wigan Athletic - Stoke City  2-2
-01.09. 17:30   Manchester City - Queens Park Rangers  3-1
-
-02.09. 13:30   Liverpool FC - Arsenal FC  0-2
-02.09. 16:00   Newcastle United - Aston Villa  1-1
-02.09. 16:00   Southampton FC - Manchester United  2-3
+[Wed Aug/22]
+  19.45   Chelsea FC - Reading FC  4-2
+[Sat Sep/1]
+  12.45   West Ham United - Fulham FC  3-0
+  15.00   Swansea City - Sunderland AFC  2-2
+  15.00   Tottenham Hotspur - Norwich City  1-1
+  15.00   West Bromwich Albion - Everton FC  2-0
+  15.00   Wigan Athletic - Stoke City  2-2
+  17.30   Manchester City - Queens Park Rangers  3-1
+[Sun Sep/2]
+  13.30   Liverpool FC - Arsenal FC  0-2
+  16.00   Newcastle United - Aston Villa  1-1
+  16.00   Southampton FC - Manchester United  2-3
 
 
 Matchday 4
 
-15.09. 12:45   Norwich City - West Ham United  0-0
-15.09. 15:00   Arsenal FC - Southampton FC  6-1
-15.09. 15:00   Aston Villa - Swansea City  2-0
-15.09. 15:00   Fulham FC - West Bromwich Albion  3-0
-15.09. 15:00   Manchester United - Wigan Athletic  4-0
-15.09. 15:00   Queens Park Rangers - Chelsea FC  0-0
-15.09. 15:00   Stoke City - Manchester City  1-1
-15.09. 17:30   Sunderland AFC - Liverpool FC  1-1
-16.09. 16:00   Reading FC - Tottenham Hotspur  1-3
-17.09. 20:00   Everton FC - Newcastle United  2-2
+[Sat Sep/15]
+  12.45   Norwich City - West Ham United  0-0
+  15.00   Arsenal FC - Southampton FC  6-1
+  15.00   Aston Villa - Swansea City  2-0
+  15.00   Fulham FC - West Bromwich Albion  3-0
+  15.00   Manchester United - Wigan Athletic  4-0
+  15.00   Queens Park Rangers - Chelsea FC  0-0
+  15.00   Stoke City - Manchester City  1-1
+  17.30   Sunderland AFC - Liverpool FC  1-1
+[Sun Sep/16]
+  16.00   Reading FC - Tottenham Hotspur  1-3
+[Mon Sep/17]
+  20.00   Everton FC - Newcastle United  2-2
 
 
 Matchday 5
 
-22.09. 12:45   Swansea City - Everton FC  0-3
-22.09. 15:00   Chelsea FC - Stoke City  1-0
-22.09. 15:00   Southampton FC - Aston Villa  4-1
-22.09. 15:00   West Bromwich Albion - Reading FC  1-0
-22.09. 15:00   West Ham United - Sunderland AFC  1-1
-22.09. 15:00   Wigan Athletic - Fulham FC  1-2
 
-23.09. 13:30   Liverpool FC - Manchester United  1-2
-23.09. 15:00   Newcastle United - Norwich City  1-0
-23.09. 16:00   Manchester City - Arsenal FC  1-1
-23.09. 16:00   Tottenham Hotspur - Queens Park Rangers  2-1
+[Sat Sep/22]
+  12.45   Swansea City - Everton FC  0-3
+  15.00   Chelsea FC - Stoke City  1-0
+  15.00   Southampton FC - Aston Villa  4-1
+  15.00   West Bromwich Albion - Reading FC  1-0
+  15.00   West Ham United - Sunderland AFC  1-1
+  15.00   Wigan Athletic - Fulham FC  1-2
+[Sun Sep/23]
+  13.30   Liverpool FC - Manchester United  1-2
+  15.00   Newcastle United - Norwich City  1-0
+  16.00   Manchester City - Arsenal FC  1-1
+  16.00   Tottenham Hotspur - Queens Park Rangers  2-1
 
 
 Matchday 6
 
-29.09. 12:45   Arsenal FC - Chelsea FC  1-2
-29.09. 15:00   Everton FC - Southampton FC  3-1
-29.09. 15:00   Fulham FC - Manchester City  1-2
-29.09. 15:00   Norwich City - Liverpool FC  2-5
-29.09. 15:00   Reading FC - Newcastle United  2-2
-29.09. 15:00   Stoke City - Swansea City  2-0
-29.09. 15:00   Sunderland AFC - Wigan Athletic  1-0
-29.09. 17:30   Manchester United - Tottenham Hotspur  2-3
-
-30.09. 16:00   Aston Villa - West Bromwich Albion  1-1
-
-01.10. 20:00   Queens Park Rangers - West Ham United  1-2
+[Sat Sep/29]
+  12.45   Arsenal FC - Chelsea FC  1-2
+  15.00   Everton FC - Southampton FC  3-1
+  15.00   Fulham FC - Manchester City  1-2
+  15.00   Norwich City - Liverpool FC  2-5
+  15.00   Reading FC - Newcastle United  2-2
+  15.00   Stoke City - Swansea City  2-0
+  15.00   Sunderland AFC - Wigan Athletic  1-0
+  17.30   Manchester United - Tottenham Hotspur  2-3
+[Sun Sep/30]
+  16.00   Aston Villa - West Bromwich Albion  1-1
+[Mon Oct/1]
+  20.00   Queens Park Rangers - West Ham United  1-2
 
 
 Matchday 7
 
-06.10. 12:45   Manchester City - Sunderland AFC  3-0
-06.10. 15:00   Chelsea FC - Norwich City  4-1
-06.10. 15:00   Swansea City - Reading FC  2-2
-06.10. 15:00   West Bromwich Albion - Queens Park Rangers  3-2
-06.10. 15:00   Wigan Athletic - Everton FC  2-2
-06.10. 17:30   West Ham United - Arsenal FC  1-3
-
-07.10. 13:30   Southampton FC - Fulham FC  2-2
-07.10. 15:00   Liverpool FC - Stoke City  0-0
-07.10. 15:00   Tottenham Hotspur - Aston Villa  2-0
-07.10. 16:00   Newcastle United - Manchester United  0-3
+[Sat Oct/6]
+  12.45   Manchester City - Sunderland AFC  3-0
+  15.00   Chelsea FC - Norwich City  4-1
+  15.00   Swansea City - Reading FC  2-2
+  15.00   West Bromwich Albion - Queens Park Rangers  3-2
+  15.00   Wigan Athletic - Everton FC  2-2
+  17.30   West Ham United - Arsenal FC  1-3
+[Sun Oct/7]
+  13.30   Southampton FC - Fulham FC  2-2
+  15.00   Liverpool FC - Stoke City  0-0
+  15.00   Tottenham Hotspur - Aston Villa  2-0
+  16.00   Newcastle United - Manchester United  0-3
 
 
 Matchday 8
 
-20.10. 12:45   Tottenham Hotspur - Chelsea FC  2-4
-20.10. 15:00   Fulham FC - Aston Villa   1-0
-20.10. 15:00   Liverpool FC - Reading FC   1-0
-20.10. 15:00   Manchester United - Stoke City   4-2
-20.10. 15:00   Swansea City - Wigan Athletic   2-1
-20.10. 15:00   West Bromwich Albion - Manchester City   1-2
-20.10. 15:00   West Ham United - Southampton FC   4-1
-20.10. 17:30   Norwich City - Arsenal FC     1-0
-
-21.10. 13:30   Sunderland AFC - Newcastle United   1-1
-21.10. 16:00   Queens Park Rangers - Everton FC   1-1
+[Sat Oct/20]
+  12.45   Tottenham Hotspur - Chelsea FC  2-4
+  15.00   Fulham FC - Aston Villa   1-0
+  15.00   Liverpool FC - Reading FC   1-0
+  15.00   Manchester United - Stoke City   4-2
+  15.00   Swansea City - Wigan Athletic   2-1
+  15.00   West Bromwich Albion - Manchester City   1-2
+  15.00   West Ham United - Southampton FC   4-1
+  17.30   Norwich City - Arsenal FC     1-0
+[Sun Oct/21]
+  13.30   Sunderland AFC - Newcastle United   1-1
+  16.00   Queens Park Rangers - Everton FC   1-1
 
 
 Matchday 9
 
-27.10. 12:45   Everton FC - Liverpool FC  2-2
-27.10. 15:00   Arsenal FC - Queens Park Rangers  1-0
-27.10. 15:00   Reading FC - Fulham FC  3-3
-27.10. 15:00   Stoke City - Sunderland AFC  0-0
-27.10. 15:00   Wigan Athletic - West Ham United  2-1
-27.10. 17:30   Manchester City - Swansea City  1-0
-
-28.10. 13:30   Aston Villa - Norwich City  1-1
-28.10. 15:00   Newcastle United - West Bromwich Albion  2-1
-28.10. 15:00   Southampton FC - Tottenham Hotspur  1-2
-28.10. 16:00   Chelsea FC - Manchester United    2-3
+[Sat Oct/27]
+  12.45   Everton FC - Liverpool FC  2-2
+  15.00   Arsenal FC - Queens Park Rangers  1-0
+  15.00   Reading FC - Fulham FC  3-3
+  15.00   Stoke City - Sunderland AFC  0-0
+  15.00   Wigan Athletic - West Ham United  2-1
+  17.30   Manchester City - Swansea City  1-0
+[Sun Oct/28]
+  13.30   Aston Villa - Norwich City  1-1
+  15.00   Newcastle United - West Bromwich Albion  2-1
+  15.00   Southampton FC - Tottenham Hotspur  1-2
+  16.00   Chelsea FC - Manchester United    2-3
 
 
 Matchday 10
 
-03.11. 13:45 (Sa) Manchester United - Arsenal FC  2-1
-03.11. 16:00 (Sa) Fulham FC - Everton FC          2-2
-03.11. 16:00 (Sa) Norwich City - Stoke City       1-0
-03.11. 16:00 (Sa) Sunderland AFC - Aston Villa    0-1
-03.11. 16:00 (Sa) Swansea City - Chelsea FC       1-1
-03.11. 16:00 (Sa) Tottenham Hotspur - Wigan Athletic   0-1
-03.11. 18:30 (Sa) West Ham United - Manchester City    0-0
-
-04.11. 14:30 (Su) Queens Park Rangers - Reading FC   1-1
-04.11. 17:00 (Su) Liverpool FC - Newcastle United    1-1
-
-05.11. 21:00 (Mo) West Bromwich Albion - Southampton FC   2-0
+[Sat Nov/3]
+  13.45  Manchester United - Arsenal FC  2-1
+  16.00  Fulham FC - Everton FC          2-2
+  16.00  Norwich City - Stoke City       1-0
+  16.00  Sunderland AFC - Aston Villa    0-1
+  16.00  Swansea City - Chelsea FC       1-1
+  16.00  Tottenham Hotspur - Wigan Athletic   0-1
+  18.30  West Ham United - Manchester City    0-0
+[Sun Nov/4]
+  14.30  Queens Park Rangers - Reading FC   1-1
+  17.00  Liverpool FC - Newcastle United    1-1
+[Mon Nov/5]
+  21.00  West Bromwich Albion - Southampton FC   2-0
 
 
 Matchday 11
 
-10.11. 16:00 (Sa) Arsenal FC - Fulham FC         3-3
-10.11. 16:00 (Sa) Everton FC - Sunderland AFC    2-1
-10.11. 16:00 (Sa) Reading FC - Norwich City      0-0
-10.11. 16:00 (Sa) Southampton FC - Swansea City  1-1
-10.11. 16:00 (Sa) Stoke City - Queens Park Rangers   1-0
-10.11. 16:00 (Sa) Wigan Athletic  - West Bromwich Albion   1-2
-10.11. 18:30 (Sa) Aston Villa - Manchester United    2-3
-
-11.11. 14:30 (Su) Manchester City - Tottenham Hotspur   2-1
-11.11. 16:00 (Su) Newcastle United - West Ham United    0-1
-11.11. 17:00 (Su) Chelsea FC - Liverpool FC             1-1
+[Sat Nov/10]
+  16.00  Arsenal FC - Fulham FC         3-3
+  16.00  Everton FC - Sunderland AFC    2-1
+  16.00  Reading FC - Norwich City      0-0
+  16.00  Southampton FC - Swansea City  1-1
+  16.00  Stoke City - Queens Park Rangers   1-0
+  16.00  Wigan Athletic  - West Bromwich Albion   1-2
+  18.30  Aston Villa - Manchester United    2-3
+[Sun Nov/11]
+  14.30  Manchester City - Tottenham Hotspur   2-1
+  16.00  Newcastle United - West Ham United    0-1
+  17.00  Chelsea FC - Liverpool FC             1-1
 
 
 Matchday 12
 
-17.11. 13:45 (Sa) Arsenal FC - Tottenham Hotspur   5-2
-17.11. 16:00 (Sa) Liverpool FC - Wigan Athletic    3-0
-17.11. 16:00 (Sa) Manchester City - Aston Villa    5-0
-17.11. 16:00 (Sa) Newcastle United - Swansea City    1-2
-17.11. 16:00 (Sa) Queens Park Rangers - Southampton FC   1-3
-17.11. 16:00 (Sa) Reading FC - Everton FC            2-1
-17.11. 16:00 (Sa) West Bromwich Albion - Chelsea FC    2-1
-17.11. 18:30 (Sa) Norwich City  - Manchester United    1-0
-
-18.11. 17:00 (Su) Fulham FC - Sunderland AFC     1-3
-19.11. 21:00 (Mo) West Ham United - Stoke City   1-1
+[Sat Nov/17]
+  13.45  Arsenal FC - Tottenham Hotspur   5-2
+  16.00  Liverpool FC - Wigan Athletic    3-0
+  16.00  Manchester City - Aston Villa    5-0
+  16.00  Newcastle United - Swansea City    1-2
+  16.00  Queens Park Rangers - Southampton FC   1-3
+  16.00  Reading FC - Everton FC            2-1
+  16.00  West Bromwich Albion - Chelsea FC    2-1
+  18.30  Norwich City  - Manchester United    1-0
+[Sun Nov/18]
+  17.00  Fulham FC - Sunderland AFC     1-3
+[Mon Nov/19]
+  21.00  West Ham United - Stoke City   1-1
 
 
 Matchday 13
 
 ## todo/fix: check dates
 
-24.11. 13:45 (Sa) Swansea City - Liverpool FC    0-0
-24.11. 16:00 (Sa) Everton FC - Norwich City      1-1
-24.11. 16:00 (Sa) Manchester United - Queens Park Rangers  3-1
-24.11. 16:00 (Sa) Southampton FC - Newcastle United       2-0
-24.11. 16:00 (Sa) Stoke City - Fulham FC               1-0
-24.11. 16:00 (Sa) Wigan Athletic - Reading FC          3-2
-24.11. 18:30 (Sa) Aston Villa - Arsenal FC             0-0
-
-25.11. 14:30 (Su) Sunderland AFC - West Bromwich Albion  2-4
-25.11. 17:00 (Su) Chelsea FC - Manchester City           0-0
-25.11. 17:00 (Su) Tottenham Hotspur - West Ham United    3-1
+[Sat Nov/24]
+  13.45  Swansea City - Liverpool FC    0-0
+  16.00  Everton FC - Norwich City      1-1
+  16.00  Manchester United - Queens Park Rangers  3-1
+  16.00  Southampton FC - Newcastle United       2-0
+  16.00  Stoke City - Fulham FC               1-0
+  16.00  Wigan Athletic - Reading FC          3-2
+  18.30  Aston Villa - Arsenal FC             0-0
+[Sun Nov/25]
+  14.30  Sunderland AFC - West Bromwich Albion  2-4
+  17.00  Chelsea FC - Manchester City           0-0
+  17.00  Tottenham Hotspur - West Ham United    3-1
 
 
 Matchday 14
 
-27.11. 20:45 (Tu) Southampton FC - Norwich City   1-1
-27.11. 20:45 (Tu) Stoke City - Newcastle United   2-1
-27.11. 20:45 (Tu) Sunderland AFC - Queens Park Rangers   0-0
-27.11. 20:45 (Tu) Swansea City - West Bromwich Albion    3-1
-27.11. 21:00 (Tu) Aston Villa - Reading FC               1-0
-
-28.11. 20:45 (We) Tottenham Hotspur - Liverpool FC    2-1
-28.11. 20:45 (We) Chelsea FC - Fulham FC              0-0
-28.11. 20:45 (We) Everton FC - Arsenal FC             1-1
-28.11. 21:00 (We) Manchester United - West Ham United  1-0
-28.11. 21:00 (We) Wigan Athletic - Manchester City     0-2
+[Tue Nov/27]
+  20.45  Southampton FC - Norwich City   1-1
+  20.45  Stoke City - Newcastle United   2-1
+  20.45  Sunderland AFC - Queens Park Rangers   0-0
+  20.45  Swansea City - West Bromwich Albion    3-1
+  21.00  Aston Villa - Reading FC               1-0
+[Wed Nov/28]
+  20.45  Tottenham Hotspur - Liverpool FC    2-1
+  20.45  Chelsea FC - Fulham FC              0-0
+  20.45  Everton FC - Arsenal FC             1-1
+  21.00  Manchester United - West Ham United  1-0
+  21.00  Wigan Athletic - Manchester City     0-2
 
 
 Matchday 15
 
 ## todo: fix dates
 
-01.12. 00:00 (Sa) Arsenal FC - Swansea City          0-2
-01.12. 00:00 (Sa) Fulham FC - Tottenham Hotspur      0-3
-01.12. 00:00 (Sa) Liverpool FC - Southampton FC      1-0
-01.12. 00:00 (Sa) Manchester City - Everton FC       1-1
-01.12. 00:00 (Sa) Newcastle United - Wigan Athletic  3-0
-01.12. 00:00 (Sa) Norwich City - Sunderland AFC       2-1
-01.12. 00:00 (Sa) Queens Park Rangers - Aston Villa   1-1
-01.12. 00:00 (Sa) Reading FC - Manchester United      3-4
-01.12. 00:00 (Sa) West Bromwich Albion - Stoke City   0-1
-01.12. 00:00 (Sa) West Ham United - Chelsea FC        3-1
+[Sat Dec/1]
+  Arsenal FC - Swansea City          0-2
+  Fulham FC - Tottenham Hotspur      0-3
+  Liverpool FC - Southampton FC      1-0
+  Manchester City - Everton FC       1-1
+  Newcastle United - Wigan Athletic  3-0
+  Norwich City - Sunderland AFC       2-1
+  Queens Park Rangers - Aston Villa   1-1
+  Reading FC - Manchester United      3-4
+  West Bromwich Albion - Stoke City   0-1
+  West Ham United - Chelsea FC        3-1
 
 
 Matchday 16
 
-08.12. 00:00 (Sa) Arsenal FC  - West Bromwich Albion   2-0
-08.12. 00:00 (Sa) Aston Villa - Stoke City             0-0
-08.12. 00:00 (Sa) Fulham FC - Newcastle United         2-1
-08.12. 00:00 (Sa) Manchester City - Manchester United  2-3
-08.12. 00:00 (Sa) Southampton FC - Reading FC          1-0
-08.12. 00:00 (Sa) Sunderland AFC - Chelsea FC          1-3
-08.12. 00:00 (Sa) Swansea City - Norwich City          3-4
-08.12. 00:00 (Sa) West Ham United - Liverpool FC       2-3
-08.12. 00:00 (Sa) Wigan Athletic - Queens Park Rangers  2-2
-
-09.12. 00:00 (Su) Everton FC - Tottenham Hotspur       2-1
+[Sat Dec/8]
+  Arsenal FC  - West Bromwich Albion   2-0
+  Aston Villa - Stoke City             0-0
+  Fulham FC - Newcastle United         2-1
+  Manchester City - Manchester United  2-3
+  Southampton FC - Reading FC          1-0
+  Sunderland AFC - Chelsea FC          1-3
+  Swansea City - Norwich City          3-4
+  West Ham United - Liverpool FC       2-3
+  Wigan Athletic - Queens Park Rangers  2-2
+[Sun Dec/9]
+  Everton FC - Tottenham Hotspur       2-1
 
 
 Matchday 17
@@ -270,32 +287,33 @@ Matchday 17
 # a la participación del Chelsea en la Copa Mundial de Clubes de la FIFA 2012.
 # Se iba a disputar el 15 de diciembre de 2012.
 
-15.12. 00:00 (Sa) Chelsea FC  - Southampton FC    2-2
+[Sat Dec/15]
+  Chelsea FC  - Southampton FC    2-2
 
-
-15.12. 00:00 (Sa) Liverpool FC - Aston Villa      1-3
-15.12. 00:00 (Sa) Manchester United - Sunderland AFC     3-1
-15.12. 00:00 (Sa) Newcastle United  - Manchester City    1-3
-15.12. 00:00 (Sa) Norwich City - Wigan Athletic          2-1
-15.12. 00:00 (Sa) Queens Park Rangers - Fulham FC        2-1
-15.12. 00:00 (Sa) Reading FC - Arsenal FC            2-5
-15.12. 00:00 (Sa) Stoke City - Everton FC            1-1
-15.12. 00:00 (Sa) Tottenham Hotspur - Swansea City   1-0
-15.12. 00:00 (Sa) West Bromwich Albion  - West Ham United   0-0
+  Liverpool FC - Aston Villa      1-3
+  Manchester United - Sunderland AFC     3-1
+  Newcastle United  - Manchester City    1-3
+  Norwich City - Wigan Athletic          2-1
+  Queens Park Rangers - Fulham FC        2-1
+  Reading FC - Arsenal FC            2-5
+  Stoke City - Everton FC            1-1
+  Tottenham Hotspur - Swansea City   1-0
+  West Bromwich Albion  - West Ham United   0-0
 
 
 Matchday 18
 
-22.12. 00:00 (Sa) Chelsea FC - Aston Villa        8-0
-22.12. 00:00 (Sa) Liverpool FC - Fulham FC        4-0
-22.12. 00:00 (Sa) Manchester City - Reading FC    1-0
-22.12. 00:00 (Sa) Newcastle United - Queens Park Rangers  1-0
-22.12. 00:00 (Sa) Southampton FC - Sunderland AFC      0-1
-22.12. 00:00 (Sa) Swansea City - Manchester United     1-1
-22.12. 00:00 (Sa) Tottenham Hotspur - Stoke City       0-0
-22.12. 00:00 (Sa) West Bromwich Albion - Norwich City  2-1
-22.12. 00:00 (Sa) West Ham United - Everton FC         1-2
-22.12. 00:00 (Sa) Wigan Athletic - Arsenal FC          0-1
+[Sat Dec/22]
+  Chelsea FC - Aston Villa        8-0
+  Liverpool FC - Fulham FC        4-0
+  Manchester City - Reading FC    1-0
+  Newcastle United - Queens Park Rangers  1-0
+  Southampton FC - Sunderland AFC      0-1
+  Swansea City - Manchester United     1-1
+  Tottenham Hotspur - Stoke City       0-0
+  West Bromwich Albion - Norwich City  2-1
+  West Ham United - Everton FC         1-2
+  Wigan Athletic - Arsenal FC          0-1
 
 
 Matchday 19
@@ -303,16 +321,17 @@ Matchday 19
 ## nota 5 
 # El partido entre Arsenal y West Ham se aplazó por la huelga en el metro de Londres.
 # Se iba a disputar en la misma fecha del Boxing Day, el 26 de diciembre de 2012.
-### nota 5 - date changed to 23.01.2013 19:45  ??
+### nota 5 - date changed to 23.01.2013 19.45  ??
 
-26.12. 00:00 (We) Arsenal FC - West Ham United     5-1
+[Wed Dec/26]
+  Arsenal FC - West Ham United     5-1
 
-26.12. 00:00 (We) Aston Villa - Tottenham Hotspur   0-4
-26.12. 00:00 (We) Everton FC - Wigan Athletic       2-1
-26.12. 00:00 (We) Fulham FC - Southampton FC        1-1
-26.12. 00:00 (We) Manchester United - Newcastle United   4-3
-26.12. 00:00 (We) Norwich City - Chelsea FC          0-1
-26.12. 00:00 (We) Queens Park Rangers - West Bromwich Albion  1-2
-26.12. 00:00 (We) Reading FC - Swansea City              0-0
-26.12. 00:00 (We) Stoke City - Liverpool FC              3-1
-26.12. 00:00 (We) Sunderland AFC - Manchester City       1-0
+  Aston Villa - Tottenham Hotspur   0-4
+  Everton FC - Wigan Athletic       2-1
+  Fulham FC - Southampton FC        1-1
+  Manchester United - Newcastle United   4-3
+  Norwich City - Chelsea FC          0-1
+  Queens Park Rangers - West Bromwich Albion  1-2
+  Reading FC - Swansea City              0-0
+  Stoke City - Liverpool FC              3-1
+  Sunderland AFC - Manchester City       1-0
