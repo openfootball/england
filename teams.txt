@@ -3,8 +3,19 @@
 
 ## nb: three letter codes (tags) taken from official premierleague.com site 
 
-chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE, city:london
-arsenal,     Arsenal|Arsenal FC|FC Arsenal,             ARS, city:london
+[chelsea]
+  Chelsea|Chelsea FC|FC Chelsea, 1905, CHE
+  city:london
+  www.chelseafc.com
+  wikipedia: Chelsea_F.C.
+
+[arsenal]
+  Arsenal|Arsenal FC|FC Arsenal,  1886, ARS
+  city:london
+  www.arsenal.com
+  wikipedia: Arsenal_F.C.
+
+
 tottenham,   Tottenham Hotspur|Tottenham|Spurs,         TOT, city:london
 westham,     West Ham United|West Ham,                  WHU, city:london
 fulham,      Fulham|Fulham FC|FC Fulham,                FUL, city:london
