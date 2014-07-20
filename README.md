@@ -1,4 +1,4 @@
-# England - English Premier League
+# England (and Wales) - English Premier League
 
 ## What's `football.db`?
 

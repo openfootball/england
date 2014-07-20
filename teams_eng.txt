@@ -1,17 +1,18 @@
+####################################
+# English Premier League Teams
 
-## change manunited to manutd ??
 
-## nb: three letter codes (tags) taken from official premierleague.com site 
+## note: three letter codes (tags) taken from official premierleague.com site 
 
 [chelsea]
   Chelsea|Chelsea FC|FC Chelsea, 1905, CHE
-  city:london
+  // London
   www.chelseafc.com
   wikipedia: Chelsea_F.C.
 
 [arsenal]
   Arsenal|Arsenal FC|FC Arsenal,  1886, ARS
-  city:london
+  // London
   www.arsenal.com
   wikipedia: Arsenal_F.C.
 
@@ -20,7 +21,14 @@ tottenham,   Tottenham Hotspur|Tottenham|Spurs,         TOT, city:london
 westham,     West Ham United|West Ham,                  WHU, city:london
 fulham,      Fulham|Fulham FC|FC Fulham,                FUL, city:london
 
-manunited,   Manchester United|Man Utd|Manchester U.,   MUN, city:manchester
+
+[manutd]
+  Manchester United|Man Utd|Manchester U., 1878,  MUN
+  // Manchester
+  www.manutd.com
+  wikipedia: Manchester_United_F.C.
+
+
 mancity,     Manchester City|Man City|Man. City,        MCI, city:manchester
 
 everton,     Everton|Everton FC|FC Everton,             EVE, city:liverpool

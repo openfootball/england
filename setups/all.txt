@@ -1,17 +1,16 @@
 ##################
 # All Fixtures
 
-# -- Leagues
+# - Leagues
 en-england!/leagues
 
-# -- Teams
+# - Teams
 en-england!/teams
 en-england!/teams_x
 
-# -- Fixtures
-# 2012/13
-en-england!/2012_13/pl
+# - Fixtures
 
-# 2013/14
+en-england!/2012_13/pl
 en-england!/2013_14/pl
+en-england!/2014_15/pl
 

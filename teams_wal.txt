@@ -1,0 +1,16 @@
+#######################
+# Wales (WAL), wa
+
+# note: plays in english premiere league
+swansea,    Swansea City|Swansea,  SWA, wa, city:swansea
+cardiff,    Cardiff City,          CAR, wa, city:cardiff
+
+
+newsaints,  The New Saints FC, wa
+bangorcity, Bangor City FC, wa
+llanelli,   Llanelli AFC, wa
+rhyl,       Rhyl FC, wa
+cefndruids, Cefn Druids AFC, wa
+neath,      Neath FC, wa
+porttalbot, Port Talbot Town FC, wa
+
