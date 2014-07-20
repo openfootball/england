@@ -1,0 +1,45 @@
+###############################
+#  Manchester United 2014/15
+
+
+(1)   David de Gea (ESP)       GK
+(13)  Anders Lindegaard (DEN)  GK
+(40)  Ben Amos                 GK
+(50)  Sam Johnstone            GK
+
+(2)   Rafael (BRA)             DF
+(3)   Patrice Evra (FRA)       DF
+(4)   Phil Jones               DF
+(6)   Jonny Evans (NIR)        DF
+(12)  Chris Smalling           DF
+(30)  Guillermo Varela  (URU)  DF
+(36)  Marnick Vermijl  (BEL)   DF
+(38)  Michael Keane            DF
+-     Luke Shaw                DF
+
+(8)   Juan Mata (ESP)          MF
+(16)  Michael Carrick          MF
+(17)  Nani   (POR)             MF
+(18)  Ashley Young             MF
+(23)  Tom Cleverley            MF
+(24)  Darren Fletcher  (SCO)   MF
+(25)  Antonio Valencia  (ECU)  MF
+(31)  Marouane Fellaini (BEL)  MF
+(32)  Nick Powell              MF
+(26)  Shinji Kagawa  (JPN)     MF
+(29)  Wilfried Zaha            MF
+(35)  Jesse Lingard            MF
+(44)  Adnan Januzaj  (BEL)     MF
+-     Ander Herrera  (ESP)     MF
+-     Anderson     (BRA)       MF
+
+(10)  Wayne Rooney              FW
+(14)  Javier Hernández   (MEX)  FW
+(19)  Danny Welbeck             FW
+(20)  Robin van Persie  (NED)   FW
+(21)  Ángelo Henríquez   (CHI)  FW
+(33)  Bébé    (POR)             FW 
+(34)  Tom Lawrence   (WAL)      FW  
+(47)  James Wilson              FW
+(48)  Will Keane                FW
+

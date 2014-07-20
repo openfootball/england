@@ -1,0 +1,20 @@
+############################
+# Premier League 2014/15
+
+
+league: en
+season: 2014/15
+start_at: 2014-08-16
+
+fixtures:
+- pl
+- pl_ii
+
+
+######################
+# 20 Teams
+
+teams:
+### add teams!!!
+
+
