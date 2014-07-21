@@ -17,9 +17,30 @@
   wikipedia: Arsenal_F.C.
 
 
-tottenham,   Tottenham Hotspur|Tottenham|Spurs,         TOT, city:london
-westham,     West Ham United|West Ham,                  WHU, city:london
-fulham,      Fulham|Fulham FC|FC Fulham,                FUL, city:london
+[tottenham]
+  Tottenham Hotspur|Tottenham|Spurs, 1882 TOT
+  // London
+  www.tottenhamhotspur.com
+  wikipedia: Tottenham_Hotspur_F.C.
+  
+[westham]
+  West Ham United|West Ham, 1895, WHU
+  // London
+  www.whufc.com
+  wikipedia: West_Ham_United_F.C.
+
+[qpr]
+  Queens Park Rangers|Queens Park Rangers FC|QPR, 1882, QPR
+  // London
+  www.qpr.co.uk
+  wikipedia: Queens_Park_Rangers_F.C.
+
+[crystalpalace]
+  Crystal Palace|C Palace|Palace, 1905, CRY
+  // London
+  www.cpfc.co.uk
+  wikipedia: Crystal_Palace_F.C.
+
 
 
 [manutd]
@@ -28,27 +49,85 @@ fulham,      Fulham|Fulham FC|FC Fulham,                FUL, city:london
   www.manutd.com
   wikipedia: Manchester_United_F.C.
 
-
-mancity,     Manchester City|Man City|Man. City,        MCI, city:manchester
-
-everton,     Everton|Everton FC|FC Everton,             EVE, city:liverpool
-liverpool,   Liverpool|Liverpool FC|FC Liverpool,       LIV, city:liverpool
-
-westbrom,    West Bromwich Albion|West Brom|Albion,     WBA, city:westbrom
-newcastle,   Newcastle United|Newcastle,                NEW, city:newcastle
-stoke,       Stoke City|Stoke,                          STK, city:stoke
-sunderland,  Sunderland|Sunderland AFC|AFC Sunderland,  SUN, city:sunderland
-astonvilla,  Aston Villa|Villa,                         AVL, city:birmingham
-southampton, Southampton|Southampton FC|FC Southampton, SOU, city:southampton
-norwich,     Norwich City|Norwich,                      NOR, city:norwich
+[mancity]
+  Manchester City|Man City|Man. City, 1880, MCI
+  // Manchester
+  www.mcfc.co.uk
+  wikipedia: Manchester_City_F.C.
 
 
+[everton]
+  Everton|Everton FC|FC Everton, 1878, EVE
+  // Liverpool
+  www.evertonfc.com
+  wikipedia: Everton_F.C.
 
-hull,          Hull City|Hull,         HUL     #  Kingston upon Hull,
-crystalpalace, Crystal Palace|C Palace|Palace,    CRY,   city:london
+[liverpool]
+  Liverpool|Liverpool FC|FC Liverpool, 1892, LIV
+  // Liverpool
+  www.liverpoolfc.com
+  wikipedia: Liverpool_F.C.
 
 
-## NB: 
+[westbrom]
+  West Bromwich Albion|West Brom|Albion, 1878, WBA
+  // West Bromwich
+  www.wba.co.uk
+  wikipedia: West_Bromwich_Albion_F.C.
+
+[newcastle]
+  Newcastle United|Newcastle, 1892, NEW
+  // Newcastle upon Tyne
+  www.nufc.co.uk
+  wikipedia: Newcastle_United_F.C.
+
+[stoke]
+  Stoke City|Stoke, 1863,  STK
+  // Stoke-on-Trent
+  www.stokecityfc.com
+  wikipedia: Stoke_City_F.C.
+
+[sunderland]
+  Sunderland|Sunderland AFC|AFC Sunderland, 1879, SUN
+  // Sunderland
+  www.safc.com
+  wikipedia: Sunderland_A.F.C.
+
+[astonvilla]
+  Aston Villa|Villa, 1874, AVL
+  // Birmingham
+  www.avfc.co.uk
+  wikipedia: Aston_Villa_F.C.
+
+[southampton]
+  Southampton|Southampton FC|FC Southampton, 1885, SOU
+  // Southampton
+  www.saintsfc.co.uk
+  wikipedia: Southampton_F.C.
+
+
+[hull]
+  Hull City|Hull, 1904, HUL
+  // Kingston upon Hull
+  www.hullcitytigers.com
+  wikipedia: Hull_City_A.F.C.
+
+[leicester]
+  Leicester City|Leicester|Leicester City FC, 1884, LEI
+  // Leicester
+  www.lcfc.com
+  wikipedia: Leicester_City_F.C.
+
+[burnley]
+  Burnley|Burnley FC, 1882, BUR
+  // Burnley
+  www.burnleyfootballclub.com
+  wikipedia: Burnley_F.C.
+
+
 ##
-##  for Swansea City include club/europe/teams_w.txt  (from Wales)
-##  for Cardiff City (cardiff) include  (from Wales)
+# note:
+#  changes in 2014/15
+#   ++  Leicester City, Burnley, Queens Park Rangers
+#   --  Cardiff City, Fulham, Norwich City
+

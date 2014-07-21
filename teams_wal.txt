@@ -2,9 +2,11 @@
 # Wales (WAL), wa
 
 # note: plays in english premiere league
-swansea,    Swansea City|Swansea,  SWA, wa, city:swansea
-cardiff,    Cardiff City,          CAR, wa, city:cardiff
+swansea, Swansea City|Swansea,  SWA, wa, city:swansea
 
+
+# note: plays in english championship league
+cardiff,    Cardiff City,          CAR, wa, city:cardiff
 
 newsaints,  The New Saints FC|The New Saints, wa
 bangorcity, Bangor City FC|Bangor City, wa
