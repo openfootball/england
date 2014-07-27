@@ -1,18 +1,13 @@
 #######################
 # Wales (WAL), wa
 
-# note: plays in english premiere league
+# note: welsh clubs playing in english premiere league or championship etc. listed here
+#   all other welsh clubs listed in clubs/europe/clubs_western
+
+
 swansea, Swansea City|Swansea,  SWA, wa, city:swansea
 
 
 # note: plays in english championship league
 cardiff,    Cardiff City,          CAR, wa, city:cardiff
-
-newsaints,  The New Saints FC|The New Saints, wa
-bangorcity, Bangor City FC|Bangor City, wa
-llanelli,   Llanelli AFC, wa
-rhyl,       Rhyl FC, wa
-cefndruids, Cefn Druids AFC, wa
-neath,      Neath FC, wa
-porttalbot, Port Talbot Town FC, wa
 
