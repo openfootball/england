@@ -84,14 +84,25 @@ Matchday 1
 ~~~
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `england.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
+Use the `sportdb` command line tool to build your own `england.db` copy
 from the plain text data sets. [More »](http://openfootball.github.io/build.html)
 
 
 Note:  The English Premier League includes teams from Wales
 (e.g. Swansea City or Cardiff City).
+
+
+### Examples
+
+Build the database for all English (incl. Welsh) clubs, leagues and seasons:
+
+    $ rake build DATA=en
+
+Build the database for the 2014/15 season:
+
+    $ rake build DATA=en_2014_15
 
 
 

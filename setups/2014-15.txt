@@ -1,5 +1,3 @@
-##################
-# All Fixtures
 
 # - Leagues
 en-england!/leagues
@@ -9,8 +7,6 @@ en-england!/clubs
 en-england!/clubs_2
 en-england!/clubs_wal
 
-
-# - Fixtures
-en-england!/2012-13/1-premierleague
-en-england!/2013-14/1-premierleague
+# - 2014/15
 en-england!/2014-15/1-premierleague
+
