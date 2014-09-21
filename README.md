@@ -32,18 +32,18 @@ manunited,   Manchester United|Man Utd|Manchester U.,   MUN
 Matchday 1
 
 [Sat Aug/16]
-  12.45  Manchester United -  Swansea City
-  15.00  Leicester City    -  Everton FC
-  15.00  Queens Park Rangers - Hull City
-  15.00  Stoke City        - Aston Villa
-  15.00  West Bromwich Albion - Sunderland AFC
-  15.00  West Ham United   - Tottenham Hotspur
-  17.30  Arsenal FC        -  Crystal Palace
+  12.45  Manchester United    1-2  Swansea City
+  15.00  Leicester City       2-2  Everton FC
+  15.00  Queens Park Rangers  0-1  Hull City
+  15.00  Stoke City           0-1  Aston Villa
+  15.00  West Bromwich Albion 2-2  Sunderland AFC
+  15.00  West Ham United      0-1  Tottenham Hotspur
+  17.30  Arsenal FC           2-1  Crystal Palace
 [Sun Aug/17]
-  13.30  Liverpool FC      -  Southampton FC
-  16.00  Newcastle United  -  Manchester City
+  13.30  Liverpool FC         2-1  Southampton FC
+  16.00  Newcastle United     0-2  Manchester City
 [Mon Aug/18]
-  20.00  Burnley FC        -  Chelsea FC
+  20.00  Burnley FC           1-3  Chelsea FC
 
 ...
 ~~~
@@ -52,35 +52,37 @@ Matchday 1
 ##########################
 # Arsenal 2014/15
 
-(1)     Wojciech Szczęsny (POL)    GK  2007-
+1    Wojciech Szczęsny (POL)      GK  2007-
+13   David Ospina (COL)           GK  2014-
+26   Damián Martinez (ARG)        GK  2010-
 
-(3)     Kieran Gibbs               DF  2007-
-(4)     Per Mertesacker (GER)      DF  2011-
-(5)  (c) Thomas Vermaelen (BEL)    DF  2009-
-(6)     Laurent Koscielny (FRA)    DF  2010- 
-(18)    Nacho Monreal (ESP)        DF  2013- 
-(25)    Carl Jenkinson             DF  2011- 
+2    Mathieu Debuchy (FRA)        DF  2014-
+3    Kieran Gibbs                 DF  2007-
+4 (vc) Per Mertesacker (GER)      DF  2011-
+6    Laurent Koscielny (FRA)      DF  2010-
+18   Nacho Monreal (ESP)          DF  2013-
+21   Calum Chambers               DF  2014-
 
-(7)     Tomáš Rosický (CZE)        MF  2006-  
-(8)     Mikel Arteta (ESP)         MF  2011-
-(10)    Jack Wilshere (ENG)        MF  2008-
-(11)    Mesut Özil (GER)           MF  2013-
-(16)    Aaron Ramsey (WAL)         MF  2008-
-(19)    Santi Cazorla (ESP)        MF  2012-
-(20)    Mathieu Flamini (FRA)      MF  2013-
-(24)    Abou Diaby (FRA)           MF  2006-
-(35)    Gedion Zelalem (GER)       MF  2013-
-        Francis Coquelin (FRA)     MF  2008-
+7    Tomáš Rosický (CZE)          MF  2006-
+8 (c)  Mikel Arteta (ESP)         MF  2011-
+10    Jack Wilshere               MF  2008-
+11    Mesut Özil (GER)            MF  2013-
+15    Alex Oxlade-Chamberlain     MF  2011-
+16    Aaron Ramsey (WAL)          MF  2008-
+19    Santi Cazorla (ESP)         MF  2012-
+20    Mathieu Flamini (FRA)       MF  2013-
+24    Abou Diaby (FRA)            MF  2006-
+34    Francis Coquelin (FRA)      MF  2008-
+35    Gedion Zelalem (GER)        MF  2013-
 
-(9)     Lukas Podolski (GER)       FW   2012-
-(12)    Olivier Giroud (FRA)       FW   2012-
-(14)    Theo Walcott               FW   2006-
-(15)    Alex Oxlade-Chamberlain    FW   2011-
-(17)    Alexis Sánchez (CHI)       FW   2014-
-(22)    Yaya Sanogo (FRA)          FW   2013-
-(27)    Serge Gnabry (GER)         FW   2012-
-(31)    Ryo Miyaichi (JPN)         FW   2011-
-        Joel Campbell (CRC)        FW   2011-
+9     Lukas Podolski (GER)        FW   2012-
+12    Olivier Giroud (FRA)        FW   2012-
+14    Theo Walcott                FW   2006-
+17    Alexis Sánchez (CHI)        FW   2014-
+22    Yaya Sanogo (FRA)           FW   2013-
+23    Danny Welbeck               FW   2014-
+27    Serge Gnabry (GER)          FW   2012-
+28    Joel Campbell (CRC)         FW   2011-
 ~~~
 
 
