@@ -1,33 +1,39 @@
 ###############################
 #   Manchester City 2014/15
+#
+#  - en.wikipedia.org/wiki/Manchester_City_F.C.#First_team_squad
+#  - en.wikipedia.org/wiki/2014–15_Manchester_City_F.C._season#First_team_squad
+#
+#  (c)   captain
+#  (vc)  vice-captain
 
-(1)    Joe Hart               GK
-(13)   Willy Caballero (ARG)  GK
-(29)   Richard Wright         GK
+1    Joe Hart               GK
+13   Willy Caballero (ARG)  GK
+29   Richard Wright         GK
 
-(2)    Micah Richards             DF
-(3)    Bacary Sagna (FRA)         DF
-(4)  (c)  Vincent Kompany (BEL)   DF
-(5)    Pablo Zabaleta (ARG)       DF
-(11)   Aleksandar Kolarov (SRB)   DF
-(22)   Gaël Clichy (FRA)          DF
-(26)   Martín Demichelis (ARG)    DF
-(33)   Matija Nastasić (SRB)      DF
-(38)   Dedryck Boyata (BEL)       DF
+3    Bacary Sagna (FRA)         DF
+4  (c) Vincent Kompany (BEL)    DF
+5    Pablo Zabaleta (ARG)       DF
+11   Aleksandar Kolarov (SRB)   DF
+20   Eliaquim Mangala (FRA)     DF
+22   Gaël Clichy (FRA)          DF
+26   Martín Demichelis (ARG)    DF
+33   Matija Nastasić (SRB)      DF
+38   Dedryck Boyata (BEL)       DF
 
-(6)    Fernando (BRA)        MF
-(7)    James Milner          MF
-(8)    Samir Nasri (FRA)     MF
-(12)   Scott Sinclair        MF
-(14)   Javi García (ESP)     MF
-(15)   Jesús Navas (ESP)     MF
-(17)   Jack Rodwell          MF
-(21)   David Silva (ESP)     MF
-(25)   Fernandinho (BRA)     MF
-(42)   Yaya Touré  (CIV)     MF
 
-(9)    Álvaro Negredo (ESP)  FW
-(10)   Edin Džeko (BIH)      FW
-(16)   Sergio Agüero  (ARG)  FW
-(35)   Stevan Jovetić (MNE)  FW
-(60)   John Guidetti  (SWE)  FW
+6    Fernando (BRA)        MF
+7    James Milner          MF
+8    Samir Nasri (FRA)     MF
+12   Scott Sinclair        MF
+15   Jesús Navas (ESP)     MF
+18   Frank Lampard         MF
+21   David Silva (ESP)     MF
+25   Fernandinho (BRA)     MF
+42 (vc) Yaya Touré  (CIV)  MF
+
+
+10   Edin Džeko (BIH)      FW
+16   Sergio Agüero  (ARG)  FW
+35   Stevan Jovetić (MNE)  FW
+
