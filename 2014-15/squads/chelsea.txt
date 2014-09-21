@@ -2,38 +2,36 @@
 #   Chelsea FC 2014/15
 #
 #  - en.wikipedia.org/wiki/2014–15_Chelsea_F.C._season#First_team_squad
+#
+#  (c)   captain
+#  (vc)  vice-captain
 
 
-(1)    Petr Čech (CZE)           GK  2004-
-(23)   Mark Schwarzer (AUS)      GK
-(46)   Jamal Blackman            GK
--      Thibaut Courtois (BEL)    GK
+1  (vc) Petr Čech (CZE)        GK  2004-
+13   Thibaut Courtois (BEL)    GK  2011-
+23   Mark Schwarzer (AUS)      GK  2013-
 
-(2)    Branislav Ivanović (SRB)  DF  2008-
-(5)    Filipe Luís (BRA)         DF  2014-
-(24)   Gary Cahill               DF  2012-
-(26) (c) John Terry              DF  1998-
-(27)   Nathan Aké  (NED)         DF  2012-
-(28)   César Azpilicueta (ESP)   DF  2012-
-(34)   Ryan Bertrand             DF  2011-
--      Kurt Zouma (FRA)          DF
+2    Branislav Ivanović (SRB)  DF  2008-
+3    Filipe Luís (BRA)         DF  2014-
+5    Kurt Zouma (FRA)          DF  2014-
+6    Nathan Aké  (NED)         DF  2012-
+24   Gary Cahill               DF  2012-
+26 (c) John Terry              DF  1998-
+28   César Azpilicueta (ESP)   DF  2012-
+31   Andreas Christensen (DEN) DF  2014-
 
-(4)    Cesc Fàbregas (ESP)       MF  2014-
-(6)    Oriol Romeu (ESP)         MF  2011-
-(7)    Ramires (BRA)             MF  2010-
-(10)   Eden Hazard (BEL)         MF  2012-
-(11)   Oscar (BRA)               MF  2012-
-(12)   John Obi Mikel (NGA)      MF
-(15)   Mohamed Salah (EGY)       MF
-(16)   Marco van Ginkel (NED)    MF
-(20)   Josh McEachran            MF
-(21)   Nemanja Matić (SRB)       MF
-(22)   Willian  (BRA)            MF  2013-
--      Marko Marin (GER)         MF
+4    Cesc Fàbregas (ESP)       MF  2014-
+7    Ramires (BRA)             MF  2010-
+8    Oscar (BRA)               MF  2012-
+10   Eden Hazard (BEL)         MF  2012-
+12   John Obi Mikel (NGA)      MF  2006-
+14   André Schürrle (GER)      MF  2013-
+17   Mohamed Salah (EGY)       MF  2014-
+21   Nemanja Matić (SRB)       MF  2014-
+22   Willian  (BRA)            MF  2013-
+34   Lewis Baker               MF  2014-
 
-(9)    Fernando Torres (ESP)     FW  2011-
-(13)   Victor Moses (NGA)        FW 
-(14)   André Schürrle (GER)      FW  2013-
-(18)   Romelu Lukaku (BEL)       FW
-(19)   Diego Costa (ESP)         FW  2014-
+11   Didier Drogba (CIV)       FW  2014-
+18   Loïc Rémy (FRA)           FW  2014-
+19   Diego Costa (ESP)         FW  2014-
 
