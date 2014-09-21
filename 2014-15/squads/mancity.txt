@@ -7,33 +7,33 @@
 #  (c)   captain
 #  (vc)  vice-captain
 
-1    Joe Hart               GK
-13   Willy Caballero (ARG)  GK
-29   Richard Wright         GK
+1    Joe Hart               GK   2006- 
+13   Willy Caballero (ARG)  GK   2014-
+29   Richard Wright         GK   2012-
 
-3    Bacary Sagna (FRA)         DF
-4  (c) Vincent Kompany (BEL)    DF
-5    Pablo Zabaleta (ARG)       DF
-11   Aleksandar Kolarov (SRB)   DF
-20   Eliaquim Mangala (FRA)     DF
-22   Gaël Clichy (FRA)          DF
-26   Martín Demichelis (ARG)    DF
-33   Matija Nastasić (SRB)      DF
-38   Dedryck Boyata (BEL)       DF
-
-
-6    Fernando (BRA)        MF
-7    James Milner          MF
-8    Samir Nasri (FRA)     MF
-12   Scott Sinclair        MF
-15   Jesús Navas (ESP)     MF
-18   Frank Lampard         MF
-21   David Silva (ESP)     MF
-25   Fernandinho (BRA)     MF
-42 (vc) Yaya Touré  (CIV)  MF
+3    Bacary Sagna (FRA)         DF   2014-
+4  (c) Vincent Kompany (BEL)    DF   2008-
+5    Pablo Zabaleta (ARG)       DF   2008-
+11   Aleksandar Kolarov (SRB)   DF   2010-
+20   Eliaquim Mangala (FRA)     DF   2014-
+22   Gaël Clichy (FRA)          DF   2011-
+26   Martín Demichelis (ARG)    DF   2013-
+33   Matija Nastasić (SRB)      DF   2012-
+38   Dedryck Boyata (BEL)       DF   2006-
 
 
-10   Edin Džeko (BIH)      FW
-16   Sergio Agüero  (ARG)  FW
-35   Stevan Jovetić (MNE)  FW
+6    Fernando (BRA)        MF   2014-
+7    James Milner          MF   2010-
+8    Samir Nasri (FRA)     MF   2011-
+12   Scott Sinclair        MF   2012-
+15   Jesús Navas (ESP)     MF   2013-
+18   Frank Lampard         MF   2014-
+21   David Silva (ESP)     MF   2010-
+25   Fernandinho (BRA)     MF   2013-
+42 (vc) Yaya Touré  (CIV)  MF   2010-
+
+
+10   Edin Džeko (BIH)      FW   2011-
+16   Sergio Agüero  (ARG)  FW   2011-
+35   Stevan Jovetić (MNE)  FW   2013-
 
