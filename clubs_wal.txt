@@ -1,13 +1,13 @@
 #######################
-# Wales (WAL), wa
+# Wales (WAL), wal
 
 # note: welsh clubs playing in english premiere league or championship etc. listed here
 #   all other welsh clubs listed in clubs/europe/clubs_western
 
 
-swansea, Swansea City|Swansea,  SWA, wa, city:swansea
+swansea, Swansea City|Swansea,  SWA, wal, city:swansea
 
 
 # note: plays in english championship league
-cardiff,    Cardiff City,          CAR, wa, city:cardiff
+cardiff,    Cardiff City,          CAR, wal, city:cardiff
 
