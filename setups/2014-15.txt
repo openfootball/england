@@ -1,12 +1,12 @@
 
 # - Leagues
-en-england!/leagues
+eng-england!/leagues
 
 # - Clubs
-en-england!/clubs
-en-england!/clubs_2
-en-england!/clubs_wal
+eng-england!/clubs
+eng-england!/clubs_2
+eng-england!/clubs_wal
 
 # - 2014/15
-en-england!/2014-15/1-premierleague
+eng-england!/2014-15/1-premierleague
 
