@@ -202,7 +202,7 @@ Matchday 32
 Matchday 33
 
 [Sat Apr/18]
-  Arsenal FC  Sunderland AFC  20.5
+  Arsenal FC            0-0  Sunderland AFC  
   Aston Villa           3-3  Queens Park Rangers  
   Chelsea FC            1-0  Manchester United  
   Crystal Palace        0-2  West Bromwich Albion  
@@ -270,7 +270,7 @@ Matchday 37
   Sunderland AFC        0-0  Leicester City
   Swansea City          2-4  Manchester City
   Tottenham Hotspur     2-0  Hull City
-  West Bromwich Albion  Chelsea FC
+  West Bromwich Albion  3-0  Chelsea FC
   West Ham United       1-2  Everton FC
 
 
