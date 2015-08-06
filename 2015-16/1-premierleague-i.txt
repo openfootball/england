@@ -4,54 +4,54 @@
 
 Matchday 1
 
-[Sa Aug/8]
+[Sat Aug/8]
   Manchester United  -  Tottenham Hotspur
   AFC Bournemouth  -  Aston Villa
   Everton FC  -  Watford FC
   Leicester City  -  Sunderland AFC
   Norwich City  -  Crystal Palace
   Chelsea FC  -  Swansea City
-[Su Aug/9]
+[Sun Aug/9]
   Arsenal FC  -  West Ham United
   Newcastle United  -  Southampton FC
   Stoke City  -  Liverpool FC
-[Mo Aug/10]
+[Mon Aug/10]
   West Bromwich Albion  -  Manchester City
 
 Matchday 2
 
-[Fr Aug/14]
+[Fri Aug/14]
   Aston Villa  -  Manchester United
-[Sa Aug/15]
+[Sat Aug/15]
   Southampton FC  -  Everton FC
   Sunderland AFC  -  Norwich City
   Swansea City  -  Newcastle United
   Tottenham Hotspur  -  Stoke City
   Watford FC  -  West Bromwich Albion
   West Ham United  -  Leicester City
-[Su Aug/16]
+[Sun Aug/16]
   Crystal Palace  -  Arsenal FC
   Manchester City  -  Chelsea FC
-[Mo Aug/17]
+[Mon Aug/17]
   Liverpool FC  -  AFC Bournemouth
 
 Matchday 3
-[Sa Aug/22]
+[Sat Aug/22]
   Manchester United  -  Newcastle United
   Crystal Palace  -  Aston Villa
   Leicester City  -  Tottenham Hotspur
   Norwich City  -  Stoke City
   Sunderland AFC  -  Swansea City
   West Ham United  -  AFC Bournemouth
-[Su Aug/23]
+[Sun Aug/23]
   West Bromwich Albion  -  Chelsea FC
   Everton FC  -  Manchester City
   Watford FC  -  Southampton FC
-[Mo Aug/24]
+[Mon Aug/24]
   Arsenal FC  -  Liverpool FC
 
 Matchday 4
-[Sa Aug/29]
+[Sat Aug/29]
   Newcastle United  -  Arsenal FC
   AFC Bournemouth  -  Leicester City
   Aston Villa  -  Sunderland AFC
@@ -60,13 +60,13 @@ Matchday 4
   Manchester City  -  Watford FC
   Stoke City  -  West Bromwich Albion
   Tottenham Hotspur  -  Everton FC
-[Su Aug/30]
+[Sun Aug/30]
   Southampton FC  -  Norwich City
   Swansea City  -  Manchester United
 
 Matchday 5
 
-[Sa Sept/12]
+[Sat Sept/12]
   Everton FC  -  Chelsea FC
   Arsenal FC  -  Stoke City
   Crystal Palace  -  Manchester City
@@ -74,15 +74,15 @@ Matchday 5
   Watford FC  -  Swansea City
   West Bromwich Albion  -  Southampton FC
   Manchester United  -  Liverpool FC
-[Su Sept/13]
+[Sun Sept/13]
   Sunderland AFC  -  Tottenham Hotspur
   Leicester City  -  Aston Villa
-[Mo Sept/14]
+[Mon Sept/14]
   West Ham United  -  Newcastle United
 
 Matchday 6
 
-[Sa Sept/19]
+[Sat Sept/19]
   Chelsea FC  -  Arsenal FC
   AFC Bournemouth  -  Sunderland AFC
   Aston Villa  -  West Bromwich Albion
@@ -90,14 +90,14 @@ Matchday 6
   Stoke City  -  Leicester City
   Swansea City  -  Everton FC
   Manchester City  -  West Ham United
-[Su Sept/20]
+[Sun Sept/20]
   Tottenham Hotspur  -  Crystal Palace
   Liverpool FC  -  Norwich City
   Southampton FC  -  Manchester United
 
 Matchday 7
 
-[Sa Sept/26]
+[Sat Sept/26]
   Tottenham Hotspur  -  Manchester City
   Leicester City  -  Arsenal FC
   Liverpool FC  -  Aston Villa
@@ -106,13 +106,13 @@ Matchday 7
   Stoke City  -  AFC Bournemouth
   West Ham United  -  Norwich City
   Newcastle United  -  Chelsea FC
-[Su Sept/27]
+[Sun Sept/27]
   Watford FC  -  Crystal Palace
-[Mo Sept/28]
+[Mon Sept/28]
   West Bromwich Albion  -  Everton FC
 
 Matchday 8
-[Sa Oct/3]
+[Sat Oct/3]
   AFC Bournemouth  -  Watford FC
   Arsenal FC  -  Manchester United
   Aston Villa  -  Stoke City
@@ -125,7 +125,7 @@ Matchday 8
   Swansea City  -  Tottenham Hotspur
 
 Matchday 9
-[Sa Oct/17]
+[Sat Oct/17]
 Chelsea FC  -  Aston Villa
 Crystal Palace  -  West Ham United
 Everton FC  -  Manchester United
@@ -138,7 +138,7 @@ Watford FC  -  Arsenal FC
 West Bromwich Albion  -  Sunderland AFC
 
 Matchday 10
-[Sa Oct/24]
+[Sat Oct/24]
 AFC Bournemouth  -  Tottenham Hotspur
 Arsenal FC  -  Everton FC
 Aston Villa  -  Swansea City
@@ -151,7 +151,7 @@ Sunderland AFC  -  Newcastle United
 West Ham United  -  Chelsea FC
 
 Matchday 11
-[Sa Oct/31]
+[Sat Oct/31]
 Chelsea FC  -  Liverpool FC
 Crystal Palace  -  Manchester United
 Everton FC  -  Sunderland AFC
@@ -164,7 +164,7 @@ Watford FC  -  West Ham United
 West Bromwich Albion  -  Leicester City
 
 Matchday 12
-[Sa Nov/7]
+[Sat Nov/7]
 AFC Bournemouth  -  Newcastle United
 Arsenal FC  -  Tottenham Hotspur
 Aston Villa  -  Manchester City
@@ -177,7 +177,7 @@ Sunderland AFC  -  Southampton FC
 West Ham United  -  Everton FC
 
 Matchday 13
-[Sa Nov/21]
+[Sat Nov/21]
 Chelsea FC  -  Norwich City
 Crystal Palace  -  Sunderland AFC
 Everton FC  -  Aston Villa
@@ -190,7 +190,7 @@ Watford FC  -  Manchester United
 West Bromwich Albion  -  Arsenal FC
 
 Matchday 14
-[Sa Nov/28]
+[Sat Nov/28]
 AFC Bournemouth  -  Everton FC
 Aston Villa  -  Watford FC
 Crystal Palace  -  Newcastle United
@@ -203,7 +203,7 @@ Tottenham Hotspur  -  Chelsea FC
 West Ham United  -  West Bromwich Albion
 
 Matchday 15
-[Sa Dec/5]
+[Sat Dec/5]
 Arsenal FC  -  Sunderland AFC
 Chelsea FC  -  AFC Bournemouth
 Everton FC  -  Crystal Palace
@@ -216,7 +216,7 @@ Watford FC  -  Norwich City
 West Bromwich Albion  -  Tottenham Hotspur
 
 Matchday 16
-[Sa Dec/12]
+[Sat Dec/12]
 AFC Bournemouth  -  Manchester United
 Aston Villa  -  Arsenal FC
 Crystal Palace  -  Southampton FC
@@ -229,7 +229,7 @@ Tottenham Hotspur  -  Newcastle United
 West Ham United  -  Stoke City
 
 Matchday 17
-[Sa Dec/19]
+[Sat Dec/19]
 Arsenal FC  -  Manchester City
 Chelsea FC  -  Sunderland AFC
 Everton FC  -  Leicester City
@@ -242,7 +242,7 @@ Watford FC  -  Liverpool FC
 West Bromwich Albion  -  AFC Bournemouth
 
 Matchday 18
-[Sa Dec/26]
+[Sat Dec/26]
 AFC Bournemouth  -  Crystal Palace
 Aston Villa  -  West Ham United
 Chelsea FC  -  Watford FC
@@ -255,7 +255,7 @@ Swansea City  -  West Bromwich Albion
 Tottenham Hotspur  -  Norwich City
 
 Matchday 19
-[Mo Dec/28]
+[Mon Dec/28]
 Arsenal FC  -  AFC Bournemouth
 Crystal Palace  -  Swansea City
 Everton FC  -  Stoke City
