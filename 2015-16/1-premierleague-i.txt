@@ -1,0 +1,269 @@
+####################################
+# English Premier League 2015/16
+
+
+Matchday 1
+
+[Sa Aug/8]
+  Manchester United  -  Tottenham Hotspur
+  AFC Bournemouth  -  Aston Villa
+  Everton FC  -  Watford FC
+  Leicester City  -  Sunderland AFC
+  Norwich City  -  Crystal Palace
+  Chelsea FC  -  Swansea City
+[So Aug/9]
+  Arsenal FC  -  West Ham United
+  Newcastle United  -  Southampton FC
+  Stoke City  -  Liverpool FC
+[Mo Aug/10]
+  West Bromwich Albion  -  Manchester City
+
+Matchday 2
+
+[Fr Aug/14]
+  Aston Villa  -  Manchester United
+[Sa Aug/15]
+  Southampton FC  -  Everton FC
+  Sunderland AFC  -  Norwich City
+  Swansea City  -  Newcastle United
+  Tottenham Hotspur  -  Stoke City
+  Watford FC  -  West Bromwich Albion
+  West Ham United  -  Leicester City
+[So Aug/16]
+  Crystal Palace  -  Arsenal FC
+  Manchester City  -  Chelsea FC
+[Mo Aug/17]
+  Liverpool FC  -  AFC Bournemouth
+
+Matchday 3
+[Sa Aug/22]
+  Manchester United  -  Newcastle United
+  Crystal Palace  -  Aston Villa
+  Leicester City  -  Tottenham Hotspur
+  Norwich City  -  Stoke City
+  Sunderland AFC  -  Swansea City
+  West Ham United  -  AFC Bournemouth
+[So Aug/23]
+  West Bromwich Albion  -  Chelsea FC
+  Everton FC  -  Manchester City
+  Watford FC  -  Southampton FC
+[Mo Aug/24]
+  Arsenal FC  -  Liverpool FC
+
+Matchday 4
+[Sa Aug/29]
+  Newcastle United  -  Arsenal FC
+  AFC Bournemouth  -  Leicester City
+  Aston Villa  -  Sunderland AFC
+  Chelsea FC  -  Crystal Palace
+  Liverpool FC  -  West Ham United
+  Manchester City  -  Watford FC
+  Stoke City  -  West Bromwich Albion
+  Tottenham Hotspur  -  Everton FC
+[So Aug/30]
+  Southampton FC  -  Norwich City
+  Swansea City  -  Manchester United
+
+Matchday 5
+
+[Sa Sept/12]
+  Everton FC  -  Chelsea FC
+  Arsenal FC  -  Stoke City
+  Crystal Palace  -  Manchester City
+  Norwich City  -  AFC Bournemouth
+  Watford FC  -  Swansea City
+  West Bromwich Albion  -  Southampton FC
+  Manchester United  -  Liverpool FC
+[So Sept/13]
+  Sunderland AFC  -  Tottenham Hotspur
+  Leicester City  -  Aston Villa
+[Mo Sept/14]
+  West Ham United  -  Newcastle United
+
+Matchday 6
+
+[Sa Sept/19]
+  Chelsea FC  -  Arsenal FC
+  AFC Bournemouth  -  Sunderland AFC
+  Aston Villa  -  West Bromwich Albion
+  Newcastle United  -  Watford FC
+  Stoke City  -  Leicester City
+  Swansea City  -  Everton FC
+  Manchester City  -  West Ham United
+[So Sept/20]
+  Tottenham Hotspur  -  Crystal Palace
+  Liverpool FC  -  Norwich City
+  Southampton FC  -  Manchester United
+
+Matchday 7
+
+[Sa Sept/26]
+  Tottenham Hotspur  -  Manchester City
+  Leicester City  -  Arsenal FC
+  Liverpool FC  -  Aston Villa
+  Manchester United  -  Sunderland AFC
+  Southampton FC  -  Swansea City
+  Stoke City  -  AFC Bournemouth
+  West Ham United  -  Norwich City
+  Newcastle United  -  Chelsea FC
+[So Sept/27]
+  Watford FC  -  Crystal Palace
+[Mo Sept/28]
+  West Bromwich Albion  -  Everton FC
+
+Matchday 8
+[Sa Oct/3]
+  AFC Bournemouth  -  Watford FC
+  Arsenal FC  -  Manchester United
+  Aston Villa  -  Stoke City
+  Chelsea FC  -  Southampton FC
+  Crystal Palace  -  West Bromwich Albion
+  Everton FC  -  Liverpool FC
+  Manchester City  -  Newcastle United
+  Norwich City  -  Leicester City
+  Sunderland AFC  -  West Ham United
+  Swansea City  -  Tottenham Hotspur
+
+Matchday 9
+[Sa Oct/17]
+Chelsea FC  -  Aston Villa
+Crystal Palace  -  West Ham United
+Everton FC  -  Manchester United
+Manchester City  -  AFC Bournemouth
+Newcastle United  -  Norwich City
+Southampton FC  -  Leicester City
+Swansea City  -  Stoke City
+Tottenham Hotspur  -  Liverpool FC
+Watford FC  -  Arsenal FC
+West Bromwich Albion  -  Sunderland AFC
+
+Matchday 10
+[Sa Oct/24]
+AFC Bournemouth  -  Tottenham Hotspur
+Arsenal FC  -  Everton FC
+Aston Villa  -  Swansea City
+Leicester City  -  Crystal Palace
+Liverpool FC  -  Southampton FC
+Manchester United  -  Manchester City
+Norwich City  -  West Bromwich Albion
+Stoke City  -  Watford FC
+Sunderland AFC  -  Newcastle United
+West Ham United  -  Chelsea FC
+
+Matchday 11
+[Sa Oct/31]
+Chelsea FC  -  Liverpool FC
+Crystal Palace  -  Manchester United
+Everton FC  -  Sunderland AFC
+Manchester City  -  Norwich City
+Newcastle United  -  Stoke City
+Southampton FC  -  AFC Bournemouth
+Swansea City  -  Arsenal FC
+Tottenham Hotspur  -  Aston Villa
+Watford FC  -  West Ham United
+West Bromwich Albion  -  Leicester City
+
+Matchday 12
+[Sa Nov/7]
+AFC Bournemouth  -  Newcastle United
+Arsenal FC  -  Tottenham Hotspur
+Aston Villa  -  Manchester City
+Leicester City  -  Watford FC
+Liverpool FC  -  Crystal Palace
+Manchester United  -  West Bromwich Albion
+Norwich City  -  Swansea City
+Stoke City  -  Chelsea FC
+Sunderland AFC  -  Southampton FC
+West Ham United  -  Everton FC
+
+Matchday 13
+[Sa Nov/21]
+Chelsea FC  -  Norwich City
+Crystal Palace  -  Sunderland AFC
+Everton FC  -  Aston Villa
+Manchester City  -  Liverpool FC
+Newcastle United  -  Leicester City
+Southampton FC  -  Stoke City
+Swansea City  -  AFC Bournemouth
+Tottenham Hotspur  -  West Ham United
+Watford FC  -  Manchester United
+West Bromwich Albion  -  Arsenal FC
+
+Matchday 14
+[Sa Nov/28]
+AFC Bournemouth  -  Everton FC
+Aston Villa  -  Watford FC
+Crystal Palace  -  Newcastle United
+Leicester City  -  Manchester United
+Liverpool FC  -  Swansea City
+Manchester City  -  Southampton FC
+Norwich City  -  Arsenal FC
+Sunderland AFC  -  Stoke City
+Tottenham Hotspur  -  Chelsea FC
+West Ham United  -  West Bromwich Albion
+
+Matchday 15
+[Sa Dec/5]
+Arsenal FC  -  Sunderland AFC
+Chelsea FC  -  AFC Bournemouth
+Everton FC  -  Crystal Palace
+Manchester United  -  West Ham United
+Newcastle United  -  Liverpool FC
+Southampton FC  -  Aston Villa
+Stoke City  -  Manchester City
+Swansea City  -  Leicester City
+Watford FC  -  Norwich City
+West Bromwich Albion  -  Tottenham Hotspur
+
+Matchday 16
+[Sa Dec/12]
+AFC Bournemouth  -  Manchester United
+Aston Villa  -  Arsenal FC
+Crystal Palace  -  Southampton FC
+Leicester City  -  Chelsea FC
+Liverpool FC  -  West Bromwich Albion
+Manchester City  -  Swansea City
+Norwich City  -  Everton FC
+Sunderland AFC  -  Watford FC
+Tottenham Hotspur  -  Newcastle United
+West Ham United  -  Stoke City
+
+Matchday 17
+[Sa Dec/19]
+Arsenal FC  -  Manchester City
+Chelsea FC  -  Sunderland AFC
+Everton FC  -  Leicester City
+Manchester United  -  Norwich City
+Newcastle United  -  Aston Villa
+Southampton FC  -  Tottenham Hotspur
+Stoke City  -  Crystal Palace
+Swansea City  -  West Ham United
+Watford FC  -  Liverpool FC
+West Bromwich Albion  -  AFC Bournemouth
+
+Matchday 18
+[Sa Dec/26]
+AFC Bournemouth  -  Crystal Palace
+Aston Villa  -  West Ham United
+Chelsea FC  -  Watford FC
+Liverpool FC  -  Leicester City
+Manchester City  -  Sunderland AFC
+Newcastle United  -  Everton FC
+Southampton FC  -  Arsenal FC
+Stoke City  -  Manchester United
+Swansea City  -  West Bromwich Albion
+Tottenham Hotspur  -  Norwich City
+
+Matchday 19
+[Mo Dec/28]
+Arsenal FC  -  AFC Bournemouth
+Crystal Palace  -  Swansea City
+Everton FC  -  Stoke City
+Leicester City  -  Manchester City
+Manchester United  -  Chelsea FC
+Norwich City  -  Aston Villa
+Sunderland AFC  -  Liverpool FC
+Watford FC  -  Tottenham Hotspur
+West Bromwich Albion  -  Newcastle United
+West Ham United  -  Southampton FC
+
