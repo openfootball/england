@@ -3,7 +3,7 @@
 
 
 Matchday 20
-[Sa Jan/2]
+[Sat Jan/2]
 Arsenal FC  -  Newcastle United
 Crystal Palace  -  Chelsea FC
 Everton FC  -  Tottenham Hotspur
@@ -16,12 +16,12 @@ West Bromwich Albion  -  Stoke City
 West Ham United  -  Liverpool FC
 
 Matchday 21
-[Tu Jan/12]
+[Tue Jan/12]
   AFC Bournemouth  -  West Ham United
   Aston Villa  -  Crystal Palace
   Liverpool FC  -  Arsenal FC
   Swansea City  -  Sunderland AFC
-[We Jan/13]
+[Wed Jan/13]
   Chelsea FC  -  West Bromwich Albion
   Manchester City  -  Everton FC
   Newcastle United  -  Manchester United
@@ -30,7 +30,7 @@ Matchday 21
   Tottenham Hotspur  -  Leicester City
 
 Matchday 22
-[Sa Jan/16]
+[Sat Jan/16]
 AFC Bournemouth  -  Norwich City
 Aston Villa  -  Leicester City
 Chelsea FC  -  Everton FC
@@ -43,7 +43,7 @@ Swansea City  -  Watford FC
 Tottenham Hotspur  -  Sunderland AFC
 
 Matchday 23
-[Sa Jan/23]
+[Sat Jan/23]
 Arsenal FC  -  Chelsea FC
 Crystal Palace  -  Tottenham Hotspur
 Everton FC  -  Swansea City
@@ -56,7 +56,7 @@ West Bromwich Albion  -  Aston Villa
 West Ham United  -  Manchester City
 
 Matchday 24
-[Tu Feb/2]
+[Tue Feb/2]
   Arsenal FC  -  Southampton FC
   Crystal Palace  -  AFC Bournemouth
   Leicester City  -  Liverpool FC
@@ -66,11 +66,11 @@ Matchday 24
   Watford FC  -  Chelsea FC
   West Bromwich Albion  -  Swansea City
   West Ham United  -  Aston Villa
-[We Feb/3]
+[Wed Feb/3]
   Everton FC  -  Newcastle United
 
 Matchday 25
-[Sa Feb/6]
+[Sat Feb/6]
 AFC Bournemouth  -  Arsenal FC
 Aston Villa  -  Norwich City
 Chelsea FC  -  Manchester United
@@ -83,7 +83,7 @@ Swansea City  -  Crystal Palace
 Tottenham Hotspur  -  Watford FC
 
 Matchday 26
-[Sa Feb/13]
+[Sat Feb/13]
 AFC Bournemouth  -  Stoke City
 Arsenal FC  -  Leicester City
 Aston Villa  -  Liverpool FC
@@ -96,7 +96,7 @@ Sunderland AFC  -  Manchester United
 Swansea City  -  Southampton FC
 
 Matchday 27
-[Sa Feb/27]
+[Sat Feb/27]
 Leicester City  -  Norwich City
 Liverpool FC  -  Everton FC
 Manchester United  -  Arsenal FC
@@ -109,7 +109,7 @@ West Bromwich Albion  -  Crystal Palace
 West Ham United  -  Sunderland AFC
 
 Matchday 28
-[Tu Mar/1]
+[Tue Mar/1]
   AFC Bournemouth  -  Southampton FC
   Arsenal FC  -  Swansea City
   Aston Villa  -  Everton FC
@@ -122,7 +122,7 @@ Matchday 28
   Stoke City  -  Newcastle United
 
 Matchday 29
-[Sa Mar/5]
+[Sat Mar/5]
 Chelsea FC  -  Stoke City
 Crystal Palace  -  Liverpool FC
 Everton FC  -  West Ham United
@@ -135,7 +135,7 @@ Watford FC  -  Leicester City
 West Bromwich Albion  -  Manchester United
 
 Matchday 30
-[Sa Mar/12]
+[Sat Mar/12]
 AFC Bournemouth  -  Swansea City
 Arsenal FC  -  West Bromwich Albion
 Aston Villa  -  Tottenham Hotspur
@@ -148,7 +148,7 @@ Sunderland AFC  -  Everton FC
 West Ham United  -  Watford FC
 
 Matchday 31
-[Sa Mar/19]
+[Sat Mar/19]
 Chelsea FC  -  West Ham United
 Crystal Palace  -  Leicester City
 Everton FC  -  Arsenal FC
@@ -161,7 +161,7 @@ Watford FC  -  Stoke City
 West Bromwich Albion  -  Norwich City
 
 Matchday 32
-[Sa Apr/2]
+[Sat Apr/2]
 AFC Bournemouth  -  Manchester City
 Arsenal FC  -  Watford FC
 Aston Villa  -  Chelsea FC
@@ -174,7 +174,7 @@ Sunderland AFC  -  West Bromwich Albion
 West Ham United  -  Crystal Palace
 
 Matchday 33
-[Sa Apr/9]
+[Sat Apr/9]
 Aston Villa  -  AFC Bournemouth
 Crystal Palace  -  Norwich City
 Liverpool FC  -  Stoke City
@@ -187,7 +187,7 @@ Watford FC  -  Everton FC
 West Ham United  -  Arsenal FC
 
 Matchday 34
-[Sa Apr/16]
+[Sat Apr/16]
 AFC Bournemouth  -  Liverpool FC
 Arsenal FC  -  Crystal Palace
 Chelsea FC  -  Manchester City
@@ -200,7 +200,7 @@ Stoke City  -  Tottenham Hotspur
 West Bromwich Albion  -  Watford FC
 
 Matchday 35
-[Sa Apr/23]
+[Sat Apr/23]
 AFC Bournemouth  -  Chelsea FC
 Aston Villa  -  Southampton FC
 Crystal Palace  -  Everton FC
@@ -213,7 +213,7 @@ Tottenham Hotspur  -  West Bromwich Albion
 West Ham United  -  Manchester United
 
 Matchday 36
-[Sa Apr/30]
+[Sat Apr/30]
 Arsenal FC  -  Norwich City
 Chelsea FC  -  Tottenham Hotspur
 Everton FC  -  AFC Bournemouth
@@ -226,7 +226,7 @@ Watford FC  -  Aston Villa
 West Bromwich Albion  -  West Ham United
 
 Matchday 37
-[Sa May/7]
+[Sat May/7]
 AFC Bournemouth  -  West Bromwich Albion
 Aston Villa  -  Newcastle United
 Crystal Palace  -  Stoke City
@@ -239,7 +239,7 @@ Tottenham Hotspur  -  Southampton FC
 West Ham United  -  Swansea City
 
 Matchday 38
-[Su May/15]
+[Sun May/15]
 Arsenal FC  -  Aston Villa
 Chelsea FC  -  Leicester City
 Everton FC  -  Norwich City
