@@ -1,0 +1,33 @@
+############################
+# Premier League 2015/16
+
+league: en
+season: 2015/16
+start_at: 2015-08-08
+
+fixtures:
+- 1-premierleague-i
+- 1-premierleague-ii
+
+
+20 teams:
+- Manchester United
+- Tottenham Hotspur
+- AFC Bournemouth
+- Aston Villa
+- Everton FC
+- Watford FC
+- Leicester City
+- Sunderland AFC
+- Norwich City
+- Crystal Palace
+- Chelsea FC
+- Swansea City
+- Arsenal FC
+- West Ham United
+- Newcastle United
+- Southampton FC
+- Stoke City
+- Liverpool FC
+- West Bromwich Albion
+- Manchester City
