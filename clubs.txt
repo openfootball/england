@@ -11,14 +11,14 @@
   wikipedia: Chelsea_F.C.
 
 [arsenal]
-  Arsenal|Arsenal FC|FC Arsenal,  1886, ARS
+  Arsenal|Arsenal FC|FC Arsenal, 1886, ARS
   // London
   www.arsenal.com
   wikipedia: Arsenal_F.C.
 
 
 [tottenham]
-  Tottenham Hotspur|Tottenham|Spurs, 1882 TOT
+  Tottenham Hotspur|Tottenham|Spurs, 1882, TOT
   // London
   www.tottenhamhotspur.com
   wikipedia: Tottenham_Hotspur_F.C.
@@ -44,7 +44,7 @@
 
 
 [manutd]
-  Manchester United|Man Utd|Manchester U., 1878,  MUN
+  Manchester United|Man Utd|Manchester U., 1878, MUN
   // Manchester
   www.manutd.com
   wikipedia: Manchester_United_F.C.
@@ -82,7 +82,7 @@
   wikipedia: Newcastle_United_F.C.
 
 [stoke]
-  Stoke City|Stoke, 1863,  STK
+  Stoke City|Stoke, 1863, STK
   // Stoke-on-Trent
   www.stokecityfc.com
   wikipedia: Stoke_City_F.C.
