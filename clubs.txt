@@ -16,7 +16,6 @@
   www.arsenal.com
   wikipedia: Arsenal_F.C.
 
-
 [tottenham]
   Tottenham Hotspur|Tottenham|Spurs, 1882, TOT
   // London
@@ -41,8 +40,6 @@
   www.cpfc.co.uk
   wikipedia: Crystal_Palace_F.C.
 
-
-
 [manutd]
   Manchester United|Man Utd|Manchester U., 1878, MUN
   // Manchester
@@ -55,7 +52,6 @@
   www.mcfc.co.uk
   wikipedia: Manchester_City_F.C.
 
-
 [everton]
   Everton|Everton FC|FC Everton, 1878, EVE
   // Liverpool
@@ -67,7 +63,6 @@
   // Liverpool
   www.liverpoolfc.com
   wikipedia: Liverpool_F.C.
-
 
 [westbrom]
   West Bromwich Albion|West Brom|Albion, 1878, WBA
@@ -129,6 +124,24 @@
   www.burnleyfootballclub.com
   wikipedia: Burnley_F.C.
 
+[bournemouth]
+  Bournemouth|AFC Bournemouth|A.F.C. Bournemouth|Bournemouth FC, 1890, BOU
+  // Bournemouth
+  www.afcb.co.uk
+  wikipedia: A.F.C._Bournemouth
+
+[norwich]
+  Norwich|Norwich City|Norwich City FC|Norwich City F.C., 1890, NOR
+  // Norwich
+  www.canaries.co.uk
+  wikipedia: Norwich_City_F.C.
+
+[watford]
+  Watford|Watford FC|Watford F.C., 1881, WAT
+  // Watford
+  www.watfordfc.com/
+  wikipedia: Watford_F.C.
+
 
 ##
 # note:
@@ -136,3 +149,8 @@
 #   ++  Leicester City, Burnley, Queens Park Rangers
 #   --  Cardiff City, Fulham, Norwich City
 
+##
+# note:
+#  changes in 2015/16
+#   ++  Bournemouth, Watford, Norwich City
+#   --  Hull, Burnley, Queens Park Rangers
