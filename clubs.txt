@@ -105,6 +105,11 @@
   www.saintsfc.co.uk
   wikipedia: Southampton_F.C.
 
+[swansea]
+  Swansea|Swansea City|Swansea City FC, 1912, SWA
+  // Swansea
+  www.swanseacity.net
+  wikipedia: Swansea_City_A.F.C.
 
 [hull]
   Hull City|Hull, 1904, HUL
