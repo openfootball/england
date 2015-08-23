@@ -11,14 +11,13 @@
   wikipedia: Chelsea_F.C.
 
 [arsenal]
-  Arsenal|Arsenal FC|FC Arsenal,  1886, ARS
+  Arsenal|Arsenal FC|FC Arsenal, 1886, ARS
   // London
   www.arsenal.com
   wikipedia: Arsenal_F.C.
 
-
 [tottenham]
-  Tottenham Hotspur|Tottenham|Spurs, 1882 TOT
+  Tottenham Hotspur|Tottenham|Spurs, 1882, TOT
   // London
   www.tottenhamhotspur.com
   wikipedia: Tottenham_Hotspur_F.C.
@@ -41,10 +40,8 @@
   www.cpfc.co.uk
   wikipedia: Crystal_Palace_F.C.
 
-
-
 [manutd]
-  Manchester United|Man Utd|Manchester U., 1878,  MUN
+  Manchester United|Man Utd|Manchester U., 1878, MUN
   // Manchester
   www.manutd.com
   wikipedia: Manchester_United_F.C.
@@ -54,7 +51,6 @@
   // Manchester
   www.mcfc.co.uk
   wikipedia: Manchester_City_F.C.
-
 
 [everton]
   Everton|Everton FC|FC Everton, 1878, EVE
@@ -67,7 +63,6 @@
   // Liverpool
   www.liverpoolfc.com
   wikipedia: Liverpool_F.C.
-
 
 [westbrom]
   West Bromwich Albion|West Brom|Albion, 1878, WBA
@@ -82,7 +77,7 @@
   wikipedia: Newcastle_United_F.C.
 
 [stoke]
-  Stoke City|Stoke, 1863,  STK
+  Stoke City|Stoke, 1863, STK
   // Stoke-on-Trent
   www.stokecityfc.com
   wikipedia: Stoke_City_F.C.
@@ -105,6 +100,11 @@
   www.saintsfc.co.uk
   wikipedia: Southampton_F.C.
 
+[swansea]
+  Swansea|Swansea City|Swansea City FC, 1912, SWA
+  // Swansea
+  www.swanseacity.net
+  wikipedia: Swansea_City_A.F.C.
 
 [hull]
   Hull City|Hull, 1904, HUL
@@ -124,6 +124,24 @@
   www.burnleyfootballclub.com
   wikipedia: Burnley_F.C.
 
+[bournemouth]
+  Bournemouth|AFC Bournemouth|A.F.C. Bournemouth|Bournemouth FC, 1890, BOU
+  // Bournemouth
+  www.afcb.co.uk
+  wikipedia: A.F.C._Bournemouth
+
+[norwich]
+  Norwich|Norwich City|Norwich City FC|Norwich City F.C., 1890, NOR
+  // Norwich
+  www.canaries.co.uk
+  wikipedia: Norwich_City_F.C.
+
+[watford]
+  Watford|Watford FC|Watford F.C., 1881, WAT
+  // Watford
+  www.watfordfc.com/
+  wikipedia: Watford_F.C.
+
 
 ##
 # note:
@@ -131,3 +149,8 @@
 #   ++  Leicester City, Burnley, Queens Park Rangers
 #   --  Cardiff City, Fulham, Norwich City
 
+##
+# note:
+#  changes in 2015/16
+#   ++  Bournemouth, Watford, Norwich City
+#   --  Hull, Burnley, Queens Park Rangers
