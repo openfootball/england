@@ -1,0 +1,21 @@
+#######################
+# Wales (WAL), wal
+
+# note: welsh clubs playing in english premiere league or championship etc. listed here
+#   all other welsh clubs listed in clubs/europe/clubs_western
+
+
+[swansea]
+  Swansea|Swansea City|Swansea City FC, 1912, SWA
+  // Swansea
+  wal                  ## note: add country code (Wales)
+  www.swanseacity.net
+  wikipedia: Swansea_City_A.F.C.
+
+
+
+[cardiff]              ## note: plays in english championship league
+  Cardiff City, CAR
+  // Cardiff
+  wal                  ## note: add country code (Wales)
+

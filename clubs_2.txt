@@ -1,7 +1,0 @@
-
-norwich,     Norwich City|Norwich,                      NOR, city:norwich
-fulham,      Fulham|Fulham FC|FC Fulham,                FUL, city:london
-reading,     Reading|Reading FC|FC Reading,             RDG, city:reading
-wigan,       Wigan Athletic|Wigan,                      WIG, city:wigan
-
-

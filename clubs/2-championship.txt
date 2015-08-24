@@ -1,0 +1,32 @@
+
+[hull]
+  Hull City|Hull, 1904, HUL
+  // Kingston upon Hull
+  www.hullcitytigers.com
+  wikipedia: Hull_City_A.F.C.
+
+[burnley]
+  Burnley|Burnley FC, 1882, BUR
+  // Burnley
+  www.burnleyfootballclub.com
+  wikipedia: Burnley_F.C.
+
+[qpr]
+  Queens Park Rangers|Queens Park Rangers FC|QPR, 1882, QPR
+  // London
+  www.qpr.co.uk
+  wikipedia: Queens_Park_Rangers_F.C.
+
+
+[fulham]
+  Fulham|Fulham FC|FC Fulham,  FUL
+  // London
+
+[reading]
+  Reading|Reading FC|FC Reading, RDG
+  // Reading
+
+[wigan]
+  Wigan Athletic|Wigan, WIG,
+  // Wigan
+

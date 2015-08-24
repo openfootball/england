@@ -28,12 +28,6 @@
   www.whufc.com
   wikipedia: West_Ham_United_F.C.
 
-[qpr]
-  Queens Park Rangers|Queens Park Rangers FC|QPR, 1882, QPR
-  // London
-  www.qpr.co.uk
-  wikipedia: Queens_Park_Rangers_F.C.
-
 [crystalpalace]
   Crystal Palace|C Palace|Palace, 1905, CRY
   // London
@@ -100,17 +94,7 @@
   www.saintsfc.co.uk
   wikipedia: Southampton_F.C.
 
-[swansea]
-  Swansea|Swansea City|Swansea City FC, 1912, SWA
-  // Swansea
-  www.swanseacity.net
-  wikipedia: Swansea_City_A.F.C.
 
-[hull]
-  Hull City|Hull, 1904, HUL
-  // Kingston upon Hull
-  www.hullcitytigers.com
-  wikipedia: Hull_City_A.F.C.
 
 [leicester]
   Leicester City|Leicester|Leicester City FC, 1884, LEI
@@ -118,11 +102,6 @@
   www.lcfc.com
   wikipedia: Leicester_City_F.C.
 
-[burnley]
-  Burnley|Burnley FC, 1882, BUR
-  // Burnley
-  www.burnleyfootballclub.com
-  wikipedia: Burnley_F.C.
 
 [bournemouth]
   Bournemouth|AFC Bournemouth|A.F.C. Bournemouth|Bournemouth FC, 1890, BOU
@@ -136,10 +115,11 @@
   www.canaries.co.uk
   wikipedia: Norwich_City_F.C.
 
+
 [watford]
   Watford|Watford FC|Watford F.C., 1881, WAT
   // Watford
-  www.watfordfc.com/
+  www.watfordfc.com
   wikipedia: Watford_F.C.
 
 
@@ -148,9 +128,6 @@
 #  changes in 2014/15
 #   ++  Leicester City, Burnley, Queens Park Rangers
 #   --  Cardiff City, Fulham, Norwich City
-
-##
-# note:
 #  changes in 2015/16
 #   ++  Bournemouth, Watford, Norwich City
 #   --  Hull, Burnley, Queens Park Rangers

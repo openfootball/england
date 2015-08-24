@@ -27,7 +27,7 @@ manunited,   Manchester United|Man Utd|Manchester U.,   MUN
 ~~~
 
 ~~~
-### English Premier League 2014/15
+### English Premier League
 
 Matchday 1
 
@@ -50,7 +50,7 @@ Matchday 1
 
 ~~~
 ##########################
-# Arsenal 2014/15
+# Arsenal
 
 1    Wojciech Szczęsny (POL)      GK  2007-
 13   David Ospina (COL)           GK  2014-
@@ -86,6 +86,7 @@ Matchday 1
 ~~~
 
 
+
 ## Build Your Own `england.db` Copy
 
 Use the `sportdb` command line tool to build your own `england.db` copy
@@ -100,11 +101,11 @@ Note:  The English Premier League includes teams from Wales
 
 Build the database for all English (incl. Welsh) clubs, leagues and seasons:
 
-    $ rake build DATA=en
+    $ sportdb new en
 
-Build the database for the 2014/15 season:
+Build the database for the 2015/16 season:
 
-    $ rake build DATA=en_2014_15
+    $ sportdb new en2015-16
 
 
 
