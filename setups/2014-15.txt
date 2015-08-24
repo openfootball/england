@@ -3,9 +3,9 @@
 eng-england!/leagues
 
 # - Clubs
-eng-england!/clubs
-eng-england!/clubs_2
-eng-england!/clubs_wal
+eng-england!/clubs/1-premierleague
+eng-england!/clubs/2-championship
+eng-england!/clubs/wales
 
 # - 2014/15
 eng-england!/2014-15/1-premierleague
