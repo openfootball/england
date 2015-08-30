@@ -12,9 +12,9 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 Free open public domain football data for England (and Wales).
 National football club leagues include:
 
-Level |                                |           
------ | ------------------------------ | ----------
- I    |  English Premier League        |  20 Clubs  
+| Level |                               |           |
+| ----: | ----------------------------- | --------- | 
+|     I | English Premier League        | 20 Clubs  |
 
 
 Example:
