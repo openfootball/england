@@ -9,46 +9,47 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for England (and Wales). National football club leagues include:
+Free open public domain football data for England (and Wales).
+National football club leagues include:
 
-| Level |                                |            |
-| ----- | ------------------------------ | ---------- |
-| I     |  English Premier League        |  20 Clubs  |
+Level |                                |           
+----- | ------------------------------ | ----------
+ I    |  English Premier League        |  20 Clubs  
 
 
 Example:
 
-~~~
+```
 ### English Premier League
 
 chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE
 manunited,   Manchester United|Man Utd|Manchester U.,   MUN
 ...
-~~~
+```
 
-~~~
+```
 ### English Premier League
 
 Matchday 1
 
 [Sat Aug/16]
-  12.45  Manchester United    1-2  Swansea City
-  15.00  Leicester City       2-2  Everton FC
-  15.00  Queens Park Rangers  0-1  Hull City
-  15.00  Stoke City           0-1  Aston Villa
-  15.00  West Bromwich Albion 2-2  Sunderland AFC
-  15.00  West Ham United      0-1  Tottenham Hotspur
-  17.30  Arsenal FC           2-1  Crystal Palace
+  Manchester United    1-2  Swansea City
+  Leicester City       2-2  Everton FC
+  Queens Park Rangers  0-1  Hull City
+  Stoke City           0-1  Aston Villa
+  West Bromwich Albion 2-2  Sunderland AFC
+  West Ham United      0-1  Tottenham Hotspur
+  Arsenal FC           2-1  Crystal Palace
 [Sun Aug/17]
-  13.30  Liverpool FC         2-1  Southampton FC
-  16.00  Newcastle United     0-2  Manchester City
+  Liverpool FC         2-1  Southampton FC
+  Newcastle United     0-2  Manchester City
 [Mon Aug/18]
-  20.00  Burnley FC           1-3  Chelsea FC
+  Burnley FC           1-3  Chelsea FC
 
 ...
-~~~
+```
 
-~~~
+```
 ##########################
 # Arsenal
 
@@ -83,7 +84,7 @@ Matchday 1
 23    Danny Welbeck               FW   2014-
 27    Serge Gnabry (GER)          FW   2012-
 28    Joel Campbell (CRC)         FW   2011-
-~~~
+```
 
 
 
