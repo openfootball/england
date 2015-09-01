@@ -53,39 +53,38 @@ Matchday 1
 ##########################
 # Arsenal
 
-1    Wojciech Szczęsny (POL)      GK  2007-
-13   David Ospina (COL)           GK  2014-
-26   Damián Martinez (ARG)        GK  2010-
+ 1  Wojciech Szczęsny (POL)      GK  2007-
+13  David Ospina (COL)           GK  2014-
+26  Damián Martinez (ARG)        GK  2010-
 
-2    Mathieu Debuchy (FRA)        DF  2014-
-3    Kieran Gibbs                 DF  2007-
-4 (vc) Per Mertesacker (GER)      DF  2011-
-6    Laurent Koscielny (FRA)      DF  2010-
-18   Nacho Monreal (ESP)          DF  2013-
-21   Calum Chambers               DF  2014-
+ 2  Mathieu Debuchy (FRA)        DF  2014-
+ 3  Kieran Gibbs                 DF  2007-
+ 4 (vc) Per Mertesacker (GER)    DF  2011-
+ 6  Laurent Koscielny (FRA)      DF  2010-
+18  Nacho Monreal (ESP)          DF  2013-
+21  Calum Chambers               DF  2014-
 
-7    Tomáš Rosický (CZE)          MF  2006-
-8 (c)  Mikel Arteta (ESP)         MF  2011-
-10    Jack Wilshere               MF  2008-
-11    Mesut Özil (GER)            MF  2013-
-15    Alex Oxlade-Chamberlain     MF  2011-
-16    Aaron Ramsey (WAL)          MF  2008-
-19    Santi Cazorla (ESP)         MF  2012-
-20    Mathieu Flamini (FRA)       MF  2013-
-24    Abou Diaby (FRA)            MF  2006-
-34    Francis Coquelin (FRA)      MF  2008-
-35    Gedion Zelalem (GER)        MF  2013-
+ 7  Tomáš Rosický (CZE)          MF  2006-
+ 8 (c) Mikel Arteta (ESP)        MF  2011-
+10  Jack Wilshere                MF  2008-
+11  Mesut Özil (GER)             MF  2013-
+15  Alex Oxlade-Chamberlain      MF  2011-
+16  Aaron Ramsey (WAL)           MF  2008-
+19  Santi Cazorla (ESP)          MF  2012-
+20  Mathieu Flamini (FRA)        MF  2013-
+24  Abou Diaby (FRA)             MF  2006-
+34  Francis Coquelin (FRA)       MF  2008-
+35  Gedion Zelalem (GER)         MF  2013-
 
-9     Lukas Podolski (GER)        FW   2012-
-12    Olivier Giroud (FRA)        FW   2012-
-14    Theo Walcott                FW   2006-
-17    Alexis Sánchez (CHI)        FW   2014-
-22    Yaya Sanogo (FRA)           FW   2013-
-23    Danny Welbeck               FW   2014-
-27    Serge Gnabry (GER)          FW   2012-
-28    Joel Campbell (CRC)         FW   2011-
+ 9  Lukas Podolski (GER)         FW   2012-
+12  Olivier Giroud (FRA)         FW   2012-
+14  Theo Walcott                 FW   2006-
+17  Alexis Sánchez (CHI)         FW   2014-
+22  Yaya Sanogo (FRA)            FW   2013-
+23  Danny Welbeck                FW   2014-
+27  Serge Gnabry (GER)           FW   2012-
+28  Joel Campbell (CRC)          FW   2011-
 ```
-
 
 
 ## Build Your Own `england.db` Copy
