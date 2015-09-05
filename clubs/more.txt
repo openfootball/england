@@ -1,0 +1,9 @@
+#####################################################
+# English League One, League Two and More
+
+
+
+[wigan]
+  Wigan Athletic|Wigan, WIG,
+  // Wigan
+

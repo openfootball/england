@@ -1,96 +1,99 @@
 ####################################
 # English Premier League Teams
+#   20 teams
+#
+#   note: swansea (see wales)
 
 
 ## note: three letter codes (tags) taken from official premierleague.com site 
 
 [chelsea]
   Chelsea|Chelsea FC|FC Chelsea, 1905, CHE
-  // London
+  // London   ## @ Stamford Bridge
   www.chelseafc.com
   wikipedia: Chelsea_F.C.
 
 [arsenal]
   Arsenal|Arsenal FC|FC Arsenal, 1886, ARS
-  // London
+  // London    ## @ Emirates Stadium
   www.arsenal.com
   wikipedia: Arsenal_F.C.
 
 [tottenham]
   Tottenham Hotspur|Tottenham|Spurs, 1882, TOT
-  // London
+  // London    ## @ White Hart Lane
   www.tottenhamhotspur.com
   wikipedia: Tottenham_Hotspur_F.C.
   
 [westham]
   West Ham United|West Ham, 1895, WHU
-  // London
+  // London    ## @ Boleyn Ground
   www.whufc.com
   wikipedia: West_Ham_United_F.C.
 
 [crystalpalace]
   Crystal Palace|C Palace|Palace, 1905, CRY
-  // London
+  // London      ## @ Selhurst Park
   www.cpfc.co.uk
   wikipedia: Crystal_Palace_F.C.
 
 [manutd]
   Manchester United|Man Utd|Manchester U., 1878, MUN
-  // Manchester
+  // Manchester    ## @ Old Trafford
   www.manutd.com
   wikipedia: Manchester_United_F.C.
 
 [mancity]
   Manchester City|Man City|Man. City, 1880, MCI
-  // Manchester
+  // Manchester    ## @ Etihad Stadium
   www.mcfc.co.uk
   wikipedia: Manchester_City_F.C.
 
 [everton]
   Everton|Everton FC|FC Everton, 1878, EVE
-  // Liverpool
+  // Liverpool      ## @ Goodison Park
   www.evertonfc.com
   wikipedia: Everton_F.C.
 
 [liverpool]
   Liverpool|Liverpool FC|FC Liverpool, 1892, LIV
-  // Liverpool
+  // Liverpool      ## @ Anfield
   www.liverpoolfc.com
   wikipedia: Liverpool_F.C.
 
 [westbrom]
   West Bromwich Albion|West Brom|Albion, 1878, WBA
-  // West Bromwich
+  // West Bromwich    ## @ The Hawthorns
   www.wba.co.uk
   wikipedia: West_Bromwich_Albion_F.C.
 
 [newcastle]
   Newcastle United|Newcastle, 1892, NEW
-  // Newcastle upon Tyne
+  // Newcastle upon Tyne    ## @ St James' Park
   www.nufc.co.uk
   wikipedia: Newcastle_United_F.C.
 
 [stoke]
   Stoke City|Stoke, 1863, STK
-  // Stoke-on-Trent
+  // Stoke-on-Trent        ## @ Britannia Stadium
   www.stokecityfc.com
   wikipedia: Stoke_City_F.C.
 
 [sunderland]
   Sunderland|Sunderland AFC|AFC Sunderland, 1879, SUN
-  // Sunderland
+  // Sunderland           ## @ Stadium of Light
   www.safc.com
   wikipedia: Sunderland_A.F.C.
 
 [astonvilla]
   Aston Villa|Villa, 1874, AVL
-  // Birmingham
+  // Birmingham           ## @ Villa Park
   www.avfc.co.uk
   wikipedia: Aston_Villa_F.C.
 
 [southampton]
   Southampton|Southampton FC|FC Southampton, 1885, SOU
-  // Southampton
+  // Southampton           ## @ St Mary's Stadium
   www.saintsfc.co.uk
   wikipedia: Southampton_F.C.
 
@@ -98,36 +101,36 @@
 
 [leicester]
   Leicester City|Leicester|Leicester City FC, 1884, LEI
-  // Leicester
+  // Leicester              ## @ King Power Stadium
   www.lcfc.com
   wikipedia: Leicester_City_F.C.
 
 
 [bournemouth]
   Bournemouth|AFC Bournemouth|A.F.C. Bournemouth|Bournemouth FC, 1890, BOU
-  // Bournemouth
+  // Bournemouth            ## @ Dean Court
   www.afcb.co.uk
   wikipedia: A.F.C._Bournemouth
 
 [norwich]
   Norwich|Norwich City|Norwich City FC|Norwich City F.C., 1890, NOR
-  // Norwich
+  // Norwich                ## @ Carrow Road
   www.canaries.co.uk
   wikipedia: Norwich_City_F.C.
 
 
 [watford]
   Watford|Watford FC|Watford F.C., 1881, WAT
-  // Watford
+  // Watford                ## @ Vicarage Road
   www.watfordfc.com
   wikipedia: Watford_F.C.
 
 
 ##
 # note:
-#  changes in 2014/15
-#   ++  Leicester City, Burnley, Queens Park Rangers
-#   --  Cardiff City, Fulham, Norwich City
 #  changes in 2015/16
 #   ++  Bournemouth, Watford, Norwich City
 #   --  Hull, Burnley, Queens Park Rangers
+#  changes in 2014/15
+#   ++  Leicester City, Burnley, Queens Park Rangers
+#   --  Cardiff City, Fulham, Norwich City

@@ -1,32 +1,69 @@
+###################################
+# English Football League Championship   2015/16
+#   24 teams
+#
+# note: cardiff city (see wales)
 
-[hull]
-  Hull City|Hull, 1904, HUL
-  // Kingston upon Hull
-  www.hullcitytigers.com
-  wikipedia: Hull_City_A.F.C.
+
+Birmingham City,        // Birmingham      ##  @ St Andrew's
+Blackburn Rovers,       // Blackburn       ##  @ Ewood Park
+Bolton Wanderers,       // Bolton          ##  @ Macron Stadium
+Brighton & Hove Albion, // Brighton        ##  @ American Express Stadium
+Bristol City,           // Bristol         ##  @ Ashton Gate
 
 [burnley]
   Burnley|Burnley FC, 1882, BUR
-  // Burnley
+  // Burnley       ##  @ Turf Moor
   www.burnleyfootballclub.com
   wikipedia: Burnley_F.C.
 
+Derby County,           // Derby           ##  @ iPro Stadium
+Huddersfield Town,      // Huddersfield    ##  @ John Smith's Stadium
+Ipswich Town,           // Ipswich         ##  @ Portman Road
+
+[hull]
+  Hull City|Hull, 1904, HUL
+  // Kingston upon Hull   ## @ KC Stadium
+  www.hullcitytigers.com
+  wikipedia: Hull_City_A.F.C.
+   
+Leeds United,           // Leeds           ## @ Elland Road
+
+Brentford,              // London (Brentford)    ## @ Griffin Park
+Charlton Athletic,      // London (Charlton)     ## @ The Valley
+
 [qpr]
   Queens Park Rangers|Queens Park Rangers FC|QPR, 1882, QPR
-  // London
+  // London (White City)   ## @ Loftus Road
   www.qpr.co.uk
   wikipedia: Queens_Park_Rangers_F.C.
 
-
 [fulham]
   Fulham|Fulham FC|FC Fulham,  FUL
-  // London
+  // London (Fulham)       ## @ Craven Cottage
 
+
+Middlesbrough,            // Middlesbrough    ##  @ Riverside Stadium
+Milton Keynes Dons,       // Milton Keynes    ##  @ Stadium:mk
+Nottingham Forest,        // Nottingham       ##  @ City Ground
+Preston North End,        // Preston          ##  @ Deepdale
+         
 [reading]
   Reading|Reading FC|FC Reading, RDG
-  // Reading
+  // Reading   ##  @ Madejski Stadium
 
-[wigan]
-  Wigan Athletic|Wigan, WIG,
-  // Wigan
+Rotherham United,         // Rotherham        ##  @ New York Stadium
+Sheffield Wednesday,      // Sheffield        ##  @ Hillsborough
+Wolverhampton Wanderers,  // Wolverhampton    ##  @ Molineux
+
+
+
+
+###
+# note: 
+#  changes in 2015/16:
+#  ++ (from League One) Bristol City, Milton Keynes Dons, Preston North End 
+#  ++ (from Premier League) Hull City, Burnley, Queens Park Rangers
+#  -- (to League One) Millwall, Wigan Athletic, Blackpool
+#  -- (to Premier League) Bournemouth, Watford, Norwich City
 

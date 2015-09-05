@@ -7,7 +7,7 @@
 
 [swansea]
   Swansea|Swansea City|Swansea City FC, 1912, SWA
-  // Swansea
+  // Swansea           ## @ Liberty Stadium
   wal                  ## note: add country code (Wales)
   www.swanseacity.net
   wikipedia: Swansea_City_A.F.C.
@@ -16,6 +16,7 @@
 
 [cardiff]              ## note: plays in english championship league
   Cardiff City, CAR
-  // Cardiff
+  // Cardiff           ## @ Cardiff City Stadium
   wal                  ## note: add country code (Wales)
+  wikipedia: Cardiff_City_F.C.
 

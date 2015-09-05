@@ -8,6 +8,7 @@ eng-england!/leagues
 eng-england!/clubs/1-premierleague
 eng-england!/clubs/2-championship
 eng-england!/clubs/wales
+eng-england!/clubs/more
 
 # - Fixtures
 eng-england!/2015-16/1-premierleague
