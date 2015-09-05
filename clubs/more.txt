@@ -2,8 +2,61 @@
 # English League One, League Two and More
 
 
+Barnsley,            // Barnsley    ##  @ Oakwell
+Blackpool,           // Blackpool  ##  @ Bloomfield Road
+Bradford City,       // Bradford  ##  @ Valley Parade
+Burton Albion,       // Burton-upon-Trent  ##  @ Pirelli Stadium
+Bury,                // Bury  ##  @ Gigg Lane
+Chesterfield,        // Chesterfield  ##  @ Proact Stadium
+Colchester United,   // Colchester  ##  @ Colchester Community Stadium
+Coventry City,       // Coventry  ##  @ Ricoh Arena
+Crewe Alexandra,     // Crewe  ##  @ Gresty Road
+Doncaster Rovers,    // Doncaster  ##  @ Keepmoat Stadium
+Fleetwood Town,      // Fleetwood  ##  @ Highbury Stadium
+Gillingham,          // Gillingham  ##  @ Priestfield Stadium
+Millwall,            // London (South Bermondsey)  ##  @ The Den
+Oldham Athletic,     // Oldham  ##  @ Boundary Park
+Peterborough United, // Peterborough  ##  @ Abax Stadium
+Rochdale,            // Rochdale  ##  @ Spotland Stadium
+Scunthorpe United,   // Scunthorpe  ##  @ Glanford Park
+Sheffield United,    // Sheffield  ##  @ Bramall Lane
+Shrewsbury Town,     // Shrewsbury  ##  @ New Meadow
+Southend United,     // Southend  ##  @ Roots Hall
+Port Vale,           // Stoke-on-Trent  ##  @ Vale Park
+Swindon Town,        // Swindon  ##  @ County Ground
+Walsall,             // Walsall  ##  @ Bescot Stadium
 
 [wigan]
   Wigan Athletic|Wigan, WIG,
-  // Wigan
+  // Wigan   ##  @ DW Stadium
+
+
+
+
+Accrington Stanley,   // Accrington  ##  @ Crown Ground
+Bristol Rovers,       // Bristol  ##  @ Memorial Stadium
+Cambridge United,     // Cambridge  ##  @ Abbey Stadium
+Carlisle United,      // Carlisle  ##  @ Brunton Park
+Crawley Town,         // Crawley  ##  @ Broadfield Stadium
+Exeter City,          // Exeter  ##  @ St James Park
+Hartlepool United,    // Hartlepool  ##  @ Victoria Park
+Wycombe Wanderers,    // High Wycombe  ##  @ Adams Park
+
+Barnet,               // London (Canons Park)  ##  @ The Hive Stadium
+Dagenham & Redbridge, // London (Dagenham)  ##  @ Victoria Road
+Leyton Orient,        // London (Leyton)  ##  @ Brisbane Road
+AFC Wimbledon,        // London (Norbiton)  ##  @ Kingsmeadow
+
+Luton Town,           // Luton  ##  @ Kenilworth Road
+Mansfield Town,       // Mansfield  ##  @ Field Mill
+Morecambe,            // Morecambe  ##  @ Globe Arena
+Newport County,       // Newport  ##  @ Rodney Parade
+Northampton Town,     // Northampton  ##  @ Sixfields Stadium
+Notts County,         // Nottingham  ##  @ Meadow Lane
+Oxford United,        // Oxford  ##  @ Kassam Stadium
+Plymouth Argyle,      // Plymouth  ##  @ Home Park
+Portsmouth,           // Portsmouth  ##  @ Fratton Park
+Stevenage,            // Stevenage  ##  @ Broadhall Way
+Yeovil Town,          // Yeovil  ##  @ Huish Park
+York City,            // York  ##  @ Bootham Crescent
 
