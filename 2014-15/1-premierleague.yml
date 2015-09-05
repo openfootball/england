@@ -11,27 +11,24 @@ fixtures:
 - 1-premierleague-ii
 
 
-######################
-# 20 Teams
-
-teams:
-- chelsea
-- manutd
-- mancity
-- everton
-- tottenham
-- westbrom
-- arsenal
-- westham
-- newcastle
-- swansea
-- stoke
-- sunderland
-- liverpool
-- astonvilla
-- southampton
-- hull
-- crystalpalace
-- leicester
-- burnley
-- qpr
+20 teams:
+- Chelsea     ## (C)
+- Manchester City
+- Arsenal
+- Manchester United
+- Tottenham Hotspur
+- Liverpool
+- Southampton
+- Swansea City	
+- Stoke City
+- Crystal Palace
+- Everton
+- West Ham United
+- West Bromwich Albion
+- Leicester City
+- Newcastle United
+- Sunderland
+- Aston Villa
+- Hull City           ## (R)
+- Burnley             ## (R)
+- Queens Park Rangers ## (R)

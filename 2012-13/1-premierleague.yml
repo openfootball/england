@@ -9,24 +9,25 @@ fixtures:
 - 1-premierleague-i
 - 1-premierleague-ii
 
-20 Teams:
-- Chelsea
-- Manchester United 
+20 teams:
+- Manchester United  ## (C)
 - Manchester City
-- Everton
-- Tottenham Hotspur
-- West Bromwich Albion
+- Chelsea
 - Arsenal
-- West Ham United
-- Fulham
-- Newcastle United
-- Swansea City
-- Stoke City
-- Sunderland
+- Tottenham Hotspur
+- Everton
 - Liverpool
-- Wigan Athletic
-- Aston Villa
-- Southampton
-- Reading
+- West Bromwich Albion
+- Swansea City
+- West Ham United
 - Norwich City
-- Queens Park Rangers
+- Fulham
+- Stoke City
+- Southampton
+- Aston Villa
+- Newcastle United
+- Sunderland
+- Wigan Athletic      ## (R)
+- Reading             ## (R)
+- Queens Park Rangers ## (R)
+
