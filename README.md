@@ -15,6 +15,10 @@ National football club leagues include:
 | Level |                               |           |
 | ----: | ----------------------------- | --------- | 
 |     I | English Premier League        | 20 Clubs  |
+|    II | English Championship          | 24 Clubs  |
+|   III | English League One            | 24 Clubs  |
+|    IV | English League Two            | 24 Clubs  |
+
 
 
 Example:
@@ -22,8 +26,8 @@ Example:
 ```
 ### English Premier League
 
-chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE
-manunited,   Manchester United|Man Utd|Manchester U.,   MUN
+chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE, 1905 
+manunited,   Manchester United|Man Utd|Manchester U.,   MUN, 1878
 ...
 ```
 
