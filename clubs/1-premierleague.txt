@@ -20,31 +20,31 @@
   wikipedia: Arsenal_F.C.
 
 [tottenham]
-  Tottenham Hotspur|Tottenham|Spurs, 1882, TOT
+  Tottenham Hotspur|Tottenham Hotspur FC|Tottenham|Spurs, 1882, TOT
   // London    ## @ White Hart Lane
   www.tottenhamhotspur.com
   wikipedia: Tottenham_Hotspur_F.C.
   
 [westham]
-  West Ham United|West Ham, 1895, WHU
+  West Ham United|West Ham United FC|West Ham, 1895, WHU
   // London    ## @ Boleyn Ground
   www.whufc.com
   wikipedia: West_Ham_United_F.C.
 
 [crystalpalace]
-  Crystal Palace|C Palace|Palace, 1905, CRY
+  Crystal Palace|Crystal Palace FC|C Palace|Palace, 1905, CRY
   // London      ## @ Selhurst Park
   www.cpfc.co.uk
   wikipedia: Crystal_Palace_F.C.
 
 [manutd]
-  Manchester United|Man Utd|Manchester U.|Manchester U, 1878, MUN
+  Manchester United|Manchester United FC|Man Utd|Manchester U.|Manchester U, 1878, MUN
   // Manchester    ## @ Old Trafford
   www.manutd.com
   wikipedia: Manchester_United_F.C.
 
 [mancity]
-  Manchester City|Man City|Man. City|Manchester C, 1880, MCI
+  Manchester City|Manchester City FC|Man City|Man. City|Manchester C, 1880, MCI
   // Manchester    ## @ Etihad Stadium
   www.mcfc.co.uk
   wikipedia: Manchester_City_F.C.
@@ -62,19 +62,19 @@
   wikipedia: Liverpool_F.C.
 
 [westbrom]
-  West Bromwich Albion|West Bromwich|West Brom|Albion, 1878, WBA
+  West Bromwich Albion|West Bromwich Albion FC|West Bromwich|West Brom|Albion, 1878, WBA
   // West Bromwich    ## @ The Hawthorns
   www.wba.co.uk
   wikipedia: West_Bromwich_Albion_F.C.
 
 [newcastle]
-  Newcastle United|Newcastle, 1892, NEW
+  Newcastle United|Newcastle United FC|Newcastle, 1892, NEW
   // Newcastle upon Tyne    ## @ St James' Park
   www.nufc.co.uk
   wikipedia: Newcastle_United_F.C.
 
 [stoke]
-  Stoke City|Stoke, 1863, STK
+  Stoke City|Stoke City FC|Stoke, 1863, STK
   // Stoke-on-Trent        ## @ Britannia Stadium
   www.stokecityfc.com
   wikipedia: Stoke_City_F.C.
@@ -86,7 +86,7 @@
   wikipedia: Sunderland_A.F.C.
 
 [astonvilla]
-  Aston Villa|Villa, 1874, AVL
+  Aston Villa|Aston Villa FC|Villa, 1874, AVL
   // Birmingham           ## @ Villa Park
   www.avfc.co.uk
   wikipedia: Aston_Villa_F.C.
