@@ -6,26 +6,26 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. Manchester City                5   2  0  0   5:0     3  0  0   6:0     11:0   +11   15
- 2. Leicester City                 5   2  1  0   8:5     1  1  0   3:2     11:7    +4   11
- 3. Manchester United              5   2  1  0   4:1     1  0  1   2:2      6:3    +3   10
- 4. Arsenal                        5   1  1  1   2:2     2  0  0   3:1      5:3    +2   10
- 5. West Ham United                5   1  0  2   6:6     2  0  0   5:0     11:6    +5    9
- 6. Crystal Palace                 5   1  0  2   3:4     2  0  0   5:2      8:6    +2    9
- 7. Everton                        5   1  1  1   5:5     1  1  0   3:0      8:5    +3    8
- 8. Swansea                        5   2  0  0   4:1     0  2  1   3:4      7:5    +2    8
- 9. Norwich                        5   1  1  1   5:5     1  0  1   3:4      8:9    -1    7
-10. Liverpool                      5   1  0  1   1:3     1  1  1   2:3      3:6    -3    7
-11. Southampton                    5   1  0  1   3:3     0  3  0   2:2      5:5          6
-12. Tottenham Hotspur              5   0  2  0   2:2     1  1  1   2:2      4:4          6
-13. Watford                        5   1  2  0   1:0     0  1  1   2:4      3:4    -1    6
-14. West Bromwich Albion           5   0  1  2   2:6     1  1  0   1:0      3:6    -3    5
-15. Aston Villa                    5   0  1  1   2:3     1  0  2   4:5      6:8    -2    4
-16. Bournemouth                    5   0  1  1   1:2     1  0  2   5:7      6:9    -3    4
-17. Chelsea                        5   0  1  1   3:4     1  0  2   4:8      7:12   -5    4
-18. Stoke City                     5   0  0  2   0:2     0  2  1   3:5      3:7    -4    2
-19. Sunderland                     5   0  1  2   2:5     0  1  1   4:6      6:11   -5    2
-20. Newcastle United               5   0  1  1   2:3     0  1  2   0:4      2:7    -5    2
+ 1. Leicester City                13   4  1  1  13:11    4  3  0  15:9     28:20   +8   28
+ 2. Manchester United             13   4  2  0   9:1     4  1  2  10:8     19:9   +10   27
+ 3. Manchester City               13   5  0  2  20:9     3  2  1   7:4     27:13  +14   26
+ 4. Arsenal                       13   3  2  1   8:4     5  0  2  15:7     23:11  +12   26
+ 5. Tottenham Hotspur             12   3  3  0  10:4     2  3  1  10:6     20:10  +10   21
+ 6. West Ham United               12   2  2  2  11:10    4  1  1  12:6     23:16   +7   21
+ 7. Everton                       13   3  2  2  16:11    2  3  1   8:5     24:16   +8   20
+ 8. Southampton                   13   3  1  3  12:10    2  4  0   7:4     19:14   +5   20
+ 9. Liverpool                     13   2  2  2   7:9     3  3  1  10:6     17:15   +2   20
+10. Crystal Palace                12   2  1  3   6:7     4  0  2   8:5     14:12   +2   19
+11. Stoke City                    13   2  1  3   5:7     3  3  1   6:5     11:12   -1   19
+12. West Bromwich Albion          13   2  1  4   9:13    3  1  2   3:4     12:17   -5   17
+13. Watford                       13   2  2  3   4:6     2  2  2   8:8     12:14   -2   16
+14. Swansea                       13   2  3  2   8:9     1  2  3   6:9     14:18   -4   14
+15. Chelsea                       13   3  1  3  10:10    1  1  4   7:13    17:23   -6   14
+16. Norwich                       13   2  1  3   7:8     1  2  4   9:16    16:24   -8   12
+17. Newcastle United              13   1  3  3  11:12    1  1  4   2:13    13:25  -12   10
+18. Bournemouth                   13   1  2  3   5:9     1  1  5   9:18    14:27  -13    9
+19. Sunderland                    12   1  2  3   7:8     0  1  5   6:18    13:26  -13    6
+20. Aston Villa                   13   0  2  4   3:7     1  0  6   7:17    10:24  -14    5
 ~~~
 
 

@@ -9,7 +9,7 @@ English League Two (en.4) |  0 events
 92 teams
 4 events:
 #######################
-## 2015/16 English Premier League  |  20 Teams, 380 Matches, 123 Goals (+0 a.e.t.)
+## 2015/16 English Premier League  |  20 Teams, 380 Matches, 346 Goals (+0 a.e.t.)
     0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
 1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
 
@@ -29,7 +29,7 @@ English League Two (en.4) |  0 events
 1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
 
 62 logs:
-[warn] Rakefile - 2015-09-16 08:24:03 +0200
+[warn] Rakefile - 2015-11-22 16:11:17 +0100
 [warn] hash reader - found implicit bool (no) for key; adding quotes to turn into string; see yaml.org/refcard.html (path=)
 [warn] no country match found for >Bonaire<; skipping line; in [1-codes/fifa]
 [warn] no country match found for >Kosovo<; skipping line; in [1-codes/fifa]
