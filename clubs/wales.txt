@@ -15,7 +15,7 @@
 
 
 [cardiff]              ## note: plays in english championship league
-  Cardiff City, CAR
+  Cardiff City|Cardiff, CAR
   // Cardiff           ## @ Cardiff City Stadium
   wal                  ## note: add country code (Wales)
   wikipedia: Cardiff_City_F.C.
