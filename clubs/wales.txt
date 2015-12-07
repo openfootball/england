@@ -13,10 +13,15 @@
   wikipedia: Swansea_City_A.F.C.
 
 
-
 [cardiff]              ## note: plays in english championship league
   Cardiff City|Cardiff, CAR
   // Cardiff           ## @ Cardiff City Stadium
   wal                  ## note: add country code (Wales)
   wikipedia: Cardiff_City_F.C.
 
+
+[newport]
+  Newport County, 1912
+  // Newport     ##  @ Rodney Parade
+  wal
+  wikipedia: Newport_County_A.F.C.
