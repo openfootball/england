@@ -1,56 +1,239 @@
-27 Clubs
+93 Clubs
 
    1. Arsenal
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - English Premier League    24  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
    2. Aston Villa
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - English Premier League    24  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
    3. Chelsea
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - English Premier League    24  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
    4. Everton
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - English Premier League    24  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
    5. Liverpool
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-   6. Manchester City
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-   7. Manchester United
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-   8. Newcastle United
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-   9. Southampton
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-  10. Stoke City
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-  11. Sunderland
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-  12. Swansea
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-  13. Tottenham Hotspur
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-  14. West Bromwich Albion
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-  15. West Ham United
-      - English Premier League     4  (2015/16, 2014/15, 2013/14, 2012/13)
-  16. Crystal Palace
-      - English Premier League     3  (2015/16, 2014/15, 2013/14)
-  17. Norwich
-      - English Premier League     3  (2015/16, 2013/14, 2012/13)
-  18. Fulham
-      - English Premier League     2  (2013/14, 2012/13)
-  19. Hull City
-      - English Premier League     2  (2014/15, 2013/14)
+      - English Premier League    24  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   6. Manchester United
+      - English Premier League    24  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   7. Tottenham Hotspur
+      - English Premier League    24  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   8. Blackburn Rovers
+      - English Premier League    18  (2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+   9. Newcastle United
+      - English Premier League    22  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94)
+  10. West Ham United
+      - English Premier League    20  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94)
+  11. Manchester City
+      - English Premier League    19  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2000/01, 1995/96, 1994/95, 1993/94, 1992/93)
+  12. Middlesbrough
+      - English Premier League    14  (2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1996/97, 1995/96, 1992/93)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  13. Bolton Wanderers
+      - English Premier League    13  (2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 1997/98, 1995/96)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  14. Southampton
+      - English Premier League    17  (2015/16, 2014/15, 2013/14, 2012/13, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+  15. Leeds United
+      - English Premier League    12  (2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  16. Fulham
+      - English Premier League    13  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02)
+      - English Championship       2  (2015/16, 2014/15)
+  17. Sunderland
+      - English Premier League    15  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2005/06, 2002/03, 2001/02, 2000/01, 1999/00, 1996/97)
+  18. Charlton Athletic
+      - English Premier League     8  (2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1998/99)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  19. Coventry City
+      - English Premier League     9  (2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - English League One         3  (2015/16, 2014/15, 2013/14)
   20. Leicester City
-      - English Premier League     2  (2015/16, 2014/15)
-  21. Queens Park Rangers
-      - English Premier League     2  (2014/15, 2012/13)
-  22. Bournemouth
-      - English Premier League     1  (2015/16)
-  23. Burnley
-      - English Premier League     1  (2014/15)
-  24. Cardiff City
+      - English Premier League    10  (2015/16, 2014/15, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1994/95)
+      - English Championship       2  (2013/14, 2012/13)
+  21. Sheffield Wednesday
+      - English Premier League     8  (1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  22. Birmingham City
+      - English Premier League     7  (2010/11, 2009/10, 2007/08, 2005/06, 2004/05, 2003/04, 2002/03)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  23. Derby County
+      - English Premier League     7  (2007/08, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  24. Wigan Athletic
+      - English Premier League     8  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06)
+      - English Championship       2  (2014/15, 2013/14)
+      - English League One         1  (2015/16)
+  25. West Bromwich Albion
+      - English Premier League    10  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2008/09, 2005/06, 2004/05, 2002/03)
+  26. AFC Wimbledon
+      - English Premier League     8  (1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - English League Two         1  (2015/16)
+  27. Ipswich Town
+      - English Premier League     5  (2001/02, 2000/01, 1994/95, 1993/94, 1992/93)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  28. Norwich
+      - English Premier League     8  (2015/16, 2013/14, 2012/13, 2011/12, 2004/05, 1994/95, 1993/94, 1992/93)
+      - English Championship       1  (2014/15)
+  29. Nottingham Forest
+      - English Premier League     5  (1998/99, 1996/97, 1995/96, 1994/95, 1992/93)
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  30. Queens Park Rangers
+      - English Premier League     7  (2014/15, 2012/13, 2011/12, 1995/96, 1994/95, 1993/94, 1992/93)
+      - English Championship       2  (2015/16, 2013/14)
+  31. Crystal Palace
+      - English Premier League     7  (2015/16, 2014/15, 2013/14, 2004/05, 1997/98, 1994/95, 1992/93)
+      - English Championship       1  (2012/13)
+  32. Portsmouth
+      - English Premier League     7  (2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04)
+      - English League Two         1  (2015/16)
+  33. Stoke City
+      - English Premier League     8  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09)
+  34. Wolverhampton Wanderers
+      - English Premier League     4  (2011/12, 2010/11, 2009/10, 2003/04)
+      - English Championship       3  (2015/16, 2014/15, 2012/13)
+      - English League One         1  (2013/14)
+  35. Hull City
+      - English Premier League     4  (2014/15, 2013/14, 2009/10, 2008/09)
+      - English Championship       2  (2015/16, 2012/13)
+  36. Reading
+      - English Premier League     3  (2012/13, 2007/08, 2006/07)
+      - English Championship       3  (2015/16, 2014/15, 2013/14)
+  37. Sheffield United
+      - English Premier League     3  (2006/07, 1993/94, 1992/93)
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  38. Watford
+      - English Premier League     3  (2015/16, 2006/07, 1999/00)
+      - English Championship       3  (2014/15, 2013/14, 2012/13)
+  39. Barnsley
+      - English Premier League     1  (1997/98)
+      - English Championship       2  (2013/14, 2012/13)
+      - English League One         2  (2015/16, 2014/15)
+  40. Blackpool
+      - English Premier League     1  (2010/11)
+      - English Championship       3  (2014/15, 2013/14, 2012/13)
+      - English League One         1  (2015/16)
+  41. Bradford City
+      - English Premier League     2  (2000/01, 1999/00)
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  42. Burnley
+      - English Premier League     2  (2014/15, 2009/10)
+      - English Championship       3  (2015/16, 2013/14, 2012/13)
+  43. Oldham Athletic
+      - English Premier League     2  (1993/94, 1992/93)
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  44. Swansea
+      - English Premier League     5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  45. Brighton & Hove Albion
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  46. Bristol City
+      - English Championship       2  (2015/16, 2012/13)
+      - English League One         2  (2014/15, 2013/14)
+  47. Cardiff City
       - English Premier League     1  (2013/14)
-  25. Reading
-      - English Premier League     1  (2012/13)
-  26. Watford
+      - English Championship       3  (2015/16, 2014/15, 2012/13)
+  48. Huddersfield Town
+      - English Championship       4  (2015/16, 2014/15, 2013/14, 2012/13)
+  49. Millwall
+      - English Championship       3  (2014/15, 2013/14, 2012/13)
+      - English League One         1  (2015/16)
+  50. Peterborough United
+      - English Championship       1  (2012/13)
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  51. Swindon Town
+      - English Premier League     1  (1993/94)
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  52. Bournemouth
       - English Premier League     1  (2015/16)
-  27. Wigan Athletic
-      - English Premier League     1  (2012/13)
+      - English Championship       2  (2014/15, 2013/14)
+  53. Brentford
+      - English Championship       2  (2015/16, 2014/15)
+      - English League One         1  (2013/14)
+  54. Colchester United
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  55. Crawley Town
+      - English League One         2  (2014/15, 2013/14)
+      - English League Two         1  (2015/16)
+  56. Crewe Alexandra
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  57. Doncaster Rovers
+      - English Championship       1  (2013/14)
+      - English League One         2  (2015/16, 2014/15)
+  58. Gillingham
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  59. Leyton Orient
+      - English League One         2  (2014/15, 2013/14)
+      - English League Two         1  (2015/16)
+  60. Milton Keynes Dons
+      - English Championship       1  (2015/16)
+      - English League One         2  (2014/15, 2013/14)
+  61. Notts County
+      - English League One         2  (2014/15, 2013/14)
+      - English League Two         1  (2015/16)
+  62. Port Vale
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  63. Preston North End
+      - English Championship       1  (2015/16)
+      - English League One         2  (2014/15, 2013/14)
+  64. Rotherham United
+      - English Championship       2  (2015/16, 2014/15)
+      - English League One         1  (2013/14)
+  65. Walsall
+      - English League One         3  (2015/16, 2014/15, 2013/14)
+  66. Yeovil Town
+      - English Championship       1  (2013/14)
+      - English League One         1  (2014/15)
+      - English League Two         1  (2015/16)
+  67. Carlisle United
+      - English League One         1  (2013/14)
+      - English League Two         1  (2015/16)
+  68. Chesterfield
+      - English League One         2  (2015/16, 2014/15)
+  69. Fleetwood Town
+      - English League One         2  (2015/16, 2014/15)
+  70. Rochdale
+      - English League One         2  (2015/16, 2014/15)
+  71. Scunthorpe United
+      - English League One         2  (2015/16, 2014/15)
+  72. Shrewsbury Town
+      - English League One         2  (2015/16, 2013/14)
+  73. Stevenage
+      - English League One         1  (2013/14)
+      - English League Two         1  (2015/16)
+  74. Accrington Stanley
+      - English League Two         1  (2015/16)
+  75. Barnet
+      - English League Two         1  (2015/16)
+  76. Bristol Rovers
+      - English League Two         1  (2015/16)
+  77. Burton Albion
+      - English League One         1  (2015/16)
+  78. Bury
+      - English League One         1  (2015/16)
+  79. Cambridge United
+      - English League Two         1  (2015/16)
+  80. Dagenham & Redbridge
+      - English League Two         1  (2015/16)
+  81. Exeter City
+      - English League Two         1  (2015/16)
+  82. Hartlepool United
+      - English League Two         1  (2015/16)
+  83. Luton Town
+      - English League Two         1  (2015/16)
+  84. Mansfield Town
+      - English League Two         1  (2015/16)
+  85. Morecambe
+      - English League Two         1  (2015/16)
+  86. Newport County
+      - English League Two         1  (2015/16)
+  87. Northampton Town
+      - English League Two         1  (2015/16)
+  88. Oxford United
+      - English League Two         1  (2015/16)
+  89. Plymouth Argyle
+      - English League Two         1  (2015/16)
+  90. Southend United
+      - English League One         1  (2015/16)
+  91. Tranmere Rovers
+      - English League One         1  (2013/14)
+  92. Wycombe Wanderers
+      - English League Two         1  (2015/16)
+  93. York City
+      - English League Two         1  (2015/16)
