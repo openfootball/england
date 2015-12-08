@@ -1,0 +1,33 @@
+###########################################
+#  see en.wikipedia.org/wiki/2013–14_Football_League_One
+#
+#  start_at: 2013-08-02
+#  24 Teams
+
+English League One 2013/14
+
+ 1. Wolverhampton Wanderers  46  31 10  5  89-31 103
+ 2. Brentford                46  28 10  8  72-43  94
+ 3. Leyton Orient            46  25 11 10  85-45  86
+ 4. Rotherham United         46  24 14  8  86-58  86
+ 5. Preston North End        46  23 16  7  72-46  85
+ 6. Peterborough United      46  23  5 18  72-58  74
+ 7. Sheffield United         46  18 13 15  48-46  67
+ 8. Swindon Town             46  19  9 18  63-59  66
+ 9. Port Vale                46  18  7 21  59-73  61
+10. Milton Keynes Dons       46  17  9 20  63-65  60
+11. Bradford City            46  14 17 15  57-54  59
+12. Bristol City             46  13 19 14  70-67  58
+13. Walsall                  46  14 16 16  49-49  58
+14. Crawley Town             46  14 15 17  48-54  57
+15. Oldham Athletic          46  14 14 18  50-59  56
+16. Colchester United        46  13 14 19  53-61  53
+17. Gillingham               46  15  8 23  60-79  53
+18. Coventry City            46  16 13 17  74-77  51  [-10]
+19. Crewe Alexandra          46  13 12 21  54-80  51
+20. Notts County             46  15  5 26  64-77  50
+21. Tranmere Rovers          46  12 11 23  52-79  47
+22. Carlisle United          46  11 12 23  43-76  45
+23. Shrewsbury Town          46   9 15 22  44-65  42
+24. Stevenage                46  11  9 26  46-72  42
+
