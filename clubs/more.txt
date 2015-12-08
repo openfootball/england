@@ -42,10 +42,10 @@ Exeter City,          // Exeter  ##  @ St James Park
 Hartlepool United,    // Hartlepool  ##  @ Victoria Park
 Wycombe Wanderers,    // High Wycombe  ##  @ Adams Park
 
-Barnet,               // London (Canons Park)  ##  @ The Hive Stadium
-Dagenham & Redbridge, // London (Dagenham)  ##  @ Victoria Road
-Leyton Orient,        // London (Leyton)  ##  @ Brisbane Road
-AFC Wimbledon,        // London (Norbiton)  ##  @ Kingsmeadow
+Barnet,                    // London (Canons Park)  ##  @ The Hive Stadium
+Dagenham & Redbridge,      // London (Dagenham)  ##  @ Victoria Road
+Leyton Orient,             // London (Leyton)  ##  @ Brisbane Road
+AFC Wimbledon|Wimbledon,   // London (Norbiton)  ##  @ Kingsmeadow
 
 Luton Town,           // Luton  ##  @ Kenilworth Road
 Mansfield Town,       // Mansfield  ##  @ Field Mill
