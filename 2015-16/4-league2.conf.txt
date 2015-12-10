@@ -1,13 +1,12 @@
 ###########################################
-#   Football League Two 2015/16
+#   see en.wikipedia.org/wiki/2015–16_Football_League_Two
 #
-#    see en.wikipedia.org/wiki/2015–16_Football_League_Two
+#  start_at: 2015-08-08
+#  24 Teams
 
-league: en.4
-season: 2015/16
-start_at: 2015-08-08
 
-24 Teams:
+English League Two 2015/16
+
 - Accrington Stanley
 - AFC Wimbledon
 - Barnet

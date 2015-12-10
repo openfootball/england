@@ -1,34 +1,5 @@
-############################
-# Premier League 2014/15
-
-
 league: en
 season: 2014/15
-start_at: 2014-08-16
-
 fixtures:
 - 1-premierleague-i
 - 1-premierleague-ii
-
-
-20 teams:
-- Chelsea     ## (C)
-- Manchester City
-- Arsenal
-- Manchester United
-- Tottenham Hotspur
-- Liverpool
-- Southampton
-- Swansea City	
-- Stoke City
-- Crystal Palace
-- Everton
-- West Ham United
-- West Bromwich Albion
-- Leicester City
-- Newcastle United
-- Sunderland
-- Aston Villa
-- Hull City           ## (R)
-- Burnley             ## (R)
-- Queens Park Rangers ## (R)

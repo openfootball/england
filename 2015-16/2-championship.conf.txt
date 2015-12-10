@@ -1,13 +1,11 @@
 ###########################################
-#  Football League Championship 2015/16
+#   see en.wikipedia.org/wiki/2015–16_Football_League_Championship
 #
-#    see en.wikipedia.org/wiki/2015–16_Football_League_Championship
+#  start_at: 2015-08-07
+#  24 teams
 
-league: en.2
-season: 2015/16
-start_at: 2015-08-07
+English Championship 2015/16
 
-24 Teams:
 - Birmingham City
 - Blackburn Rovers
 - Bolton Wanderers

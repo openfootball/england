@@ -1,13 +1,12 @@
 ###########################################
-#   Football League One 2015/16
+#  see en.wikipedia.org/wiki/2015–16_Football_League_One
 #
-#    see en.wikipedia.org/wiki/2015–16_Football_League_One
+#  start_at: 2015-08-08
+#  24 teams
 
-league: en.3
-season: 2015/16
-start_at: 2015-08-08
 
-24 Teams:
+English League One 2015/16
+
 - Barnsley
 - Blackpool
 - Bradford City
