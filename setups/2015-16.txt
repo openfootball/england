@@ -9,5 +9,10 @@ eng-england!/clubs/wales
 eng-england!/clubs/more
 
 # - 2015/16
+eng-england!/2015-16/1-premierleague.conf
 eng-england!/2015-16/1-premierleague
+eng-england!/2015-16/2-championship.conf
+eng-england!/2015-16/3-league1.conf
+eng-england!/2015-16/4-league2.conf
+
 
