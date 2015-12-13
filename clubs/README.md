@@ -3,7 +3,7 @@
 ### Clubs
 
 
-**[1-premierleague](1-premierleague.txt)** _(19)_ -- 
+**[1-premierleague.txt](1-premierleague.txt)** _(19)_ -- 
 Chelsea •
 Arsenal •
 Tottenham Hotspur •
@@ -22,11 +22,11 @@ Southampton •
 Leicester City •
 Bournemouth •
 Norwich •
-Watford •
+Watford
 
 
 
-**[2-championship](2-championship.txt)** _(23)_ -- 
+**[2-championship.txt](2-championship.txt)** _(23)_ -- 
 Birmingham City •
 Blackburn Rovers •
 Bolton Wanderers •
@@ -49,11 +49,11 @@ Preston North End •
 Reading •
 Rotherham United •
 Sheffield Wednesday •
-Wolverhampton Wanderers •
+Wolverhampton Wanderers
 
 
 
-**[more](more.txt)** _(48)_ -- 
+**[more.txt](more.txt)** _(48)_ -- 
 Barnsley •
 Blackpool •
 Bradford City •
@@ -101,14 +101,14 @@ Portsmouth •
 Stevenage •
 Yeovil Town •
 York City •
-Tranmere Rovers •
+Tranmere Rovers
 
 
 
-**[wales](wales.txt)** _(3)_ -- 
-Swansea •
-Cardiff City •
-Newport County •
+**[wales.txt](wales.txt)** _(3)_ -- 
+Swansea _(wal)_ •
+Cardiff City _(wal)_ •
+Newport County _(wal)_
 
 
 
