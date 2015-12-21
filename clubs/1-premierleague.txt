@@ -38,7 +38,7 @@
   wikipedia: Crystal_Palace_F.C.
 
 [manutd]
-  Manchester United|Manchester United FC|Man Utd|Manchester U.|Manchester U, 1878, MUN
+  Manchester United|Manchester United FC|Man Utd|Man United|Manchester U.|Manchester U, 1878, MUN
   // Manchester    ## @ Old Trafford
   www.manutd.com
   wikipedia: Manchester_United_F.C.
