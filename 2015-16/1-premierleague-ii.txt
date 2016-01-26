@@ -5,8 +5,6 @@
 Matchday 20
 [Sat Jan/2]
 Arsenal FC            1-0  Newcastle United
-Crystal Palace        0-3  Chelsea FC
-Everton FC            1-1  Tottenham Hotspur
 Leicester City        0-0  AFC Bournemouth
 Manchester United     2-1  Swansea City
 Norwich City          1-0  Southampton FC
@@ -14,6 +12,9 @@ Sunderland AFC        3-1  Aston Villa
 Watford FC            1-2  Manchester City
 West Bromwich Albion  2-1  Stoke City
 West Ham United       2-0  Liverpool FC
+[Sun Jan/3]
+Crystal Palace        0-3  Chelsea FC
+Everton FC            1-1  Tottenham Hotspur
 
 Matchday 21
 [Tue Jan/12]
@@ -34,26 +35,29 @@ Matchday 22
 AFC Bournemouth       3-0  Norwich City
 Aston Villa           1-1  Leicester City
 Chelsea FC            3-3  Everton FC
-Liverpool FC          0-1  Manchester United
 Manchester City       4-0  Crystal Palace
 Newcastle United      2-1  West Ham United
 Southampton FC        3-0  West Bromwich Albion
-Stoke City            0-0  Arsenal FC
-Swansea City          1-0  Watford FC
 Tottenham Hotspur     4-1  Sunderland AFC
+[Sun Jan/17]
+Liverpool FC          0-1  Manchester United
+Stoke City            0-0  Arsenal FC
+[Mon Jan/18]
+Swansea City          1-0  Watford FC
 
 Matchday 23
 [Sat Jan/23]
-Arsenal FC            0-1  Chelsea FC
-Crystal Palace        1-3  Tottenham Hotspur
-Everton FC            1-2  Swansea City
-Leicester City        3-0  Stoke City
-Manchester United     0-1  Southampton FC
-Norwich City          4-5  Liverpool FC
-Sunderland AFC        1-1  AFC Bournemouth
-Watford FC            2-1  Newcastle United
-West Bromwich Albion  0-0  Aston Villa
-West Ham United       2-2  Manchester City
+  Crystal Palace        1-3  Tottenham Hotspur
+  Leicester City        3-0  Stoke City
+  Manchester United     0-1  Southampton FC
+  Norwich City          4-5  Liverpool FC
+  Sunderland AFC        1-1  AFC Bournemouth
+  Watford FC            2-1  Newcastle United
+  West Bromwich Albion  0-0  Aston Villa
+  West Ham United       2-2  Manchester City
+[Sun Jan/24]
+  Arsenal FC            0-1  Chelsea FC
+  Everton FC            1-2  Swansea City
 
 Matchday 24
 [Tue Feb/2]
@@ -71,60 +75,64 @@ Matchday 24
 
 Matchday 25
 [Sat Feb/6]
-AFC Bournemouth  -  Arsenal FC
 Aston Villa  -  Norwich City
-Chelsea FC  -  Manchester United
 Liverpool FC  -  Sunderland AFC
 Manchester City  -  Leicester City
 Newcastle United  -  West Bromwich Albion
-Southampton FC  -  West Ham United
 Stoke City  -  Everton FC
 Swansea City  -  Crystal Palace
 Tottenham Hotspur  -  Watford FC
+[Sun Feb/7]
+AFC Bournemouth  -  Arsenal FC
+Chelsea FC  -  Manchester United
+[Mon Feb/8]
+Southampton FC  -  West Ham United
 
 Matchday 26
 [Sat Feb/13]
 AFC Bournemouth  -  Stoke City
-Arsenal FC  -  Leicester City
-Aston Villa  -  Liverpool FC
 Chelsea FC  -  Newcastle United
 Crystal Palace  -  Watford FC
 Everton FC  -  West Bromwich Albion
-Manchester City  -  Tottenham Hotspur
 Norwich City  -  West Ham United
 Sunderland AFC  -  Manchester United
 Swansea City  -  Southampton FC
+[Sun Feb/14]
+Arsenal FC  -  Leicester City
+Aston Villa  -  Liverpool FC
+Manchester City  -  Tottenham Hotspur
 
 Matchday 27
 [Sat Feb/27]
 Leicester City  -  Norwich City
-Liverpool FC  -  Everton FC
-Manchester United  -  Arsenal FC
-Newcastle United  -  Manchester City
 Southampton FC  -  Chelsea FC
 Stoke City  -  Aston Villa
-Tottenham Hotspur  -  Swansea City
 Watford FC  -  AFC Bournemouth
 West Bromwich Albion  -  Crystal Palace
 West Ham United  -  Sunderland AFC
+[Sun Feb/28]
+Liverpool FC  -  Everton FC
+Manchester United  -  Arsenal FC
+Newcastle United  -  Manchester City
+Tottenham Hotspur  -  Swansea City
 
 Matchday 28
 [Tue Mar/1]
   AFC Bournemouth  -  Southampton FC
-  Arsenal FC  -  Swansea City
   Aston Villa  -  Everton FC
   Leicester City  -  West Bromwich Albion
-  Liverpool FC  -  Manchester City
-  Manchester United  -  Watford FC
   Norwich City  -  Chelsea FC
   Sunderland AFC  -  Crystal Palace
-  West Ham United  -  Tottenham Hotspur
+[Wed Mar/2]
+  Arsenal FC  -  Swansea City
+  Liverpool FC  -  Manchester City
+  Manchester United  -  Watford FC
   Stoke City  -  Newcastle United
-
+  West Ham United  -  Tottenham Hotspur
+  
 Matchday 29
 [Sat Mar/5]
 Chelsea FC  -  Stoke City
-Crystal Palace  -  Liverpool FC
 Everton FC  -  West Ham United
 Manchester City  -  Aston Villa
 Newcastle United  -  AFC Bournemouth
@@ -132,6 +140,8 @@ Southampton FC  -  Sunderland AFC
 Swansea City  -  Norwich City
 Tottenham Hotspur  -  Arsenal FC
 Watford FC  -  Leicester City
+[Sun Mar/6]
+Crystal Palace  -  Liverpool FC
 West Bromwich Albion  -  Manchester United
 
 Matchday 30
@@ -139,26 +149,29 @@ Matchday 30
 AFC Bournemouth  -  Swansea City
 Arsenal FC  -  West Bromwich Albion
 Aston Villa  -  Tottenham Hotspur
-Leicester City  -  Newcastle United
-Liverpool FC  -  Chelsea FC
 Manchester United  -  Crystal Palace
 Norwich City  -  Manchester City
 Stoke City  -  Southampton FC
 Sunderland AFC  -  Everton FC
 West Ham United  -  Watford FC
+[Sun Mar/13]
+Liverpool FC  -  Chelsea FC
+[Mon Mar/14]
+Leicester City  -  Newcastle United
 
 Matchday 31
 [Sat Mar/19]
 Chelsea FC  -  West Ham United
 Crystal Palace  -  Leicester City
 Everton FC  -  Arsenal FC
-Manchester City  -  Manchester United
-Newcastle United  -  Sunderland AFC
 Southampton FC  -  Liverpool FC
 Swansea City  -  Aston Villa
 Tottenham Hotspur  -  AFC Bournemouth
 Watford FC  -  Stoke City
 West Bromwich Albion  -  Norwich City
+[Sun Mar/20]
+Manchester City  -  Manchester United
+Newcastle United  -  Sunderland AFC
 
 Matchday 32
 [Sat Apr/2]
