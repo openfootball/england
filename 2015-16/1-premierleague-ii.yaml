@@ -1,0 +1,261 @@
+- 20:
+  - 2016-1-2:
+    - {home_team: Arsenal FC, away_team: Newcastle United, home_team_score: 1, away_team_score: 0}
+    - {home_team: Leicester City, away_team: AFC Bournemouth, home_team_score: 0, away_team_score: 0}
+    - {home_team: Manchester United, away_team: Swansea City, home_team_score: 2, away_team_score: 1}
+    - {home_team: Norwich City, away_team: Southampton FC, home_team_score: 1, away_team_score: 0}
+    - {home_team: derland AFC, away_team: Aston Villa, home_team_score: 3, away_team_score: 1}
+    - {home_team: Watford FC, away_team: Manchester City, home_team_score: 1, away_team_score: 2}
+    - {home_team: West Bromwich Albion, away_team: Stoke City, home_team_score: 2, away_team_score: 1}
+    - {home_team: West Ham United, away_team: Liverpool FC, home_team_score: 2, away_team_score: 0}
+  - 2016-1-3:
+    - {home_team: Crystal Palace, away_team: Chelsea FC, home_team_score: 0, away_team_score: 3}
+    - {home_team: Everton FC, away_team: Tottenham Hotspur, home_team_score: 1, away_team_score: 1}
+
+- 21:
+  - 2016-1-12:
+    - {home_team: AFC Bournemouth, away_team: West Ham United, home_team_score: 1, away_team_score: 3}
+    - {home_team: Aston Villa, away_team: Crystal Palace, home_team_score: 1, away_team_score: 0}
+    - {home_team: Liverpool FC, away_team: Arsenal FC, home_team_score: 3, away_team_score: 3}
+    - {home_team: Swansea City, away_team: derland AFC, home_team_score: 2, away_team_score: 4}
+  - 2016-1-13:
+    - {home_team: Chelsea FC, away_team: West Bromwich Albion, home_team_score: 2, away_team_score: 2}
+    - {home_team: Manchester City, away_team: Everton FC, home_team_score: 0, away_team_score: 0}
+    - {home_team: Newcastle United, away_team: Manchester United, home_team_score: 3, away_team_score: 3}
+    - {home_team: Southampton FC, away_team: Watford FC, home_team_score: 2, away_team_score: 0}
+    - {home_team: Stoke City, away_team: Norwich City, home_team_score: 3, away_team_score: 1}
+    - {home_team: Tottenham Hotspur, away_team: Leicester City, home_team_score: 0, away_team_score: 1}
+
+- 22:
+  - 2016-1-16:
+    - {home_team: AFC Bournemouth, away_team: Norwich City, home_team_score: 3, away_team_score: 0}
+    - {home_team: Aston Villa, away_team: Leicester City, home_team_score: 1, away_team_score: 1}
+    - {home_team: Chelsea FC, away_team: Everton FC, home_team_score: 3, away_team_score: 3}
+    - {home_team: Manchester City, away_team: Crystal Palace, home_team_score: 4, away_team_score: 0}
+    - {home_team: Newcastle United, away_team: West Ham United, home_team_score: 2, away_team_score: 1}
+    - {home_team: Southampton FC, away_team: West Bromwich Albion, home_team_score: 3, away_team_score: 0}
+    - {home_team: Tottenham Hotspur, away_team: derland AFC, home_team_score: 4, away_team_score: 1}
+  - 2016-1-17:
+    - {home_team: Liverpool FC, away_team: Manchester United, home_team_score: 0, away_team_score: 1}
+    - {home_team: Stoke City, away_team: Arsenal FC, home_team_score: 0, away_team_score: 0}
+  - 2016-1-18:
+    - {home_team: Swansea City, away_team: Watford FC, home_team_score: 1, away_team_score: 0}
+
+- 23:
+  - 2016-1-23:
+    - {home_team: Crystal Palace, away_team: Tottenham Hotspur, home_team_score: 1, away_team_score: 3}
+    - {home_team: Leicester City, away_team: Stoke City, home_team_score: 3, away_team_score: 0}
+    - {home_team: Manchester United, away_team: Southampton FC, home_team_score: 0, away_team_score: 1}
+    - {home_team: Norwich City, away_team: Liverpool FC, home_team_score: 4, away_team_score: 5}
+    - {home_team: derland AFC, away_team: AFC Bournemouth, home_team_score: 1, away_team_score: 1}
+    - {home_team: Watford FC, away_team: Newcastle United, home_team_score: 2, away_team_score: 1}
+    - {home_team: West Bromwich Albion, away_team: Aston Villa, home_team_score: 0, away_team_score: 0}
+    - {home_team: West Ham United, away_team: Manchester City, home_team_score: 2, away_team_score: 2}
+  - 2016-1-24:
+    - {home_team: Arsenal FC, away_team: Chelsea FC, home_team_score: 0, away_team_score: 1}
+    - {home_team: Everton FC, away_team: Swansea City, home_team_score: 1, away_team_score: 2}
+
+- 24:
+  - 2016-2-2:
+    - {home_team: Arsenal FC, away_team: Southampton FC, home_team_score: 0, away_team_score: 0}
+    - {home_team: Crystal Palace, away_team: AFC Bournemouth, home_team_score: 1, away_team_score: 2}
+    - {home_team: Leicester City, away_team: Liverpool FC, home_team_score: 2, away_team_score: 0}
+    - {home_team: Manchester United, away_team: Stoke City, home_team_score: 3, away_team_score: 0}
+    - {home_team: Norwich City, away_team: Tottenham Hotspur, home_team_score: 0, away_team_score: 3}
+    - {home_team: derland AFC, away_team: Manchester City, home_team_score: 0, away_team_score: 1}
+    - {home_team: Watford FC, away_team: Chelsea FC, home_team_score: 0, away_team_score: 0}
+    - {home_team: West Bromwich Albion, away_team: Swansea City, home_team_score: 1, away_team_score: 1}
+    - {home_team: West Ham United, away_team: Aston Villa, home_team_score: 2, away_team_score: 0}
+  - 2016-2-3:
+    - {home_team: Everton FC, away_team: Newcastle United, home_team_score: 3, away_team_score: 0}
+
+- 25:
+  - 2016-2-6:
+    - {home_team: Aston Villa, away_team: Norwich City, home_team_score: 2, away_team_score: 0}
+    - {home_team: Liverpool FC, away_team: derland AFC, home_team_score: 2, away_team_score: 2}
+    - {home_team: Manchester City, away_team: Leicester City, home_team_score: 1, away_team_score: 3}
+    - {home_team: Newcastle United, away_team: West Bromwich Albion, home_team_score: 1, away_team_score: 0}
+    - {home_team: Stoke City, away_team: Everton FC, home_team_score: 0, away_team_score: 3}
+    - {home_team: Swansea City, away_team: Crystal Palace, home_team_score: 1, away_team_score: 1}
+    - {home_team: Tottenham Hotspur, away_team: Watford FC, home_team_score: 1, away_team_score: 0}
+  - 2016-2-7:
+    - {home_team: AFC Bournemouth, away_team: Arsenal FC, home_team_score: 0, away_team_score: 2}
+    - {home_team: Chelsea FC, away_team: Manchester United, home_team_score: 1, away_team_score: 1}
+  - 2016-2-8:
+    - {home_team: Southampton FC, away_team: West Ham United, home_team_score: 1, away_team_score: 0}
+
+- 26:
+  - 2016-2-13:
+    - {home_team: AFC Bournemouth, away_team: Stoke City, home_team_score: 1, away_team_score: 3}
+    - {home_team: Chelsea FC, away_team: Newcastle United, home_team_score: 5, away_team_score: 1}
+    - {home_team: Crystal Palace, away_team: Watford FC, home_team_score: 1, away_team_score: 2}
+    - {home_team: Everton FC, away_team: West Bromwich Albion, home_team_score: 0, away_team_score: 1}
+    - {home_team: Norwich City, away_team: West Ham United, home_team_score: 2, away_team_score: 2}
+    - {home_team: derland AFC, away_team: Manchester United, home_team_score: 2, away_team_score: 1}
+    - {home_team: Swansea City, away_team: Southampton FC, home_team_score: 0, away_team_score: 1}
+  - 2016-2-14:
+    - {home_team: Arsenal FC, away_team: Leicester City, home_team_score: 2, away_team_score: 1}
+    - {home_team: Aston Villa, away_team: Liverpool FC, home_team_score: 0, away_team_score: 6}
+    - {home_team: Manchester City, away_team: Tottenham Hotspur, home_team_score: 1, away_team_score: 2}
+
+- 27:
+  - 2016-2-27:
+    - {home_team: Leicester City, away_team: Norwich City, home_team_score: 1, away_team_score: 0}
+    - {home_team: Southampton FC, away_team: Chelsea FC, home_team_score: 1, away_team_score: 2}
+    - {home_team: Stoke City, away_team: Aston Villa, home_team_score: 2, away_team_score: 1}
+    - {home_team: Watford FC, away_team: AFC Bournemouth, home_team_score: 0, away_team_score: 0}
+    - {home_team: West Bromwich Albion, away_team: Crystal Palace, home_team_score: 3, away_team_score: 2}
+    - {home_team: West Ham United, away_team: derland AFC, home_team_score: 1, away_team_score: 0}
+  - 2016-2-28:
+    - {home_team: Liverpool FC, away_team: Everton FC, home_team_score: NULL, away_team_score: NULL, status: verschoben}
+    - {home_team: Manchester United, away_team: Arsenal FC, home_team_score: 3, away_team_score: 2}
+    - {home_team: Newcastle United, away_team: Manchester City, home_team_score: NULL, away_team_score: NULL, status: verschoben}
+    - {home_team: Tottenham Hotspur, away_team: Swansea City, home_team_score: 2, away_team_score: 1}
+
+- 28:
+  - 2016-3-1:
+    - {home_team: AFC Bournemouth, away_team: Southampton FC, home_team_score: 2, away_team_score: 0}
+    - {home_team: Aston Villa, away_team: Everton FC, home_team_score: 1, away_team_score: 3}
+    - {home_team: Leicester City, away_team: West Bromwich Albion, home_team_score: 2, away_team_score: 2}
+    - {home_team: Norwich City, away_team: Chelsea FC, home_team_score: 1, away_team_score: 2}
+    - {home_team: derland AFC, away_team: Crystal Palace, home_team_score: 2, away_team_score: 2}
+  - 2016-3-2:
+    - {home_team: Arsenal FC, away_team: Swansea City, home_team_score: 1, away_team_score: 2}
+    - {home_team: Liverpool FC, away_team: Manchester City, home_team_score: 3, away_team_score: 0}
+    - {home_team: Manchester United, away_team: Watford FC, home_team_score: 1, away_team_score: 0}
+    - {home_team: Stoke City, away_team: Newcastle United, home_team_score: 1, away_team_score: 0}
+    - {home_team: West Ham United, away_team: Tottenham Hotspur, home_team_score: 1, away_team_score: 0}
+
+- 29:
+  - 2016-3-5:
+    - {home_team: Chelsea FC, away_team: Stoke City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Everton FC, away_team: West Ham United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester City, away_team: Aston Villa, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Newcastle United, away_team: AFC Bournemouth, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Southampton FC, away_team: derland AFC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Swansea City, away_team: Norwich City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Tottenham Hotspur, away_team: Arsenal FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Watford FC, away_team: Leicester City, home_team_score: NULL, away_team_score: NULL}
+  - 2016-3-6:
+    - {home_team: Crystal Palace, away_team: Liverpool FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Bromwich Albion, away_team: Manchester United, home_team_score: NULL, away_team_score: NULL}
+
+- 30:
+  - 2016-3-12:
+    - {home_team: AFC Bournemouth, away_team: Swansea City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Arsenal FC, away_team: West Bromwich Albion, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Aston Villa, away_team: Tottenham Hotspur, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester United, away_team: Crystal Palace, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Norwich City, away_team: Manchester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Stoke City, away_team: Southampton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: derland AFC, away_team: Everton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Ham United, away_team: Watford FC, home_team_score: NULL, away_team_score: NULL}
+  - 2016-3-13:
+    - {home_team: Liverpool FC, away_team: Chelsea FC, home_team_score: NULL, away_team_score: NULL}
+  - 2016-3-14:
+    - {home_team: Leicester City, away_team: Newcastle United, home_team_score: NULL, away_team_score: NULL}
+
+- 31:
+  - 2016-3-19:
+    - {home_team: Chelsea FC, away_team: West Ham United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Crystal Palace, away_team: Leicester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Everton FC, away_team: Arsenal FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Southampton FC, away_team: Liverpool FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Swansea City, away_team: Aston Villa, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Tottenham Hotspur, away_team: AFC Bournemouth, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Watford FC, away_team: Stoke City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Bromwich Albion, away_team: Norwich City, home_team_score: NULL, away_team_score: NULL}
+  - 2016-3-20:
+    - {home_team: Manchester City, away_team: Manchester United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Newcastle United, away_team: derland AFC, home_team_score: NULL, away_team_score: NULL}
+
+- 32:
+  - 2016-4-2:
+    - {home_team: AFC Bournemouth, away_team: Manchester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Arsenal FC, away_team: Watford FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Aston Villa, away_team: Chelsea FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Leicester City, away_team: Southampton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Liverpool FC, away_team: Tottenham Hotspur, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester United, away_team: Everton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Norwich City, away_team: Newcastle United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Stoke City, away_team: Swansea City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: derland AFC, away_team: West Bromwich Albion, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Ham United, away_team: Crystal Palace, home_team_score: NULL, away_team_score: NULL}
+
+- 33:
+  - 2016-4-9:
+    - {home_team: Aston Villa, away_team: AFC Bournemouth, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Crystal Palace, away_team: Norwich City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Liverpool FC, away_team: Stoke City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester City, away_team: West Bromwich Albion, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Southampton FC, away_team: Newcastle United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: derland AFC, away_team: Leicester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Swansea City, away_team: Chelsea FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Tottenham Hotspur, away_team: Manchester United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Watford FC, away_team: Everton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Ham United, away_team: Arsenal FC, home_team_score: NULL, away_team_score: NULL}
+
+- 34:
+  - 2016-4-16:
+    - {home_team: AFC Bournemouth, away_team: Liverpool FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Arsenal FC, away_team: Crystal Palace, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Chelsea FC, away_team: Manchester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Everton FC, away_team: Southampton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Leicester City, away_team: West Ham United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester United, away_team: Aston Villa, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Newcastle United, away_team: Swansea City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Norwich City, away_team: derland AFC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Stoke City, away_team: Tottenham Hotspur, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Bromwich Albion, away_team: Watford FC, home_team_score: NULL, away_team_score: NULL}
+
+- 35:
+  - 2016-4-23:
+    - {home_team: AFC Bournemouth, away_team: Chelsea FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Aston Villa, away_team: Southampton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Crystal Palace, away_team: Everton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Leicester City, away_team: Swansea City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Liverpool FC, away_team: Newcastle United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester City, away_team: Stoke City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Norwich City, away_team: Watford FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: derland AFC, away_team: Arsenal FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Tottenham Hotspur, away_team: West Bromwich Albion, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Ham United, away_team: Manchester United, home_team_score: NULL, away_team_score: NULL}
+
+- 36:
+  - 2016-4-30:
+    - {home_team: Arsenal FC, away_team: Norwich City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Chelsea FC, away_team: Tottenham Hotspur, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Everton FC, away_team: AFC Bournemouth, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester United, away_team: Leicester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Newcastle United, away_team: Crystal Palace, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Southampton FC, away_team: Manchester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Stoke City, away_team: derland AFC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Swansea City, away_team: Liverpool FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Watford FC, away_team: Aston Villa, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Bromwich Albion, away_team: West Ham United, home_team_score: NULL, away_team_score: NULL}
+
+- 37:
+  - 2016-5-7:
+    - {home_team: AFC Bournemouth, away_team: West Bromwich Albion, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Aston Villa, away_team: Newcastle United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Crystal Palace, away_team: Stoke City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Leicester City, away_team: Everton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Liverpool FC, away_team: Watford FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester City, away_team: Arsenal FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Norwich City, away_team: Manchester United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: derland AFC, away_team: Chelsea FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Tottenham Hotspur, away_team: Southampton FC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Ham United, away_team: Swansea City, home_team_score: NULL, away_team_score: NULL}
+
+- 38:
+  - 2016-5-15:
+    - {home_team: Arsenal FC, away_team: Aston Villa, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Chelsea FC, away_team: Leicester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Everton FC, away_team: Norwich City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Manchester United, away_team: AFC Bournemouth, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Newcastle United, away_team: Tottenham Hotspur, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Southampton FC, away_team: Crystal Palace, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Stoke City, away_team: West Ham United, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Swansea City, away_team: Manchester City, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: Watford FC, away_team: derland AFC, home_team_score: NULL, away_team_score: NULL}
+    - {home_team: West Bromwich Albion, away_team: Liverpool FC, home_team_score: NULL, away_team_score: NULL}
