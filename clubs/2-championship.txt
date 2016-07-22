@@ -22,7 +22,7 @@ Huddersfield Town,      // Huddersfield    ##  @ John Smith's Stadium
 Ipswich Town,           // Ipswich         ##  @ Portman Road
 
 [hull]
-  Hull City|Hull, 1904, HUL
+  Hull City|Hull|Hull City FC, 1904, HUL
   // Kingston upon Hull   ## @ KC Stadium
   www.hullcitytigers.com
   wikipedia: Hull_City_A.F.C.
@@ -39,18 +39,26 @@ Charlton Athletic,      // London (Charlton)     ## @ The Valley
   wikipedia: Queens_Park_Rangers_F.C.
 
 [fulham]
-  Fulham|Fulham FC|FC Fulham,  FUL
+  Fulham|Fulham FC|FC Fulham, 1879, FUL
   // London (Fulham)       ## @ Craven Cottage
+  www.fulhamfc.com
+  wikipedia: Fulham_F.C.
 
+[middlesbrough]
+  Middlesbrough|Middlesbrough FC, 1876, MFC
+  // Middlesbrough    ##  @ Riverside Stadium
+  www.mfc.co.uk
+  wikipedia: Middlesbrough_F.C.
 
-Middlesbrough,            // Middlesbrough    ##  @ Riverside Stadium
 Milton Keynes Dons,       // Milton Keynes    ##  @ Stadium:mk
 Nottingham Forest,        // Nottingham       ##  @ City Ground
 Preston North End,        // Preston          ##  @ Deepdale
-         
+
 [reading]
-  Reading|Reading FC|FC Reading, RDG
+  Reading|Reading FC|FC Reading, 1871, RDG
   // Reading   ##  @ Madejski Stadium
+  www.readingfc.co.uk
+  wikipedia: Reading_F.C.
 
 Rotherham United,         // Rotherham        ##  @ New York Stadium
 Sheffield Wednesday,      // Sheffield        ##  @ Hillsborough
