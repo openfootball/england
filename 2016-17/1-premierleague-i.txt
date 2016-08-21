@@ -31,15 +31,274 @@ Matchday 1
 Matchday 2
 
 [Fri Aug/19]
-  Manchester United     2-0  Southampton FC
+  Manchester United     2-0 (1-0) Southampton FC   @ Old Trafford, Manchester
+    [Ibrahimovic 36', 52' (Pen.)]
 [Sat Aug/20]
-  Stoke City            1-4  Manchester City
-  Burnley FC            2-0  Liverpool FC
-  Swansea City          0-2  Hull City
-  Tottenham Hotspur     1-0  Crystal Palace
-  Watford FC            1-2  Chelsea FC
-  West Bromwich Albion  1-2  Everton FC
-  Leicester City        0-0  Arsenal FC
+  Stoke City            1-4 (0-2)  Manchester City  @ Britannia Stadium, Stoke-on-Trent
+    [Bojan 49' (Pen.); Aguero 27' (Pen.), 36'  Nolito 86', 90+5']
+  Burnley FC            2-0  (2-0) Liverpool FC    @ Turf Moor, Burnley
+    [Vokes 2'  A. Gray 37']
+  Swansea City          0-2 (0-0)  Hull City    @ Liberty Stadium, Swansea
+    [-; Maloney 79' Hernandez 90+2']
+  Tottenham Hotspur     1-0 (0-0)  Crystal Palace   @ White Hart Lane, London
+    [Wanyama 82']
+  Watford FC            1-2 (0-0)  Chelsea FC   @ Vicarage Road, Watford
+    [Capoue 55'; Batshuayi 80' Diego Costa 87']
+  West Bromwich Albion  1-2 (1-1)  Everton FC   @ The Hawthorns, West Bromwich
+    [McAuley 9'; Mirallas 45+2' Barry 60']
+  Leicester City        0-0  Arsenal FC        @ King Power Stadium, Leicester
+    []
 [Sun Aug/21]
-  Sunderland AFC        1-2  Middlesbrough FC
-  West Ham United   AFC Bournemouth
+  Sunderland AFC        1-2 (0-2)  Middlesbrough FC   @ Stadium of Light, Sunderland
+    [van Aanholt 71';	Stuani 13', 45']
+  West Ham United       1-0 (0-0) AFC Bournemouth     @ London Stadium, London
+    [Antonio 85']
+
+
+Matchday 3
+
+[Sat Aug/27]
+  Tottenham Hotspur  Liverpool FC
+  Chelsea FC  Burnley FC
+  Crystal Palace  AFC Bournemouth
+  Everton FC  Stoke City
+  Leicester City  Swansea City
+  Southampton FC  Sunderland AFC
+  Watford FC  Arsenal FC
+  Hull City  Manchester United
+[Sun Aug/28]
+  West Bromwich Albion  Middlesbrough FC
+  Manchester City  West Ham United
+
+Matchday 4
+
+[Sat Sept/10]
+  Manchester United  Manchester City
+  AFC Bournemouth  West Bromwich Albion
+  Arsenal FC  Southampton FC
+  Burnley FC  Hull City
+  Middlesbrough FC  Crystal Palace
+  Stoke City  Tottenham Hotspur
+  West Ham United  Watford FC
+  Liverpool FC  Leicester City
+[Sun Sept/11]
+  Swansea City  Chelsea FC
+[Mon Sept/12]
+  Sunderland AFC  Everton FC
+
+Matchday 5
+
+[Fri Sept/16]
+  Chelsea FC  Liverpool FC
+[Sat Sept/17]
+  Hull City  Arsenal FC
+  Leicester City  Burnley FC
+  Manchester City  AFC Bournemouth
+  West Bromwich Albion  West Ham United
+  Everton FC  Middlesbrough FC
+[Sun Sept/18]
+  Watford FC  Manchester United
+  Crystal Palace  Stoke City
+  Southampton FC  Swansea City
+  Tottenham Hotspur  Sunderland AFC
+
+Matchday 6
+
+[Sat Sept/24]
+  Manchester United  Leicester City
+  AFC Bournemouth  Everton FC
+  Liverpool FC  Hull City
+  Middlesbrough FC  Tottenham Hotspur
+  Stoke City  West Bromwich Albion
+  Sunderland AFC  Crystal Palace
+  Swansea City  Manchester City
+  Arsenal FC  Chelsea FC
+[Sun Sept/25]
+  West Ham United  Southampton FC
+[Mon Sept/26]
+  Burnley FC  Watford FC
+
+
+Matchday 7
+
+[Sat Oct/1]
+  Burnley FC  Arsenal FC
+  Everton FC  Crystal Palace
+  Hull City  Chelsea FC
+  Leicester City  Southampton FC
+  Manchester United  Stoke City
+  Sunderland AFC  West Bromwich Albion
+  Swansea City  Liverpool FC
+  Tottenham Hotspur  Manchester City
+  Watford FC  AFC Bournemouth
+  West Ham United  Middlesbrough FC
+
+Matchday 8
+
+[Sat Oct/15]
+  AFC Bournemouth  Hull City
+  Arsenal FC  Swansea City
+  Chelsea FC  Leicester City
+  Crystal Palace  West Ham United
+  Liverpool FC  Manchester United
+  Manchester City  Everton FC
+  Middlesbrough FC  Watford FC
+  Southampton FC  Burnley FC
+  Stoke City  Sunderland AFC
+  West Bromwich Albion  Tottenham Hotspur
+
+Matchday 9
+
+[Sat Oct/22]
+  AFC Bournemouth  Tottenham Hotspur
+  Arsenal FC  Middlesbrough FC
+  Burnley FC  Everton FC
+  Chelsea FC  Manchester United
+  Hull City  Stoke City
+  Leicester City  Crystal Palace
+  Liverpool FC  West Bromwich Albion
+  Manchester City  Southampton FC
+  Swansea City  Watford FC
+  West Ham United  Sunderland AFC
+
+Matchday 10
+
+[Sat Oct/29]
+  Crystal Palace  Liverpool FC
+  Everton FC  West Ham United
+  Manchester United  Burnley FC
+  Middlesbrough FC  AFC Bournemouth
+  Southampton FC  Chelsea FC
+  Stoke City  Swansea City
+  Sunderland AFC  Arsenal FC
+  Tottenham Hotspur  Leicester City
+  Watford FC  Hull City
+  West Bromwich Albion  Manchester City
+
+Matchday 11
+
+[Sat Nov/5]
+  AFC Bournemouth  Sunderland AFC
+  Arsenal FC  Tottenham Hotspur
+  Burnley FC  Crystal Palace
+  Chelsea FC  Everton FC
+  Hull City  Southampton FC
+  Leicester City  West Bromwich Albion
+  Liverpool FC  Watford FC
+  Manchester City  Middlesbrough FC
+  Swansea City  Manchester United
+  West Ham United  Stoke City
+
+Matchday 12
+
+[Sat Nov/19]
+  Crystal Palace  Manchester City
+  Everton FC  Swansea City
+  Manchester United  Arsenal FC
+  Middlesbrough FC  Chelsea FC
+  Southampton FC  Liverpool FC
+  Stoke City  AFC Bournemouth
+  Sunderland AFC  Hull City
+  Tottenham Hotspur  West Ham United
+  Watford FC  Leicester City
+  West Bromwich Albion  Burnley FC
+
+Matchday 13
+
+[Sat Nov/26]
+  Arsenal FC  AFC Bournemouth
+  Burnley FC  Manchester City
+  Chelsea FC  Tottenham Hotspur
+  Hull City  West Bromwich Albion
+  Leicester City  Middlesbrough FC
+  Liverpool FC  Sunderland AFC
+  Manchester United  West Ham United
+  Southampton FC  Everton FC
+  Swansea City  Crystal Palace
+  Watford FC  Stoke City
+
+Matchday 14
+
+[Sat Dec/3]
+  AFC Bournemouth  Liverpool FC
+  Crystal Palace  Southampton FC
+  Everton FC  Manchester United
+  Manchester City  Chelsea FC
+  Middlesbrough FC  Hull City
+  Stoke City  Burnley FC
+  Sunderland AFC  Leicester City
+  Tottenham Hotspur  Swansea City
+  West Bromwich Albion  Watford FC
+  West Ham United  Arsenal FC
+
+Matchday 15
+
+[Sat Dec/10]
+  Arsenal FC  Stoke City
+  Burnley FC  AFC Bournemouth
+  Chelsea FC  West Bromwich Albion
+  Hull City  Crystal Palace
+  Leicester City  Manchester City
+  Liverpool FC  West Ham United
+  Manchester United  Tottenham Hotspur
+  Southampton FC  Middlesbrough FC
+  Swansea City  Sunderland AFC
+  Watford FC  Everton FC
+
+Matchday 16
+
+[Tue Dec/13]
+  AFC Bournemouth  Leicester City
+  Crystal Palace  Manchester United
+  Middlesbrough FC  Liverpool FC
+  Sunderland AFC  Chelsea FC
+  West Bromwich Albion  Swansea City
+  West Ham United  Burnley FC
+[Wed Dec/14]
+  Everton FC  Arsenal FC
+  Manchester City  Watford FC
+  Stoke City  Southampton FC
+  Tottenham Hotspur  Hull City
+
+Matchday 17
+
+[Sat Dec/17]
+  AFC Bournemouth  Southampton FC
+  Crystal Palace  Chelsea FC
+  Everton FC  Liverpool FC
+  Manchester City  Arsenal FC
+  Middlesbrough FC  Swansea City
+  Stoke City  Leicester City
+  Sunderland AFC  Watford FC
+  Tottenham Hotspur  Burnley FC
+  West Bromwich Albion  Manchester United
+  West Ham United  Hull City
+
+Matchday 18
+
+[Mon Dec/26]
+  Arsenal FC  West Bromwich Albion
+  Burnley FC  Middlesbrough FC
+  Chelsea FC  AFC Bournemouth
+  Hull City  Manchester City
+  Leicester City  Everton FC
+  Liverpool FC  Stoke City
+  Manchester United  Sunderland AFC
+  Southampton FC  Tottenham Hotspur
+  Swansea City  West Ham United
+  Watford FC  Crystal Palace
+
+Matchday 19
+
+[Sat Dec/31]
+  Arsenal FC  Crystal Palace
+  Burnley FC  Sunderland AFC
+  Chelsea FC  Stoke City
+  Hull City  Everton FC
+  Leicester City  West Ham United
+  Liverpool FC  Manchester City
+  Manchester United  Middlesbrough FC
+  Southampton FC  West Bromwich Albion
+  Swansea City  AFC Bournemouth
+  Watford FC  Tottenham Hotspur
+
