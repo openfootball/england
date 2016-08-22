@@ -1,0 +1,5 @@
+###
+# ignore build logs and db
+
+build.log
+sport.db

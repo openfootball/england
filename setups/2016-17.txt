@@ -1,0 +1,12 @@
+# - Leagues
+eng-england!/leagues
+
+# - Clubs
+eng-england!/clubs/1-premierleague
+eng-england!/clubs/2-championship
+eng-england!/clubs/wales
+eng-england!/clubs/more
+
+# - 2016/17
+eng-england!/2016-17/1-premierleague.conf
+eng-england!/2016-17/1-premierleague
