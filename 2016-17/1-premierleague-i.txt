@@ -5,7 +5,7 @@ Matchday 1
 
 [Sat Aug/13]
   Hull City    2-1 (1-0)   Leicester City   @ Kingston Communications Stadium, Hull
-    [Diomande 45+1' Snodgrass 57'; Mahrez 47' (Pen.)]
+    [Diomande 45+1' Snodgrass 57'; Mahrez 47' (pen.)]
   Burnley FC   0-1 (0-0)   Swansea City     @ Turf Moor, Burnley
     [-;	Fer 82']
   Crystal Palace  0-1 (0-0)  West Bromwich Albion  @ Selhurst Park, London
@@ -17,7 +17,7 @@ Matchday 1
   Southampton FC  1-1 (0-1)   Watford FC  @ St. Mary's Stadium, Southampton
     [Redmond 58'; Capoue 9']
   Manchester City  2-1 (1-0)   Sunderland AFC  @ Etihad Stadium, Manchester
-    [Aguero 4' (Pen.).; Defoe 71' McNair 87' (OG)]
+    [Aguero 4' (pen.) McNair 87' (o.g.); Defoe 71']
 [Sun Aug/14]
   AFC Bournemouth  1-3 (0-1)   Manchester United    @ Vitality Stadium (Dean Court), Bournemouth
     [A. Smith 69'; Mata 40' Rooney 59' Ibrahimovic 64']
@@ -25,17 +25,17 @@ Matchday 1
     [Walcott 31' Oxlade-Chamberlain 64' Chambers 75'; Coutinho 45+1', 56' Lallana 49' S. Mané 63']
 [Mon Aug/15]
  Chelsea FC   2-1 (0-0)   West Ham United  @ Stamford Bridge, London
-    [Hazard 47' (Pen.) Diego Costa 89'; J. Collins 77']
+    [Hazard 47' (pen.) Diego Costa 89'; J. Collins 77']
 
 
 Matchday 2
 
 [Fri Aug/19]
   Manchester United     2-0 (1-0) Southampton FC   @ Old Trafford, Manchester
-    [Ibrahimovic 36', 52' (Pen.)]
+    [Ibrahimovic 36', 52' (pen.)]
 [Sat Aug/20]
   Stoke City            1-4 (0-2)  Manchester City  @ Britannia Stadium, Stoke-on-Trent
-    [Bojan 49' (Pen.); Aguero 27' (Pen.), 36'  Nolito 86', 90+5']
+    [Bojan 49' (pen.); Aguero 27' (pen.), 36'  Nolito 86', 90+5']
   Burnley FC            2-0  (2-0) Liverpool FC    @ Turf Moor, Burnley
     [Vokes 2'  A. Gray 37']
   Swansea City          0-2 (0-0)  Hull City    @ Liberty Stadium, Swansea
@@ -301,4 +301,3 @@ Matchday 19
   Southampton FC  West Bromwich Albion
   Swansea City  AFC Bournemouth
   Watford FC  Tottenham Hotspur
-

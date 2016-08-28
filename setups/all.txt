@@ -11,6 +11,9 @@ eng-england!/clubs/wales
 eng-england!/clubs/more
 
 # - Fixtures
+eng-england!/2016-17/1-premierleague.conf
+eng-england!/2016-17/1-premierleague
+
 eng-england!/2015-16/1-premierleague.conf
 eng-england!/2015-16/1-premierleague
 eng-england!/2015-16/2-championship.conf

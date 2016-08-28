@@ -10,5 +10,7 @@ inline do
   Country.parse 'wal', 'Wales',    'WAL',  '20_779 km²',   '3_064_000'
 end
 
-## note: for now use only 2016-17.txt setup (not the default all.txt)
-football 'eng-england', setup: '2016-17'
+football 'eng-england'
+
+# note: for now use only 2016-17.txt setup (not the default all.txt)
+# football 'eng-england', setup: '2016-17'
