@@ -1,0 +1,533 @@
+
+ Round 38
+
+May/15 Arsenal 1-0 Aston Villa
+May/15 Charlton 0-1 Sheffield Wed
+May/15 Chelsea 2-1 Derby
+May/15 Coventry 2-2 Leeds
+May/15 Liverpool 3-0 Wimbledon FC
+May/15 Manchester United 2-1 Tottenham
+May/15 Newcastle Utd 1-1 Blackburn
+May/15 Nottingham 1-0 Leicester
+May/15 Southampton 2-0 Everton
+May/15 West Ham 4-0 Middlesbrough
+
+ Round 33
+
+May/11 Blackburn 0-0 Manchester United
+
+ Round 37
+
+May/10 Leeds 1-0 Arsenal
+May/09 Tottenham 2-2 Chelsea
+May/08 Middlesbrough 0-1 Manchester United
+May/07 Aston Villa 3-4 Charlton
+May/07 Blackburn 1-2 Nottingham
+May/07 Derby 0-0 Coventry
+May/07 Everton 6-0 West Ham
+May/07 Leicester 2-0 Newcastle Utd
+May/07 Sheffield Wed 1-0 Liverpool
+May/07 Wimbledon FC 0-2 Southampton
+
+ Round 32
+
+May/04 Chelsea 1-0 Leeds
+
+ Round 25
+
+May/04 Leicester 1-2 Derby
+
+ Round 28
+
+May/04 Liverpool 2-2 Manchester United
+
+ Round 33
+
+May/04 Tottenham 1-3 Arsenal
+
+ Round 36
+
+May/01 Arsenal 1-0 Derby
+Apr/30 Charlton 0-0 Blackburn
+Apr/30 Chelsea 3-1 Everton
+Apr/30 Coventry 2-1 Wimbledon FC
+Apr/30 Liverpool 3-2 Tottenham
+Apr/30 Manchester United 2-1 Aston Villa
+Apr/30 Newcastle Utd 1-1 Middlesbrough
+Apr/30 Nottingham 2-0 Sheffield Wed
+Apr/30 Southampton 2-1 Leicester
+Apr/30 West Ham 1-5 Leeds
+
+ Round 35
+
+Apr/24 Leeds 1-1 Manchester United
+Apr/24 Sheffield Wed 0-0 Chelsea
+Apr/23 Aston Villa 2-0 Nottingham
+Apr/23 Blackburn 1-3 Liverpool
+Apr/23 Derby 0-0 Southampton
+Apr/23 Everton 4-1 Charlton
+Apr/23 Leicester 1-0 Coventry
+Apr/23 Middlesbrough 1-6 Arsenal
+Apr/23 Tottenham 1-2 West Ham
+Apr/23 Wimbledon FC 1-1 Newcastle Utd
+
+ Round 30
+
+Apr/20 Liverpool 0-1 Leicester
+
+ Round 33
+
+Apr/20 Sheffield Wed 1-1 Newcastle Utd
+
+ Round 30
+
+Apr/19 Charlton 1-4 Tottenham
+
+ Round 34
+
+Apr/18 Arsenal 5-1 Wimbledon FC
+Apr/17 Chelsea 2-2 Leicester
+Apr/16 Charlton 1-1 Leeds
+Apr/16 Coventry 1-2 Middlesbrough
+Apr/16 Liverpool 0-1 Aston Villa
+Apr/16 Manchester United 3-0 Sheffield Wed
+Apr/16 Newcastle Utd 1-3 Everton
+Apr/16 Nottingham 0-1 Tottenham
+Apr/16 Southampton 3-3 Blackburn
+Apr/16 West Ham 5-1 Derby
+
+ Round 28
+
+Apr/13 Middlesbrough 0-0 Chelsea
+
+ Round 33
+
+Apr/11 Leeds 0-0 Liverpool
+Apr/10 Everton 2-0 Coventry
+Apr/10 Wimbledon FC 1-2 Chelsea
+Apr/09 Aston Villa 3-0 Southampton
+Apr/09 Derby 1-0 Nottingham
+Apr/09 Leicester 0-0 West Ham
+Apr/09 Middlesbrough 2-0 Charlton
+
+ Round 32
+
+Apr/05 Arsenal 1-0 Blackburn
+Apr/05 Leicester 2-2 Aston Villa
+Apr/04 Coventry 1-0 Southampton
+Apr/04 Everton 1-2 Sheffield Wed
+Apr/04 Middlesbrough 3-1 Wimbledon FC
+Apr/04 Newcastle Utd 1-1 Tottenham
+Apr/04 Nottingham 2-2 Liverpool
+Apr/04 West Ham 0-1 Charlton
+
+ Round 31
+
+Apr/02 Blackburn 0-0 Middlesbrough
+Apr/02 Charlton 0-1 Chelsea
+Apr/02 Derby 3-4 Newcastle Utd
+Apr/02 Leeds 3-1 Nottingham
+Apr/02 Liverpool 3-2 Everton
+Apr/02 Sheffield Wed 1-2 Coventry
+Apr/02 Southampton 0-0 Arsenal
+Apr/02 Tottenham 0-2 Leicester
+Apr/02 Wimbledon FC 1-1 Manchester United
+Apr/01 Aston Villa 0-0 West Ham
+
+ Round 30
+
+Mar/20 Aston Villa 0-3 Chelsea
+Mar/20 Manchester United 3-1 Everton
+Mar/19 Arsenal 2-0 Coventry
+Mar/19 Blackburn 3-1 Wimbledon FC
+Mar/19 Leeds 4-1 Derby
+Mar/19 Nottingham 1-2 Middlesbrough
+Mar/19 Southampton 1-0 Sheffield Wed
+Mar/19 West Ham 2-0 Newcastle Utd
+
+ Round 29
+
+Mar/13 Middlesbrough 3-0 Southampton
+Mar/12 Chelsea 0-1 West Ham
+Mar/12 Coventry 1-1 Blackburn
+Mar/12 Derby 3-2 Liverpool
+Mar/12 Everton 0-2 Arsenal
+Mar/12 Leicester 1-1 Charlton
+Mar/12 Newcastle Utd 1-2 Manchester United
+Mar/12 Sheffield Wed 0-2 Leeds
+Mar/12 Tottenham 1-0 Aston Villa
+Mar/12 Wimbledon FC 1-3 Nottingham
+
+ Round 28
+
+Mar/09 Blackburn 1-2 Everton
+Mar/09 Derby 2-1 Aston Villa
+Mar/09 Leeds 2-0 Tottenham
+Mar/09 Nottingham 1-2 Newcastle Utd
+Mar/08 Arsenal 3-0 Sheffield Wed
+Mar/05 Coventry 2-1 Charlton
+Mar/05 Southampton 1-0 West Ham
+Mar/05 Wimbledon FC 0-1 Leicester
+
+ Round 25
+
+Mar/02 Sheffield Wed 1-2 Wimbledon FC
+Mar/01 Tottenham 3-0 Southampton
+
+ Round 27
+
+Feb/28 Leicester 1-2 Leeds
+Feb/27 Newcastle Utd 1-1 Arsenal
+Feb/26 Aston Villa 1-4 Coventry
+Feb/26 Charlton 0-0 Nottingham
+Feb/26 Chelsea 2-1 Liverpool
+Feb/26 Everton 1-1 Wimbledon FC
+Feb/26 Manchester United 2-1 Southampton
+Feb/26 Sheffield Wed 3-1 Middlesbrough
+Feb/26 Tottenham 1-1 Derby
+Feb/26 West Ham 2-0 Blackburn
+
+ Round 26
+
+Feb/20 Wimbledon FC 0-0 Aston Villa
+Feb/19 Arsenal 5-0 Leicester
+Feb/19 Blackburn 1-4 Sheffield Wed
+Feb/19 Coventry 0-1 Manchester United
+Feb/19 Derby 0-2 Charlton
+Feb/19 Leeds 1-0 Everton
+Feb/19 Liverpool 2-2 West Ham
+Feb/19 Middlesbrough 0-0 Tottenham
+Feb/19 Nottingham 1-3 Chelsea
+Feb/19 Southampton 2-1 Newcastle Utd
+
+ Round 25
+
+Feb/16 Aston Villa 1-2 Leeds
+Feb/16 Chelsea 1-1 Blackburn
+Feb/16 Everton 5-0 Middlesbrough
+Feb/16 Manchester United 1-1 Arsenal
+Feb/16 Newcastle Utd 4-1 Coventry
+Feb/12 Charlton 1-0 Liverpool
+Feb/12 West Ham 2-1 Nottingham
+
+ Round 24
+
+Feb/07 Charlton 2-0 Wimbledon FC
+Feb/06 Derby 2-1 Everton
+Feb/05 Aston Villa 1-3 Blackburn
+Feb/05 Chelsea 1-0 Southampton
+Feb/05 Leeds 0-1 Newcastle Utd
+Feb/05 Leicester 0-2 Sheffield Wed
+Feb/05 Liverpool 3-1 Middlesbrough
+Feb/05 Nottingham 1-8 Manchester United
+Feb/05 Tottenham 0-0 Coventry
+Feb/05 West Ham 0-4 Arsenal
+
+ Round 32
+
+Feb/02 Manchester United 1-0 Derby
+
+ Round 23
+
+Jan/30 Arsenal 1-0 Chelsea
+Jan/30 Charlton 0-1 Manchester United
+Jan/29 Blackburn 1-1 Tottenham
+Jan/29 Coventry 2-1 Liverpool
+Jan/29 Everton 0-1 Nottingham
+Jan/29 Middlesbrough 0-0 Leicester
+Jan/29 Newcastle Utd 2-1 Aston Villa
+Jan/29 Sheffield Wed 0-1 Derby
+Jan/29 Southampton 3-0 Leeds
+Jan/29 Wimbledon FC 0-0 West Ham
+
+ Round 22
+
+Jan/17 Aston Villa 3-0 Everton
+Jan/16 Charlton 2-2 Newcastle Utd
+Jan/15 Chelsea 2-1 Coventry
+Jan/15 Derby 1-0 Blackburn
+Jan/15 Leeds 2-0 Middlesbrough
+Jan/15 Leicester 2-6 Manchester United
+Jan/15 Liverpool 7-1 Southampton
+Jan/15 Nottingham 0-1 Arsenal
+Jan/15 Tottenham 0-0 Wimbledon FC
+Jan/15 West Ham 0-4 Sheffield Wed
+
+ Round 21
+
+Jan/09 Manchester United 4-1 West Ham
+Jan/08 Arsenal 0-0 Liverpool
+Jan/08 Blackburn 1-0 Leeds
+Jan/08 Coventry 4-0 Nottingham
+Jan/08 Everton 0-0 Leicester
+Jan/08 Middlesbrough 0-0 Aston Villa
+Jan/08 Newcastle Utd 0-1 Chelsea
+Jan/08 Sheffield Wed 0-0 Tottenham
+Jan/08 Southampton 3-1 Charlton
+Jan/08 Wimbledon FC 2-1 Derby
+
+ Round 20
+
+Dec/28 Chelsea 0-0 Manchester United
+Dec/28 Leeds 2-2 Wimbledon FC
+Dec/27 Aston Villa 2-1 Sheffield Wed
+Dec/27 Charlton 0-1 Arsenal
+Dec/27 Derby 2-1 Middlesbrough
+Dec/27 Leicester 1-1 Blackburn
+Dec/27 Liverpool 4-2 Newcastle Utd
+Dec/27 Nottingham 1-1 Southampton
+Dec/27 Tottenham 4-1 Everton
+Dec/27 West Ham 2-0 Coventry
+
+ Round 19
+
+Dec/25 Arsenal 1-0 West Ham
+Dec/25 Blackburn 2-1 Aston Villa
+Dec/25 Coventry 1-1 Tottenham
+Dec/25 Everton 0-0 Derby
+Dec/25 Manchester United 3-0 Nottingham
+Dec/25 Middlesbrough 1-3 Liverpool
+Dec/25 Newcastle Utd 0-3 Leeds
+Dec/25 Sheffield Wed 0-1 Leicester
+Dec/25 Southampton 0-2 Chelsea
+Dec/25 Wimbledon FC 2-1 Charlton
+
+ Round 18
+
+Dec/20 Charlton 0-1 Aston Villa
+Dec/19 Arsenal 3-1 Leeds
+Dec/18 Chelsea 2-0 Tottenham
+Dec/18 Coventry 1-1 Derby
+Dec/18 Liverpool 2-0 Sheffield Wed
+Dec/18 Manchester United 2-3 Middlesbrough
+Dec/18 Newcastle Utd 1-0 Leicester
+Dec/18 Nottingham 2-2 Blackburn
+Dec/18 Southampton 3-1 Wimbledon FC
+Dec/18 West Ham 2-1 Everton
+
+ Round 3
+
+Dec/15 Manchester United 1-1 Chelsea
+
+ Round 17
+
+Dec/13 Leeds 2-0 Coventry
+Dec/12 Aston Villa 3-2 Arsenal
+Dec/12 Wimbledon FC 1-0 Liverpool
+Dec/11 Blackburn 0-0 Newcastle Utd
+Dec/11 Derby 2-2 Chelsea
+Dec/11 Everton 1-0 Southampton
+Dec/11 Leicester 3-1 Nottingham
+Dec/11 Middlesbrough 1-0 West Ham
+Dec/11 Sheffield Wed 3-0 Charlton
+Dec/11 Tottenham 2-2 Manchester United
+
+ Round 11
+
+Dec/08 Chelsea 2-1 Aston Villa
+
+ Round 16
+
+Dec/06 Sheffield Wed 3-2 Nottingham
+Dec/05 Middlesbrough 2-2 Newcastle Utd
+Dec/04 Aston Villa 1-1 Manchester United
+Dec/04 Blackburn 1-0 Charlton
+Dec/04 Derby 0-0 Arsenal
+Dec/04 Everton 0-0 Chelsea
+Dec/04 Leeds 4-0 West Ham
+Dec/04 Leicester 2-0 Southampton
+Dec/04 Tottenham 2-1 Liverpool
+Dec/04 Wimbledon FC 2-1 Coventry
+
+ Round 15
+
+Nov/28 Arsenal 1-1 Middlesbrough
+Nov/28 Liverpool 2-0 Blackburn
+Nov/28 Manchester United 3-2 Leeds
+Nov/27 Charlton 1-2 Everton
+Nov/27 Chelsea 1-1 Sheffield Wed
+Nov/27 Coventry 1-1 Leicester
+Nov/27 Newcastle Utd 3-1 Wimbledon FC
+Nov/27 Nottingham 2-2 Aston Villa
+Nov/27 Southampton 0-1 Derby
+Nov/27 West Ham 2-1 Tottenham
+
+ Round 14
+
+Nov/22 Everton 1-0 Newcastle Utd
+Nov/21 Derby 0-2 West Ham
+Nov/20 Aston Villa 2-4 Liverpool
+Nov/20 Blackburn 0-2 Southampton
+Nov/20 Leeds 4-1 Charlton
+Nov/20 Leicester 2-4 Chelsea
+Nov/20 Middlesbrough 2-0 Coventry
+Nov/20 Sheffield Wed 3-1 Manchester United
+Nov/20 Tottenham 2-0 Nottingham
+Nov/20 Wimbledon FC 1-0 Arsenal
+
+ Round 13
+
+Nov/15 Nottingham 2-2 Derby
+Nov/14 Coventry 3-0 Everton
+Nov/13 Arsenal 0-0 Tottenham
+Nov/13 Charlton 1-1 Middlesbrough
+Nov/13 Chelsea 3-0 Wimbledon FC
+Nov/13 Liverpool 1-3 Leeds
+Nov/13 Manchester United 3-2 Blackburn
+Nov/13 Newcastle Utd 1-1 Sheffield Wed
+Nov/13 Southampton 1-4 Aston Villa
+Nov/13 West Ham 3-2 Leicester
+
+ Round 12
+
+Nov/07 Arsenal 1-0 Everton
+Nov/07 Leeds 2-1 Sheffield Wed
+Nov/07 Manchester United 0-0 Newcastle Utd
+Nov/07 West Ham 1-1 Chelsea
+Nov/06 Aston Villa 3-2 Tottenham
+Nov/06 Blackburn 1-2 Coventry
+Nov/06 Charlton 0-0 Leicester
+Nov/06 Liverpool 1-2 Derby
+Nov/06 Nottingham 0-1 Wimbledon FC
+Nov/06 Southampton 3-3 Middlesbrough
+
+ Round 11
+
+Nov/01 Tottenham 2-2 Charlton
+Oct/31 Middlesbrough 1-1 Nottingham
+Oct/30 Coventry 0-1 Arsenal
+Oct/30 Derby 2-2 Leeds
+Oct/30 Everton 1-4 Manchester United
+Oct/30 Leicester 1-0 Liverpool
+Oct/30 Newcastle Utd 0-3 West Ham
+Oct/30 Sheffield Wed 0-0 Southampton
+Oct/30 Wimbledon FC 1-1 Blackburn
+
+ Round 10
+
+Oct/24 Blackburn 1-2 Arsenal
+Oct/24 Leeds 0-0 Chelsea
+Oct/23 Aston Villa 1-1 Leicester
+Oct/23 Charlton 4-2 West Ham
+Oct/23 Derby 1-1 Manchester United
+Oct/23 Liverpool 5-1 Nottingham
+Oct/23 Sheffield Wed 0-0 Everton
+Oct/23 Southampton 2-1 Coventry
+Oct/23 Tottenham 2-0 Newcastle Utd
+Oct/23 Wimbledon FC 2-2 Middlesbrough
+
+ Round 9
+
+Oct/18 Leicester 2-1 Tottenham
+Oct/17 Coventry 1-0 Sheffield Wed
+Oct/16 Arsenal 1-1 Southampton
+Oct/16 Chelsea 2-1 Charlton
+Oct/16 Everton 0-0 Liverpool
+Oct/16 Manchester United 5-1 Wimbledon FC
+Oct/16 Middlesbrough 2-1 Blackburn
+Oct/16 Newcastle Utd 2-1 Derby
+Oct/16 Nottingham 1-1 Leeds
+Oct/16 West Ham 0-0 Aston Villa
+
+ Round 8
+
+Oct/03 Arsenal 3-0 Newcastle Utd
+Oct/03 Liverpool 1-1 Chelsea
+Oct/02 Blackburn 3-0 West Ham
+Oct/02 Coventry 1-2 Aston Villa
+Oct/02 Derby 0-1 Tottenham
+Oct/02 Leeds 0-1 Leicester
+Oct/02 Middlesbrough 4-0 Sheffield Wed
+Oct/02 Nottingham 0-1 Charlton
+Oct/02 Southampton 0-3 Manchester United
+Oct/02 Wimbledon FC 1-2 Everton
+
+ Round 7
+
+Sep/27 West Ham 1-0 Southampton
+Sep/26 Leicester 1-1 Wimbledon FC
+Sep/25 Aston Villa 1-0 Derby
+Sep/25 Charlton 1-1 Coventry
+Sep/25 Chelsea 2-0 Middlesbrough
+Sep/25 Everton 0-0 Blackburn
+Sep/25 Newcastle Utd 2-0 Nottingham
+Sep/25 Sheffield Wed 1-0 Arsenal
+Sep/25 Tottenham 3-3 Leeds
+Sep/23 Manchester United 2-0 Liverpool
+
+ Round 6
+
+Sep/20 Blackburn 3-4 Chelsea
+Sep/19 Arsenal 3-0 Manchester United
+Sep/18 Coventry 1-5 Newcastle Utd
+Sep/18 Derby 2-0 Leicester
+Sep/18 Leeds 0-0 Aston Villa
+Sep/18 Liverpool 3-3 Charlton
+Sep/18 Middlesbrough 2-2 Everton
+Sep/18 Nottingham 0-0 West Ham
+Sep/18 Southampton 1-1 Tottenham
+Sep/18 Wimbledon FC 2-1 Sheffield Wed
+
+ Round 5
+
+Sep/12 Tottenham 0-3 Middlesbrough
+Sep/11 Aston Villa 2-0 Wimbledon FC
+Sep/11 Charlton 1-2 Derby
+Sep/11 Chelsea 2-1 Nottingham
+Sep/11 Everton 0-0 Leeds
+Sep/11 Leicester 1-1 Arsenal
+Sep/11 Manchester United 2-0 Coventry
+Sep/11 Newcastle Utd 4-0 Southampton
+Sep/11 Sheffield Wed 3-0 Blackburn
+Sep/11 West Ham 2-1 Liverpool
+
+ Round 4
+
+Sep/08 Aston Villa 1-0 Newcastle Utd
+Sep/08 Chelsea 0-0 Arsenal
+Sep/08 Derby 1-0 Sheffield Wed
+Sep/08 Leicester 0-1 Middlesbrough
+Sep/08 Liverpool 2-0 Coventry
+Sep/08 Tottenham 2-1 Blackburn
+Sep/08 West Ham 3-4 Wimbledon FC
+Sep/07 Leeds 3-0 Southampton
+Sep/07 Manchester United 4-1 Charlton
+Sep/07 Nottingham 0-2 Everton
+
+ Round 3
+
+Aug/29 Newcastle Utd 1-4 Liverpool
+Aug/28 Arsenal 0-0 Charlton
+Aug/28 Blackburn 1-0 Leicester
+Aug/28 Coventry 0-0 West Ham
+Aug/28 Everton 0-1 Tottenham
+Aug/28 Middlesbrough 1-1 Derby
+Aug/28 Sheffield Wed 0-1 Aston Villa
+Aug/28 Southampton 1-2 Nottingham
+Aug/28 Wimbledon FC 1-1 Leeds
+
+ Round 2
+
+Aug/23 Leeds 1-0 Blackburn
+Aug/21 Aston Villa 3-1 Middlesbrough
+Aug/21 Charlton 5-0 Southampton
+Aug/21 Chelsea 1-1 Newcastle Utd
+Aug/21 Derby 0-0 Wimbledon FC
+Aug/21 Leicester 2-0 Everton
+Aug/21 Liverpool 0-0 Arsenal
+Aug/21 Nottingham 1-0 Coventry
+Aug/21 Tottenham 0-3 Sheffield Wed
+Aug/21 West Ham 0-0 Manchester United
+
+ Round 1
+
+Aug/16 Arsenal 2-1 Nottingham
+Aug/15 Southampton 1-2 Liverpool
+Aug/14 Blackburn 0-0 Derby
+Aug/14 Coventry 2-1 Chelsea
+Aug/14 Everton 0-0 Aston Villa
+Aug/14 Manchester United 2-2 Leicester
+Aug/14 Middlesbrough 0-0 Leeds
+Aug/14 Newcastle Utd 0-0 Charlton
+Aug/14 Sheffield Wed 0-1 West Ham
+Aug/14 Wimbledon FC 3-1 Tottenham
