@@ -198,7 +198,7 @@ Matchday 33
   West Bromwich Albion  0-1  Liverpool FC
   
   
- 1. Aufsteiger in PremierLeague 2017/18:
+ 1. Aufsteiger in PremierLeague 2017/18
  Brighton & Hove Albion 
  
 
@@ -206,19 +206,24 @@ Matchday 34
 
 [Sat Apr/22]
   AFC Bournemouth  Middlesbrough FC
-  Arsenal FC  Sunderland AFC               postponed
-  Burnley FC  Manchester United
-  Chelsea FC  Southampton FC               postponed
+  Arsenal FC  Sunderland AFC               postponed 
+  Burnley FC  Manchester 
+  Chelsea FC  Southampton FC               postponed to Tue 25.4.
   Hull City  Watford FC
-  Leicester City  Tottenham Hotspur        postponed
+  Leicester City  Tottenham Hotspur        postponed 
   Liverpool FC  Crystal Palace
   Manchester City  West Bromwich Albion    postponed
   Swansea City  Stoke City
   West Ham United  Everton FC
   
+Ppstponed Mathchday 34
+
+[Tue Apr/25]
+  Chelsesa FC   Southampton FC
+  
 Postponed Matchday 28
   
-(Wed Apr/26)
+[Wed Apr/26]
   Arsenal FC Leicester City
   Middlesbrough FC Sunderland AFC
   Crystal Palace Tottenham Hotspur
