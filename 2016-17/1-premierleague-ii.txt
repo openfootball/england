@@ -116,15 +116,15 @@ Matchday 28
 
 [Sat Mar/11]
   AFC Bournemouth       3-2  West Ham United
-  Arsenal FC  Leicester City                postponed to Wed 26.4.
+  Arsenal FC            1-0  Leicester City                
   Liverpool FC          2-1 Burnley FC
   Chelsea FC  Watford FC                    postponed to Mon 15.5.
   Everton FC            3-0  West Bromwich Albion
   Hull City             2-1  Swansea City
   Manchester City       0-0  Stoke City               
-  Middlesbrough FC  Sunderland AFC          postponed to Wed 26.4
+  Middlesbrough FC      1-0  Sunderland AFC          
   Southampton FC  Manchester United         postponed to Wed 17.5.
-  Crystal Palace  Tottenham Hotspur         postponed to wed 26.4.
+  Crystal Palace        0-1  Tottenham Hotspur         
 
 Matchday 29
 
@@ -222,14 +222,14 @@ Matchday 34
 Postponed Mathchday 34
 
 [Tue Apr/25]
-  Chelsesa FC            4-2   Southampton FC
+  Chelsesa FC            4-2 Southampton FC
   
 Postponed Matchday 28
   
 [Wed Apr/26]
-  Arsenal FC Leicester City
-  Middlesbrough FC Sunderland AFC
-  Crystal Palace Tottenham Hotspur
+  Arsenal FC             1-0 Leicester City
+  Middlesbrough FC       1-0 Sunderland AFC
+  Crystal Palace         0-1 Tottenham Hotspur
   
 Postponed Matchday 26
   
