@@ -110,7 +110,7 @@ Matchday 5
 
 [Fri Sept/16]
   Chelsea FC              1-2 (0-2)  Liverpool FC  @ Stamford Bridge, London
-    [Diego Costa 61'; Lovren '17  J. Henderson '36]                   
+    [Diego Costa 61'; Lovren '17  J. Henderson '36]
 [Sat Sept/17]
   Hull City               1-4 (0-1)  Arsenal FC           @ Kingston Communications Stadium, Hull
     [Snodgrass '79 (pen.); A. Sanchez 17', 83' Walcott 55' Xhaka 90+2']
@@ -302,8 +302,8 @@ Matchday 16
 [Tue Dec/13]
   AFC Bournemouth       1-0  Leicester City
   Everton FC            2-1  Arsenal FC
-  
- [Wed Dec/14] 
+
+ [Wed Dec/14]
   Crystal Palace        1-2  Manchester United
   Middlesbrough FC      0-3  Liverpool FC
   Sunderland AFC        0-1  Chelsea FC
@@ -313,8 +313,8 @@ Matchday 16
   Stoke City            0-0  Southampton FC
   Tottenham Hotspur     3-0  Hull City
 
- 
- 
+
+
 Matchday 17
 
 [Sat Dec/17]
@@ -335,7 +335,7 @@ Matchday 18
   Arsenal FC            1-0  West Bromwich Albion
   Burnley FC            1-0  Middlesbrough FC
   Chelsea FC            3-0  AFC Bournemouth
-  Hull City             0-2  Manchester City
+  Hull City             0-3  Manchester City
   Leicester City        0-2  Everton FC
   Liverpool FC          4-1  Stoke City
   Manchester United     3-1  Sunderland AFC
@@ -353,6 +353,6 @@ Matchday 19
   Leicester City        1-0  West Ham United
   Liverpool FC          1-0  Manchester City
   Manchester United     2-1  Middlesbrough FC
-  Southampton FC        0-3  West Bromwich Albion
+  Southampton FC        1-2  West Bromwich Albion
   Swansea City          0-3  AFC Bournemouth
   Watford FC            1-4  Tottenham Hotspur
