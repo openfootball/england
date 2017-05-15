@@ -3,126 +3,121 @@
 
 
 Matchday 1
-
 [Sat Aug/8]
-  Manchester United      1-0  Tottenham Hotspur
-  AFC Bournemouth        0-1  Aston Villa
-  Everton FC             2-2  Watford FC
-  Leicester City         4-2  Sunderland AFC
-  Norwich City           1-3  Crystal Palace
-  Chelsea FC             2-2  Swansea City
+Manchester United        1-0  Tottenham Hotspur
+AFC Bournemouth          0-1  Aston Villa
+Everton FC               2-2  Watford FC
+Leicester City           4-2  Sunderland AFC
+Norwich City             1-3  Crystal Palace
+Chelsea FC               2-2  Swansea City
 [Sun Aug/9]
-  Arsenal FC             0-2  West Ham United
-  Newcastle United       2-2  Southampton FC
-  Stoke City             0-1  Liverpool FC
+Arsenal FC               0-2  West Ham United
+Newcastle United         2-2  Southampton FC
+Stoke City               0-1  Liverpool FC
 [Mon Aug/10]
-  West Bromwich Albion   0-3  Manchester City
+West Bromwich Albion     0-3  Manchester City
 
 Matchday 2
-
 [Fri Aug/14]
-  Aston Villa            0-1  Manchester United
+Aston Villa              0-1  Manchester United
 [Sat Aug/15]
-  Southampton FC         0-3  Everton FC
-  Sunderland AFC         1-3  Norwich City
-  Swansea City           2-0  Newcastle United
-  Tottenham Hotspur      2-2  Stoke City
-  Watford FC             0-0  West Bromwich Albion
-  West Ham United        1-2  Leicester City
+Southampton FC           0-3  Everton FC
+Sunderland AFC           1-3  Norwich City
+Swansea City             2-0  Newcastle United
+Tottenham Hotspur        2-2  Stoke City
+Watford FC               0-0  West Bromwich Albion
+West Ham United          1-2  Leicester City
 [Sun Aug/16]
-  Crystal Palace         1-2  Arsenal FC
-  Manchester City        3-0  Chelsea FC
+Crystal Palace           1-2  Arsenal FC
+Manchester City          3-0  Chelsea FC
 [Mon Aug/17]
-  Liverpool FC           1-0  AFC Bournemouth
+Liverpool FC             1-0  AFC Bournemouth
 
 Matchday 3
 [Sat Aug/22]
-  Manchester United      0-0  Newcastle United
-  Crystal Palace         2-1  Aston Villa
-  Leicester City         1-1  Tottenham Hotspur
-  Norwich City           1-1  Stoke City
-  Sunderland AFC         1-1  Swansea City
-  West Ham United        3-4  AFC Bournemouth
+Manchester United        0-0  Newcastle United
+Crystal Palace           2-1  Aston Villa
+Leicester City           1-1  Tottenham Hotspur
+Norwich City             1-1  Stoke City
+Sunderland AFC           1-1  Swansea City
+West Ham United          3-4  AFC Bournemouth
 [Sun Aug/23]
-  West Bromwich Albion   2-3  Chelsea FC
-  Everton FC             0-2  Manchester City
-  Watford FC             0-0  Southampton FC
+West Bromwich Albion     2-3  Chelsea FC
+Everton FC               0-2  Manchester City
+Watford FC               0-0  Southampton FC
 [Mon Aug/24]
-  Arsenal FC             0-0  Liverpool FC
+Arsenal FC               0-0  Liverpool FC
 
 Matchday 4
 [Sat Aug/29]
-  Newcastle United       0-1  Arsenal FC
-  AFC Bournemouth        1-1  Leicester City
-  Aston Villa            2-2  Sunderland AFC
-  Chelsea FC             1-2  Crystal Palace
-  Liverpool FC           0-3  West Ham United
-  Manchester City        2-0  Watford FC
-  Stoke City             0-1  West Bromwich Albion
-  Tottenham Hotspur      0-0  Everton FC
+Newcastle United         0-1  Arsenal FC
+AFC Bournemouth          1-1  Leicester City
+Aston Villa              2-2  Sunderland AFC
+Chelsea FC               1-2  Crystal Palace
+Liverpool FC             0-3  West Ham United
+Manchester City          2-0  Watford FC
+Stoke City               0-1  West Bromwich Albion
+Tottenham Hotspur        0-0  Everton FC
 [Sun Aug/30]
-  Southampton FC         3-0  Norwich City
-  Swansea City           2-1  Manchester United
+Southampton FC           3-0  Norwich City
+Swansea City             2-1  Manchester United
 
 Matchday 5
-
 [Sat Sept/12]
-  Everton FC             3-1  Chelsea FC
-  Arsenal FC             2-0  Stoke City
-  Crystal Palace         0-1  Manchester City
-  Norwich City           3-1  AFC Bournemouth
-  Watford FC             1-0  Swansea City
-  West Bromwich Albion   0-0  Southampton FC
-  Manchester United      3-1  Liverpool FC
+Everton FC               3-1  Chelsea FC
+Arsenal FC               2-0  Stoke City
+Crystal Palace           0-1  Manchester City
+Norwich City             3-1  AFC Bournemouth
+Watford FC               1-0  Swansea City
+West Bromwich Albion     0-0  Southampton FC
+Manchester United        3-1  Liverpool FC
 [Sun Sept/13]
-  Sunderland AFC         0-1  Tottenham Hotspur
-  Leicester City         3-2  Aston Villa
+Sunderland AFC           0-1  Tottenham Hotspur
+Leicester City           3-2  Aston Villa
 [Mon Sept/14]
-  West Ham United        2-0  Newcastle United
+West Ham United          2-0  Newcastle United
 
 Matchday 6
-
 [Sat Sept/19]
-  Chelsea FC             2-0  Arsenal FC
-  AFC Bournemouth        2-0  Sunderland AFC
-  Aston Villa            0-1  West Bromwich Albion
-  Newcastle United       1-2  Watford FC
-  Stoke City             2-2  Leicester City
-  Swansea City           0-0  Everton FC
-  Manchester City        1-2  West Ham United
+Chelsea FC               2-0  Arsenal FC
+AFC Bournemouth          2-0  Sunderland AFC
+Aston Villa              0-1  West Bromwich Albion
+Newcastle United         1-2  Watford FC
+Stoke City               2-2  Leicester City
+Swansea City             0-0  Everton FC
+Manchester City          1-2  West Ham United
 [Sun Sept/20]
-  Tottenham Hotspur      1-0  Crystal Palace
-  Liverpool FC           1-1  Norwich City
-  Southampton FC         2-3  Manchester United
+Tottenham Hotspur        1-0  Crystal Palace
+Liverpool FC             1-1  Norwich City
+Southampton FC           2-3  Manchester United
 
 Matchday 7
-
 [Sat Sept/26]
-  Tottenham Hotspur      4-1  Manchester City
-  Leicester City         2-5  Arsenal FC
-  Liverpool FC           3-2  Aston Villa
-  Manchester United      3-0  Sunderland AFC
-  Southampton FC         3-1  Swansea City
-  Stoke City             2-1  AFC Bournemouth
-  West Ham United        2-2  Norwich City
-  Newcastle United       2-2  Chelsea FC
+Tottenham Hotspur        4-1  Manchester City
+Leicester City           2-5  Arsenal FC
+Liverpool FC             3-2  Aston Villa
+Manchester United        3-0  Sunderland AFC
+Southampton FC           3-1  Swansea City
+Stoke City               2-1  AFC Bournemouth
+West Ham United          2-2  Norwich City
+Newcastle United         2-2  Chelsea FC
 [Sun Sept/27]
-  Watford FC             0-1  Crystal Palace
+Watford FC               0-1  Crystal Palace
 [Mon Sept/28]
-  West Bromwich Albion   2-3  Everton FC
+West Bromwich Albion     2-3  Everton FC
 
 Matchday 8
 [Sat Oct/3]
-  AFC Bournemouth        1-1  Watford FC
-  Arsenal FC             3-0  Manchester United
-  Aston Villa            0-1  Stoke City
-  Chelsea FC             1-3  Southampton FC
-  Crystal Palace         2-0  West Bromwich Albion
-  Everton FC             1-1  Liverpool FC
-  Manchester City        6-1  Newcastle United
-  Norwich City           1-2  Leicester City
-  Sunderland AFC         2-2  West Ham United
-  Swansea City           2-2  Tottenham Hotspur
+AFC Bournemouth          1-1  Watford FC
+Arsenal FC               3-0  Manchester United
+Aston Villa              0-1  Stoke City
+Chelsea FC               1-3  Southampton FC
+Crystal Palace           2-0  West Bromwich Albion
+Everton FC               1-1  Liverpool FC
+Manchester City          6-1  Newcastle United
+Norwich City             1-2  Leicester City
+Sunderland AFC           2-2  West Ham United
+Swansea City             2-2  Tottenham Hotspur
 
 Matchday 9
 [Sat Oct/17]
@@ -266,4 +261,3 @@ Sunderland AFC           0-1  Liverpool FC
 Watford FC               1-2  Tottenham Hotspur
 West Bromwich Albion     1-0  Newcastle United
 West Ham United          2-1  Southampton FC
-
