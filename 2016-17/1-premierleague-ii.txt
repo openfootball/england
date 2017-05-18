@@ -123,7 +123,7 @@ Matchday 28
   Hull City             2-1  Swansea City
   Manchester City       0-0  Stoke City               
   Middlesbrough FC      1-0  Sunderland AFC          
-  Southampton FC  Manchester United         postponed to Wed 17.5.
+  Southampton FC        0-0  Manchester United         
   Crystal Palace        0-1  Tottenham Hotspur         
 
 Matchday 29
@@ -204,13 +204,13 @@ Matchday 34
 
 [Sat Apr/22]
   AFC Bournemouth        4-0  Middlesbrough FC
-  Arsenal FC  Sunderland AFC               postponed to Tue 16.5.
+  Arsenal FC             3-1  Sunderland AFC               
   Burnley FC             0-2  Manchester United 
   Chelsea FC             4-2  Southampton FC              
   Hull City              2-0  Watford FC
   Leicester City  Tottenham Hotspur        postponed to Thu 18.5. 
   Liverpool FC           1-2  Crystal Palace
-  Manchester City  West Bromwich Albion    postponed to Tue 16.5.
+  Manchester City        2-0  West Bromwich Albion    
   Swansea City           2-0  Stoke City
   West Ham United        0-0  Everton FC
   
@@ -311,20 +311,20 @@ Postponed Matchday 28
  
 Postponed Matchday 34
 [Tue May/16]
-  Arsenal FC  Sunderland AFC
-  Manchester City  West Bromwich Albion 
+  Arsenal FC             3-1   Sunderland AFC
+  Manchester City        2-0   West Bromwich Albion 
   
 PlayOff to Premier League Aufstieg 2017/18
 [Tue May/16]
-  Reading FC   Fulham  FC
+  Reading FC             1-0   Fulham  FC
   
 [Wed May/17]
-  Sheffield Wednesday    Huddersfield Town
+  Sheffield Wednesday    1-1   Huddersfield Town
   
    
 Postponed Matchday 28  
 [Wed May/17]
-  Southampton FC  Manchester United 
+  Southampton FC         0-0  Manchester United 
   
  
 Postponed Matchday 34   
@@ -348,4 +348,4 @@ Matchday 38
   
 PlayOff-Winner to Premier League 2017/18
 [Sat May/27]
-  Fulham FC/Reading FC    -    Huddersfield Town/Sheffield Wednesday
+  Reading FC    -    Huddersfield Town
