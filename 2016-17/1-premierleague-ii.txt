@@ -56,6 +56,7 @@ Matchday 23
   Liverpool FC          1-1  Chelsea FC
   Stoke City            1-1  Everton FC
 
+
 Matchday 24
 
 [Sat Feb/4]
@@ -63,26 +64,31 @@ Matchday 24
   Crystal Palace        0-4  Sunderland AFC
   Everton FC            6-3  AFC Bournemouth
   Hull City             2-0  Liverpool FC
-  Leicester City        0-3  Manchester United
-  Manchester City       2-1  Swansea City
   Southampton FC        1-3  West Ham United
   Tottenham Hotspur     1-0  Middlesbrough FC
   Watford FC            2-1  Burnley FC
   West Bromwich Albion  1-0  Stoke City
+[Sun Feb/5]
+  Manchester City       2-1  Swansea City
+  Leicester City        0-3  Manchester United
+
 
 Matchday 25
 
 [Sat Feb/11]
-  AFC Bournemouth       0-2  Manchester City
   Arsenal FC            2-0  Hull City
-  Burnley FC            1-1  Chelsea FC
   Liverpool FC          2-0  Tottenham Hotspur
   Manchester United     2-0  Watford FC
   Middlesbrough FC      0-0  Everton FC
   Stoke City            1-0  Crystal Palace
-  Sunderland AFC        0-2  Southampton FC
-  Swansea City          2-0  Leicester City
+  Sunderland AFC        0-4  Southampton FC
   West Ham United       2-2  West Bromwich Albion
+[Sun Feb/12]
+  Burnley FC            1-1  Chelsea FC
+  Swansea City          2-0  Leicester City
+[Mon Feb/13]
+  AFC Bournemouth       0-2  Manchester City
+
 
 Matchday 26
 
@@ -221,7 +227,7 @@ Matchday 34
 Postponed Matchday 34
 
 [Tue Apr/25]
-  Chelsesa FC            4-2 Southampton FC
+  Chelsea FC            4-2 Southampton FC
 
 Postponed Matchday 28
 
