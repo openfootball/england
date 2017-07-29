@@ -94,7 +94,7 @@ Matchday 1
 ## Build Your Own `england.db` Copy
 
 Use the `sportdb` command line tool to build your own `england.db` copy
-from the plain text data sets. [More »](http://openfootball.github.io/build.html)
+from the plain text data sets. [More »](https://github.com/openfootball/datafile)
 
 
 Note:  The English Premier League includes teams from Wales
