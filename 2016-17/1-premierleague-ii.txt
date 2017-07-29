@@ -92,8 +92,8 @@ Matchday 26
   Everton FC            2-0  Sunderland AFC
   Hull City             1-1  Burnley FC
   Leicester City        3-1  Liverpool FC
-  Manchester City       0-0  Manchester United         
-  Southampton FC        0-2  Arsenal FC                 
+  Manchester City       0-0  Manchester United
+  Southampton FC        0-2  Arsenal FC
   Tottenham Hotspur     4-0  Stoke City
   Watford FC            1-1  West Ham United
   West Bromwich Albion  2-1  AFC Bournemouth
@@ -116,15 +116,15 @@ Matchday 28
 
 [Sat Mar/11]
   AFC Bournemouth       3-2  West Ham United
-  Arsenal FC            1-0  Leicester City                
+  Arsenal FC            1-0  Leicester City
   Liverpool FC          2-1  Burnley FC
-  Chelsea FC            4-3  Watford FC                    
+  Chelsea FC            4-3  Watford FC
   Everton FC            3-0  West Bromwich Albion
   Hull City             2-1  Swansea City
-  Manchester City       0-0  Stoke City               
-  Middlesbrough FC      1-0  Sunderland AFC          
-  Southampton FC        0-0  Manchester United         
-  Crystal Palace        0-1  Tottenham Hotspur         
+  Manchester City       0-0  Stoke City
+  Middlesbrough FC      1-0  Sunderland AFC
+  Southampton FC        0-0  Manchester United
+  Crystal Palace        0-1  Tottenham Hotspur
 
 Matchday 29
 
@@ -133,7 +133,7 @@ Matchday 29
   Crystal Palace        1-0  Watford FC
   Everton FC            4-0  Hull City
   Manchester City       1-1  Liverpool FC
-  Middlesbrough FC      1-3  Manchester United        
+  Middlesbrough FC      1-3  Manchester United
   Stoke City            1-2  Chelsea FC
   Sunderland AFC        0-0  Burnley FC
   Tottenham Hotspur     2-1  Southampton FC
@@ -196,44 +196,45 @@ Matchday 33
   Tottenham Hotspur     4-0  AFC Bournemouth
   Watford FC            1-0  Swansea City
   West Bromwich Albion  0-1  Liverpool FC
-  
- 1. Aufsteiger to Premier League 2017/18
-  Brighton & Hove Albion 
- 
+
+
+# 1. Aufsteiger to Premier League 2017/18
+#  Brighton & Hove Albion
+
 Matchday 34
 
 [Sat Apr/22]
   AFC Bournemouth        4-0  Middlesbrough FC
-  Arsenal FC             3-1  Sunderland AFC               
-  Burnley FC             0-2  Manchester United 
-  Chelsea FC             4-2  Southampton FC              
+  Arsenal FC             3-1  Sunderland AFC
+  Burnley FC             0-2  Manchester United
+  Chelsea FC             4-2  Southampton FC
   Hull City              2-0  Watford FC
-  Leicester City         1-6  Tottenham Hotspur         
+  Leicester City         1-6  Tottenham Hotspur
   Liverpool FC           1-2  Crystal Palace
-  Manchester City        2-0  West Bromwich Albion    
+  Manchester City        2-0  West Bromwich Albion
   Swansea City           2-0  Stoke City
   West Ham United        0-0  Everton FC
-  
-2. Aufsteiger to Premier League 2017/18
-  Newcastle United 
-  
-Postponed Mathchday 34
+
+# 2. Aufsteiger to Premier League 2017/18
+#  Newcastle United
+
+Postponed Matchday 34
 
 [Tue Apr/25]
   Chelsesa FC            4-2 Southampton FC
-  
+
 Postponed Matchday 28
-  
+
 [Wed Apr/26]
   Arsenal FC             1-0 Leicester City
   Middlesbrough FC       1-0 Sunderland AFC
   Crystal Palace         0-1 Tottenham Hotspur
-  
+
 Postponed Matchday 26
-  
-(Thu Apr/27)
+
+[Thu Apr/27]
   Manchester City        0-0 Manchester United
-  
+
 Matchday 35
 
 [Sat Apr/29]
@@ -247,15 +248,15 @@ Matchday 35
   Tottenham Hotspur      2-0  Arsenal FC
   Watford FC             0-1  Liverpool FC
   West Bromwich Albion   0-1  Leicester City
-  
- 1. Absteiger Premier League 2016/17
-  Sunderland AFC
-  
- Playoff um 3. Premier League Aufsteiger 2017/18
-   Fulham FC  - Reading FC
-   Huddersfield Town - Sheffield Wednesday
-   
-   Reading FC/Fulham FC - Sheffield Wednesday/Huddersfield Town
+
+# 1. Absteiger Premier League 2016/17
+#  Sunderland AFC
+#
+# Playoff um 3. Premier League Aufsteiger 2017/18
+#   Fulham FC  - Reading FC
+#   Huddersfield Town - Sheffield Wednesday
+#
+#   Reading FC/Fulham FC - Sheffield Wednesday/Huddersfield Town
 
 Matchday 36
 
@@ -270,11 +271,11 @@ Matchday 36
   Manchester City        5-0  Crystal Palace
   Swansea City           1-0  Everton FC
   West Ham United        1-0  Tottenham Hotspur
-  
+
 Postponed Matchday 26
 [Wed May/10]
   Southampton FC         0-2   Arsenal FC
- 
+
 Matchday 37
 
 [Sat May/13]
@@ -288,55 +289,56 @@ Matchday 37
   Tottenham Hotspur      2-1  Manchester United
   West Bromwich Albion   0-1  Chelsea FC
   West Ham United        0-4  Liverpool FC
-  
-Premier League Champion 2016/17
-  Chelsea FC
-  
-2. Absteiger Premiere League 2016/17
-  Middlesbrough FC
-  
-PlayOff to Premier League Aufstieg 2017/18
-[Sat May/13]
-   Fulham FC             1-1   Reading FC
-   
-(Sun May/14]
-   Huddersfield Town     0-0   Sheffield Wednesday
-   
-3. Absteiger Premiere League 2016/17
-   Hull City
-  
+
+# Premier League Champion 2016/17
+#  Chelsea FC
+#
+# 2. Absteiger Premiere League 2016/17
+#  Middlesbrough FC
+#
+# PlayOff to Premier League Aufstieg 2017/18
+# [Sat May/13]
+#   Fulham FC             1-1   Reading FC
+#
+# [Sun May/14]
+#   Huddersfield Town     0-0   Sheffield Wednesday
+#
+# 3. Absteiger Premiere League 2016/17
+#   Hull City
+
+
 Postponed Matchday 28
 [Mon May/15]
   Chelsea FC             4-3   Watford FC
- 
+
 Postponed Matchday 34
 [Tue May/16]
   Arsenal FC             3-1   Sunderland AFC
-  Manchester City        2-0   West Bromwich Albion 
-  
-PlayOff to Premier League Aufstieg 2017/18
-[Tue May/16]
-  Reading FC             1-0   Fulham  FC
-  
+  Manchester City        2-0   West Bromwich Albion
+
+# PlayOff to Premier League Aufstieg 2017/18
+# [Tue May/16]
+#   Reading FC             1-0   Fulham  FC
+#
+# [Wed May/17]
+#   Sheffield Wednesday    1-1   Huddersfield Town     3-4 Penaltyschießen
+#
+# PlayOff-Final um Premiere League- Aufstieg 29.5.
+#   Reading FC            0-0 a.P.3-4    Huddersfield Town
+#
+# 3. Aufsteiger to Premier League 2017/18
+#   Huddersfield Town
+
+
+Postponed Matchday 28
 [Wed May/17]
-  Sheffield Wednesday    1-1   Huddersfield Town     3-4 Penaltyschießen
-  
- PlayOff-Final um Premiere League- Aufstieg 29.5.
-   Reading FC            0-0 a.P.3-4    Huddersfield Town
-   
- 3. Aufsteiger to Premier League 2017/18
-   Huddersfield Town
- 
-  
-Postponed Matchday 28  
-[Wed May/17]
-  Southampton FC         0-0  Manchester United 
-  
- 
-Postponed Matchday 34   
+  Southampton FC         0-0  Manchester United
+
+
+Postponed Matchday 34
 [Thu May/18]
   Leicester City         1-6  Tottenham Hotspur
-    
+
 
 Matchday 38
 
@@ -351,13 +353,12 @@ Matchday 38
   Southampton FC         0-1  Stoke City
   Swansea City           2-1  West Bromwich Albion
   Watford FC             0-5  Manchester City
-  
-PlayOff-Winner to Premier League 2017/18
-[Mon May/29]
-  Reading FC            0-0 a.P.3-4    Huddersfield Town
-  
-3. Aufsteiger to Premier League 2017/18
-  Huddersfield Town 
-  
-Summerbreak until 11.8.2017
-  
+
+# PlayOff-Winner to Premier League 2017/18
+# [Mon May/29]
+#  Reading FC            0-0 a.P.3-4    Huddersfield Town
+#
+# 3. Aufsteiger to Premier League 2017/18
+#  Huddersfield Town
+#
+# Summerbreak until 11.8.2017
