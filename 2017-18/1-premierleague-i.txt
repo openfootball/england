@@ -118,47 +118,53 @@ Matchday 8
   Watford FC               2-1  Arsenal FC
 [Sun Oct/15]
   Brighton & Hove Albion  Everton FC
-  Leicester City  West Bromwich Albion
   Southampton FC  Newcastle United
-
+[Mon Oct/16]
+  Leicester City  West Bromwich Albion
+  
 Matchday 9
+[Fri Oct/20]
+  West Ham United  Brighton & Hove Albion
 [Sat Oct/21]
   Chelsea FC  Watford FC
-  Everton FC  Arsenal FC
   Huddersfield Town  Manchester United
   Manchester City  Burnley FC
   Newcastle United  Crystal Palace
   Southampton FC  West Bromwich Albion
   Stoke City  AFC Bournemouth
   Swansea City  Leicester City
+[Sun Oct/22]
   Tottenham Hotspur  Liverpool FC
-  West Ham United  Brighton & Hove Albion
+  Everton FC  Arsenal FC
 
 Matchday 10
 [Sat Oct/28]
   AFC Bournemouth  Chelsea FC
   Arsenal FC  Swansea City
-  Brighton & Hove Albion  Southampton FC
-  Burnley FC  Newcastle United
   Crystal Palace  West Ham United
-  Leicester City  Everton FC
   Liverpool FC  Huddersfield Town
   Manchester United  Tottenham Hotspur
   Watford FC  Stoke City
   West Bromwich Albion  Manchester City
-
+[Sun Oct/29]
+  Brighton & Hove Albion  Southampton FC
+  Leicester City  Everton FC
+[Mon Oct/30]
+  Burnley FC  Newcastle United
+  
 Matchday 11
 [Sat Nov/4]
-  Chelsea FC  Manchester United
-  Everton FC  Watford FC
   Huddersfield Town  West Bromwich Albion
-  Manchester City  Arsenal FC
   Newcastle United  AFC Bournemouth
   Southampton FC  Burnley FC
   Stoke City  Leicester City
   Swansea City  Brighton & Hove Albion
-  Tottenham Hotspur  Crystal Palace
   West Ham United  Liverpool FC
+[Sun Nov/5]
+  Chelsea FC  Manchester United
+  Everton FC  Watford FC
+  Manchester City  Arsenal FC
+  Tottenham Hotspur  Crystal Palace
 
 Matchday 12
 [Sat Nov/18]
