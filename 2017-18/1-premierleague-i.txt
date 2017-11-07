@@ -285,24 +285,28 @@ Matchday 20
 [Tue Dec/26]
   AFC Bournemouth  West Ham United
   Chelsea FC  Brighton & Hove Albion
-  Crystal Palace  Arsenal FC
   Huddersfield Town  Stoke City
   Liverpool FC  Swansea City
   Manchester United  Burnley FC
-  Newcastle United  Manchester City
   Tottenham Hotspur  Southampton FC
   Watford FC  Leicester City
   West Bromwich Albion  Everton FC
-
+[Wed Dec/27]
+  Newcastle United  Manchester City
+[Thu Dec/28]
+  Crystal Palace  Arsenal FC
+  
 Matchday 21
 [Sat Dec/30]
   AFC Bournemouth  Everton FC
   Chelsea FC  Stoke City
-  Crystal Palace  Manchester City
   Huddersfield Town  Burnley FC
   Liverpool FC  Leicester City
   Manchester United  Southampton FC
   Newcastle United  Brighton & Hove Albion
-  Tottenham Hotspur  West Ham United
   Watford FC  Swansea City
+[Sun Dec/31]
+  Crystal Palace  Manchester City
   West Bromwich Albion  Arsenal FC
+  Tottenham Hotspur  West Ham United
+   
