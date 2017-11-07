@@ -229,28 +229,29 @@ Matchday 16
   Burnley FC  Watford FC
   Crystal Palace  AFC Bournemouth
   Huddersfield Town  Brighton & Hove Albion
-  Liverpool FC  Everton FC
-  Manchester United  Manchester City
   Newcastle United  Leicester City
-  Southampton FC  Arsenal FC
   Swansea City  West Bromwich Albion
   Tottenham Hotspur  Stoke City
   West Ham United  Chelsea FC
-
+[Sun Dec/10]
+  Liverpool FC  Everton FC
+  Manchester United  Manchester City
+  Southampton FC  Arsenal FC
+  
 Matchday 17
 [Tue Dec/12]
   Burnley FC  Stoke City
   Crystal Palace  Watford FC
   Huddersfield Town  Chelsea FC
-  Manchester United  AFC Bournemouth
-  Swansea City  Manchester City
-  West Ham United  Arsenal FC
 [Wed Dec/13]
   Liverpool FC  West Bromwich Albion
   Newcastle United  Everton FC
   Southampton FC  Leicester City
   Tottenham Hotspur  Brighton & Hove Albion
-
+  Manchester United  AFC Bournemouth
+  Swansea City  Manchester City
+  West Ham United  Arsenal FC
+  
 Matchday 18
 [Sat Dec/16]
   AFC Bournemouth  Liverpool FC
