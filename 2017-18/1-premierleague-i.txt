@@ -170,28 +170,32 @@ Matchday 12
 [Sat Nov/18]
   AFC Bournemouth  Huddersfield Town
   Arsenal FC  Tottenham Hotspur
-  Brighton & Hove Albion  Stoke City
   Burnley FC  Swansea City
   Crystal Palace  Everton FC
   Leicester City  Manchester City
   Liverpool FC  Southampton FC
   Manchester United  Newcastle United
-  Watford FC  West Ham United
   West Bromwich Albion  Chelsea FC
-
+[Sun Nov/19]
+  Watford FC  West Ham United
+[Mon Nov/20)
+  Brighton & Hove Albion  Stoke City
+  
 Matchday 13
+[Fri Nov/24]
+   West Ham United  Leicester City
 [Sat Nov/25]
-  Burnley FC  Arsenal FC
-  Crystal Palace  Stoke City
-  Huddersfield Town  Manchester City
-  Liverpool FC  Chelsea FC
-  Manchester United  Brighton & Hove Albion
-  Newcastle United  Watford FC
-  Southampton FC  Everton FC
-  Swansea City  AFC Bournemouth
-  Tottenham Hotspur  West Bromwich Albion
-  West Ham United  Leicester City
-
+   Crystal Palace  Stoke City
+   Liverpool FC  Chelsea FC
+   Manchester United  Brighton & Hove Albion
+   Newcastle United  Watford FC
+   Swansea City  AFC Bournemouth
+   Tottenham Hotspur  West Bromwich Albion
+[Sun Nov/26]
+   Burnley FC  Arsenal FC
+   Southampton FC  Everton FC
+   Huddersfield Town  Manchester City
+   
 Matchday 14
 [Tue Nov/28]
   AFC Bournemouth  Burnley FC
