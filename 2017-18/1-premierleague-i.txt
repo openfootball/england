@@ -198,8 +198,6 @@ Matchday 13
    
 Matchday 14
 [Tue Nov/28]
-  AFC Bournemouth  Burnley FC
-  Arsenal FC  Huddersfield Town
   Brighton & Hove Albion  Crystal Palace
   Leicester City  Tottenham Hotspur
   Watford FC  Manchester United
@@ -209,20 +207,23 @@ Matchday 14
   Everton FC  West Ham United
   Manchester City  Southampton FC
   Stoke City  Liverpool FC
-
+  AFC Bournemouth  Burnley FC
+  Arsenal FC  Huddersfield Town
+  
 Matchday 15
 [Sat Dec/2]
-  AFC Bournemouth  Southampton FC
   Arsenal FC  Manchester United
   Brighton & Hove Albion  Liverpool FC
   Chelsea FC  Newcastle United
   Everton FC  Huddersfield Town
   Leicester City  Burnley FC
-  Manchester City  West Ham United
   Stoke City  Swansea City
   Watford FC  Tottenham Hotspur
   West Bromwich Albion  Crystal Palace
-
+[Sun Dec/3]
+  AFC Bournemouth  Southampton FC
+  Manchester City  West Ham United
+  
 Matchday 16
 [Sat Dec/9]
   Burnley FC  Watford FC
