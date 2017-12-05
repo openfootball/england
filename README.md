@@ -107,9 +107,9 @@ Build the database for all English (incl. Welsh) clubs, leagues and seasons:
 
     $ sportdb new en
 
-Build the database for the 2015/16 season:
+Build the database for the 2017/18 season:
 
-    $ sportdb new en2015-16
+    $ sportdb new en2017-18
 
 
 ## License
