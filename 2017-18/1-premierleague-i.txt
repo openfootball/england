@@ -254,16 +254,17 @@ Matchday 17
   
 Matchday 18
 [Sat Dec/16]
-  Arsenal FC  Newcastle United
-  Brighton & Hove Albion  Burnley FC
-  Chelsea FC  Southampton FC
-  Leicester City  Crystal Palace
-  Manchester City  Tottenham Hotspur
-  Stoke City  West Ham United
-  West Bromwich Albion  Manchester United
+  Arsenal FC               1-0  Newcastle United
+  Brighton & Hove Albion   0-0  Burnley FC
+  Chelsea FC               1-0  Southampton FC
+  Leicester City           0-3  Crystal Palace
+  Manchester City          4-1  Tottenham Hotspur
+  Stoke City               0-3  West Ham United
+  Watford FC               1-4  Huddersfield Town
+  
 [Sun Dec/17]
   AFC Bournemouth  Liverpool FC
-  Watford FC  Huddersfield Town
+  West Bromwich Albion  Manchester United
 [Mon Dec/18]
   Everton FC  Swansea City
 
