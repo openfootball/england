@@ -14,6 +14,8 @@ Matchday 22
 [Wed Jan/3]
   Arsenal FC  Chelsea FC
   
+  
+  
 winter break until 12.1.18
 
 
@@ -40,11 +42,13 @@ Matchday 24
   Everton FC  West Bromwich Albion
   Leicester City  Watford FC
   Manchester City  Newcastle United
-  Southampton FC  Tottenham Hotspur
   Stoke City  Huddersfield Town
-  Swansea City  Liverpool FC
   West Ham United  AFC Bournemouth
-
+[Sun Jan/21]
+  Southampton FC  Tottenham Hotspur
+[Mon Jan/22]
+  Swansea City  Liverpool FC
+  
 Matchday 25
 [Tue Jan/30]
   Huddersfield Town  Liverpool FC
