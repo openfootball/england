@@ -288,12 +288,12 @@ Matchday 20
   Chelsea FC               2-0  Brighton & Hove Albion
   Huddersfield Town        1-1  Stoke City
   Liverpool FC             5-0  Swansea City
-  Manchester United        2-0  Burnley FC
+  Manchester United        2-2  Burnley FC
   Tottenham Hotspur        5-2  Southampton FC
   Watford FC               2-1  Leicester City
   West Bromwich Albion     0-0  Everton FC
 [Wed Dec/27]
-  Newcastle United  Manchester City
+  Newcastle United         0-1  Manchester City
 [Thu Dec/28]
   Crystal Palace  Arsenal FC
   
@@ -309,5 +309,6 @@ Matchday 21
 [Sun Dec/31]
   Crystal Palace  Manchester City
   West Bromwich Albion  Arsenal FC
+[Thu Jan/4]
   Tottenham Hotspur  West Ham United
    
