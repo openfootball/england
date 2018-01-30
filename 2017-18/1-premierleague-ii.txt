@@ -15,7 +15,7 @@ Matchday 22
 [Wed Jan/3]
   Arsenal FC                  2-2  Chelsea FC
   
-Postponed Matchday 21  
+##Postponed Matchday 21  
 
 [Thu Jan/4]  
   Tottenham Hotspurs          1-1  West Ham United
@@ -79,41 +79,47 @@ Matchday 26
   Arsenal FC  Everton FC
   Brighton & Hove Albion  West Ham United
   Burnley FC  Manchester City
-  Crystal Palace  Newcastle United
   Leicester City  Swansea City
-  Liverpool FC  Tottenham Hotspur
   Manchester United  Huddersfield Town
-  Watford FC  Chelsea FC
   West Bromwich Albion  Southampton FC
-
+[Sun Feb/4]
+  Crystal Palace  Newcastle United
+  Liverpool FC  Tottenham Hotspur
+[Mon Feb/5)
+  Watford FC  Chelsea FC
+  
 Matchday 27
 
 [Sat Feb/10]
-  Chelsea FC  West Bromwich Albion
   Everton FC  Crystal Palace
-  Huddersfield Town  AFC Bournemouth
   Manchester City  Leicester City
-  Newcastle United  Manchester United
-  Southampton FC  Liverpool FC
   Stoke City  Brighton & Hove Albion
   Swansea City  Burnley FC
   Tottenham Hotspur  Arsenal FC
   West Ham United  Watford FC
-
+[Sun Feb/11)
+  Newcastle United  Manchester United
+  Southampton FC  Liverpool FC
+  Huddersfield Town  AFC Bournemouth
+ [Mon Feb/12)
+  Chelsea FC  West Bromwich Albion
+  
 Matchday 28
 
 [Sat Feb/24]
   AFC Bournemouth  Newcastle United
-  Arsenal FC  Manchester City
   Brighton & Hove Albion  Swansea City
   Burnley FC  Southampton FC
-  Crystal Palace  Tottenham Hotspur
   Leicester City  Stoke City
   Liverpool FC  West Ham United
-  Manchester United  Chelsea FC
   Watford FC  Everton FC
   West Bromwich Albion  Huddersfield Town
-
+[Sun Feb/25)
+  Arsenal FC  Manchester City
+  Manchester United  Chelsea FC
+[Mon Feb/26]
+  Crystal Palace  Tottenham Hotspur
+  
 Matchday 29
 
 [Sat Mar/3]
