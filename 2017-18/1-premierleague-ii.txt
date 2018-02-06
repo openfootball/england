@@ -153,25 +153,24 @@ Matchday 30
   Stoke City  Manchester City
   
 Matchday 31
-
+[Fri Mar/16]
+  Tottenham Hotspur  Newcastle United
 [Sat Mar/17]
   AFC Bournemouth  West Bromwich Albion
   Burnley FC  Chelsea FC
   Huddersfield Town  Crystal Palace
   Leicester City  Arsenal FC
   Liverpool FC  Watford FC
-  Manchester City  Brighton & Hove Albion
   Stoke City  Everton FC
   Swansea City  Southampton FC
-  Tottenham Hotspur  Newcastle United
+[Sun Mar/18]
   West Ham United  Manchester United
-
+  Manchester City  Brighton & Hove Albion
+  
 Matchday 32
 
 [Sat Mar/31]
-  Arsenal FC  Stoke City
   Brighton & Hove Albion  Leicester City
-  Chelsea FC  Tottenham Hotspur
   Crystal Palace  Liverpool FC
   Everton FC  Manchester City
   Manchester United  Swansea City
@@ -179,7 +178,10 @@ Matchday 32
   Southampton FC  West Ham United
   Watford FC  AFC Bournemouth
   West Bromwich Albion  Burnley FC
-
+[Sun Apr/1]
+ Arsenal FC  Stoke City
+ Chelsea FC  Tottenham Hotspur
+ 
 Matchday 33
 
 [Sat Apr/7]
