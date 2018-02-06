@@ -123,31 +123,35 @@ Matchday 28
 Matchday 29
 
 [Sat Mar/3]
-  Brighton & Hove Albion  Arsenal FC
   Burnley FC  Everton FC
-  Crystal Palace  Manchester United
   Leicester City  AFC Bournemouth
   Liverpool FC  Newcastle United
-  Manchester City  Chelsea FC
   Southampton FC  Stoke City
   Swansea City  West Ham United
   Tottenham Hotspur  Huddersfield Town
   Watford FC  West Bromwich Albion
+[Sun Mar/4]
+  Brighton & Hove Albion  Arsenal FC
+  Manchester City  Chelsea FC
+[Mon Mar/5]
+  Crystal Palace  Manchester United
 
 Matchday 30
 
 [Sat Mar/10]
-  AFC Bournemouth  Tottenham Hotspur
-  Arsenal FC  Watford FC
   Chelsea FC  Crystal Palace
   Everton FC  Brighton & Hove Albion
   Huddersfield Town  Swansea City
   Manchester United  Liverpool FC
   Newcastle United  Southampton FC
-  Stoke City  Manchester City
   West Bromwich Albion  Leicester City
   West Ham United  Burnley FC
-
+[Sun Mar/11]
+  AFC Bournemouth  Tottenham Hotspur
+  Arsenal FC  Watford FC
+[Mon Mar/12]
+  Stoke City  Manchester City
+  
 Matchday 31
 
 [Sat Mar/17]
