@@ -186,16 +186,17 @@ Matchday 33
 
 [Sat Apr/7]
   AFC Bournemouth  Crystal Palace
-  Arsenal FC  Southampton FC
   Brighton & Hove Albion  Huddersfield Town
-  Chelsea FC  West Ham United
   Everton FC  Liverpool FC
   Leicester City  Newcastle United
   Manchester City  Manchester United
   Stoke City  Tottenham Hotspur
   Watford FC  Burnley FC
   West Bromwich Albion  Swansea City
-
+[Sun Apr/8]
+  Arsenal FC  Southampton FC
+  Chelsea FC  West Ham United
+  
 Matchday 34
 
 [Sat Apr/14]
@@ -203,41 +204,47 @@ Matchday 34
   Crystal Palace  Brighton & Hove Albion
   Huddersfield Town  Watford FC
   Liverpool FC  AFC Bournemouth
-  Manchester United  West Bromwich Albion
-  Newcastle United  Arsenal FC
   Southampton FC  Chelsea FC
   Swansea City  Everton FC
   Tottenham Hotspur  Manchester City
+[Sun Apr/15]
+  Manchester United  West Bromwich Albion
+  Newcastle United  Arsenal FC
+[Mon Apr/16]
   West Ham United  Stoke City
 
 Matchday 35
-
-[Sat Apr/21]
-  AFC Bournemouth  Manchester United
-  Arsenal FC  West Ham United
+[Fri Apr/20]
   Brighton & Hove Albion  Tottenham Hotspur
-  Chelsea FC  Huddersfield Town
+[Sat Apr/21]
+  AFC Bournemouth  Manchester United      postponed
+  Chelsea FC  Huddersfield Town           postponed
   Everton FC  Newcastle United
-  Leicester City  Southampton FC
-  Manchester City  Swansea City
+  Leicester City  Southampton FC          postponed
   Stoke City  Burnley FC
   Watford FC  Crystal Palace
+[Sun Apr/22]
   West Bromwich Albion  Liverpool FC
-
+  Manchester City  Swansea City
+[Mon Apr/23]
+  Arsenal FC  West Ham United
+  
 Matchday 36
 
 [Sat Apr/28]
   Burnley FC  Brighton & Hove Albion
   Crystal Palace  Leicester City
-  Huddersfield Town  Everton FC
   Liverpool FC  Stoke City
   Manchester United  Arsenal FC
   Newcastle United  West Bromwich Albion
   Southampton FC  AFC Bournemouth
   Swansea City  Chelsea FC
-  Tottenham Hotspur  Watford FC
+[Sun Apr/29]
   West Ham United  Manchester City
-
+  Huddersfield Town  Everton FC
+[Mon Apr/30]
+  Tottenham Hotspur  Watford FC
+  
 Matchday 37
 
 [Sat May/5]
