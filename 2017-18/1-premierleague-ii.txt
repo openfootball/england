@@ -170,14 +170,14 @@ Matchday 31
 Matchday 32
 
 [Sat Mar/31]
-  Brighton & Hove Albion  Leicester City
-  Crystal Palace  Liverpool FC
-  Everton FC  Manchester City
-  Manchester United  Swansea City
-  Newcastle United  Huddersfield Town
-  Southampton FC  West Ham United
-  Watford FC  AFC Bournemouth
-  West Bromwich Albion  Burnley FC
+  Brighton & Hove Albion      0-2  Leicester City
+  Crystal Palace              1-2  Liverpool FC
+  Everton FC                  1-3  Manchester City
+  Manchester United           2-0  Swansea City
+  Newcastle United            1-0  Huddersfield Town
+  Southampton FC              0-3  West Ham United
+  Watford FC                  2-2  AFC Bournemouth
+  West Bromwich Albion        1-2  Burnley FC
 [Sun Apr/1]
  Arsenal FC  Stoke City
  Chelsea FC  Tottenham Hotspur
