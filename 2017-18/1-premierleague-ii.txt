@@ -157,7 +157,7 @@ Matchday 31
   Tottenham Hotspur  Newcastle United      postponed
 [Sat Mar/17]
   AFC Bournemouth             2-1  West Bromwich Albion
-  Burnley FC  Chelsea FC                   postponed
+  Burnley FC  Chelsea FC                   19.4.18
   Huddersfield Town           0-2  Crystal Palace
   Leicester City  Arsenal FC               postponed
   Liverpool FC                5-0  Watford FC
@@ -213,14 +213,19 @@ Matchday 34
 [Mon Apr/16]
   West Ham United  Stoke City
 
+##Postponed Matchday 31
+
+[Thu Apr/19]
+  Burnley FC Chelsea FC
+
 Matchday 35
 [Fri Apr/20]
-  Brighton & Hove Albion  Tottenham Hotspur
+  Brighton & Hove Albion  Tottenham Hotspur  postponed
 [Sat Apr/21]
-  AFC Bournemouth  Manchester United      postponed
-  Chelsea FC  Huddersfield Town           postponed
+  AFC Bournemouth  Manchester United         postponed
+  Chelsea FC  Huddersfield Town              postponed
   Everton FC  Newcastle United
-  Leicester City  Southampton FC          postponed
+  Leicester City  Southampton FC             postponed
   Stoke City  Burnley FC
   Watford FC  Crystal Palace
 [Sun Apr/22]
