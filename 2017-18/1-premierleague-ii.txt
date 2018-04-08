@@ -186,14 +186,14 @@ Matchday 32
 Matchday 33
 
 [Sat Apr/7]
-  AFC Bournemouth  Crystal Palace
-  Brighton & Hove Albion  Huddersfield Town
-  Everton FC  Liverpool FC
-  Leicester City  Newcastle United
-  Manchester City  Manchester United
-  Stoke City  Tottenham Hotspur
-  Watford FC  Burnley FC
-  West Bromwich Albion  Swansea City
+  AFC Bournemouth             2-2  Crystal Palace
+  Brighton & Hove Albion      1-1  Huddersfield Town
+  Everton FC                  0-0  Liverpool FC
+  Leicester City              1-2  Newcastle United
+  Manchester City             2-3  Manchester United
+  Stoke City                  1-2  Tottenham Hotspur
+  Watford FC                  1-2  Burnley FC
+  West Bromwich Albion        1-1  Swansea City
 [Sun Apr/8]
   Arsenal FC  Southampton FC
   Chelsea FC  West Ham United
