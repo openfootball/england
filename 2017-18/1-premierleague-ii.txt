@@ -238,7 +238,7 @@ Matchday 35
   Brighton & Hove Albion  Tottenham Hotspur  14.4.
 [Sat Apr/21]
   AFC Bournemouth  Manchester United         15.4.
-  Chelsea FC  Huddersfield Town              postponed
+  Chelsea FC  Huddersfield Town              9.5.
   Leicester City  Southampton FC             16.4.
   Watford FC  Crystal Palace
 [Sun Apr/22]
@@ -283,12 +283,15 @@ Matchday 37
 [Tue May/8]
   Swansea City  Southampton FC
 ##Addition Matchday 31
-[Wed May 9]
+[Wed May/9]
   Tottenham Hotspur  Newcastle United 
   Leicester City  Arsenal FC
   Manchester City  Brighton & Hove Albion
+##Addition Matchday 35
+[Wed May/9]
+  Chelsea FC  Huddersfield Town 
 ##Addition Matchday 31
- [Thu May/10]
+[Thu May/10]
   West Ham United  Manchester United
   
 Matchday 38
