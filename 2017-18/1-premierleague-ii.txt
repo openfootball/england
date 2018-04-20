@@ -157,7 +157,7 @@ Matchday 31
   Tottenham Hotspur  Newcastle United      9.5.
 [Sat Mar/17]
   AFC Bournemouth             2-1  West Bromwich Albion
-  Burnley FC  Chelsea FC                   19.4.
+  Burnley FC                  1-2  Chelsea FC                   
   Huddersfield Town           0-2  Crystal Palace
   Leicester City  Arsenal FC               9.5.
   Liverpool FC                5-0  Watford FC
@@ -227,10 +227,10 @@ Matchday 34
   AFC Bournemouth             0-2  Manchester United 
 ##Addition Matchday 31
 [Thu Apr/19]
-  Burnley FC Chelsea FC
+  Burnley FC                  1-2  Chelsea FC
 ##Addition Matchday 35
 [Thu Apr/19]
-  Leicester City  Southampton FC 
+  Leicester City              0-0  Southampton FC 
 
 Matchday 35
 
@@ -239,7 +239,7 @@ Matchday 35
 [Sat Apr/21]
   AFC Bournemouth             0-2  Manchester United         
   Chelsea FC  Huddersfield Town              9.5.
-  Leicester City  Southampton FC             16.4.
+  Leicester City              0-0  Southampton FC             
   Watford FC  Crystal Palace
 [Sun Apr/22]
   West Bromwich Albion  Liverpool FC
