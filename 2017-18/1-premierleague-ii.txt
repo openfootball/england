@@ -15,7 +15,7 @@ Matchday 22
 [Wed Jan/3]
   Arsenal FC                  2-2  Chelsea FC
   
-##addition Matchday 21  
+## in addition Matchday 21  
 [Thu Jan/4]  
   Tottenham Hotspurs          1-1  West Ham United
  
@@ -219,16 +219,19 @@ Matchday 34
 ## Master Premier League 2017/18:
   Manchester City
   
-##Addition Matchday 35
+## in Addition Matchday 35
 [Tue Apr/17]
   Brighton & Hove Albion      1-1  Tottenham Hotspur 
-##Addition Matchday 35
+  
+##in Addition Matchday 35
 [Wed Apr/18]
   AFC Bournemouth             0-2  Manchester United 
-##Addition Matchday 31
+  
+##in Addition Matchday 31
 [Thu Apr/19]
   Burnley FC                  1-2  Chelsea FC
-##Addition Matchday 35
+  
+##in Addition Matchday 35
 [Thu Apr/19]
   Leicester City              0-0  Southampton FC 
 
@@ -279,18 +282,21 @@ Matchday 37
   Watford FC  Newcastle United
   West Bromwich Albion  Tottenham Hotspur
   
-##Addition Matchday 31
+##in Addition Matchday 31
 [Tue May/8]
   Swansea City  Southampton FC
-##Addition Matchday 31
+  
+##in Addition Matchday 31
 [Wed May/9]
   Tottenham Hotspur  Newcastle United 
   Leicester City  Arsenal FC
   Manchester City  Brighton & Hove Albion
-##Addition Matchday 35
+  
+##in Addition Matchday 35
 [Wed May/9]
-  Chelsea FC  Huddersfield Town 
-##Addition Matchday 31
+  Chelsea FC  Huddersfield Town
+  
+##in Addition Matchday 31
 [Thu May/10]
   West Ham United  Manchester United
   
