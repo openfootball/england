@@ -255,16 +255,16 @@ Matchday 35
 Matchday 36
 
 [Sat Apr/28]
-  Burnley FC  Brighton & Hove Albion
-  Crystal Palace  Leicester City
-  Liverpool FC  Stoke City
-  Manchester United  Arsenal FC
-  Newcastle United  West Bromwich Albion
-  Southampton FC  AFC Bournemouth
-  Swansea City  Chelsea FC
+  Burnley FC                  0-0  Brighton & Hove Albion
+  Crystal Palace              5-0  Leicester City
+  Liverpool FC                0-0  Stoke City
+  Newcastle United            0-1  West Bromwich Albion
+  Southampton FC              2-1  AFC Bournemouth
+  Swansea City                0-1  Chelsea FC
+  Huddersfield Town           0-2  Everton FC
 [Sun Apr/29]
   West Ham United  Manchester City
-  Huddersfield Town  Everton FC
+  Manchester United  Arsenal FC
 [Mon Apr/30]
   Tottenham Hotspur  Watford FC
   
