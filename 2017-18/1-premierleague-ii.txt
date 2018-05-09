@@ -162,7 +162,7 @@ Matchday 31
   Leicester City  Arsenal FC               9.5.
   Liverpool FC                5-0  Watford FC
   Stoke City                  1-2  Everton FC
-  Swansea City  Southampton FC             8.5.
+  Swansea City                0-1  Southampton FC             
 [Sun Mar/18]
   West Ham United  Manchester United       10.5.
   Manchester City  Brighton & Hove Albion  9.5.
@@ -291,8 +291,11 @@ Matchday 37
    
 ## in addition Matchday 31
 [Tue May/8]
-  Swansea City  Southampton FC
-  
+  Swansea City               0-1  Southampton FC
+
+## 2. Absteiger Premierleague 2017/18:
+   West Bromwich Albion 
+   
 ## in addition Matchday 31
 [Wed May/9]
   Tottenham Hotspur  Newcastle United 
