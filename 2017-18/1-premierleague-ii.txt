@@ -268,9 +268,6 @@ Matchday 36
 [Mon Apr/30]
   Tottenham Hotspur           2-0  Watford FC
  
- ## 2. Aufsteiger Premierleague 2018/19:
-    Cardiff City or Fulham FC
- 
 Matchday 37
 [Fri May/4]
   Brighton & Hove Albion      1-0  Manchester United
@@ -310,11 +307,16 @@ Matchday 37
 [Thu May/10]
   West Ham United  Manchester United
   
-## playoff winner 3. Aufsteiger Premierleague 2018/19:
+##  winner for play-off final 2017/18 qualified:
+[Fri May/11]
   FC Fulham - Derby County
+[Sat May/12]
   Aston Villa - FC Middlesbrough
-  
-  FC Fulham/Derby County - Aston Villa/FC Middlesbrough
+[Mon May/14]
+  Derby County - FC Fulham
+[Tue May/15]
+  FC M iddlesbrough - Aston Villa
+
   
 Matchday 38
 
@@ -329,3 +331,7 @@ Matchday 38
   Swansea City  Stoke City
   Tottenham Hotspur  Leicester City
   West Ham United  Everton FC
+  
+  ## winner to premiereleague 2018/19:
+  [Sat May/28]
+    FC Fulham/Derby County - Aston Villa/FC Middlesbrough
