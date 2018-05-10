@@ -154,18 +154,18 @@ Matchday 30
 Matchday 31
 
 [Fri Mar/16]
-  Tottenham Hotspur  Newcastle United      9.5.
+  Tottenham Hotspur           1-0  Newcastle United     
 [Sat Mar/17]
   AFC Bournemouth             2-1  West Bromwich Albion
   Burnley FC                  1-2  Chelsea FC                   
   Huddersfield Town           0-2  Crystal Palace
-  Leicester City  Arsenal FC               9.5.
+  Leicester City              3-1  Arsenal FC               
   Liverpool FC                5-0  Watford FC
   Stoke City                  1-2  Everton FC
   Swansea City                0-1  Southampton FC             
 [Sun Mar/18]
   West Ham United  Manchester United       10.5.
-  Manchester City  Brighton & Hove Albion  9.5.
+  Manchester City             3-1  Brighton & Hove Albion  
   
 Matchday 32
 
@@ -241,7 +241,7 @@ Matchday 35
   Brighton & Hove Albion      1-1  Tottenham Hotspur  
 [Sat Apr/21]
   AFC Bournemouth             0-2  Manchester United         
-  Chelsea FC  Huddersfield Town              9.5.
+  Chelsea FC                  1-1  Huddersfield Town              
   Leicester City              0-0  Southampton FC             
   Watford FC                  0-0  Crystal Palace
   West Bromwich Albion        2-2  Liverpool FC
@@ -295,13 +295,13 @@ Matchday 37
    
 ## in addition Matchday 31
 [Wed May/9]
-  Tottenham Hotspur  Newcastle United 
-  Leicester City  Arsenal FC
-  Manchester City  Brighton & Hove Albion
+  Tottenham Hotspur          1-0  Newcastle United 
+  Leicester City             3-1  Arsenal FC
+  Manchester City            3-1  Brighton & Hove Albion
   
 ## in addition Matchday 35
 [Wed May/9]
-  Chelsea FC  Huddersfield Town
+  Chelsea FC                 1-1  Huddersfield Town
   
 ## in addition Matchday 31
 [Thu May/10]
