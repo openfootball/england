@@ -164,7 +164,7 @@ Matchday 31
   Stoke City                  1-2  Everton FC
   Swansea City                0-1  Southampton FC             
 [Sun Mar/18]
-  West Ham United  Manchester United       10.5.
+  West Ham United             0-0  Manchester United       
   Manchester City             3-1  Brighton & Hove Albion  
   
 Matchday 32
@@ -305,17 +305,17 @@ Matchday 37
   
 ## in addition Matchday 31
 [Thu May/10]
-  West Ham United  Manchester United
+  West Ham United            0-0  Manchester United
   
 ##  winner for play-off final 2017/18 qualified:
 [Fri May/11]
-  FC Fulham - Derby County
+  Derby County              1-0 FC Fulham
 [Sat May/12]
-  Aston Villa - FC Middlesbrough
-[Mon May/14]
-  Derby County - FC Fulham
-[Tue May/15]
   FC Middlesbrough - Aston Villa
+[Mon May/14]
+  FC Fulham - Derby County
+[Tue May/15]
+  Aston Villa - FC Middlesbrough
 
   
 Matchday 38
