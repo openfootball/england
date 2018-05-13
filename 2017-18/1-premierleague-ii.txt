@@ -311,7 +311,7 @@ Matchday 37
 [Fri May/11]
   Derby County              1-0 FC Fulham
 [Sat May/12]
-  FC Middlesbrough - Aston Villa
+  FC Middlesbrough          0-1 Aston Villa
 [Mon May/14]
   FC Fulham - Derby County
 [Tue May/15]
@@ -332,6 +332,9 @@ Matchday 38
   Tottenham Hotspur  Leicester City
   West Ham United  Everton FC
   
+  ## 3. Absteiger Premiereleague 2017/18:
+    Swansea City or Southampton FC
+    
   ## winner to premiereleague 2018/19:
   [Sat May/28]
     FC Fulham/Derby County - Aston Villa/FC Middlesbrough
