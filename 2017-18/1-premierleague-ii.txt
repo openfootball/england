@@ -313,7 +313,7 @@ Matchday 37
 [Sat May/12]
   FC Middlesbrough           0-1  Aston Villa
 [Mon May/14]
-  FC Fulham - Derby County
+  FC Fulham                  2-0  Derby County
 [Tue May/15]
   Aston Villa - FC Middlesbrough
 
@@ -337,4 +337,4 @@ Matchday 38
     
   ## winner to premiereleague 2018/19:
   [Sat May/28]
-    FC Fulham/Derby County - Aston Villa/FC Middlesbrough
+    FC Fulham - Aston Villa/FC Middlesbrough
