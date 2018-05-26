@@ -213,10 +213,10 @@ Matchday 34
 [Mon Apr/16]
   West Ham United             1-1  Stoke City
 
-## 1. Premier League Aufsteiger 2018/19:
+## 1. PremierLeague Aufsteiger 2018/19:
   Wolverhampton Wanderers
   
-## Master Premier League 2017/18:
+## Master PremierLeague 2017/18:
   Manchester City
   
 ## in addition Matchday 35
@@ -283,14 +283,14 @@ Matchday 37
   Chelsea FC                  1-0  Liverpool FC
   Manchester City             0-0  Huddersfield Town
 
-## 2. Aufsteiger Premierleague 2018/19:
+## 2. Aufsteiger PremierLeague 2018/19:
    Cardiff City
    
 ## in addition Matchday 31
 [Tue May/8]
   Swansea City               0-1  Southampton FC
 
-## 2. Absteiger Premierleague 2017/18:
+## 2. Absteiger PremierLeague 2017/18:
    West Bromwich Albion 
    
 ## in addition Matchday 31
@@ -332,12 +332,15 @@ Matchday 38
   Tottenham Hotspur          5-4  Leicester City
   West Ham United            3-1  Everton FC
   
-  ## 3. Absteiger Premiereleague 2017/18:
+  ## 3. Absteiger PremierLeague 2017/18:
     Swansea City 
     
-  ## winner to premiereleague 2018/19:
+  ## winner to PremierLeague 2018/19:
   [Sat May/26]
-    FC Fulham - Aston Villa
+    FC Fulham               1-0 Aston Villa
+  
+  ## 3. Aufsteiger PremiereLeague 2018/19:
+    FC Fulham
     
   ##  summerbreak until 11.08.18
   
