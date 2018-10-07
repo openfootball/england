@@ -122,9 +122,9 @@ Matchday 8
   Watford FC              0-4 AFC Bournemouth
   Manchester United       3-2 Newcastle United
 [Sun Oct/7]
-  Fulham FC               - Arsenal FC
-  Southampton FC          - Chelsea FC
-  Liverpool FC            - Manchester City
+  Fulham FC               1-5 Arsenal FC
+  Southampton FC          0-3 Chelsea FC
+  Liverpool FC            0-0 Manchester City
 
 
 Matchday 9
@@ -145,7 +145,6 @@ Matchday 9
 
 Matchday 10
 [Sat Oct/27]
-  Manchester United       - Everton FC
   Brighton & Hove Albion  - Wolverhampton Wanderers
   Fulham FC               - AFC Bournemouth
   Liverpool FC            - Cardiff City
@@ -155,6 +154,8 @@ Matchday 10
 [Sun Oct/28]
   Burnley FC              - Chelsea FC
   Crystal Palace          - Arsenal FC
+  Manchester United       - Everton FC
+[Mon Oct/29]
   Tottenham Hotspur       - Manchester City
 
 
