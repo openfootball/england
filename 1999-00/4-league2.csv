@@ -1,0 +1,537 @@
+English League 2 1999/2000
+Matchday,Date,Home,Away,HomeGoals,AwayGoals
+1,1999-08-06 00:00:00,Brighton,Mansfield,6,0
+1,1999-08-06 00:00:00,Carlisle,Leyton Orient,2,1
+1,1999-08-06 00:00:00,Cheltenham,Rochdale,0,2
+1,1999-08-06 00:00:00,Chester,Barnet,0,2
+1,1999-08-06 00:00:00,Exeter,Hull City,1,0
+1,1999-08-06 00:00:00,Halifax,Darlington,0,1
+1,1999-08-06 00:00:00,Lincoln City,Rotherham,2,1
+1,1999-08-06 00:00:00,Macclesfield,Northampton,1,0
+1,1999-08-06 00:00:00,Peterborough,Hartlepool,2,1
+1,1999-08-06 00:00:00,Shrewsbury,Torquay,1,2
+1,1999-08-06 00:00:00,Southend,Plymouth,2,1
+1,1999-08-06 00:00:00,York,Swansea,1,0
+2,1999-08-13 00:00:00,Barnet,Exeter,2,2
+2,1999-08-13 00:00:00,Darlington,Macclesfield,3,0
+2,1999-08-13 00:00:00,Hartlepool,Halifax,0,2
+2,1999-08-13 00:00:00,Hull City,Lincoln City,1,1
+2,1999-08-13 00:00:00,Leyton Orient,Brighton,1,2
+2,1999-08-13 00:00:00,Mansfield,Cheltenham,0,1
+2,1999-08-13 00:00:00,Northampton,Peterborough,0,1
+2,1999-08-13 00:00:00,Plymouth,Shrewsbury,0,0
+2,1999-08-13 00:00:00,Rochdale,Southend,2,0
+2,1999-08-13 00:00:00,Rotherham,Chester,4,0
+2,1999-08-13 00:00:00,Swansea,Carlisle,1,0
+2,1999-08-13 00:00:00,Torquay,York,0,0
+3,1999-08-17 00:00:00,Chester,Northampton,0,2
+3,1999-08-20 00:00:00,Brighton,Torquay,0,1
+3,1999-08-20 00:00:00,Carlisle,Hartlepool,0,3
+3,1999-08-20 00:00:00,Cheltenham,Hull City,1,0
+3,1999-08-20 00:00:00,Exeter,Rotherham,3,1
+3,1999-08-20 00:00:00,Halifax,Plymouth,0,1
+3,1999-08-20 00:00:00,Lincoln City,Barnet,0,0
+3,1999-08-20 00:00:00,Macclesfield,Swansea,1,2
+3,1999-08-20 00:00:00,Peterborough,Leyton Orient,2,1
+3,1999-08-20 00:00:00,Shrewsbury,Darlington,0,1
+3,1999-08-20 00:00:00,Southend,Mansfield,1,0
+3,1999-08-20 00:00:00,York,Rochdale,0,3
+4,1999-08-26 00:00:00,Northampton,Lincoln City,1,0
+4,1999-08-27 00:00:00,Barnet,York,6,3
+4,1999-08-27 00:00:00,Darlington,Brighton,1,1
+4,1999-08-27 00:00:00,Hartlepool,Cheltenham,0,1
+4,1999-08-27 00:00:00,Hull City,Macclesfield,2,3
+4,1999-08-27 00:00:00,Leyton Orient,Halifax,1,0
+4,1999-08-27 00:00:00,Mansfield,Carlisle,1,1
+4,1999-08-27 00:00:00,Plymouth,Peterborough,2,1
+4,1999-08-27 00:00:00,Rochdale,Exeter,0,2
+4,1999-08-27 00:00:00,Rotherham,Shrewsbury,4,0
+4,1999-08-27 00:00:00,Swansea,Southend,3,1
+4,1999-08-27 00:00:00,Torquay,Chester,2,2
+5,1999-08-29 00:00:00,Carlisle,Plymouth,4,2
+5,1999-08-29 00:00:00,Cheltenham,Barnet,1,2
+5,1999-08-29 00:00:00,Chester,Rochdale,0,2
+5,1999-08-29 00:00:00,Exeter,Mansfield,1,0
+5,1999-08-29 00:00:00,Lincoln City,Swansea,0,1
+5,1999-08-29 00:00:00,Macclesfield,Rotherham,1,1
+5,1999-08-29 00:00:00,Peterborough,Darlington,4,2
+5,1999-08-29 00:00:00,Southend,Leyton Orient,1,1
+5,1999-08-29 00:00:00,York,Northampton,0,1
+5,1999-08-30 00:00:00,Brighton,Hull City,3,0
+5,1999-08-30 00:00:00,Halifax,Torquay,2,0
+5,1999-08-30 00:00:00,Shrewsbury,Hartlepool,0,0
+6,1999-09-02 00:00:00,Hull City,Chester,2,1
+6,1999-09-02 00:00:00,Leyton Orient,Shrewsbury,1,2
+6,1999-09-02 00:00:00,Mansfield,Peterborough,3,1
+6,1999-09-02 00:00:00,Rochdale,Halifax,0,1
+6,1999-09-03 00:00:00,Darlington,Exeter,1,0
+6,1999-09-03 00:00:00,Hartlepool,Southend,1,2
+6,1999-09-03 00:00:00,Northampton,Carlisle,0,0
+6,1999-09-03 00:00:00,Rotherham,York,1,0
+6,1999-09-03 00:00:00,Torquay,Lincoln City,5,2
+6,1999-09-04 00:00:00,Barnet,Macclesfield,2,1
+6,1999-09-04 00:00:00,Plymouth,Brighton,3,3
+7,1999-09-10 00:00:00,Carlisle,Lincoln City,1,0
+7,1999-09-10 00:00:00,Chester,Exeter,1,1
+7,1999-09-10 00:00:00,Halifax,Brighton,2,1
+7,1999-09-10 00:00:00,Macclesfield,Southend,1,2
+7,1999-09-10 00:00:00,Mansfield,Leyton Orient,1,1
+7,1999-09-10 00:00:00,Northampton,Hartlepool,2,1
+7,1999-09-10 00:00:00,Plymouth,Rotherham,1,1
+7,1999-09-10 00:00:00,Rochdale,Darlington,0,0
+7,1999-09-10 00:00:00,Swansea,Barnet,1,2
+7,1999-09-10 00:00:00,Torquay,Hull City,0,1
+7,1999-09-10 00:00:00,York,Peterborough,0,0
+7,1999-09-11 00:00:00,Cheltenham,Shrewsbury,0,1
+8,1999-09-17 00:00:00,Barnet,Northampton,2,1
+8,1999-09-17 00:00:00,Brighton,Chester,2,3
+8,1999-09-17 00:00:00,Darlington,Mansfield,0,0
+8,1999-09-17 00:00:00,Exeter,York,2,1
+8,1999-09-17 00:00:00,Hartlepool,Plymouth,3,0
+8,1999-09-17 00:00:00,Hull City,Swansea,2,0
+8,1999-09-17 00:00:00,Leyton Orient,Torquay,0,2
+8,1999-09-17 00:00:00,Lincoln City,Macclesfield,1,1
+8,1999-09-17 00:00:00,Peterborough,Cheltenham,1,0
+8,1999-09-17 00:00:00,Rotherham,Rochdale,0,1
+8,1999-09-17 00:00:00,Shrewsbury,Carlisle,4,1
+8,1999-09-17 00:00:00,Southend,Halifax,4,1
+9,1999-09-23 00:00:00,Mansfield,Shrewsbury,4,0
+9,1999-09-24 00:00:00,Brighton,Cheltenham,1,0
+9,1999-09-24 00:00:00,Chester,Lincoln City,1,3
+9,1999-09-24 00:00:00,Darlington,Plymouth,2,0
+9,1999-09-24 00:00:00,Exeter,Macclesfield,0,3
+9,1999-09-24 00:00:00,Halifax,Carlisle,5,2
+9,1999-09-24 00:00:00,Hull City,York,1,1
+9,1999-09-24 00:00:00,Leyton Orient,Hartlepool,2,1
+9,1999-09-24 00:00:00,Rochdale,Swansea,0,0
+9,1999-09-24 00:00:00,Rotherham,Northampton,3,0
+9,1999-09-24 00:00:00,Southend,Peterborough,0,1
+9,1999-09-24 00:00:00,Torquay,Barnet,0,1
+10,1999-10-01 00:00:00,Barnet,Hull City,0,0
+10,1999-10-01 00:00:00,Carlisle,Southend,1,1
+10,1999-10-01 00:00:00,Cheltenham,Rotherham,0,2
+10,1999-10-01 00:00:00,Hartlepool,Darlington,2,0
+10,1999-10-01 00:00:00,Lincoln City,Exeter,1,0
+10,1999-10-01 00:00:00,Macclesfield,Torquay,1,2
+10,1999-10-01 00:00:00,Northampton,Rochdale,0,1
+10,1999-10-01 00:00:00,Peterborough,Brighton,0,0
+10,1999-10-01 00:00:00,Plymouth,Leyton Orient,5,0
+10,1999-10-01 00:00:00,Shrewsbury,Halifax,0,0
+10,1999-10-01 00:00:00,Swansea,Mansfield,0,1
+10,1999-10-01 00:00:00,York,Chester,2,2
+11,1999-10-08 00:00:00,Barnet,Rochdale,1,0
+11,1999-10-08 00:00:00,Carlisle,Brighton,0,1
+11,1999-10-08 00:00:00,Cheltenham,Southend,2,1
+11,1999-10-08 00:00:00,Hartlepool,Hull City,2,0
+11,1999-10-08 00:00:00,Lincoln City,Darlington,1,0
+11,1999-10-08 00:00:00,Macclesfield,Halifax,0,2
+11,1999-10-08 00:00:00,Northampton,Torquay,3,0
+11,1999-10-08 00:00:00,Peterborough,Chester,2,1
+11,1999-10-08 00:00:00,Plymouth,Mansfield,2,1
+11,1999-10-08 00:00:00,Shrewsbury,Exeter,1,4
+11,1999-10-08 00:00:00,York,Leyton Orient,2,1
+11,1999-10-11 00:00:00,Swansea,Rotherham,2,0
+12,1999-10-15 00:00:00,Brighton,York,0,1
+12,1999-10-15 00:00:00,Chester,Macclesfield,1,2
+12,1999-10-15 00:00:00,Darlington,Cheltenham,1,0
+12,1999-10-15 00:00:00,Exeter,Carlisle,1,1
+12,1999-10-15 00:00:00,Halifax,Peterborough,2,1
+12,1999-10-15 00:00:00,Hull City,Northampton,0,1
+12,1999-10-15 00:00:00,Leyton Orient,Lincoln City,2,3
+12,1999-10-15 00:00:00,Mansfield,Hartlepool,2,3
+12,1999-10-15 00:00:00,Rochdale,Plymouth,0,0
+12,1999-10-15 00:00:00,Rotherham,Barnet,2,0
+12,1999-10-15 00:00:00,Southend,Shrewsbury,3,2
+12,1999-10-15 00:00:00,Torquay,Swansea,1,0
+13,1999-10-18 00:00:00,Brighton,Shrewsbury,1,0
+13,1999-10-18 00:00:00,Chester,Cheltenham,2,1
+13,1999-10-18 00:00:00,Darlington,Carlisle,3,1
+13,1999-10-18 00:00:00,Exeter,Swansea,1,1
+13,1999-10-18 00:00:00,Halifax,York,0,2
+13,1999-10-18 00:00:00,Hull City,Plymouth,0,1
+13,1999-10-18 00:00:00,Leyton Orient,Barnet,0,0
+13,1999-10-18 00:00:00,Mansfield,Northampton,0,0
+13,1999-10-18 00:00:00,Rochdale,Macclesfield,0,1
+13,1999-10-18 00:00:00,Rotherham,Hartlepool,3,0
+13,1999-10-18 00:00:00,Southend,Lincoln City,2,2
+13,1999-10-18 00:00:00,Torquay,Peterborough,2,1
+14,1999-10-21 00:00:00,Swansea,Rochdale,1,0
+14,1999-10-22 00:00:00,Barnet,Torquay,1,2
+14,1999-10-22 00:00:00,Carlisle,Halifax,1,1
+14,1999-10-22 00:00:00,Cheltenham,Brighton,0,0
+14,1999-10-22 00:00:00,Hartlepool,Leyton Orient,1,0
+14,1999-10-22 00:00:00,Lincoln City,Chester,4,1
+14,1999-10-22 00:00:00,Macclesfield,Exeter,1,0
+14,1999-10-22 00:00:00,Northampton,Rotherham,0,1
+14,1999-10-22 00:00:00,Peterborough,Southend,1,0
+14,1999-10-22 00:00:00,Plymouth,Darlington,0,0
+14,1999-10-22 00:00:00,Shrewsbury,Mansfield,1,2
+14,1999-10-22 00:00:00,York,Hull City,1,1
+15,1999-11-01 00:00:00,Carlisle,York,0,1
+15,1999-11-01 00:00:00,Darlington,Leyton Orient,3,1
+15,1999-11-01 00:00:00,Halifax,Cheltenham,1,1
+15,1999-11-01 00:00:00,Hartlepool,Barnet,3,0
+15,1999-11-01 00:00:00,Lincoln City,Peterborough,1,2
+15,1999-11-01 00:00:00,Macclesfield,Mansfield,5,2
+15,1999-11-01 00:00:00,Northampton,Swansea,2,1
+15,1999-11-01 00:00:00,Plymouth,Exeter,1,0
+15,1999-11-01 00:00:00,Rochdale,Hull City,0,2
+15,1999-11-01 00:00:00,Rotherham,Torquay,1,0
+15,1999-11-01 00:00:00,Shrewsbury,Chester,0,1
+15,1999-11-01 00:00:00,Southend,Brighton,2,1
+16,1999-11-04 00:00:00,Swansea,Halifax,3,1
+16,1999-11-05 00:00:00,Barnet,Darlington,1,0
+16,1999-11-05 00:00:00,Brighton,Hartlepool,1,0
+16,1999-11-05 00:00:00,Cheltenham,Carlisle,3,1
+16,1999-11-05 00:00:00,Chester,Plymouth,0,1
+16,1999-11-05 00:00:00,Exeter,Southend,0,1
+16,1999-11-05 00:00:00,Hull City,Rotherham,0,0
+16,1999-11-05 00:00:00,Leyton Orient,Northampton,0,0
+16,1999-11-05 00:00:00,Mansfield,Lincoln City,5,2
+16,1999-11-05 00:00:00,Peterborough,Shrewsbury,4,1
+16,1999-11-05 00:00:00,Torquay,Rochdale,1,0
+16,1999-11-05 00:00:00,York,Macclesfield,0,2
+17,1999-11-11 00:00:00,Carlisle,Peterborough,1,1
+17,1999-11-11 00:00:00,Darlington,Torquay,1,1
+17,1999-11-11 00:00:00,Halifax,Exeter,1,0
+17,1999-11-11 00:00:00,Lincoln City,York,4,2
+17,1999-11-11 00:00:00,Northampton,Cheltenham,3,2
+17,1999-11-11 00:00:00,Rotherham,Leyton Orient,0,1
+17,1999-11-11 00:00:00,Shrewsbury,Swansea,1,1
+17,1999-11-11 00:00:00,Southend,Hull City,1,2
+17,1999-11-12 00:00:00,Hartlepool,Chester,1,0
+17,1999-11-13 00:00:00,Macclesfield,Brighton,1,1
+17,1999-11-13 00:00:00,Plymouth,Barnet,4,1
+17,1999-11-13 00:00:00,Rochdale,Mansfield,2,1
+18,1999-11-19 00:00:00,Peterborough,Macclesfield,2,2
+18,1999-11-22 00:00:00,Barnet,Carlisle,3,0
+18,1999-11-22 00:00:00,Brighton,Lincoln City,2,2
+18,1999-11-22 00:00:00,Cheltenham,Plymouth,2,0
+18,1999-11-22 00:00:00,Chester,Southend,0,0
+18,1999-11-22 00:00:00,Exeter,Northampton,1,2
+18,1999-11-22 00:00:00,Hull City,Halifax,0,1
+18,1999-11-22 00:00:00,Leyton Orient,Rochdale,0,0
+18,1999-11-22 00:00:00,Mansfield,Rotherham,1,2
+18,1999-11-22 00:00:00,Swansea,Darlington,0,0
+18,1999-11-22 00:00:00,Torquay,Hartlepool,0,0
+18,1999-11-22 00:00:00,York,Shrewsbury,1,0
+19,1999-11-26 00:00:00,Brighton,Northampton,1,3
+19,1999-11-26 00:00:00,Carlisle,Rotherham,0,1
+19,1999-11-26 00:00:00,Cheltenham,Leyton Orient,2,0
+19,1999-11-26 00:00:00,Chester,Swansea,0,1
+19,1999-11-26 00:00:00,Exeter,Torquay,3,2
+19,1999-11-26 00:00:00,Halifax,Mansfield,0,1
+19,1999-11-26 00:00:00,Lincoln City,Rochdale,1,1
+19,1999-11-26 00:00:00,Macclesfield,Hartlepool,3,3
+19,1999-11-26 00:00:00,Peterborough,Barnet,1,2
+19,1999-11-26 00:00:00,Shrewsbury,Hull City,3,0
+19,1999-11-26 00:00:00,Southend,Darlington,1,2
+19,1999-11-26 00:00:00,York,Plymouth,0,0
+20,1999-12-03 00:00:00,Barnet,Chester,2,0
+20,1999-12-03 00:00:00,Darlington,Halifax,4,0
+20,1999-12-03 00:00:00,Hartlepool,Peterborough,1,0
+20,1999-12-03 00:00:00,Hull City,Exeter,4,0
+20,1999-12-03 00:00:00,Leyton Orient,Carlisle,0,1
+20,1999-12-03 00:00:00,Northampton,Macclesfield,2,0
+20,1999-12-03 00:00:00,Plymouth,Southend,3,1
+20,1999-12-03 00:00:00,Rochdale,Cheltenham,0,0
+20,1999-12-03 00:00:00,Rotherham,Lincoln City,1,1
+20,1999-12-03 00:00:00,Swansea,York,1,0
+20,1999-12-03 00:00:00,Torquay,Shrewsbury,3,1
+21,1999-12-09 00:00:00,Brighton,Rochdale,3,4
+21,1999-12-09 00:00:00,Southend,Barnet,1,3
+21,1999-12-10 00:00:00,Cheltenham,Macclesfield,1,1
+21,1999-12-10 00:00:00,Halifax,Rotherham,0,0
+21,1999-12-10 00:00:00,Hartlepool,Swansea,0,1
+21,1999-12-10 00:00:00,Shrewsbury,Northampton,1,0
+21,1999-12-13 00:00:00,Carlisle,Torquay,0,0
+21,1999-12-14 00:00:00,Darlington,Chester,3,1
+22,1999-12-16 00:00:00,Northampton,Plymouth,1,1
+22,1999-12-16 00:00:00,York,Southend,2,2
+22,1999-12-17 00:00:00,Barnet,Mansfield,0,0
+22,1999-12-17 00:00:00,Chester,Halifax,2,1
+22,1999-12-17 00:00:00,Exeter,Hartlepool,1,2
+22,1999-12-17 00:00:00,Hull City,Carlisle,2,1
+22,1999-12-17 00:00:00,Lincoln City,Shrewsbury,1,2
+22,1999-12-17 00:00:00,Macclesfield,Leyton Orient,1,0
+22,1999-12-17 00:00:00,Rotherham,Darlington,2,1
+22,1999-12-17 00:00:00,Swansea,Brighton,2,0
+23,1999-12-25 00:00:00,Brighton,Barnet,1,1
+23,1999-12-25 00:00:00,Carlisle,Rochdale,1,2
+23,1999-12-25 00:00:00,Cheltenham,Exeter,3,1
+23,1999-12-25 00:00:00,Darlington,Hull City,0,0
+23,1999-12-25 00:00:00,Halifax,Lincoln City,3,0
+23,1999-12-25 00:00:00,Hartlepool,York,2,1
+23,1999-12-25 00:00:00,Leyton Orient,Swansea,0,1
+23,1999-12-25 00:00:00,Mansfield,Chester,2,1
+23,1999-12-25 00:00:00,Peterborough,Rotherham,0,5
+23,1999-12-25 00:00:00,Plymouth,Torquay,2,2
+23,1999-12-25 00:00:00,Shrewsbury,Macclesfield,0,1
+23,1999-12-25 00:00:00,Southend,Northampton,2,2
+24,1999-12-27 00:00:00,Barnet,Halifax,0,1
+24,1999-12-27 00:00:00,Chester,Leyton Orient,1,5
+24,1999-12-27 00:00:00,Exeter,Peterborough,2,2
+24,1999-12-27 00:00:00,Hull City,Mansfield,2,0
+24,1999-12-27 00:00:00,Lincoln City,Hartlepool,1,2
+24,1999-12-27 00:00:00,Macclesfield,Carlisle,2,1
+24,1999-12-27 00:00:00,Northampton,Darlington,0,3
+24,1999-12-27 00:00:00,Rochdale,Shrewsbury,2,1
+24,1999-12-27 00:00:00,Rotherham,Brighton,1,3
+24,1999-12-27 00:00:00,Swansea,Plymouth,1,0
+24,1999-12-27 00:00:00,Torquay,Southend,0,1
+24,1999-12-27 00:00:00,York,Cheltenham,1,2
+25,2000-01-02 00:00:00,Brighton,Exeter,4,2
+25,2000-01-02 00:00:00,Carlisle,Chester,4,1
+25,2000-01-02 00:00:00,Cheltenham,Lincoln City,0,2
+25,2000-01-02 00:00:00,Halifax,Northampton,2,2
+25,2000-01-02 00:00:00,Hartlepool,Rochdale,3,2
+25,2000-01-02 00:00:00,Leyton Orient,Hull City,0,0
+25,2000-01-02 00:00:00,Mansfield,Torquay,4,3
+25,2000-01-02 00:00:00,Peterborough,Swansea,2,3
+25,2000-01-02 00:00:00,Plymouth,Macclesfield,3,2
+25,2000-01-02 00:00:00,Shrewsbury,Barnet,1,1
+25,2000-01-02 00:00:00,Southend,Rotherham,1,2
+26,2000-01-07 00:00:00,Barnet,Southend,2,1
+26,2000-01-07 00:00:00,Chester,Darlington,1,2
+26,2000-01-07 00:00:00,Exeter,Leyton Orient,1,3
+26,2000-01-07 00:00:00,Hull City,Peterborough,2,3
+26,2000-01-07 00:00:00,Macclesfield,Cheltenham,1,2
+26,2000-01-07 00:00:00,Northampton,Shrewsbury,3,0
+26,2000-01-07 00:00:00,Rochdale,Brighton,1,0
+26,2000-01-07 00:00:00,Rotherham,Halifax,0,1
+26,2000-01-07 00:00:00,Swansea,Hartlepool,2,1
+26,2000-01-07 00:00:00,Torquay,Carlisle,4,1
+26,2000-01-07 00:00:00,York,Mansfield,0,1
+27,2000-01-14 00:00:00,Brighton,Leyton Orient,0,1
+27,2000-01-14 00:00:00,Cheltenham,Mansfield,1,0
+27,2000-01-14 00:00:00,Chester,Rotherham,0,2
+27,2000-01-14 00:00:00,Exeter,Barnet,0,0
+27,2000-01-14 00:00:00,Halifax,Hartlepool,1,1
+27,2000-01-14 00:00:00,Lincoln City,Hull City,2,1
+27,2000-01-14 00:00:00,Macclesfield,Darlington,2,1
+27,2000-01-14 00:00:00,Peterborough,Northampton,1,0
+27,2000-01-14 00:00:00,Shrewsbury,Plymouth,0,0
+27,2000-01-14 00:00:00,Southend,Rochdale,3,3
+27,2000-01-14 00:00:00,York,Torquay,2,2
+28,2000-01-21 00:00:00,Barnet,Lincoln City,5,3
+28,2000-01-21 00:00:00,Hartlepool,Carlisle,1,0
+28,2000-01-21 00:00:00,Hull City,Cheltenham,1,1
+28,2000-01-21 00:00:00,Leyton Orient,Peterborough,1,1
+28,2000-01-21 00:00:00,Mansfield,Southend,3,1
+28,2000-01-21 00:00:00,Northampton,Chester,3,1
+28,2000-01-21 00:00:00,Plymouth,Halifax,1,1
+28,2000-01-21 00:00:00,Rochdale,York,2,1
+28,2000-01-21 00:00:00,Rotherham,Exeter,5,0
+28,2000-01-21 00:00:00,Swansea,Macclesfield,1,0
+28,2000-01-21 00:00:00,Torquay,Brighton,0,0
+29,2000-01-28 00:00:00,Brighton,Darlington,1,1
+29,2000-01-28 00:00:00,Carlisle,Mansfield,0,2
+29,2000-01-28 00:00:00,Cheltenham,Hartlepool,2,1
+29,2000-01-28 00:00:00,Chester,Torquay,2,1
+29,2000-01-28 00:00:00,Exeter,Rochdale,2,0
+29,2000-01-28 00:00:00,Halifax,Leyton Orient,0,2
+29,2000-01-28 00:00:00,Lincoln City,Northampton,2,2
+29,2000-01-28 00:00:00,Macclesfield,Hull City,0,2
+29,2000-01-28 00:00:00,Peterborough,Plymouth,2,0
+29,2000-01-28 00:00:00,Shrewsbury,Rotherham,0,0
+29,2000-01-28 00:00:00,Southend,Swansea,2,1
+29,2000-01-28 00:00:00,York,Barnet,1,0
+30,2000-02-03 00:00:00,Mansfield,Exeter,1,1
+30,2000-02-03 00:00:00,Swansea,Lincoln City,2,1
+30,2000-02-04 00:00:00,Barnet,Cheltenham,3,2
+30,2000-02-04 00:00:00,Hartlepool,Shrewsbury,1,0
+30,2000-02-04 00:00:00,Hull City,Brighton,2,0
+30,2000-02-04 00:00:00,Leyton Orient,Southend,2,1
+30,2000-02-04 00:00:00,Northampton,York,3,0
+30,2000-02-04 00:00:00,Plymouth,Carlisle,2,0
+30,2000-02-04 00:00:00,Rochdale,Chester,2,1
+30,2000-02-04 00:00:00,Rotherham,Macclesfield,2,1
+30,2000-02-04 00:00:00,Torquay,Halifax,4,0
+30,2000-02-05 00:00:00,Darlington,Peterborough,2,0
+31,2000-02-11 00:00:00,Brighton,Plymouth,1,1
+31,2000-02-11 00:00:00,Chester,Hull City,0,0
+31,2000-02-11 00:00:00,Exeter,Darlington,1,4
+31,2000-02-11 00:00:00,Halifax,Rochdale,0,2
+31,2000-02-11 00:00:00,Lincoln City,Torquay,2,1
+31,2000-02-11 00:00:00,Macclesfield,Barnet,2,0
+31,2000-02-11 00:00:00,Peterborough,Mansfield,1,0
+31,2000-02-11 00:00:00,Shrewsbury,Leyton Orient,1,0
+31,2000-02-11 00:00:00,Southend,Hartlepool,2,1
+31,2000-02-11 00:00:00,York,Rotherham,1,2
+31,2000-02-12 00:00:00,Cheltenham,Swansea,0,0
+32,2000-02-17 00:00:00,Swansea,Chester,2,1
+32,2000-02-18 00:00:00,Barnet,Peterborough,0,2
+32,2000-02-18 00:00:00,Darlington,Southend,1,0
+32,2000-02-18 00:00:00,Hartlepool,Macclesfield,1,4
+32,2000-02-18 00:00:00,Hull City,Shrewsbury,0,0
+32,2000-02-18 00:00:00,Leyton Orient,Cheltenham,1,0
+32,2000-02-18 00:00:00,Mansfield,Halifax,0,2
+32,2000-02-18 00:00:00,Northampton,Brighton,1,0
+32,2000-02-18 00:00:00,Plymouth,York,2,0
+32,2000-02-18 00:00:00,Rochdale,Lincoln City,1,1
+32,2000-02-18 00:00:00,Rotherham,Carlisle,4,2
+32,2000-02-18 00:00:00,Torquay,Exeter,1,0
+33,2000-02-25 00:00:00,Carlisle,Shrewsbury,1,1
+33,2000-02-25 00:00:00,Cheltenham,Peterborough,2,1
+33,2000-02-25 00:00:00,Chester,Brighton,1,7
+33,2000-02-25 00:00:00,Halifax,Southend,0,0
+33,2000-02-25 00:00:00,Macclesfield,Lincoln City,1,1
+33,2000-02-25 00:00:00,Mansfield,Darlington,1,2
+33,2000-02-25 00:00:00,Northampton,Barnet,1,0
+33,2000-02-25 00:00:00,Plymouth,Hartlepool,1,1
+33,2000-02-25 00:00:00,Rochdale,Rotherham,0,1
+33,2000-02-25 00:00:00,Swansea,Hull City,0,0
+33,2000-02-25 00:00:00,Torquay,Leyton Orient,0,0
+33,2000-02-25 00:00:00,York,Exeter,0,0
+34,2000-03-02 00:00:00,Southend,Macclesfield,1,0
+34,2000-03-03 00:00:00,Barnet,Swansea,0,1
+34,2000-03-03 00:00:00,Brighton,Halifax,2,1
+34,2000-03-03 00:00:00,Darlington,Rochdale,4,1
+34,2000-03-03 00:00:00,Exeter,Chester,0,2
+34,2000-03-03 00:00:00,Hartlepool,Northampton,2,1
+34,2000-03-03 00:00:00,Hull City,Torquay,0,0
+34,2000-03-03 00:00:00,Leyton Orient,Mansfield,1,3
+34,2000-03-03 00:00:00,Lincoln City,Carlisle,5,0
+34,2000-03-03 00:00:00,Peterborough,York,2,0
+34,2000-03-03 00:00:00,Rotherham,Plymouth,1,1
+34,2000-03-03 00:00:00,Shrewsbury,Cheltenham,0,2
+35,2000-03-06 00:00:00,Darlington,Barnet,4,0
+35,2000-03-06 00:00:00,Halifax,Swansea,0,1
+35,2000-03-06 00:00:00,Hartlepool,Brighton,0,0
+35,2000-03-06 00:00:00,Lincoln City,Mansfield,3,0
+35,2000-03-06 00:00:00,Macclesfield,York,1,1
+35,2000-03-06 00:00:00,Northampton,Leyton Orient,2,1
+35,2000-03-06 00:00:00,Plymouth,Chester,0,0
+35,2000-03-06 00:00:00,Rotherham,Hull City,3,0
+35,2000-03-06 00:00:00,Shrewsbury,Peterborough,0,1
+35,2000-03-06 00:00:00,Southend,Exeter,1,2
+36,2000-03-09 00:00:00,Swansea,Northampton,4,1
+36,2000-03-10 00:00:00,Barnet,Hartlepool,1,1
+36,2000-03-10 00:00:00,Brighton,Southend,1,0
+36,2000-03-10 00:00:00,Cheltenham,Halifax,3,0
+36,2000-03-10 00:00:00,Chester,Shrewsbury,0,0
+36,2000-03-10 00:00:00,Exeter,Plymouth,1,1
+36,2000-03-10 00:00:00,Hull City,Rochdale,2,2
+36,2000-03-10 00:00:00,Leyton Orient,Darlington,2,1
+36,2000-03-10 00:00:00,Mansfield,Macclesfield,1,0
+36,2000-03-10 00:00:00,Peterborough,Lincoln City,2,2
+36,2000-03-10 00:00:00,Torquay,Rotherham,2,1
+36,2000-03-10 00:00:00,York,Carlisle,1,1
+37,2000-03-16 00:00:00,Rotherham,Mansfield,2,3
+37,2000-03-17 00:00:00,Carlisle,Barnet,3,1
+37,2000-03-17 00:00:00,Darlington,Swansea,1,1
+37,2000-03-17 00:00:00,Halifax,Hull City,0,1
+37,2000-03-17 00:00:00,Hartlepool,Torquay,2,0
+37,2000-03-17 00:00:00,Lincoln City,Brighton,1,3
+37,2000-03-17 00:00:00,Macclesfield,Peterborough,1,1
+37,2000-03-17 00:00:00,Northampton,Exeter,2,1
+37,2000-03-17 00:00:00,Plymouth,Cheltenham,1,0
+37,2000-03-17 00:00:00,Rochdale,Leyton Orient,1,4
+37,2000-03-17 00:00:00,Shrewsbury,York,0,1
+37,2000-03-17 00:00:00,Southend,Chester,3,1
+38,2000-03-20 00:00:00,Barnet,Plymouth,1,0
+38,2000-03-20 00:00:00,Brighton,Macclesfield,5,2
+38,2000-03-20 00:00:00,Cheltenham,Northampton,2,1
+38,2000-03-20 00:00:00,Chester,Hartlepool,1,1
+38,2000-03-20 00:00:00,Exeter,Halifax,1,0
+38,2000-03-20 00:00:00,Hull City,Southend,0,0
+38,2000-03-20 00:00:00,Leyton Orient,Rotherham,0,1
+38,2000-03-20 00:00:00,Peterborough,Carlisle,0,2
+38,2000-03-20 00:00:00,Swansea,Shrewsbury,1,1
+38,2000-03-20 00:00:00,Torquay,Darlington,1,0
+38,2000-03-20 00:00:00,York,Lincoln City,2,0
+39,2000-03-24 00:00:00,Barnet,Brighton,0,1
+39,2000-03-24 00:00:00,Chester,Mansfield,5,0
+39,2000-03-24 00:00:00,Exeter,Cheltenham,1,2
+39,2000-03-24 00:00:00,Hull City,Darlington,0,1
+39,2000-03-24 00:00:00,Lincoln City,Halifax,1,1
+39,2000-03-24 00:00:00,Macclesfield,Shrewsbury,4,2
+39,2000-03-24 00:00:00,Northampton,Southend,2,0
+39,2000-03-24 00:00:00,Rochdale,Carlisle,3,2
+39,2000-03-24 00:00:00,Rotherham,Peterborough,1,1
+39,2000-03-24 00:00:00,Swansea,Leyton Orient,0,0
+39,2000-03-24 00:00:00,Torquay,Plymouth,0,4
+39,2000-03-24 00:00:00,York,Hartlepool,2,1
+40,2000-03-31 00:00:00,Brighton,Swansea,1,1
+40,2000-03-31 00:00:00,Carlisle,Hull City,0,4
+40,2000-03-31 00:00:00,Cheltenham,Torquay,2,0
+40,2000-03-31 00:00:00,Darlington,Rotherham,2,2
+40,2000-03-31 00:00:00,Halifax,Chester,0,1
+40,2000-03-31 00:00:00,Hartlepool,Exeter,2,1
+40,2000-03-31 00:00:00,Leyton Orient,Macclesfield,0,0
+40,2000-03-31 00:00:00,Mansfield,Barnet,0,1
+40,2000-03-31 00:00:00,Peterborough,Rochdale,3,3
+40,2000-03-31 00:00:00,Plymouth,Northampton,2,1
+40,2000-03-31 00:00:00,Shrewsbury,Lincoln City,1,2
+40,2000-03-31 00:00:00,Southend,York,0,0
+41,2000-04-07 00:00:00,Barnet,Shrewsbury,1,1
+41,2000-04-07 00:00:00,Chester,Carlisle,0,1
+41,2000-04-07 00:00:00,Exeter,Brighton,0,0
+41,2000-04-07 00:00:00,Hull City,Leyton Orient,2,0
+41,2000-04-07 00:00:00,Lincoln City,Cheltenham,1,2
+41,2000-04-07 00:00:00,Macclesfield,Plymouth,4,1
+41,2000-04-07 00:00:00,Northampton,Halifax,3,4
+41,2000-04-07 00:00:00,Rochdale,Hartlepool,0,0
+41,2000-04-07 00:00:00,Rotherham,Southend,0,0
+41,2000-04-07 00:00:00,Swansea,Peterborough,0,0
+41,2000-04-07 00:00:00,Torquay,Mansfield,4,0
+41,2000-04-07 00:00:00,York,Darlington,0,0
+42,2000-04-14 00:00:00,Brighton,Rotherham,1,1
+42,2000-04-14 00:00:00,Carlisle,Macclesfield,0,1
+42,2000-04-14 00:00:00,Cheltenham,York,0,1
+42,2000-04-14 00:00:00,Darlington,Northampton,0,1
+42,2000-04-14 00:00:00,Halifax,Barnet,1,2
+42,2000-04-14 00:00:00,Hartlepool,Lincoln City,2,0
+42,2000-04-14 00:00:00,Leyton Orient,Chester,1,2
+42,2000-04-14 00:00:00,Mansfield,Hull City,0,1
+42,2000-04-14 00:00:00,Peterborough,Exeter,3,1
+42,2000-04-14 00:00:00,Plymouth,Swansea,1,0
+42,2000-04-14 00:00:00,Shrewsbury,Rochdale,2,4
+43,2000-04-20 00:00:00,Northampton,Hull City,1,0
+43,2000-04-21 00:00:00,Barnet,Rotherham,1,0
+43,2000-04-21 00:00:00,Carlisle,Exeter,0,0
+43,2000-04-21 00:00:00,Cheltenham,Darlington,0,0
+43,2000-04-21 00:00:00,Hartlepool,Mansfield,1,0
+43,2000-04-21 00:00:00,Lincoln City,Leyton Orient,0,0
+43,2000-04-21 00:00:00,Macclesfield,Chester,1,1
+43,2000-04-21 00:00:00,Peterborough,Halifax,2,1
+43,2000-04-21 00:00:00,Plymouth,Rochdale,1,1
+43,2000-04-21 00:00:00,Shrewsbury,Southend,2,1
+43,2000-04-21 00:00:00,Swansea,Torquay,2,1
+43,2000-04-21 00:00:00,York,Brighton,0,0
+44,2000-04-23 00:00:00,Chester,York,2,0
+44,2000-04-23 00:00:00,Darlington,Hartlepool,1,1
+44,2000-04-23 00:00:00,Exeter,Lincoln City,3,0
+44,2000-04-23 00:00:00,Halifax,Shrewsbury,2,1
+44,2000-04-23 00:00:00,Hull City,Barnet,1,3
+44,2000-04-23 00:00:00,Leyton Orient,Plymouth,3,0
+44,2000-04-23 00:00:00,Mansfield,Swansea,0,1
+44,2000-04-23 00:00:00,Rochdale,Northampton,0,3
+44,2000-04-23 00:00:00,Rotherham,Cheltenham,2,0
+44,2000-04-23 00:00:00,Southend,Carlisle,2,0
+44,2000-04-23 00:00:00,Torquay,Macclesfield,3,2
+44,2000-04-25 00:00:00,Brighton,Peterborough,0,0
+45,2000-04-28 00:00:00,Barnet,Leyton Orient,2,2
+45,2000-04-28 00:00:00,Carlisle,Darlington,1,1
+45,2000-04-28 00:00:00,Cheltenham,Chester,1,0
+45,2000-04-28 00:00:00,Hartlepool,Rotherham,1,2
+45,2000-04-28 00:00:00,Lincoln City,Southend,1,0
+45,2000-04-28 00:00:00,Macclesfield,Rochdale,1,2
+45,2000-04-28 00:00:00,Northampton,Mansfield,1,0
+45,2000-04-28 00:00:00,Peterborough,Torquay,0,2
+45,2000-04-28 00:00:00,Plymouth,Hull City,0,1
+45,2000-04-28 00:00:00,Shrewsbury,Brighton,1,2
+45,2000-04-28 00:00:00,Swansea,Exeter,3,0
+45,2000-04-28 00:00:00,York,Halifax,2,0
+46,2000-05-05 00:00:00,Brighton,Carlisle,1,0
+46,2000-05-05 00:00:00,Chester,Peterborough,0,1
+46,2000-05-05 00:00:00,Darlington,Lincoln City,2,0
+46,2000-05-05 00:00:00,Exeter,Shrewsbury,1,2
+46,2000-05-05 00:00:00,Halifax,Macclesfield,0,1
+46,2000-05-05 00:00:00,Hull City,Hartlepool,0,3
+46,2000-05-05 00:00:00,Leyton Orient,York,0,0
+46,2000-05-05 00:00:00,Mansfield,Plymouth,2,2
+46,2000-05-05 00:00:00,Rochdale,Barnet,1,1
+46,2000-05-05 00:00:00,Rotherham,Swansea,1,1
+46,2000-05-05 00:00:00,Southend,Cheltenham,2,1
+46,2000-05-05 00:00:00,Torquay,Northampton,1,2
