@@ -1,0 +1,525 @@
+English Premier League 1998/1999
+Matchday,Date,Home,Away,HomeGoals,AwayGoals
+1,1998-08-07 00:00:00,Brentford,Mansfield,3,0
+1,1998-08-07 00:00:00,Carlisle,Brighton,1,0
+1,1998-08-07 00:00:00,Chester,Leyton Orient,0,2
+1,1998-08-07 00:00:00,Darlington,Barnet,0,2
+1,1998-08-07 00:00:00,Hartlepool,Cardiff,1,1
+1,1998-08-07 00:00:00,Peterborough,Halifax,0,2
+1,1998-08-07 00:00:00,Plymouth,Rochdale,2,1
+1,1998-08-07 00:00:00,Rotherham,Hull City,3,1
+1,1998-08-07 00:00:00,Scarborough FC,Southend,1,2
+1,1998-08-07 00:00:00,Shrewsbury,Scunthorpe,2,1
+1,1998-08-07 00:00:00,Swansea,Exeter,2,0
+1,1998-08-07 00:00:00,Torquay,Cambridge Utd,0,1
+2,1998-08-14 00:00:00,Barnet,Hartlepool,0,2
+2,1998-08-14 00:00:00,Brighton,Chester,2,2
+2,1998-08-14 00:00:00,Cambridge Utd,Swansea,2,1
+2,1998-08-14 00:00:00,Cardiff,Peterborough,1,3
+2,1998-08-14 00:00:00,Exeter,Scarborough FC,1,0
+2,1998-08-14 00:00:00,Halifax,Brentford,1,0
+2,1998-08-14 00:00:00,Hull City,Darlington,1,2
+2,1998-08-14 00:00:00,Leyton Orient,Rotherham,1,4
+2,1998-08-14 00:00:00,Mansfield,Plymouth,2,0
+2,1998-08-14 00:00:00,Rochdale,Torquay,0,2
+2,1998-08-14 00:00:00,Scunthorpe,Carlisle,3,1
+2,1998-08-14 00:00:00,Southend,Shrewsbury,2,1
+3,1998-08-20 00:00:00,Shrewsbury,Cardiff,0,3
+3,1998-08-21 00:00:00,Brentford,Brighton,2,0
+3,1998-08-21 00:00:00,Carlisle,Rochdale,0,1
+3,1998-08-21 00:00:00,Darlington,Halifax,2,2
+3,1998-08-21 00:00:00,Hartlepool,Scunthorpe,1,2
+3,1998-08-21 00:00:00,Peterborough,Southend,1,1
+3,1998-08-21 00:00:00,Plymouth,Barnet,2,0
+3,1998-08-21 00:00:00,Rotherham,Cambridge Utd,2,0
+3,1998-08-21 00:00:00,Scarborough FC,Mansfield,2,3
+3,1998-08-21 00:00:00,Swansea,Leyton Orient,1,1
+3,1998-08-21 00:00:00,Torquay,Exeter,1,0
+3,1998-08-22 00:00:00,Chester,Hull City,2,2
+4,1998-08-27 00:00:00,Halifax,Shrewsbury,2,0
+4,1998-08-28 00:00:00,Barnet,Brentford,0,3
+4,1998-08-28 00:00:00,Brighton,Torquay,2,0
+4,1998-08-28 00:00:00,Cambridge Utd,Hartlepool,1,2
+4,1998-08-28 00:00:00,Cardiff,Rotherham,0,1
+4,1998-08-28 00:00:00,Exeter,Carlisle,2,0
+4,1998-08-28 00:00:00,Hull City,Peterborough,1,0
+4,1998-08-28 00:00:00,Leyton Orient,Scarborough FC,0,3
+4,1998-08-28 00:00:00,Mansfield,Swansea,1,0
+4,1998-08-28 00:00:00,Rochdale,Darlington,0,0
+4,1998-08-28 00:00:00,Scunthorpe,Plymouth,0,2
+4,1998-08-28 00:00:00,Southend,Chester,0,1
+5,1998-08-30 00:00:00,Brentford,Rochdale,2,1
+5,1998-08-30 00:00:00,Darlington,Cardiff,3,0
+5,1998-08-30 00:00:00,Hartlepool,Hull City,1,0
+5,1998-08-30 00:00:00,Peterborough,Exeter,4,1
+5,1998-08-30 00:00:00,Plymouth,Halifax,1,0
+5,1998-08-30 00:00:00,Rotherham,Mansfield,0,0
+5,1998-08-30 00:00:00,Scarborough FC,Brighton,1,2
+5,1998-08-30 00:00:00,Shrewsbury,Barnet,0,2
+5,1998-08-30 00:00:00,Swansea,Scunthorpe,1,2
+5,1998-08-31 00:00:00,Carlisle,Southend,3,0
+5,1998-08-31 00:00:00,Chester,Cambridge Utd,0,3
+5,1998-08-31 00:00:00,Torquay,Leyton Orient,1,1
+6,1998-09-03 00:00:00,Halifax,Hartlepool,2,1
+6,1998-09-04 00:00:00,Barnet,Peterborough,1,9
+6,1998-09-04 00:00:00,Brighton,Swansea,1,0
+6,1998-09-04 00:00:00,Cambridge Utd,Scarborough FC,2,3
+6,1998-09-04 00:00:00,Cardiff,Plymouth,1,0
+6,1998-09-04 00:00:00,Exeter,Chester,0,1
+6,1998-09-04 00:00:00,Hull City,Brentford,2,3
+6,1998-09-04 00:00:00,Leyton Orient,Carlisle,2,1
+6,1998-09-04 00:00:00,Mansfield,Darlington,0,1
+6,1998-09-04 00:00:00,Rochdale,Shrewsbury,1,0
+6,1998-09-04 00:00:00,Scunthorpe,Torquay,2,0
+6,1998-09-04 00:00:00,Southend,Rotherham,3,0
+7,1998-09-07 00:00:00,Cardiff,Barnet,1,0
+7,1998-09-07 00:00:00,Carlisle,Swansea,1,2
+7,1998-09-07 00:00:00,Darlington,Hartlepool,2,0
+7,1998-09-07 00:00:00,Exeter,Brighton,1,0
+7,1998-09-07 00:00:00,Hull City,Rochdale,2,1
+7,1998-09-07 00:00:00,Leyton Orient,Mansfield,1,1
+7,1998-09-07 00:00:00,Peterborough,Chester,3,0
+7,1998-09-07 00:00:00,Rotherham,Plymouth,0,2
+7,1998-09-07 00:00:00,Scunthorpe,Cambridge Utd,3,2
+7,1998-09-07 00:00:00,Southend,Halifax,0,0
+7,1998-09-07 00:00:00,Torquay,Brentford,3,1
+7,1998-09-08 00:00:00,Scarborough FC,Shrewsbury,2,0
+8,1998-09-10 00:00:00,Halifax,Cardiff,1,2
+8,1998-09-11 00:00:00,Barnet,Hull City,4,1
+8,1998-09-11 00:00:00,Brentford,Rotherham,0,3
+8,1998-09-11 00:00:00,Brighton,Southend,0,2
+8,1998-09-11 00:00:00,Cambridge Utd,Leyton Orient,1,0
+8,1998-09-11 00:00:00,Chester,Torquay,2,0
+8,1998-09-11 00:00:00,Hartlepool,Exeter,4,3
+8,1998-09-11 00:00:00,Mansfield,Carlisle,1,1
+8,1998-09-11 00:00:00,Plymouth,Darlington,1,2
+8,1998-09-11 00:00:00,Rochdale,Scunthorpe,2,2
+8,1998-09-11 00:00:00,Shrewsbury,Peterborough,1,1
+8,1998-09-11 00:00:00,Swansea,Scarborough FC,2,0
+9,1998-09-18 00:00:00,Cardiff,Rochdale,2,1
+9,1998-09-18 00:00:00,Carlisle,Chester,1,1
+9,1998-09-18 00:00:00,Darlington,Shrewsbury,1,0
+9,1998-09-18 00:00:00,Exeter,Barnet,1,0
+9,1998-09-18 00:00:00,Hull City,Halifax,1,2
+9,1998-09-18 00:00:00,Leyton Orient,Brighton,1,0
+9,1998-09-18 00:00:00,Peterborough,Plymouth,0,2
+9,1998-09-18 00:00:00,Rotherham,Hartlepool,3,0
+9,1998-09-18 00:00:00,Scarborough FC,Brentford,3,1
+9,1998-09-18 00:00:00,Scunthorpe,Mansfield,3,2
+9,1998-09-18 00:00:00,Southend,Cambridge Utd,0,1
+9,1998-09-18 00:00:00,Torquay,Swansea,1,1
+10,1998-09-25 00:00:00,Barnet,Rotherham,4,2
+10,1998-09-25 00:00:00,Brentford,Darlington,3,0
+10,1998-09-25 00:00:00,Brighton,Scunthorpe,1,3
+10,1998-09-25 00:00:00,Cambridge Utd,Exeter,1,1
+10,1998-09-25 00:00:00,Chester,Cardiff,2,2
+10,1998-09-25 00:00:00,Halifax,Torquay,1,1
+10,1998-09-25 00:00:00,Hartlepool,Peterborough,1,2
+10,1998-09-25 00:00:00,Mansfield,Hull City,2,0
+10,1998-09-25 00:00:00,Plymouth,Scarborough FC,0,0
+10,1998-09-25 00:00:00,Rochdale,Leyton Orient,2,1
+10,1998-09-25 00:00:00,Shrewsbury,Carlisle,1,1
+10,1998-09-25 00:00:00,Swansea,Southend,3,1
+11,1998-10-02 00:00:00,Cardiff,Brighton,2,0
+11,1998-10-02 00:00:00,Carlisle,Barnet,2,1
+11,1998-10-02 00:00:00,Darlington,Swansea,2,2
+11,1998-10-02 00:00:00,Exeter,Mansfield,2,1
+11,1998-10-02 00:00:00,Hull City,Cambridge Utd,0,3
+11,1998-10-02 00:00:00,Leyton Orient,Hartlepool,1,1
+11,1998-10-02 00:00:00,Peterborough,Brentford,2,4
+11,1998-10-02 00:00:00,Rotherham,Shrewsbury,0,1
+11,1998-10-02 00:00:00,Scarborough FC,Chester,2,4
+11,1998-10-02 00:00:00,Scunthorpe,Halifax,0,4
+11,1998-10-02 00:00:00,Southend,Rochdale,1,1
+11,1998-10-02 00:00:00,Torquay,Plymouth,1,1
+12,1998-10-08 00:00:00,Cambridge Utd,Brighton,2,3
+12,1998-10-08 00:00:00,Carlisle,Scarborough FC,1,0
+12,1998-10-08 00:00:00,Hull City,Cardiff,1,2
+12,1998-10-08 00:00:00,Leyton Orient,Exeter,2,0
+12,1998-10-08 00:00:00,Mansfield,Torquay,2,1
+12,1998-10-08 00:00:00,Swansea,Rotherham,1,1
+12,1998-10-09 00:00:00,Darlington,Peterborough,3,0
+12,1998-10-09 00:00:00,Hartlepool,Shrewsbury,1,1
+12,1998-10-09 00:00:00,Scunthorpe,Southend,1,1
+12,1998-10-10 00:00:00,Barnet,Chester,0,0
+12,1998-10-10 00:00:00,Rochdale,Halifax,1,0
+13,1998-10-15 00:00:00,Halifax,Barnet,1,1
+13,1998-10-16 00:00:00,Brentford,Hartlepool,3,1
+13,1998-10-16 00:00:00,Brighton,Mansfield,1,3
+13,1998-10-16 00:00:00,Cardiff,Cambridge Utd,0,1
+13,1998-10-16 00:00:00,Chester,Swansea,1,1
+13,1998-10-16 00:00:00,Exeter,Scunthorpe,2,2
+13,1998-10-16 00:00:00,Peterborough,Rochdale,2,0
+13,1998-10-16 00:00:00,Rotherham,Darlington,3,1
+13,1998-10-16 00:00:00,Scarborough FC,Hull City,1,2
+13,1998-10-16 00:00:00,Shrewsbury,Plymouth,2,1
+13,1998-10-16 00:00:00,Southend,Leyton Orient,2,2
+13,1998-10-16 00:00:00,Torquay,Carlisle,2,2
+14,1998-10-19 00:00:00,Brentford,Scunthorpe,2,1
+14,1998-10-19 00:00:00,Brighton,Plymouth,1,3
+14,1998-10-19 00:00:00,Cardiff,Leyton Orient,0,0
+14,1998-10-19 00:00:00,Chester,Hartlepool,1,1
+14,1998-10-19 00:00:00,Exeter,Hull City,3,0
+14,1998-10-19 00:00:00,Halifax,Cambridge Utd,3,3
+14,1998-10-19 00:00:00,Peterborough,Carlisle,0,1
+14,1998-10-19 00:00:00,Rotherham,Rochdale,2,2
+14,1998-10-19 00:00:00,Shrewsbury,Swansea,1,0
+14,1998-10-19 00:00:00,Southend,Mansfield,1,2
+14,1998-10-19 00:00:00,Torquay,Darlington,2,2
+14,1998-10-20 00:00:00,Scarborough FC,Barnet,0,0
+15,1998-10-23 00:00:00,Barnet,Brighton,0,1
+15,1998-10-23 00:00:00,Cambridge Utd,Shrewsbury,0,0
+15,1998-10-23 00:00:00,Hartlepool,Torquay,4,1
+15,1998-10-23 00:00:00,Hull City,Southend,1,1
+15,1998-10-23 00:00:00,Leyton Orient,Halifax,1,0
+15,1998-10-23 00:00:00,Scunthorpe,Rotherham,4,3
+16,1998-10-30 00:00:00,Barnet,Rochdale,0,1
+16,1998-10-30 00:00:00,Brighton,Hartlepool,3,2
+16,1998-10-30 00:00:00,Cardiff,Exeter,1,0
+16,1998-10-30 00:00:00,Chester,Shrewsbury,1,1
+16,1998-10-30 00:00:00,Halifax,Swansea,2,0
+16,1998-10-30 00:00:00,Leyton Orient,Scunthorpe,1,0
+16,1998-10-30 00:00:00,Mansfield,Cambridge Utd,1,3
+16,1998-10-30 00:00:00,Peterborough,Rotherham,2,4
+16,1998-10-30 00:00:00,Plymouth,Hull City,0,0
+16,1998-10-30 00:00:00,Scarborough FC,Torquay,1,1
+16,1998-10-30 00:00:00,Southend,Darlington,2,1
+17,1998-11-06 00:00:00,Cambridge Utd,Barnet,3,2
+17,1998-11-06 00:00:00,Carlisle,Halifax,0,1
+17,1998-11-06 00:00:00,Darlington,Brighton,1,2
+17,1998-11-06 00:00:00,Exeter,Southend,2,1
+17,1998-11-06 00:00:00,Hartlepool,Plymouth,2,0
+17,1998-11-06 00:00:00,Hull City,Leyton Orient,0,1
+17,1998-11-06 00:00:00,Rochdale,Mansfield,1,0
+17,1998-11-06 00:00:00,Rotherham,Scarborough FC,4,0
+17,1998-11-06 00:00:00,Scunthorpe,Chester,2,1
+17,1998-11-06 00:00:00,Shrewsbury,Brentford,2,0
+17,1998-11-06 00:00:00,Swansea,Peterborough,0,0
+17,1998-11-06 00:00:00,Torquay,Cardiff,0,0
+18,1998-11-09 00:00:00,Barnet,Scunthorpe,1,0
+18,1998-11-09 00:00:00,Brentford,Southend,4,1
+18,1998-11-09 00:00:00,Cardiff,Scarborough FC,1,0
+18,1998-11-09 00:00:00,Halifax,Chester,3,2
+18,1998-11-09 00:00:00,Hartlepool,Mansfield,1,2
+18,1998-11-09 00:00:00,Hull City,Brighton,0,2
+18,1998-11-09 00:00:00,Peterborough,Cambridge Utd,2,1
+18,1998-11-09 00:00:00,Plymouth,Swansea,1,2
+18,1998-11-09 00:00:00,Rochdale,Exeter,1,1
+18,1998-11-09 00:00:00,Rotherham,Torquay,2,2
+18,1998-11-09 00:00:00,Shrewsbury,Leyton Orient,1,1
+19,1998-11-19 00:00:00,Mansfield,Barnet,5,0
+19,1998-11-20 00:00:00,Brighton,Halifax,0,1
+19,1998-11-20 00:00:00,Cambridge Utd,Darlington,2,1
+19,1998-11-20 00:00:00,Carlisle,Rotherham,0,0
+19,1998-11-20 00:00:00,Chester,Rochdale,1,1
+19,1998-11-20 00:00:00,Exeter,Shrewsbury,0,1
+19,1998-11-20 00:00:00,Leyton Orient,Brentford,2,1
+19,1998-11-20 00:00:00,Scarborough FC,Hartlepool,1,2
+19,1998-11-20 00:00:00,Scunthorpe,Hull City,3,2
+19,1998-11-20 00:00:00,Southend,Plymouth,1,0
+19,1998-11-20 00:00:00,Torquay,Peterborough,0,1
+19,1998-11-21 00:00:00,Swansea,Cardiff,2,1
+20,1998-11-26 00:00:00,Halifax,Mansfield,2,2
+20,1998-11-27 00:00:00,Barnet,Torquay,3,1
+20,1998-11-27 00:00:00,Brentford,Chester,2,1
+20,1998-11-27 00:00:00,Cardiff,Southend,2,0
+20,1998-11-27 00:00:00,Darlington,Scarborough FC,3,0
+20,1998-11-27 00:00:00,Hartlepool,Swansea,1,2
+20,1998-11-27 00:00:00,Hull City,Carlisle,1,0
+20,1998-11-27 00:00:00,Peterborough,Scunthorpe,2,1
+20,1998-11-27 00:00:00,Plymouth,Leyton Orient,2,4
+20,1998-11-27 00:00:00,Rotherham,Exeter,0,0
+20,1998-11-27 00:00:00,Shrewsbury,Brighton,1,3
+21,1998-12-10 00:00:00,Mansfield,Shrewsbury,1,0
+21,1998-12-11 00:00:00,Brighton,Rotherham,4,1
+21,1998-12-11 00:00:00,Cambridge Utd,Plymouth,1,0
+21,1998-12-11 00:00:00,Carlisle,Hartlepool,2,1
+21,1998-12-11 00:00:00,Chester,Darlington,1,0
+21,1998-12-11 00:00:00,Exeter,Brentford,0,1
+21,1998-12-11 00:00:00,Leyton Orient,Peterborough,1,2
+21,1998-12-11 00:00:00,Scarborough FC,Halifax,1,0
+21,1998-12-11 00:00:00,Scunthorpe,Cardiff,0,2
+21,1998-12-11 00:00:00,Southend,Barnet,2,3
+21,1998-12-11 00:00:00,Swansea,Rochdale,1,1
+21,1998-12-11 00:00:00,Torquay,Hull City,2,0
+22,1998-12-17 00:00:00,Brentford,Cambridge Utd,1,0
+22,1998-12-17 00:00:00,Rotherham,Chester,2,4
+22,1998-12-17 00:00:00,Shrewsbury,Torquay,1,2
+22,1998-12-18 00:00:00,Barnet,Leyton Orient,3,2
+22,1998-12-18 00:00:00,Cardiff,Mansfield,4,2
+22,1998-12-18 00:00:00,Darlington,Scunthorpe,3,1
+22,1998-12-18 00:00:00,Halifax,Exeter,1,1
+22,1998-12-18 00:00:00,Hartlepool,Southend,2,4
+22,1998-12-18 00:00:00,Hull City,Swansea,0,2
+22,1998-12-18 00:00:00,Peterborough,Scarborough FC,3,1
+22,1998-12-18 00:00:00,Plymouth,Carlisle,2,0
+22,1998-12-18 00:00:00,Rochdale,Brighton,2,1
+23,1998-12-25 00:00:00,Barnet,Plymouth,1,1
+23,1998-12-25 00:00:00,Brighton,Brentford,3,1
+23,1998-12-25 00:00:00,Cambridge Utd,Rotherham,3,2
+23,1998-12-25 00:00:00,Cardiff,Shrewsbury,3,0
+23,1998-12-25 00:00:00,Exeter,Torquay,1,1
+23,1998-12-25 00:00:00,Halifax,Darlington,0,0
+23,1998-12-25 00:00:00,Hull City,Chester,1,2
+23,1998-12-25 00:00:00,Leyton Orient,Swansea,1,1
+23,1998-12-25 00:00:00,Mansfield,Scarborough FC,3,2
+23,1998-12-25 00:00:00,Rochdale,Carlisle,1,1
+23,1998-12-25 00:00:00,Scunthorpe,Hartlepool,1,0
+23,1998-12-25 00:00:00,Southend,Peterborough,2,0
+24,1998-12-27 00:00:00,Brentford,Cardiff,1,0
+24,1998-12-27 00:00:00,Carlisle,Cambridge Utd,1,1
+24,1998-12-27 00:00:00,Chester,Mansfield,1,1
+24,1998-12-27 00:00:00,Darlington,Leyton Orient,1,1
+24,1998-12-27 00:00:00,Hartlepool,Rochdale,0,1
+24,1998-12-27 00:00:00,Peterborough,Brighton,1,2
+24,1998-12-27 00:00:00,Plymouth,Exeter,1,0
+24,1998-12-27 00:00:00,Rotherham,Halifax,3,1
+24,1998-12-27 00:00:00,Scarborough FC,Scunthorpe,1,4
+24,1998-12-27 00:00:00,Shrewsbury,Hull City,3,2
+24,1998-12-27 00:00:00,Swansea,Barnet,2,1
+24,1998-12-27 00:00:00,Torquay,Southend,2,0
+25,1999-01-01 00:00:00,Brentford,Barnet,3,1
+25,1999-01-01 00:00:00,Carlisle,Exeter,1,3
+25,1999-01-01 00:00:00,Chester,Southend,1,1
+25,1999-01-01 00:00:00,Darlington,Rochdale,3,0
+25,1999-01-01 00:00:00,Hartlepool,Cambridge Utd,2,2
+25,1999-01-01 00:00:00,Shrewsbury,Halifax,2,2
+25,1999-01-01 00:00:00,Torquay,Brighton,1,1
+26,1999-01-08 00:00:00,Barnet,Darlington,3,0
+26,1999-01-08 00:00:00,Brighton,Carlisle,1,3
+26,1999-01-08 00:00:00,Cambridge Utd,Torquay,2,0
+26,1999-01-08 00:00:00,Cardiff,Hartlepool,4,1
+26,1999-01-08 00:00:00,Exeter,Swansea,4,0
+26,1999-01-08 00:00:00,Halifax,Peterborough,2,2
+26,1999-01-08 00:00:00,Hull City,Rotherham,1,0
+26,1999-01-08 00:00:00,Leyton Orient,Chester,2,2
+26,1999-01-08 00:00:00,Mansfield,Brentford,3,1
+26,1999-01-08 00:00:00,Rochdale,Plymouth,1,1
+26,1999-01-08 00:00:00,Scunthorpe,Shrewsbury,3,0
+26,1999-01-08 00:00:00,Southend,Scarborough FC,1,0
+27,1999-01-14 00:00:00,Chester,Brighton,1,1
+27,1999-01-15 00:00:00,Carlisle,Scunthorpe,0,1
+27,1999-01-15 00:00:00,Hartlepool,Barnet,2,2
+27,1999-01-15 00:00:00,Peterborough,Cardiff,2,1
+27,1999-01-15 00:00:00,Plymouth,Mansfield,3,0
+27,1999-01-15 00:00:00,Rotherham,Leyton Orient,3,1
+27,1999-01-15 00:00:00,Scarborough FC,Exeter,1,0
+27,1999-01-15 00:00:00,Shrewsbury,Southend,3,1
+27,1999-01-15 00:00:00,Torquay,Rochdale,2,1
+28,1999-01-21 00:00:00,Mansfield,Rotherham,0,3
+28,1999-01-22 00:00:00,Barnet,Shrewsbury,2,2
+28,1999-01-22 00:00:00,Brighton,Scarborough FC,1,0
+28,1999-01-22 00:00:00,Cambridge Utd,Chester,2,1
+28,1999-01-22 00:00:00,Cardiff,Darlington,3,2
+28,1999-01-22 00:00:00,Exeter,Peterborough,2,0
+28,1999-01-22 00:00:00,Halifax,Plymouth,2,0
+28,1999-01-22 00:00:00,Hull City,Hartlepool,4,0
+28,1999-01-22 00:00:00,Rochdale,Brentford,2,0
+28,1999-01-22 00:00:00,Southend,Carlisle,0,1
+29,1999-01-29 00:00:00,Barnet,Swansea,0,1
+29,1999-01-29 00:00:00,Brighton,Peterborough,1,0
+29,1999-01-29 00:00:00,Cambridge Utd,Carlisle,1,0
+29,1999-01-29 00:00:00,Cardiff,Brentford,4,1
+29,1999-01-29 00:00:00,Exeter,Plymouth,1,1
+29,1999-01-29 00:00:00,Halifax,Rotherham,2,4
+29,1999-01-29 00:00:00,Hull City,Shrewsbury,1,1
+29,1999-01-29 00:00:00,Leyton Orient,Darlington,3,2
+29,1999-01-29 00:00:00,Mansfield,Chester,3,0
+29,1999-01-29 00:00:00,Rochdale,Hartlepool,0,1
+29,1999-01-29 00:00:00,Scunthorpe,Scarborough FC,5,1
+29,1999-01-29 00:00:00,Southend,Torquay,0,0
+30,1999-02-04 00:00:00,Swansea,Brighton,2,2
+30,1999-02-05 00:00:00,Brentford,Hull City,0,2
+30,1999-02-05 00:00:00,Carlisle,Leyton Orient,1,1
+30,1999-02-05 00:00:00,Chester,Exeter,0,0
+30,1999-02-05 00:00:00,Darlington,Mansfield,5,1
+30,1999-02-05 00:00:00,Hartlepool,Halifax,2,0
+30,1999-02-05 00:00:00,Peterborough,Barnet,5,2
+30,1999-02-05 00:00:00,Plymouth,Cardiff,1,1
+30,1999-02-05 00:00:00,Rotherham,Southend,2,2
+30,1999-02-05 00:00:00,Scarborough FC,Cambridge Utd,1,5
+30,1999-02-05 00:00:00,Shrewsbury,Rochdale,3,2
+30,1999-02-05 00:00:00,Torquay,Scunthorpe,1,0
+31,1999-02-12 00:00:00,Barnet,Cardiff,1,0
+31,1999-02-12 00:00:00,Brentford,Torquay,3,2
+31,1999-02-12 00:00:00,Brighton,Exeter,0,1
+31,1999-02-12 00:00:00,Cambridge Utd,Scunthorpe,0,0
+31,1999-02-12 00:00:00,Chester,Peterborough,1,0
+31,1999-02-12 00:00:00,Halifax,Southend,3,1
+31,1999-02-12 00:00:00,Hartlepool,Darlington,2,3
+31,1999-02-12 00:00:00,Mansfield,Leyton Orient,1,2
+31,1999-02-12 00:00:00,Plymouth,Rotherham,1,0
+31,1999-02-12 00:00:00,Rochdale,Hull City,3,0
+31,1999-02-12 00:00:00,Shrewsbury,Scarborough FC,3,1
+31,1999-02-12 00:00:00,Swansea,Carlisle,1,1
+32,1999-02-18 00:00:00,Cardiff,Halifax,1,1
+32,1999-02-19 00:00:00,Carlisle,Mansfield,0,0
+32,1999-02-19 00:00:00,Darlington,Plymouth,1,2
+32,1999-02-19 00:00:00,Exeter,Hartlepool,2,1
+32,1999-02-19 00:00:00,Hull City,Barnet,1,1
+32,1999-02-19 00:00:00,Leyton Orient,Cambridge Utd,2,0
+32,1999-02-19 00:00:00,Peterborough,Shrewsbury,2,2
+32,1999-02-19 00:00:00,Rotherham,Brentford,2,4
+32,1999-02-19 00:00:00,Scarborough FC,Swansea,2,1
+32,1999-02-19 00:00:00,Scunthorpe,Rochdale,0,1
+32,1999-02-19 00:00:00,Southend,Brighton,3,0
+32,1999-02-19 00:00:00,Torquay,Chester,0,3
+33,1999-02-26 00:00:00,Barnet,Exeter,0,1
+33,1999-02-26 00:00:00,Brentford,Scarborough FC,1,1
+33,1999-02-26 00:00:00,Brighton,Leyton Orient,1,2
+33,1999-02-26 00:00:00,Cambridge Utd,Southend,3,0
+33,1999-02-26 00:00:00,Chester,Carlisle,2,1
+33,1999-02-26 00:00:00,Halifax,Hull City,0,1
+33,1999-02-26 00:00:00,Hartlepool,Rotherham,0,0
+33,1999-02-26 00:00:00,Mansfield,Scunthorpe,2,1
+33,1999-02-26 00:00:00,Plymouth,Peterborough,0,2
+33,1999-02-26 00:00:00,Rochdale,Cardiff,1,1
+33,1999-02-26 00:00:00,Shrewsbury,Darlington,3,0
+33,1999-02-26 00:00:00,Swansea,Torquay,0,0
+34,1999-03-04 00:00:00,Cardiff,Chester,0,0
+34,1999-03-05 00:00:00,Carlisle,Shrewsbury,2,1
+34,1999-03-05 00:00:00,Exeter,Cambridge Utd,0,3
+34,1999-03-05 00:00:00,Hull City,Mansfield,0,0
+34,1999-03-05 00:00:00,Leyton Orient,Rochdale,3,0
+34,1999-03-05 00:00:00,Peterborough,Hartlepool,1,1
+34,1999-03-05 00:00:00,Scunthorpe,Brighton,3,1
+34,1999-03-05 00:00:00,Southend,Swansea,2,0
+34,1999-03-05 00:00:00,Torquay,Halifax,4,0
+35,1999-03-08 00:00:00,Barnet,Carlisle,1,0
+35,1999-03-08 00:00:00,Brentford,Peterborough,3,0
+35,1999-03-08 00:00:00,Brighton,Cardiff,0,2
+35,1999-03-08 00:00:00,Cambridge Utd,Hull City,2,0
+35,1999-03-08 00:00:00,Chester,Scarborough FC,1,3
+35,1999-03-08 00:00:00,Plymouth,Torquay,0,0
+35,1999-03-08 00:00:00,Swansea,Darlington,2,0
+36,1999-03-12 00:00:00,Barnet,Cambridge Utd,3,0
+36,1999-03-12 00:00:00,Brentford,Shrewsbury,0,0
+36,1999-03-12 00:00:00,Brighton,Darlington,0,4
+36,1999-03-12 00:00:00,Cardiff,Torquay,2,2
+36,1999-03-12 00:00:00,Chester,Scunthorpe,0,2
+36,1999-03-12 00:00:00,Halifax,Carlisle,1,0
+36,1999-03-12 00:00:00,Leyton Orient,Hull City,1,2
+36,1999-03-12 00:00:00,Mansfield,Rochdale,3,1
+36,1999-03-12 00:00:00,Peterborough,Swansea,0,1
+36,1999-03-12 00:00:00,Plymouth,Hartlepool,0,0
+36,1999-03-12 00:00:00,Scarborough FC,Rotherham,0,4
+36,1999-03-12 00:00:00,Southend,Exeter,0,0
+37,1999-03-19 00:00:00,Cambridge Utd,Mansfield,7,2
+37,1999-03-19 00:00:00,Carlisle,Brentford,0,1
+37,1999-03-19 00:00:00,Darlington,Southend,2,1
+37,1999-03-19 00:00:00,Exeter,Cardiff,0,2
+37,1999-03-19 00:00:00,Hartlepool,Brighton,0,0
+37,1999-03-19 00:00:00,Hull City,Plymouth,1,0
+37,1999-03-19 00:00:00,Rochdale,Barnet,0,0
+37,1999-03-19 00:00:00,Rotherham,Peterborough,2,2
+37,1999-03-19 00:00:00,Scunthorpe,Leyton Orient,2,0
+37,1999-03-19 00:00:00,Shrewsbury,Chester,2,0
+37,1999-03-19 00:00:00,Swansea,Halifax,1,2
+37,1999-03-19 00:00:00,Torquay,Scarborough FC,0,1
+38,1999-03-25 00:00:00,Exeter,Darlington,0,0
+38,1999-03-25 00:00:00,Halifax,Leyton Orient,1,2
+38,1999-03-25 00:00:00,Scarborough FC,Rochdale,1,0
+38,1999-03-25 00:00:00,Shrewsbury,Cambridge Utd,1,1
+38,1999-03-25 00:00:00,Southend,Hull City,0,1
+38,1999-03-26 00:00:00,Brighton,Barnet,0,1
+38,1999-03-26 00:00:00,Cardiff,Carlisle,2,1
+38,1999-03-26 00:00:00,Chester,Plymouth,3,2
+38,1999-03-26 00:00:00,Rotherham,Scunthorpe,0,0
+38,1999-03-26 00:00:00,Torquay,Hartlepool,3,0
+38,1999-03-27 00:00:00,Peterborough,Mansfield,1,0
+39,1999-04-02 00:00:00,Barnet,Halifax,2,2
+39,1999-04-02 00:00:00,Cambridge Utd,Cardiff,0,0
+39,1999-04-02 00:00:00,Carlisle,Torquay,3,0
+39,1999-04-02 00:00:00,Darlington,Rotherham,1,2
+39,1999-04-02 00:00:00,Hartlepool,Brentford,0,1
+39,1999-04-02 00:00:00,Hull City,Scarborough FC,1,1
+39,1999-04-02 00:00:00,Leyton Orient,Southend,0,3
+39,1999-04-02 00:00:00,Mansfield,Brighton,2,0
+39,1999-04-02 00:00:00,Plymouth,Shrewsbury,2,0
+39,1999-04-02 00:00:00,Rochdale,Peterborough,0,3
+39,1999-04-02 00:00:00,Scunthorpe,Exeter,2,0
+39,1999-04-02 00:00:00,Swansea,Chester,1,1
+40,1999-04-04 00:00:00,Brentford,Plymouth,3,1
+40,1999-04-04 00:00:00,Cardiff,Hull City,1,1
+40,1999-04-04 00:00:00,Chester,Barnet,3,0
+40,1999-04-04 00:00:00,Exeter,Leyton Orient,1,1
+40,1999-04-04 00:00:00,Halifax,Rochdale,0,0
+40,1999-04-04 00:00:00,Peterborough,Darlington,0,1
+40,1999-04-04 00:00:00,Rotherham,Swansea,1,0
+40,1999-04-04 00:00:00,Scarborough FC,Carlisle,3,0
+40,1999-04-04 00:00:00,Southend,Scunthorpe,0,1
+40,1999-04-04 00:00:00,Torquay,Mansfield,0,0
+40,1999-04-05 00:00:00,Brighton,Cambridge Utd,1,3
+40,1999-04-05 00:00:00,Shrewsbury,Hartlepool,0,1
+41,1999-04-08 00:00:00,Swansea,Shrewsbury,1,1
+41,1999-04-09 00:00:00,Barnet,Scarborough FC,1,0
+41,1999-04-09 00:00:00,Cambridge Utd,Halifax,4,0
+41,1999-04-09 00:00:00,Carlisle,Peterborough,1,1
+41,1999-04-09 00:00:00,Darlington,Torquay,0,2
+41,1999-04-09 00:00:00,Hartlepool,Chester,2,0
+41,1999-04-09 00:00:00,Hull City,Exeter,2,1
+41,1999-04-09 00:00:00,Leyton Orient,Cardiff,1,1
+41,1999-04-09 00:00:00,Mansfield,Southend,0,0
+41,1999-04-09 00:00:00,Plymouth,Brighton,1,2
+41,1999-04-09 00:00:00,Rochdale,Rotherham,0,0
+41,1999-04-09 00:00:00,Scunthorpe,Brentford,0,0
+42,1999-04-12 00:00:00,Brighton,Shrewsbury,1,0
+42,1999-04-12 00:00:00,Cambridge Utd,Rochdale,1,1
+42,1999-04-12 00:00:00,Carlisle,Hull City,0,0
+42,1999-04-12 00:00:00,Chester,Brentford,1,3
+42,1999-04-12 00:00:00,Exeter,Rotherham,3,0
+42,1999-04-12 00:00:00,Leyton Orient,Plymouth,4,3
+42,1999-04-12 00:00:00,Mansfield,Halifax,0,1
+42,1999-04-12 00:00:00,Scunthorpe,Peterborough,1,1
+42,1999-04-12 00:00:00,Southend,Cardiff,0,1
+42,1999-04-12 00:00:00,Swansea,Hartlepool,1,0
+42,1999-04-12 00:00:00,Torquay,Barnet,1,1
+42,1999-04-13 00:00:00,Scarborough FC,Darlington,0,2
+43,1999-04-16 00:00:00,Barnet,Mansfield,0,0
+43,1999-04-16 00:00:00,Brentford,Leyton Orient,0,0
+43,1999-04-16 00:00:00,Darlington,Cambridge Utd,0,0
+43,1999-04-16 00:00:00,Halifax,Brighton,1,0
+43,1999-04-16 00:00:00,Hartlepool,Scarborough FC,3,0
+43,1999-04-16 00:00:00,Hull City,Scunthorpe,2,3
+43,1999-04-16 00:00:00,Peterborough,Torquay,4,0
+43,1999-04-16 00:00:00,Plymouth,Southend,0,3
+43,1999-04-16 00:00:00,Rochdale,Chester,3,1
+43,1999-04-16 00:00:00,Rotherham,Carlisle,3,1
+43,1999-04-16 00:00:00,Shrewsbury,Exeter,1,1
+43,1999-04-17 00:00:00,Cardiff,Swansea,0,0
+44,1999-04-23 00:00:00,Brighton,Hull City,0,0
+44,1999-04-23 00:00:00,Cambridge Utd,Peterborough,1,1
+44,1999-04-23 00:00:00,Carlisle,Darlington,3,3
+44,1999-04-23 00:00:00,Chester,Halifax,2,2
+44,1999-04-23 00:00:00,Exeter,Rochdale,2,1
+44,1999-04-23 00:00:00,Leyton Orient,Shrewsbury,6,1
+44,1999-04-23 00:00:00,Mansfield,Hartlepool,2,0
+44,1999-04-23 00:00:00,Scarborough FC,Cardiff,1,2
+44,1999-04-23 00:00:00,Scunthorpe,Barnet,3,1
+44,1999-04-23 00:00:00,Southend,Brentford,1,4
+44,1999-04-23 00:00:00,Swansea,Plymouth,2,3
+44,1999-04-23 00:00:00,Torquay,Rotherham,2,0
+45,1999-04-30 00:00:00,Barnet,Southend,0,2
+45,1999-04-30 00:00:00,Brentford,Exeter,3,0
+45,1999-04-30 00:00:00,Cardiff,Scunthorpe,0,0
+45,1999-04-30 00:00:00,Darlington,Chester,1,2
+45,1999-04-30 00:00:00,Halifax,Scarborough FC,1,2
+45,1999-04-30 00:00:00,Hartlepool,Carlisle,0,0
+45,1999-04-30 00:00:00,Hull City,Torquay,1,0
+45,1999-04-30 00:00:00,Peterborough,Leyton Orient,3,0
+45,1999-04-30 00:00:00,Plymouth,Cambridge Utd,2,2
+45,1999-04-30 00:00:00,Rochdale,Swansea,0,3
+45,1999-04-30 00:00:00,Rotherham,Brighton,2,1
+45,1999-04-30 00:00:00,Shrewsbury,Mansfield,1,0
+46,1999-05-07 00:00:00,Brighton,Rochdale,1,1
+46,1999-05-07 00:00:00,Cambridge Utd,Brentford,0,1
+46,1999-05-07 00:00:00,Carlisle,Plymouth,2,1
+46,1999-05-07 00:00:00,Chester,Rotherham,1,1
+46,1999-05-07 00:00:00,Exeter,Halifax,2,1
+46,1999-05-07 00:00:00,Leyton Orient,Barnet,2,2
+46,1999-05-07 00:00:00,Mansfield,Cardiff,3,0
+46,1999-05-07 00:00:00,Scarborough FC,Peterborough,1,1
+46,1999-05-07 00:00:00,Scunthorpe,Darlington,0,1
+46,1999-05-07 00:00:00,Southend,Hartlepool,1,1
+46,1999-05-07 00:00:00,Swansea,Hull City,2,0
+46,1999-05-07 00:00:00,Torquay,Shrewsbury,0,3

@@ -1,0 +1,505 @@
+English Premier League 1998/1999
+Matchday,Date,Home,Away,HomeGoals,AwayGoals
+1,1998-08-07 00:00:00,Bournemouth,Lincoln City,2,0
+1,1998-08-07 00:00:00,Burnley,Bristol Rovers,2,1
+1,1998-08-07 00:00:00,Colchester,Chesterfield,1,0
+1,1998-08-07 00:00:00,Gillingham FC,Walsall,0,1
+1,1998-08-07 00:00:00,Macclesfield,Fulham,0,1
+1,1998-08-07 00:00:00,Manchester City,Blackpool,3,0
+1,1998-08-07 00:00:00,Northampton,Stoke City,1,3
+1,1998-08-07 00:00:00,Oldham,Notts County,1,3
+1,1998-08-07 00:00:00,Preston,York,3,0
+1,1998-08-07 00:00:00,Wigan,Millwall,0,1
+1,1998-08-07 00:00:00,Wrexham,Reading,3,0
+1,1998-08-07 00:00:00,Wycombe,Luton,0,1
+2,1998-08-13 00:00:00,Fulham,Manchester City,3,0
+2,1998-08-14 00:00:00,Blackpool,Oldham,3,0
+2,1998-08-14 00:00:00,Bristol Rovers,Reading,4,1
+2,1998-08-14 00:00:00,Chesterfield,Burnley,1,0
+2,1998-08-14 00:00:00,Lincoln City,Wigan,1,0
+2,1998-08-14 00:00:00,Luton,Preston,1,1
+2,1998-08-14 00:00:00,Millwall,Wycombe,2,1
+2,1998-08-14 00:00:00,Notts County,Bournemouth,1,2
+2,1998-08-14 00:00:00,Stoke City,Macclesfield,2,0
+2,1998-08-14 00:00:00,Walsall,Northampton,0,0
+2,1998-08-14 00:00:00,Wrexham,Colchester,2,4
+2,1998-08-14 00:00:00,York,Gillingham FC,1,1
+3,1998-08-21 00:00:00,Bournemouth,Millwall,3,0
+3,1998-08-21 00:00:00,Burnley,York,0,1
+3,1998-08-21 00:00:00,Colchester,Fulham,0,1
+3,1998-08-21 00:00:00,Gillingham FC,Bristol Rovers,0,0
+3,1998-08-21 00:00:00,Macclesfield,Lincoln City,0,0
+3,1998-08-21 00:00:00,Manchester City,Wrexham,0,0
+3,1998-08-21 00:00:00,Northampton,Notts County,1,1
+3,1998-08-21 00:00:00,Oldham,Chesterfield,2,0
+3,1998-08-21 00:00:00,Preston,Stoke City,3,4
+3,1998-08-21 00:00:00,Reading,Luton,3,0
+3,1998-08-21 00:00:00,Wigan,Blackpool,3,0
+3,1998-08-21 00:00:00,Wycombe,Walsall,1,2
+4,1998-08-28 00:00:00,Blackpool,Gillingham FC,2,2
+4,1998-08-28 00:00:00,Bristol Rovers,Wigan,3,2
+4,1998-08-28 00:00:00,Chesterfield,Reading,1,0
+4,1998-08-28 00:00:00,Fulham,Bournemouth,0,0
+4,1998-08-28 00:00:00,Lincoln City,Preston,3,4
+4,1998-08-28 00:00:00,Luton,Colchester,2,0
+4,1998-08-28 00:00:00,Millwall,Macclesfield,0,0
+4,1998-08-28 00:00:00,Notts County,Manchester City,1,1
+4,1998-08-28 00:00:00,Stoke City,Oldham,2,0
+4,1998-08-28 00:00:00,Walsall,Burnley,3,1
+4,1998-08-28 00:00:00,Wrexham,Northampton,1,0
+4,1998-08-28 00:00:00,York,Wycombe,3,0
+5,1998-08-30 00:00:00,Colchester,Stoke City,0,1
+5,1998-08-30 00:00:00,Macclesfield,Notts County,0,1
+5,1998-08-30 00:00:00,Northampton,Lincoln City,0,0
+5,1998-08-30 00:00:00,Oldham,Fulham,1,1
+5,1998-08-30 00:00:00,Preston,Chesterfield,2,0
+5,1998-08-30 00:00:00,Wigan,Luton,1,3
+5,1998-08-30 00:00:00,Wycombe,Bristol Rovers,1,1
+5,1998-08-31 00:00:00,Bournemouth,Blackpool,1,1
+5,1998-08-31 00:00:00,Burnley,Millwall,2,1
+5,1998-08-31 00:00:00,Gillingham FC,Wrexham,4,0
+5,1998-09-01 00:00:00,Manchester City,Walsall,3,1
+6,1998-09-04 00:00:00,Blackpool,Northampton,2,1
+6,1998-09-04 00:00:00,Bristol Rovers,Preston,2,2
+6,1998-09-04 00:00:00,Chesterfield,Gillingham FC,1,0
+6,1998-09-04 00:00:00,Lincoln City,Oldham,1,3
+6,1998-09-04 00:00:00,Luton,Burnley,1,0
+6,1998-09-04 00:00:00,Notts County,Wigan,0,1
+6,1998-09-04 00:00:00,Stoke City,Bournemouth,2,0
+6,1998-09-04 00:00:00,Wrexham,Macclesfield,2,1
+6,1998-09-04 00:00:00,York,Colchester,1,2
+7,1998-09-07 00:00:00,Blackpool,Notts County,1,0
+7,1998-09-07 00:00:00,Bristol Rovers,Chesterfield,0,0
+7,1998-09-07 00:00:00,Fulham,Stoke City,1,0
+7,1998-09-07 00:00:00,Gillingham FC,Northampton,2,3
+7,1998-09-07 00:00:00,Manchester City,Bournemouth,2,1
+7,1998-09-07 00:00:00,Oldham,Macclesfield,1,2
+7,1998-09-07 00:00:00,Walsall,York,2,3
+7,1998-09-07 00:00:00,Wigan,Colchester,1,1
+7,1998-09-07 00:00:00,Wrexham,Luton,1,1
+7,1998-09-07 00:00:00,Wycombe,Preston,0,1
+7,1998-09-08 00:00:00,Millwall,Lincoln City,2,0
+7,1998-09-08 00:00:00,Reading,Burnley,1,1
+8,1998-09-11 00:00:00,Bournemouth,Wigan,1,0
+8,1998-09-11 00:00:00,Burnley,Wycombe,1,1
+8,1998-09-11 00:00:00,Chesterfield,Walsall,0,1
+8,1998-09-11 00:00:00,Colchester,Gillingham FC,1,1
+8,1998-09-11 00:00:00,Lincoln City,Blackpool,1,2
+8,1998-09-11 00:00:00,Luton,Bristol Rovers,2,0
+8,1998-09-11 00:00:00,Macclesfield,Manchester City,0,1
+8,1998-09-11 00:00:00,Northampton,Oldham,1,1
+8,1998-09-11 00:00:00,Notts County,Fulham,1,0
+8,1998-09-11 00:00:00,Preston,Reading,4,0
+8,1998-09-11 00:00:00,Stoke City,Millwall,1,0
+8,1998-09-11 00:00:00,York,Wrexham,1,1
+9,1998-09-17 00:00:00,Walsall,Notts County,3,2
+9,1998-09-18 00:00:00,Blackpool,Luton,1,0
+9,1998-09-18 00:00:00,Bristol Rovers,Lincoln City,3,0
+9,1998-09-18 00:00:00,Fulham,York,3,3
+9,1998-09-18 00:00:00,Gillingham FC,Burnley,2,1
+9,1998-09-18 00:00:00,Manchester City,Chesterfield,1,1
+9,1998-09-18 00:00:00,Millwall,Northampton,2,1
+9,1998-09-18 00:00:00,Oldham,Preston,0,1
+9,1998-09-18 00:00:00,Reading,Colchester,1,1
+9,1998-09-18 00:00:00,Wigan,Macclesfield,2,0
+9,1998-09-18 00:00:00,Wrexham,Stoke City,0,1
+9,1998-09-18 00:00:00,Wycombe,Bournemouth,0,2
+10,1998-09-25 00:00:00,Bournemouth,Oldham,2,0
+10,1998-09-25 00:00:00,Burnley,Wigan,1,1
+10,1998-09-25 00:00:00,Chesterfield,Wrexham,2,1
+10,1998-09-25 00:00:00,Colchester,Wycombe,2,1
+10,1998-09-25 00:00:00,Lincoln City,Fulham,1,2
+10,1998-09-25 00:00:00,Luton,Walsall,0,1
+10,1998-09-25 00:00:00,Macclesfield,Reading,2,1
+10,1998-09-25 00:00:00,Northampton,Manchester City,2,2
+10,1998-09-25 00:00:00,Notts County,Millwall,3,1
+10,1998-09-25 00:00:00,Preston,Gillingham FC,1,1
+10,1998-09-25 00:00:00,Stoke City,Blackpool,1,3
+10,1998-09-25 00:00:00,York,Bristol Rovers,1,0
+11,1998-10-02 00:00:00,Blackpool,York,1,2
+11,1998-10-02 00:00:00,Bristol Rovers,Bournemouth,1,0
+11,1998-10-02 00:00:00,Fulham,Luton,1,3
+11,1998-10-02 00:00:00,Gillingham FC,Macclesfield,2,2
+11,1998-10-02 00:00:00,Manchester City,Burnley,2,2
+11,1998-10-02 00:00:00,Millwall,Chesterfield,0,0
+11,1998-10-02 00:00:00,Oldham,Colchester,1,0
+11,1998-10-02 00:00:00,Reading,Stoke City,2,1
+11,1998-10-02 00:00:00,Walsall,Preston,1,0
+11,1998-10-02 00:00:00,Wigan,Northampton,1,0
+11,1998-10-02 00:00:00,Wrexham,Lincoln City,2,1
+11,1998-10-02 00:00:00,Wycombe,Notts County,1,1
+12,1998-10-08 00:00:00,Colchester,Burnley,0,4
+12,1998-10-08 00:00:00,Oldham,Wigan,2,3
+12,1998-10-09 00:00:00,Blackpool,Millwall,2,3
+12,1998-10-09 00:00:00,Gillingham FC,Wycombe,3,0
+12,1998-10-09 00:00:00,Macclesfield,Bournemouth,2,2
+12,1998-10-09 00:00:00,Northampton,Bristol Rovers,3,1
+12,1998-10-09 00:00:00,Notts County,Lincoln City,2,3
+12,1998-10-09 00:00:00,Wrexham,Walsall,2,1
+12,1998-10-09 00:00:00,York,Luton,3,3
+12,1998-10-11 00:00:00,Manchester City,Preston,0,1
+12,1998-10-11 00:00:00,Stoke City,Chesterfield,0,0
+13,1998-10-16 00:00:00,Bournemouth,Northampton,1,1
+13,1998-10-16 00:00:00,Bristol Rovers,Wrexham,0,0
+13,1998-10-16 00:00:00,Burnley,Notts County,1,1
+13,1998-10-16 00:00:00,Chesterfield,York,2,1
+13,1998-10-16 00:00:00,Lincoln City,Stoke City,1,2
+13,1998-10-16 00:00:00,Luton,Oldham,2,0
+13,1998-10-16 00:00:00,Millwall,Fulham,0,1
+13,1998-10-16 00:00:00,Preston,Colchester,2,0
+13,1998-10-16 00:00:00,Reading,Gillingham FC,0,0
+13,1998-10-16 00:00:00,Walsall,Blackpool,1,0
+13,1998-10-16 00:00:00,Wigan,Manchester City,0,1
+13,1998-10-16 00:00:00,Wycombe,Macclesfield,3,0
+14,1998-10-19 00:00:00,Bournemouth,Gillingham FC,3,3
+14,1998-10-19 00:00:00,Bristol Rovers,Stoke City,1,0
+14,1998-10-19 00:00:00,Burnley,Oldham,1,0
+14,1998-10-19 00:00:00,Chesterfield,Notts County,3,0
+14,1998-10-19 00:00:00,Lincoln City,Manchester City,2,1
+14,1998-10-19 00:00:00,Luton,Northampton,1,0
+14,1998-10-19 00:00:00,Preston,Macclesfield,2,2
+14,1998-10-19 00:00:00,Walsall,Colchester,1,1
+14,1998-10-19 00:00:00,Wycombe,Wrexham,3,0
+14,1998-10-20 00:00:00,Millwall,York,3,1
+14,1998-10-20 00:00:00,Reading,Blackpool,1,1
+15,1998-10-23 00:00:00,Fulham,Walsall,4,1
+15,1998-10-23 00:00:00,Gillingham FC,Luton,1,0
+15,1998-10-23 00:00:00,Macclesfield,Burnley,2,1
+15,1998-10-23 00:00:00,Manchester City,Reading,0,1
+15,1998-10-23 00:00:00,Northampton,Preston,1,1
+15,1998-10-23 00:00:00,Notts County,Bristol Rovers,1,1
+15,1998-10-23 00:00:00,Oldham,Wycombe,0,0
+15,1998-10-23 00:00:00,Stoke City,Wigan,2,1
+15,1998-10-23 00:00:00,Wrexham,Millwall,0,0
+16,1998-10-30 00:00:00,Blackpool,Fulham,2,3
+16,1998-10-30 00:00:00,Bristol Rovers,Walsall,3,4
+16,1998-10-30 00:00:00,Burnley,Wrexham,2,1
+16,1998-10-30 00:00:00,Lincoln City,Gillingham FC,1,2
+16,1998-10-30 00:00:00,Macclesfield,Northampton,0,1
+16,1998-10-30 00:00:00,Manchester City,Colchester,2,1
+16,1998-10-30 00:00:00,Millwall,Oldham,1,1
+16,1998-10-30 00:00:00,Notts County,Stoke City,1,0
+16,1998-10-30 00:00:00,Wigan,York,5,0
+16,1998-10-30 00:00:00,Wycombe,Reading,2,3
+17,1998-11-05 00:00:00,Colchester,Macclesfield,1,1
+17,1998-11-06 00:00:00,Chesterfield,Lincoln City,3,0
+17,1998-11-06 00:00:00,Fulham,Bristol Rovers,1,0
+17,1998-11-06 00:00:00,Gillingham FC,Wigan,3,0
+17,1998-11-06 00:00:00,Northampton,Wycombe,1,1
+17,1998-11-06 00:00:00,Oldham,Manchester City,0,3
+17,1998-11-06 00:00:00,Preston,Burnley,4,1
+17,1998-11-06 00:00:00,Reading,Bournemouth,3,3
+17,1998-11-06 00:00:00,Stoke City,Luton,3,1
+17,1998-11-06 00:00:00,Walsall,Millwall,3,0
+17,1998-11-06 00:00:00,Wrexham,Blackpool,1,1
+17,1998-11-06 00:00:00,York,Notts County,1,1
+18,1998-11-09 00:00:00,Bristol Rovers,Blackpool,0,2
+18,1998-11-09 00:00:00,Burnley,Stoke City,0,2
+18,1998-11-09 00:00:00,Chesterfield,Bournemouth,3,1
+18,1998-11-09 00:00:00,Colchester,Northampton,1,0
+18,1998-11-09 00:00:00,Gillingham FC,Oldham,2,1
+18,1998-11-09 00:00:00,Preston,Millwall,0,1
+18,1998-11-09 00:00:00,Walsall,Lincoln City,2,1
+18,1998-11-09 00:00:00,Wrexham,Fulham,0,2
+18,1998-11-09 00:00:00,Wycombe,Manchester City,1,0
+18,1998-11-09 00:00:00,York,Macclesfield,0,2
+18,1998-11-10 00:00:00,Reading,Wigan,0,1
+19,1998-11-20 00:00:00,Blackpool,Preston,0,0
+19,1998-11-20 00:00:00,Bournemouth,Burnley,5,0
+19,1998-11-20 00:00:00,Fulham,Chesterfield,2,1
+19,1998-11-20 00:00:00,Lincoln City,Luton,2,2
+19,1998-11-20 00:00:00,Macclesfield,Walsall,1,1
+19,1998-11-20 00:00:00,Manchester City,Gillingham FC,0,0
+19,1998-11-20 00:00:00,Millwall,Bristol Rovers,1,1
+19,1998-11-20 00:00:00,Northampton,Reading,0,1
+19,1998-11-20 00:00:00,Notts County,Colchester,1,3
+19,1998-11-20 00:00:00,Oldham,Wrexham,3,2
+19,1998-11-20 00:00:00,Stoke City,York,2,0
+19,1998-11-20 00:00:00,Wigan,Wycombe,0,0
+20,1998-11-27 00:00:00,Bristol Rovers,Oldham,2,2
+20,1998-11-27 00:00:00,Burnley,Blackpool,1,0
+20,1998-11-27 00:00:00,Chesterfield,Macclesfield,2,0
+20,1998-11-27 00:00:00,Colchester,Millwall,0,0
+20,1998-11-27 00:00:00,Gillingham FC,Fulham,1,0
+20,1998-11-27 00:00:00,Luton,Manchester City,1,1
+20,1998-11-27 00:00:00,Preston,Wigan,2,2
+20,1998-11-27 00:00:00,Reading,Lincoln City,2,1
+20,1998-11-27 00:00:00,Walsall,Bournemouth,1,0
+20,1998-11-27 00:00:00,Wrexham,Notts County,1,0
+20,1998-11-27 00:00:00,Wycombe,Stoke City,0,1
+20,1998-11-27 00:00:00,York,Northampton,1,1
+21,1998-12-11 00:00:00,Blackpool,Wycombe,0,0
+21,1998-12-11 00:00:00,Bournemouth,York,2,1
+21,1998-12-11 00:00:00,Fulham,Burnley,4,0
+21,1998-12-11 00:00:00,Lincoln City,Colchester,0,0
+21,1998-12-11 00:00:00,Macclesfield,Luton,2,2
+21,1998-12-11 00:00:00,Manchester City,Bristol Rovers,0,0
+21,1998-12-11 00:00:00,Millwall,Reading,1,1
+21,1998-12-11 00:00:00,Northampton,Chesterfield,1,0
+21,1998-12-11 00:00:00,Notts County,Preston,2,3
+21,1998-12-11 00:00:00,Oldham,Walsall,0,2
+21,1998-12-11 00:00:00,Stoke City,Gillingham FC,0,0
+21,1998-12-11 00:00:00,Wigan,Wrexham,1,1
+22,1998-12-17 00:00:00,Bristol Rovers,Macclesfield,0,0
+22,1998-12-17 00:00:00,Colchester,Blackpool,2,2
+22,1998-12-18 00:00:00,Burnley,Northampton,0,2
+22,1998-12-18 00:00:00,Chesterfield,Wigan,1,1
+22,1998-12-18 00:00:00,Gillingham FC,Notts County,4,0
+22,1998-12-18 00:00:00,Luton,Millwall,1,2
+22,1998-12-18 00:00:00,Preston,Fulham,0,1
+22,1998-12-18 00:00:00,Reading,Oldham,1,1
+22,1998-12-18 00:00:00,Walsall,Stoke City,1,0
+22,1998-12-18 00:00:00,Wrexham,Bournemouth,0,1
+22,1998-12-18 00:00:00,Wycombe,Lincoln City,4,1
+22,1998-12-18 00:00:00,York,Manchester City,2,1
+23,1998-12-25 00:00:00,Blackpool,Wigan,1,1
+23,1998-12-25 00:00:00,Chesterfield,Oldham,1,3
+23,1998-12-25 00:00:00,Fulham,Colchester,2,0
+23,1998-12-25 00:00:00,Lincoln City,Macclesfield,1,0
+23,1998-12-25 00:00:00,Millwall,Bournemouth,1,2
+23,1998-12-25 00:00:00,Notts County,Northampton,3,1
+23,1998-12-25 00:00:00,Stoke City,Preston,0,1
+23,1998-12-25 00:00:00,Walsall,Wycombe,2,2
+23,1998-12-25 00:00:00,Wrexham,Manchester City,0,1
+23,1998-12-25 00:00:00,York,Burnley,3,3
+24,1998-12-27 00:00:00,Bournemouth,Luton,1,0
+24,1998-12-27 00:00:00,Burnley,Lincoln City,1,1
+24,1998-12-27 00:00:00,Colchester,Bristol Rovers,0,3
+24,1998-12-27 00:00:00,Macclesfield,Blackpool,0,1
+24,1998-12-27 00:00:00,Manchester City,Stoke City,2,1
+24,1998-12-27 00:00:00,Northampton,Fulham,1,1
+24,1998-12-27 00:00:00,Oldham,York,0,2
+24,1998-12-27 00:00:00,Preston,Wrexham,3,1
+24,1998-12-27 00:00:00,Reading,Notts County,1,0
+24,1998-12-27 00:00:00,Wigan,Walsall,2,0
+24,1998-12-27 00:00:00,Wycombe,Chesterfield,1,0
+24,1998-12-28 00:00:00,Gillingham FC,Millwall,1,1
+25,1999-01-01 00:00:00,Burnley,Walsall,0,0
+25,1999-01-01 00:00:00,Colchester,Luton,2,2
+25,1999-01-01 00:00:00,Gillingham FC,Blackpool,1,0
+25,1999-01-01 00:00:00,Reading,Chesterfield,1,2
+25,1999-01-01 00:00:00,Wycombe,York,1,2
+26,1999-01-08 00:00:00,Blackpool,Manchester City,0,0
+26,1999-01-08 00:00:00,Bristol Rovers,Burnley,3,4
+26,1999-01-08 00:00:00,Chesterfield,Colchester,3,1
+26,1999-01-08 00:00:00,Fulham,Macclesfield,1,0
+26,1999-01-08 00:00:00,Lincoln City,Bournemouth,2,1
+26,1999-01-08 00:00:00,Luton,Wycombe,3,1
+26,1999-01-08 00:00:00,Millwall,Wigan,3,1
+26,1999-01-08 00:00:00,Notts County,Oldham,0,1
+26,1999-01-08 00:00:00,Reading,Wrexham,4,0
+26,1999-01-08 00:00:00,Stoke City,Northampton,3,1
+26,1999-01-08 00:00:00,Walsall,Gillingham FC,2,1
+26,1999-01-08 00:00:00,York,Preston,0,1
+27,1999-01-14 00:00:00,Colchester,Wrexham,1,3
+27,1999-01-15 00:00:00,Bournemouth,Notts County,2,0
+27,1999-01-15 00:00:00,Burnley,Chesterfield,1,2
+27,1999-01-15 00:00:00,Gillingham FC,York,3,1
+27,1999-01-15 00:00:00,Manchester City,Fulham,3,0
+27,1999-01-15 00:00:00,Oldham,Blackpool,3,0
+27,1999-01-15 00:00:00,Preston,Luton,2,1
+27,1999-01-15 00:00:00,Reading,Bristol Rovers,0,6
+27,1999-01-15 00:00:00,Wycombe,Millwall,0,1
+28,1999-01-22 00:00:00,Chesterfield,Preston,0,1
+28,1999-01-22 00:00:00,Lincoln City,Northampton,1,0
+28,1999-01-22 00:00:00,Luton,Wigan,0,4
+28,1999-01-22 00:00:00,Millwall,Burnley,1,2
+28,1999-01-22 00:00:00,Stoke City,Colchester,3,3
+28,1999-01-22 00:00:00,Walsall,Manchester City,1,1
+28,1999-01-22 00:00:00,York,Reading,1,1
+29,1999-01-28 00:00:00,Stoke City,Manchester City,0,1
+29,1999-01-29 00:00:00,Blackpool,Macclesfield,2,1
+29,1999-01-29 00:00:00,Bristol Rovers,Colchester,1,1
+29,1999-01-29 00:00:00,Chesterfield,Wycombe,2,0
+29,1999-01-29 00:00:00,Fulham,Northampton,2,0
+29,1999-01-29 00:00:00,Lincoln City,Burnley,1,1
+29,1999-01-29 00:00:00,Luton,Bournemouth,2,2
+29,1999-01-29 00:00:00,Millwall,Gillingham FC,3,3
+29,1999-01-29 00:00:00,Notts County,Reading,1,1
+29,1999-01-29 00:00:00,Walsall,Wigan,1,2
+29,1999-01-29 00:00:00,Wrexham,Preston,0,5
+29,1999-01-29 00:00:00,York,Oldham,0,1
+30,1999-02-04 00:00:00,Colchester,York,2,1
+30,1999-02-05 00:00:00,Bournemouth,Stoke City,4,0
+30,1999-02-05 00:00:00,Burnley,Luton,1,2
+30,1999-02-05 00:00:00,Gillingham FC,Chesterfield,3,1
+30,1999-02-05 00:00:00,Macclesfield,Wrexham,0,2
+30,1999-02-05 00:00:00,Manchester City,Millwall,3,0
+30,1999-02-05 00:00:00,Northampton,Blackpool,0,0
+30,1999-02-05 00:00:00,Oldham,Lincoln City,2,0
+30,1999-02-05 00:00:00,Preston,Bristol Rovers,2,2
+30,1999-02-05 00:00:00,Reading,Walsall,0,1
+30,1999-02-05 00:00:00,Wycombe,Fulham,1,1
+31,1999-02-12 00:00:00,Bournemouth,Manchester City,0,0
+31,1999-02-12 00:00:00,Burnley,Reading,1,1
+31,1999-02-12 00:00:00,Colchester,Wigan,2,1
+31,1999-02-12 00:00:00,Lincoln City,Millwall,2,0
+31,1999-02-12 00:00:00,Luton,Wrexham,1,2
+31,1999-02-12 00:00:00,Macclesfield,Oldham,1,0
+31,1999-02-12 00:00:00,Northampton,Gillingham FC,0,1
+31,1999-02-12 00:00:00,Notts County,Blackpool,0,1
+31,1999-02-12 00:00:00,Preston,Wycombe,2,1
+31,1999-02-12 00:00:00,York,Walsall,1,2
+32,1999-02-19 00:00:00,Blackpool,Lincoln City,0,1
+32,1999-02-19 00:00:00,Bristol Rovers,Luton,1,0
+32,1999-02-19 00:00:00,Fulham,Notts County,2,1
+32,1999-02-19 00:00:00,Gillingham FC,Colchester,1,1
+32,1999-02-19 00:00:00,Manchester City,Macclesfield,2,0
+32,1999-02-19 00:00:00,Millwall,Stoke City,2,0
+32,1999-02-19 00:00:00,Oldham,Northampton,0,1
+32,1999-02-19 00:00:00,Reading,Preston,2,1
+32,1999-02-19 00:00:00,Walsall,Chesterfield,1,1
+32,1999-02-19 00:00:00,Wigan,Bournemouth,2,1
+32,1999-02-19 00:00:00,Wrexham,York,1,1
+32,1999-02-19 00:00:00,Wycombe,Burnley,2,0
+33,1999-02-26 00:00:00,Bournemouth,Wycombe,2,0
+33,1999-02-26 00:00:00,Burnley,Gillingham FC,0,5
+33,1999-02-26 00:00:00,Chesterfield,Manchester City,1,1
+33,1999-02-26 00:00:00,Colchester,Reading,1,1
+33,1999-02-26 00:00:00,Lincoln City,Bristol Rovers,1,0
+33,1999-02-26 00:00:00,Luton,Blackpool,1,0
+33,1999-02-26 00:00:00,Macclesfield,Wigan,0,1
+33,1999-02-26 00:00:00,Northampton,Millwall,1,2
+33,1999-02-26 00:00:00,Notts County,Walsall,2,1
+33,1999-02-26 00:00:00,Preston,Oldham,2,1
+33,1999-02-26 00:00:00,Stoke City,Wrexham,1,3
+33,1999-02-26 00:00:00,York,Fulham,0,3
+34,1999-03-05 00:00:00,Blackpool,Stoke City,0,1
+34,1999-03-05 00:00:00,Bristol Rovers,York,2,0
+34,1999-03-05 00:00:00,Fulham,Lincoln City,1,0
+34,1999-03-05 00:00:00,Gillingham FC,Preston,1,1
+34,1999-03-05 00:00:00,Manchester City,Northampton,0,0
+34,1999-03-05 00:00:00,Millwall,Notts County,1,3
+34,1999-03-05 00:00:00,Oldham,Bournemouth,2,3
+34,1999-03-05 00:00:00,Reading,Macclesfield,1,0
+34,1999-03-05 00:00:00,Walsall,Luton,1,0
+34,1999-03-05 00:00:00,Wrexham,Chesterfield,0,0
+34,1999-03-05 00:00:00,Wycombe,Colchester,2,2
+35,1999-03-01 00:00:00,Chesterfield,Millwall,2,1
+36,1999-03-11 00:00:00,Bristol Rovers,Fulham,2,3
+36,1999-03-12 00:00:00,Blackpool,Wrexham,1,1
+36,1999-03-12 00:00:00,Bournemouth,Reading,0,1
+36,1999-03-12 00:00:00,Lincoln City,Chesterfield,2,0
+36,1999-03-12 00:00:00,Luton,Stoke City,1,2
+36,1999-03-12 00:00:00,Macclesfield,Colchester,2,0
+36,1999-03-12 00:00:00,Manchester City,Oldham,1,2
+36,1999-03-12 00:00:00,Millwall,Walsall,1,2
+36,1999-03-12 00:00:00,Notts County,York,4,2
+36,1999-03-12 00:00:00,Wigan,Gillingham FC,4,1
+36,1999-03-12 00:00:00,Wycombe,Northampton,1,2
+36,1999-03-13 00:00:00,Burnley,Preston,0,1
+37,1999-03-19 00:00:00,Chesterfield,Luton,3,1
+37,1999-03-19 00:00:00,Colchester,Manchester City,0,1
+37,1999-03-19 00:00:00,Fulham,Blackpool,4,0
+37,1999-03-19 00:00:00,Gillingham FC,Lincoln City,4,0
+37,1999-03-19 00:00:00,Northampton,Macclesfield,0,2
+37,1999-03-19 00:00:00,Oldham,Millwall,0,1
+37,1999-03-19 00:00:00,Preston,Bournemouth,0,1
+37,1999-03-19 00:00:00,Reading,Wycombe,2,1
+37,1999-03-19 00:00:00,Stoke City,Notts County,2,3
+37,1999-03-19 00:00:00,Walsall,Bristol Rovers,3,3
+37,1999-03-19 00:00:00,Wrexham,Burnley,1,1
+37,1999-03-19 00:00:00,York,Wigan,1,3
+38,1999-03-26 00:00:00,Bournemouth,Colchester,2,1
+38,1999-03-26 00:00:00,Bristol Rovers,Notts County,1,1
+38,1999-03-26 00:00:00,Chesterfield,Blackpool,1,2
+38,1999-03-26 00:00:00,Luton,Gillingham FC,1,0
+38,1999-03-26 00:00:00,Millwall,Wrexham,3,0
+38,1999-03-26 00:00:00,Preston,Northampton,3,0
+38,1999-03-26 00:00:00,Reading,Manchester City,1,3
+38,1999-03-26 00:00:00,Wigan,Stoke City,2,3
+38,1999-03-26 00:00:00,Wycombe,Oldham,3,0
+38,1999-03-27 00:00:00,Burnley,Macclesfield,4,3
+38,1999-03-27 00:00:00,Lincoln City,York,1,2
+39,1999-03-31 00:00:00,Gillingham FC,Reading,2,1
+39,1999-04-01 00:00:00,Colchester,Preston,1,0
+39,1999-04-01 00:00:00,Northampton,Bournemouth,2,1
+39,1999-04-01 00:00:00,Oldham,Luton,1,1
+39,1999-04-02 00:00:00,Blackpool,Walsall,0,2
+39,1999-04-02 00:00:00,Macclesfield,Wycombe,1,3
+39,1999-04-02 00:00:00,Manchester City,Wigan,1,0
+39,1999-04-02 00:00:00,Notts County,Burnley,0,0
+39,1999-04-02 00:00:00,Stoke City,Lincoln City,2,0
+39,1999-04-02 00:00:00,Wrexham,Bristol Rovers,1,0
+39,1999-04-02 00:00:00,York,Chesterfield,1,2
+40,1999-04-04 00:00:00,Bristol Rovers,Northampton,1,1
+40,1999-04-04 00:00:00,Burnley,Colchester,3,1
+40,1999-04-04 00:00:00,Chesterfield,Stoke City,1,1
+40,1999-04-04 00:00:00,Lincoln City,Notts County,0,1
+40,1999-04-04 00:00:00,Millwall,Blackpool,1,0
+40,1999-04-04 00:00:00,Preston,Manchester City,1,1
+40,1999-04-04 00:00:00,Reading,Fulham,0,1
+40,1999-04-04 00:00:00,Wigan,Oldham,2,0
+40,1999-04-04 00:00:00,Wycombe,Gillingham FC,0,2
+40,1999-04-05 00:00:00,Bournemouth,Macclesfield,1,0
+40,1999-04-05 00:00:00,Luton,York,2,1
+40,1999-04-05 00:00:00,Walsall,Wrexham,1,0
+41,1999-04-08 00:00:00,Gillingham FC,Bournemouth,2,1
+41,1999-04-09 00:00:00,Blackpool,Reading,2,0
+41,1999-04-09 00:00:00,Colchester,Walsall,1,0
+41,1999-04-09 00:00:00,Fulham,Wigan,2,0
+41,1999-04-09 00:00:00,Macclesfield,Preston,3,2
+41,1999-04-09 00:00:00,Manchester City,Lincoln City,4,0
+41,1999-04-09 00:00:00,Northampton,Luton,1,0
+41,1999-04-09 00:00:00,Notts County,Chesterfield,3,0
+41,1999-04-09 00:00:00,Oldham,Burnley,1,1
+41,1999-04-09 00:00:00,Stoke City,Bristol Rovers,1,4
+41,1999-04-09 00:00:00,Wrexham,Wycombe,0,2
+41,1999-04-09 00:00:00,York,Millwall,2,1
+42,1999-04-12 00:00:00,Blackpool,Burnley,0,2
+42,1999-04-12 00:00:00,Bournemouth,Walsall,0,1
+42,1999-04-12 00:00:00,Fulham,Gillingham FC,3,0
+42,1999-04-12 00:00:00,Lincoln City,Reading,2,2
+42,1999-04-12 00:00:00,Macclesfield,Chesterfield,2,0
+42,1999-04-12 00:00:00,Northampton,York,2,2
+42,1999-04-12 00:00:00,Notts County,Wrexham,1,1
+42,1999-04-12 00:00:00,Oldham,Bristol Rovers,2,1
+42,1999-04-12 00:00:00,Wigan,Preston,2,2
+42,1999-04-13 00:00:00,Manchester City,Luton,2,0
+42,1999-04-13 00:00:00,Millwall,Colchester,2,0
+42,1999-04-13 00:00:00,Stoke City,Wycombe,2,2
+43,1999-04-15 00:00:00,Colchester,Notts County,2,1
+43,1999-04-16 00:00:00,Burnley,Bournemouth,0,0
+43,1999-04-16 00:00:00,Chesterfield,Fulham,1,0
+43,1999-04-16 00:00:00,Gillingham FC,Manchester City,0,2
+43,1999-04-16 00:00:00,Luton,Lincoln City,0,1
+43,1999-04-16 00:00:00,Preston,Blackpool,1,2
+43,1999-04-16 00:00:00,Reading,Northampton,0,1
+43,1999-04-16 00:00:00,Walsall,Macclesfield,2,0
+43,1999-04-16 00:00:00,Wrexham,Oldham,1,2
+43,1999-04-16 00:00:00,York,Stoke City,2,2
+44,1999-04-23 00:00:00,Blackpool,Bristol Rovers,1,2
+44,1999-04-23 00:00:00,Bournemouth,Chesterfield,0,0
+44,1999-04-23 00:00:00,Fulham,Wrexham,1,1
+44,1999-04-23 00:00:00,Lincoln City,Walsall,0,1
+44,1999-04-23 00:00:00,Macclesfield,York,1,2
+44,1999-04-23 00:00:00,Manchester City,Wycombe,1,2
+44,1999-04-23 00:00:00,Millwall,Preston,2,2
+44,1999-04-23 00:00:00,Northampton,Colchester,3,3
+44,1999-04-23 00:00:00,Notts County,Luton,1,2
+44,1999-04-23 00:00:00,Oldham,Gillingham FC,1,4
+44,1999-04-23 00:00:00,Stoke City,Burnley,1,4
+44,1999-04-23 00:00:00,Wigan,Reading,4,1
+45,1999-04-30 00:00:00,Bristol Rovers,Manchester City,2,2
+45,1999-04-30 00:00:00,Burnley,Fulham,1,0
+45,1999-04-30 00:00:00,Colchester,Lincoln City,1,3
+45,1999-04-30 00:00:00,Gillingham FC,Stoke City,4,0
+45,1999-04-30 00:00:00,Luton,Macclesfield,1,2
+45,1999-04-30 00:00:00,Preston,Notts County,1,1
+45,1999-04-30 00:00:00,Reading,Millwall,2,0
+45,1999-04-30 00:00:00,Walsall,Oldham,3,1
+45,1999-04-30 00:00:00,Wrexham,Wigan,0,2
+45,1999-04-30 00:00:00,Wycombe,Blackpool,2,2
+45,1999-04-30 00:00:00,York,Bournemouth,0,1
+46,1999-05-07 00:00:00,Blackpool,Colchester,2,1
+46,1999-05-07 00:00:00,Bournemouth,Wrexham,0,0
+46,1999-05-07 00:00:00,Fulham,Preston,3,0
+46,1999-05-07 00:00:00,Lincoln City,Wycombe,0,1
+46,1999-05-07 00:00:00,Macclesfield,Bristol Rovers,3,4
+46,1999-05-07 00:00:00,Manchester City,York,4,0
+46,1999-05-07 00:00:00,Millwall,Luton,0,1
+46,1999-05-07 00:00:00,Northampton,Burnley,2,2
+46,1999-05-07 00:00:00,Notts County,Gillingham FC,0,1
+46,1999-05-07 00:00:00,Oldham,Reading,2,0
+46,1999-05-07 00:00:00,Stoke City,Walsall,2,0
+46,1999-05-07 00:00:00,Wigan,Chesterfield,3,1

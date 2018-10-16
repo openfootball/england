@@ -1,0 +1,361 @@
+English Premier League 1998/1999
+Matchday,Date,Home,Away,HomeGoals,AwayGoals
+1,1998-08-14 00:00:00,Blackburn,Derby,0,0
+1,1998-08-14 00:00:00,Coventry,Chelsea,2,1
+1,1998-08-14 00:00:00,Everton,Aston Villa,0,0
+1,1998-08-14 00:00:00,Manchester United,Leicester,2,2
+1,1998-08-14 00:00:00,Middlesbrough,Leeds,0,0
+1,1998-08-14 00:00:00,Newcastle Utd,Charlton,0,0
+1,1998-08-14 00:00:00,Sheffield Wed,West Ham,0,1
+1,1998-08-14 00:00:00,Wimbledon FC,Tottenham,3,1
+1,1998-08-15 00:00:00,Southampton,Liverpool,1,2
+1,1998-08-16 00:00:00,Arsenal,Nottingham,2,1
+2,1998-08-21 00:00:00,Aston Villa,Middlesbrough,3,1
+2,1998-08-21 00:00:00,Charlton,Southampton,5,0
+2,1998-08-21 00:00:00,Chelsea,Newcastle Utd,1,1
+2,1998-08-21 00:00:00,Derby,Wimbledon FC,0,0
+2,1998-08-21 00:00:00,Leicester,Everton,2,0
+2,1998-08-21 00:00:00,Liverpool,Arsenal,0,0
+2,1998-08-21 00:00:00,Nottingham,Coventry,1,0
+2,1998-08-21 00:00:00,Tottenham,Sheffield Wed,0,3
+2,1998-08-21 00:00:00,West Ham,Manchester United,0,0
+2,1998-08-23 00:00:00,Leeds,Blackburn,1,0
+3,1998-08-28 00:00:00,Arsenal,Charlton,0,0
+3,1998-08-28 00:00:00,Blackburn,Leicester,1,0
+3,1998-08-28 00:00:00,Coventry,West Ham,0,0
+3,1998-08-28 00:00:00,Everton,Tottenham,0,1
+3,1998-08-28 00:00:00,Middlesbrough,Derby,1,1
+3,1998-08-28 00:00:00,Sheffield Wed,Aston Villa,0,1
+3,1998-08-28 00:00:00,Southampton,Nottingham,1,2
+3,1998-08-28 00:00:00,Wimbledon FC,Leeds,1,1
+3,1998-08-29 00:00:00,Newcastle Utd,Liverpool,1,4
+4,1998-09-07 00:00:00,Leeds,Southampton,3,0
+4,1998-09-07 00:00:00,Manchester United,Charlton,4,1
+4,1998-09-07 00:00:00,Nottingham,Everton,0,2
+4,1998-09-08 00:00:00,Aston Villa,Newcastle Utd,1,0
+4,1998-09-08 00:00:00,Chelsea,Arsenal,0,0
+4,1998-09-08 00:00:00,Derby,Sheffield Wed,1,0
+4,1998-09-08 00:00:00,Leicester,Middlesbrough,0,1
+4,1998-09-08 00:00:00,Liverpool,Coventry,2,0
+4,1998-09-08 00:00:00,Tottenham,Blackburn,2,1
+4,1998-09-08 00:00:00,West Ham,Wimbledon FC,3,4
+5,1998-09-11 00:00:00,Aston Villa,Wimbledon FC,2,0
+5,1998-09-11 00:00:00,Charlton,Derby,1,2
+5,1998-09-11 00:00:00,Chelsea,Nottingham,2,1
+5,1998-09-11 00:00:00,Everton,Leeds,0,0
+5,1998-09-11 00:00:00,Leicester,Arsenal,1,1
+5,1998-09-11 00:00:00,Manchester United,Coventry,2,0
+5,1998-09-11 00:00:00,Newcastle Utd,Southampton,4,0
+5,1998-09-11 00:00:00,Sheffield Wed,Blackburn,3,0
+5,1998-09-11 00:00:00,West Ham,Liverpool,2,1
+5,1998-09-12 00:00:00,Tottenham,Middlesbrough,0,3
+6,1998-09-18 00:00:00,Coventry,Newcastle Utd,1,5
+6,1998-09-18 00:00:00,Derby,Leicester,2,0
+6,1998-09-18 00:00:00,Leeds,Aston Villa,0,0
+6,1998-09-18 00:00:00,Liverpool,Charlton,3,3
+6,1998-09-18 00:00:00,Middlesbrough,Everton,2,2
+6,1998-09-18 00:00:00,Nottingham,West Ham,0,0
+6,1998-09-18 00:00:00,Southampton,Tottenham,1,1
+6,1998-09-18 00:00:00,Wimbledon FC,Sheffield Wed,2,1
+6,1998-09-19 00:00:00,Arsenal,Manchester United,3,0
+6,1998-09-20 00:00:00,Blackburn,Chelsea,3,4
+7,1998-09-23 00:00:00,Manchester United,Liverpool,2,0
+7,1998-09-25 00:00:00,Aston Villa,Derby,1,0
+7,1998-09-25 00:00:00,Charlton,Coventry,1,1
+7,1998-09-25 00:00:00,Chelsea,Middlesbrough,2,0
+7,1998-09-25 00:00:00,Everton,Blackburn,0,0
+7,1998-09-25 00:00:00,Newcastle Utd,Nottingham,2,0
+7,1998-09-25 00:00:00,Sheffield Wed,Arsenal,1,0
+7,1998-09-25 00:00:00,Tottenham,Leeds,3,3
+7,1998-09-26 00:00:00,Leicester,Wimbledon FC,1,1
+7,1998-09-27 00:00:00,West Ham,Southampton,1,0
+8,1998-10-02 00:00:00,Blackburn,West Ham,3,0
+8,1998-10-02 00:00:00,Coventry,Aston Villa,1,2
+8,1998-10-02 00:00:00,Derby,Tottenham,0,1
+8,1998-10-02 00:00:00,Leeds,Leicester,0,1
+8,1998-10-02 00:00:00,Middlesbrough,Sheffield Wed,4,0
+8,1998-10-02 00:00:00,Nottingham,Charlton,0,1
+8,1998-10-02 00:00:00,Southampton,Manchester United,0,3
+8,1998-10-02 00:00:00,Wimbledon FC,Everton,1,2
+8,1998-10-03 00:00:00,Arsenal,Newcastle Utd,3,0
+8,1998-10-03 00:00:00,Liverpool,Chelsea,1,1
+9,1998-10-16 00:00:00,Arsenal,Southampton,1,1
+9,1998-10-16 00:00:00,Chelsea,Charlton,2,1
+9,1998-10-16 00:00:00,Everton,Liverpool,0,0
+9,1998-10-16 00:00:00,Manchester United,Wimbledon FC,5,1
+9,1998-10-16 00:00:00,Middlesbrough,Blackburn,2,1
+9,1998-10-16 00:00:00,Newcastle Utd,Derby,2,1
+9,1998-10-16 00:00:00,Nottingham,Leeds,1,1
+9,1998-10-16 00:00:00,West Ham,Aston Villa,0,0
+9,1998-10-17 00:00:00,Coventry,Sheffield Wed,1,0
+9,1998-10-18 00:00:00,Leicester,Tottenham,2,1
+10,1998-10-23 00:00:00,Aston Villa,Leicester,1,1
+10,1998-10-23 00:00:00,Charlton,West Ham,4,2
+10,1998-10-23 00:00:00,Derby,Manchester United,1,1
+10,1998-10-23 00:00:00,Liverpool,Nottingham,5,1
+10,1998-10-23 00:00:00,Sheffield Wed,Everton,0,0
+10,1998-10-23 00:00:00,Southampton,Coventry,2,1
+10,1998-10-23 00:00:00,Tottenham,Newcastle Utd,2,0
+10,1998-10-23 00:00:00,Wimbledon FC,Middlesbrough,2,2
+10,1998-10-24 00:00:00,Blackburn,Arsenal,1,2
+10,1998-10-24 00:00:00,Leeds,Chelsea,0,0
+11,1998-10-30 00:00:00,Coventry,Arsenal,0,1
+11,1998-10-30 00:00:00,Derby,Leeds,2,2
+11,1998-10-30 00:00:00,Everton,Manchester United,1,4
+11,1998-10-30 00:00:00,Leicester,Liverpool,1,0
+11,1998-10-30 00:00:00,Newcastle Utd,West Ham,0,3
+11,1998-10-30 00:00:00,Sheffield Wed,Southampton,0,0
+11,1998-10-30 00:00:00,Wimbledon FC,Blackburn,1,1
+11,1998-10-31 00:00:00,Middlesbrough,Nottingham,1,1
+11,1998-11-01 00:00:00,Tottenham,Charlton,2,2
+12,1998-11-06 00:00:00,Aston Villa,Tottenham,3,2
+12,1998-11-06 00:00:00,Blackburn,Coventry,1,2
+12,1998-11-06 00:00:00,Charlton,Leicester,0,0
+12,1998-11-06 00:00:00,Liverpool,Derby,1,2
+12,1998-11-06 00:00:00,Nottingham,Wimbledon FC,0,1
+12,1998-11-06 00:00:00,Southampton,Middlesbrough,3,3
+12,1998-11-07 00:00:00,Arsenal,Everton,1,0
+12,1998-11-07 00:00:00,Leeds,Sheffield Wed,2,1
+12,1998-11-07 00:00:00,Manchester United,Newcastle Utd,0,0
+12,1998-11-07 00:00:00,West Ham,Chelsea,1,1
+13,1998-11-13 00:00:00,Arsenal,Tottenham,0,0
+13,1998-11-13 00:00:00,Charlton,Middlesbrough,1,1
+13,1998-11-13 00:00:00,Chelsea,Wimbledon FC,3,0
+13,1998-11-13 00:00:00,Liverpool,Leeds,1,3
+13,1998-11-13 00:00:00,Manchester United,Blackburn,3,2
+13,1998-11-13 00:00:00,Newcastle Utd,Sheffield Wed,1,1
+13,1998-11-13 00:00:00,Southampton,Aston Villa,1,4
+13,1998-11-13 00:00:00,West Ham,Leicester,3,2
+13,1998-11-14 00:00:00,Coventry,Everton,3,0
+13,1998-11-15 00:00:00,Nottingham,Derby,2,2
+14,1998-11-20 00:00:00,Aston Villa,Liverpool,2,4
+14,1998-11-20 00:00:00,Blackburn,Southampton,0,2
+14,1998-11-20 00:00:00,Leeds,Charlton,4,1
+14,1998-11-20 00:00:00,Leicester,Chelsea,2,4
+14,1998-11-20 00:00:00,Middlesbrough,Coventry,2,0
+14,1998-11-20 00:00:00,Sheffield Wed,Manchester United,3,1
+14,1998-11-20 00:00:00,Tottenham,Nottingham,2,0
+14,1998-11-20 00:00:00,Wimbledon FC,Arsenal,1,0
+14,1998-11-21 00:00:00,Derby,West Ham,0,2
+14,1998-11-22 00:00:00,Everton,Newcastle Utd,1,0
+15,1998-11-27 00:00:00,Charlton,Everton,1,2
+15,1998-11-27 00:00:00,Chelsea,Sheffield Wed,1,1
+15,1998-11-27 00:00:00,Coventry,Leicester,1,1
+15,1998-11-27 00:00:00,Newcastle Utd,Wimbledon FC,3,1
+15,1998-11-27 00:00:00,Nottingham,Aston Villa,2,2
+15,1998-11-27 00:00:00,Southampton,Derby,0,1
+15,1998-11-27 00:00:00,West Ham,Tottenham,2,1
+15,1998-11-28 00:00:00,Arsenal,Middlesbrough,1,1
+15,1998-11-28 00:00:00,Liverpool,Blackburn,2,0
+15,1998-11-28 00:00:00,Manchester United,Leeds,3,2
+16,1998-12-04 00:00:00,Aston Villa,Manchester United,1,1
+16,1998-12-04 00:00:00,Blackburn,Charlton,1,0
+16,1998-12-04 00:00:00,Derby,Arsenal,0,0
+16,1998-12-04 00:00:00,Everton,Chelsea,0,0
+16,1998-12-04 00:00:00,Leeds,West Ham,4,0
+16,1998-12-04 00:00:00,Leicester,Southampton,2,0
+16,1998-12-04 00:00:00,Tottenham,Liverpool,2,1
+16,1998-12-04 00:00:00,Wimbledon FC,Coventry,2,1
+16,1998-12-05 00:00:00,Middlesbrough,Newcastle Utd,2,2
+16,1998-12-06 00:00:00,Sheffield Wed,Nottingham,3,2
+17,1998-12-11 00:00:00,Blackburn,Newcastle Utd,0,0
+17,1998-12-11 00:00:00,Derby,Chelsea,2,2
+17,1998-12-11 00:00:00,Everton,Southampton,1,0
+17,1998-12-11 00:00:00,Leicester,Nottingham,3,1
+17,1998-12-11 00:00:00,Middlesbrough,West Ham,1,0
+17,1998-12-11 00:00:00,Sheffield Wed,Charlton,3,0
+17,1998-12-11 00:00:00,Tottenham,Manchester United,2,2
+17,1998-12-12 00:00:00,Aston Villa,Arsenal,3,2
+17,1998-12-12 00:00:00,Wimbledon FC,Liverpool,1,0
+17,1998-12-13 00:00:00,Leeds,Coventry,2,0
+18,1998-12-18 00:00:00,Chelsea,Tottenham,2,0
+18,1998-12-18 00:00:00,Coventry,Derby,1,1
+18,1998-12-18 00:00:00,Liverpool,Sheffield Wed,2,0
+18,1998-12-18 00:00:00,Manchester United,Middlesbrough,2,3
+18,1998-12-18 00:00:00,Newcastle Utd,Leicester,1,0
+18,1998-12-18 00:00:00,Nottingham,Blackburn,2,2
+18,1998-12-18 00:00:00,Southampton,Wimbledon FC,3,1
+18,1998-12-18 00:00:00,West Ham,Everton,2,1
+18,1998-12-19 00:00:00,Arsenal,Leeds,3,1
+18,1998-12-20 00:00:00,Charlton,Aston Villa,0,1
+19,1998-12-25 00:00:00,Arsenal,West Ham,1,0
+19,1998-12-25 00:00:00,Blackburn,Aston Villa,2,1
+19,1998-12-25 00:00:00,Coventry,Tottenham,1,1
+19,1998-12-25 00:00:00,Everton,Derby,0,0
+19,1998-12-25 00:00:00,Manchester United,Nottingham,3,0
+19,1998-12-25 00:00:00,Middlesbrough,Liverpool,1,3
+19,1998-12-25 00:00:00,Newcastle Utd,Leeds,0,3
+19,1998-12-25 00:00:00,Sheffield Wed,Leicester,0,1
+19,1998-12-25 00:00:00,Southampton,Chelsea,0,2
+19,1998-12-25 00:00:00,Wimbledon FC,Charlton,2,1
+20,1998-12-27 00:00:00,Aston Villa,Sheffield Wed,2,1
+20,1998-12-27 00:00:00,Charlton,Arsenal,0,1
+20,1998-12-27 00:00:00,Derby,Middlesbrough,2,1
+20,1998-12-27 00:00:00,Leicester,Blackburn,1,1
+20,1998-12-27 00:00:00,Liverpool,Newcastle Utd,4,2
+20,1998-12-27 00:00:00,Nottingham,Southampton,1,1
+20,1998-12-27 00:00:00,Tottenham,Everton,4,1
+20,1998-12-27 00:00:00,West Ham,Coventry,2,0
+20,1998-12-28 00:00:00,Chelsea,Manchester United,0,0
+20,1998-12-28 00:00:00,Leeds,Wimbledon FC,2,2
+21,1999-01-08 00:00:00,Arsenal,Liverpool,0,0
+21,1999-01-08 00:00:00,Blackburn,Leeds,1,0
+21,1999-01-08 00:00:00,Coventry,Nottingham,4,0
+21,1999-01-08 00:00:00,Everton,Leicester,0,0
+21,1999-01-08 00:00:00,Middlesbrough,Aston Villa,0,0
+21,1999-01-08 00:00:00,Newcastle Utd,Chelsea,0,1
+21,1999-01-08 00:00:00,Sheffield Wed,Tottenham,0,0
+21,1999-01-08 00:00:00,Southampton,Charlton,3,1
+21,1999-01-08 00:00:00,Wimbledon FC,Derby,2,1
+21,1999-01-09 00:00:00,Manchester United,West Ham,4,1
+22,1999-01-15 00:00:00,Chelsea,Coventry,2,1
+22,1999-01-15 00:00:00,Derby,Blackburn,1,0
+22,1999-01-15 00:00:00,Leeds,Middlesbrough,2,0
+22,1999-01-15 00:00:00,Leicester,Manchester United,2,6
+22,1999-01-15 00:00:00,Liverpool,Southampton,7,1
+22,1999-01-15 00:00:00,Nottingham,Arsenal,0,1
+22,1999-01-15 00:00:00,Tottenham,Wimbledon FC,0,0
+22,1999-01-15 00:00:00,West Ham,Sheffield Wed,0,4
+22,1999-01-16 00:00:00,Charlton,Newcastle Utd,2,2
+22,1999-01-17 00:00:00,Aston Villa,Everton,3,0
+23,1999-01-29 00:00:00,Blackburn,Tottenham,1,1
+23,1999-01-29 00:00:00,Coventry,Liverpool,2,1
+23,1999-01-29 00:00:00,Everton,Nottingham,0,1
+23,1999-01-29 00:00:00,Middlesbrough,Leicester,0,0
+23,1999-01-29 00:00:00,Newcastle Utd,Aston Villa,2,1
+23,1999-01-29 00:00:00,Sheffield Wed,Derby,0,1
+23,1999-01-29 00:00:00,Southampton,Leeds,3,0
+23,1999-01-29 00:00:00,Wimbledon FC,West Ham,0,0
+23,1999-01-30 00:00:00,Arsenal,Chelsea,1,0
+23,1999-01-30 00:00:00,Charlton,Manchester United,0,1
+24,1999-02-05 00:00:00,Aston Villa,Blackburn,1,3
+24,1999-02-05 00:00:00,Chelsea,Southampton,1,0
+24,1999-02-05 00:00:00,Leeds,Newcastle Utd,0,1
+24,1999-02-05 00:00:00,Leicester,Sheffield Wed,0,2
+24,1999-02-05 00:00:00,Liverpool,Middlesbrough,3,1
+24,1999-02-05 00:00:00,Nottingham,Manchester United,1,8
+24,1999-02-05 00:00:00,Tottenham,Coventry,0,0
+24,1999-02-05 00:00:00,West Ham,Arsenal,0,4
+24,1999-02-06 00:00:00,Derby,Everton,2,1
+24,1999-02-07 00:00:00,Charlton,Wimbledon FC,2,0
+25,1999-02-12 00:00:00,Charlton,Liverpool,1,0
+25,1999-02-12 00:00:00,West Ham,Nottingham,2,1
+25,1999-02-16 00:00:00,Aston Villa,Leeds,1,2
+25,1999-02-16 00:00:00,Chelsea,Blackburn,1,1
+25,1999-02-16 00:00:00,Everton,Middlesbrough,5,0
+25,1999-02-16 00:00:00,Manchester United,Arsenal,1,1
+25,1999-02-16 00:00:00,Newcastle Utd,Coventry,4,1
+26,1999-02-19 00:00:00,Arsenal,Leicester,5,0
+26,1999-02-19 00:00:00,Blackburn,Sheffield Wed,1,4
+26,1999-02-19 00:00:00,Coventry,Manchester United,0,1
+26,1999-02-19 00:00:00,Derby,Charlton,0,2
+26,1999-02-19 00:00:00,Leeds,Everton,1,0
+26,1999-02-19 00:00:00,Liverpool,West Ham,2,2
+26,1999-02-19 00:00:00,Middlesbrough,Tottenham,0,0
+26,1999-02-19 00:00:00,Nottingham,Chelsea,1,3
+26,1999-02-19 00:00:00,Southampton,Newcastle Utd,2,1
+26,1999-02-20 00:00:00,Wimbledon FC,Aston Villa,0,0
+27,1999-02-26 00:00:00,Aston Villa,Coventry,1,4
+27,1999-02-26 00:00:00,Charlton,Nottingham,0,0
+27,1999-02-26 00:00:00,Chelsea,Liverpool,2,1
+27,1999-02-26 00:00:00,Everton,Wimbledon FC,1,1
+27,1999-02-26 00:00:00,Manchester United,Southampton,2,1
+27,1999-02-26 00:00:00,Sheffield Wed,Middlesbrough,3,1
+27,1999-02-26 00:00:00,Tottenham,Derby,1,1
+27,1999-02-26 00:00:00,West Ham,Blackburn,2,0
+27,1999-02-27 00:00:00,Newcastle Utd,Arsenal,1,1
+27,1999-02-28 00:00:00,Leicester,Leeds,1,2
+28,1999-03-05 00:00:00,Coventry,Charlton,2,1
+28,1999-03-05 00:00:00,Southampton,West Ham,1,0
+28,1999-03-05 00:00:00,Wimbledon FC,Leicester,0,1
+28,1999-03-08 00:00:00,Arsenal,Sheffield Wed,3,0
+28,1999-03-09 00:00:00,Blackburn,Everton,1,2
+28,1999-03-09 00:00:00,Derby,Aston Villa,2,1
+28,1999-03-09 00:00:00,Leeds,Tottenham,2,0
+28,1999-03-09 00:00:00,Nottingham,Newcastle Utd,1,2
+29,1999-03-12 00:00:00,Chelsea,West Ham,0,1
+29,1999-03-12 00:00:00,Coventry,Blackburn,1,1
+29,1999-03-12 00:00:00,Derby,Liverpool,3,2
+29,1999-03-12 00:00:00,Everton,Arsenal,0,2
+29,1999-03-12 00:00:00,Leicester,Charlton,1,1
+29,1999-03-12 00:00:00,Newcastle Utd,Manchester United,1,2
+29,1999-03-12 00:00:00,Sheffield Wed,Leeds,0,2
+29,1999-03-12 00:00:00,Tottenham,Aston Villa,1,0
+29,1999-03-12 00:00:00,Wimbledon FC,Nottingham,1,3
+29,1999-03-13 00:00:00,Middlesbrough,Southampton,3,0
+30,1999-03-19 00:00:00,Arsenal,Coventry,2,0
+30,1999-03-19 00:00:00,Blackburn,Wimbledon FC,3,1
+30,1999-03-19 00:00:00,Leeds,Derby,4,1
+30,1999-03-19 00:00:00,Nottingham,Middlesbrough,1,2
+30,1999-03-19 00:00:00,Southampton,Sheffield Wed,1,0
+30,1999-03-19 00:00:00,West Ham,Newcastle Utd,2,0
+30,1999-03-20 00:00:00,Aston Villa,Chelsea,0,3
+30,1999-03-20 00:00:00,Manchester United,Everton,3,1
+31,1999-04-01 00:00:00,Aston Villa,West Ham,0,0
+31,1999-04-02 00:00:00,Blackburn,Middlesbrough,0,0
+31,1999-04-02 00:00:00,Charlton,Chelsea,0,1
+31,1999-04-02 00:00:00,Derby,Newcastle Utd,3,4
+31,1999-04-02 00:00:00,Leeds,Nottingham,3,1
+31,1999-04-02 00:00:00,Liverpool,Everton,3,2
+31,1999-04-02 00:00:00,Sheffield Wed,Coventry,1,2
+31,1999-04-02 00:00:00,Southampton,Arsenal,0,0
+31,1999-04-02 00:00:00,Tottenham,Leicester,0,2
+31,1999-04-02 00:00:00,Wimbledon FC,Manchester United,1,1
+32,1999-02-02 00:00:00,Manchester United,Derby,1,0
+33,1999-04-09 00:00:00,Aston Villa,Southampton,3,0
+33,1999-04-09 00:00:00,Derby,Nottingham,1,0
+33,1999-04-09 00:00:00,Leicester,West Ham,0,0
+33,1999-04-09 00:00:00,Middlesbrough,Charlton,2,0
+33,1999-04-10 00:00:00,Everton,Coventry,2,0
+33,1999-04-10 00:00:00,Wimbledon FC,Chelsea,1,2
+33,1999-04-11 00:00:00,Leeds,Liverpool,0,0
+34,1999-04-16 00:00:00,Charlton,Leeds,1,1
+34,1999-04-16 00:00:00,Coventry,Middlesbrough,1,2
+34,1999-04-16 00:00:00,Liverpool,Aston Villa,0,1
+34,1999-04-16 00:00:00,Manchester United,Sheffield Wed,3,0
+34,1999-04-16 00:00:00,Newcastle Utd,Everton,1,3
+34,1999-04-16 00:00:00,Nottingham,Tottenham,0,1
+34,1999-04-16 00:00:00,Southampton,Blackburn,3,3
+34,1999-04-16 00:00:00,West Ham,Derby,5,1
+34,1999-04-17 00:00:00,Chelsea,Leicester,2,2
+34,1999-04-18 00:00:00,Arsenal,Wimbledon FC,5,1
+35,1999-04-23 00:00:00,Aston Villa,Nottingham,2,0
+35,1999-04-23 00:00:00,Blackburn,Liverpool,1,3
+35,1999-04-23 00:00:00,Derby,Southampton,0,0
+35,1999-04-23 00:00:00,Everton,Charlton,4,1
+35,1999-04-23 00:00:00,Leicester,Coventry,1,0
+35,1999-04-23 00:00:00,Middlesbrough,Arsenal,1,6
+35,1999-04-23 00:00:00,Tottenham,West Ham,1,2
+35,1999-04-23 00:00:00,Wimbledon FC,Newcastle Utd,1,1
+35,1999-04-24 00:00:00,Leeds,Manchester United,1,1
+35,1999-04-24 00:00:00,Sheffield Wed,Chelsea,0,0
+36,1999-04-30 00:00:00,Charlton,Blackburn,0,0
+36,1999-04-30 00:00:00,Chelsea,Everton,3,1
+36,1999-04-30 00:00:00,Coventry,Wimbledon FC,2,1
+36,1999-04-30 00:00:00,Liverpool,Tottenham,3,2
+36,1999-04-30 00:00:00,Manchester United,Aston Villa,2,1
+36,1999-04-30 00:00:00,Newcastle Utd,Middlesbrough,1,1
+36,1999-04-30 00:00:00,Nottingham,Sheffield Wed,2,0
+36,1999-04-30 00:00:00,Southampton,Leicester,2,1
+36,1999-04-30 00:00:00,West Ham,Leeds,1,5
+36,1999-05-01 00:00:00,Arsenal,Derby,1,0
+37,1999-05-07 00:00:00,Aston Villa,Charlton,3,4
+37,1999-05-07 00:00:00,Blackburn,Nottingham,1,2
+37,1999-05-07 00:00:00,Derby,Coventry,0,0
+37,1999-05-07 00:00:00,Everton,West Ham,6,0
+37,1999-05-07 00:00:00,Leicester,Newcastle Utd,2,0
+37,1999-05-07 00:00:00,Sheffield Wed,Liverpool,1,0
+37,1999-05-07 00:00:00,Wimbledon FC,Southampton,0,2
+37,1999-05-08 00:00:00,Middlesbrough,Manchester United,0,1
+37,1999-05-09 00:00:00,Tottenham,Chelsea,2,2
+37,1999-05-10 00:00:00,Leeds,Arsenal,1,0
+38,1999-05-15 00:00:00,Arsenal,Aston Villa,1,0
+38,1999-05-15 00:00:00,Charlton,Sheffield Wed,0,1
+38,1999-05-15 00:00:00,Chelsea,Derby,2,1
+38,1999-05-15 00:00:00,Coventry,Leeds,2,2
+38,1999-05-15 00:00:00,Liverpool,Wimbledon FC,3,0
+38,1999-05-15 00:00:00,Manchester United,Tottenham,2,1
+38,1999-05-15 00:00:00,Newcastle Utd,Blackburn,1,1
+38,1999-05-15 00:00:00,Nottingham,Leicester,1,0
+38,1999-05-15 00:00:00,Southampton,Everton,2,0
+38,1999-05-15 00:00:00,West Ham,Middlesbrough,4,0

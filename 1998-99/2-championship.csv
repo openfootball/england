@@ -1,0 +1,503 @@
+English Premier League 1998/1999
+Matchday,Date,Home,Away,HomeGoals,AwayGoals
+1,1998-08-07 00:00:00,Barnsley,West Brom,2,2
+1,1998-08-07 00:00:00,Bradford,Stockport,1,2
+1,1998-08-07 00:00:00,Bristol City,Oxford Utd,2,2
+1,1998-08-07 00:00:00,Bury,Huddersfield,1,0
+1,1998-08-07 00:00:00,Crystal Palace,Bolton,2,2
+1,1998-08-07 00:00:00,Norwich,Crewe,2,1
+1,1998-08-07 00:00:00,Port Vale,Birmingham,0,2
+1,1998-08-07 00:00:00,Portsmouth,Watford,1,2
+1,1998-08-07 00:00:00,Sheffield Utd,Swindon,2,1
+1,1998-08-07 00:00:00,Sunderland,QPR,1,0
+1,1998-08-07 00:00:00,Wolves,Tranmere,2,0
+1,1998-08-08 00:00:00,Grimsby,Ipswich,0,0
+2,1998-08-14 00:00:00,Bolton,Grimsby,2,0
+2,1998-08-14 00:00:00,Crewe,Barnsley,3,1
+2,1998-08-14 00:00:00,Huddersfield,Port Vale,2,1
+2,1998-08-14 00:00:00,Ipswich,Bury,0,0
+2,1998-08-14 00:00:00,Oxford Utd,Wolves,0,2
+2,1998-08-14 00:00:00,QPR,Bristol City,1,1
+2,1998-08-14 00:00:00,Stockport,Norwich,0,2
+2,1998-08-14 00:00:00,Swindon,Sunderland,1,1
+2,1998-08-14 00:00:00,Tranmere,Portsmouth,1,1
+2,1998-08-14 00:00:00,Watford,Bradford,1,0
+2,1998-08-14 00:00:00,West Brom,Sheffield Utd,4,1
+2,1998-08-15 00:00:00,Birmingham,Crystal Palace,3,1
+3,1998-08-20 00:00:00,Barnsley,Stockport,1,1
+3,1998-08-21 00:00:00,Bristol City,Watford,1,4
+3,1998-08-21 00:00:00,Bury,Crewe,1,0
+3,1998-08-21 00:00:00,Crystal Palace,Oxford Utd,2,0
+3,1998-08-21 00:00:00,Grimsby,Huddersfield,1,0
+3,1998-08-21 00:00:00,Norwich,QPR,4,2
+3,1998-08-21 00:00:00,Port Vale,West Brom,0,3
+3,1998-08-21 00:00:00,Portsmouth,Ipswich,0,0
+3,1998-08-21 00:00:00,Sheffield Utd,Birmingham,0,2
+3,1998-08-21 00:00:00,Sunderland,Tranmere,5,0
+3,1998-08-21 00:00:00,Wolves,Swindon,1,0
+3,1998-08-22 00:00:00,Bradford,Bolton,2,2
+4,1998-08-27 00:00:00,Crewe,Bradford,2,1
+4,1998-08-27 00:00:00,Watford,Wolves,0,2
+4,1998-08-28 00:00:00,Birmingham,Barnsley,0,0
+4,1998-08-28 00:00:00,Bolton,Sheffield Utd,2,2
+4,1998-08-28 00:00:00,Huddersfield,Portsmouth,3,3
+4,1998-08-28 00:00:00,Ipswich,Sunderland,0,2
+4,1998-08-28 00:00:00,Oxford Utd,Grimsby,0,0
+4,1998-08-28 00:00:00,QPR,Bury,0,0
+4,1998-08-28 00:00:00,Stockport,Crystal Palace,1,1
+4,1998-08-28 00:00:00,Swindon,Port Vale,1,1
+4,1998-08-28 00:00:00,Tranmere,Bristol City,1,1
+4,1998-08-28 00:00:00,West Brom,Norwich,2,0
+5,1998-08-23 00:00:00,Sunderland,Watford,4,1
+6,1998-09-04 00:00:00,Birmingham,Bury,1,0
+6,1998-09-04 00:00:00,Huddersfield,Sheffield Utd,1,0
+6,1998-09-04 00:00:00,Stockport,Grimsby,2,0
+6,1998-09-04 00:00:00,Swindon,Bristol City,3,2
+6,1998-09-05 00:00:00,Oxford Utd,Portsmouth,3,0
+7,1998-09-07 00:00:00,Barnsley,Norwich,1,3
+7,1998-09-07 00:00:00,Birmingham,Stockport,2,0
+7,1998-09-07 00:00:00,Bury,Portsmouth,2,1
+7,1998-09-07 00:00:00,Crewe,Crystal Palace,0,1
+7,1998-09-07 00:00:00,Huddersfield,Watford,2,0
+7,1998-09-07 00:00:00,Ipswich,Bradford,3,0
+7,1998-09-07 00:00:00,Port Vale,Wolves,2,1
+7,1998-09-07 00:00:00,QPR,Tranmere,0,0
+7,1998-09-07 00:00:00,Sheffield Utd,Grimsby,3,2
+7,1998-09-07 00:00:00,Sunderland,Bristol City,1,1
+7,1998-09-07 00:00:00,West Brom,Bolton,2,3
+7,1998-09-08 00:00:00,Swindon,Oxford Utd,4,1
+8,1998-09-10 00:00:00,Tranmere,Huddersfield,2,3
+8,1998-09-11 00:00:00,Bolton,Birmingham,3,1
+8,1998-09-11 00:00:00,Bradford,Sheffield Utd,2,2
+8,1998-09-11 00:00:00,Crystal Palace,Port Vale,0,1
+8,1998-09-11 00:00:00,Grimsby,Barnsley,1,2
+8,1998-09-11 00:00:00,Oxford Utd,Ipswich,3,3
+8,1998-09-11 00:00:00,Portsmouth,Swindon,5,2
+8,1998-09-11 00:00:00,Stockport,Crewe,1,1
+8,1998-09-11 00:00:00,Watford,QPR,2,1
+8,1998-09-11 00:00:00,Wolves,Sunderland,1,1
+8,1998-09-12 00:00:00,Bristol City,West Brom,1,3
+8,1998-09-12 00:00:00,Norwich,Bury,0,0
+9,1998-09-18 00:00:00,Barnsley,Crystal Palace,4,0
+9,1998-09-18 00:00:00,Birmingham,Grimsby,0,1
+9,1998-09-18 00:00:00,Bury,Tranmere,0,0
+9,1998-09-18 00:00:00,Crewe,Bolton,4,4
+9,1998-09-18 00:00:00,Huddersfield,Wolves,2,1
+9,1998-09-18 00:00:00,Ipswich,Bristol City,3,1
+9,1998-09-18 00:00:00,Port Vale,Portsmouth,0,2
+9,1998-09-18 00:00:00,QPR,Stockport,2,0
+9,1998-09-18 00:00:00,Sheffield Utd,Norwich,2,1
+9,1998-09-18 00:00:00,Sunderland,Oxford Utd,7,0
+9,1998-09-18 00:00:00,Swindon,Watford,1,4
+9,1998-09-19 00:00:00,West Brom,Bradford,0,2
+10,1998-09-24 00:00:00,Tranmere,Swindon,0,0
+10,1998-09-25 00:00:00,Bolton,Huddersfield,3,0
+10,1998-09-25 00:00:00,Bradford,Barnsley,2,1
+10,1998-09-25 00:00:00,Bristol City,Crewe,5,2
+10,1998-09-25 00:00:00,Grimsby,Port Vale,2,2
+10,1998-09-25 00:00:00,Norwich,Birmingham,2,0
+10,1998-09-25 00:00:00,Oxford Utd,QPR,4,1
+10,1998-09-25 00:00:00,Portsmouth,Sunderland,1,1
+10,1998-09-25 00:00:00,Stockport,West Brom,2,2
+10,1998-09-25 00:00:00,Watford,Ipswich,1,0
+10,1998-09-25 00:00:00,Wolves,Bury,1,0
+10,1998-09-26 00:00:00,Crystal Palace,Sheffield Utd,1,0
+11,1998-09-28 00:00:00,Bolton,Swindon,2,1
+11,1998-09-28 00:00:00,Bradford,Port Vale,4,0
+11,1998-09-28 00:00:00,Bristol City,Barnsley,1,1
+11,1998-09-28 00:00:00,Grimsby,Crewe,1,1
+11,1998-09-28 00:00:00,Norwich,Sunderland,2,2
+11,1998-09-28 00:00:00,Oxford Utd,West Brom,3,0
+11,1998-09-28 00:00:00,Portsmouth,Birmingham,0,1
+11,1998-09-28 00:00:00,Stockport,Huddersfield,1,1
+11,1998-09-28 00:00:00,Tranmere,Ipswich,0,2
+11,1998-09-28 00:00:00,Watford,Sheffield Utd,1,1
+11,1998-09-28 00:00:00,Wolves,QPR,1,2
+11,1998-09-29 00:00:00,Crystal Palace,Bury,4,2
+12,1998-10-02 00:00:00,Barnsley,Bolton,2,2
+12,1998-10-02 00:00:00,Birmingham,Tranmere,2,2
+12,1998-10-02 00:00:00,Bury,Bristol City,0,1
+12,1998-10-02 00:00:00,Crewe,Wolves,0,0
+12,1998-10-02 00:00:00,Huddersfield,Oxford Utd,2,0
+12,1998-10-02 00:00:00,Ipswich,Crystal Palace,3,0
+12,1998-10-02 00:00:00,Port Vale,Norwich,1,0
+12,1998-10-02 00:00:00,QPR,Grimsby,1,2
+12,1998-10-02 00:00:00,Sheffield Utd,Portsmouth,2,1
+12,1998-10-02 00:00:00,Sunderland,Bradford,0,0
+12,1998-10-02 00:00:00,Swindon,Stockport,2,3
+12,1998-10-03 00:00:00,West Brom,Watford,4,1
+13,1998-10-08 00:00:00,Bradford,Bury,3,0
+13,1998-10-08 00:00:00,Swindon,Huddersfield,3,0
+13,1998-10-09 00:00:00,Bristol City,Portsmouth,2,2
+13,1998-10-09 00:00:00,Oxford Utd,Tranmere,1,2
+13,1998-10-09 00:00:00,Watford,Birmingham,1,1
+13,1998-10-10 00:00:00,Barnsley,Port Vale,0,2
+14,1998-10-16 00:00:00,Birmingham,Crewe,3,1
+14,1998-10-16 00:00:00,Bolton,Oxford Utd,1,1
+14,1998-10-16 00:00:00,Bury,Stockport,1,1
+14,1998-10-16 00:00:00,Crystal Palace,Norwich,5,1
+14,1998-10-16 00:00:00,Grimsby,Bradford,2,0
+14,1998-10-16 00:00:00,Huddersfield,QPR,2,0
+14,1998-10-16 00:00:00,Ipswich,Swindon,1,0
+14,1998-10-16 00:00:00,Port Vale,Bristol City,3,2
+14,1998-10-16 00:00:00,Portsmouth,Wolves,1,0
+14,1998-10-16 00:00:00,Sheffield Utd,Barnsley,1,1
+14,1998-10-16 00:00:00,Tranmere,Watford,3,2
+14,1998-10-17 00:00:00,West Brom,Sunderland,2,3
+15,1998-10-19 00:00:00,Birmingham,Swindon,1,1
+15,1998-10-19 00:00:00,Bolton,Watford,1,2
+15,1998-10-19 00:00:00,Bury,Oxford Utd,1,0
+15,1998-10-19 00:00:00,Crystal Palace,Wolves,3,2
+15,1998-10-19 00:00:00,Grimsby,Bristol City,2,1
+15,1998-10-19 00:00:00,Ipswich,Norwich,0,1
+15,1998-10-19 00:00:00,Port Vale,Crewe,1,0
+15,1998-10-19 00:00:00,Portsmouth,Bradford,2,4
+15,1998-10-19 00:00:00,Sheffield Utd,Stockport,1,1
+15,1998-10-19 00:00:00,Tranmere,Barnsley,3,0
+15,1998-10-20 00:00:00,Huddersfield,Sunderland,1,1
+15,1998-10-20 00:00:00,West Brom,QPR,2,0
+16,1998-10-22 00:00:00,Bristol City,Bolton,2,1
+16,1998-10-23 00:00:00,Barnsley,Portsmouth,2,1
+16,1998-10-23 00:00:00,Crewe,Tranmere,1,4
+16,1998-10-23 00:00:00,Norwich,Huddersfield,4,1
+16,1998-10-23 00:00:00,Oxford Utd,Sheffield Utd,0,2
+16,1998-10-23 00:00:00,Stockport,Ipswich,0,1
+16,1998-10-23 00:00:00,Sunderland,Bury,1,0
+16,1998-10-23 00:00:00,Swindon,West Brom,2,2
+16,1998-10-23 00:00:00,Watford,Port Vale,2,2
+16,1998-10-23 00:00:00,Wolves,Grimsby,2,0
+16,1998-10-24 00:00:00,QPR,Birmingham,0,1
+17,1998-10-30 00:00:00,Birmingham,Huddersfield,1,1
+17,1998-10-30 00:00:00,Bradford,Bristol City,5,0
+17,1998-10-30 00:00:00,Bury,Watford,1,3
+17,1998-10-30 00:00:00,Grimsby,Crystal Palace,2,0
+17,1998-10-30 00:00:00,Ipswich,West Brom,2,0
+17,1998-10-30 00:00:00,Oxford Utd,Crewe,1,1
+17,1998-10-30 00:00:00,Port Vale,Sheffield Utd,2,3
+17,1998-10-30 00:00:00,Swindon,QPR,3,1
+17,1998-10-30 00:00:00,Tranmere,Stockport,1,1
+17,1998-10-30 00:00:00,Wolves,Barnsley,1,1
+17,1998-10-31 00:00:00,Bolton,Sunderland,0,3
+18,1998-11-06 00:00:00,Barnsley,Bury,1,1
+18,1998-11-06 00:00:00,Bristol City,Wolves,1,6
+18,1998-11-06 00:00:00,Crewe,Swindon,0,2
+18,1998-11-06 00:00:00,Crystal Palace,Portsmouth,4,1
+18,1998-11-06 00:00:00,Huddersfield,Ipswich,2,2
+18,1998-11-06 00:00:00,Norwich,Bradford,2,2
+18,1998-11-06 00:00:00,QPR,Bolton,2,0
+18,1998-11-06 00:00:00,Sheffield Utd,Tranmere,2,2
+18,1998-11-06 00:00:00,Sunderland,Grimsby,3,1
+18,1998-11-06 00:00:00,Watford,Oxford Utd,2,0
+18,1998-11-06 00:00:00,West Brom,Birmingham,1,3
+18,1998-11-07 00:00:00,Stockport,Port Vale,4,2
+19,1998-11-13 00:00:00,Barnsley,Ipswich,0,1
+19,1998-11-13 00:00:00,Birmingham,Oxford Utd,0,1
+19,1998-11-13 00:00:00,Bolton,Tranmere,2,2
+19,1998-11-13 00:00:00,Bradford,Swindon,3,0
+19,1998-11-13 00:00:00,Crewe,QPR,0,2
+19,1998-11-13 00:00:00,Crystal Palace,Bristol City,2,1
+19,1998-11-13 00:00:00,Grimsby,Portsmouth,1,1
+19,1998-11-13 00:00:00,Norwich,Wolves,0,0
+19,1998-11-13 00:00:00,Port Vale,Sunderland,0,2
+19,1998-11-13 00:00:00,Sheffield Utd,Bury,3,1
+19,1998-11-13 00:00:00,Stockport,Watford,1,1
+19,1998-11-13 00:00:00,West Brom,Huddersfield,3,1
+20,1998-11-20 00:00:00,Bristol City,Stockport,1,1
+20,1998-11-20 00:00:00,Bury,Grimsby,1,0
+20,1998-11-20 00:00:00,Huddersfield,Bradford,2,1
+20,1998-11-20 00:00:00,Ipswich,Bolton,0,1
+20,1998-11-20 00:00:00,Oxford Utd,Port Vale,2,1
+20,1998-11-20 00:00:00,Portsmouth,West Brom,2,1
+20,1998-11-20 00:00:00,QPR,Sheffield Utd,1,2
+20,1998-11-20 00:00:00,Sunderland,Barnsley,2,3
+20,1998-11-20 00:00:00,Swindon,Crystal Palace,2,0
+20,1998-11-20 00:00:00,Tranmere,Norwich,1,3
+20,1998-11-20 00:00:00,Watford,Crewe,4,2
+20,1998-11-21 00:00:00,Wolves,Birmingham,3,1
+21,1998-11-26 00:00:00,Barnsley,Huddersfield,7,1
+21,1998-11-27 00:00:00,Birmingham,Bristol City,4,2
+21,1998-11-27 00:00:00,Bolton,Bury,4,0
+21,1998-11-27 00:00:00,Bradford,QPR,0,3
+21,1998-11-27 00:00:00,Crewe,Ipswich,0,3
+21,1998-11-27 00:00:00,Crystal Palace,Watford,2,2
+21,1998-11-27 00:00:00,Grimsby,Swindon,1,0
+21,1998-11-27 00:00:00,Port Vale,Tranmere,2,2
+21,1998-11-27 00:00:00,Sheffield Utd,Sunderland,0,4
+21,1998-11-27 00:00:00,Stockport,Portsmouth,2,0
+21,1998-11-28 00:00:00,Norwich,Oxford Utd,1,3
+21,1998-11-28 00:00:00,West Brom,Wolves,2,0
+22,1998-12-04 00:00:00,Bristol City,Sheffield Utd,2,0
+22,1998-12-04 00:00:00,Bury,West Brom,2,0
+22,1998-12-04 00:00:00,Huddersfield,Crystal Palace,4,0
+22,1998-12-04 00:00:00,Ipswich,Birmingham,1,0
+22,1998-12-04 00:00:00,Oxford Utd,Bradford,0,1
+22,1998-12-04 00:00:00,Portsmouth,Crewe,2,0
+22,1998-12-04 00:00:00,QPR,Port Vale,3,2
+22,1998-12-04 00:00:00,Sunderland,Stockport,1,0
+22,1998-12-04 00:00:00,Swindon,Norwich,1,1
+22,1998-12-04 00:00:00,Tranmere,Grimsby,1,2
+22,1998-12-04 00:00:00,Watford,Barnsley,0,0
+22,1998-12-04 00:00:00,Wolves,Bolton,1,1
+23,1998-12-10 00:00:00,Bury,Sheffield Utd,3,3
+23,1998-12-11 00:00:00,Bristol City,Crystal Palace,1,1
+23,1998-12-11 00:00:00,Huddersfield,West Brom,0,3
+23,1998-12-11 00:00:00,Ipswich,Barnsley,0,2
+23,1998-12-11 00:00:00,Oxford Utd,Birmingham,1,7
+23,1998-12-11 00:00:00,QPR,Crewe,0,1
+23,1998-12-11 00:00:00,Sunderland,Port Vale,2,0
+23,1998-12-11 00:00:00,Swindon,Bradford,1,4
+23,1998-12-11 00:00:00,Tranmere,Bolton,1,1
+23,1998-12-11 00:00:00,Watford,Stockport,4,2
+23,1998-12-11 00:00:00,Wolves,Norwich,2,2
+23,1998-12-12 00:00:00,Portsmouth,Grimsby,0,1
+24,1998-12-18 00:00:00,Barnsley,Swindon,1,3
+24,1998-12-18 00:00:00,Birmingham,Sunderland,0,0
+24,1998-12-18 00:00:00,Bolton,Portsmouth,3,1
+24,1998-12-18 00:00:00,Bradford,Wolves,2,1
+24,1998-12-18 00:00:00,Crewe,Huddersfield,1,2
+24,1998-12-18 00:00:00,Crystal Palace,QPR,1,1
+24,1998-12-18 00:00:00,Grimsby,Watford,2,1
+24,1998-12-18 00:00:00,Norwich,Bristol City,2,1
+24,1998-12-18 00:00:00,Port Vale,Bury,1,0
+24,1998-12-18 00:00:00,Stockport,Oxford Utd,2,0
+24,1998-12-18 00:00:00,West Brom,Tranmere,0,2
+24,1998-12-19 00:00:00,Sheffield Utd,Ipswich,1,2
+25,1998-12-25 00:00:00,Birmingham,Sheffield Utd,1,0
+25,1998-12-25 00:00:00,Bolton,Bradford,0,0
+25,1998-12-25 00:00:00,Crewe,Bury,3,1
+25,1998-12-25 00:00:00,Huddersfield,Grimsby,2,0
+25,1998-12-25 00:00:00,Ipswich,Portsmouth,3,0
+25,1998-12-25 00:00:00,Oxford Utd,Crystal Palace,1,3
+25,1998-12-25 00:00:00,QPR,Norwich,2,0
+25,1998-12-25 00:00:00,Stockport,Barnsley,0,1
+25,1998-12-25 00:00:00,Swindon,Wolves,1,0
+25,1998-12-25 00:00:00,Tranmere,Sunderland,1,0
+25,1998-12-25 00:00:00,Watford,Bristol City,1,0
+25,1998-12-25 00:00:00,West Brom,Port Vale,3,2
+26,1998-12-27 00:00:00,Barnsley,QPR,1,0
+26,1998-12-27 00:00:00,Bradford,Tranmere,2,0
+26,1998-12-27 00:00:00,Bristol City,Swindon,3,1
+26,1998-12-27 00:00:00,Bury,Birmingham,2,4
+26,1998-12-27 00:00:00,Crystal Palace,West Brom,1,1
+26,1998-12-27 00:00:00,Grimsby,Stockport,1,0
+26,1998-12-27 00:00:00,Port Vale,Bolton,0,2
+26,1998-12-27 00:00:00,Portsmouth,Oxford Utd,2,2
+26,1998-12-27 00:00:00,Sheffield Utd,Huddersfield,2,1
+26,1998-12-27 00:00:00,Sunderland,Crewe,2,0
+26,1998-12-27 00:00:00,Wolves,Ipswich,1,0
+26,1998-12-28 00:00:00,Norwich,Watford,1,1
+27,1999-01-07 00:00:00,Tranmere,Wolves,1,2
+27,1999-01-08 00:00:00,Birmingham,Port Vale,1,0
+27,1999-01-08 00:00:00,Crewe,Norwich,3,2
+27,1999-01-08 00:00:00,Huddersfield,Bury,2,2
+27,1999-01-08 00:00:00,Ipswich,Grimsby,0,1
+27,1999-01-08 00:00:00,Oxford Utd,Bristol City,0,0
+27,1999-01-08 00:00:00,QPR,Sunderland,2,2
+27,1999-01-08 00:00:00,Stockport,Bradford,1,2
+27,1999-01-08 00:00:00,Swindon,Sheffield Utd,2,2
+27,1999-01-08 00:00:00,Watford,Portsmouth,0,0
+27,1999-01-08 00:00:00,West Brom,Barnsley,2,0
+27,1999-01-09 00:00:00,Bolton,Crystal Palace,3,0
+28,1999-01-15 00:00:00,Barnsley,Birmingham,0,0
+28,1999-01-15 00:00:00,Bradford,Crewe,4,1
+28,1999-01-15 00:00:00,Bristol City,Tranmere,1,1
+28,1999-01-15 00:00:00,Bury,QPR,1,1
+28,1999-01-15 00:00:00,Crystal Palace,Stockport,2,2
+28,1999-01-15 00:00:00,Grimsby,Oxford Utd,1,0
+28,1999-01-15 00:00:00,Norwich,West Brom,1,1
+28,1999-01-15 00:00:00,Port Vale,Swindon,0,1
+28,1999-01-15 00:00:00,Portsmouth,Huddersfield,1,0
+28,1999-01-15 00:00:00,Sheffield Utd,Bolton,1,2
+28,1999-01-15 00:00:00,Wolves,Watford,0,0
+28,1999-01-16 00:00:00,Sunderland,Ipswich,2,1
+29,1999-01-29 00:00:00,Bolton,Norwich,2,0
+29,1999-01-29 00:00:00,Crewe,Sheffield Utd,1,2
+29,1999-01-29 00:00:00,Huddersfield,Bristol City,2,2
+29,1999-01-29 00:00:00,Ipswich,Port Vale,1,0
+29,1999-01-29 00:00:00,Oxford Utd,Barnsley,1,0
+29,1999-01-29 00:00:00,QPR,Portsmouth,1,1
+29,1999-01-29 00:00:00,Stockport,Wolves,1,2
+29,1999-01-29 00:00:00,Swindon,Bury,1,1
+29,1999-01-29 00:00:00,Tranmere,Crystal Palace,3,1
+29,1999-01-29 00:00:00,Watford,Sunderland,2,1
+29,1999-01-29 00:00:00,West Brom,Grimsby,1,1
+29,1999-01-30 00:00:00,Birmingham,Bradford,2,1
+30,1999-02-04 00:00:00,Bristol City,QPR,0,0
+30,1999-02-05 00:00:00,Barnsley,Crewe,2,2
+30,1999-02-05 00:00:00,Bradford,Watford,2,0
+30,1999-02-05 00:00:00,Bury,Ipswich,0,3
+30,1999-02-05 00:00:00,Crystal Palace,Birmingham,1,1
+30,1999-02-05 00:00:00,Grimsby,Bolton,0,1
+30,1999-02-05 00:00:00,Norwich,Stockport,0,2
+30,1999-02-05 00:00:00,Port Vale,Huddersfield,2,0
+30,1999-02-05 00:00:00,Portsmouth,Tranmere,1,1
+30,1999-02-05 00:00:00,Sheffield Utd,West Brom,3,0
+30,1999-02-05 00:00:00,Sunderland,Swindon,2,0
+30,1999-02-05 00:00:00,Wolves,Oxford Utd,1,1
+31,1999-02-12 00:00:00,Bolton,West Brom,2,1
+31,1999-02-12 00:00:00,Bradford,Ipswich,0,0
+31,1999-02-12 00:00:00,Bristol City,Sunderland,0,1
+31,1999-02-12 00:00:00,Crystal Palace,Crewe,1,1
+31,1999-02-12 00:00:00,Oxford Utd,Swindon,2,0
+31,1999-02-12 00:00:00,Portsmouth,Bury,2,1
+31,1999-02-12 00:00:00,Stockport,Birmingham,1,0
+31,1999-02-12 00:00:00,Tranmere,QPR,3,2
+31,1999-02-12 00:00:00,Wolves,Port Vale,3,1
+31,1999-02-15 00:00:00,Norwich,Barnsley,0,0
+31,1999-02-15 00:00:00,Watford,Huddersfield,1,1
+32,1999-02-18 00:00:00,Sheffield Utd,Bradford,2,2
+32,1999-02-19 00:00:00,Barnsley,Grimsby,0,0
+32,1999-02-19 00:00:00,Bury,Norwich,0,2
+32,1999-02-19 00:00:00,Crewe,Stockport,0,2
+32,1999-02-19 00:00:00,Huddersfield,Tranmere,0,0
+32,1999-02-19 00:00:00,Ipswich,Oxford Utd,2,1
+32,1999-02-19 00:00:00,Port Vale,Crystal Palace,1,0
+32,1999-02-19 00:00:00,QPR,Watford,1,2
+32,1999-02-19 00:00:00,Sunderland,Wolves,2,1
+32,1999-02-19 00:00:00,Swindon,Portsmouth,3,3
+32,1999-02-19 00:00:00,West Brom,Bristol City,2,2
+32,1999-02-20 00:00:00,Birmingham,Bolton,0,0
+33,1999-02-25 00:00:00,Watford,Swindon,0,1
+33,1999-02-26 00:00:00,Bolton,Crewe,1,3
+33,1999-02-26 00:00:00,Bradford,West Brom,1,0
+33,1999-02-26 00:00:00,Bristol City,Ipswich,0,1
+33,1999-02-26 00:00:00,Grimsby,Birmingham,0,3
+33,1999-02-26 00:00:00,Norwich,Sheffield Utd,1,1
+33,1999-02-26 00:00:00,Oxford Utd,Sunderland,0,0
+33,1999-02-26 00:00:00,Portsmouth,Port Vale,4,0
+33,1999-02-26 00:00:00,Stockport,QPR,0,0
+33,1999-02-26 00:00:00,Tranmere,Bury,4,0
+33,1999-02-26 00:00:00,Wolves,Huddersfield,2,2
+33,1999-02-27 00:00:00,Crystal Palace,Barnsley,1,0
+34,1999-03-01 00:00:00,Birmingham,Norwich,0,0
+34,1999-03-01 00:00:00,Huddersfield,Bolton,3,2
+34,1999-03-01 00:00:00,Ipswich,Watford,3,2
+34,1999-03-01 00:00:00,Sheffield Utd,Crystal Palace,1,1
+34,1999-03-01 00:00:00,Sunderland,Portsmouth,2,0
+34,1999-03-01 00:00:00,West Brom,Stockport,3,1
+34,1999-03-02 00:00:00,Barnsley,Bradford,0,1
+34,1999-03-02 00:00:00,QPR,Oxford Utd,1,0
+34,1999-03-02 00:00:00,Swindon,Tranmere,2,3
+35,1999-03-05 00:00:00,Birmingham,Portsmouth,4,1
+35,1999-03-05 00:00:00,Bury,Crystal Palace,0,0
+35,1999-03-05 00:00:00,Huddersfield,Stockport,3,0
+35,1999-03-05 00:00:00,Ipswich,Tranmere,1,0
+35,1999-03-05 00:00:00,QPR,Wolves,0,1
+35,1999-03-05 00:00:00,Sheffield Utd,Watford,3,0
+35,1999-03-05 00:00:00,Sunderland,Norwich,1,0
+35,1999-03-05 00:00:00,Swindon,Bolton,3,3
+35,1999-03-05 00:00:00,West Brom,Oxford Utd,2,0
+36,1999-01-22 00:00:00,Watford,West Brom,0,2
+37,1999-03-12 00:00:00,Birmingham,West Brom,4,0
+37,1999-03-12 00:00:00,Bolton,QPR,2,1
+37,1999-03-12 00:00:00,Bradford,Norwich,4,1
+37,1999-03-12 00:00:00,Bury,Barnsley,0,0
+37,1999-03-12 00:00:00,Grimsby,Sunderland,0,2
+37,1999-03-12 00:00:00,Ipswich,Huddersfield,3,0
+37,1999-03-12 00:00:00,Oxford Utd,Watford,0,0
+37,1999-03-12 00:00:00,Port Vale,Stockport,1,1
+37,1999-03-12 00:00:00,Portsmouth,Crystal Palace,1,1
+37,1999-03-12 00:00:00,Swindon,Crewe,1,2
+37,1999-03-12 00:00:00,Tranmere,Sheffield Utd,2,3
+37,1999-03-12 00:00:00,Wolves,Bristol City,3,0
+38,1999-03-19 00:00:00,Barnsley,Wolves,2,3
+38,1999-03-19 00:00:00,Bristol City,Bradford,2,3
+38,1999-03-19 00:00:00,Crewe,Oxford Utd,3,1
+38,1999-03-19 00:00:00,Crystal Palace,Grimsby,3,1
+38,1999-03-19 00:00:00,Huddersfield,Birmingham,1,1
+38,1999-03-19 00:00:00,Norwich,Portsmouth,0,0
+38,1999-03-19 00:00:00,QPR,Swindon,4,0
+38,1999-03-19 00:00:00,Sheffield Utd,Port Vale,3,0
+38,1999-03-19 00:00:00,Stockport,Tranmere,0,0
+38,1999-03-19 00:00:00,Sunderland,Bolton,3,1
+38,1999-03-19 00:00:00,Watford,Bury,0,0
+38,1999-03-19 00:00:00,West Brom,Ipswich,0,1
+39,1999-03-23 00:00:00,Huddersfield,Norwich,1,1
+39,1999-03-25 00:00:00,Sheffield Utd,Oxford Utd,1,2
+39,1999-03-25 00:00:00,Tranmere,Crewe,3,0
+39,1999-03-27 00:00:00,Crystal Palace,Bradford,1,0
+39,1999-03-27 00:00:00,Portsmouth,Barnsley,1,3
+40,1999-04-01 00:00:00,Crewe,Birmingham,0,0
+40,1999-04-02 00:00:00,Barnsley,Sheffield Utd,2,1
+40,1999-04-02 00:00:00,Bradford,Grimsby,3,0
+40,1999-04-02 00:00:00,Bristol City,Port Vale,2,0
+40,1999-04-02 00:00:00,Norwich,Crystal Palace,0,1
+40,1999-04-02 00:00:00,Oxford Utd,Bolton,0,0
+40,1999-04-02 00:00:00,QPR,Huddersfield,1,1
+40,1999-04-02 00:00:00,Stockport,Bury,0,0
+40,1999-04-02 00:00:00,Sunderland,West Brom,3,0
+40,1999-04-02 00:00:00,Swindon,Ipswich,0,6
+40,1999-04-02 00:00:00,Watford,Tranmere,2,1
+40,1999-04-02 00:00:00,Wolves,Portsmouth,2,0
+41,1999-04-04 00:00:00,Birmingham,Watford,1,2
+41,1999-04-04 00:00:00,Bolton,Stockport,1,2
+41,1999-04-04 00:00:00,Bury,Bradford,0,2
+41,1999-04-04 00:00:00,Crystal Palace,Sunderland,1,1
+41,1999-04-04 00:00:00,Grimsby,Norwich,0,1
+41,1999-04-04 00:00:00,Huddersfield,Swindon,1,2
+41,1999-04-04 00:00:00,Ipswich,QPR,3,1
+41,1999-04-04 00:00:00,Port Vale,Barnsley,1,0
+41,1999-04-04 00:00:00,Portsmouth,Bristol City,0,1
+41,1999-04-04 00:00:00,Sheffield Utd,Wolves,1,1
+41,1999-04-04 00:00:00,Tranmere,Oxford Utd,2,2
+41,1999-04-04 00:00:00,West Brom,Crewe,1,5
+42,1999-04-09 00:00:00,Barnsley,Tranmere,1,1
+42,1999-04-09 00:00:00,Bradford,Portsmouth,2,1
+42,1999-04-09 00:00:00,Bristol City,Grimsby,4,1
+42,1999-04-09 00:00:00,Crewe,Port Vale,0,0
+42,1999-04-09 00:00:00,Oxford Utd,Bury,0,1
+42,1999-04-09 00:00:00,QPR,West Brom,2,1
+42,1999-04-09 00:00:00,Stockport,Sheffield Utd,1,0
+42,1999-04-09 00:00:00,Sunderland,Huddersfield,2,0
+42,1999-04-09 00:00:00,Swindon,Birmingham,0,1
+42,1999-04-09 00:00:00,Watford,Bolton,2,0
+42,1999-04-09 00:00:00,Wolves,Crystal Palace,0,0
+42,1999-04-10 00:00:00,Norwich,Ipswich,0,0
+43,1999-04-15 00:00:00,Barnsley,Sunderland,1,3
+43,1999-04-16 00:00:00,Birmingham,Wolves,0,1
+43,1999-04-16 00:00:00,Bolton,Ipswich,2,0
+43,1999-04-16 00:00:00,Bradford,Huddersfield,2,3
+43,1999-04-16 00:00:00,Crewe,Watford,0,1
+43,1999-04-16 00:00:00,Crystal Palace,Swindon,0,1
+43,1999-04-16 00:00:00,Grimsby,Bury,0,0
+43,1999-04-16 00:00:00,Norwich,Tranmere,2,2
+43,1999-04-16 00:00:00,Port Vale,Oxford Utd,1,0
+43,1999-04-16 00:00:00,Sheffield Utd,QPR,2,0
+43,1999-04-16 00:00:00,Stockport,Bristol City,2,2
+43,1999-04-16 00:00:00,West Brom,Portsmouth,2,2
+44,1999-04-22 00:00:00,Bury,Bolton,2,1
+44,1999-04-23 00:00:00,Bristol City,Birmingham,1,2
+44,1999-04-23 00:00:00,Huddersfield,Barnsley,0,1
+44,1999-04-23 00:00:00,Ipswich,Crewe,1,2
+44,1999-04-23 00:00:00,Oxford Utd,Norwich,2,4
+44,1999-04-23 00:00:00,Portsmouth,Stockport,3,1
+44,1999-04-23 00:00:00,QPR,Bradford,1,3
+44,1999-04-23 00:00:00,Sunderland,Sheffield Utd,0,0
+44,1999-04-23 00:00:00,Swindon,Grimsby,2,0
+44,1999-04-23 00:00:00,Tranmere,Port Vale,1,1
+44,1999-04-23 00:00:00,Watford,Crystal Palace,2,1
+44,1999-04-24 00:00:00,Wolves,West Brom,1,1
+45,1999-04-29 00:00:00,Bolton,Wolves,1,1
+45,1999-04-30 00:00:00,Barnsley,Watford,2,2
+45,1999-04-30 00:00:00,Bradford,Oxford Utd,0,0
+45,1999-04-30 00:00:00,Crewe,Portsmouth,3,1
+45,1999-04-30 00:00:00,Crystal Palace,Huddersfield,2,2
+45,1999-04-30 00:00:00,Grimsby,Tranmere,1,0
+45,1999-04-30 00:00:00,Norwich,Swindon,2,1
+45,1999-04-30 00:00:00,Port Vale,QPR,2,0
+45,1999-04-30 00:00:00,Sheffield Utd,Bristol City,3,1
+45,1999-04-30 00:00:00,Stockport,Sunderland,0,1
+45,1999-04-30 00:00:00,West Brom,Bury,1,0
+45,1999-05-01 00:00:00,Birmingham,Ipswich,1,0
+46,1999-05-08 00:00:00,Bristol City,Norwich,1,0
+46,1999-05-08 00:00:00,Bury,Port Vale,1,0
+46,1999-05-08 00:00:00,Huddersfield,Crewe,0,0
+46,1999-05-08 00:00:00,Ipswich,Sheffield Utd,4,1
+46,1999-05-08 00:00:00,Oxford Utd,Stockport,5,0
+46,1999-05-08 00:00:00,Portsmouth,Bolton,0,2
+46,1999-05-08 00:00:00,QPR,Crystal Palace,6,0
+46,1999-05-08 00:00:00,Sunderland,Birmingham,2,1
+46,1999-05-08 00:00:00,Swindon,Barnsley,1,3
+46,1999-05-08 00:00:00,Tranmere,West Brom,3,1
+46,1999-05-08 00:00:00,Watford,Grimsby,1,0
+46,1999-05-08 00:00:00,Wolves,Bradford,2,3
