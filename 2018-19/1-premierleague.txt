@@ -224,18 +224,17 @@ Matchday 14
 
 Matchday 15
 [Tue Dec/4]
-  AFC Bournemouth         - Huddersfield Town
-  Brighton & Hove Albion  - Crystal Palace
-  Burnley FC              - Liverpool FC
-  Fulham FC               - Leicester City
-  Watford FC              - Manchester City
-  West Ham United         - Cardiff City
-  Wolverhampton Wanderers - Chelsea FC
-  Manchester United       - Arsenal FC
+  AFC Bournemouth         2-1 Huddersfield Town
+  Brighton & Hove Albion  3-1 Crystal Palace
+  Watford FC              1-2 Manchester City
+  West Ham United         3-1 Cardiff City
 [Wed Dec/5]
-  Everton FC              - Newcastle United
-  Tottenham Hotspur       - Southampton FC
-
+  Burnley FC              1-3 Liverpool FC
+  Fulham FC               1-1 Leicester City
+  Everton FC              1-1 Newcastle United
+  Tottenham Hotspur       3-1 Southampton FC
+  Wolverhampton Wanderers 2-1 Chelsea FC
+  Manchester United       2-2 Arsenal FC
 
 Matchday 16
 [Sat Dec/8]
@@ -244,12 +243,13 @@ Matchday 16
   Burnley FC              - Brighton & Hove Albion
   Cardiff City            - Southampton FC
   Chelsea FC              - Manchester City
-  Everton FC              - Watford FC
   Leicester City          - Tottenham Hotspur
   Manchester United       - Fulham FC
-  Newcastle United        - Wolverhampton Wanderers
   West Ham United         - Crystal Palace
-
+[Sun Dec/9]
+  Newcastle United        - Wolverhampton Wanderers
+[Mon Dec/10]
+  Everton FC              - Watford FC
 
 Matchday 17
 [Sat Dec/15]
