@@ -129,111 +129,112 @@ Matchday 8
 
 Matchday 9
 [Sat Oct/20]
-  Chelsea FC              - Manchester United
-  AFC Bournemouth         - Southampton FC
-  Cardiff City            - Fulham FC
-  Manchester City         - Burnley FC
-  Newcastle United        - Brighton & Hove Albion
-  West Ham United         - Tottenham Hotspur
-  Wolverhampton Wanderers - Watford FC
-  Huddersfield Town       - Liverpool FC
+  Chelsea FC              2-2 Manchester United
+  AFC Bournemouth         0-0 Southampton FC
+  Cardiff City            4-2 Fulham FC
+  Manchester City         5-0 Burnley FC
+  Newcastle United        0-1 Brighton & Hove Albion
+  West Ham United         0-1 Tottenham Hotspur
+  Wolverhampton Wanderers 0-2 Watford FC
+  Huddersfield Town       0-1 Liverpool FC
 [Sun Oct/21]
-  Everton FC              - Crystal Palace
+  Everton FC              2-0 Crystal Palace
 [Mon Oct/22]
-  Arsenal FC              - Leicester City
+  Arsenal FC              3-1 Leicester City
 
 
 Matchday 10
 [Sat Oct/27]
-  Brighton & Hove Albion  - Wolverhampton Wanderers
-  Fulham FC               - AFC Bournemouth
-  Liverpool FC            - Cardiff City
-  Southampton FC          - Newcastle United
-  Watford FC              - Huddersfield Town
-  Leicester City          - West Ham United
+  Brighton & Hove Albion  1-0 Wolverhampton Wanderers
+  Fulham FC               0-3 AFC Bournemouth
+  Liverpool FC            4-1 Cardiff City
+  Southampton FC          0-0 Newcastle United
+  Watford FC              3-0 Huddersfield Town
+  Leicester City          1-1 West Ham United
 [Sun Oct/28]
-  Burnley FC              - Chelsea FC
-  Crystal Palace          - Arsenal FC
-  Manchester United       - Everton FC
+  Burnley FC              0-4 Chelsea FC
+  Crystal Palace          2-2 Arsenal FC
+  Manchester United       2-1 Everton FC
 [Mon Oct/29]
-  Tottenham Hotspur       - Manchester City
+  Tottenham Hotspur       0-1 Manchester City
 
 
 Matchday 11
 [Sat Nov/3]
-  AFC Bournemouth         - Manchester United
-  Cardiff City            - Leicester City
-  Everton FC              - Brighton & Hove Albion
-  Manchester City         - Southampton FC
-  Newcastle United        - Watford FC
-  West Ham United         - Burnley FC
-  Arsenal FC              - Liverpool FC
+  AFC Bournemouth         1-2 Manchester United
+  Cardiff City            0-1 Leicester City
+  Everton FC              3-1 Brighton & Hove Albion
+  Newcastle United        1-0 Watford FC
+  West Ham United         4-2 Burnley FC
+  Arsenal FC              1-1 Liverpool FC
+  Wolverhampton Wanderers 2-3 Tottenham Hotspur
 [Sun Nov/4]
-  Wolverhampton Wanderers - Tottenham Hotspur
-  Chelsea FC              - Crystal Palace
+  Manchester City         6-1 Southampton FC
+  Chelsea FC              3-1 Crystal Palace
 [Mon Nov/5]
-  Huddersfield Town       - Fulham FC
+  Huddersfield Town       1-0 Fulham FC
 
 
 Matchday 12
 [Sat Nov/10]
-  Cardiff City            - Brighton & Hove Albion
-  Huddersfield Town       - West Ham United
-  Leicester City          - Burnley FC
-  Newcastle United        - AFC Bournemouth
-  Southampton FC          - Watford FC
-  Crystal Palace          - Tottenham Hotspur
+  Cardiff City            2-1 Brighton & Hove Albion
+  Huddersfield Town       1-1 West Ham United
+  Leicester City          0-0 Burnley FC
+  Newcastle United        2-1 AFC Bournemouth
+  Southampton FC          1-1 Watford FC
+  Crystal Palace          0-1 Tottenham Hotspur
 [Sun Nov/11]
-  Liverpool FC            - Fulham FC
-  Chelsea FC              - Everton FC
-  Arsenal FC              - Wolverhampton Wanderers
-  Manchester City         - Manchester United
+  Liverpool FC            2-0 Fulham FC
+  Chelsea FC              0-0 Everton FC
+  Arsenal FC              1-1 Wolverhampton Wanderers
+  Manchester City         3-1 Manchester United
 
 
 Matchday 13
 [Sat Nov/24]
-  Brighton & Hove Albion  - Leicester City
-  Everton FC              - Cardiff City
-  Fulham FC               - Southampton FC
-  Manchester United       - Crystal Palace
-  Watford FC              - Liverpool FC
-  West Ham United         - Manchester City
-  Tottenham Hotspur       - Chelsea FC
+  Brighton & Hove Albion  1-1 Leicester City
+  Everton FC              1-0 Cardiff City
+  Fulham FC               3-2 Southampton FC
+  Manchester United       0-0 Crystal Palace
+  Watford FC              0-3 Liverpool FC
+  West Ham United         0-4 Manchester City
+  Tottenham Hotspur       3-1 Chelsea FC
 [Sun Nov/25]
-  AFC Bournemouth         - Arsenal FC
-  Wolverhampton Wanderers - Huddersfield Town
+  AFC Bournemouth         1-2 Arsenal FC
+  Wolverhampton Wanderers 0-2 Huddersfield Town
 [Mon Nov/26]
-  Burnley FC              - Newcastle United
+  Burnley FC              1-2 Newcastle United
 
 
 Matchday 14
+[Fri Nov/30]
+  Cardiff City            2-1 Wolverhampton Wanderers
 [Sat Dec/1]
-  Arsenal FC              - Tottenham Hotspur
-  Cardiff City            - Wolverhampton Wanderers
-  Chelsea FC              - Fulham FC
-  Crystal Palace          - Burnley FC
-  Huddersfield Town       - Brighton & Hove Albion
-  Leicester City          - Watford FC
-  Liverpool FC            - Everton FC
-  Manchester City         - AFC Bournemouth
-  Newcastle United        - West Ham United
-  Southampton FC          - Manchester United
+  Crystal Palace          2-0 Burnley FC
+  Huddersfield Town       1-2 Brighton & Hove Albion
+  Leicester City          2-0 Watford FC
+  Manchester City         3-1 AFC Bournemouth
+  Newcastle United        0-3 West Ham United
+  Southampton FC          2-2 Manchester United
+[Sun Dec/2]
+  Arsenal FC              4-2 Tottenham Hotspur
+  Chelsea FC              2-0 Fulham FC
+  Liverpool FC            1-0 Everton FC
 
 
 Matchday 15
 [Tue Dec/4]
-  AFC Bournemouth         - Huddersfield Town
-  Brighton & Hove Albion  - Crystal Palace
-  Burnley FC              - Liverpool FC
-  Fulham FC               - Leicester City
-  Watford FC              - Manchester City
-  West Ham United         - Cardiff City
-  Wolverhampton Wanderers - Chelsea FC
-  Manchester United       - Arsenal FC
+  AFC Bournemouth         2-1 Huddersfield Town
+  Brighton & Hove Albion  3-1 Crystal Palace
+  Watford FC              1-2 Manchester City
+  West Ham United         3-1 Cardiff City
 [Wed Dec/5]
-  Everton FC              - Newcastle United
-  Tottenham Hotspur       - Southampton FC
-
+  Burnley FC              1-3 Liverpool FC
+  Fulham FC               1-1 Leicester City
+  Everton FC              1-1 Newcastle United
+  Tottenham Hotspur       3-1 Southampton FC
+  Wolverhampton Wanderers 2-1 Chelsea FC
+  Manchester United       2-2 Arsenal FC
 
 Matchday 16
 [Sat Dec/8]
@@ -242,12 +243,13 @@ Matchday 16
   Burnley FC              - Brighton & Hove Albion
   Cardiff City            - Southampton FC
   Chelsea FC              - Manchester City
-  Everton FC              - Watford FC
   Leicester City          - Tottenham Hotspur
   Manchester United       - Fulham FC
-  Newcastle United        - Wolverhampton Wanderers
   West Ham United         - Crystal Palace
-
+[Sun Dec/9]
+  Newcastle United        - Wolverhampton Wanderers
+[Mon Dec/10]
+  Everton FC              - Watford FC
 
 Matchday 17
 [Sat Dec/15]
