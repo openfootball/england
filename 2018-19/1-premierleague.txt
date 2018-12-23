@@ -324,7 +324,6 @@ Matchday 21
 [Thu Jan/3]
   Manchester City         - Liverpool FC
  
- 
 Matchday 22
 [Sat Jan/12]
   Brighton & Hove Albion  - Liverpool FC
@@ -332,26 +331,27 @@ Matchday 22
   Cardiff City            - Huddersfield Town
   Chelsea FC              - Newcastle United
   Crystal Palace          - Watford FC
-  Everton FC              - AFC Bournemouth
   Leicester City          - Southampton FC
-  Manchester City         - Wolverhampton Wanderers
-  Tottenham Hotspur       - Manchester United
   West Ham United         - Arsenal FC
-
-
+[Sun Jan/13]
+ Everton FC              - AFC Bournemouth
+ Tottenham Hotspur       - Manchester United
+[Mon Jan/14]
+ Manchester City         - Wolverhampton Wanderers
+ 
 Matchday 23
 [Sat Jan/19]
   Arsenal FC              - Chelsea FC
   AFC Bournemouth         - West Ham United
-  Fulham FC               - Tottenham Hotspur
-  Huddersfield Town       - Manchester City
   Liverpool FC            - Crystal Palace
   Manchester United       - Brighton & Hove Albion
   Newcastle United        - Cardiff City
   Southampton FC          - Everton FC
   Watford FC              - Burnley FC
   Wolverhampton Wanderers - Leicester City
-
+[Sun Jan/20]
+  Fulham FC               - Tottenham Hotspur
+  Huddersfield Town       - Manchester City
 
 Matchday 24
 [Tue Jan/29]
@@ -361,9 +361,9 @@ Matchday 24
   Huddersfield Town       - Everton FC
   Wolverhampton Wanderers - West Ham United
   Manchester United       - Burnley FC
+  Newcastle United        - Manchester City
 [Wed Jan/30]
   Southampton FC          - Crystal Palace
-  Newcastle United        - Manchester City
   Liverpool FC            - Leicester City
   Tottenham Hotspur       - Watford FC
 
