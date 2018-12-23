@@ -290,39 +290,41 @@ Matchday 19
   Leicester City          - Manchester City
   Liverpool FC            - Newcastle United
   Manchester United       - Huddersfield Town
-  Southampton FC          - West Ham United
   Tottenham Hotspur       - AFC Bournemouth
   Watford FC              - Chelsea FC
-
+[Thu Dec/27]
+  Southampton FC          - West Ham United
 
 Matchday 20
 [Sat Dec/29]
   Brighton & Hove Albion  - Everton FC
-  Burnley FC              - West Ham United
-  Crystal Palace          - Chelsea FC
   Fulham FC               - Huddersfield Town
   Leicester City          - Cardiff City
   Liverpool FC            - Arsenal FC
-  Manchester United       - AFC Bournemouth
-  Southampton FC          - Manchester City
   Tottenham Hotspur       - Wolverhampton Wanderers
   Watford FC              - Newcastle United
-
+[Sun Dec/30]
+  Burnley FC              - West Ham United
+  Crystal Palace          - Chelsea FC
+  Manchester United       - AFC Bournemouth
+  Southampton FC          - Manchester City
 
 Matchday 21
 [Tue Jan/1]
   Arsenal FC              - Fulham FC
-  AFC Bournemouth         - Watford FC
   Cardiff City            - Tottenham Hotspur
+  West Ham United         - Brighton & Hove Albion
+[Wed Jan/2]
+  AFC Bournemouth         - Watford FC
   Chelsea FC              - Southampton FC
   Everton FC              - Leicester City
   Huddersfield Town       - Burnley FC
-  Manchester City         - Liverpool FC
   Newcastle United        - Manchester United
-  West Ham United         - Brighton & Hove Albion
   Wolverhampton Wanderers - Crystal Palace
-
-
+[Thu Jan/3]
+  Manchester City         - Liverpool FC
+ 
+ 
 Matchday 22
 [Sat Jan/12]
   Brighton & Hove Albion  - Liverpool FC
