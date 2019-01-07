@@ -370,44 +370,50 @@ Matchday 24
 
 Matchday 25
 [Sat Feb/2]
-  Manchester City         - Arsenal FC
-  Leicester City          - Manchester United
   Cardiff City            - AFC Bournemouth
   Tottenham Hotspur       - Newcastle United
   Crystal Palace          - Fulham FC
   Burnley FC              - Southampton FC
   Chelsea FC              - Huddersfield Town
   Brighton & Hove Albion  - Watford FC
-  West Ham United         - Liverpool FC
   Everton FC              - Wolverhampton Wanderers
-
-
+[Sun Feb/3]
+  Manchester City         - Arsenal FC
+  Leicester City          - Manchester United
+[Mon Feb/4]
+  West Ham United         - Liverpool FC
+  
+  
 Matchday 26
 [Sat Feb/9]
   Huddersfield Town       - Arsenal FC
   Liverpool FC            - AFC Bournemouth
   Brighton & Hove Albion  - Burnley FC
   Southampton FC          - Cardiff City
-  Manchester City         - Chelsea FC
   Watford FC              - Everton FC
-  Tottenham Hotspur       - Leicester City
   Fulham FC               - Manchester United
-  Wolverhampton Wanderers - Newcastle United
   Crystal Palace          - West Ham United
-
-
+[Sun Feb/10]
+  Tottenham Hotspur       - Leicester City
+  Manchester City         - Chelsea FC
+[Mon Feb/11]
+  Wolverhampton Wanderers - Newcastle United
+  
+  
 Matchday 27
-[Sat Feb/23]
-  Chelsea FC              - Brighton & Hove Albion
-  Leicester City          - Crystal Palace
+[Fri Feb/22]
   West Ham United         - Fulham FC
-  Newcastle United        - Huddersfield Town
-  Manchester United       - Liverpool FC
-  Everton FC              - Manchester City
-  Arsenal FC              - Southampton FC
-  Burnley FC              - Tottenham Hotspur
   Cardiff City            - Watford FC
+[Sat Feb/23]
+  Leicester City          - Crystal Palace
+  Newcastle United        - Huddersfield Town
+  Everton FC              - Manchester City
+  Burnley FC              - Tottenham Hotspur
   AFC Bournemouth         - Wolverhampton Wanderers
+[Sun Feb/24]
+  Chelsea FC              - Brighton & Hove Albion
+  Manchester United       - Liverpool FC
+  Arsenal FC              - Southampton FC
 
 
 Matchday 28
