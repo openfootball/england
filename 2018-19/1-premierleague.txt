@@ -451,7 +451,7 @@ Matchday 29
 Matchday 30
 [Sat Mar/9]
   Huddersfield Town       - AFC Bournemouth
-  Crystal Palace          1-1 Brighton & Hove Albion
+  Crystal Palace          1-2 Brighton & Hove Albion
   Leicester City          - Fulham FC
   Manchester City         - Watford FC
   Cardiff City            - West Ham United
@@ -469,7 +469,7 @@ Matchday 31
   Brighton & Hove Albion  - Cardiff City       postponed
   West Ham United         - Huddersfield Town
   Burnley FC              - Leicester City
-  Manchester United       - Manchester City    postponed
+  Manchester United       - Manchester City    postponed 24.4.
   AFC Bournemouth         - Newcastle United
   Watford FC              - Southampton FC     postponed
 [Sun Mar/17]
@@ -536,6 +536,11 @@ Matchday 35
   Wolverhampton Wanderers - Brighton & Hove Albion
 
 
+## in addition matchday 31
+[Wed Apr/24]
+  Manchester United       - Manchester City 
+  
+  
 Matchday 36
 [Sat Apr/27]
   Brighton & Hove Albion  - Newcastle United
