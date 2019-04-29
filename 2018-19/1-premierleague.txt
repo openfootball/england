@@ -565,21 +565,24 @@ Matchday 36
 # 3 Aufsteiger to Premiere League 2019/20:
   Norwich City
   Sheffield United
-  Aus 4 Teams im Play-off System ermittelt
+  Either Leeds United, West bromwich Albion, Aston Villa or Derby County, Middlesbrough FC, Bristol City.
   
   
 Matchday 37
+[Fri May/3]
+  Everton FC              - Burnley FC
 [Sat May/4]
   Arsenal FC              - Brighton & Hove Albion
+  Chelsea FC              - Watford FC
+  Huddersfield Town       - Manchester United
+[Sun May/5]  
   AFC Bournemouth         - Tottenham Hotspur
   Cardiff City            - Crystal Palace
-  Chelsea FC              - Watford FC
-  Everton FC              - Burnley FC
-  Huddersfield Town       - Manchester United
-  Manchester City         - Leicester City
   Newcastle United        - Liverpool FC
   West Ham United         - Southampton FC
   Wolverhampton Wanderers - Fulham FC
+[Mon May/6)
+  Manchester City         - Leicester City
 
 
 Matchday 38
@@ -594,3 +597,6 @@ Matchday 38
   Southampton FC          - Huddersfield Town
   Tottenham Hotspur       - Everton FC
   Watford FC              - West Ham United
+
+
+# Finish Premiere League 2018/19
