@@ -565,7 +565,7 @@ Matchday 36
 # 3 Aufsteiger to Premiere League 2019/20:
   Norwich City
   Sheffield United
-  Either Leeds United, West bromwich Albion, Aston Villa or Derby County, Middlesbrough FC, Bristol City.
+  Either Leeds United, West Bromwich Albion, Aston Villa or Derby County, Middlesbrough FC, Bristol City.
   
   
 Matchday 37
@@ -588,7 +588,13 @@ Matchday 37
 # 3. Absteiger Premiere League 2018/19:
   Cardiff City
 
-
+# 3. Aufsteiger to Premiere League 2019/20:
+  Play-Off Winner:
+  Leeds United - Derby County
+  West Bromwich Albions - Aston Villa
+  Leeds United/ Derby Country - West Bromwich Albions/ Aston Villa
+  
+  
 Matchday 38
 [Sun May/12]
   Brighton & Hove Albion  - Manchester City
