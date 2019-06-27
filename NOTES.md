@@ -22,3 +22,11 @@ Official site - [`www.premierleague.com`](http://www.premierleague.com)
 2014/15:
 - (++)  Leicester City, Burnley, Queens Park Rangers
 - (--)  Cardiff City, Fulham, Norwich City
+
+Championship
+
+2015/16:
+- ++ (from League One) Bristol City, Milton Keynes Dons, Preston North End 
+- ++ (from Premier League) Hull City, Burnley, Queens Park Rangers
+-  -- (to League One) Millwall, Wigan Athletic, Blackpool
+-  -- (to Premier League) Bournemouth, Watford, Norwich City
