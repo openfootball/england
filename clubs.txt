@@ -1,0 +1,32 @@
+####################################
+# English League Teams
+#
+#  note: three letter codes (tags) taken from official premierleague.com site
+
+Key,           Name,                    Code
+chelsea,       Chelsea FC,              CHE
+arsenal,       Arsenal FC,              ARS
+tottenham,     Tottenham Hotspur,       TOT
+westham,       West Ham United,         WHU
+crystalpalace, Crystal Palace,          CRY
+manutd,        Manchester United,       MUN
+mancity,       Manchester City,         MCI
+everton,       Everton FC,              EVE
+liverpool,     Liverpool FC,            LIV
+westbrom,      West Bromwich Albion,    WBA
+newcastle,     Newcastle United,        NEW
+stoke,         Stoke City,              STK
+sunderland,    Sunderland AFC,          SUN
+astonvilla,    Aston Villa FC,          AVL
+southampton,   Southampton FC,          SOU
+leicester,     Leicester City,          LEI
+bournemouth,   AFC Bournemouth,         BOU
+norwich,       Norwich City,            NOR
+watford,       Watford FC,              WAT
+burnley,       Burnley FC,              BUR
+hull,          Hull City,               HUL
+qpr,           Queens Park Rangers,     QPR
+fulham,        Fulham FC,               FUL
+middlesbrough, Middlesbrough FC,        MFC
+reading,       Reading FC,              RDG
+wigan,         Wigan Athletic,          WIG
