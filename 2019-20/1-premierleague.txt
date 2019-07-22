@@ -1,0 +1,538 @@
+###################################
+# English Premier League 2019/20
+
+
+Matchday 1
+[Fri Aug/9]
+  FC Liverpool            - Norwich City
+[Sat Aug/10]
+  West Ham United         - Manchester City
+  Crystal Palace          - FC Everton
+  Leicester City          - Wolverhampton Wanderers
+  FC Watford              - Brighton & Hove Albion
+  FC Burnley              - FC Southampton
+  AFC Bournemouth         - Sheffield United
+  Tottenham Hotspur       - Aston Villa
+[Sun Aug/11]
+  Newcastle United        - FC Arsenal
+  Manchester United       - FC Chelsea
+
+
+Matchday 2
+[Sat Aug/17]
+  FC Arsenal              - FC Burnley
+  Aston Villa             - AFC Bournemouth
+  FC Chelsea              - Leicester City
+  FC Everton              - FC Watford
+  FC Southampton          - FC Liverpool
+  Manchester City         - Tottenham Hotspur
+  Wolverhampton Wanderers - Manchester United
+  Sheffield United        - Crystal Palace
+  Norwich City            - Newcastle United
+  Brighton & Hove Albion  - West Ham United
+
+
+Matchday 3
+[Sat Aug/24]
+  Aston Villa             - FC Everton
+  FC Liverpool            - FC Arsenal
+  Manchester United       - Crystal Palace
+  Tottenham Hotspur       - Newcastle United
+  Wolverhampton Wanderers - FC Burnley
+  FC Watford              - West Ham United
+  Sheffield United        - Leicester City
+  Norwich City            - FC Chelsea
+  AFC Bournemouth         - Manchester City
+  Brighton & Hove Albion  - FC Southampton
+
+
+Matchday 4
+[Sat Aug/31]
+  FC Arsenal              - Tottenham Hotspur
+  FC Chelsea              - Sheffield United
+  Crystal Palace          - Aston Villa
+  FC Everton              - Wolverhampton Wanderers
+  Leicester City          - AFC Bournemouth
+  Newcastle United        - FC Watford
+  FC Southampton          - Manchester United
+  West Ham United         - Norwich City
+  Manchester City         - Brighton & Hove Albion
+  FC Burnley              - FC Liverpool
+
+
+Matchday 5
+[Sat Sep/14]
+  Aston Villa             - West Ham United
+  FC Liverpool            - Newcastle United
+  Manchester United       - Leicester City
+  Tottenham Hotspur       - Crystal Palace
+  Wolverhampton Wanderers - FC Chelsea
+  FC Watford              - FC Arsenal
+  Sheffield United        - FC Southampton
+  Norwich City            - Manchester City
+  AFC Bournemouth         - FC Everton
+  Brighton & Hove Albion  - FC Burnley
+
+
+Matchday 6
+[Sat Sep/21]
+  FC Arsenal              - Aston Villa
+  FC Chelsea              - FC Liverpool
+  Crystal Palace          - Wolverhampton Wanderers
+  FC Everton              - Sheffield United
+  Leicester City          - Tottenham Hotspur
+  Newcastle United        - Brighton & Hove Albion
+  FC Southampton          - AFC Bournemouth
+  West Ham United         - Manchester United
+  Manchester City         - FC Watford
+  FC Burnley              - Norwich City
+
+
+Matchday 7
+[Sat Sep/28]
+  Aston Villa             - FC Burnley
+  FC Chelsea              - Brighton & Hove Albion
+  Crystal Palace          - Norwich City
+  FC Everton              - Manchester City
+  Leicester City          - Newcastle United
+  Manchester United       - FC Arsenal
+  Tottenham Hotspur       - FC Southampton
+  Wolverhampton Wanderers - FC Watford
+  Sheffield United        - FC Liverpool
+  AFC Bournemouth         - West Ham United
+
+
+Matchday 8
+[Sat Oct/5]
+  FC Arsenal              - AFC Bournemouth
+  FC Liverpool            - Leicester City
+  Newcastle United        - Manchester United
+  FC Southampton          - FC Chelsea
+  West Ham United         - Crystal Palace
+  Manchester City         - Wolverhampton Wanderers
+  FC Watford              - Sheffield United
+  Norwich City            - Aston Villa
+  FC Burnley              - FC Everton
+  Brighton & Hove Albion  - Tottenham Hotspur
+
+
+Matchday 9
+[Sat Oct/19]
+  Aston Villa             - Brighton & Hove Albion
+  FC Chelsea              - Newcastle United
+  Crystal Palace          - Manchester City
+  FC Everton              - West Ham United
+  Leicester City          - FC Burnley
+  Manchester United       - FC Liverpool
+  Tottenham Hotspur       - FC Watford
+  Wolverhampton Wanderers - FC Southampton
+  Sheffield United        - FC Arsenal
+  AFC Bournemouth         - Norwich City
+
+
+Matchday 10
+[Sat Oct/26]
+  FC Arsenal              - Crystal Palace
+  FC Liverpool            - Tottenham Hotspur
+  Newcastle United        - Wolverhampton Wanderers
+  FC Southampton          - Leicester City
+  West Ham United         - Sheffield United
+  Manchester City         - Aston Villa
+  FC Watford              - AFC Bournemouth
+  Norwich City            - Manchester United
+  FC Burnley              - FC Chelsea
+  Brighton & Hove Albion  - FC Everton
+
+
+Matchday 11
+[Sat Nov/2]
+  FC Arsenal              - Wolverhampton Wanderers
+  Aston Villa             - FC Liverpool
+  Crystal Palace          - Leicester City
+  FC Everton              - Tottenham Hotspur
+  West Ham United         - Newcastle United
+  Manchester City         - FC Southampton
+  FC Watford              - FC Chelsea
+  Sheffield United        - FC Burnley
+  AFC Bournemouth         - Manchester United
+  Brighton & Hove Albion  - Norwich City
+
+
+Matchday 12
+[Sat Nov/9]
+  FC Chelsea              - Crystal Palace
+  Leicester City          - FC Arsenal
+  FC Liverpool            - Manchester City
+  Manchester United       - Brighton & Hove Albion
+  Newcastle United        - AFC Bournemouth
+  FC Southampton          - FC Everton
+  Tottenham Hotspur       - Sheffield United
+  Wolverhampton Wanderers - Aston Villa
+  Norwich City            - FC Watford
+  FC Burnley              - West Ham United
+
+
+Matchday 13
+[Sat Nov/23]
+  FC Arsenal              - FC Southampton
+  Aston Villa             - Newcastle United
+  Crystal Palace          - FC Liverpool
+  FC Everton              - Norwich City
+  West Ham United         - Tottenham Hotspur
+  Manchester City         - FC Chelsea
+  FC Watford              - FC Burnley
+  Sheffield United        - Manchester United
+  AFC Bournemouth         - Wolverhampton Wanderers
+  Brighton & Hove Albion  - Leicester City
+
+
+Matchday 14
+[Sat Nov/30]
+  FC Chelsea              - West Ham United
+  Leicester City          - FC Everton
+  FC Liverpool            - Brighton & Hove Albion
+  Manchester United       - Aston Villa
+  Newcastle United        - Manchester City
+  FC Southampton          - FC Watford
+  Tottenham Hotspur       - AFC Bournemouth
+  Wolverhampton Wanderers - Sheffield United
+  Norwich City            - FC Arsenal
+  FC Burnley              - Crystal Palace
+
+
+Matchday 15
+[Tue Dec/3]
+  FC Arsenal              - Brighton & Hove Albion
+  Leicester City          - FC Watford
+  Manchester United       - Tottenham Hotspur
+  Wolverhampton Wanderers - West Ham United
+  Sheffield United        - Newcastle United
+  FC Burnley              - Manchester City
+[Wed Dec/4]
+  FC Chelsea              - Aston Villa
+  Crystal Palace          - AFC Bournemouth
+  FC Liverpool            - FC Everton
+  FC Southampton          - Norwich City
+
+
+Matchday 16
+[Sat Dec/7]
+  Aston Villa             - Leicester City
+  FC Everton              - FC Chelsea
+  Newcastle United        - FC Southampton
+  Tottenham Hotspur       - FC Burnley
+  West Ham United         - FC Arsenal
+  Manchester City         - Manchester United
+  FC Watford              - Crystal Palace
+  Norwich City            - Sheffield United
+  AFC Bournemouth         - FC Liverpool
+  Brighton & Hove Albion  - Wolverhampton Wanderers
+
+
+Matchday 17
+[Sat Dec/14]
+  FC Arsenal              - Manchester City
+  FC Chelsea              - AFC Bournemouth
+  Crystal Palace          - Brighton & Hove Albion
+  Leicester City          - Norwich City
+  FC Liverpool            - FC Watford
+  Manchester United       - FC Everton
+  FC Southampton          - West Ham United
+  Wolverhampton Wanderers - Tottenham Hotspur
+  Sheffield United        - Aston Villa
+  FC Burnley              - Newcastle United
+
+
+Matchday 18
+[Sat Dec/21]
+  Aston Villa             - FC Southampton
+  FC Everton              - FC Arsenal
+  Newcastle United        - Crystal Palace
+  Tottenham Hotspur       - FC Chelsea
+  West Ham United         - FC Liverpool
+  Manchester City         - Leicester City
+  FC Watford              - Manchester United
+  Norwich City            - Wolverhampton Wanderers
+  AFC Bournemouth         - FC Burnley
+  Brighton & Hove Albion  - Sheffield United
+
+
+Matchday 19
+[Thu Dec/26]
+  Aston Villa             - Norwich City
+  FC Chelsea              - FC Southampton
+  Crystal Palace          - West Ham United
+  FC Everton              - FC Burnley
+  Leicester City          - FC Liverpool
+  Manchester United       - Newcastle United
+  Tottenham Hotspur       - Brighton & Hove Albion
+  Wolverhampton Wanderers - Manchester City
+  Sheffield United        - FC Watford
+  AFC Bournemouth         - FC Arsenal
+
+
+Matchday 20
+[Sat Dec/28]
+  FC Arsenal              - FC Chelsea
+  FC Liverpool            - Wolverhampton Wanderers
+  Newcastle United        - FC Everton
+  FC Southampton          - Crystal Palace
+  West Ham United         - Leicester City
+  Manchester City         - Sheffield United
+  FC Watford              - Aston Villa
+  Norwich City            - Tottenham Hotspur
+  FC Burnley              - Manchester United
+  Brighton & Hove Albion  - AFC Bournemouth
+
+
+Matchday 21
+[Wed Jan/1]
+  FC Arsenal              - Manchester United
+  FC Liverpool            - Sheffield United
+  Newcastle United        - Leicester City
+  FC Southampton          - Tottenham Hotspur
+  West Ham United         - AFC Bournemouth
+  Manchester City         - FC Everton
+  FC Watford              - Wolverhampton Wanderers
+  Norwich City            - Crystal Palace
+  FC Burnley              - Aston Villa
+  Brighton & Hove Albion  - FC Chelsea
+
+
+Matchday 22
+[Sat Jan/11]
+  Aston Villa             - Manchester City
+  FC Chelsea              - FC Burnley
+  Crystal Palace          - FC Arsenal
+  FC Everton              - Brighton & Hove Albion
+  Leicester City          - FC Southampton
+  Manchester United       - Norwich City
+  Tottenham Hotspur       - FC Liverpool
+  Wolverhampton Wanderers - Newcastle United
+  Sheffield United        - West Ham United
+  AFC Bournemouth         - FC Watford
+
+
+Matchday 23
+[Sat Jan/18]
+  FC Arsenal              - Sheffield United
+  FC Liverpool            - Manchester United
+  Newcastle United        - FC Chelsea
+  FC Southampton          - Wolverhampton Wanderers
+  West Ham United         - FC Everton
+  Manchester City         - Crystal Palace
+  FC Watford              - Tottenham Hotspur
+  Norwich City            - AFC Bournemouth
+  FC Burnley              - Leicester City
+  Brighton & Hove Albion  - Aston Villa
+
+
+Matchday 24
+[Fri Feb/21]
+  Aston Villa             - FC Watford
+  FC Everton              - Newcastle United
+  Leicester City          - West Ham United
+  Manchester United       - FC Burnley
+  Wolverhampton Wanderers - FC Liverpool
+  Sheffield United        - Manchester City
+  AFC Bournemouth         - Brighton & Hove Albion
+[Sat Feb/22]
+  FC Chelsea              - FC Arsenal
+  Crystal Palace          - FC Southampton
+  Tottenham Hotspur       - Norwich City
+
+
+Matchday 25
+[Sat Feb/1]
+  Crystal Palace          - Sheffield United
+  Leicester City          - FC Chelsea
+  FC Liverpool            - FC Southampton
+  Manchester United       - Wolverhampton Wanderers
+  Newcastle United        - Norwich City
+  Tottenham Hotspur       - Manchester City
+  West Ham United         - Brighton & Hove Albion
+  FC Watford              - FC Everton
+  FC Burnley              - FC Arsenal
+  AFC Bournemouth         - Aston Villa
+
+
+Matchday 26
+[Sat Feb/8]
+  FC Arsenal              - Newcastle United
+  Aston Villa             - Tottenham Hotspur
+  FC Chelsea              - Manchester United
+  FC Everton              - Crystal Palace
+  FC Southampton          - FC Burnley
+  Manchester City         - West Ham United
+  Wolverhampton Wanderers - Leicester City
+  Sheffield United        - AFC Bournemouth
+  Norwich City            - FC Liverpool
+  Brighton & Hove Albion  - FC Watford
+
+
+Matchday 27
+[Sat Feb/22]
+  FC Arsenal              - FC Everton
+  FC Chelsea              - Tottenham Hotspur
+  Crystal Palace          - Newcastle United
+  Leicester City          - Manchester City
+  FC Liverpool            - West Ham United
+  Manchester United       - FC Watford
+  FC Southampton          - Aston Villa
+  Wolverhampton Wanderers - Norwich City
+  Sheffield United        - Brighton & Hove Albion
+  FC Burnley              - AFC Bournemouth
+
+
+Matchday 28
+[Sat Feb/29]
+  Aston Villa             - Sheffield United
+  FC Everton              - Manchester United
+  Newcastle United        - FC Burnley
+  Tottenham Hotspur       - Wolverhampton Wanderers
+  West Ham United         - FC Southampton
+  Manchester City         - FC Arsenal
+  FC Watford              - FC Liverpool
+  Norwich City            - Leicester City
+  AFC Bournemouth         - FC Chelsea
+  Brighton & Hove Albion  - Crystal Palace
+
+
+Matchday 29
+[Sat Mar/7]
+  FC Arsenal              - West Ham United
+  FC Chelsea              - FC Everton
+  Crystal Palace          - FC Watford
+  Leicester City          - Aston Villa
+  FC Liverpool            - AFC Bournemouth
+  Manchester United       - Manchester City
+  FC Southampton          - Newcastle United
+  Wolverhampton Wanderers - Brighton & Hove Albion
+  Sheffield United        - Norwich City
+  FC Burnley              - Tottenham Hotspur
+
+
+Matchday 30
+[Sat Mar/14]
+  Aston Villa             - FC Chelsea
+  FC Everton              - FC Liverpool
+  Newcastle United        - Sheffield United
+  Tottenham Hotspur       - Manchester United
+  West Ham United         - Wolverhampton Wanderers
+  Manchester City         - FC Burnley
+  FC Watford              - Leicester City
+  Norwich City            - FC Southampton
+  AFC Bournemouth         - Crystal Palace
+  Brighton & Hove Albion  - FC Arsenal
+
+
+Matchday 31
+[Sat Mar/21]
+  FC Chelsea              - Manchester City
+  Leicester City          - Brighton & Hove Albion
+  FC Liverpool            - Crystal Palace
+  Manchester United       - Sheffield United
+  Newcastle United        - Aston Villa
+  FC Southampton          - FC Arsenal
+  Tottenham Hotspur       - West Ham United
+  Wolverhampton Wanderers - AFC Bournemouth
+  Norwich City            - FC Everton
+  FC Burnley              - FC Watford
+
+
+Matchday 32
+[Sat Apr/4]
+  FC Arsenal              - Norwich City
+  Aston Villa             - Wolverhampton Wanderers
+  Crystal Palace          - FC Burnley
+  FC Everton              - Leicester City
+  West Ham United         - FC Chelsea
+  Manchester City         - FC Liverpool
+  FC Watford              - FC Southampton
+  Sheffield United        - Tottenham Hotspur
+  AFC Bournemouth         - Newcastle United
+  Brighton & Hove Albion  - Manchester United
+
+
+Matchday 33
+[Sat Apr/11]
+  FC Chelsea              - FC Watford
+  Leicester City          - Crystal Palace
+  FC Liverpool            - Aston Villa
+  Manchester United       - AFC Bournemouth
+  Newcastle United        - West Ham United
+  FC Southampton          - Manchester City
+  Tottenham Hotspur       - FC Everton
+  Wolverhampton Wanderers - FC Arsenal
+  Norwich City            - Brighton & Hove Albion
+  FC Burnley              - Sheffield United
+
+
+Matchday 34
+[Sat Apr/18]
+  FC Arsenal              - Leicester City
+  Aston Villa             - Manchester United
+  Crystal Palace          - FC Chelsea
+  FC Everton              - FC Southampton
+  West Ham United         - FC Burnley
+  Manchester City         - Newcastle United
+  FC Watford              - Norwich City
+  Sheffield United        - Wolverhampton Wanderers
+  AFC Bournemouth         - Tottenham Hotspur
+  Brighton & Hove Albion  - FC Liverpool
+
+
+Matchday 35
+[Sat Apr/25]
+  Aston Villa             - Crystal Palace
+  FC Liverpool            - FC Burnley
+  Manchester United       - FC Southampton
+  Tottenham Hotspur       - FC Arsenal
+  Wolverhampton Wanderers - FC Everton
+  FC Watford              - Newcastle United
+  Sheffield United        - FC Chelsea
+  Norwich City            - West Ham United
+  AFC Bournemouth         - Leicester City
+  Brighton & Hove Albion  - Manchester City
+
+
+Matchday 36
+[Sat May/2]
+  FC Arsenal              - FC Liverpool
+  FC Chelsea              - Norwich City
+  Crystal Palace          - Manchester United
+  FC Everton              - Aston Villa
+  Leicester City          - Sheffield United
+  Newcastle United        - Tottenham Hotspur
+  FC Southampton          - Brighton & Hove Albion
+  West Ham United         - FC Watford
+  Manchester City         - AFC Bournemouth
+  FC Burnley              - Wolverhampton Wanderers
+
+
+Matchday 37
+[Sat May/9]
+  Aston Villa             - FC Arsenal
+  FC Liverpool            - FC Chelsea
+  Manchester United       - West Ham United
+  Tottenham Hotspur       - Leicester City
+  Wolverhampton Wanderers - Crystal Palace
+  FC Watford              - Manchester City
+  Sheffield United        - FC Everton
+  Norwich City            - FC Burnley
+  AFC Bournemouth         - FC Southampton
+  Brighton & Hove Albion  - Newcastle United
+
+
+Matchday 38
+[Sun May/17]
+  FC Arsenal              - FC Watford
+  FC Chelsea              - Wolverhampton Wanderers
+  Crystal Palace          - Tottenham Hotspur
+  FC Everton              - AFC Bournemouth
+  Leicester City          - Manchester United
+  Newcastle United        - FC Liverpool
+  FC Southampton          - Sheffield United
+  West Ham United         - Aston Villa
+  Manchester City         - Norwich City
+  FC Burnley              - Brighton & Hove Albion
