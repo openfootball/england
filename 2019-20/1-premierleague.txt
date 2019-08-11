@@ -8,7 +8,6 @@ Matchday 1
 [Sat Aug/10]
   West Ham United         - Manchester City
   Crystal Palace          - FC Everton
-  Leicester City          - Wolverhampton Wanderers
   FC Watford              - Brighton & Hove Albion
   FC Burnley              - FC Southampton
   AFC Bournemouth         - Sheffield United
@@ -16,7 +15,7 @@ Matchday 1
 [Sun Aug/11]
   Newcastle United        - FC Arsenal
   Manchester United       - FC Chelsea
-
+  Leicester City          - Wolverhampton Wanderers
 
 Matchday 2
 [Sat Aug/17]
