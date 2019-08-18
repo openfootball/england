@@ -17,6 +17,7 @@ Matchday 1
   Manchester United       4-0 FC Chelsea
   Leicester City          0-0 Wolverhampton Wanderers
 
+
 Matchday 2
 [Sat Aug/17]
   FC Arsenal              2-1 FC Burnley
@@ -28,24 +29,27 @@ Matchday 2
   Brighton & Hove Albion  1-1 West Ham United
 [Sun Aug/18]
   FC Chelsea              - Leicester City
-  Wolverhampton Wanderers - Manchester United
   Sheffield United        - Crystal Palace
+[Mon Aug/19]
+  Wolverhampton Wanderers - Manchester United
   
   
 Matchday 3
-[Sat Aug/24]
+[Fri Aug/23]
   Aston Villa             - FC Everton
+[Sat Aug/24]
   FC Liverpool            - FC Arsenal
   Manchester United       - Crystal Palace
-  Tottenham Hotspur       - Newcastle United
   Wolverhampton Wanderers - FC Burnley
   FC Watford              - West Ham United
   Sheffield United        - Leicester City
   Norwich City            - FC Chelsea
-  AFC Bournemouth         - Manchester City
   Brighton & Hove Albion  - FC Southampton
-
-
+[Sun Aug/25]
+  AFC Bournemouth         - Manchester City
+  Tottenham Hotspur       - Newcastle United
+  
+  
 Matchday 4
 [Sat Aug/31]
   FC Arsenal              - Tottenham Hotspur
