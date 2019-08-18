@@ -102,55 +102,61 @@ Matchday 7
   Aston Villa             - FC Burnley
   FC Chelsea              - Brighton & Hove Albion
   Crystal Palace          - Norwich City
-  FC Everton              - Manchester City
   Leicester City          - Newcastle United
-  Manchester United       - FC Arsenal
   Tottenham Hotspur       - FC Southampton
   Wolverhampton Wanderers - FC Watford
   Sheffield United        - FC Liverpool
   AFC Bournemouth         - West Ham United
-
+[Sun Sep/29]
+  FC Everton              - Manchester City
+[Mon Sep/30]
+  Manchester United       - FC Arsenal
+  
 
 Matchday 8
 [Sat Oct/5]
-  FC Arsenal              - AFC Bournemouth
   FC Liverpool            - Leicester City
-  Newcastle United        - Manchester United
-  FC Southampton          - FC Chelsea
   West Ham United         - Crystal Palace
   Manchester City         - Wolverhampton Wanderers
   FC Watford              - Sheffield United
   Norwich City            - Aston Villa
   FC Burnley              - FC Everton
   Brighton & Hove Albion  - Tottenham Hotspur
+[Sun Oct/6]
+  Newcastle United        - Manchester United
+  FC Southampton          - FC Chelsea
+  FC Arsenal              - AFC Bournemouth
 
 
 Matchday 9
 [Sat Oct/19]
   Aston Villa             - Brighton & Hove Albion
   FC Chelsea              - Newcastle United
-  Crystal Palace          - Manchester City
   FC Everton              - West Ham United
   Leicester City          - FC Burnley
   Manchester United       - FC Liverpool
   Tottenham Hotspur       - FC Watford
   Wolverhampton Wanderers - FC Southampton
-  Sheffield United        - FC Arsenal
   AFC Bournemouth         - Norwich City
-
+[Sun Oct/20]
+  Crystal Palace          - Manchester City
+[Mon Oct/21]
+  Sheffield United        - FC Arsenal
 
 Matchday 10
-[Sat Oct/26]
-  FC Arsenal              - Crystal Palace
-  FC Liverpool            - Tottenham Hotspur
-  Newcastle United        - Wolverhampton Wanderers
+[Fri Oct/25]
   FC Southampton          - Leicester City
+[Sat Oct/26]
   West Ham United         - Sheffield United
   Manchester City         - Aston Villa
   FC Watford              - AFC Bournemouth
-  Norwich City            - Manchester United
   FC Burnley              - FC Chelsea
   Brighton & Hove Albion  - FC Everton
+[Sun Oct/27]
+  FC Arsenal              - Crystal Palace
+  FC Liverpool            - Tottenham Hotspur
+  Newcastle United        - Wolverhampton Wanderers
+  Norwich City            - Manchester United
 
 
 Matchday 11
