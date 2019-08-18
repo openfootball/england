@@ -52,45 +52,50 @@ Matchday 3
   
 Matchday 4
 [Sat Aug/31]
-  FC Arsenal              - Tottenham Hotspur
   FC Chelsea              - Sheffield United
   Crystal Palace          - Aston Villa
-  FC Everton              - Wolverhampton Wanderers
   Leicester City          - AFC Bournemouth
   Newcastle United        - FC Watford
   FC Southampton          - Manchester United
   West Ham United         - Norwich City
   Manchester City         - Brighton & Hove Albion
   FC Burnley              - FC Liverpool
+[Sun Sep/1]
+  FC Arsenal              - Tottenham Hotspur
+  FC Everton              - Wolverhampton Wanderers
 
 
 Matchday 5
 [Sat Sep/14]
-  Aston Villa             - West Ham United
   FC Liverpool            - Newcastle United
   Manchester United       - Leicester City
   Tottenham Hotspur       - Crystal Palace
   Wolverhampton Wanderers - FC Chelsea
-  FC Watford              - FC Arsenal
   Sheffield United        - FC Southampton
   Norwich City            - Manchester City
-  AFC Bournemouth         - FC Everton
   Brighton & Hove Albion  - FC Burnley
-
-
+[Sun Sep/15]
+  AFC Bournemouth         - FC Everton
+  FC Watford              - FC Arsenal
+[Mon Sep/16]
+  Aston Villa             - West Ham United
+  
+  
 Matchday 6
+[Fri Sep/20]
+  FC Southampton          - AFC Bournemouth
 [Sat Sep/21]
-  FC Arsenal              - Aston Villa
-  FC Chelsea              - FC Liverpool
   Crystal Palace          - Wolverhampton Wanderers
   FC Everton              - Sheffield United
   Leicester City          - Tottenham Hotspur
   Newcastle United        - Brighton & Hove Albion
-  FC Southampton          - AFC Bournemouth
-  West Ham United         - Manchester United
   Manchester City         - FC Watford
   FC Burnley              - Norwich City
-
+[Sun Sep/22]
+  FC Arsenal              - Aston Villa
+  FC Chelsea              - FC Liverpool
+  West Ham United         - Manchester United
+  
 
 Matchday 7
 [Sat Sep/28]
