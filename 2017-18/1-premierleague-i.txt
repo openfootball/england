@@ -1,5 +1,4 @@
-####################################
-# English Premier League 2017/18
+= English Premier League 2017/18
 
 
 Matchday 1
@@ -27,7 +26,7 @@ Matchday 2
   Burnley FC               0-1  West Bromwich Albion
   Leicester City           2-0  Brighton & Hove Albion
   Liverpool FC             1-0  Crystal Palace
-  Southampton FC           3-2  West Ham United          
+  Southampton FC           3-2  West Ham United
   Stoke City               1-0  Arsenal FC
 [Sun Aug/20]
   Huddersfield Town        1-0  Newcastle United
@@ -81,7 +80,7 @@ Matchday 5
 [Sun Sept/17]
   Chelsea FC               0-0  Arsenal FC
   Manchester United        4-0  Everton FC
-  
+
 Matchday 6
 
 [Sat Sept/23]
@@ -128,7 +127,7 @@ Matchday 8
   Southampton FC           2-2  Newcastle United
 [Mon Oct/16]
   Leicester City           1-1  West Bromwich Albion
-  
+
 Matchday 9
 
 [Fri Oct/20]
@@ -160,7 +159,7 @@ Matchday 10
   Leicester City           2-0  Everton FC
 [Mon Oct/30]
   Burnley FC               1-0  Newcastle United
-  
+
 Matchday 11
 
 [Sat Nov/4]
@@ -191,7 +190,7 @@ Matchday 12
   Watford FC               2-0  West Ham United
 [Mon Nov/20)
   Brighton & Hove Albion   2-2  Stoke City
-  
+
 Matchday 13
 
 [Fri Nov/24]
@@ -207,7 +206,7 @@ Matchday 13
    Burnley FC              0-1  Arsenal FC
    Southampton FC          4-1  Everton FC
    Huddersfield Town       1-2  Manchester City
-   
+
 Matchday 14
 
 [Tue Nov/28]
@@ -222,7 +221,7 @@ Matchday 14
   Stoke City               0-3  Liverpool FC
   AFC Bournemouth          1-2  Burnley FC
   Arsenal FC               5-0  Huddersfield Town
-  
+
 Matchday 15
 
 [Sat Dec/2]
@@ -237,7 +236,7 @@ Matchday 15
 [Sun Dec/3]
   AFC Bournemouth          1-1  Southampton FC
   Manchester City          2-1  West Ham United
-  
+
 Matchday 16
 
 [Sat Dec/9]
@@ -252,7 +251,7 @@ Matchday 16
   Liverpool FC             1-1  Everton FC
   Manchester United        1-2  Manchester City
   Southampton FC           1-1  Arsenal FC
-  
+
 Matchday 17
 
 [Tue Dec/12]
@@ -267,7 +266,7 @@ Matchday 17
   Manchester United        1-0  AFC Bournemouth
   Swansea City             0-4  Manchester City
   West Ham United          0-0  Arsenal FC
-  
+
 Matchday 18
 
 [Sat Dec/16]
@@ -314,7 +313,7 @@ Matchday 20
   Newcastle United         0-1  Manchester City
 [Thu Dec/28]
   Crystal Palace           2-3  Arsenal FC
-  
+
 Matchday 21
 
 [Sat Dec/30]
@@ -330,4 +329,3 @@ Matchday 21
   West Bromwich Albion     1-1  Arsenal FC
 [Thu Jan/4]
   Tottenham Hotspur        1-1  West Ham United
-   
