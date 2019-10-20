@@ -1,5 +1,4 @@
-####################################
-# English Premier League 2015/16
+= English Premier League 2015/16
 
 
 Matchday 1
@@ -266,4 +265,3 @@ Sunderland AFC           0-1  Liverpool FC
 Watford FC               1-2  Tottenham Hotspur
 West Bromwich Albion     1-0  Newcastle United
 West Ham United          2-1  Southampton FC
-

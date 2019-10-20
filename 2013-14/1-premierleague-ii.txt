@@ -1,5 +1,4 @@
-###################################
-# English Premier League 2013/14
+= English Premier League 2013/14
 
 
 Matchday 20
@@ -37,136 +36,136 @@ Matchday 21
 Matchday 22
 
 [Sat Jan/18]
-  Sunderland AFC        2-2  Southampton FC  
-  Manchester City       4-2  Cardiff City  
-  Arsenal FC            2-0  Fulham FC  
-  Norwich City          1-0  Hull City  
-  West Ham United       1-3  Newcastle United  
-  Crystal Palace        1-0  Stoke City  
-  Liverpool FC          2-2  Aston Villa  
+  Sunderland AFC        2-2  Southampton FC
+  Manchester City       4-2  Cardiff City
+  Arsenal FC            2-0  Fulham FC
+  Norwich City          1-0  Hull City
+  West Ham United       1-3  Newcastle United
+  Crystal Palace        1-0  Stoke City
+  Liverpool FC          2-2  Aston Villa
 [Sun Jan/19]
-  Swansea City          1-3  Tottenham Hotspur  
-  Chelsea FC            3-1  Manchester United  
+  Swansea City          1-3  Tottenham Hotspur
+  Chelsea FC            3-1  Manchester United
 [Mon Jan/20]
-  West Bromwich Albion  1-1  Everton FC  
+  West Bromwich Albion  1-1  Everton FC
 
 
 Matchday 23
 
 [Tue Jan/28]
-  Manchester United     2-0  Cardiff City  
-  Norwich City          0-0  Newcastle United  
-  Southampton FC        2-2  Arsenal FC  
-  Swansea City          2-0  Fulham FC 
-  Crystal Palace        1-0  Hull City  
-  Liverpool FC          4-0  Everton FC  
+  Manchester United     2-0  Cardiff City
+  Norwich City          0-0  Newcastle United
+  Southampton FC        2-2  Arsenal FC
+  Swansea City          2-0  Fulham FC
+  Crystal Palace        1-0  Hull City
+  Liverpool FC          4-0  Everton FC
 [Wed Jan/29]
-  Aston Villa           4-3  West Bromwich Albion  
-  Sunderland AFC        1-0  Stoke City  
-  Chelsea FC            0-0  West Ham United  
-  Tottenham Hotspur     1-5  Manchester City  
+  Aston Villa           4-3  West Bromwich Albion
+  Sunderland AFC        1-0  Stoke City
+  Chelsea FC            0-0  West Ham United
+  Tottenham Hotspur     1-5  Manchester City
 
 
 Matchday 24
 
 [Sat Feb/1]
-  Newcastle United      0-3  Sunderland AFC  
-  West Ham United       2-0  Swansea City  
-  Everton FC            2-1  Aston Villa  
-  Stoke City            2-1  Manchester United  
-  Cardiff City          2-1  Norwich City  
+  Newcastle United      0-3  Sunderland AFC
+  West Ham United       2-0  Swansea City
+  Everton FC            2-1  Aston Villa
+  Stoke City            2-1  Manchester United
+  Cardiff City          2-1  Norwich City
   Fulham FC             0-3  Southampton FC
-  Hull City             1-1  Tottenham Hotspur  
+  Hull City             1-1  Tottenham Hotspur
 [Sun Feb/2]
-  West Bromwich Albion  1-1  Liverpool FC  
-  Arsenal FC            2-0  Crystal Palace  
+  West Bromwich Albion  1-1  Liverpool FC
+  Arsenal FC            2-0  Crystal Palace
 [Mon Feb/3]
-  Manchester City       0-1  Chelsea FC  
+  Manchester City       0-1  Chelsea FC
 
 
 Matchday 25
 
 [Sat Feb/8]
-  Liverpool FC          5-1  Arsenal FC  
-  Aston Villa           0-2  West Ham United  
-  Chelsea FC            3-0  Newcastle United  
-  Crystal Palace        3-1  West Bromwich Albion  
-  Norwich City          0-0  Manchester City  
-  Southampton FC        2-2  Stoke City  
-  Sunderland AFC        0-2  Hull City  
-  Swansea City          3-0  Cardiff City  
+  Liverpool FC          5-1  Arsenal FC
+  Aston Villa           0-2  West Ham United
+  Chelsea FC            3-0  Newcastle United
+  Crystal Palace        3-1  West Bromwich Albion
+  Norwich City          0-0  Manchester City
+  Southampton FC        2-2  Stoke City
+  Sunderland AFC        0-2  Hull City
+  Swansea City          3-0  Cardiff City
 [Sun Feb/9]
-  Tottenham Hotspur     1-0  Everton FC  
-  Manchester United     2-2  Fulham FC  
+  Tottenham Hotspur     1-0  Everton FC
+  Manchester United     2-2  Fulham FC
 
 
 Matchday 26
 
 [Tue Feb/11]
-  Cardiff City          0-0  Aston Villa  
-  West Ham United       2-0  Norwich City  
-  Hull City             0-1  Southampton FC  
-  West Bromwich Albion  1-1  Chelsea FC  
+  Cardiff City          0-0  Aston Villa
+  West Ham United       2-0  Norwich City
+  Hull City             0-1  Southampton FC
+  West Bromwich Albion  1-1  Chelsea FC
 [Wed Feb/12]
-  Arsenal FC            0-0  Manchester United  
-  Newcastle United      0-4  Tottenham Hotspur  
-  Fulham FC             2-3  Liverpool FC  
-  Stoke City            1-1  Swansea City  
+  Arsenal FC            0-0  Manchester United
+  Newcastle United      0-4  Tottenham Hotspur
+  Fulham FC             2-3  Liverpool FC
+  Stoke City            1-1  Swansea City
 [Wed Apr/16]
-  Everton FC            2-3  Crystal Palace  
-  Manchester City       2-2  Sunderland AFC  
+  Everton FC            2-3  Crystal Palace
+  Manchester City       2-2  Sunderland AFC
 
 
 
 Matchday 27
 
 [Sat Feb/22]
-  Chelsea FC            1-0  Everton FC  
-  Arsenal FC            4-1  Sunderland AFC  
-  Cardiff City          0-4  Hull City  
-  Manchester City       1-0  Stoke City  
-  West Bromwich Albion  1-1  Fulham FC  
-  West Ham United       3-1  Southampton FC  
-  Crystal Palace        0-2  Manchester United  
+  Chelsea FC            1-0  Everton FC
+  Arsenal FC            4-1  Sunderland AFC
+  Cardiff City          0-4  Hull City
+  Manchester City       1-0  Stoke City
+  West Bromwich Albion  1-1  Fulham FC
+  West Ham United       3-1  Southampton FC
+  Crystal Palace        0-2  Manchester United
 [Sun Feb/23]
-  Liverpool FC          4-3  Swansea City  
-  Newcastle United      1-0  Aston Villa  
-  Norwich City          1-0  Tottenham Hotspur  
+  Liverpool FC          4-3  Swansea City
+  Newcastle United      1-0  Aston Villa
+  Norwich City          1-0  Tottenham Hotspur
 
 
 Matchday 28
 
 [Sat Mar/1]
-  Stoke City            1-0  Arsenal FC  
+  Stoke City            1-0  Arsenal FC
   Fulham FC             1-3  Chelsea FC
-  Hull City             1-4  Newcastle United  
-  Everton FC            1-0  West Ham United  
-  Southampton           0-3  Liverpool FC  
+  Hull City             1-4  Newcastle United
+  Everton FC            1-0  West Ham United
+  Southampton           0-3  Liverpool FC
 [Sun Mar/2]
-  Tottenham Hotspur     1-0  Cardiff City  
-  Swansea City          1-1  Crystal Palace  
-  Aston Villa           4-1  Norwich City  
+  Tottenham Hotspur     1-0  Cardiff City
+  Swansea City          1-1  Crystal Palace
+  Aston Villa           4-1  Norwich City
 [Tue Mar/25]
-  Manchester United     0-3  Manchester City  
+  Manchester United     0-3  Manchester City
 [Wed May/7]
-  Sunderland AFC        2-0  West Bromwich Albion  
+  Sunderland AFC        2-0  West Bromwich Albion
 
 
 
 Matchday 29
 
 [Sat Mar/8]
-  West Bromwich Albion  0-3  Manchester United  
-  Cardiff City          3-1  Fulham FC  
-  Crystal Palace        0-1  Southampton FC  
-  Norwich City          1-1  Stoke City  
-  Chelsea FC            4-0  Tottenham Hotspur  
+  West Bromwich Albion  0-3  Manchester United
+  Cardiff City          3-1  Fulham FC
+  Crystal Palace        0-1  Southampton FC
+  Norwich City          1-1  Stoke City
+  Chelsea FC            4-0  Tottenham Hotspur
 [Tue Mar/25]
-  Arsenal FC            2-2  Swansea City  
-  Newcastle United      0-3  Everton FC  
+  Arsenal FC            2-2  Swansea City
+  Newcastle United      0-3  Everton FC
 [Wed Mar/26]
-  West Ham United       2-1  Hull City  
-  Liverpool FC          2-1  Sunderland AFC  
+  West Ham United       2-1  Hull City
+  Liverpool FC          2-1  Sunderland AFC
 [Wed May/7]
   Manchester City       4-0  Aston Villa
 
@@ -206,9 +205,9 @@ Matchday 31
 Matchday 32
 
 [Sat Mar/29]
-  Manchester United     4-1  Aston Villa  
+  Manchester United     4-1  Aston Villa
   West Bromwich Albion  3-3  Cardiff City
-  Crystal Palace        1-0  Chelsea FC  
+  Crystal Palace        1-0  Chelsea FC
   Stoke City            1-0  Hull City
   Southampton FC        4-0  Newcastle United
   Swansea City          3-0  Norwich City

@@ -1,33 +1,32 @@
-###########################################
+= English League Two 2015/16
+
 #   see en.wikipedia.org/wiki/2015–16_Football_League_Two
 #
 #  start_at: 2015-08-08
 #  24 Teams
 
 
-English League Two 2015/16
-
-- Accrington Stanley
-- AFC Wimbledon
-- Barnet
-- Bristol Rovers
-- Cambridge United
-- Carlisle United
-- Crawley Town
-- Dagenham & Redbridge
-- Exeter City
-- Hartlepool United
-- Leyton Orient
-- Luton Town
-- Mansfield Town
-- Morecambe
-- Newport County
-- Northampton Town
-- Notts County
-- Oxford United
-- Plymouth Argyle
-- Portsmouth
-- Stevenage
-- Wycombe Wanderers
-- Yeovil Town
-- York City
+Accrington Stanley
+AFC Wimbledon
+Barnet
+Bristol Rovers
+Cambridge United
+Carlisle United
+Crawley Town
+Dagenham & Redbridge
+Exeter City
+Hartlepool United
+Leyton Orient
+Luton Town
+Mansfield Town
+Morecambe
+Newport County
+Northampton Town
+Notts County
+Oxford United
+Plymouth Argyle
+Portsmouth
+Stevenage
+Wycombe Wanderers
+Yeovil Town
+York City

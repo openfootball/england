@@ -1,33 +1,32 @@
-###########################################
+= English League One 2015/16
+
 #  see en.wikipedia.org/wiki/2015–16_Football_League_One
 #
 #  start_at: 2015-08-08
 #  24 teams
 
 
-English League One 2015/16
-
-- Barnsley
-- Blackpool
-- Bradford City
-- Burton Albion
-- Bury
-- Chesterfield
-- Colchester United
-- Coventry City
-- Crewe Alexandra
-- Doncaster Rovers
-- Fleetwood Town
-- Gillingham
-- Millwall
-- Oldham Athletic
-- Peterborough United
-- Port Vale
-- Rochdale
-- Scunthorpe United
-- Sheffield United
-- Shrewsbury Town
-- Southend United
-- Swindon Town
-- Walsall
-- Wigan Athletic
+Barnsley
+Blackpool
+Bradford City
+Burton Albion
+Bury
+Chesterfield
+Colchester United
+Coventry City
+Crewe Alexandra
+Doncaster Rovers
+Fleetwood Town
+Gillingham
+Millwall
+Oldham Athletic
+Peterborough United
+Port Vale
+Rochdale
+Scunthorpe United
+Sheffield United
+Shrewsbury Town
+Southend United
+Swindon Town
+Walsall
+Wigan Athletic

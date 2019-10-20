@@ -1,5 +1,4 @@
-###################################
-# English Premier League 2015/16
+= English Premier League 2015/16
 
 
 Matchday 20
@@ -32,18 +31,18 @@ Matchday 21
 
 Matchday 22
 [Sat Jan/16]
-AFC Bournemouth         3-0  Norwich City
-Aston Villa             1-1  Leicester City
-Chelsea FC              3-3  Everton FC
-Manchester City         4-0  Crystal Palace
-Newcastle United        2-1  West Ham United
-Southampton FC          3-0  West Bromwich Albion
-Tottenham Hotspur       4-1  Sunderland AFC
+  AFC Bournemouth         3-0  Norwich City
+  Aston Villa             1-1  Leicester City
+  Chelsea FC              3-3  Everton FC
+  Manchester City         4-0  Crystal Palace
+  Newcastle United        2-1  West Ham United
+  Southampton FC          3-0  West Bromwich Albion
+  Tottenham Hotspur       4-1  Sunderland AFC
 [Sun Jan/17]
-Liverpool FC            0-1  Manchester United
-Stoke City              0-0  Arsenal FC
+  Liverpool FC            0-1  Manchester United
+  Stoke City              0-0  Arsenal FC
 [Mon Jan/18]
-Swansea City            1-0  Watford FC
+  Swansea City            1-0  Watford FC
 
 Matchday 23
 [Sat Jan/23]
@@ -111,9 +110,9 @@ Watford FC              0-0  AFC Bournemouth
 West Bromwich Albion    3-2  Crystal Palace
 West Ham United         1-0  Sunderland AFC
 [Sun Feb/28]
-Liverpool FC            4-0  Everton FC      
+Liverpool FC            4-0  Everton FC
 Manchester United       3-2  Arsenal FC
-Newcastle United        1-1  Manchester City     
+Newcastle United        1-1  Manchester City
 Tottenham Hotspur       2-1  Swansea City
 
 Matchday 28
@@ -129,7 +128,7 @@ Matchday 28
   Manchester United     1-0  Watford FC
   Stoke City            1-0  Newcastle United
   West Ham United       1-0  Tottenham Hotspur
-  
+
 Matchday 29
 [Sat Mar/5]
 Chelsea FC              1-1  Stoke City
@@ -147,15 +146,15 @@ West Bromwich Albion    1-0  Manchester United
 Matchday 30
 [Sat Mar/12]
 AFC Bournemouth         3-2  Swansea City
-Arsenal FC              2-0  West Bromwich Albion     
+Arsenal FC              2-0  West Bromwich Albion
 Aston Villa             0-2  Tottenham Hotspur
-Manchester United       2-0  Crystal Palace   
+Manchester United       2-0  Crystal Palace
 Norwich City            0-0  Manchester City
 Stoke City              1-2  Southampton FC
-Sunderland AFC          3-0  Everton FC     
-West Ham United         3-1  Watford FC    
+Sunderland AFC          3-0  Everton FC
+West Ham United         3-1  Watford FC
 [Sun Mar/13]
-Liverpool FC            1-1  Chelsea FC       
+Liverpool FC            1-1  Chelsea FC
 [Mon Mar/14]
 Leicester City          1-0  Newcastle United
 
@@ -220,10 +219,10 @@ Crystal Palace          0-0  Everton FC
 Leicester City          4-0  Swansea City
 Liverpool FC            2-2  Newcastle United
 Manchester City         4-0  Stoke City
-Norwich City            4-2  Watford FC        
+Norwich City            4-2  Watford FC
 Sunderland AFC          0-0  Arsenal FC
 Tottenham Hotspur       1-1  West Bromwich Albion
-West Ham United         3-2  Manchester United      
+West Ham United         3-2  Manchester United
 
 Matchday 36
 [Sat Apr/30]
@@ -238,10 +237,10 @@ Swansea City            3-1  Liverpool FC
 Watford FC              3-2  Aston Villa
 West Bromwich Albion    0-3  West Ham United
 
-Leicester erstmals englischer Fussballmeister!
-
-Absteiger  Premiere League: Aston Villa, Newcastle United, Norwich City.
-Aufsteiger in Premiere League: Burnley, FC Middlesborough, 1 Platz noch offen. 
+# Leicester erstmals englischer Fussballmeister!
+#
+# Absteiger  Premiere League: Aston Villa, Newcastle United, Norwich City.
+# Aufsteiger in Premiere League: Burnley, FC Middlesborough, 1 Platz noch offen.
 
 Matchday 37
 [Sat May/7]
@@ -261,7 +260,7 @@ Matchday 38
 Arsenal FC              4-0  Aston Villa
 Chelsea FC              1-1  Leicester City
 Everton FC              3-0  Norwich City
-Manchester United       3-1  AFC Bournemouth       
+Manchester United       3-1  AFC Bournemouth
 Newcastle United        5-1  Tottenham Hotspur
 Southampton FC          4-1  Crystal Palace
 Stoke City              2-1  West Ham United
@@ -270,25 +269,25 @@ Watford FC              2-2  Sunderland AFC
 West Bromwich Albion    1-1  Liverpool FC
 
 
-Play-Off um 1 Premierleague-Platz:
+__END__
+## todo/fix: add relegation playoff
 
-13.5.16  Sheffield Wednesday  2-0 Brighton&Hove Albion 
+# Play-Off um 1 Premierleague-Platz:
+
+13.5.16  Sheffield Wednesday  2-0 Brighton&Hove Albion
 16.5.16  Brighton&Hove Albion 1-1 Sheffield Wednesday
 
 14.5.16  Derby Country        0-3 Hull City
-17.5.16  Hull City            0-2 Derby Country  
+17.5.16  Hull City            0-2 Derby Country
 
 
 28.5.16  Hull City 1-0 Sheffield Wednesday
 
-3. Aufsteiger in Premierleague:
-
-Hull City.
-
-
-Premierleague 2015/16 beendet. 
-
-Premierleague 2016/17 beginnt am 13.08.2016.
+# 3. Aufsteiger in Premierleague:
+#
+# Hull City.
 
 
+# Premierleague 2015/16 beendet.
 
+# Premierleague 2016/17 beginnt am 13.08.2016.

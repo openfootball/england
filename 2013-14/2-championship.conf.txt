@@ -1,10 +1,10 @@
-###########################################
-#   see en.wikipedia.org/wiki/2013–14_Football_League_Championship
+= English Championship 2013/14
+
+#  see en.wikipedia.org/wiki/2013–14_Football_League_Championship
 #
 #  start_at: 2013-08-03
 #  24 Teams
 
-English Championship 2013/14
 
  1. Leicester City          46  31  9  6  83-43 102
  2. Burnley                 46  26 15  5  72-37  93
@@ -30,4 +30,3 @@ English Championship 2013/14
 22. Doncaster Rovers        46  11 11 24  39-70  44
 23. Barnsley                46   9 12 25  44-77  39
 24. Yeovil Town             46   8 13 25  44-75  37
-

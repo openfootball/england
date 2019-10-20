@@ -1,10 +1,10 @@
-###########################################
+= English Championship 2014/15
+
 #  see en.wikipedia.org/wiki/2014–15_Football_League_Championship
 #
 #  start_at: 2014-08-08
 #  24 teams
 
-English Championship 2014/15
 
  1. AFC Bournemouth          46  26 12  8  98-45  90
  2. Watford                  46  27  8 11  91-50  89
@@ -30,4 +30,3 @@ English Championship 2014/15
 22. Millwall                 46   9 14 23  42-76  41
 23. Wigan Athletic           46   9 12 25  39-64  39
 24. Blackpool                45   4 13 28  36-91  25
-

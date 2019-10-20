@@ -1,10 +1,10 @@
-###########################################
+= English League One 2013/14
+
 #  see en.wikipedia.org/wiki/2013–14_Football_League_One
 #
 #  start_at: 2013-08-02
 #  24 Teams
 
-English League One 2013/14
 
  1. Wolverhampton Wanderers  46  31 10  5  89-31 103
  2. Brentford                46  28 10  8  72-43  94
@@ -30,4 +30,3 @@ English League One 2013/14
 22. Carlisle United          46  11 12 23  43-76  45
 23. Shrewsbury Town          46   9 15 22  44-65  42
 24. Stevenage                46  11  9 26  46-72  42
-
