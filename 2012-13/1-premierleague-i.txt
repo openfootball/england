@@ -1,5 +1,4 @@
-############################
-# Premier League 2012/13
+= English Premier League 2012/13
 
 
 Matchday 1
@@ -318,7 +317,7 @@ Matchday 18
 
 Matchday 19
 
-## nota 5 
+## nota 5
 # El partido entre Arsenal y West Ham se aplazó por la huelga en el metro de Londres.
 # Se iba a disputar en la misma fecha del Boxing Day, el 26 de diciembre de 2012.
 ### nota 5 - date changed to 23.01.2013 19.45  ??
