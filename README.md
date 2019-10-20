@@ -13,7 +13,7 @@ Free open public domain football data for England (and Wales).
 National football club leagues include:
 
 | Level |                               |           |
-| ----: | ----------------------------- | --------- | 
+| ----: | ----------------------------- | --------- |
 |     I | English Premier League        | 20 Clubs  |
 |    II | English Championship          | 24 Clubs  |
 |   III | English League One            | 24 Clubs  |
@@ -24,15 +24,7 @@ National football club leagues include:
 Example:
 
 ```
-### English Premier League
-
-chelsea,     Chelsea|Chelsea FC|FC Chelsea,             CHE, 1905 
-manunited,   Manchester United|Man Utd|Manchester U.,   MUN, 1878
-...
-```
-
-```
-### English Premier League
+= English Premier League
 
 Matchday 1
 
@@ -105,11 +97,11 @@ Note:  The English Premier League includes teams from Wales
 
 Build the database for all English (incl. Welsh) clubs, leagues and seasons:
 
-    $ sportdb new en
+    $ sportdb new eng
 
-Build the database for the 2017/18 season:
+Build the database for the 2019/20 season:
 
-    $ sportdb new en2017-18
+    $ sportdb new eng2019-20
 
 
 ## License
