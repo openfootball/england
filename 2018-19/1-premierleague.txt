@@ -1,5 +1,4 @@
-###################################
-# English Premier League 2018/19
+= English Premier League 2018/19
 
 
 Matchday 1
@@ -264,7 +263,7 @@ Matchday 17
   Brighton & Hove Albion  1-2 Chelsea FC
   Liverpool FC            3-1 Manchester United
   Southampton FC          3-2 Arsenal FC
-  
+
 Matchday 18
 [Fri Dec/21]
   Wolverhampton Wanderers 0-2 Liverpool FC
@@ -323,7 +322,7 @@ Matchday 21
   Wolverhampton Wanderers 0-2 Crystal Palace
 [Thu Jan/3]
   Manchester City         2-1 Liverpool FC
- 
+
 Matchday 22
 [Sat Jan/12]
   Brighton & Hove Albion  0-1 Liverpool FC
@@ -338,7 +337,7 @@ Matchday 22
  Tottenham Hotspur        0-1 Manchester United
 [Mon Jan/14]
  Manchester City          3-0 Wolverhampton Wanderers
- 
+
 Matchday 23
 [Sat Jan/19]
   Arsenal FC              2-0 Chelsea FC
@@ -385,7 +384,7 @@ Matchday 25
 
 Matchday 27
 [Wed Feb/6]
-Everton FC                0-2 Manchester City  
+Everton FC                0-2 Manchester City
 
 Matchday 26
 [Sat Feb/9]
@@ -401,8 +400,8 @@ Matchday 26
   Manchester City         6-0 Chelsea FC
 [Mon Feb/11]
   Wolverhampton Wanderers 1-1 Newcastle United
-  
-  
+
+
 Matchday 27
 [Fri Feb/22]
   West Ham United         3-1 Fulham FC
@@ -413,7 +412,7 @@ Matchday 27
   Burnley FC              2-1 Tottenham Hotspur
   AFC Bournemouth         1-1 Wolverhampton Wanderers
 [Sun Feb/24]
-  Chelsea FC              3-0 Brighton & Hove Albion       
+  Chelsea FC              3-0 Brighton & Hove Albion
   Manchester United       0-0 Liverpool FC
   Arsenal FC              2-0 Southampton FC
 
@@ -446,8 +445,8 @@ Matchday 29
   Watford FC              2-1 Leicester City
   Everton FC              0-0 Liverpool FC
   Fulham FC               1-2 Chelsea FC
-  
-  
+
+
 Matchday 30
 [Sat Mar/9]
   Huddersfield Town       0-2 AFC Bournemouth
@@ -461,23 +460,23 @@ Matchday 30
   Liverpool FC            4-2 Burnley FC
   Chelsea FC              1-1 Wolverhampton Wanderers
   Arsenal FC              2-0 Manchester United
-  
-  
+
+
 Matchday 31
 [Sat Mar/16]
-  Wolverhampton Wanderers 3-1 Arsenal FC         
-  Brighton & Hove Albion  0-2 Cardiff City       
+  Wolverhampton Wanderers 3-1 Arsenal FC
+  Brighton & Hove Albion  0-2 Cardiff City
   West Ham United         4-3 Huddersfield Town
   Burnley FC              1-2 Leicester City
-  Manchester United       0-2 Manchester City    
+  Manchester United       0-2 Manchester City
   AFC Bournemouth         2-2 Newcastle United
-  Watford FC              1-1 Southampton FC     
+  Watford FC              1-1 Southampton FC
 [Sun Mar/17]
   Everton FC              2-0 Chelsea FC
-  Tottenham Hotspur       2-0 Crystal Palace     
+  Tottenham Hotspur       2-0 Crystal Palace
   Fulham FC               1-2 Liverpool FC
-  
-  
+
+
 Matchday 32
 [Sat Mar/30]
   Leicester City          2-0 AFC Bournemouth
@@ -492,8 +491,8 @@ Matchday 32
   Liverpool FC            2-1 Tottenham Hotspur
 [Mon Apr/1]
   Arsenal FC              2-0 Newcastle United
-  
-  
+
+
 Matchday 33
 [Sat Apr/6]
   Everton FC              1-0 Arsenal FC
@@ -538,9 +537,9 @@ Matchday 35
 
 ## in addition matchday 31
 [Wed Apr/24]
-  Manchester United       0-2 Manchester City 
-  
-  
+  Manchester United       0-2 Manchester City
+
+
 Matchday 36
 [Fri Apr/26]
   Liverpool FC            5-0 Huddersfield Town
@@ -558,16 +557,16 @@ Matchday 36
 
 
 # 3 Absteiger Premier League 2018/19:
- Huddersfield Town
- Fulham FC 
- Cardiff City or Brighton & Hove Albion
- 
+# Huddersfield Town
+# Fulham FC
+# Cardiff City or Brighton & Hove Albion
+
 # 3 Aufsteiger to Premier League 2019/20:
-  Norwich City
-  Sheffield United
-  Either Leeds United, West Bromwich Albion, Aston Villa or Derby County, Middlesbrough FC, Bristol City.
-  
-  
+#  Norwich City
+#  Sheffield United
+#  Either Leeds United, West Bromwich Albion, Aston Villa or Derby County, Middlesbrough FC, Bristol City.
+
+
 Matchday 37
 [Fri May/3]
   Everton FC              2-0 Burnley FC
@@ -577,7 +576,7 @@ Matchday 37
   Newcastle United        2-3 Liverpool FC
   West Ham United         3-0 Southampton FC
   Wolverhampton Wanderers 1-0 Fulham FC
-[Sun May/5]  
+[Sun May/5]
   Arsenal FC              1-1 Brighton & Hove Albion
   Chelsea FC              3-0 Watford FC
   Huddersfield Town       1-1 Manchester United
@@ -586,10 +585,10 @@ Matchday 37
 
 
 # 3. Absteiger Premier League 2018/19:
-  Cardiff City
+#  Cardiff City
 
 
-  
+
 Matchday 38
 [Sun May/12]
   Brighton & Hove Albion  1-4 Manchester City
@@ -605,10 +604,15 @@ Matchday 38
 
 
 # Meister Premier League 2018/19:
-  Manchester City
+#  Manchester City
+
+
+__END__
+# todo: add relegation playoff !!!
+
 
 # 3. Aufsteiger to Premier League 2019/20:
-# Halbfinale:  
+# Halbfinale:
 [Sat May/11]
   Aston Villa             2-1 West Bromwich Albions
   Derby County            0-1 Leeds United
@@ -616,15 +620,15 @@ Matchday 38
   West Bromwich Albions   1-0 Aston Villa   3-4 after penalty
 [Wed May/15]
   Leeds United            2-4 Derby County
-  
-# Finale:  
+
+# Finale:
 [Mon May/27]
   Derby Country           1-2 Aston Villa
 
 # Play-off Winner to Premier League 2019/20:
-  Aston Villa
-  
-  
+#  Aston Villa
+
+
 # Finish Premier League 2018/19
 
 # 9.8. Start Premier League 2019/20

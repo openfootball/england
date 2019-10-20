@@ -1,5 +1,4 @@
-###################################
-# English Premier League 2019/20
+= English Premier League 2019/20
 
 
 Matchday 1
@@ -32,8 +31,8 @@ Matchday 2
   Sheffield United        1-0 Crystal Palace
 [Mon Aug/19]
   Wolverhampton Wanderers 1-1 Manchester United
-  
-  
+
+
 Matchday 3
 [Fri Aug/23]
   Aston Villa             2-0 FC Everton
@@ -48,8 +47,8 @@ Matchday 3
   AFC Bournemouth         1-3 Manchester City
   Tottenham Hotspur       0-1 Newcastle United
   Wolverhampton Wanderers 1-1 FC Burnley
-  
-  
+
+
 Matchday 4
 [Sat Aug/31]
   FC Chelsea              2-2 Sheffield United
@@ -79,8 +78,8 @@ Matchday 5
   FC Watford              2-2 FC Arsenal
 [Mon Sep/16]
   Aston Villa             0-0 West Ham United
-  
-  
+
+
 Matchday 6
 [Fri Sep/20]
   FC Southampton          1-3 AFC Bournemouth
@@ -95,7 +94,7 @@ Matchday 6
   FC Arsenal              3-2 Aston Villa
   FC Chelsea              1-2 FC Liverpool
   West Ham United         2-0 Manchester United
-  
+
 
 Matchday 7
 [Sat Sep/28]
@@ -111,7 +110,7 @@ Matchday 7
   Leicester City          5-0 Newcastle United
 [Mon Sep/30]
   Manchester United       1-1 FC Arsenal
-  
+
 
 Matchday 8
 [Sat Oct/5]
@@ -131,7 +130,7 @@ Matchday 8
 Matchday 9
 [Sat Oct/19]
   Aston Villa             1-0 Brighton & Hove Albion
-  FC Chelsea              -1-0 Newcastle United
+  FC Chelsea              1-0 Newcastle United
   FC Everton              2-0 West Ham United
   Leicester City          2-1 FC Burnley
   Tottenham Hotspur       1-1 FC Watford
