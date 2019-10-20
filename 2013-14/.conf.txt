@@ -5,26 +5,26 @@
 # start_at: 2013-08-17
 # 20 teams
 
- 1. Manchester City         38  27  5  6 102-37  86
- 2. Liverpool               38  26  6  6 101-50  84
- 3. Chelsea                 38  25  7  6  71-27  82
- 4. Arsenal                 38  24  7  7  68-41  79
- 5. Everton                 38  21  9  8  61-39  72
- 6. Tottenham Hotspur       38  21  6 11  55-51  69
- 7. Manchester United       38  19  7 12  64-43  64
- 8. Southampton             38  15 11 12  54-46  56
- 9. Stoke City              38  13 11 14  45-52  50
-10. Newcastle United        38  15  4 19  43-59  49
-11. Crystal Palace          38  13  6 19  33-48  45
-12. Swansea City            38  11  9 18  54-54  42
-13. West Ham United         38  11  7 20  40-51  40
-14. Sunderland              38  10  8 20  41-60  38
-15. Aston Villa             38  10  8 20  39-61  38
-16. Hull City               38  10  7 21  38-53  37
-17. West Bromwich Albion    38   7 15 16  43-59  36
-18. Norwich City            38   8  9 21  28-62  33
-19. Fulham                  38   9  5 24  40-85  32
-20. Cardiff City            38   7  9 22  32-74  30
+ 1  Manchester City         38  27  5  6 102-37  86
+ 2  Liverpool               38  26  6  6 101-50  84
+ 3  Chelsea                 38  25  7  6  71-27  82
+ 4  Arsenal                 38  24  7  7  68-41  79
+ 5  Everton                 38  21  9  8  61-39  72
+ 6  Tottenham Hotspur       38  21  6 11  55-51  69
+ 7  Manchester United       38  19  7 12  64-43  64
+ 8  Southampton             38  15 11 12  54-46  56
+ 9  Stoke City              38  13 11 14  45-52  50
+10  Newcastle United        38  15  4 19  43-59  49
+11  Crystal Palace          38  13  6 19  33-48  45
+12  Swansea City            38  11  9 18  54-54  42
+13  West Ham United         38  11  7 20  40-51  40
+14  Sunderland              38  10  8 20  41-60  38
+15  Aston Villa             38  10  8 20  39-61  38
+16  Hull City               38  10  7 21  38-53  37
+17  West Bromwich Albion    38   7 15 16  43-59  36
+18  Norwich City            38   8  9 21  28-62  33
+19  Fulham                  38   9  5 24  40-85  32
+20  Cardiff City            38   7  9 22  32-74  30
 
 
 = English Championship 2013/14
@@ -34,30 +34,30 @@
 #  start_at: 2013-08-03
 #  24 Teams
 
- 1. Leicester City          46  31  9  6  83-43 102
- 2. Burnley                 46  26 15  5  72-37  93
- 3. Derby County            46  25 10 11  84-52  85
- 4. Queens Park Rangers     46  23 11 12  60-44  80
- 5. Wigan Athletic          46  21 10 15  61-48  73
- 6. Brighton & Hove Albion  46  19 15 12  55-40  72
- 7. Reading                 46  19 14 13  70-56  71
- 8. Blackburn Rovers        46  18 16 12  70-62  70
- 9. Ipswich Town            46  18 14 14  60-54  68
-10. AFC Bournemouth         46  18 12 16  67-66  66
-11. Nottingham Forest       46  16 17 13  67-64  65
-12. Middlesbrough           46  16 16 14  62-50  64
-13. Watford                 46  15 15 16  74-64  60
-14. Bolton Wanderers        46  14 17 15  59-60  59
-15. Leeds United            46  16  9 21  59-67  57
-16. Sheffield Wednesday     46  13 14 19  63-65  53
-17. Huddersfield Town       46  14 11 21  58-65  53
-18. Charlton Athletic       46  13 12 21  41-61  51
-19. Millwall                46  11 15 20  46-74  48
-20. Blackpool               46  11 13 22  38-66  46
-21. Birmingham City         46  11 11 24  58-74  44
-22. Doncaster Rovers        46  11 11 24  39-70  44
-23. Barnsley                46   9 12 25  44-77  39
-24. Yeovil Town             46   8 13 25  44-75  37
+ 1  Leicester City          46  31  9  6  83-43 102
+ 2  Burnley                 46  26 15  5  72-37  93
+ 3  Derby County            46  25 10 11  84-52  85
+ 4  Queens Park Rangers     46  23 11 12  60-44  80
+ 5  Wigan Athletic          46  21 10 15  61-48  73
+ 6  Brighton & Hove Albion  46  19 15 12  55-40  72
+ 7  Reading                 46  19 14 13  70-56  71
+ 8  Blackburn Rovers        46  18 16 12  70-62  70
+ 9  Ipswich Town            46  18 14 14  60-54  68
+10  AFC Bournemouth         46  18 12 16  67-66  66
+11  Nottingham Forest       46  16 17 13  67-64  65
+12  Middlesbrough           46  16 16 14  62-50  64
+13  Watford                 46  15 15 16  74-64  60
+14  Bolton Wanderers        46  14 17 15  59-60  59
+15  Leeds United            46  16  9 21  59-67  57
+16  Sheffield Wednesday     46  13 14 19  63-65  53
+17  Huddersfield Town       46  14 11 21  58-65  53
+18  Charlton Athletic       46  13 12 21  41-61  51
+19  Millwall                46  11 15 20  46-74  48
+20  Blackpool               46  11 13 22  38-66  46
+21  Birmingham City         46  11 11 24  58-74  44
+22  Doncaster Rovers        46  11 11 24  39-70  44
+23  Barnsley                46   9 12 25  44-77  39
+24  Yeovil Town             46   8 13 25  44-75  37
 
 
 = English League One 2013/14
@@ -67,27 +67,27 @@
 #  start_at: 2013-08-02
 #  24 Teams
 
- 1. Wolverhampton Wanderers  46  31 10  5  89-31 103
- 2. Brentford                46  28 10  8  72-43  94
- 3. Leyton Orient            46  25 11 10  85-45  86
- 4. Rotherham United         46  24 14  8  86-58  86
- 5. Preston North End        46  23 16  7  72-46  85
- 6. Peterborough United      46  23  5 18  72-58  74
- 7. Sheffield United         46  18 13 15  48-46  67
- 8. Swindon Town             46  19  9 18  63-59  66
- 9. Port Vale                46  18  7 21  59-73  61
-10. Milton Keynes Dons       46  17  9 20  63-65  60
-11. Bradford City            46  14 17 15  57-54  59
-12. Bristol City             46  13 19 14  70-67  58
-13. Walsall                  46  14 16 16  49-49  58
-14. Crawley Town             46  14 15 17  48-54  57
-15. Oldham Athletic          46  14 14 18  50-59  56
-16. Colchester United        46  13 14 19  53-61  53
-17. Gillingham               46  15  8 23  60-79  53
-18. Coventry City            46  16 13 17  74-77  51  [-10]
-19. Crewe Alexandra          46  13 12 21  54-80  51
-20. Notts County             46  15  5 26  64-77  50
-21. Tranmere Rovers          46  12 11 23  52-79  47
-22. Carlisle United          46  11 12 23  43-76  45
-23. Shrewsbury Town          46   9 15 22  44-65  42
-24. Stevenage                46  11  9 26  46-72  42
+ 1  Wolverhampton Wanderers  46  31 10  5  89-31 103
+ 2  Brentford                46  28 10  8  72-43  94
+ 3  Leyton Orient            46  25 11 10  85-45  86
+ 4  Rotherham United         46  24 14  8  86-58  86
+ 5  Preston North End        46  23 16  7  72-46  85
+ 6  Peterborough United      46  23  5 18  72-58  74
+ 7  Sheffield United         46  18 13 15  48-46  67
+ 8  Swindon Town             46  19  9 18  63-59  66
+ 9  Port Vale                46  18  7 21  59-73  61
+10  Milton Keynes Dons       46  17  9 20  63-65  60
+11  Bradford City            46  14 17 15  57-54  59
+12  Bristol City             46  13 19 14  70-67  58
+13  Walsall                  46  14 16 16  49-49  58
+14  Crawley Town             46  14 15 17  48-54  57
+15  Oldham Athletic          46  14 14 18  50-59  56
+16  Colchester United        46  13 14 19  53-61  53
+17  Gillingham               46  15  8 23  60-79  53
+18  Coventry City            46  16 13 17  74-77  51  [-10]
+19  Crewe Alexandra          46  13 12 21  54-80  51
+20  Notts County             46  15  5 26  64-77  50
+21  Tranmere Rovers          46  12 11 23  52-79  47
+22  Carlisle United          46  11 12 23  43-76  45
+23  Shrewsbury Town          46   9 15 22  44-65  42
+24  Stevenage                46  11  9 26  46-72  42

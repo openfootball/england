@@ -1,22 +1,23 @@
 = English Premier League 2017/18
 
-Arsenal FC
-Leicester City
-Watford FC
-Liverpool FC
-Chelsea FC
-Burnley FC
-Crystal Palace
-Huddersfield Town
-Everton FC
-Stoke City
-Southampton FC
-Swansea City
-West Bromwich Albion
-AFC Bournemouth
-Brighton & Hove Albion
-Manchester City
-Newcastle United
-Tottenham Hotspur
-Manchester United
-West Ham United
+ 1  Manchester City         38  32  4  2 106-27 100
+ 2  Manchester United       38  25  6  7  68-28  81
+ 3  Tottenham Hotspur       38  23  8  7  74-36  77
+ 4  Liverpool               38  21 12  5  84-38  75
+ 5  Chelsea                 38  21  7 10  62-38  70
+ 6  Arsenal                 38  19  6 13  74-51  63
+ 7  Burnley                 38  14 12 12  36-39  54
+ 8  Everton                 38  13 10 15  44-58  49
+ 9  Leicester City          38  12 11 15  56-60  47
+10  Newcastle United        38  12  8 18  39-47  44
+11  Crystal Palace          38  11 11 16  45-55  44
+12  AFC Bournemouth         38  11 11 16  45-61  44
+13  West Ham United         38  10 12 16  48-68  42
+14  Watford                 38  11  8 19  44-64  41
+15  Brighton & Hove Albion  38   9 13 16  34-54  40
+16  Huddersfield Town       38   9 10 19  28-58  37
+17  Southampton             38   7 15 16  37-56  36
+---------------------------------------------------
+18  Swansea City            38   8  9 21  28-56  33
+19  Stoke City              38   7 12 19  35-68  33
+20  West Bromwich Albion    38   6 13 19  31-56  31

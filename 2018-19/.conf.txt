@@ -1,22 +1,23 @@
 = English Premier League 2018/19
 
-Manchester United
-Leicester City
-Newcastle United
-Tottenham Hotspur
-AFC Bournemouth
-Cardiff City
-Fulham FC
-Crystal Palace
-Huddersfield Town
-Chelsea FC
-Watford FC
-Brighton & Hove Albion
-Wolverhampton Wanderers
-Everton FC
-Southampton FC
-Burnley FC
-Liverpool FC
-West Ham United
-Arsenal FC
-Manchester City
+ 1  Manchester City          38  32  2  4  95-23  98
+ 2  Liverpool                38  30  7  1  89-22  97
+ 3  Tottenham Hotspur        38  23  2 13  67-39  71
+ 4  Chelsea                  38  21  9  8  63-39  72
+ 5  Arsenal                  38  21  7 10  73-51  70
+ 6  Manchester United        38  19  9 10  65-54  66
+ 7  Wolverhampton Wanderers  38  16  9 13  47-46  57
+ 8  Everton                  38  15  9 14  54-46  54
+ 9  Leicester City           38  15  7 16  51-48  52
+10  West Ham United          38  15  7 16  52-55  52
+11  Watford                  38  14  8 16  52-59  50
+12  Crystal Palace           38  14  7 17  51-53  49
+13  Newcastle United         38  12  9 17  42-48  45
+14  AFC Bournemouth          38  13  6 19  56-70  45
+15  Burnley                  38  11  7 20  45-68  40
+16  Southampton              38   9 12 17  45-65  39
+17  Brighton & Hove Albion   38   9  9 20  35-60  36
+----------------------------------------------------
+18  Cardiff City             38  10  4 24  34-69  34
+19  Fulham                   38   7  5 26  34-81  26
+20  Huddersfield Town        38   3  7 28  22-76  16

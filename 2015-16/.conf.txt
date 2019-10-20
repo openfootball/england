@@ -3,26 +3,27 @@
 # start_at: 2015-08-08
 # 20 teams
 
-Manchester United
-Tottenham Hotspur
-AFC Bournemouth
-Aston Villa
-Everton FC
-Watford FC
-Leicester City
-Sunderland AFC
-Norwich City
-Crystal Palace
-Chelsea FC
-Swansea City
-Arsenal FC
-West Ham United
-Newcastle United
-Southampton FC
-Stoke City
-Liverpool FC
-West Bromwich Albion
-Manchester City
+ 1  Leicester City          38  23 12  3  68-36  81
+ 2  Arsenal                 38  20 11  7  65-36  71
+ 3  Tottenham Hotspur       38  19 13  6  69-35  70
+ 4  Manchester City         38  19  9 10  71-41  66
+ 5  Manchester United       38  19  9 10  49-35  66
+ 6  Southampton             38  18  9 11  59-41  63
+ 7  West Ham United         38  16 14  8  65-51  62
+ 8  Liverpool               38  16 12 10  63-50  60
+ 9  Stoke City              38  14  9 15  41-55  51
+10  Chelsea                 38  12 14 12  59-53  50
+11  Everton                 38  11 14 13  59-55  47
+12  Swansea City            38  12 11 15  42-52  47
+13  Watford                 38  12  9 17  40-50  45
+14  West Bromwich Albion    38  10 13 15  34-48  43
+15  Crystal Palace          38  11  9 18  39-51  42
+16  AFC Bournemouth         38  11  9 18  45-67  42
+17  Sunderland              38   9 12 17  48-62  39
+---------------------------------------------------
+18  Newcastle United        38   9 10 19  44-65  37
+19  Norwich City            38   9  7 22  39-67  34
+20  Aston Villa             38   3  8 27  27-76  17
 
 
 = English Championship 2015/16
@@ -32,30 +33,33 @@ Manchester City
 #  start_at: 2015-08-07
 #  24 teams
 
-Birmingham City
-Blackburn Rovers
-Bolton Wanderers
-Brentford
-Brighton & Hove Albion
-Bristol City
-Burnley
-Cardiff City
-Charlton Athletic
-Derby County
-Fulham
-Huddersfield Town
-Hull City
-Ipswich Town
-Leeds United
-Middlesbrough
-Milton Keynes Dons
-Nottingham Forest
-Preston North End
-Queens Park Rangers
-Reading
-Rotherham United
-Sheffield Wednesday
-Wolverhampton Wanderers
+ 1  Burnley                  46  26 15  5  72-35  93
+ 2  Middlesbrough            46  26 11  9  63-31  89
+----------------------------------------------------
+ 3  Brighton & Hove Albion   46  24 17  5  72-42  89
+ 4  Hull City                46  24 11 11  69-35  83
+ 5  Derby County             46  21 15 10  66-43  78
+ 6  Sheffield Wednesday      46  19 17 10  66-45  74
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7  Ipswich Town             46  18 15 13  53-51  69
+ 8  Cardiff City             46  17 17 12  56-51  68
+ 9  Brentford                46  19  8 19  72-67  65
+10  Birmingham City          46  16 15 15  53-49  63
+11  Preston North End        46  15 17 14  45-45  62
+12  Queens Park Rangers      46  14 18 14  54-54  60
+13  Leeds United             46  14 17 15  50-58  59
+14  Wolverhampton Wanderers  46  14 16 16  53-58  58
+15  Blackburn Rovers         46  13 16 17  46-46  55
+16  Nottingham Forest        46  13 16 17  43-47  55
+17  Reading                  46  13 13 20  52-59  52
+18  Bristol City             46  13 13 20  54-71  52
+19  Huddersfield Town        46  13 12 21  59-70  51
+20  Fulham                   46  12 15 19  66-79  51
+21  Rotherham United         46  13 10 23  53-71  49
+----------------------------------------------------
+22  Charlton Athletic        46   9 13 24  40-80  40
+23  Milton Keynes Dons       46   9 12 25  39-69  39
+24  Bolton Wanderers         46   5 15 26  41-81  30
 
 
 = English League One 2015/16
@@ -65,30 +69,33 @@ Wolverhampton Wanderers
 #  start_at: 2015-08-08
 #  24 teams
 
-Barnsley
-Blackpool
-Bradford City
-Burton Albion
-Bury
-Chesterfield
-Colchester United
-Coventry City
-Crewe Alexandra
-Doncaster Rovers
-Fleetwood Town
-Gillingham
-Millwall
-Oldham Athletic
-Peterborough United
-Port Vale
-Rochdale
-Scunthorpe United
-Sheffield United
-Shrewsbury Town
-Southend United
-Swindon Town
-Walsall
-Wigan Athletic
+ 1  Wigan Athletic          46  24 15  7  82-45  87
+ 2  Burton Albion           46  25 10 11  57-37  85
+---------------------------------------------------
+ 3  Walsall                 46  24 12 10  71-49  84
+ 4  Millwall                46  24  9 13  73-49  81
+ 5  Bradford City           46  23 11 12  55-40  80
+ 6  Barnsley                46  22  8 16  70-54  74
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7  Scunthorpe United       46  21 11 14  60-47  74
+ 8  Coventry City           46  19 12 15  67-49  69
+ 9  Gillingham              46  19 12 15  71-56  69
+10  Rochdale                46  19 12 15  68-61  69
+11  Sheffield United        46  18 12 16  64-59  66
+12  Port Vale               46  18 11 17  56-58  65
+13  Peterborough United     46  19  6 21  82-73  63
+14  Bury                    46  16 12 18  56-73  60
+15  Southend United         46  16 11 19  58-64  59
+16  Swindon Town            46  16 11 19  64-71  59
+17  Oldham Athletic         46  12 18 16  44-58  54
+18  Chesterfield            46  15  8 23  58-70  53
+19  Fleetwood Town          46  12 15 19  52-56  51
+20  Shrewsbury Town         46  13 11 22  58-79  50
+---------------------------------------------------
+21  Doncaster Rovers        46  11 13 22  48-64  46
+22  Blackpool               46  12 10 24  40-63  46
+23  Colchester United       46   9 13 24  57-99  40
+24  Crewe Alexandra         46   7 13 26  46-83  34
 
 
 = English League Two 2015/16
@@ -98,27 +105,30 @@ Wigan Athletic
 #  start_at: 2015-08-08
 #  24 Teams
 
-Accrington Stanley
-AFC Wimbledon
-Barnet
-Bristol Rovers
-Cambridge United
-Carlisle United
-Crawley Town
-Dagenham & Redbridge
-Exeter City
-Hartlepool United
-Leyton Orient
-Luton Town
-Mansfield Town
-Morecambe
-Newport County
-Northampton Town
-Notts County
-Oxford United
-Plymouth Argyle
-Portsmouth
-Stevenage
-Wycombe Wanderers
-Yeovil Town
-York City
+ 1  Northampton Town        46  29 12  5  82-46  99
+ 2  Oxford United           46  24 14  8  84-41  86
+ 3  Bristol Rovers          46  26  7 13  77-46  85
+---------------------------------------------------
+ 4  Accrington Stanley      46  24 13  9  74-48  85
+ 5  Plymouth Argyle         46  24  9 13  72-46  81
+ 6  Portsmouth              46  21 15 10  75-44  78
+ 7  AFC Wimbledon           46  21 12 13  64-50  75
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8  Leyton Orient           46  19 12 15  60-61  69
+ 9  Cambridge United        46  18 14 14  66-55  68
+10  Carlisle United         46  17 16 13  67-62  67
+11  Luton Town              46  19  9 18  63-61  66
+12  Mansfield Town          46  17 13 16  61-53  64
+13  Wycombe Wanderers       46  17 13 16  45-44  64
+14  Exeter City             46  17 13 16  63-65  64
+15  Barnet                  46  17 11 18  67-68  62
+16  Hartlepool United       46  15  6 25  49-72  51
+17  Notts County            46  14  9 23  54-83  51
+18  Stevenage               46  11 15 20  52-67  48
+19  Yeovil Town             46  11 15 20  43-59  48
+20  Crawley Town            46  13  8 25  45-78  47
+21  Morecambe               46  12 10 24  69-91  46
+22  Newport County          46  10 13 23  43-64  43
+---------------------------------------------------
+23  Dagenham & Redbridge    46   8 10 28  46-81  34
+24  York City               46   7 13 26  51-87  34

@@ -1,22 +1,23 @@
 = English Premier League 2016/17
 
-Tottenham Hotspur
-Liverpool FC
-Chelsea FC
-Burnley FC
-Crystal Palace
-AFC Bournemouth
-Everton FC
-Stoke City
-Leicester City
-Swansea City
-Southampton FC
-Sunderland AFC
-Watford FC
-Arsenal FC
-Hull City
-Manchester United
-West Bromwich Albion
-Middlesbrough FC
-Manchester City
-West Ham United
+ 1  Chelsea                 38  30  3  5  85-33  93
+ 2  Tottenham Hotspur       38  26  8  4  86-26  86
+ 3  Manchester City         38  23  9  6  80-39  78
+ 4  Liverpool               38  22 10  6  78-42  76
+ 5  Arsenal                 38  23  6  9  77-44  75
+ 6  Manchester United       38  18 15  5  54-29  69
+ 7  Everton                 38  17 10 11  62-44  61
+ 8  Southampton             38  12 10 16  41-48  46
+ 9  AFC Bournemouth         38  12 10 16  55-67  46
+10  West Bromwich Albion    38  12  9 17  43-51  45
+11  West Ham United         38  12  9 17  47-64  45
+12  Leicester City          38  12  8 18  48-63  44
+13  Stoke City              38  11 11 16  41-56  44
+14  Crystal Palace          38  12  5 21  50-63  41
+15  Swansea City            38  12  5 21  45-70  41
+16  Burnley                 38  11  7 20  39-55  40
+17  Watford                 38  11  7 20  40-68  40
+---------------------------------------------------
+18  Hull City               38   9  7 22  37-80  34
+19  Middlesbrough           38   5 13 20  27-53  28
+20  Sunderland              38   6  6 26  29-69  24
