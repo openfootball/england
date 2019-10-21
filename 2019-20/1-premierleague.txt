@@ -163,44 +163,50 @@ Matchday 11
 [Sat Nov/2]
   FC Arsenal              - Wolverhampton Wanderers
   Aston Villa             - FC Liverpool
-  Crystal Palace          - Leicester City
-  FC Everton              - Tottenham Hotspur
   West Ham United         - Newcastle United
   Manchester City         - FC Southampton
   FC Watford              - FC Chelsea
   Sheffield United        - FC Burnley
   AFC Bournemouth         - Manchester United
   Brighton & Hove Albion  - Norwich City
-
+[Sun Nov/3]
+  Crystal Palace          - Leicester City
+  FC Everton              - Tottenham Hotspur
+  
 
 Matchday 12
+[Fri Nov/8]
+  Norwich City            - FC Watford
 [Sat Nov/9]
   FC Chelsea              - Crystal Palace
   Leicester City          - FC Arsenal
-  FC Liverpool            - Manchester City
-  Manchester United       - Brighton & Hove Albion
+  FC Burnley              - West Ham United
   Newcastle United        - AFC Bournemouth
   FC Southampton          - FC Everton
   Tottenham Hotspur       - Sheffield United
+ [Sun Nov/10]
+  FC Liverpool            - Manchester City
+  Manchester United       - Brighton & Hove Albion
   Wolverhampton Wanderers - Aston Villa
-  Norwich City            - FC Watford
-  FC Burnley              - West Ham United
-
+  
+  
 
 Matchday 13
 [Sat Nov/23]
   FC Arsenal              - FC Southampton
-  Aston Villa             - Newcastle United
   Crystal Palace          - FC Liverpool
   FC Everton              - Norwich City
   West Ham United         - Tottenham Hotspur
   Manchester City         - FC Chelsea
   FC Watford              - FC Burnley
-  Sheffield United        - Manchester United
   AFC Bournemouth         - Wolverhampton Wanderers
   Brighton & Hove Albion  - Leicester City
-
-
+[Sun Nov/24]
+  Sheffield United        - Manchester United
+[Mon Nov/25]
+  Aston Villa             - Newcastle United
+  
+  
 Matchday 14
 [Sat Nov/30]
   FC Chelsea              - West Ham United
