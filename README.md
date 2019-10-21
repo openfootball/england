@@ -46,8 +46,7 @@ Matchday 1
 ```
 
 ```
-##########################
-# Arsenal
+= Arsenal
 
  1  Wojciech Szczęsny (POL)      GK  2007-
 13  David Ospina (COL)           GK  2014-
