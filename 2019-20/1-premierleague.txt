@@ -178,12 +178,12 @@ Matchday 12
 [Fri Nov/8]
   Norwich City            0-2 FC Watford
 [Sat Nov/9]
-  FC Chelsea              - Crystal Palace
-  Leicester City          - FC Arsenal
-  FC Burnley              - West Ham United
-  Newcastle United        - AFC Bournemouth
-  FC Southampton          - FC Everton
-  Tottenham Hotspur       - Sheffield United
+  FC Chelsea              2-0 Crystal Palace
+  Leicester City          2-0 FC Arsenal
+  FC Burnley              3-0 West Ham United
+  Newcastle United        2-1 AFC Bournemouth
+  FC Southampton          1-2 FC Everton
+  Tottenham Hotspur       1-1 Sheffield United
  [Sun Nov/10]
   FC Liverpool            - Manchester City
   Manchester United       - Brighton & Hove Albion
@@ -257,7 +257,6 @@ Matchday 17
 [Sat Dec/14]
   FC Chelsea              - AFC Bournemouth
   Leicester City          - Norwich City
-  FC Liverpool            - FC Watford
   Sheffield United        - Aston Villa
   FC Burnley              - Newcastle United
   FC Southampton          - West Ham United
@@ -267,8 +266,10 @@ Matchday 17
   Wolverhampton Wanderers - Tottenham Hotspur
 [Mon Dec/16]
   Crystal Palace          - Brighton & Hove Albion
-  
-  
+[Tue Dec/17]  
+   FC Liverpool            - FC Watford
+   
+   
 Matchday 18
 [Sat Dec/21]
   Aston Villa             - FC Southampton
