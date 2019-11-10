@@ -255,6 +255,7 @@ Matchday 16
 
 Matchday 17
 [Sat Dec/14]
+  FC Liverpool            - FC Watford
   FC Chelsea              - AFC Bournemouth
   Leicester City          - Norwich City
   Sheffield United        - Aston Villa
@@ -266,16 +267,14 @@ Matchday 17
   Wolverhampton Wanderers - Tottenham Hotspur
 [Mon Dec/16]
   Crystal Palace          - Brighton & Hove Albion
-[Tue Dec/17]  
-   FC Liverpool            - FC Watford
-   
+ 
    
 Matchday 18
 [Sat Dec/21]
   Aston Villa             - FC Southampton
   FC Everton              - FC Arsenal
   Newcastle United        - Crystal Palace
-  West Ham United         - FC Liverpool
+  West Ham United         - FC Liverpool               postponed
   Manchester City         - Leicester City
   Norwich City            - Wolverhampton Wanderers
   AFC Bournemouth         - FC Burnley
