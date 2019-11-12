@@ -1,5 +1,6 @@
-= English Championship 2013/14
+## todo/fix: use reverse order and "new" standard format
 
+= English Championship 2013/14, Play-offs
 
  Final
 
@@ -11,6 +12,9 @@ May/12 QPR 2-1 Wigan
 May/11 Derby 4-1 Brighton
 May/09 Wigan 0-0 QPR
 May/08 Brighton 1-2 Derby
+
+
+= English Championship 2013/14
 
  Round 46
 
