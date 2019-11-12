@@ -1,5 +1,6 @@
-= English Championship 2012/13
+## todo/fix: use reverse order and "new" standard format
 
+= English Championship 2012/13, Play-offs
 
  Final
 
@@ -11,6 +12,9 @@ May/13 Brighton 0-2 Crystal Palace
 May/12 Watford 3-1 Leicester
 May/10 Crystal Palace 0-0 Brighton
 May/09 Leicester 1-0 Watford
+
+
+= English Championship 2012/13
 
  Round 46
 
