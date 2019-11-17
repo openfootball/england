@@ -34,4 +34,4 @@ wigan,         Wigan Athletic,          WIG
 # Wales (WAL), wal
 swansea,       Swansea City,            SWA            
 cardiff,       Cardiff City,            CAR
-newport,       Newport County,          ?
+## newport,       Newport County,          ?    -- fix: n/a !!!!
