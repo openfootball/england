@@ -31,6 +31,12 @@ middlesbrough, Middlesbrough FC,        MFC
 reading,       Reading FC,              RDG
 wigan,         Wigan Athletic,          WIG
 
+brightonhovealbionfc,  Brighton & Hove Albion FC,   BHA
+sheffieldunitedfc,     Sheffield United FC,         SHU
+wolves,                Wolverhampton Wanderers FC,  WOL
+huddersfieldtown,      Huddersfield Town,           HUD
+
+
 # Wales (WAL), wal
 swansea,       Swansea City,            SWA            
 cardiff,       Cardiff City,            CAR
