@@ -3,26 +3,26 @@
   1 section(s):
     427 lines - league: >English Premier League< (eng.1), season: >2010/11<
       20 clubs:
-        Arsenal x38
-        Aston Villa x38
-        Birmingham x38
-        Blackburn x38
-        Blackpool x38
-        Bolton x38
-        Chelsea x38
-        Everton x38
-        Fulham x38
-        Liverpool x38
-        Manchester City x38
-        Manchester United x38
-        Newcastle Utd x38
-        Stoke City x38
-        Sunderland x38
-        Tottenham x38
-        West Brom x38
-        West Ham x38
-        Wigan x38
-        Wolves x38
+        Arsenal x38 => Arsenal FC
+        Aston Villa x38 => Aston Villa FC
+        Birmingham x38 => Birmingham City FC
+        Blackburn x38 => Blackburn Rovers FC
+        Blackpool x38 => Blackpool FC
+        Bolton x38 => Bolton Wanderers FC
+        Chelsea x38 => Chelsea FC
+        Everton x38 => Everton FC
+        Fulham x38 => Fulham FC
+        Liverpool x38 => Liverpool FC
+        Manchester City x38 => Manchester City FC
+        Manchester United x38 => Manchester United FC
+        Newcastle Utd x38 => Newcastle United FC
+        Stoke City x38 => Stoke City FC
+        Sunderland x38 => Sunderland AFC
+        Tottenham x38 => Tottenham Hotspur FC
+        West Brom x38 => West Bromwich Albion FC
+        West Ham x38 => West Ham United FC
+        Wigan x38 => Wigan Athletic FC
+        Wolves x38 => Wolverhampton Wanderers FC
       38 rounds:
         Round 38, 10 matches
         Round 37, 10 matches
@@ -66,39 +66,39 @@
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2010/11<, stage: >Play-offs<
       4 clubs:
-        Reading x3
-        Swansea x3
-        Cardiff x2
-        Nottingham x2
+        Reading x3 => Reading FC
+        Swansea x3 => Swansea City FC
+        Cardiff x2 => Cardiff City FC
+        Nottingham Forest x2 => Nottingham Forest FC
       2 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
     598 lines - league: >English Championship< (eng.2), season: >2010/11<
       24 clubs:
-        Barnsley x46
-        Bristol City x46
-        Burnley x46
-        Cardiff x46
-        Coventry x46
-        Crystal Palace x46
-        Derby x46
-        Doncaster x46
-        Hull City x46
-        Ipswich x46
-        Leeds x46
-        Leicester x46
-        Middlesbrough x46
-        Millwall x46
-        Norwich x46
-        Nottingham x46
-        Portsmouth x46
-        Preston x46
-        QPR x46
-        Reading x46
-        Scunthorpe x46
-        Sheffield Utd x46
-        Swansea x46
-        Watford x46
+        Barnsley x46 => Barnsley FC
+        Bristol City x46 => Bristol City FC
+        Burnley x46 => Burnley FC
+        Cardiff x46 => Cardiff City FC
+        Coventry x46 => Coventry City FC
+        Crystal Palace x46 => Crystal Palace FC
+        Derby x46 => Derby County FC
+        Doncaster x46 => Doncaster Rovers FC
+        Hull City x46 => Hull City AFC
+        Ipswich x46 => Ipswich Town FC
+        Leeds x46 => Leeds United FC
+        Leicester x46 => Leicester City FC
+        Middlesbrough x46 => Middlesbrough FC
+        Millwall x46 => Millwall FC
+        Norwich x46 => Norwich City FC
+        Nottingham Forest x46 => Nottingham Forest FC
+        Portsmouth x46 => Portsmouth FC
+        Preston x46 => Preston North End FC
+        QPR x46 => Queens Park Rangers FC
+        Reading x46 => Reading FC
+        Scunthorpe x46 => Scunthorpe United FC
+        Sheffield Utd x46 => Sheffield United FC
+        Swansea x46 => Swansea City FC
+        Watford x46 => Watford FC
       46 rounds:
         Round 46, 12 matches
         Round 45, 12 matches
@@ -154,26 +154,26 @@
   1 section(s):
     422 lines - league: >English Premier League< (eng.1), season: >2011/12<
       20 clubs:
-        Arsenal x38
-        Aston Villa x38
-        Blackburn x38
-        Bolton x38
-        Chelsea x38
-        Everton x38
-        Fulham x38
-        Liverpool x38
-        Manchester City x38
-        Manchester United x38
-        Newcastle Utd x38
-        Norwich x38
-        QPR x38
-        Stoke City x38
-        Sunderland x38
-        Swansea x38
-        Tottenham x38
-        West Brom x38
-        Wigan x38
-        Wolves x38
+        Arsenal x38 => Arsenal FC
+        Aston Villa x38 => Aston Villa FC
+        Blackburn x38 => Blackburn Rovers FC
+        Bolton x38 => Bolton Wanderers FC
+        Chelsea x38 => Chelsea FC
+        Everton x38 => Everton FC
+        Fulham x38 => Fulham FC
+        Liverpool x38 => Liverpool FC
+        Manchester City x38 => Manchester City FC
+        Manchester United x38 => Manchester United FC
+        Newcastle Utd x38 => Newcastle United FC
+        Norwich x38 => Norwich City FC
+        QPR x38 => Queens Park Rangers FC
+        Stoke City x38 => Stoke City FC
+        Sunderland x38 => Sunderland AFC
+        Swansea x38 => Swansea City FC
+        Tottenham x38 => Tottenham Hotspur FC
+        West Brom x38 => West Bromwich Albion FC
+        Wigan x38 => Wigan Athletic FC
+        Wolves x38 => Wolverhampton Wanderers FC
       38 rounds:
         Round 38, 10 matches
         Round 37, 10 matches
@@ -217,39 +217,39 @@
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2011/12<, stage: >Play-offs<
       4 clubs:
-        Blackpool x3
-        West Ham x3
-        Birmingham x2
-        Cardiff x2
+        Blackpool x3 => Blackpool FC
+        West Ham x3 => West Ham United FC
+        Birmingham x2 => Birmingham City FC
+        Cardiff x2 => Cardiff City FC
       2 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
     598 lines - league: >English Championship< (eng.2), season: >2011/12<
       24 clubs:
-        Barnsley x46
-        Birmingham x46
-        Blackpool x46
-        Brighton x46
-        Bristol City x46
-        Burnley x46
-        Cardiff x46
-        Coventry x46
-        Crystal Palace x46
-        Derby x46
-        Doncaster x46
-        Hull City x46
-        Ipswich x46
-        Leeds x46
-        Leicester x46
-        Middlesbrough x46
-        Millwall x46
-        Nottingham x46
-        Peterborough x46
-        Portsmouth x46
-        Reading x46
-        Southampton x46
-        Watford x46
-        West Ham x46
+        Barnsley x46 => Barnsley FC
+        Birmingham x46 => Birmingham City FC
+        Blackpool x46 => Blackpool FC
+        Brighton x46 => Brighton & Hove Albion FC
+        Bristol City x46 => Bristol City FC
+        Burnley x46 => Burnley FC
+        Cardiff x46 => Cardiff City FC
+        Coventry x46 => Coventry City FC
+        Crystal Palace x46 => Crystal Palace FC
+        Derby x46 => Derby County FC
+        Doncaster x46 => Doncaster Rovers FC
+        Hull City x46 => Hull City AFC
+        Ipswich x46 => Ipswich Town FC
+        Leeds x46 => Leeds United FC
+        Leicester x46 => Leicester City FC
+        Middlesbrough x46 => Middlesbrough FC
+        Millwall x46 => Millwall FC
+        !! Nottingham x46
+        !! Peterborough x46
+        Portsmouth x46 => Portsmouth FC
+        Reading x46 => Reading FC
+        Southampton x46 => Southampton FC
+        Watford x46 => Watford FC
+        West Ham x46 => West Ham United FC
       46 rounds:
         Round 46, 12 matches
         Round 45, 12 matches
@@ -305,26 +305,26 @@
   1 section(s):
     249 lines - league: >English Premier League< (eng.1), season: >2012/13<
       20 clubs:
-        Arsenal FC x19
-        Aston Villa x19
-        Chelsea FC x19
-        Everton FC x19
-        Fulham FC x19
-        Liverpool FC x19
-        Manchester City x19
-        Manchester United x19
-        Newcastle United x19
-        Norwich City x19
-        Queens Park Rangers x19
-        Reading FC x19
-        Southampton FC x19
-        Stoke City x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        West Bromwich Albion x19
-        West Ham United x19
-        Wigan Athletic x19
+        Arsenal FC x19 => Arsenal FC
+        Aston Villa x19 => Aston Villa FC
+        Chelsea FC x19 => Chelsea FC
+        Everton FC x19 => Everton FC
+        Fulham FC x19 => Fulham FC
+        Liverpool FC x19 => Liverpool FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Newcastle United x19 => Newcastle United FC
+        Norwich City x19 => Norwich City FC
+        Queens Park Rangers x19 => Queens Park Rangers FC
+        Reading FC x19 => Reading FC
+        Southampton FC x19 => Southampton FC
+        Stoke City x19 => Stoke City FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        West Bromwich Albion x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
+        Wigan Athletic x19 => Wigan Athletic FC
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -349,45 +349,45 @@
   1 section(s):
     261 lines - league: >English Premier League< (eng.1), season: >2012/13<
       39 clubs:
-        Aston Villa x19
-        Arsenal x18
-        Chelsea x18
-        Everton x18
-        Fulham x18
-        Liverpool x18
-        Manchester C x18
-        Manchester U x18
-        Newcastle x18
-        Norwich x18
-        QPR x18
-        Reading x18
-        Southampton x18
-        Stoke x18
-        Sunderland x18
-        Swansea x18
-        Tottenham x18
-        West Bromwich x18
-        West Ham x18
-        Wigan x18
-        Arsenal FC
-        Chelsea FC
-        Everton FC
-        Fulham FC
-        Liverpool FC
-        Manchester City
-        Manchester United
-        Newcastle United
-        Norwich City
-        Queens Park Rangers
-        Reading FC
-        Southampton FC
-        Stoke City
-        Sunderland AFC
-        Swansea City
-        Tottenham Hotspur
-        West Brom
-        West Ham United
-        Wigan Athletic
+        Aston Villa x19 => Aston Villa FC
+        Arsenal x18 => Arsenal FC
+        Chelsea x18 => Chelsea FC
+        Everton x18 => Everton FC
+        Fulham x18 => Fulham FC
+        Liverpool x18 => Liverpool FC
+        Manchester C x18 => Manchester City FC
+        Manchester U x18 => Manchester United FC
+        Newcastle x18 => Newcastle United FC
+        Norwich x18 => Norwich City FC
+        QPR x18 => Queens Park Rangers FC
+        Reading x18 => Reading FC
+        Southampton x18 => Southampton FC
+        Stoke x18 => Stoke City FC
+        Sunderland x18 => Sunderland AFC
+        Swansea x18 => Swansea City FC
+        Tottenham x18 => Tottenham Hotspur FC
+        West Bromwich x18 => West Bromwich Albion FC
+        West Ham x18 => West Ham United FC
+        Wigan x18 => Wigan Athletic FC
+        Arsenal FC => Arsenal FC
+        Chelsea FC => Chelsea FC
+        Everton FC => Everton FC
+        Fulham FC => Fulham FC
+        Liverpool FC => Liverpool FC
+        Manchester City => Manchester City FC
+        Manchester United => Manchester United FC
+        Newcastle United => Newcastle United FC
+        Norwich City => Norwich City FC
+        Queens Park Rangers => Queens Park Rangers FC
+        Reading FC => Reading FC
+        Southampton FC => Southampton FC
+        Stoke City => Stoke City FC
+        Sunderland AFC => Sunderland AFC
+        Swansea City => Swansea City FC
+        Tottenham Hotspur => Tottenham Hotspur FC
+        West Brom => West Bromwich Albion FC
+        West Ham United => West Ham United FC
+        Wigan Athletic => Wigan Athletic FC
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -412,39 +412,39 @@
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2012/13<, stage: >Play-offs<
       4 clubs:
-        Crystal Palace x3
-        Watford x3
-        Brighton x2
-        Leicester x2
+        Crystal Palace x3 => Crystal Palace FC
+        Watford x3 => Watford FC
+        Brighton x2 => Brighton & Hove Albion FC
+        Leicester x2 => Leicester City FC
       2 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
     598 lines - league: >English Championship< (eng.2), season: >2012/13<
       24 clubs:
-        Barnsley x46
-        Birmingham x46
-        Blackburn x46
-        Blackpool x46
-        Bolton x46
-        Brighton x46
-        Bristol City x46
-        Burnley x46
-        Cardiff x46
-        Charlton x46
-        Crystal Palace x46
-        Derby x46
-        Huddersfield x46
-        Hull City x46
-        Ipswich x46
-        Leeds x46
-        Leicester x46
-        Middlesbrough x46
-        Millwall x46
-        Nottingham x46
-        Peterborough x46
-        Sheffield Wed x46
-        Watford x46
-        Wolves x46
+        Barnsley x46 => Barnsley FC
+        Birmingham x46 => Birmingham City FC
+        Blackburn x46 => Blackburn Rovers FC
+        Blackpool x46 => Blackpool FC
+        Bolton x46 => Bolton Wanderers FC
+        Brighton x46 => Brighton & Hove Albion FC
+        Bristol City x46 => Bristol City FC
+        Burnley x46 => Burnley FC
+        Cardiff x46 => Cardiff City FC
+        Charlton x46 => Charlton Athletic FC
+        Crystal Palace x46 => Crystal Palace FC
+        Derby x46 => Derby County FC
+        Huddersfield x46 => Huddersfield Town AFC
+        Hull City x46 => Hull City AFC
+        Ipswich x46 => Ipswich Town FC
+        Leeds x46 => Leeds United FC
+        Leicester x46 => Leicester City FC
+        Middlesbrough x46 => Middlesbrough FC
+        Millwall x46 => Millwall FC
+        !! Nottingham x46
+        !! Peterborough x46
+        !! Sheffield Wed x46
+        Watford x46 => Watford FC
+        Wolves x46 => Wolverhampton Wanderers FC
       46 rounds:
         Round 46, 13 matches
         Round 45, 13 matches
@@ -500,28 +500,28 @@
   1 section(s):
     255 lines - league: >English Premier League< (eng.1), season: >2013/14<
       22 clubs:
-        Aston Villa x19
-        Cardiff City x19
-        Crystal Palace x19
-        Everton FC x19
-        Fulham FC x19
-        Hull City x19
-        Liverpool FC x19
-        Manchester City x19
-        Manchester United x19
-        Newcastle United x19
-        Norwich City x19
-        Southampton FC x19
-        Stoke City x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        West Brom x19
-        West Ham United x19
-        Arsenal FC x18
-        Chelsea FC x18
-        Arsenal
-        FC Chelsea FC
+        Aston Villa x19 => Aston Villa FC
+        Cardiff City x19 => Cardiff City FC
+        Crystal Palace x19 => Crystal Palace FC
+        Everton FC x19 => Everton FC
+        Fulham FC x19 => Fulham FC
+        Hull City x19 => Hull City AFC
+        Liverpool FC x19 => Liverpool FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Newcastle United x19 => Newcastle United FC
+        Norwich City x19 => Norwich City FC
+        Southampton FC x19 => Southampton FC
+        Stoke City x19 => Stoke City FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        West Brom x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
+        Arsenal FC x18 => Arsenal FC
+        Chelsea FC x18 => Chelsea FC
+        Arsenal => Arsenal FC
+        !! FC Chelsea FC
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -546,27 +546,27 @@
   1 section(s):
     258 lines - league: >English Premier League< (eng.1), season: >2013/14<
       21 clubs:
-        Arsenal FC x19
-        Aston Villa x19
-        Cardiff City x19
-        Chelsea FC x19
-        Crystal Palace x19
-        Everton FC x19
-        Fulham FC x19
-        Hull City x19
-        Liverpool FC x19
-        Manchester City x19
-        Manchester United x19
-        Newcastle United x19
-        Norwich City x19
-        Stoke City x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        West Bromwich Albion x19
-        West Ham United x19
-        Southampton FC x18
-        Southampton
+        Arsenal FC x19 => Arsenal FC
+        Aston Villa x19 => Aston Villa FC
+        Cardiff City x19 => Cardiff City FC
+        Chelsea FC x19 => Chelsea FC
+        Crystal Palace x19 => Crystal Palace FC
+        Everton FC x19 => Everton FC
+        Fulham FC x19 => Fulham FC
+        Hull City x19 => Hull City AFC
+        Liverpool FC x19 => Liverpool FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Newcastle United x19 => Newcastle United FC
+        Norwich City x19 => Norwich City FC
+        Stoke City x19 => Stoke City FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        West Bromwich Albion x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
+        Southampton FC x18 => Southampton FC
+        Southampton => Southampton FC
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -591,39 +591,39 @@
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2013/14<, stage: >Play-offs<
       4 clubs:
-        Derby x3
-        QPR x3
-        Brighton x2
-        Wigan x2
+        Derby x3 => Derby County FC
+        QPR x3 => Queens Park Rangers FC
+        Brighton x2 => Brighton & Hove Albion FC
+        Wigan x2 => Wigan Athletic FC
       2 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
     598 lines - league: >English Championship< (eng.2), season: >2013/14<
       24 clubs:
-        Barnsley x46
-        Birmingham x46
-        Blackburn x46
-        Blackpool x46
-        Bolton x46
-        Bournemouth x46
-        Brighton x46
-        Burnley x46
-        Charlton x46
-        Derby x46
-        Doncaster x46
-        Huddersfield x46
-        Ipswich x46
-        Leeds x46
-        Leicester x46
-        Middlesbrough x46
-        Millwall x46
-        Nottingham x46
-        QPR x46
-        Reading x46
-        Sheffield Wed x46
-        Watford x46
-        Wigan x46
-        Yeovil x46
+        Barnsley x46 => Barnsley FC
+        Birmingham x46 => Birmingham City FC
+        Blackburn x46 => Blackburn Rovers FC
+        Blackpool x46 => Blackpool FC
+        Bolton x46 => Bolton Wanderers FC
+        Bournemouth x46 => AFC Bournemouth
+        Brighton x46 => Brighton & Hove Albion FC
+        Burnley x46 => Burnley FC
+        Charlton x46 => Charlton Athletic FC
+        Derby x46 => Derby County FC
+        Doncaster x46 => Doncaster Rovers FC
+        Huddersfield x46 => Huddersfield Town AFC
+        Ipswich x46 => Ipswich Town FC
+        Leeds x46 => Leeds United FC
+        Leicester x46 => Leicester City FC
+        Middlesbrough x46 => Middlesbrough FC
+        Millwall x46 => Millwall FC
+        !! Nottingham x46
+        QPR x46 => Queens Park Rangers FC
+        Reading x46 => Reading FC
+        !! Sheffield Wed x46
+        Watford x46 => Watford FC
+        Wigan x46 => Wigan Athletic FC
+        Yeovil x46 => Yeovil Town FC
       46 rounds:
         Round 46, 14 matches
         Round 45, 12 matches
@@ -675,30 +675,30 @@
   1 section(s):
     640 lines - league: >English League One< (eng.3), season: >2013/14<
       24 clubs:
-        Leyton Orient x49
-        Rotherham x49
-        Peterborough x48
-        Preston x48
-        Bradford x46
-        Brentford x46
-        Bristol City x46
-        Carlisle x46
-        Colchester x46
-        Coventry x46
-        Crawley Town x46
-        Crewe x46
-        Gillingham FC x46
-        Milton Keynes Dons x46
-        Notts County x46
-        Oldham x46
-        Port Vale x46
-        Sheffield Utd x46
-        Shrewsbury x46
-        Stevenage x46
-        Swindon x46
-        Tranmere x46
-        Walsall x46
-        Wolves x46
+        Leyton Orient x49 => Leyton Orient FC
+        Rotherham x49 => Rotherham United FC
+        !! Peterborough x48
+        Preston x48 => Preston North End FC
+        Bradford x46 => Bradford City AFC
+        Brentford x46 => Brentford FC
+        Bristol City x46 => Bristol City FC
+        Carlisle x46 => Carlisle United FC
+        Colchester x46 => Colchester United FC
+        Coventry x46 => Coventry City FC
+        Crawley Town x46 => Crawley Town FC
+        Crewe x46 => Crewe Alexandra FC
+        Gillingham FC x46 => Gillingham FC
+        Milton Keynes Dons x46 => Milton Keynes Dons FC
+        Notts County x46 => Notts County FC
+        Oldham x46 => Oldham Athletic AFC
+        Port Vale x46 => Port Vale FC
+        Sheffield Utd x46 => Sheffield United FC
+        Shrewsbury x46 => Shrewsbury Town FC
+        Stevenage x46 => Stevenage FC
+        Swindon x46 => Swindon Town FC
+        Tranmere x46 => Tranmere Rovers FC
+        Walsall x46 => Walsall FC
+        Wolves x46 => Wolverhampton Wanderers FC
       48 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
@@ -752,30 +752,30 @@
   1 section(s):
     635 lines - league: >English League Two< (eng.4), season: >2013/14<
       24 clubs:
-        Burton x49
-        Fleetwood Town x49
-        Southend x48
-        York x48
-        AFC Wimbledon x46
-        Accrington x46
-        Bristol Rovers x46
-        Bury x46
-        Cheltenham x46
-        Chesterfield x46
-        Dagenham & Red. x46
-        Exeter x46
-        Hartlepool x46
-        Mansfield x46
-        Morecambe x46
-        Newport x46
-        Northampton x46
-        Oxford Utd x46
-        Plymouth x46
-        Portsmouth x46
-        Rochdale x46
-        Scunthorpe x46
-        Torquay x46
-        Wycombe x46
+        Burton x49 => Burton Albion FC
+        Fleetwood Town x49 => Fleetwood Town FC
+        Southend x48 => Southend United FC
+        York x48 => York City FC
+        AFC Wimbledon x46 => AFC Wimbledon
+        Accrington x46 => Accrington Stanley FC
+        Bristol Rovers x46 => Bristol Rovers FC
+        Bury x46 => Bury FC
+        Cheltenham x46 => Cheltenham Town FC
+        Chesterfield x46 => Chesterfield FC
+        Dagenham & Red. x46 => Dagenham & Redbridge FC
+        Exeter x46 => Exeter City FC
+        Hartlepool x46 => Hartlepool United FC
+        Mansfield x46 => Mansfield Town FC
+        Morecambe x46 => Morecambe FC
+        !! Newport x46
+        Northampton x46 => Northampton Town FC
+        !! Oxford Utd x46
+        Plymouth x46 => Plymouth Argyle FC
+        Portsmouth x46 => Portsmouth FC
+        Rochdale x46 => Rochdale AFC
+        Scunthorpe x46 => Scunthorpe United FC
+        Torquay x46 => Torquay United FC
+        Wycombe x46 => Wycombe Wanderers FC
       48 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
@@ -829,28 +829,28 @@
   1 section(s):
     231 lines - league: >English Premier League< (eng.1), season: >2014/15<
       22 clubs:
-        Arsenal FC x19
-        Aston Villa x19
-        Burnley FC x19
-        Chelsea FC x19
-        Crystal Palace x19
-        Everton FC x19
-        Hull City x19
-        Leicester City x19
-        Manchester City x19
-        Manchester United x19
-        Newcastle United x19
-        Queens Park Rangers x19
-        Southampton FC x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        West Bromwich Albion x19
-        West Ham United x19
-        Liverpool FC x18
-        Stoke City x18
-        FC  Stoke City
-        Liverpool
+        Arsenal FC x19 => Arsenal FC
+        Aston Villa x19 => Aston Villa FC
+        Burnley FC x19 => Burnley FC
+        Chelsea FC x19 => Chelsea FC
+        Crystal Palace x19 => Crystal Palace FC
+        Everton FC x19 => Everton FC
+        Hull City x19 => Hull City AFC
+        Leicester City x19 => Leicester City FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Newcastle United x19 => Newcastle United FC
+        Queens Park Rangers x19 => Queens Park Rangers FC
+        Southampton FC x19 => Southampton FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        West Bromwich Albion x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
+        Liverpool FC x18 => Liverpool FC
+        Stoke City x18 => Stoke City FC
+        !! FC  Stoke City
+        Liverpool => Liverpool FC
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -875,26 +875,26 @@
   1 section(s):
     230 lines - league: >English Premier League< (eng.1), season: >2014/15<
       20 clubs:
-        Arsenal FC x19
-        Aston Villa x19
-        Burnley FC x19
-        Chelsea FC x19
-        Crystal Palace x19
-        Everton FC x19
-        Hull City x19
-        Leicester City x19
-        Liverpool FC x19
-        Manchester City x19
-        Manchester United x19
-        Newcastle United x19
-        Queens Park Rangers x19
-        Southampton FC x19
-        Stoke City x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        West Bromwich Albion x19
-        West Ham United x19
+        Arsenal FC x19 => Arsenal FC
+        Aston Villa x19 => Aston Villa FC
+        Burnley FC x19 => Burnley FC
+        Chelsea FC x19 => Chelsea FC
+        Crystal Palace x19 => Crystal Palace FC
+        Everton FC x19 => Everton FC
+        Hull City x19 => Hull City AFC
+        Leicester City x19 => Leicester City FC
+        Liverpool FC x19 => Liverpool FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Newcastle United x19 => Newcastle United FC
+        Queens Park Rangers x19 => Queens Park Rangers FC
+        Southampton FC x19 => Southampton FC
+        Stoke City x19 => Stoke City FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        West Bromwich Albion x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -919,39 +919,39 @@
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2014/15<, stage: >Play-offs<
       4 clubs:
-        Middlesbrough x3
-        Norwich x3
-        Brentford x2
-        Ipswich x2
+        Middlesbrough x3 => Middlesbrough FC
+        Norwich x3 => Norwich City FC
+        Brentford x2 => Brentford FC
+        Ipswich x2 => Ipswich Town FC
       2 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
     598 lines - league: >English Championship< (eng.2), season: >2014/15<
       24 clubs:
-        Birmingham x46
-        Blackburn x46
-        Blackpool x46
-        Bolton x46
-        Bournemouth x46
-        Brentford x46
-        Brighton x46
-        Cardiff x46
-        Charlton x46
-        Derby x46
-        Fulham x46
-        Huddersfield x46
-        Ipswich x46
-        Leeds x46
-        Middlesbrough x46
-        Millwall x46
-        Norwich x46
-        Nottingham x46
-        Reading x46
-        Rotherham x46
-        Sheffield Wed x46
-        Watford x46
-        Wigan x46
-        Wolves x46
+        Birmingham x46 => Birmingham City FC
+        Blackburn x46 => Blackburn Rovers FC
+        Blackpool x46 => Blackpool FC
+        Bolton x46 => Bolton Wanderers FC
+        Bournemouth x46 => AFC Bournemouth
+        Brentford x46 => Brentford FC
+        Brighton x46 => Brighton & Hove Albion FC
+        Cardiff x46 => Cardiff City FC
+        Charlton x46 => Charlton Athletic FC
+        Derby x46 => Derby County FC
+        Fulham x46 => Fulham FC
+        Huddersfield x46 => Huddersfield Town AFC
+        Ipswich x46 => Ipswich Town FC
+        Leeds x46 => Leeds United FC
+        Middlesbrough x46 => Middlesbrough FC
+        Millwall x46 => Millwall FC
+        Norwich x46 => Norwich City FC
+        !! Nottingham x46
+        Reading x46 => Reading FC
+        Rotherham x46 => Rotherham United FC
+        !! Sheffield Wed x46
+        Watford x46 => Watford FC
+        Wigan x46 => Wigan Athletic FC
+        Wolves x46 => Wolverhampton Wanderers FC
       46 rounds:
         Round 46, 13 matches
         Round 45, 14 matches
@@ -1003,30 +1003,30 @@
   1 section(s):
     631 lines - league: >English League One< (eng.3), season: >2014/15<
       24 clubs:
-        Preston x49
-        Swindon x49
-        Chesterfield x48
-        Sheffield Utd x48
-        Barnsley x46
-        Bradford x46
-        Bristol City x46
-        Colchester x46
-        Coventry x46
-        Crawley Town x46
-        Crewe x46
-        Doncaster x46
-        Fleetwood Town x46
-        Gillingham FC x46
-        Leyton Orient x46
-        Milton Keynes Dons x46
-        Notts County x46
-        Oldham x46
-        Peterborough x46
-        Port Vale x46
-        Rochdale x46
-        Scunthorpe x46
-        Walsall x46
-        Yeovil x46
+        Preston x49 => Preston North End FC
+        Swindon x49 => Swindon Town FC
+        Chesterfield x48 => Chesterfield FC
+        Sheffield Utd x48 => Sheffield United FC
+        Barnsley x46 => Barnsley FC
+        Bradford x46 => Bradford City AFC
+        Bristol City x46 => Bristol City FC
+        Colchester x46 => Colchester United FC
+        Coventry x46 => Coventry City FC
+        Crawley Town x46 => Crawley Town FC
+        Crewe x46 => Crewe Alexandra FC
+        Doncaster x46 => Doncaster Rovers FC
+        Fleetwood Town x46 => Fleetwood Town FC
+        Gillingham FC x46 => Gillingham FC
+        Leyton Orient x46 => Leyton Orient FC
+        Milton Keynes Dons x46 => Milton Keynes Dons FC
+        Notts County x46 => Notts County FC
+        Oldham x46 => Oldham Athletic AFC
+        !! Peterborough x46
+        Port Vale x46 => Port Vale FC
+        Rochdale x46 => Rochdale AFC
+        Scunthorpe x46 => Scunthorpe United FC
+        Walsall x46 => Walsall FC
+        Yeovil x46 => Yeovil Town FC
       48 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
@@ -1080,30 +1080,30 @@
   1 section(s):
     611 lines - league: >English League Two< (eng.4), season: >2014/15<
       24 clubs:
-        Southend x49
-        Wycombe x49
-        Plymouth x48
-        Stevenage x48
-        AFC Wimbledon x46
-        Accrington x46
-        Burton x46
-        Bury x46
-        Cambridge Utd x46
-        Carlisle x46
-        Cheltenham x46
-        Dagenham & Red. x46
-        Exeter x46
-        Hartlepool x46
-        Luton x46
-        Mansfield x46
-        Morecambe x46
-        Newport x46
-        Northampton x46
-        Oxford Utd x46
-        Portsmouth x46
-        Shrewsbury x46
-        Tranmere x46
-        York x46
+        Southend x49 => Southend United FC
+        Wycombe x49 => Wycombe Wanderers FC
+        Plymouth x48 => Plymouth Argyle FC
+        Stevenage x48 => Stevenage FC
+        AFC Wimbledon x46 => AFC Wimbledon
+        Accrington x46 => Accrington Stanley FC
+        Burton x46 => Burton Albion FC
+        Bury x46 => Bury FC
+        !! Cambridge Utd x46
+        Carlisle x46 => Carlisle United FC
+        Cheltenham x46 => Cheltenham Town FC
+        Dagenham & Red. x46 => Dagenham & Redbridge FC
+        Exeter x46 => Exeter City FC
+        Hartlepool x46 => Hartlepool United FC
+        Luton x46 => Luton Town FC
+        Mansfield x46 => Mansfield Town FC
+        Morecambe x46 => Morecambe FC
+        !! Newport x46
+        Northampton x46 => Northampton Town FC
+        !! Oxford Utd x46
+        Portsmouth x46 => Portsmouth FC
+        Shrewsbury x46 => Shrewsbury Town FC
+        Tranmere x46 => Tranmere Rovers FC
+        York x46 => York City FC
       48 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
@@ -1157,26 +1157,26 @@
   1 section(s):
     241 lines - league: >English Premier League< (eng.1), season: >2015/16<
       20 clubs:
-        AFC Bournemouth x19
-        Arsenal FC x19
-        Aston Villa x19
-        Chelsea FC x19
-        Crystal Palace x19
-        Everton FC x19
-        Leicester City x19
-        Liverpool FC x19
-        Manchester City x19
-        Manchester United x19
-        Newcastle United x19
-        Norwich City x19
-        Southampton FC x19
-        Stoke City x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        Watford FC x19
-        West Bromwich Albion x19
-        West Ham United x19
+        AFC Bournemouth x19 => AFC Bournemouth
+        Arsenal FC x19 => Arsenal FC
+        Aston Villa x19 => Aston Villa FC
+        Chelsea FC x19 => Chelsea FC
+        Crystal Palace x19 => Crystal Palace FC
+        Everton FC x19 => Everton FC
+        Leicester City x19 => Leicester City FC
+        Liverpool FC x19 => Liverpool FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Newcastle United x19 => Newcastle United FC
+        Norwich City x19 => Norwich City FC
+        Southampton FC x19 => Southampton FC
+        Stoke City x19 => Stoke City FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        Watford FC x19 => Watford FC
+        West Bromwich Albion x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -1201,26 +1201,26 @@
   1 section(s):
     243 lines - league: >English Premier League< (eng.1), season: >2015/16<
       20 clubs:
-        AFC Bournemouth x19
-        Arsenal FC x19
-        Aston Villa x19
-        Chelsea FC x19
-        Crystal Palace x19
-        Everton FC x19
-        Leicester City x19
-        Liverpool FC x19
-        Manchester City x19
-        Manchester United x19
-        Newcastle United x19
-        Norwich City x19
-        Southampton FC x19
-        Stoke City x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        Watford FC x19
-        West Bromwich Albion x19
-        West Ham United x19
+        AFC Bournemouth x19 => AFC Bournemouth
+        Arsenal FC x19 => Arsenal FC
+        Aston Villa x19 => Aston Villa FC
+        Chelsea FC x19 => Chelsea FC
+        Crystal Palace x19 => Crystal Palace FC
+        Everton FC x19 => Everton FC
+        Leicester City x19 => Leicester City FC
+        Liverpool FC x19 => Liverpool FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Newcastle United x19 => Newcastle United FC
+        Norwich City x19 => Norwich City FC
+        Southampton FC x19 => Southampton FC
+        Stoke City x19 => Stoke City FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        Watford FC x19 => Watford FC
+        West Bromwich Albion x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -1245,39 +1245,39 @@
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2015/16<, stage: >Play-offs<
       4 clubs:
-        Hull City x3
-        Sheffield Wed x3
-        Brighton x2
-        Derby x2
+        Hull City x3 => Hull City AFC
+        !! Sheffield Wed x3
+        Brighton x2 => Brighton & Hove Albion FC
+        Derby x2 => Derby County FC
       2 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
     596 lines - league: >English Championship< (eng.2), season: >2015/16<
       24 clubs:
-        Birmingham x46
-        Bolton x46
-        Brentford x46
-        Brighton x46
-        Bristol City x46
-        Burnley x46
-        Cardiff x46
-        Charlton x46
-        Derby x46
-        Fulham x46
-        Huddersfield x46
-        Leeds x46
-        Middlesbrough x46
-        Milton Keynes Dons x46
-        Preston x46
-        QPR x46
-        Reading x46
-        Rotherham x46
-        Sheffield Wed x46
-        Wolves x46
-        Blackburn x45
-        Hull City x45
-        Ipswich x45
-        Nottingham x45
+        Birmingham x46 => Birmingham City FC
+        Bolton x46 => Bolton Wanderers FC
+        Brentford x46 => Brentford FC
+        Brighton x46 => Brighton & Hove Albion FC
+        Bristol City x46 => Bristol City FC
+        Burnley x46 => Burnley FC
+        Cardiff x46 => Cardiff City FC
+        Charlton x46 => Charlton Athletic FC
+        Derby x46 => Derby County FC
+        Fulham x46 => Fulham FC
+        Huddersfield x46 => Huddersfield Town AFC
+        Leeds x46 => Leeds United FC
+        Middlesbrough x46 => Middlesbrough FC
+        Milton Keynes Dons x46 => Milton Keynes Dons FC
+        Preston x46 => Preston North End FC
+        QPR x46 => Queens Park Rangers FC
+        Reading x46 => Reading FC
+        Rotherham x46 => Rotherham United FC
+        !! Sheffield Wed x46
+        Wolves x46 => Wolverhampton Wanderers FC
+        Blackburn x45 => Blackburn Rovers FC
+        Hull City x45 => Hull City AFC
+        Ipswich x45 => Ipswich Town FC
+        !! Nottingham x45
       46 rounds:
         Matchday 46, 12 matches
         Matchday 45, 13 matches
@@ -1329,30 +1329,30 @@
   1 section(s):
     636 lines - league: >English League One< (eng.3), season: >2015/16<
       24 clubs:
-        Barnsley x49
-        Millwall x49
-        Bradford x48
-        Walsall x48
-        Blackpool x46
-        Burton x46
-        Bury x46
-        Chesterfield x46
-        Colchester x46
-        Coventry x46
-        Crewe x46
-        Doncaster x46
-        Fleetwood Town x46
-        Gillingham FC x46
-        Oldham x46
-        Peterborough x46
-        Port Vale x46
-        Rochdale x46
-        Scunthorpe x46
-        Sheffield Utd x46
-        Shrewsbury x46
-        Southend x46
-        Swindon x46
-        Wigan x46
+        Barnsley x49 => Barnsley FC
+        Millwall x49 => Millwall FC
+        Bradford x48 => Bradford City AFC
+        Walsall x48 => Walsall FC
+        Blackpool x46 => Blackpool FC
+        Burton x46 => Burton Albion FC
+        Bury x46 => Bury FC
+        Chesterfield x46 => Chesterfield FC
+        Colchester x46 => Colchester United FC
+        Coventry x46 => Coventry City FC
+        Crewe x46 => Crewe Alexandra FC
+        Doncaster x46 => Doncaster Rovers FC
+        Fleetwood Town x46 => Fleetwood Town FC
+        Gillingham FC x46 => Gillingham FC
+        Oldham x46 => Oldham Athletic AFC
+        !! Peterborough x46
+        Port Vale x46 => Port Vale FC
+        Rochdale x46 => Rochdale AFC
+        Scunthorpe x46 => Scunthorpe United FC
+        Sheffield Utd x46 => Sheffield United FC
+        Shrewsbury x46 => Shrewsbury Town FC
+        Southend x46 => Southend United FC
+        Swindon x46 => Swindon Town FC
+        Wigan x46 => Wigan Athletic FC
       48 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
@@ -1406,30 +1406,30 @@
   1 section(s):
     635 lines - league: >English League Two< (eng.4), season: >2015/16<
       24 clubs:
-        AFC Wimbledon x49
-        Plymouth x49
-        Accrington x48
-        Portsmouth x48
-        Barnet x46
-        Bristol Rovers x46
-        Cambridge Utd x46
-        Carlisle x46
-        Crawley Town x46
-        Dagenham & Red. x46
-        Exeter x46
-        Hartlepool x46
-        Leyton Orient x46
-        Luton x46
-        Mansfield x46
-        Morecambe x46
-        Newport x46
-        Northampton x46
-        Notts County x46
-        Oxford Utd x46
-        Stevenage x46
-        Wycombe x46
-        Yeovil x46
-        York x46
+        AFC Wimbledon x49 => AFC Wimbledon
+        Plymouth x49 => Plymouth Argyle FC
+        Accrington x48 => Accrington Stanley FC
+        Portsmouth x48 => Portsmouth FC
+        Barnet x46 => Barnet FC
+        Bristol Rovers x46 => Bristol Rovers FC
+        !! Cambridge Utd x46
+        Carlisle x46 => Carlisle United FC
+        Crawley Town x46 => Crawley Town FC
+        Dagenham & Red. x46 => Dagenham & Redbridge FC
+        Exeter x46 => Exeter City FC
+        Hartlepool x46 => Hartlepool United FC
+        Leyton Orient x46 => Leyton Orient FC
+        Luton x46 => Luton Town FC
+        Mansfield x46 => Mansfield Town FC
+        Morecambe x46 => Morecambe FC
+        !! Newport x46
+        Northampton x46 => Northampton Town FC
+        Notts County x46 => Notts County FC
+        !! Oxford Utd x46
+        Stevenage x46 => Stevenage FC
+        Wycombe x46 => Wycombe Wanderers FC
+        Yeovil x46 => Yeovil Town FC
+        York x46 => York City FC
       48 rounds:
         Final, 1 matches
         Semi-finals, 4 matches
@@ -1483,26 +1483,26 @@
   1 section(s):
     326 lines - league: >English Premier League< (eng.1), season: >2016/17<
       20 clubs:
-        AFC Bournemouth x19
-        Arsenal FC x19
-        Burnley FC x19
-        Chelsea FC x19
-        Crystal Palace x19
-        Everton FC x19
-        Hull City x19
-        Leicester City x19
-        Liverpool FC x19
-        Manchester City x19
-        Manchester United x19
-        Middlesbrough FC x19
-        Southampton FC x19
-        Stoke City x19
-        Sunderland AFC x19
-        Swansea City x19
-        Tottenham Hotspur x19
-        Watford FC x19
-        West Bromwich Albion x19
-        West Ham United x19
+        AFC Bournemouth x19 => AFC Bournemouth
+        Arsenal FC x19 => Arsenal FC
+        Burnley FC x19 => Burnley FC
+        Chelsea FC x19 => Chelsea FC
+        Crystal Palace x19 => Crystal Palace FC
+        Everton FC x19 => Everton FC
+        Hull City x19 => Hull City AFC
+        Leicester City x19 => Leicester City FC
+        Liverpool FC x19 => Liverpool FC
+        Manchester City x19 => Manchester City FC
+        Manchester United x19 => Manchester United FC
+        Middlesbrough FC x19 => Middlesbrough FC
+        Southampton FC x19 => Southampton FC
+        Stoke City x19 => Stoke City FC
+        Sunderland AFC x19 => Sunderland AFC
+        Swansea City x19 => Swansea City FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        Watford FC x19 => Watford FC
+        West Bromwich Albion x19 => West Bromwich Albion FC
+        West Ham United x19 => West Ham United FC
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -1527,26 +1527,26 @@
   1 section(s):
     260 lines - league: >English Premier League< (eng.1), season: >2016/17<
       20 clubs:
-        Arsenal FC x22
-        Southampton FC x22
-        Chelsea FC x21
-        Leicester City x21
-        Manchester City x21
-        Manchester United x21
-        Sunderland AFC x21
-        Tottenham Hotspur x21
-        Crystal Palace x20
-        Middlesbrough FC x20
-        Watford FC x20
-        West Bromwich Albion x20
-        AFC Bournemouth x19
-        Burnley FC x19
-        Everton FC x19
-        Hull City x19
-        Liverpool FC x19
-        Stoke City x19
-        Swansea City x19
-        West Ham United x19
+        Arsenal FC x22 => Arsenal FC
+        Southampton FC x22 => Southampton FC
+        Chelsea FC x21 => Chelsea FC
+        Leicester City x21 => Leicester City FC
+        Manchester City x21 => Manchester City FC
+        Manchester United x21 => Manchester United FC
+        Sunderland AFC x21 => Sunderland AFC
+        Tottenham Hotspur x21 => Tottenham Hotspur FC
+        Crystal Palace x20 => Crystal Palace FC
+        Middlesbrough FC x20 => Middlesbrough FC
+        Watford FC x20 => Watford FC
+        West Bromwich Albion x20 => West Bromwich Albion FC
+        AFC Bournemouth x19 => AFC Bournemouth
+        Burnley FC x19 => Burnley FC
+        Everton FC x19 => Everton FC
+        Hull City x19 => Hull City AFC
+        Liverpool FC x19 => Liverpool FC
+        Stoke City x19 => Stoke City FC
+        Swansea City x19 => Swansea City FC
+        West Ham United x19 => West Ham United FC
       22 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -1574,26 +1574,26 @@
   1 section(s):
     286 lines - league: >English Premier League< (eng.1), season: >2017/18<
       20 clubs:
-        AFC Bournemouth x21
-        Arsenal FC x21
-        Brighton & Hove Albion x21
-        Burnley FC x21
-        Chelsea FC x21
-        Crystal Palace x21
-        Everton FC x21
-        Huddersfield Town x21
-        Leicester City x21
-        Liverpool FC x21
-        Manchester City x21
-        Manchester United x21
-        Newcastle United x21
-        Southampton FC x21
-        Stoke City x21
-        Swansea City x21
-        Tottenham Hotspur x21
-        Watford FC x21
-        West Bromwich Albion x21
-        West Ham United x21
+        AFC Bournemouth x21 => AFC Bournemouth
+        Arsenal FC x21 => Arsenal FC
+        Brighton & Hove Albion x21 => Brighton & Hove Albion FC
+        Burnley FC x21 => Burnley FC
+        Chelsea FC x21 => Chelsea FC
+        Crystal Palace x21 => Crystal Palace FC
+        Everton FC x21 => Everton FC
+        Huddersfield Town x21 => Huddersfield Town AFC
+        Leicester City x21 => Leicester City FC
+        Liverpool FC x21 => Liverpool FC
+        Manchester City x21 => Manchester City FC
+        Manchester United x21 => Manchester United FC
+        Newcastle United x21 => Newcastle United FC
+        Southampton FC x21 => Southampton FC
+        Stoke City x21 => Stoke City FC
+        Swansea City x21 => Swansea City FC
+        Tottenham Hotspur x21 => Tottenham Hotspur FC
+        Watford FC x21 => Watford FC
+        West Bromwich Albion x21 => West Bromwich Albion FC
+        West Ham United x21 => West Ham United FC
       21 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -1620,31 +1620,31 @@
   1 section(s):
     271 lines - league: >English Premier League< (eng.1), season: >2017/18<
       25 clubs:
-        Brighton & Hove Albion x19
-        Chelsea FC x19
-        Leicester City x19
-        Manchester United x19
-        Southampton FC x19
-        Tottenham Hotspur x19
-        West Ham United x19
-        AFC Bournemouth x18
-        Arsenal FC x18
-        Burnley FC x18
-        Huddersfield Town x18
-        Manchester City x18
-        Newcastle United x18
-        Swansea City x18
-        Crystal Palace x17
-        Everton FC x17
-        Liverpool FC x17
-        Stoke City x17
-        Watford FC x17
-        West Bromwich Albion x17
-        Aston Villa x3
-        FC Fulham x3
-        Derby County x2
-        FC Middlesbrough x2
-        Tottenham Hotspurs
+        Brighton & Hove Albion x19 => Brighton & Hove Albion FC
+        Chelsea FC x19 => Chelsea FC
+        Leicester City x19 => Leicester City FC
+        Manchester United x19 => Manchester United FC
+        Southampton FC x19 => Southampton FC
+        Tottenham Hotspur x19 => Tottenham Hotspur FC
+        West Ham United x19 => West Ham United FC
+        AFC Bournemouth x18 => AFC Bournemouth
+        Arsenal FC x18 => Arsenal FC
+        Burnley FC x18 => Burnley FC
+        Huddersfield Town x18 => Huddersfield Town AFC
+        Manchester City x18 => Manchester City FC
+        Newcastle United x18 => Newcastle United FC
+        Swansea City x18 => Swansea City FC
+        Crystal Palace x17 => Crystal Palace FC
+        Everton FC x17 => Everton FC
+        Liverpool FC x17 => Liverpool FC
+        Stoke City x17 => Stoke City FC
+        Watford FC x17 => Watford FC
+        West Bromwich Albion x17 => West Bromwich Albion FC
+        Aston Villa x3 => Aston Villa FC
+        FC Fulham x3 => Fulham FC
+        Derby County x2 => Derby County FC
+        FC Middlesbrough x2 => Middlesbrough FC
+        !! Tottenham Hotspurs
       17 rounds:
         Matchday 22, 11 matches
         Matchday 23, 10 matches
@@ -1667,26 +1667,26 @@
   1 section(s):
     516 lines - league: >English Premier League< (eng.1), season: >2018/19<
       20 clubs:
-        Manchester City x39
-        Manchester United x39
-        AFC Bournemouth x38
-        Arsenal FC x38
-        Brighton & Hove Albion x38
-        Burnley FC x38
-        Cardiff City x38
-        Chelsea FC x38
-        Crystal Palace x38
-        Everton FC x38
-        Fulham FC x38
-        Huddersfield Town x38
-        Leicester City x38
-        Liverpool FC x38
-        Newcastle United x38
-        Southampton FC x38
-        Tottenham Hotspur x38
-        Watford FC x38
-        West Ham United x38
-        Wolverhampton Wanderers x38
+        Manchester City x39 => Manchester City FC
+        Manchester United x39 => Manchester United FC
+        AFC Bournemouth x38 => AFC Bournemouth
+        Arsenal FC x38 => Arsenal FC
+        Brighton & Hove Albion x38 => Brighton & Hove Albion FC
+        Burnley FC x38 => Burnley FC
+        Cardiff City x38 => Cardiff City FC
+        Chelsea FC x38 => Chelsea FC
+        Crystal Palace x38 => Crystal Palace FC
+        Everton FC x38 => Everton FC
+        Fulham FC x38 => Fulham FC
+        Huddersfield Town x38 => Huddersfield Town AFC
+        Leicester City x38 => Leicester City FC
+        Liverpool FC x38 => Liverpool FC
+        Newcastle United x38 => Newcastle United FC
+        Southampton FC x38 => Southampton FC
+        Tottenham Hotspur x38 => Tottenham Hotspur FC
+        Watford FC x38 => Watford FC
+        West Ham United x38 => West Ham United FC
+        Wolverhampton Wanderers x38 => Wolverhampton Wanderers FC
       38 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -1728,29 +1728,29 @@
         Matchday 38, 10 matches
 [34/82] >2019-20/1-premierleague.txt<
   1 section(s):
-    494 lines - league: >English Premier League< (eng.1), season: >2019/20<
+    495 lines - league: >English Premier League< (eng.1), season: >2019/20<
       21 clubs:
-        AFC Bournemouth x38
-        Aston Villa x38
-        Brighton & Hove Albion x38
-        Crystal Palace x38
-        FC Arsenal x38
-        FC Burnley x38
-        FC Chelsea x38
-        FC Everton x38
-        FC Southampton x38
-        FC Watford x38
-        Leicester City x38
-        Manchester City x38
-        Manchester United x38
-        Newcastle United x38
-        Norwich City x38
-        Sheffield United x38
-        Tottenham Hotspur x38
-        West Ham United x38
-        Wolverhampton Wanderers x38
-        FC Liverpool x37
-        FC Liverpool               postponed
+        AFC Bournemouth x38 => AFC Bournemouth
+        Aston Villa x38 => Aston Villa FC
+        Brighton & Hove Albion x38 => Brighton & Hove Albion FC
+        Crystal Palace x38 => Crystal Palace FC
+        FC Arsenal x38 => Arsenal FC
+        FC Burnley x38 => Burnley FC
+        FC Chelsea x38 => Chelsea FC
+        FC Everton x38 => Everton FC
+        FC Southampton x38 => Southampton FC
+        FC Watford x38 => Watford FC
+        Leicester City x38 => Leicester City FC
+        Manchester City x38 => Manchester City FC
+        Manchester United x38 => Manchester United FC
+        Newcastle United x38 => Newcastle United FC
+        Norwich City x38 => Norwich City FC
+        Sheffield United x38 => Sheffield United FC
+        Tottenham Hotspur x38 => Tottenham Hotspur FC
+        West Ham United x38 => West Ham United FC
+        Wolverhampton Wanderers x38 => Wolverhampton Wanderers FC
+        FC Liverpool x37 => Liverpool FC
+        !! FC Liverpool               postponed
       38 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
