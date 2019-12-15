@@ -243,8 +243,8 @@
         Leicester x46 => Leicester City FC
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
-        !! Nottingham x46
-        !! Peterborough x46
+     !! Nottingham x46
+     !! Peterborough x46
         Portsmouth x46 => Portsmouth FC
         Reading x46 => Reading FC
         Southampton x46 => Southampton FC
@@ -388,6 +388,8 @@
         West Brom => West Bromwich Albion FC
         West Ham United => West Ham United FC
         Wigan Athletic => Wigan Athletic FC
+!! ERROR: 19 duplicate club record(s) found
+
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -440,9 +442,9 @@
         Leicester x46 => Leicester City FC
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
-        !! Nottingham x46
-        !! Peterborough x46
-        !! Sheffield Wed x46
+     !! Nottingham x46
+     !! Peterborough x46
+     !! Sheffield Wed x46
         Watford x46 => Watford FC
         Wolves x46 => Wolverhampton Wanderers FC
       46 rounds:
@@ -521,7 +523,9 @@
         Arsenal FC x18 => Arsenal FC
         Chelsea FC x18 => Chelsea FC
         Arsenal => Arsenal FC
-        !! FC Chelsea FC
+     !! FC Chelsea FC
+!! ERROR: 1 duplicate club record(s) found
+
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -567,6 +571,8 @@
         West Ham United x19 => West Ham United FC
         Southampton FC x18 => Southampton FC
         Southampton => Southampton FC
+!! ERROR: 1 duplicate club record(s) found
+
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -617,10 +623,10 @@
         Leicester x46 => Leicester City FC
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
-        !! Nottingham x46
+     !! Nottingham x46
         QPR x46 => Queens Park Rangers FC
         Reading x46 => Reading FC
-        !! Sheffield Wed x46
+     !! Sheffield Wed x46
         Watford x46 => Watford FC
         Wigan x46 => Wigan Athletic FC
         Yeovil x46 => Yeovil Town FC
@@ -677,7 +683,7 @@
       24 clubs:
         Leyton Orient x49 => Leyton Orient FC
         Rotherham x49 => Rotherham United FC
-        !! Peterborough x48
+     !! Peterborough x48
         Preston x48 => Preston North End FC
         Bradford x46 => Bradford City AFC
         Brentford x46 => Brentford FC
@@ -767,9 +773,9 @@
         Hartlepool x46 => Hartlepool United FC
         Mansfield x46 => Mansfield Town FC
         Morecambe x46 => Morecambe FC
-        !! Newport x46
+     !! Newport x46
         Northampton x46 => Northampton Town FC
-        !! Oxford Utd x46
+     !! Oxford Utd x46
         Plymouth x46 => Plymouth Argyle FC
         Portsmouth x46 => Portsmouth FC
         Rochdale x46 => Rochdale AFC
@@ -849,8 +855,10 @@
         West Ham United x19 => West Ham United FC
         Liverpool FC x18 => Liverpool FC
         Stoke City x18 => Stoke City FC
-        !! FC  Stoke City
+     !! FC  Stoke City
         Liverpool => Liverpool FC
+!! ERROR: 1 duplicate club record(s) found
+
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -945,10 +953,10 @@
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
         Norwich x46 => Norwich City FC
-        !! Nottingham x46
+     !! Nottingham x46
         Reading x46 => Reading FC
         Rotherham x46 => Rotherham United FC
-        !! Sheffield Wed x46
+     !! Sheffield Wed x46
         Watford x46 => Watford FC
         Wigan x46 => Wigan Athletic FC
         Wolves x46 => Wolverhampton Wanderers FC
@@ -1021,7 +1029,7 @@
         Milton Keynes Dons x46 => Milton Keynes Dons FC
         Notts County x46 => Notts County FC
         Oldham x46 => Oldham Athletic AFC
-        !! Peterborough x46
+     !! Peterborough x46
         Port Vale x46 => Port Vale FC
         Rochdale x46 => Rochdale AFC
         Scunthorpe x46 => Scunthorpe United FC
@@ -1088,7 +1096,7 @@
         Accrington x46 => Accrington Stanley FC
         Burton x46 => Burton Albion FC
         Bury x46 => Bury FC
-        !! Cambridge Utd x46
+     !! Cambridge Utd x46
         Carlisle x46 => Carlisle United FC
         Cheltenham x46 => Cheltenham Town FC
         Dagenham & Red. x46 => Dagenham & Redbridge FC
@@ -1097,9 +1105,9 @@
         Luton x46 => Luton Town FC
         Mansfield x46 => Mansfield Town FC
         Morecambe x46 => Morecambe FC
-        !! Newport x46
+     !! Newport x46
         Northampton x46 => Northampton Town FC
-        !! Oxford Utd x46
+     !! Oxford Utd x46
         Portsmouth x46 => Portsmouth FC
         Shrewsbury x46 => Shrewsbury Town FC
         Tranmere x46 => Tranmere Rovers FC
@@ -1246,7 +1254,7 @@
     7 lines - league: >English Championship< (eng.2), season: >2015/16<, stage: >Play-offs<
       4 clubs:
         Hull City x3 => Hull City AFC
-        !! Sheffield Wed x3
+     !! Sheffield Wed x3
         Brighton x2 => Brighton & Hove Albion FC
         Derby x2 => Derby County FC
       2 rounds:
@@ -1272,12 +1280,12 @@
         QPR x46 => Queens Park Rangers FC
         Reading x46 => Reading FC
         Rotherham x46 => Rotherham United FC
-        !! Sheffield Wed x46
+     !! Sheffield Wed x46
         Wolves x46 => Wolverhampton Wanderers FC
         Blackburn x45 => Blackburn Rovers FC
         Hull City x45 => Hull City AFC
         Ipswich x45 => Ipswich Town FC
-        !! Nottingham x45
+     !! Nottingham x45
       46 rounds:
         Matchday 46, 12 matches
         Matchday 45, 13 matches
@@ -1344,7 +1352,7 @@
         Fleetwood Town x46 => Fleetwood Town FC
         Gillingham FC x46 => Gillingham FC
         Oldham x46 => Oldham Athletic AFC
-        !! Peterborough x46
+     !! Peterborough x46
         Port Vale x46 => Port Vale FC
         Rochdale x46 => Rochdale AFC
         Scunthorpe x46 => Scunthorpe United FC
@@ -1412,7 +1420,7 @@
         Portsmouth x48 => Portsmouth FC
         Barnet x46 => Barnet FC
         Bristol Rovers x46 => Bristol Rovers FC
-        !! Cambridge Utd x46
+     !! Cambridge Utd x46
         Carlisle x46 => Carlisle United FC
         Crawley Town x46 => Crawley Town FC
         Dagenham & Red. x46 => Dagenham & Redbridge FC
@@ -1422,10 +1430,10 @@
         Luton x46 => Luton Town FC
         Mansfield x46 => Mansfield Town FC
         Morecambe x46 => Morecambe FC
-        !! Newport x46
+     !! Newport x46
         Northampton x46 => Northampton Town FC
         Notts County x46 => Notts County FC
-        !! Oxford Utd x46
+     !! Oxford Utd x46
         Stevenage x46 => Stevenage FC
         Wycombe x46 => Wycombe Wanderers FC
         Yeovil x46 => Yeovil Town FC
@@ -1644,7 +1652,7 @@
         FC Fulham x3 => Fulham FC
         Derby County x2 => Derby County FC
         FC Middlesbrough x2 => Middlesbrough FC
-        !! Tottenham Hotspurs
+     !! Tottenham Hotspurs
       17 rounds:
         Matchday 22, 11 matches
         Matchday 23, 10 matches
@@ -1750,7 +1758,7 @@
         West Ham United x38 => West Ham United FC
         Wolverhampton Wanderers x38 => Wolverhampton Wanderers FC
         FC Liverpool x37 => Liverpool FC
-        !! FC Liverpool               postponed
+     !! FC Liverpool               postponed
       38 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
