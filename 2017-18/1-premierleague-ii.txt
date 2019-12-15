@@ -19,11 +19,11 @@ Matchday 22
 
 ## in addition Matchday 21
 [Thu Jan/4]
-  Tottenham Hotspurs          1-1  West Ham United
+  Tottenham Hotspur          1-1  West Ham United
 
 
-##proposed 1. Aufsteiger in PremierLeague 2018/19:
-Wolverhampton Wanderers
+# proposed 1. Aufsteiger in PremierLeague 2018/19:
+# Wolverhampton Wanderers
 
 
 Matchday 23
@@ -215,17 +215,17 @@ Matchday 34
 [Mon Apr/16]
   West Ham United             1-1  Stoke City
 
-## 1. PremierLeague Aufsteiger 2018/19:
-  Wolverhampton Wanderers
+# 1. PremierLeague Aufsteiger 2018/19:
+#  Wolverhampton Wanderers
+#
+# Master PremierLeague 2017/18:
+#  Manchester City
 
-## Master PremierLeague 2017/18:
-  Manchester City
-
-## in addition Matchday 35
+# in addition Matchday 35
 [Tue Apr/17]
   Brighton & Hove Albion      1-1  Tottenham Hotspur
 
-## in addition Matchday 35
+# in addition Matchday 35
 [Wed Apr/18]
   AFC Bournemouth             0-2  Manchester United
 
@@ -285,15 +285,15 @@ Matchday 37
   Chelsea FC                  1-0  Liverpool FC
   Manchester City             0-0  Huddersfield Town
 
-## 2. Aufsteiger PremierLeague 2018/19:
-   Cardiff City
+# 2. Aufsteiger PremierLeague 2018/19:
+#   Cardiff City
 
-## in addition Matchday 31
+# in addition Matchday 31
 [Tue May/8]
   Swansea City               0-1  Southampton FC
 
-## 2. Absteiger PremierLeague 2017/18:
-   West Bromwich Albion
+# 2. Absteiger PremierLeague 2017/18:
+#   West Bromwich Albion
 
 ## in addition Matchday 31
 [Wed May/9]
@@ -310,14 +310,14 @@ Matchday 37
   West Ham United            0-0  Manchester United
 
 ##  winner for play-off final 2017/18 qualified:
-[Fri May/11]
-  Derby County               1-0  FC Fulham
-[Sat May/12]
-  FC Middlesbrough           0-1  Aston Villa
-[Mon May/14]
-  FC Fulham                  2-0  Derby County
-[Tue May/15]
-  Aston Villa                0-0  FC Middlesbrough
+# [Fri May/11]
+#  Derby County               1-0  FC Fulham
+# [Sat May/12]
+#  FC Middlesbrough           0-1  Aston Villa
+# [Mon May/14]
+#  FC Fulham                  2-0  Derby County
+# [Tue May/15]
+#  Aston Villa                0-0  FC Middlesbrough
 
 
 Matchday 38
@@ -334,14 +334,14 @@ Matchday 38
   Tottenham Hotspur          5-4  Leicester City
   West Ham United            3-1  Everton FC
 
-  ## 3. Absteiger PremierLeague 2017/18:
-    Swansea City
+# 3. Absteiger PremierLeague 2017/18:
+#    Swansea City
 
-  ## winner to PremierLeague 2018/19:
-  [Sat May/26]
-    FC Fulham               1-0 Aston Villa
+# winner to PremierLeague 2018/19:
+#  [Sat May/26]
+#    FC Fulham               1-0 Aston Villa
+#
+# 3. Aufsteiger PremiereLeague 2018/19:
+#    FC Fulham
 
-  ## 3. Aufsteiger PremiereLeague 2018/19:
-    FC Fulham
-
-  ##  summerbreak until 11.08.18
+#  summerbreak until 11.08.18
