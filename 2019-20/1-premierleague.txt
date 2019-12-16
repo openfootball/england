@@ -274,7 +274,7 @@ Matchday 18
   Aston Villa             - FC Southampton
   FC Everton              - FC Arsenal
   Newcastle United        - Crystal Palace
-  West Ham United         - FC Liverpool                  postponed
+  West Ham United         - FC Liverpool                 ## postponed
   Manchester City         - Leicester City
   Norwich City            - Wolverhampton Wanderers
   AFC Bournemouth         - FC Burnley
