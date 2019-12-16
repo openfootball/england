@@ -28,7 +28,7 @@ May/02 Derby 0-3 Reading
 May/02 Leeds 0-0 Rotherham
 May/02 Middlesbrough 0-0 Brighton
 May/02 Norwich 4-2 Fulham
-May/02 Nottingham 1-2 Cardiff
+May/02 Nottingham Forest 1-2 Cardiff
 May/02 Watford 1-1 Sheffield Wed
 May/02 Wolves 4-2 Millwall
 Apr/28 Rotherham 2-1 Reading
@@ -40,7 +40,7 @@ Apr/25 Birmingham 1-0 Charlton
 Apr/25 Cardiff 3-2 Blackpool
 Apr/25 Fulham 4-3 Middlesbrough
 Apr/25 Huddersfield 2-2 Blackburn
-Apr/25 Ipswich 2-1 Nottingham
+Apr/25 Ipswich 2-1 Nottingham Forest
 Apr/25 Millwall 3-3 Derby
 Apr/25 Reading 0-2 Brentford
 Apr/25 Rotherham 1-1 Norwich
@@ -52,7 +52,7 @@ Apr/21 Blackburn 2-0 Millwall
 
  Round 44
 
-Apr/18 Blackburn 3-3 Nottingham
+Apr/18 Blackburn 3-3 Nottingham Forest
 Apr/18 Blackpool 0-1 Fulham
 Apr/18 Bournemouth 2-2 Sheffield Wed
 Apr/18 Brentford 2-2 Bolton
@@ -67,7 +67,7 @@ Apr/17 Norwich 0-1 Middlesbrough
  Round 43
 
 Apr/15 Fulham 1-1 Rotherham
-Apr/15 Nottingham 1-3 Watford
+Apr/15 Nottingham Forest 1-3 Watford
 Apr/14 Bolton 1-1 Charlton
 Apr/14 Reading 0-1 Bournemouth
 Apr/14 Birmingham 2-2 Blackburn
@@ -87,7 +87,7 @@ Apr/11 Ipswich 3-2 Blackpool
 Apr/11 Leeds 1-2 Cardiff
 Apr/11 Middlesbrough 2-0 Rotherham
 Apr/11 Millwall 0-2 Watford
-Apr/11 Nottingham 0-1 Huddersfield
+Apr/11 Nottingham Forest 0-1 Huddersfield
 Apr/11 Reading 0-0 Blackburn
 Apr/11 Sheffield Wed 1-1 Charlton
 Apr/11 Derby 1-1 Brentford
@@ -100,7 +100,7 @@ Apr/07 Blackpool 1-1 Reading
 Apr/07 Charlton 1-1 Fulham
 Apr/06 Wolves 4-3 Leeds
 Apr/06 Bournemouth 4-2 Birmingham
-Apr/06 Brentford 2-2 Nottingham
+Apr/06 Brentford 2-2 Nottingham Forest
 Apr/06 Cardiff 0-3 Bolton
 Apr/06 Huddersfield 2-1 Ipswich
 Apr/06 Norwich 2-0 Sheffield Wed
@@ -121,7 +121,7 @@ Apr/03 Brighton 0-1 Norwich
 Apr/03 Fulham 1-4 Brentford
 Apr/03 Middlesbrough 1-0 Wigan
 Apr/03 Millwall 2-1 Charlton
-Apr/03 Nottingham 1-2 Wolves
+Apr/03 Nottingham Forest 1-2 Wolves
 
  Round 39
 
@@ -130,7 +130,7 @@ Mar/21 Blackpool 1-1 Leeds
 Mar/21 Cardiff 2-0 Birmingham
 Mar/21 Charlton 3-2 Reading
 Mar/21 Huddersfield 0-2 Fulham
-Mar/21 Norwich 3-1 Nottingham
+Mar/21 Norwich 3-1 Nottingham Forest
 Mar/21 Rotherham 2-3 Sheffield Wed
 Mar/21 Watford 0-1 Ipswich
 Mar/21 Wigan 1-1 Bolton
@@ -141,7 +141,7 @@ Mar/20 Wolves 2-0 Derby
  Round 38
 
 Mar/18 Fulham 0-3 Leeds
-Mar/18 Nottingham 2-0 Rotherham
+Mar/18 Nottingham Forest 2-0 Rotherham
 Mar/17 Blackburn 2-3 Brentford
 Mar/17 Blackpool 0-3 Charlton
 Mar/17 Cardiff 1-1 Bournemouth
@@ -160,7 +160,7 @@ Mar/14 Bournemouth 4-0 Blackpool
 Mar/14 Brentford 1-2 Cardiff
 Mar/14 Brighton 1-1 Wolves
 Mar/14 Charlton 1-3 Blackburn
-Mar/14 Leeds 0-0 Nottingham
+Mar/14 Leeds 0-0 Nottingham Forest
 Mar/14 Norwich 1-1 Derby
 Mar/14 Rotherham 1-2 Wigan
 Mar/14 Sheffield Wed 1-1 Fulham
@@ -177,7 +177,7 @@ Mar/07 Derby 2-2 Birmingham
 Mar/07 Huddersfield 0-2 Rotherham
 Mar/07 Ipswich 1-1 Brentford
 Mar/07 Millwall 1-4 Norwich
-Mar/07 Nottingham 2-1 Middlesbrough
+Mar/07 Nottingham Forest 2-1 Middlesbrough
 Mar/07 Wigan 0-1 Leeds
 Mar/07 Wolves 2-2 Watford
 Mar/06 Fulham 1-5 Bournemouth
@@ -192,7 +192,7 @@ Mar/03 Bolton 1-1 Reading
 Mar/03 Bournemouth 2-1 Wolves
 Mar/03 Brentford 4-1 Huddersfield
 Mar/03 Brighton 2-0 Derby
-Mar/03 Charlton 2-1 Nottingham
+Mar/03 Charlton 2-1 Nottingham Forest
 Mar/03 Middlesbrough 3-0 Millwall
 Mar/03 Rotherham 1-3 Cardiff
 Mar/03 Watford 1-0 Fulham
@@ -208,13 +208,13 @@ Feb/28 Cardiff 0-1 Wolves
 Feb/28 Charlton 3-0 Huddersfield
 Feb/28 Fulham 2-0 Derby
 Feb/28 Leeds 2-3 Watford
-Feb/28 Reading 0-3 Nottingham
+Feb/28 Reading 0-3 Nottingham Forest
 Feb/28 Rotherham 2-1 Millwall
 Feb/28 Sheffield Wed 2-0 Middlesbrough
 
  Round 33
 
-Feb/25 Nottingham 2-1 Bournemouth
+Feb/25 Nottingham Forest 2-1 Bournemouth
 Feb/24 Blackburn 1-2 Norwich
 Feb/24 Brentford 4-0 Blackpool
 Feb/24 Brighton 2-0 Leeds
@@ -236,7 +236,7 @@ Feb/21 Derby 3-2 Sheffield Wed
 Feb/21 Huddersfield 0-0 Cardiff
 Feb/21 Ipswich 0-1 Reading
 Feb/21 Millwall 0-0 Fulham
-Feb/21 Nottingham 4-1 Bolton
+Feb/21 Nottingham Forest 4-1 Bolton
 Feb/21 Watford 0-3 Norwich
 Feb/21 Wolves 5-0 Rotherham
 Feb/21 Middlesbrough 0-1 Leeds
@@ -248,7 +248,7 @@ Feb/18 Birmingham 1-1 Middlesbrough
 Feb/17 Reading 0-1 Wigan
 Feb/17 Cardiff 1-1 Blackburn
 Feb/17 Rotherham 3-3 Derby
-Feb/14 Blackpool 4-4 Nottingham
+Feb/14 Blackpool 4-4 Nottingham Forest
 Feb/14 Bolton 3-4 Watford
 Feb/14 Bournemouth 1-1 Huddersfield
 Feb/14 Charlton 3-0 Brentford
@@ -259,7 +259,7 @@ Feb/14 Sheffield Wed 0-0 Brighton
 
  Round 30
 
-Feb/11 Nottingham 3-0 Wigan
+Feb/11 Nottingham Forest 3-0 Wigan
 Feb/10 Bolton 3-1 Fulham
 Feb/10 Reading 0-2 Leeds
 Feb/10 Birmingham 0-1 Millwall
@@ -274,7 +274,7 @@ Feb/10 Ipswich 2-1 Sheffield Wed
 
  Round 29
 
-Feb/07 Brighton 2-3 Nottingham
+Feb/07 Brighton 2-3 Nottingham Forest
 Feb/07 Derby 4-1 Bolton
 Feb/07 Fulham 1-1 Birmingham
 Feb/07 Leeds 0-1 Brentford
@@ -296,7 +296,7 @@ Jan/31 Bolton 2-2 Wolves
 Jan/31 Cardiff 0-2 Derby
 Jan/31 Charlton 1-1 Rotherham
 Jan/31 Ipswich 0-0 Wigan
-Jan/31 Nottingham 0-1 Millwall
+Jan/31 Nottingham Forest 0-1 Millwall
 Jan/31 Reading 2-0 Sheffield Wed
 Jan/31 Huddersfield 1-2 Leeds
 Jan/31 Brentford 0-1 Middlesbrough
@@ -313,7 +313,7 @@ Jan/24 Watford 7-2 Blackpool
 Jan/24 Wigan 0-1 Huddersfield
 Jan/24 Wolves 0-0 Charlton
 Jan/21 Brighton 3-2 Ipswich
-Jan/21 Fulham 3-2 Nottingham
+Jan/21 Fulham 3-2 Nottingham Forest
 Jan/20 Leeds 1-0 Bournemouth
 Jan/20 Middlesbrough 2-1 Cardiff
 
@@ -330,7 +330,7 @@ Jan/17 Sheffield Wed 1-2 Bolton
 Jan/17 Watford 5-0 Charlton
 Jan/17 Wigan 1-1 Blackburn
 Jan/17 Wolves 2-0 Blackpool
-Jan/17 Derby 1-2 Nottingham
+Jan/17 Derby 1-2 Nottingham Forest
 
  Round 25
 
@@ -343,7 +343,7 @@ Jan/10 Brentford 1-0 Rotherham
 Jan/10 Cardiff 1-0 Fulham
 Jan/10 Charlton 0-1 Brighton
 Jan/10 Huddersfield 3-1 Watford
-Jan/10 Nottingham 0-2 Sheffield Wed
+Jan/10 Nottingham Forest 0-2 Sheffield Wed
 Jan/10 Reading 0-0 Middlesbrough
 Jan/10 Ipswich 0-1 Derby
 
@@ -360,7 +360,7 @@ Dec/28 Huddersfield 2-1 Bolton
 Dec/28 Millwall 0-2 Bournemouth
 Dec/28 Reading 2-1 Norwich
 Dec/28 Wolves 2-1 Brentford
-Dec/28 Nottingham 1-3 Birmingham
+Dec/28 Nottingham Forest 1-3 Birmingham
 
  Round 23
 
@@ -370,7 +370,7 @@ Dec/26 Bolton 2-1 Blackburn
 Dec/26 Bournemouth 2-0 Fulham
 Dec/26 Brighton 2-2 Reading
 Dec/26 Leeds 0-2 Wigan
-Dec/26 Middlesbrough 3-0 Nottingham
+Dec/26 Middlesbrough 3-0 Nottingham Forest
 Dec/26 Norwich 6-1 Millwall
 Dec/26 Rotherham 2-2 Huddersfield
 Dec/26 Sheffield Wed 1-0 Blackpool
@@ -379,7 +379,7 @@ Dec/26 Charlton 1-1 Cardiff
 
  Round 22
 
-Dec/20 Nottingham 1-1 Leeds
+Dec/20 Nottingham Forest 1-1 Leeds
 Dec/20 Blackburn 2-0 Charlton
 Dec/20 Blackpool 1-6 Bournemouth
 Dec/20 Cardiff 2-3 Brentford
@@ -401,7 +401,7 @@ Dec/13 Brentford 3-1 Blackburn
 Dec/13 Charlton 2-2 Blackpool
 Dec/13 Leeds 0-1 Fulham
 Dec/13 Norwich 5-0 Huddersfield
-Dec/13 Rotherham 0-0 Nottingham
+Dec/13 Rotherham 0-0 Nottingham Forest
 Dec/13 Sheffield Wed 0-1 Wolves
 Dec/13 Watford 2-1 Wigan
 Dec/13 Middlesbrough 2-0 Derby
@@ -416,7 +416,7 @@ Dec/06 Derby 3-0 Brighton
 Dec/06 Huddersfield 2-1 Brentford
 Dec/06 Ipswich 4-1 Leeds
 Dec/06 Millwall 1-5 Middlesbrough
-Dec/06 Nottingham 1-1 Charlton
+Dec/06 Nottingham Forest 1-1 Charlton
 Dec/06 Reading 0-0 Bolton
 Dec/06 Wigan 0-1 Norwich
 Dec/06 Wolves 1-2 Bournemouth
@@ -424,7 +424,7 @@ Dec/05 Fulham 0-5 Watford
 
  Round 19
 
-Nov/29 Birmingham 2-1 Nottingham
+Nov/29 Birmingham 2-1 Nottingham Forest
 Nov/29 Bolton 1-0 Huddersfield
 Nov/29 Bournemouth 2-2 Millwall
 Nov/29 Brentford 4-0 Wolves
@@ -447,7 +447,7 @@ Nov/22 Norwich 3-3 Brighton
 Nov/22 Rotherham 0-1 Birmingham
 Nov/22 Watford 1-2 Derby
 Nov/22 Wigan 1-1 Middlesbrough
-Nov/22 Wolves 0-3 Nottingham
+Nov/22 Wolves 0-3 Nottingham Forest
 Nov/22 Huddersfield 0-0 Sheffield Wed
 Nov/21 Brentford 2-1 Fulham
 Nov/21 Cardiff 2-1 Reading
@@ -461,7 +461,7 @@ Nov/08 Ipswich 1-0 Watford
 Nov/08 Leeds 3-1 Blackpool
 Nov/08 Middlesbrough 0-0 Bournemouth
 Nov/08 Millwall 2-3 Brentford
-Nov/08 Nottingham 2-1 Norwich
+Nov/08 Nottingham Forest 2-1 Norwich
 Nov/08 Reading 0-1 Charlton
 Nov/08 Sheffield Wed 0-0 Rotherham
 Nov/08 Derby 5-0 Wolves
@@ -470,7 +470,7 @@ Nov/07 Bolton 3-1 Wigan
  Round 16
 
 Nov/05 Fulham 2-2 Blackpool
-Nov/05 Nottingham 1-3 Brentford
+Nov/05 Nottingham Forest 1-3 Brentford
 Nov/04 Bolton 3-0 Cardiff
 Nov/04 Reading 3-0 Rotherham
 Nov/04 Birmingham 2-1 Watford
@@ -490,7 +490,7 @@ Nov/01 Blackpool 0-2 Ipswich
 Nov/01 Brentford 2-1 Derby
 Nov/01 Cardiff 3-1 Leeds
 Nov/01 Charlton 1-1 Sheffield Wed
-Nov/01 Huddersfield 3-0 Nottingham
+Nov/01 Huddersfield 3-0 Nottingham Forest
 Nov/01 Rotherham 0-3 Middlesbrough
 Nov/01 Watford 3-1 Millwall
 Nov/01 Wigan 3-3 Fulham
@@ -506,7 +506,7 @@ Oct/25 Derby 1-2 Wigan
 Oct/25 Ipswich 2-2 Huddersfield
 Oct/25 Leeds 1-2 Wolves
 Oct/25 Middlesbrough 1-1 Watford
-Oct/25 Nottingham 1-3 Blackburn
+Oct/25 Nottingham Forest 1-3 Blackburn
 Oct/25 Reading 3-0 Blackpool
 Oct/25 Sheffield Wed 0-0 Norwich
 Oct/25 Millwall 1-0 Cardiff
@@ -523,7 +523,7 @@ Oct/21 Charlton 2-1 Bolton
 Oct/21 Huddersfield 1-1 Brighton
 Oct/21 Norwich 1-1 Leeds
 Oct/21 Rotherham 3-3 Fulham
-Oct/21 Watford 2-2 Nottingham
+Oct/21 Watford 2-2 Nottingham Forest
 Oct/21 Wigan 0-0 Millwall
 Oct/21 Wolves 2-0 Middlesbrough
 
@@ -539,12 +539,12 @@ Oct/18 Millwall 3-3 Wolves
 Oct/18 Reading 0-3 Derby
 Oct/18 Sheffield Wed 0-3 Watford
 Oct/18 Wigan 0-0 Brentford
-Oct/18 Cardiff 2-1 Nottingham
+Oct/18 Cardiff 2-1 Nottingham Forest
 Oct/17 Rotherham 2-1 Leeds
 
  Round 11
 
-Oct/05 Nottingham 2-2 Ipswich
+Oct/05 Nottingham Forest 2-2 Ipswich
 Oct/04 Blackburn 0-0 Huddersfield
 Oct/04 Bolton 1-2 Bournemouth
 Oct/04 Brentford 3-1 Reading
@@ -570,7 +570,7 @@ Sep/30 Norwich 0-1 Charlton
 Sep/30 Rotherham 2-0 Blackburn
 Sep/30 Sheffield Wed 1-1 Ipswich
 Sep/30 Watford 2-1 Brentford
-Sep/30 Wigan 0-0 Nottingham
+Sep/30 Wigan 0-0 Nottingham Forest
 
  Round 9
 
@@ -585,7 +585,7 @@ Sep/27 Cardiff 2-1 Sheffield Wed
 Sep/27 Charlton 0-0 Middlesbrough
 Sep/27 Huddersfield 2-1 Millwall
 Sep/27 Ipswich 2-0 Rotherham
-Sep/27 Nottingham 0-0 Brighton
+Sep/27 Nottingham Forest 0-0 Brighton
 
  Round 8
 
@@ -595,7 +595,7 @@ Sep/20 Derby 2-2 Cardiff
 Sep/20 Fulham 0-1 Blackburn
 Sep/20 Leeds 3-0 Huddersfield
 Sep/20 Middlesbrough 4-0 Brentford
-Sep/20 Millwall 0-0 Nottingham
+Sep/20 Millwall 0-0 Nottingham Forest
 Sep/20 Norwich 2-2 Birmingham
 Sep/20 Rotherham 1-1 Charlton
 Sep/20 Sheffield Wed 1-0 Reading
@@ -605,7 +605,7 @@ Sep/20 Watford 1-1 Bournemouth
  Round 7
 
 Sep/17 Blackburn 2-3 Derby
-Sep/17 Nottingham 5-3 Fulham
+Sep/17 Nottingham Forest 5-3 Fulham
 Sep/16 Bolton 3-2 Rotherham
 Sep/16 Reading 3-2 Millwall
 Sep/16 Birmingham 0-2 Sheffield Wed
@@ -619,7 +619,7 @@ Sep/16 Ipswich 2-0 Brighton
 
  Round 6
 
-Sep/14 Nottingham 1-1 Derby
+Sep/14 Nottingham Forest 1-1 Derby
 Sep/13 Blackburn 3-1 Wigan
 Sep/13 Blackpool 0-0 Wolves
 Sep/13 Bolton 0-0 Sheffield Wed
@@ -645,7 +645,7 @@ Aug/30 Rotherham 0-2 Brentford
 Aug/30 Watford 4-2 Huddersfield
 Aug/30 Wigan 4-0 Birmingham
 Aug/30 Wolves 3-1 Blackburn
-Aug/30 Sheffield Wed 0-1 Nottingham
+Aug/30 Sheffield Wed 0-1 Nottingham Forest
 
  Round 4
 
@@ -656,7 +656,7 @@ Aug/23 Derby 5-1 Fulham
 Aug/23 Huddersfield 1-1 Charlton
 Aug/23 Middlesbrough 2-3 Sheffield Wed
 Aug/23 Millwall 0-1 Rotherham
-Aug/23 Nottingham 4-0 Reading
+Aug/23 Nottingham Forest 4-0 Reading
 Aug/23 Watford 4-1 Leeds
 Aug/23 Wigan 1-0 Blackpool
 Aug/23 Wolves 1-0 Cardiff
@@ -669,7 +669,7 @@ Aug/19 Bolton 1-2 Middlesbrough
 Aug/19 Reading 1-2 Huddersfield
 Aug/19 Birmingham 2-2 Ipswich
 Aug/19 Blackpool 1-2 Brentford
-Aug/19 Bournemouth 1-2 Nottingham
+Aug/19 Bournemouth 1-2 Nottingham Forest
 Aug/19 Cardiff 1-0 Wigan
 Aug/19 Charlton 3-2 Derby
 Aug/19 Leeds 0-2 Brighton
@@ -681,7 +681,7 @@ Aug/19 Sheffield Wed 1-1 Millwall
 
 Aug/16 Birmingham 1-0 Brighton
 Aug/16 Blackpool 1-2 Blackburn
-Aug/16 Bolton 2-2 Nottingham
+Aug/16 Bolton 2-2 Nottingham Forest
 Aug/16 Bournemouth 1-0 Brentford
 Aug/16 Cardiff 3-1 Huddersfield
 Aug/16 Charlton 2-1 Wigan
@@ -702,7 +702,7 @@ Aug/09 Derby 1-0 Rotherham
 Aug/09 Huddersfield 0-4 Bournemouth
 Aug/09 Middlesbrough 2-0 Birmingham
 Aug/09 Millwall 2-0 Leeds
-Aug/09 Nottingham 2-0 Blackpool
+Aug/09 Nottingham Forest 2-0 Blackpool
 Aug/09 Watford 3-0 Bolton
 Aug/09 Wigan 2-2 Reading
 Aug/08 Blackburn 1-1 Cardiff

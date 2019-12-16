@@ -1,5 +1,5 @@
-82 datafiles:
-[1/82] >2010-11/1-premierleague.txt<
+81 datafiles:
+[1/81] >2010-11/1-premierleague.txt<
   1 section(s):
     427 lines - league: >English Premier League< (eng.1), season: >2010/11<
       20 clubs:
@@ -62,7 +62,7 @@
         Round 3, 10 matches
         Round 2, 10 matches
         Round 1, 10 matches
-[2/82] >2010-11/2-championship.txt<
+[2/81] >2010-11/2-championship.txt<
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2010/11<, stage: >Play-offs<
       4 clubs:
@@ -146,11 +146,11 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[3/82] >2010-11/3-league1.txt<
+[3/81] >2010-11/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[4/82] >2010-11/4-league2.txt<
+[4/81] >2010-11/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[5/82] >2011-12/1-premierleague.txt<
+[5/81] >2011-12/1-premierleague.txt<
   1 section(s):
     422 lines - league: >English Premier League< (eng.1), season: >2011/12<
       20 clubs:
@@ -213,7 +213,7 @@
         Round 4, 10 matches
         Round 3, 10 matches
         Round 2, 10 matches
-[6/82] >2011-12/2-championship.txt<
+[6/81] >2011-12/2-championship.txt<
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2011/12<, stage: >Play-offs<
       4 clubs:
@@ -243,8 +243,8 @@
         Leicester x46 => Leicester City FC
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
-     !! Nottingham x46
-     !! Peterborough x46
+        Nottingham Forest x46 => Nottingham Forest FC
+        Peterborough x46 => Peterborough United FC
         Portsmouth x46 => Portsmouth FC
         Reading x46 => Reading FC
         Southampton x46 => Southampton FC
@@ -297,11 +297,11 @@
         Round 3, 11 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[7/82] >2011-12/3-league1.txt<
+[7/81] >2011-12/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[8/82] >2011-12/4-league2.txt<
+[8/81] >2011-12/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[9/82] >2012-13/1-premierleague-i.txt<
+[9/81] >2012-13/1-premierleague-i.txt<
   1 section(s):
     249 lines - league: >English Premier League< (eng.1), season: >2012/13<
       20 clubs:
@@ -345,51 +345,30 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[10/82] >2012-13/1-premierleague-ii.txt<
+[10/81] >2012-13/1-premierleague-ii.txt<
   1 section(s):
     261 lines - league: >English Premier League< (eng.1), season: >2012/13<
-      39 clubs:
+      20 clubs:
+        Arsenal x19 => Arsenal FC
         Aston Villa x19 => Aston Villa FC
-        Arsenal x18 => Arsenal FC
-        Chelsea x18 => Chelsea FC
-        Everton x18 => Everton FC
-        Fulham x18 => Fulham FC
-        Liverpool x18 => Liverpool FC
-        Manchester C x18 => Manchester City FC
-        Manchester U x18 => Manchester United FC
-        Newcastle x18 => Newcastle United FC
-        Norwich x18 => Norwich City FC
-        QPR x18 => Queens Park Rangers FC
-        Reading x18 => Reading FC
-        Southampton x18 => Southampton FC
-        Stoke x18 => Stoke City FC
-        Sunderland x18 => Sunderland AFC
-        Swansea x18 => Swansea City FC
-        Tottenham x18 => Tottenham Hotspur FC
-        West Bromwich x18 => West Bromwich Albion FC
-        West Ham x18 => West Ham United FC
-        Wigan x18 => Wigan Athletic FC
-        Arsenal FC => Arsenal FC
-        Chelsea FC => Chelsea FC
-        Everton FC => Everton FC
-        Fulham FC => Fulham FC
-        Liverpool FC => Liverpool FC
-        Manchester City => Manchester City FC
-        Manchester United => Manchester United FC
-        Newcastle United => Newcastle United FC
-        Norwich City => Norwich City FC
-        Queens Park Rangers => Queens Park Rangers FC
-        Reading FC => Reading FC
-        Southampton FC => Southampton FC
-        Stoke City => Stoke City FC
-        Sunderland AFC => Sunderland AFC
-        Swansea City => Swansea City FC
-        Tottenham Hotspur => Tottenham Hotspur FC
-        West Brom => West Bromwich Albion FC
-        West Ham United => West Ham United FC
-        Wigan Athletic => Wigan Athletic FC
-!! ERROR: 19 duplicate club record(s) found
-
+        Chelsea x19 => Chelsea FC
+        Everton x19 => Everton FC
+        Fulham x19 => Fulham FC
+        Liverpool x19 => Liverpool FC
+        Manchester C x19 => Manchester City FC
+        Manchester U x19 => Manchester United FC
+        Newcastle x19 => Newcastle United FC
+        Norwich x19 => Norwich City FC
+        QPR x19 => Queens Park Rangers FC
+        Reading x19 => Reading FC
+        Southampton x19 => Southampton FC
+        Stoke x19 => Stoke City FC
+        Sunderland x19 => Sunderland AFC
+        Swansea x19 => Swansea City FC
+        Tottenham x19 => Tottenham Hotspur FC
+        West Bromwich x19 => West Bromwich Albion FC
+        West Ham x19 => West Ham United FC
+        Wigan x19 => Wigan Athletic FC
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -410,7 +389,7 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[11/82] >2012-13/2-championship.txt<
+[11/81] >2012-13/2-championship.txt<
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2012/13<, stage: >Play-offs<
       4 clubs:
@@ -442,9 +421,9 @@
         Leicester x46 => Leicester City FC
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
-     !! Nottingham x46
-     !! Peterborough x46
-     !! Sheffield Wed x46
+        Nottingham Forest x46 => Nottingham Forest FC
+        Peterborough x46 => Peterborough United FC
+        Sheffield Wed x46 => Sheffield Wednesday FC
         Watford x46 => Watford FC
         Wolves x46 => Wolverhampton Wanderers FC
       46 rounds:
@@ -494,16 +473,18 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[12/82] >2012-13/3-league1.txt<
+[12/81] >2012-13/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[13/82] >2012-13/4-league2.txt<
+[13/81] >2012-13/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[14/82] >2013-14/1-premierleague-i.txt<
+[14/81] >2013-14/1-premierleague-i.txt<
   1 section(s):
     255 lines - league: >English Premier League< (eng.1), season: >2013/14<
-      22 clubs:
+      20 clubs:
+        Arsenal FC x19 => Arsenal FC
         Aston Villa x19 => Aston Villa FC
         Cardiff City x19 => Cardiff City FC
+        Chelsea FC x19 => Chelsea FC
         Crystal Palace x19 => Crystal Palace FC
         Everton FC x19 => Everton FC
         Fulham FC x19 => Fulham FC
@@ -520,12 +501,6 @@
         Tottenham Hotspur x19 => Tottenham Hotspur FC
         West Brom x19 => West Bromwich Albion FC
         West Ham United x19 => West Ham United FC
-        Arsenal FC x18 => Arsenal FC
-        Chelsea FC x18 => Chelsea FC
-        Arsenal => Arsenal FC
-     !! FC Chelsea FC
-!! ERROR: 1 duplicate club record(s) found
-
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -546,10 +521,10 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[15/82] >2013-14/1-premierleague-ii.txt<
+[15/81] >2013-14/1-premierleague-ii.txt<
   1 section(s):
     258 lines - league: >English Premier League< (eng.1), season: >2013/14<
-      21 clubs:
+      20 clubs:
         Arsenal FC x19 => Arsenal FC
         Aston Villa x19 => Aston Villa FC
         Cardiff City x19 => Cardiff City FC
@@ -563,16 +538,13 @@
         Manchester United x19 => Manchester United FC
         Newcastle United x19 => Newcastle United FC
         Norwich City x19 => Norwich City FC
+        Southampton FC x19 => Southampton FC
         Stoke City x19 => Stoke City FC
         Sunderland AFC x19 => Sunderland AFC
         Swansea City x19 => Swansea City FC
         Tottenham Hotspur x19 => Tottenham Hotspur FC
         West Bromwich Albion x19 => West Bromwich Albion FC
         West Ham United x19 => West Ham United FC
-        Southampton FC x18 => Southampton FC
-        Southampton => Southampton FC
-!! ERROR: 1 duplicate club record(s) found
-
       19 rounds:
         Matchday 20, 10 matches
         Matchday 21, 10 matches
@@ -593,7 +565,7 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[16/82] >2013-14/2-championship.txt<
+[16/81] >2013-14/2-championship.txt<
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2013/14<, stage: >Play-offs<
       4 clubs:
@@ -623,10 +595,10 @@
         Leicester x46 => Leicester City FC
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
-     !! Nottingham x46
+        Nottingham Forest x46 => Nottingham Forest FC
         QPR x46 => Queens Park Rangers FC
         Reading x46 => Reading FC
-     !! Sheffield Wed x46
+        Sheffield Wed x46 => Sheffield Wednesday FC
         Watford x46 => Watford FC
         Wigan x46 => Wigan Athletic FC
         Yeovil x46 => Yeovil Town FC
@@ -677,13 +649,13 @@
         Round 3, 12 matches
         Round 2, 11 matches
         Round 1, 12 matches
-[17/82] >2013-14/3-league1.txt<
+[17/81] >2013-14/3-league1.txt<
   1 section(s):
     640 lines - league: >English League One< (eng.3), season: >2013/14<
       24 clubs:
         Leyton Orient x49 => Leyton Orient FC
         Rotherham x49 => Rotherham United FC
-     !! Peterborough x48
+        Peterborough x48 => Peterborough United FC
         Preston x48 => Preston North End FC
         Bradford x46 => Bradford City AFC
         Brentford x46 => Brentford FC
@@ -754,7 +726,7 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[18/82] >2013-14/4-league2.txt<
+[18/81] >2013-14/4-league2.txt<
   1 section(s):
     635 lines - league: >English League Two< (eng.4), season: >2013/14<
       24 clubs:
@@ -773,9 +745,9 @@
         Hartlepool x46 => Hartlepool United FC
         Mansfield x46 => Mansfield Town FC
         Morecambe x46 => Morecambe FC
-     !! Newport x46
+        Newport x46 => Newport County AFC
         Northampton x46 => Northampton Town FC
-     !! Oxford Utd x46
+        Oxford Utd x46 => Oxford United FC
         Plymouth x46 => Plymouth Argyle FC
         Portsmouth x46 => Portsmouth FC
         Rochdale x46 => Rochdale AFC
@@ -831,10 +803,10 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[19/82] >2014-15/1-premierleague-i.txt<
+[19/81] >2014-15/1-premierleague-i.txt<
   1 section(s):
     231 lines - league: >English Premier League< (eng.1), season: >2014/15<
-      22 clubs:
+      20 clubs:
         Arsenal FC x19 => Arsenal FC
         Aston Villa x19 => Aston Villa FC
         Burnley FC x19 => Burnley FC
@@ -843,22 +815,18 @@
         Everton FC x19 => Everton FC
         Hull City x19 => Hull City AFC
         Leicester City x19 => Leicester City FC
+        Liverpool FC x19 => Liverpool FC
         Manchester City x19 => Manchester City FC
         Manchester United x19 => Manchester United FC
         Newcastle United x19 => Newcastle United FC
         Queens Park Rangers x19 => Queens Park Rangers FC
         Southampton FC x19 => Southampton FC
+        Stoke City x19 => Stoke City FC
         Sunderland AFC x19 => Sunderland AFC
         Swansea City x19 => Swansea City FC
         Tottenham Hotspur x19 => Tottenham Hotspur FC
         West Bromwich Albion x19 => West Bromwich Albion FC
         West Ham United x19 => West Ham United FC
-        Liverpool FC x18 => Liverpool FC
-        Stoke City x18 => Stoke City FC
-     !! FC  Stoke City
-        Liverpool => Liverpool FC
-!! ERROR: 1 duplicate club record(s) found
-
       19 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -879,7 +847,7 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[20/82] >2014-15/1-premierleague-ii.txt<
+[20/81] >2014-15/1-premierleague-ii.txt<
   1 section(s):
     230 lines - league: >English Premier League< (eng.1), season: >2014/15<
       20 clubs:
@@ -923,7 +891,7 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[21/82] >2014-15/2-championship.txt<
+[21/81] >2014-15/2-championship.txt<
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2014/15<, stage: >Play-offs<
       4 clubs:
@@ -953,10 +921,10 @@
         Middlesbrough x46 => Middlesbrough FC
         Millwall x46 => Millwall FC
         Norwich x46 => Norwich City FC
-     !! Nottingham x46
+        Nottingham Forest x46 => Nottingham Forest FC
         Reading x46 => Reading FC
         Rotherham x46 => Rotherham United FC
-     !! Sheffield Wed x46
+        Sheffield Wed x46 => Sheffield Wednesday FC
         Watford x46 => Watford FC
         Wigan x46 => Wigan Athletic FC
         Wolves x46 => Wolverhampton Wanderers FC
@@ -1007,7 +975,7 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[22/82] >2014-15/3-league1.txt<
+[22/81] >2014-15/3-league1.txt<
   1 section(s):
     631 lines - league: >English League One< (eng.3), season: >2014/15<
       24 clubs:
@@ -1029,7 +997,7 @@
         Milton Keynes Dons x46 => Milton Keynes Dons FC
         Notts County x46 => Notts County FC
         Oldham x46 => Oldham Athletic AFC
-     !! Peterborough x46
+        Peterborough x46 => Peterborough United FC
         Port Vale x46 => Port Vale FC
         Rochdale x46 => Rochdale AFC
         Scunthorpe x46 => Scunthorpe United FC
@@ -1084,7 +1052,7 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[23/82] >2014-15/4-league2.txt<
+[23/81] >2014-15/4-league2.txt<
   1 section(s):
     611 lines - league: >English League Two< (eng.4), season: >2014/15<
       24 clubs:
@@ -1096,7 +1064,7 @@
         Accrington x46 => Accrington Stanley FC
         Burton x46 => Burton Albion FC
         Bury x46 => Bury FC
-     !! Cambridge Utd x46
+        Cambridge Utd x46 => Cambridge United FC
         Carlisle x46 => Carlisle United FC
         Cheltenham x46 => Cheltenham Town FC
         Dagenham & Red. x46 => Dagenham & Redbridge FC
@@ -1105,9 +1073,9 @@
         Luton x46 => Luton Town FC
         Mansfield x46 => Mansfield Town FC
         Morecambe x46 => Morecambe FC
-     !! Newport x46
+        Newport x46 => Newport County AFC
         Northampton x46 => Northampton Town FC
-     !! Oxford Utd x46
+        Oxford Utd x46 => Oxford United FC
         Portsmouth x46 => Portsmouth FC
         Shrewsbury x46 => Shrewsbury Town FC
         Tranmere x46 => Tranmere Rovers FC
@@ -1161,7 +1129,7 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[24/82] >2015-16/1-premierleague-i.txt<
+[24/81] >2015-16/1-premierleague-i.txt<
   1 section(s):
     241 lines - league: >English Premier League< (eng.1), season: >2015/16<
       20 clubs:
@@ -1205,7 +1173,7 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[25/82] >2015-16/1-premierleague-ii.txt<
+[25/81] >2015-16/1-premierleague-ii.txt<
   1 section(s):
     243 lines - league: >English Premier League< (eng.1), season: >2015/16<
       20 clubs:
@@ -1249,12 +1217,12 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[26/82] >2015-16/2-championship.txt<
+[26/81] >2015-16/2-championship.txt<
   2 section(s):
     7 lines - league: >English Championship< (eng.2), season: >2015/16<, stage: >Play-offs<
       4 clubs:
         Hull City x3 => Hull City AFC
-     !! Sheffield Wed x3
+        Sheffield Wed x3 => Sheffield Wednesday FC
         Brighton x2 => Brighton & Hove Albion FC
         Derby x2 => Derby County FC
       2 rounds:
@@ -1280,12 +1248,12 @@
         QPR x46 => Queens Park Rangers FC
         Reading x46 => Reading FC
         Rotherham x46 => Rotherham United FC
-     !! Sheffield Wed x46
+        Sheffield Wed x46 => Sheffield Wednesday FC
         Wolves x46 => Wolverhampton Wanderers FC
         Blackburn x45 => Blackburn Rovers FC
         Hull City x45 => Hull City AFC
         Ipswich x45 => Ipswich Town FC
-     !! Nottingham x45
+        Nottingham Forest x45 => Nottingham Forest FC
       46 rounds:
         Matchday 46, 12 matches
         Matchday 45, 13 matches
@@ -1333,7 +1301,7 @@
         Matchday 3, 11 matches
         Matchday 2, 12 matches
         Matchday 1, 12 matches
-[27/82] >2015-16/3-league1.txt<
+[27/81] >2015-16/3-league1.txt<
   1 section(s):
     636 lines - league: >English League One< (eng.3), season: >2015/16<
       24 clubs:
@@ -1352,7 +1320,7 @@
         Fleetwood Town x46 => Fleetwood Town FC
         Gillingham FC x46 => Gillingham FC
         Oldham x46 => Oldham Athletic AFC
-     !! Peterborough x46
+        Peterborough x46 => Peterborough United FC
         Port Vale x46 => Port Vale FC
         Rochdale x46 => Rochdale AFC
         Scunthorpe x46 => Scunthorpe United FC
@@ -1410,7 +1378,7 @@
         Matchday 3, 12 matches
         Matchday 2, 12 matches
         Matchday 1, 12 matches
-[28/82] >2015-16/4-league2.txt<
+[28/81] >2015-16/4-league2.txt<
   1 section(s):
     635 lines - league: >English League Two< (eng.4), season: >2015/16<
       24 clubs:
@@ -1420,7 +1388,7 @@
         Portsmouth x48 => Portsmouth FC
         Barnet x46 => Barnet FC
         Bristol Rovers x46 => Bristol Rovers FC
-     !! Cambridge Utd x46
+        Cambridge Utd x46 => Cambridge United FC
         Carlisle x46 => Carlisle United FC
         Crawley Town x46 => Crawley Town FC
         Dagenham & Red. x46 => Dagenham & Redbridge FC
@@ -1430,10 +1398,10 @@
         Luton x46 => Luton Town FC
         Mansfield x46 => Mansfield Town FC
         Morecambe x46 => Morecambe FC
-     !! Newport x46
+        Newport x46 => Newport County AFC
         Northampton x46 => Northampton Town FC
         Notts County x46 => Notts County FC
-     !! Oxford Utd x46
+        Oxford Utd x46 => Oxford United FC
         Stevenage x46 => Stevenage FC
         Wycombe x46 => Wycombe Wanderers FC
         Yeovil x46 => Yeovil Town FC
@@ -1487,7 +1455,7 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[29/82] >2016-17/1-premierleague-i.txt<
+[29/81] >2016-17/1-premierleague-i.txt<
   1 section(s):
     326 lines - league: >English Premier League< (eng.1), season: >2016/17<
       20 clubs:
@@ -1531,7 +1499,7 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[30/82] >2016-17/1-premierleague-ii.txt<
+[30/81] >2016-17/1-premierleague-ii.txt<
   1 section(s):
     260 lines - league: >English Premier League< (eng.1), season: >2016/17<
       20 clubs:
@@ -1578,7 +1546,7 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[31/82] >2017-18/1-premierleague-i.txt<
+[31/81] >2017-18/1-premierleague-i.txt<
   1 section(s):
     286 lines - league: >English Premier League< (eng.1), season: >2017/18<
       20 clubs:
@@ -1624,16 +1592,16 @@
         Matchday 19, 10 matches
         Matchday 20, 10 matches
         Matchday 21, 10 matches
-[32/82] >2017-18/1-premierleague-ii.txt<
+[32/81] >2017-18/1-premierleague-ii.txt<
   1 section(s):
-    271 lines - league: >English Premier League< (eng.1), season: >2017/18<
-      25 clubs:
+    254 lines - league: >English Premier League< (eng.1), season: >2017/18<
+      20 clubs:
+        Tottenham Hotspur x20 => Tottenham Hotspur FC
         Brighton & Hove Albion x19 => Brighton & Hove Albion FC
         Chelsea FC x19 => Chelsea FC
         Leicester City x19 => Leicester City FC
         Manchester United x19 => Manchester United FC
         Southampton FC x19 => Southampton FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
         West Ham United x19 => West Ham United FC
         AFC Bournemouth x18 => AFC Bournemouth
         Arsenal FC x18 => Arsenal FC
@@ -1648,11 +1616,6 @@
         Stoke City x17 => Stoke City FC
         Watford FC x17 => Watford FC
         West Bromwich Albion x17 => West Bromwich Albion FC
-        Aston Villa x3 => Aston Villa FC
-        FC Fulham x3 => Fulham FC
-        Derby County x2 => Derby County FC
-        FC Middlesbrough x2 => Middlesbrough FC
-     !! Tottenham Hotspurs
       17 rounds:
         Matchday 22, 11 matches
         Matchday 23, 10 matches
@@ -1669,9 +1632,9 @@
         Matchday 34, 14 matches
         Matchday 35, 10 matches
         Matchday 36, 10 matches
-        Matchday 37, 20 matches
-        Matchday 38, 11 matches
-[33/82] >2018-19/1-premierleague.txt<
+        Matchday 37, 16 matches
+        Matchday 38, 10 matches
+[33/81] >2018-19/1-premierleague.txt<
   1 section(s):
     516 lines - league: >English Premier League< (eng.1), season: >2018/19<
       20 clubs:
@@ -1734,10 +1697,10 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[34/82] >2019-20/1-premierleague.txt<
+[34/81] >2019-20/1-premierleague.txt<
   1 section(s):
     495 lines - league: >English Premier League< (eng.1), season: >2019/20<
-      21 clubs:
+      20 clubs:
         AFC Bournemouth x38 => AFC Bournemouth
         Aston Villa x38 => Aston Villa FC
         Brighton & Hove Albion x38 => Brighton & Hove Albion FC
@@ -1746,6 +1709,7 @@
         FC Burnley x38 => Burnley FC
         FC Chelsea x38 => Chelsea FC
         FC Everton x38 => Everton FC
+        FC Liverpool x38 => Liverpool FC
         FC Southampton x38 => Southampton FC
         FC Watford x38 => Watford FC
         Leicester City x38 => Leicester City FC
@@ -1757,8 +1721,6 @@
         Tottenham Hotspur x38 => Tottenham Hotspur FC
         West Ham United x38 => West Ham United FC
         Wolverhampton Wanderers x38 => Wolverhampton Wanderers FC
-        FC Liverpool x37 => Liverpool FC
-     !! FC Liverpool               postponed
       38 rounds:
         Matchday 1, 10 matches
         Matchday 2, 10 matches
@@ -1798,99 +1760,97 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[35/82] >archive/1990s/1998-99/1-premierleague.txt<
+[35/81] >archive/1990s/1998-99/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[36/82] >archive/1990s/1998-99/2-championship.txt<
+[36/81] >archive/1990s/1998-99/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[37/82] >archive/1990s/1998-99/3-league1.txt<
+[37/81] >archive/1990s/1998-99/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[38/82] >archive/1990s/1998-99/4-league2.txt<
+[38/81] >archive/1990s/1998-99/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[39/82] >archive/1990s/1999-00/1-premierleague.txt<
+[39/81] >archive/1990s/1999-00/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[40/82] >archive/1990s/1999-00/2-championship.txt<
+[40/81] >archive/1990s/1999-00/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[41/82] >archive/1990s/1999-00/3-league1.txt<
+[41/81] >archive/1990s/1999-00/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[42/82] >archive/1990s/1999-00/4-league2.txt<
+[42/81] >archive/1990s/1999-00/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[43/82] >archive/2000s/2000-01/1-premierleague.txt<
+[43/81] >archive/2000s/2000-01/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[44/82] >archive/2000s/2000-01/2-championship.txt<
+[44/81] >archive/2000s/2000-01/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[45/82] >archive/2000s/2000-01/3-league1.txt<
+[45/81] >archive/2000s/2000-01/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[46/82] >archive/2000s/2000-01/4-league2.txt<
+[46/81] >archive/2000s/2001-02/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[47/82] >archive/2000s/2001-02/1-premierleague.txt<
+[47/81] >archive/2000s/2001-02/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[48/82] >archive/2000s/2001-02/2-championship.txt<
+[48/81] >archive/2000s/2001-02/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[49/82] >archive/2000s/2001-02/3-league1.txt<
+[49/81] >archive/2000s/2001-02/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[50/82] >archive/2000s/2001-02/4-league2.txt<
+[50/81] >archive/2000s/2002-03/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[51/82] >archive/2000s/2002-03/1-premierleague.txt<
+[51/81] >archive/2000s/2002-03/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[52/82] >archive/2000s/2002-03/2-championship.txt<
+[52/81] >archive/2000s/2002-03/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[53/82] >archive/2000s/2002-03/3-league1.txt<
+[53/81] >archive/2000s/2002-03/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[54/82] >archive/2000s/2002-03/4-league2.txt<
+[54/81] >archive/2000s/2003-04/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[55/82] >archive/2000s/2003-04/1-premierleague.txt<
+[55/81] >archive/2000s/2003-04/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[56/82] >archive/2000s/2003-04/2-championship.txt<
+[56/81] >archive/2000s/2003-04/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[57/82] >archive/2000s/2003-04/3-league1.txt<
+[57/81] >archive/2000s/2003-04/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[58/82] >archive/2000s/2003-04/4-league2.txt<
+[58/81] >archive/2000s/2004-05/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[59/82] >archive/2000s/2004-05/1-premierleague.txt<
+[59/81] >archive/2000s/2004-05/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[60/82] >archive/2000s/2004-05/2-championship.txt<
+[60/81] >archive/2000s/2004-05/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[61/82] >archive/2000s/2004-05/3-league1.txt<
+[61/81] >archive/2000s/2004-05/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[62/82] >archive/2000s/2004-05/4-league2.txt<
+[62/81] >archive/2000s/2005-06/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[63/82] >archive/2000s/2005-06/1-premierleague.txt<
+[63/81] >archive/2000s/2005-06/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[64/82] >archive/2000s/2005-06/2-championship.txt<
+[64/81] >archive/2000s/2005-06/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[65/82] >archive/2000s/2005-06/3-league1.txt<
+[65/81] >archive/2000s/2005-06/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[66/82] >archive/2000s/2005-06/4-league2.txt<
+[66/81] >archive/2000s/2006-07/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[67/82] >archive/2000s/2006-07/1-premierleague.txt<
+[67/81] >archive/2000s/2006-07/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[68/82] >archive/2000s/2006-07/2-championship.txt<
+[68/81] >archive/2000s/2006-07/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[69/82] >archive/2000s/2006-07/3-league1.txt<
+[69/81] >archive/2000s/2006-07/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[70/82] >archive/2000s/2006-07/4-league2.txt<
+[70/81] >archive/2000s/2007-08/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[71/82] >archive/2000s/2007-08/1-premierleague.txt<
+[71/81] >archive/2000s/2007-08/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[72/82] >archive/2000s/2007-08/2-championship.txt<
+[72/81] >archive/2000s/2007-08/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[73/82] >archive/2000s/2007-08/3-league1.txt<
+[73/81] >archive/2000s/2007-08/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[74/82] >archive/2000s/2007-08/4-league2.txt<
+[74/81] >archive/2000s/2008-09/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[75/82] >archive/2000s/2008-09/1-premierleague.txt<
+[75/81] >archive/2000s/2008-09/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[76/82] >archive/2000s/2008-09/2-championship.txt<
+[76/81] >archive/2000s/2008-09/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[77/82] >archive/2000s/2008-09/3-league1.txt<
+[77/81] >archive/2000s/2008-09/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[78/82] >archive/2000s/2008-09/4-league2.txt<
+[78/81] >archive/2000s/2009-10/1-premierleague.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[79/82] >archive/2000s/2009-10/1-premierleague.txt<
+[79/81] >archive/2000s/2009-10/2-championship.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[80/82] >archive/2000s/2009-10/2-championship.txt<
+[80/81] >archive/2000s/2009-10/3-league1.txt<
   !!! WARN !!! - NO sections found; 0 sections
-[81/82] >archive/2000s/2009-10/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[82/82] >archive/2000s/2009-10/4-league2.txt<
+[81/81] >archive/2000s/2009-10/4-league2.txt<
   !!! WARN !!! - NO sections found; 0 sections

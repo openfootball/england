@@ -26,7 +26,7 @@ May/07 Fulham 1-0 Bolton
 May/07 Huddersfield 1-5 Brentford
 May/07 Hull City 5-1 Rotherham
 May/07 Middlesbrough 1-1 Brighton
-May/07 Milton Keynes Dons 1-2 Nottingham
+May/07 Milton Keynes Dons 1-2 Nottingham Forest
 May/07 Preston 1-1 Leeds
 May/07 QPR 1-0 Bristol City
 May/07 Wolves 2-1 Sheffield Wed
@@ -39,7 +39,7 @@ Apr/30 Brentford 3-0 Fulham
 Apr/30 Bristol City 4-0 Huddersfield
 Apr/30 Ipswich 3-2 Milton Keynes Dons
 Apr/30 Leeds 1-2 Charlton
-Apr/30 Nottingham 1-1 Wolves
+Apr/30 Nottingham Forest 1-1 Wolves
 Apr/30 Reading 1-2 Preston
 Apr/30 Rotherham 0-1 Blackburn
 Apr/30 Sheffield Wed 3-0 Cardiff
@@ -52,7 +52,7 @@ Matchday 44
 Apr/23 Blackburn 2-2 Bristol City
 Apr/23 Cardiff 2-1 Bolton
 Apr/23 Charlton 1-3 Brighton
-Apr/23 Fulham 1-3 Nottingham
+Apr/23 Fulham 1-3 Nottingham Forest
 Apr/23 Huddersfield 1-1 Birmingham
 Apr/23 Hull City 2-2 Leeds
 Apr/23 Middlesbrough 0-0 Ipswich
@@ -73,7 +73,7 @@ Apr/19 Bristol City 2-3 Derby
 Apr/19 Burnley 1-1 Middlesbrough
 Apr/19 Ipswich 1-1 Fulham
 Apr/19 Leeds 2-1 Wolves
-Apr/19 Nottingham 1-1 Blackburn
+Apr/19 Nottingham Forest 1-1 Blackburn
 Apr/19 Rotherham 1-1 Huddersfield
 Apr/19 Sheffield Wed 0-0 Milton Keynes Dons
 
@@ -86,7 +86,7 @@ Apr/16 Cardiff 0-0 QPR
 Apr/16 Charlton 0-1 Derby
 Apr/16 Leeds 3-2 Reading
 Apr/16 Preston 1-1 Milton Keynes Dons
-Apr/16 Rotherham 0-0 Nottingham
+Apr/16 Rotherham 0-0 Nottingham Forest
 Apr/16 Sheffield Wed 1-1 Ipswich
 Apr/16 Bolton 1-2 Middlesbrough
 Apr/15 Brighton 5-0 Fulham
@@ -96,7 +96,7 @@ Apr/12 Middlesbrough 2-1 Reading
 
 Matchday 41
 
-Apr/11 Nottingham 1-2 Brighton
+Apr/11 Nottingham Forest 1-2 Brighton
 Apr/09 Bristol City 4-1 Sheffield Wed
 Apr/09 Derby 4-1 Bolton
 Apr/09 Fulham 2-1 Cardiff
@@ -111,7 +111,7 @@ Apr/09 Burnley 1-0 Leeds
 
 Matchday 40
 
-Apr/05 Reading 2-1 Nottingham
+Apr/05 Reading 2-1 Nottingham Forest
 Apr/05 Birmingham 1-2 Brighton
 Apr/05 Brentford 3-1 Bolton
 Apr/05 Bristol City 1-1 Rotherham
@@ -132,7 +132,7 @@ Apr/02 Charlton 2-1 Birmingham
 Apr/02 Fulham 2-1 Milton Keynes Dons
 Apr/02 Huddersfield 0-1 Sheffield Wed
 Apr/02 Hull City 4-0 Bristol City
-Apr/02 Nottingham 0-3 Brentford
+Apr/02 Nottingham Forest 0-3 Brentford
 Apr/02 Rotherham 2-1 Leeds
 Apr/02 Wolves 0-0 Ipswich
 Apr/02 Blackburn 1-2 Preston
@@ -151,7 +151,7 @@ Mar/19 Milton Keynes Dons 1-2 Brighton
 Mar/19 Preston 1-1 QPR
 Mar/19 Reading 1-1 Cardiff
 Mar/19 Sheffield Wed 3-0 Charlton
-Mar/19 Derby 1-0 Nottingham
+Mar/19 Derby 1-0 Nottingham Forest
 Mar/18 Middlesbrough 1-0 Hull City
 
 Matchday 37
@@ -164,7 +164,7 @@ Mar/12 Cardiff 1-0 Ipswich
 Mar/12 Fulham 1-2 Bristol City
 Mar/12 Huddersfield 1-3 Burnley
 Mar/12 Hull City 1-1 Milton Keynes Dons
-Mar/12 Nottingham 0-3 Sheffield Wed
+Mar/12 Nottingham Forest 0-3 Sheffield Wed
 Mar/12 QPR 3-0 Brentford
 Mar/12 Rotherham 3-3 Derby
 Mar/12 Blackburn 1-2 Leeds
@@ -178,7 +178,7 @@ Mar/08 Cardiff 0-2 Leeds
 Mar/08 Charlton 0-0 Milton Keynes Dons
 Mar/08 Fulham 2-3 Burnley
 Mar/08 Huddersfield 3-1 Reading
-Mar/08 Nottingham 1-0 Preston
+Mar/08 Nottingham Forest 1-0 Preston
 Mar/08 QPR 2-0 Derby
 Mar/08 Rotherham 1-0 Middlesbrough
 Mar/08 Wolves 2-1 Bristol City
@@ -187,7 +187,7 @@ Matchday 35
 
 Mar/05 Brentford 1-2 Charlton
 Mar/05 Derby 2-0 Huddersfield
-Mar/05 Ipswich 1-0 Nottingham
+Mar/05 Ipswich 1-0 Nottingham Forest
 Mar/05 Leeds 2-1 Bolton
 Mar/05 Milton Keynes Dons 2-0 QPR
 Mar/05 Preston 0-0 Brighton
@@ -208,7 +208,7 @@ Feb/27 Cardiff 2-1 Preston
 Feb/27 Charlton 3-4 Reading
 Feb/27 Fulham 0-2 Middlesbrough
 Feb/27 Huddersfield 0-1 Ipswich
-Feb/27 Nottingham 1-2 Bristol City
+Feb/27 Nottingham Forest 1-2 Bristol City
 Feb/27 QPR 2-0 Birmingham
 Feb/27 Rotherham 2-1 Brentford
 Feb/27 Wolves 2-1 Derby
@@ -221,7 +221,7 @@ Feb/23 Reading 1-0 Rotherham
 Feb/23 Birmingham 1-0 Bolton
 Feb/23 Brentford 3-0 Wolves
 Feb/23 Bristol City 0-4 Brighton
-Feb/23 Burnley 1-0 Nottingham
+Feb/23 Burnley 1-0 Nottingham Forest
 Feb/23 Ipswich 0-1 Hull City
 Feb/23 Leeds 1-1 Fulham
 Feb/23 Middlesbrough 3-1 Cardiff
@@ -250,7 +250,7 @@ Feb/13 Brighton 3-2 Bolton
 Feb/13 Bristol City 2-1 Ipswich
 Feb/13 Charlton 0-0 Cardiff
 Feb/13 Derby 0-1 Milton Keynes Dons
-Feb/13 Nottingham 0-2 Huddersfield
+Feb/13 Nottingham Forest 0-2 Huddersfield
 Feb/13 Reading 0-0 Burnley
 Feb/13 Rotherham 0-0 Birmingham
 Feb/13 Sheffield Wed 4-0 Brentford
@@ -266,7 +266,7 @@ Feb/06 Burnley 1-0 Hull City
 Feb/06 Cardiff 0-0 Milton Keynes Dons
 Feb/06 Charlton 0-1 Bristol City
 Feb/06 Fulham 1-1 Derby
-Feb/06 Leeds 0-1 Nottingham
+Feb/06 Leeds 0-1 Nottingham Forest
 Feb/06 Middlesbrough 1-1 Blackburn
 Feb/06 Preston 2-1 Huddersfield
 Feb/06 QPR 1-0 Ipswich
@@ -283,7 +283,7 @@ Jan/30 Bristol City 0-0 Birmingham
 Jan/30 Huddersfield 2-3 Cardiff
 Jan/30 Rotherham 1-4 Charlton
 Jan/26 Brentford 1-1 Leeds
-Jan/26 Nottingham 0-0 QPR
+Jan/26 Nottingham Forest 0-0 QPR
 
 Matchday 28
 
@@ -295,7 +295,7 @@ Jan/23 Cardiff 2-2 Rotherham
 Jan/23 Charlton 1-1 Blackburn
 Jan/23 Fulham 0-1 Hull City
 Jan/23 Leeds 1-0 Bristol City
-Jan/23 Middlesbrough 0-1 Nottingham
+Jan/23 Middlesbrough 0-1 Nottingham Forest
 Jan/23 Preston 1-3 Brentford
 Jan/23 Reading 1-1 Sheffield Wed
 Jan/23 QPR 1-1 Wolves
@@ -309,7 +309,7 @@ Jan/16 Huddersfield 1-1 Fulham
 Jan/16 Hull City 6-0 Charlton
 Jan/16 Ipswich 1-1 Preston
 Jan/16 Milton Keynes Dons 1-0 Reading
-Jan/16 Nottingham 3-0 Bolton
+Jan/16 Nottingham Forest 3-0 Bolton
 Jan/16 Rotherham 0-3 QPR
 Jan/16 Wolves 1-3 Cardiff
 Jan/16 Sheffield Wed 2-0 Leeds
@@ -325,7 +325,7 @@ Jan/12 Derby 1-1 Reading
 Jan/12 Huddersfield 5-0 Charlton
 Jan/12 Ipswich 2-1 Leeds
 Jan/12 Milton Keynes Dons 0-5 Burnley
-Jan/12 Nottingham 1-1 Birmingham
+Jan/12 Nottingham Forest 1-1 Birmingham
 Jan/12 Rotherham 2-0 Brighton
 Jan/12 Sheffield Wed 3-2 Bolton
 Jan/12 Wolves 3-2 Fulham
@@ -336,7 +336,7 @@ Jan/02 Birmingham 2-1 Brentford
 Jan/02 Bolton 0-2 Huddersfield
 Jan/02 Burnley 0-0 Ipswich
 Jan/02 Cardiff 1-0 Blackburn
-Jan/02 Charlton 1-1 Nottingham
+Jan/02 Charlton 1-1 Nottingham Forest
 Jan/02 Fulham 0-1 Sheffield Wed
 Jan/02 Leeds 1-1 Milton Keynes Dons
 Jan/02 Middlesbrough 2-0 Derby
@@ -348,7 +348,7 @@ Jan/01 Brighton 0-1 Wolves
 Matchday 24
 
 Dec/29 Brighton 0-1 Ipswich
-Dec/29 Cardiff 1-1 Nottingham
+Dec/29 Cardiff 1-1 Nottingham Forest
 Dec/29 Fulham 4-1 Rotherham
 Dec/29 Leeds 2-2 Derby
 Dec/28 Middlesbrough 1-0 Sheffield Wed
@@ -362,7 +362,7 @@ Dec/28 Bolton 1-0 Blackburn
 
 Matchday 23
 
-Dec/27 Nottingham 1-1 Leeds
+Dec/27 Nottingham Forest 1-1 Leeds
 Dec/26 Wolves 1-0 Reading
 Dec/26 Bristol City 1-1 Charlton
 Dec/26 Derby 2-0 Fulham
@@ -384,7 +384,7 @@ Dec/19 Brentford 4-2 Huddersfield
 Dec/19 Bristol City 1-1 QPR
 Dec/19 Burnley 4-0 Charlton
 Dec/19 Ipswich 0-1 Derby
-Dec/19 Nottingham 2-1 Milton Keynes Dons
+Dec/19 Nottingham Forest 2-1 Milton Keynes Dons
 Dec/19 Rotherham 2-0 Hull City
 Dec/19 Brighton 0-3 Middlesbrough
 Dec/18 Birmingham 1-0 Cardiff
@@ -402,7 +402,7 @@ Dec/15 Middlesbrough 1-0 Burnley
 Dec/15 Milton Keynes Dons 2-1 Sheffield Wed
 Dec/15 Preston 1-1 Birmingham
 Dec/15 QPR 2-2 Brighton
-Dec/14 Blackburn 0-0 Nottingham
+Dec/14 Blackburn 0-0 Nottingham Forest
 
 Matchday 20
 
@@ -417,7 +417,7 @@ Dec/12 Preston 1-0 Reading
 Dec/12 QPR 0-0 Burnley
 Dec/12 Milton Keynes Dons 0-1 Ipswich
 Dec/11 Blackburn 1-0 Rotherham
-Dec/11 Wolves 1-1 Nottingham
+Dec/11 Wolves 1-1 Nottingham Forest
 
 Matchday 19
 
@@ -429,7 +429,7 @@ Dec/05 Brighton 3-2 Charlton
 Dec/05 Bristol City 0-2 Blackburn
 Dec/05 Burnley 0-2 Preston
 Dec/05 Leeds 2-1 Hull City
-Dec/05 Nottingham 3-0 Fulham
+Dec/05 Nottingham Forest 3-0 Fulham
 Dec/05 Rotherham 1-2 Wolves
 Dec/04 Ipswich 0-2 Middlesbrough
 Dec/03 Reading 0-1 QPR
@@ -442,7 +442,7 @@ Nov/28 Brighton 2-1 Birmingham
 Nov/28 Cardiff 2-2 Burnley
 Nov/28 Fulham 1-1 Preston
 Nov/28 Huddersfield 0-2 Middlesbrough
-Nov/28 Nottingham 3-1 Reading
+Nov/28 Nottingham Forest 3-1 Reading
 Nov/28 QPR 1-0 Leeds
 Nov/28 Rotherham 3-0 Bristol City
 Nov/28 Wolves 0-0 Milton Keynes Dons
@@ -453,7 +453,7 @@ Matchday 17
 
 Nov/22 Burnley 1-1 Brighton
 Nov/21 Birmingham 0-1 Charlton
-Nov/21 Brentford 2-1 Nottingham
+Nov/21 Brentford 2-1 Nottingham Forest
 Nov/21 Derby 2-0 Cardiff
 Nov/21 Ipswich 2-2 Wolves
 Nov/21 Leeds 0-1 Rotherham
@@ -477,7 +477,7 @@ Nov/07 QPR 0-0 Preston
 Nov/07 Rotherham 2-5 Ipswich
 Nov/07 Wolves 0-0 Burnley
 Nov/07 Huddersfield 0-3 Leeds
-Nov/06 Nottingham 1-0 Derby
+Nov/06 Nottingham Forest 1-0 Derby
 
 Matchday 15
 
@@ -491,7 +491,7 @@ Nov/03 Ipswich 2-0 Bolton
 Nov/03 Leeds 1-0 Cardiff
 Nov/03 Middlesbrough 1-0 Rotherham
 Nov/03 Milton Keynes Dons 1-0 Charlton
-Nov/03 Preston 1-0 Nottingham
+Nov/03 Preston 1-0 Nottingham Forest
 Nov/03 Sheffield Wed 0-0 Brighton
 
 Matchday 14
@@ -504,7 +504,7 @@ Oct/31 Ipswich 0-0 Cardiff
 Oct/31 Middlesbrough 3-0 Charlton
 Oct/31 Milton Keynes Dons 0-2 Hull City
 Oct/31 Reading 1-1 Brighton
-Oct/31 Sheffield Wed 1-0 Nottingham
+Oct/31 Sheffield Wed 1-0 Nottingham Forest
 Oct/31 Birmingham 0-2 Wolves
 Oct/30 Brentford 1-0 QPR
 Oct/29 Leeds 0-2 Blackburn
@@ -517,7 +517,7 @@ Oct/24 Brighton 0-0 Preston
 Oct/24 Charlton 0-3 Brentford
 Oct/24 Huddersfield 1-2 Derby
 Oct/24 Hull City 2-0 Birmingham
-Oct/24 Nottingham 1-1 Ipswich
+Oct/24 Nottingham Forest 1-1 Ipswich
 Oct/24 QPR 3-0 Milton Keynes Dons
 Oct/24 Wolves 1-3 Middlesbrough
 Oct/24 Fulham 4-2 Reading
@@ -535,7 +535,7 @@ Oct/20 Cardiff 1-0 Middlesbrough
 Oct/20 Charlton 0-3 Preston
 Oct/20 Huddersfield 2-0 Milton Keynes Dons
 Oct/20 Hull City 3-0 Ipswich
-Oct/20 Nottingham 1-1 Burnley
+Oct/20 Nottingham Forest 1-1 Burnley
 Oct/20 QPR 0-0 Sheffield Wed
 Oct/20 Rotherham 1-1 Reading
 
@@ -552,7 +552,7 @@ Oct/17 Milton Keynes Dons 3-0 Blackburn
 Oct/17 Preston 0-0 Cardiff
 Oct/17 Reading 1-0 Charlton
 Oct/17 Sheffield Wed 1-1 Hull City
-Oct/16 Bristol City 2-0 Nottingham
+Oct/16 Bristol City 2-0 Nottingham Forest
 
 Matchday 10
 
@@ -562,7 +562,7 @@ Oct/03 Brighton 1-1 Cardiff
 Oct/03 Bristol City 1-1 Milton Keynes Dons
 Oct/03 Derby 2-0 Brentford
 Oct/03 Leeds 0-2 Birmingham
-Oct/03 Nottingham 0-1 Hull City
+Oct/03 Nottingham Forest 0-1 Hull City
 Oct/03 QPR 4-3 Bolton
 Oct/03 Reading 2-0 Middlesbrough
 Oct/03 Sheffield Wed 3-1 Preston
@@ -584,7 +584,7 @@ Sep/26 Ipswich 2-2 Bristol City
 Sep/26 Preston 1-1 Wolves
 Sep/26 Milton Keynes Dons 1-3 Derby
 Sep/25 Fulham 4-0 QPR
-Sep/24 Huddersfield 1-1 Nottingham
+Sep/24 Huddersfield 1-1 Nottingham Forest
 
 Matchday 8
 
@@ -598,7 +598,7 @@ Sep/19 Milton Keynes Dons 1-2 Leeds
 Sep/19 Rotherham 2-1 Cardiff
 Sep/19 Sheffield Wed 3-2 Fulham
 Sep/19 Wolves 0-0 Brighton
-Sep/19 Nottingham 1-2 Middlesbrough
+Sep/19 Nottingham Forest 1-2 Middlesbrough
 Sep/18 Ipswich 1-1 Birmingham
 
 Matchday 7
@@ -606,7 +606,7 @@ Matchday 7
 Sep/16 QPR 2-2 Blackburn
 Sep/15 Bolton 0-0 Sheffield Wed
 Sep/15 Reading 0-1 Derby
-Sep/15 Birmingham 0-1 Nottingham
+Sep/15 Birmingham 0-1 Nottingham Forest
 Sep/15 Brighton 2-1 Rotherham
 Sep/15 Burnley 2-1 Milton Keynes Dons
 Sep/15 Cardiff 0-2 Hull City
@@ -627,7 +627,7 @@ Sep/12 Charlton 1-1 Rotherham
 Sep/12 Leeds 1-1 Brentford
 Sep/12 Middlesbrough 2-0 Milton Keynes Dons
 Sep/12 Preston 1-2 Derby
-Sep/12 QPR 1-2 Nottingham
+Sep/12 QPR 1-2 Nottingham Forest
 Sep/11 Reading 5-1 Ipswich
 
 Matchday 5
@@ -638,7 +638,7 @@ Aug/29 Huddersfield 0-1 QPR
 Aug/29 Hull City 2-0 Preston
 Aug/29 Ipswich 2-3 Brighton
 Aug/29 Milton Keynes Dons 0-2 Birmingham
-Aug/29 Nottingham 1-2 Cardiff
+Aug/29 Nottingham Forest 1-2 Cardiff
 Aug/29 Rotherham 1-3 Fulham
 Aug/29 Sheffield Wed 1-3 Middlesbrough
 Aug/29 Wolves 2-1 Charlton
@@ -648,7 +648,7 @@ Aug/28 Blackburn 0-0 Bolton
 Matchday 4
 
 Aug/22 Cardiff 2-0 Wolves
-Aug/22 Bolton 1-1 Nottingham
+Aug/22 Bolton 1-1 Nottingham Forest
 Aug/22 Brighton 1-0 Blackburn
 Aug/22 Burnley 1-0 Brentford
 Aug/22 Charlton 2-1 Hull City
@@ -671,7 +671,7 @@ Aug/18 Derby 1-1 Middlesbrough
 Aug/18 Huddersfield 1-1 Brighton
 Aug/18 Ipswich 2-0 Burnley
 Aug/18 Milton Keynes Dons 1-0 Bolton
-Aug/18 Nottingham 0-0 Charlton
+Aug/18 Nottingham Forest 0-0 Charlton
 Aug/18 Rotherham 0-0 Preston
 
 Matchday 2
@@ -686,7 +686,7 @@ Aug/15 Huddersfield 1-1 Blackburn
 Aug/15 Ipswich 2-1 Sheffield Wed
 Aug/15 Middlesbrough 3-0 Bolton
 Aug/15 Milton Keynes Dons 0-1 Preston
-Aug/15 Nottingham 2-1 Rotherham
+Aug/15 Nottingham Forest 2-1 Rotherham
 Aug/15 Burnley 2-2 Birmingham
 
 Matchday 1
@@ -702,4 +702,4 @@ Aug/08 Rotherham 1-4 Milton Keynes Dons
 Aug/08 Sheffield Wed 2-0 Bristol City
 Aug/08 Leeds 1-1 Burnley
 Aug/08 Cardiff 1-1 Fulham
-Aug/07 Brighton 1-0 Nottingham
+Aug/07 Brighton 1-0 Nottingham Forest
