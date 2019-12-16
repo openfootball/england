@@ -262,9 +262,9 @@ Matchday 17
   FC Burnley              2-0 Newcastle United
   FC Southampton          0-1 West Ham United
 [Sun Dec/15] 
-  FC Arsenal              - Manchester City
-  Manchester United       - FC Everton
-  Wolverhampton Wanderers - Tottenham Hotspur
+  FC Arsenal              0-3 Manchester City
+  Manchester United       1-1 FC Everton
+  Wolverhampton Wanderers 1-2 Tottenham Hotspur
 [Mon Dec/16]
   Crystal Palace          - Brighton & Hove Albion
  
@@ -274,7 +274,7 @@ Matchday 18
   Aston Villa             - FC Southampton
   FC Everton              - FC Arsenal
   Newcastle United        - Crystal Palace
-  West Ham United         - FC Liverpool                 ## postponed
+  West Ham United         - FC Liverpool                  postponed
   Manchester City         - Leicester City
   Norwich City            - Wolverhampton Wanderers
   AFC Bournemouth         - FC Burnley
