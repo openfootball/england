@@ -85,14 +85,15 @@ Matchday 1
 ## Build Your Own `england.db` Copy
 
 Use the `sportdb` command line tool to build your own `england.db` copy
-from the plain text data sets. [More »](https://github.com/openfootball/datafile)
-
+from the datasets in plain text. 
 
 Note:  The English Premier League includes teams from Wales
 (e.g. Swansea City or Cardiff City).
 
 
-### Examples
+### Alternative I - Use the Quick Starter Templates
+
+Use the quick starter datafile templates to start from scratch. Examples:
 
 Build the database for all English (incl. Welsh) clubs, leagues and seasons:
 
@@ -101,6 +102,29 @@ Build the database for all English (incl. Welsh) clubs, leagues and seasons:
 Build the database for the 2019/20 season:
 
     $ sportdb new eng2019-20
+
+[More »](https://github.com/openfootball/quick-starter)
+
+
+
+### Alternative II - Do-It-Yourself (DIY) - Downlad and Unpack Zip Archive or Git Clone
+
+Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
+get a local copy.
+
+Try in your working folder (that is, `/england`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db` and
+- read in all datasets in plain text (`.txt`)
+
+That's it.
 
 
 ## License
