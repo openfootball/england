@@ -3,7 +3,7 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language (e.g. uses plain text data sets).
+for use in any (programming) language (e.g. uses datasets in plain text).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 
