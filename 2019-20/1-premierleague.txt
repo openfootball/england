@@ -316,15 +316,15 @@ Matchday 20
   
 Matchday 21
 [Wed Jan/1]
-  FC Arsenal              - Manchester United
-  Newcastle United        - Leicester City
-  FC Southampton          - Tottenham Hotspur
-  West Ham United         - AFC Bournemouth
-  Manchester City         - FC Everton
-  FC Watford              - Wolverhampton Wanderers
-  Norwich City            - Crystal Palace
-  FC Burnley              - Aston Villa
-  Brighton & Hove Albion  - FC Chelsea
+  FC Arsenal              2-0 Manchester United
+  Newcastle United        0-3 Leicester City
+  FC Southampton          1-0 Tottenham Hotspur
+  West Ham United         4-0 AFC Bournemouth
+  Manchester City         2-1 FC Everton
+  FC Watford              2-1 Wolverhampton Wanderers
+  Norwich City            1-1 Crystal Palace
+  FC Burnley              1-2 Aston Villa
+  Brighton & Hove Albion  1-1 FC Chelsea
 [Thu Jan/2]
   FC Liverpool            - Sheffield United
 
