@@ -397,45 +397,54 @@ Matchday 25
 
 Matchday 26
 [Sat Feb/8]
+  FC Everton              - Crystal Palace
+  Brighton & Hove Albion  - FC Watford
+[Sun Feb/9]
+  Sheffield United        - AFC Bournemouth
+  Manchester City         - West Ham United
+[Fri Feb/14]
+  Wolverhampton Wanderers - Leicester City
+[Sat Feb/15]
+  FC Southampton          - FC Burnley
+  Norwich City            - FC Liverpool
+[Sun Feb/16] 
   FC Arsenal              - Newcastle United
   Aston Villa             - Tottenham Hotspur
+[Mon Feb/17]
   FC Chelsea              - Manchester United
-  FC Everton              - Crystal Palace
-  FC Southampton          - FC Burnley
-  Manchester City         - West Ham United
-  Wolverhampton Wanderers - Leicester City
-  Sheffield United        - AFC Bournemouth
-  Norwich City            - FC Liverpool
-  Brighton & Hove Albion  - FC Watford
-
+ 
 
 Matchday 27
 [Sat Feb/22]
-  FC Arsenal              - FC Everton
   FC Chelsea              - Tottenham Hotspur
   Crystal Palace          - Newcastle United
   Leicester City          - Manchester City
-  FC Liverpool            - West Ham United
-  Manchester United       - FC Watford
   FC Southampton          - Aston Villa
-  Wolverhampton Wanderers - Norwich City
   Sheffield United        - Brighton & Hove Albion
   FC Burnley              - AFC Bournemouth
-
-
+[Sun Feb/23]
+  Wolverhampton Wanderers - Norwich City
+  Manchester United       - FC Watford
+  FC Arsenal              - FC Everton
+[Mon Feb/24]
+  FC Liverpool            - West Ham United
+  
+  
 Matchday 28
+[Fri Feb/28]
+  Norwich City            - Leicester City
 [Sat Feb/29]
   Aston Villa             - Sheffield United
-  FC Everton              - Manchester United
   Newcastle United        - FC Burnley
-  Tottenham Hotspur       - Wolverhampton Wanderers
   West Ham United         - FC Southampton
-  Manchester City         - FC Arsenal
   FC Watford              - FC Liverpool
-  Norwich City            - Leicester City
   AFC Bournemouth         - FC Chelsea
   Brighton & Hove Albion  - Crystal Palace
-
+[Sun Mar/1]
+  FC Everton              - Manchester United
+  Manchester City         - FC Arsenal
+  Tottenham Hotspur       - Wolverhampton Wanderers
+ 
 
 Matchday 29
 [Sat Mar/7]
