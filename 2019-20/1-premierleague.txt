@@ -388,13 +388,14 @@ Matchday 25
   FC Liverpool            - FC Southampton
   Manchester United       - Wolverhampton Wanderers
   Newcastle United        - Norwich City
-  Tottenham Hotspur       - Manchester City
   West Ham United         - Brighton & Hove Albion
   FC Watford              - FC Everton
-  FC Burnley              - FC Arsenal
   AFC Bournemouth         - Aston Villa
-
-
+[Sun Feb/2]
+  FC Burnley              - FC Arsenal
+  Tottenham Hotspur       - Manchester City
+  
+  
 Matchday 26
 [Sat Feb/8]
   FC Everton              - Crystal Palace
