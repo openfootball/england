@@ -22,7 +22,7 @@ Matchday 21
   Hull City             0-2  Chelsea FC
   Cardiff City          0-2  West Ham United
   Everton FC            2-0  Norwich City
-  Fulham FC             2-0  Sunderland AFC
+  Fulham FC             1-4  Sunderland AFC
   Southampton FC        1-0  West Bromwich Albion
   Tottenham Hotspur     2-0  Crystal Palace
   Manchester United     2-0  Swansea City
@@ -288,13 +288,13 @@ Matchday 36
 Matchday 37
 
 [Sat May/3]
-  Arsenal FC            2-0   West Bromwich Albion
+  Arsenal FC            1-0   West Bromwich Albion
   Aston Villa           3-1   Hull City
   Chelsea FC            0-0   Norwich City
   Crystal Palace        3-3   Liverpool FC
   Everton FC            2-3   Manchester City
   Manchester United     0-1   Sunderland AFC
-  Newcastle United      3-1   Cardiff City
+  Newcastle United      3-0   Cardiff City
   Stoke City            4-1   Fulham FC
   Swansea City          0-1   Southampton FC
   West Ham United       2-0   Tottenham Hotspur
