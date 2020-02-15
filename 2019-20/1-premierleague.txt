@@ -401,13 +401,12 @@ Matchday 25
   
 Matchday 26
 [Sat Feb/8]
-  FC Everton              - Crystal Palace
-  Brighton & Hove Albion  - FC Watford
+  FC Everton              3-1 Crystal Palace
+  Brighton & Hove Albion  1-1 FC Watford
 [Sun Feb/9]
-  Sheffield United        - AFC Bournemouth
-  Manchester City         - West Ham United
+  Sheffield United        2-1 AFC Bournemouth
 [Fri Feb/14]
-  Wolverhampton Wanderers - Leicester City
+  Wolverhampton Wanderers 0-0 Leicester City
 [Sat Feb/15]
   FC Southampton          - FC Burnley
   Norwich City            - FC Liverpool
@@ -416,7 +415,9 @@ Matchday 26
   Aston Villa             - Tottenham Hotspur
 [Mon Feb/17]
   FC Chelsea              - Manchester United
- 
+[Wed Feb/19]
+  Manchester City         - West Ham United
+
 
 Matchday 27
 [Sat Feb/22]
