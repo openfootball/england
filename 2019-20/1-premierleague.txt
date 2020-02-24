@@ -428,9 +428,9 @@ Matchday 27
   Sheffield United        1-1 Brighton & Hove Albion
   FC Burnley              3-0 AFC Bournemouth
 [Sun Feb/23]
-  Wolverhampton Wanderers - Norwich City
-  Manchester United       - FC Watford
-  FC Arsenal              - FC Everton
+  Wolverhampton Wanderers 3-0 Norwich City
+  Manchester United       3-0 FC Watford
+  FC Arsenal              3-2 FC Everton
 [Mon Feb/24]
   FC Liverpool            - West Ham United
   
@@ -454,43 +454,49 @@ Matchday 28
 Matchday 29
 [Sat Mar/7]
   FC Arsenal              - West Ham United
-  FC Chelsea              - FC Everton
   Crystal Palace          - FC Watford
-  Leicester City          - Aston Villa
   FC Liverpool            - AFC Bournemouth
-  Manchester United       - Manchester City
   FC Southampton          - Newcastle United
   Wolverhampton Wanderers - Brighton & Hove Albion
   Sheffield United        - Norwich City
   FC Burnley              - Tottenham Hotspur
+[Sun Mar/8]
+  FC Chelsea              - FC Everton
+  Manchester United       - Manchester City
+[Mon Mar/9]
+  Leicester City          - Aston Villa
 
 
 Matchday 30
 [Sat Mar/14]
   Aston Villa             - FC Chelsea
-  FC Everton              - FC Liverpool
   Newcastle United        - Sheffield United
-  Tottenham Hotspur       - Manchester United
-  West Ham United         - Wolverhampton Wanderers
   Manchester City         - FC Burnley
   FC Watford              - Leicester City
   Norwich City            - FC Southampton
   AFC Bournemouth         - Crystal Palace
   Brighton & Hove Albion  - FC Arsenal
+[Sun Mar/15]
+  Tottenham Hotspur       - Manchester United
+  West Ham United         - Wolverhampton Wanderers
+[Mon Mar/16]
+  FC Everton              - FC Liverpool
 
 
 Matchday 31
+[Fri Mar/20]
+  Tottenham Hotspur       - West Ham United
 [Sat Mar/21]
   FC Chelsea              - Manchester City
-  Leicester City          - Brighton & Hove Albion
   FC Liverpool            - Crystal Palace
   Manchester United       - Sheffield United
   Newcastle United        - Aston Villa
-  FC Southampton          - FC Arsenal
-  Tottenham Hotspur       - West Ham United
   Wolverhampton Wanderers - AFC Bournemouth
   Norwich City            - FC Everton
   FC Burnley              - FC Watford
+[Sun Mar/22]
+  Leicester City          - Brighton & Hove Albion
+  FC Southampton          - FC Arsenal
 
 
 Matchday 32
