@@ -470,7 +470,7 @@ Matchday 31
   Burnley FC              1-2 Leicester City
   AFC Bournemouth         2-2 Newcastle United
   Watford FC              1-1 Southampton FC
-##  Manchester United       0-2 Manchester City     ## note - match got rescheduled - delete? see reschudeled match later in file  
+##  Manchester United       0-2 Manchester City     ## note - match got rescheduled - delete? see reschudeled match later in file
 [Sun Mar/17]
   Everton FC              2-0 Chelsea FC
   Tottenham Hotspur       2-0 Crystal Palace
@@ -535,7 +535,7 @@ Matchday 35
   Wolverhampton Wanderers 0-0 Brighton & Hove Albion
 
 
- 
+
 Matchday 31     ## in addition Matchday 31 - rescheduled
 [Wed Apr/24]
   Manchester United       0-2 Manchester City
@@ -581,7 +581,7 @@ Matchday 37
   Arsenal FC              1-1 Brighton & Hove Albion
   Chelsea FC              3-0 Watford FC
   Huddersfield Town       1-1 Manchester United
-[Mon May/6)
+[Mon May/6]
   Manchester City         1-0 Leicester City
 
 
