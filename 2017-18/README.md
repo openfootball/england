@@ -6,26 +6,26 @@
 ```
                                         - Total -                  - Home -          - Away -     
                                  Pld   W  D  L   F:A   +/-  Pts   W  D  L   F:A     W  D  L   F:A
- 1. Chelsea                        0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 2. Arsenal                        0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 3. Tottenham Hotspur              0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 4. West Ham United                0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 5. Crystal Palace                 0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 6. Manchester United              0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 7. Manchester City                0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 8. Everton                        0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 9. Liverpool                      0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-10. West Bromwich Albion           0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-11. Newcastle United               0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-12. Stoke City                     0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-13. Southampton                    0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-14. Leicester City                 0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-15. Bournemouth                    0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-16. Watford                        0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-17. Brighton & Hove Albion         0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-18. Burnley                        0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-19. Huddersfield Town              0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-20. Swansea                        0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
+ 1. Manchester City FC            39  33  4  2 109:28  +81  103  17  2  1  64:15   16  2  1  45:13 
+ 2. Manchester United FC          40  26  7  7  70:28  +42   85  15  2  2  38:9    11  5  5  32:19 
+ 3. Tottenham Hotspur FC          41  24 10  7  77:38  +39   82  14  5  2  42:17   10  5  5  35:21 
+ 4. Liverpool FC                  38  21 12  5  84:38  +46   75  12  7  0  45:10    9  5  5  39:28 
+ 5. Chelsea FC                    40  22  8 10  65:40  +25   74  11  5  4  31:17   11  3  6  34:23 
+ 6. Arsenal FC                    39  19  6 14  75:54  +21   63  15  2  2  54:20    4  4 12  21:34 
+ 7. Burnley FC                    39  14 12 13  37:41   -4   54   7  5  8  17:19    7  7  5  20:22 
+ 8. Leicester City FC             40  13 12 15  59:61   -2   51   8  7  6  28:23    5  5  9  31:38 
+ 9. Everton FC                    38  13 10 15  44:58  -14   49  10  4  5  28:22    3  6 10  16:36 
+10. Newcastle United FC           39  12  8 19  39:48   -9   44   8  4  7  21:17    4  4 12  18:31 
+11. Crystal Palace FC             38  11 11 16  45:55  -10   44   7  5  7  29:27    4  6  9  16:28 
+12. AFC Bournemouth               39  11 11 17  45:63  -18   44   7  5  8  26:32    4  6  9  19:31 
+13. West Ham United FC            40  10 14 16  49:69  -20   44   7  7  6  24:26    3  7 10  25:43 
+14. Watford FC                    38  11  8 19  44:64  -20   41   7  6  6  27:31    4  2 13  17:33 
+15. Brighton & Hove Albion FC     40   9 14 17  36:58  -22   41   7  9  4  25:26    2  5 13  11:32 
+16. Southampton FC                40   8 16 16  38:56  -18   40   4  7  8  20:26    4  9  8  18:30 
+17. Huddersfield Town AFC         39   9 11 19  29:59  -30   38   6  5  8  16:25    3  6 11  13:34 
+18. Swansea City FC               39   8  9 22  28:57  -29   33   6  3 11  17:25    2  6 11  11:32 
+19. Stoke City FC                 38   7 12 19  35:68  -33   33   5  5  9  20:30    2  7 10  15:38 
+20. West Bromwich Albion FC       38   6 13 19  31:56  -25   31   3  9  7  21:29    3  4 12  10:27 
 ```
 
 
@@ -37,27 +37,27 @@ Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals f
 ### Results Tables
 
 ```
-Home \ Away           CHE ARS TOT WHU CRY MUN MCI EVE LIV WBA NEW STK SOU LEI BOU WAT     BUR     SWA
-Chelsea (CHE)          *
-Arsenal (ARS)              *
-Tottenham Hotsp (TOT)          *
-West Ham United (WHU)              *
-Crystal Palace (CRY)                   *
-Manchester Unit (MUN)                      *
-Manchester City (MCI)                          *
-Everton (EVE)                                      *
-Liverpool (LIV)                                        *
-West Bromwich A (WBA)                                      *
-Newcastle Unite (NEW)                                          *
-Stoke City (STK)                                                   *
-Southampton (SOU)                                                      *
-Leicester City (LEI)                                                       *
-Bournemouth (BOU)                                                              *
-Watford (WAT)                                                                      *
-Brighton & Hove ()                                                                     *
-Burnley (BUR)                                                                              *
-Huddersfield To ()                                                                             *
-Swansea (SWA)                                                                                      *
+Home \ Away           LIV MCI EVE CHE ARS MUN NEW WBA STK TOT WHU SWA BUR CRY LEI WAT BHA SOU HUD BOU
+Liverpool FC (LIV)     *  4-3 1-1 1-1 4-0 0-0 2-0 0-0 0-0 2-2 4-1 5-0 1-1 1-0 2-1 5-0 4-0 3-0 3-0 3-0
+Manchester City (MCI) 5-0  *  1-1 1-0 3-1 2-3 3-1 3-0 7-2 4-1 2-1 5-0 3-0 5-0 5-1 3-1 3-1 2-1 0-0 4-0
+Everton FC (EVE)      0-0 1-3  *  0-0 2-5 0-2 1-0 1-1 1-0 0-3 4-0 3-1 0-1 3-1 2-1 3-2 2-0 1-1 2-0 2-1
+Chelsea FC (CHE)      1-0 0-1 2-0  *  0-0 1-0 3-1 3-0 5-0 1-3 1-1 1-0 2-3 2-1 0-0 4-2 2-0 1-0 1-1 0-3
+Arsenal FC (ARS)      3-3 0-3 5-1 2-2  *  1-3 1-0 2-0 3-0 2-0 4-1 2-1 5-0 4-1 4-3 3-0 2-0 3-2 5-0 3-0
+Manchester Unit (MUN) 2-1 1-2 4-0 2-1 2-1  *  4-1 0-1 3-0 1-0 4-0 2-0 2-2 4-0 2-0 1-0 1-0 0-0 2-0 1-0
+Newcastle Unite (NEW) 1-1 0-1 0-1 3-0 2-1 1-0  *  0-1 2-1 0-2 3-0 1-1 1-1 1-0 2-3 0-3 0-0 3-0 1-0 0-1
+West Bromwich A (WBA) 2-2 2-3 0-0 0-4 1-1 1-2 2-2  *  1-1 1-0 0-0 1-1 1-2 0-0 1-4 2-2 2-0 2-3 1-2 1-0
+Stoke City FC (STK)   0-3 0-2 1-2 0-4 1-0 2-2 0-1 3-1  *  1-2 0-3 2-1 1-1 1-2 2-2 0-0 1-1 2-1 2-0 1-2
+Tottenham Hotsp (TOT) 4-1 1-3 4-0 1-2 1-0 2-0 1-0 1-1 5-1  *  1-1 0-0 1-1 1-0 5-4 2-0 2-0 5-2 2-0 1-0
+West Ham United (WHU) 1-4 1-4 3-1 1-0 0-0 0-0 2-3 2-1 1-1 2-3  *  1-0 0-3 1-1 1-1 2-0 0-3 3-0 2-0 1-1
+Swansea City FC (SWA) 1-0 0-4 1-1 0-1 3-1 0-4 0-1 1-0 1-2 0-2 4-1  *  1-0 1-1 1-2 1-2 0-1 0-1 2-0 0-0
+Burnley FC (BUR)      1-2 1-1 2-1 1-2 0-1 0-1 1-0 0-1 1-0 0-3 1-1 2-0  *  1-0 2-1 1-0 0-0 1-1 0-0 1-2
+Crystal Palace (CRY)  1-2 0-0 2-2 2-1 2-3 2-3 1-1 2-0 2-1 0-1 2-2 0-2 1-0  *  5-0 2-1 3-2 0-1 0-3 2-2
+Leicester City (LEI)  2-3 0-2 2-0 1-2 3-1 2-2 1-2 1-1 1-1 2-1 0-2 1-1 1-0 0-3  *  2-0 2-0 0-0 3-0 1-1
+Watford FC (WAT)      3-3 0-6 1-0 4-1 2-1 2-4 2-1 1-0 0-1 1-1 2-0 1-2 1-2 0-0 2-1  *  0-0 2-2 1-4 2-2
+Brighton & Hove (BHA) 1-5 0-2 1-1 0-4 2-1 1-0 1-0 3-1 2-2 1-1 3-1 4-1 0-0 0-0 0-2 1-0  *  1-1 1-1 2-2
+Southampton FC (SOU)  0-2 0-1 4-1 2-3 1-1 0-1 2-2 1-0 0-0 1-1 3-2 0-0 0-1 1-2 1-4 0-2 1-1  *  1-1 2-1
+Huddersfield To (HUD) 0-3 1-2 0-2 1-3 0-1 2-1 1-0 1-0 1-1 0-4 1-4 0-0 0-0 0-2 1-1 1-0 2-0 0-0  *  4-1
+AFC Bournemouth (BOU) 0-4 1-2 2-1 0-1 2-1 0-2 2-2 2-1 2-1 1-4 3-3 1-0 1-2 2-2 0-0 0-2 2-1 1-1 4-0  *
 
 ```
 
