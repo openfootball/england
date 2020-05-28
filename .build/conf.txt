@@ -1,46 +1,121 @@
-81 datafiles:
-[1/81] >2010-11/1-premierleague.txt<
-  1 section(s):
-    427 lines - league: >English Premier League< (eng.1), season: >2010/11<
-      20 clubs:
-        Arsenal x38 => Arsenal FC
-        Aston Villa x38 => Aston Villa FC
-        Birmingham x38 => Birmingham City FC
-        Blackburn x38 => Blackburn Rovers FC
-        Blackpool x38 => Blackpool FC
-        Bolton x38 => Bolton Wanderers FC
-        Chelsea x38 => Chelsea FC
-        Everton x38 => Everton FC
-        Fulham x38 => Fulham FC
-        Liverpool x38 => Liverpool FC
-        Manchester City x38 => Manchester City FC
-        Manchester United x38 => Manchester United FC
-        Newcastle Utd x38 => Newcastle United FC
-        Stoke City x38 => Stoke City FC
-        Sunderland x38 => Sunderland AFC
-        Tottenham x38 => Tottenham Hotspur FC
-        West Brom x38 => West Bromwich Albion FC
-        West Ham x38 => West Ham United FC
-        Wigan x38 => Wigan Athletic FC
-        Wolves x38 => Wolverhampton Wanderers FC
-      38 rounds:
+34 datafiles:
+[1/34] >2010-11/1-premierleague.txt< - 1 section(s):
+    427 lines, 380 matches - Premier League (eng.1) 2010/11, 20 team refs, 38 round defs
+[2/34] >2010-11/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2010/11, stage: >Play-offs<, 4 team refs, 2 round defs
+    598 lines, 552 matches - Championship (eng.2) 2010/11, 24 team refs, 46 round defs
+[3/34] >2010-11/3-league1.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[4/34] >2010-11/4-league2.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[5/34] >2011-12/1-premierleague.txt< - 1 section(s):
+    422 lines, 380 matches - Premier League (eng.1) 2011/12, 20 team refs, 38 round defs
+[6/34] >2011-12/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2011/12, stage: >Play-offs<, 4 team refs, 2 round defs
+    598 lines, 552 matches - Championship (eng.2) 2011/12, 24 team refs, 46 round defs
+[7/34] >2011-12/3-league1.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[8/34] >2011-12/4-league2.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[9/34] >2012-13/1-premierleague-i.txt< - 1 section(s):
+    249 lines, 190 matches - Premier League (eng.1) 2012/13, 20 team refs, 19 round defs
+[10/34] >2012-13/1-premierleague-ii.txt< - 1 section(s):
+    261 lines, 190 matches - Premier League (eng.1) 2012/13, 20 team refs, 19 round defs
+[11/34] >2012-13/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2012/13, stage: >Play-offs<, 4 team refs, 2 round defs
+    598 lines, 552 matches - Championship (eng.2) 2012/13, 24 team refs, 46 round defs
+[12/34] >2012-13/3-league1.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[13/34] >2012-13/4-league2.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[14/34] >2013-14/1-premierleague-i.txt< - 1 section(s):
+    255 lines, 190 matches - Premier League (eng.1) 2013/14, 20 team refs, 19 round defs
+[15/34] >2013-14/1-premierleague-ii.txt< - 1 section(s):
+    258 lines, 190 matches - Premier League (eng.1) 2013/14, 20 team refs, 19 round defs
+[16/34] >2013-14/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2013/14, stage: >Play-offs<, 4 team refs, 2 round defs
+    598 lines, 552 matches - Championship (eng.2) 2013/14, 24 team refs, 46 round defs
+[17/34] >2013-14/3-league1.txt< - 1 section(s):
+    640 lines, 557 matches - League One (eng.3) 2013/14, 24 team refs, 48 round defs
+[18/34] >2013-14/4-league2.txt< - 1 section(s):
+    635 lines, 557 matches - League Two (eng.4) 2013/14, 24 team refs, 48 round defs
+[19/34] >2014-15/1-premierleague-i.txt< - 1 section(s):
+    231 lines, 190 matches - Premier League (eng.1) 2014/15, 20 team refs, 19 round defs
+[20/34] >2014-15/1-premierleague-ii.txt< - 1 section(s):
+    230 lines, 190 matches - Premier League (eng.1) 2014/15, 20 team refs, 19 round defs
+[21/34] >2014-15/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2014/15, stage: >Play-offs<, 4 team refs, 2 round defs
+    598 lines, 552 matches - Championship (eng.2) 2014/15, 24 team refs, 46 round defs
+[22/34] >2014-15/3-league1.txt< - 1 section(s):
+    631 lines, 557 matches - League One (eng.3) 2014/15, 24 team refs, 48 round defs
+[23/34] >2014-15/4-league2.txt< - 1 section(s):
+    611 lines, 557 matches - League Two (eng.4) 2014/15, 24 team refs, 48 round defs
+[24/34] >2015-16/1-premierleague-i.txt< - 1 section(s):
+    241 lines, 190 matches - Premier League (eng.1) 2015/16, 20 team refs, 19 round defs
+[25/34] >2015-16/1-premierleague-ii.txt< - 1 section(s):
+    243 lines, 190 matches - Premier League (eng.1) 2015/16, 20 team refs, 19 round defs
+[26/34] >2015-16/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2015/16, stage: >Play-offs<, 4 team refs, 2 round defs
+    596 lines, 550 matches - Championship (eng.2) 2015/16, 24 team refs, 46 round defs
+[27/34] >2015-16/3-league1.txt< - 1 section(s):
+    636 lines, 557 matches - League One (eng.3) 2015/16, 24 team refs, 48 round defs
+[28/34] >2015-16/4-league2.txt< - 1 section(s):
+    635 lines, 557 matches - League Two (eng.4) 2015/16, 24 team refs, 48 round defs
+[29/34] >2016-17/1-premierleague-i.txt< - 1 section(s):
+    324 lines, 190 matches - Premier League (eng.1) 2016/17, 20 team refs, 19 round defs
+[30/34] >2016-17/1-premierleague-ii.txt< - 1 section(s):
+    260 lines, 201 matches - Premier League (eng.1) 2016/17, 20 team refs, 22 round defs
+[31/34] >2017-18/1-premierleague-i.txt< - 1 section(s):
+    286 lines, 210 matches - Premier League (eng.1) 2017/18, 20 team refs, 21 round defs
+[32/34] >2017-18/1-premierleague-ii.txt< - 1 section(s):
+    254 lines, 181 matches - Premier League (eng.1) 2017/18, 20 team refs, 17 round defs
+[33/34] >2018-19/1-premierleague.txt< - 1 section(s):
+    516 lines, 380 matches - Premier League (eng.1) 2018/19, 20 team refs, 38 round defs
+[34/34] >2019-20/1-premierleague.txt< - 1 section(s):
+    514 lines, 381 matches - Premier League (eng.1) 2019/20, 20 team refs, 38 round defs
+
+
+[1/34] >2010-11/1-premierleague.txt< - 1 section(s):
+    427 lines, 380 matches - Premier League (eng.1) 2010/11
+      20 teams (referenced):
+        38× Arsenal ⇒ Arsenal FC
+        38× Aston Villa ⇒ Aston Villa FC
+        38× Birmingham ⇒ Birmingham City FC
+        38× Blackburn ⇒ Blackburn Rovers FC
+        38× Blackpool ⇒ Blackpool FC
+        38× Bolton ⇒ Bolton Wanderers FC
+        38× Chelsea ⇒ Chelsea FC
+        38× Everton ⇒ Everton FC
+        38× Fulham ⇒ Fulham FC
+        38× Liverpool ⇒ Liverpool FC
+        38× Manchester City ⇒ Manchester City FC
+        38× Manchester United ⇒ Manchester United FC
+        38× Newcastle Utd ⇒ Newcastle United FC
+        38× Stoke City ⇒ Stoke City FC
+        38× Sunderland ⇒ Sunderland AFC
+        38× Tottenham ⇒ Tottenham Hotspur FC
+        38× West Brom ⇒ West Bromwich Albion FC
+        38× West Ham ⇒ West Ham United FC
+        38× Wigan ⇒ Wigan Athletic FC
+        38× Wolves ⇒ Wolverhampton Wanderers FC
+      38 rounds (referenced):
         Round 38, 10 matches
         Round 37, 10 matches
-        Round 33 x3, 10 matches
+        Round 33 ×3, 10 matches
         Round 36, 10 matches
         Round 35, 10 matches
         Round 34, 10 matches
-        Round 28 x2, 10 matches
+        Round 28 ×2, 10 matches
         Round 32, 10 matches
         Round 31, 10 matches
         Round 30, 10 matches
-        Round 19 x3, 10 matches
+        Round 19 ×3, 10 matches
         Round 29, 10 matches
-        Round 18 x4, 10 matches
+        Round 18 ×4, 10 matches
         Round 27, 10 matches
         Round 26, 10 matches
         Round 25, 10 matches
-        Round 16 x2, 10 matches
+        Round 16 ×2, 10 matches
         Round 24, 10 matches
         Round 23, 10 matches
         Round 22, 10 matches
@@ -62,44 +137,43 @@
         Round 3, 10 matches
         Round 2, 10 matches
         Round 1, 10 matches
-[2/81] >2010-11/2-championship.txt<
-  2 section(s):
-    7 lines - league: >English Championship< (eng.2), season: >2010/11<, stage: >Play-offs<
-      4 clubs:
-        Reading x3 => Reading FC
-        Swansea x3 => Swansea City FC
-        Cardiff x2 => Cardiff City FC
-        Nottingham Forest x2 => Nottingham Forest FC
-      2 rounds:
+[2/34] >2010-11/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2010/11, stage: >Play-offs<
+      4 teams (referenced):
+        3× Reading ⇒ Reading FC
+        3× Swansea ⇒ Swansea City FC
+        2× Cardiff ⇒ Cardiff City FC
+        2× Nottingham Forest ⇒ Nottingham Forest FC
+      2 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
-    598 lines - league: >English Championship< (eng.2), season: >2010/11<
-      24 clubs:
-        Barnsley x46 => Barnsley FC
-        Bristol City x46 => Bristol City FC
-        Burnley x46 => Burnley FC
-        Cardiff x46 => Cardiff City FC
-        Coventry x46 => Coventry City FC
-        Crystal Palace x46 => Crystal Palace FC
-        Derby x46 => Derby County FC
-        Doncaster x46 => Doncaster Rovers FC
-        Hull City x46 => Hull City AFC
-        Ipswich x46 => Ipswich Town FC
-        Leeds x46 => Leeds United FC
-        Leicester x46 => Leicester City FC
-        Middlesbrough x46 => Middlesbrough FC
-        Millwall x46 => Millwall FC
-        Norwich x46 => Norwich City FC
-        Nottingham Forest x46 => Nottingham Forest FC
-        Portsmouth x46 => Portsmouth FC
-        Preston x46 => Preston North End FC
-        QPR x46 => Queens Park Rangers FC
-        Reading x46 => Reading FC
-        Scunthorpe x46 => Scunthorpe United FC
-        Sheffield Utd x46 => Sheffield United FC
-        Swansea x46 => Swansea City FC
-        Watford x46 => Watford FC
-      46 rounds:
+    598 lines, 552 matches - Championship (eng.2) 2010/11
+      24 teams (referenced):
+        46× Barnsley ⇒ Barnsley FC
+        46× Bristol City ⇒ Bristol City FC
+        46× Burnley ⇒ Burnley FC
+        46× Cardiff ⇒ Cardiff City FC
+        46× Coventry ⇒ Coventry City FC
+        46× Crystal Palace ⇒ Crystal Palace FC
+        46× Derby ⇒ Derby County FC
+        46× Doncaster ⇒ Doncaster Rovers FC
+        46× Hull City ⇒ Hull City AFC
+        46× Ipswich ⇒ Ipswich Town FC
+        46× Leeds ⇒ Leeds United FC
+        46× Leicester ⇒ Leicester City FC
+        46× Middlesbrough ⇒ Middlesbrough FC
+        46× Millwall ⇒ Millwall FC
+        46× Norwich ⇒ Norwich City FC
+        46× Nottingham Forest ⇒ Nottingham Forest FC
+        46× Portsmouth ⇒ Portsmouth FC
+        46× Preston ⇒ Preston North End FC
+        46× QPR ⇒ Queens Park Rangers FC
+        46× Reading ⇒ Reading FC
+        46× Scunthorpe ⇒ Scunthorpe United FC
+        46× Sheffield Utd ⇒ Sheffield United FC
+        46× Swansea ⇒ Swansea City FC
+        46× Watford ⇒ Watford FC
+      46 rounds (referenced):
         Round 46, 12 matches
         Round 45, 12 matches
         Round 44, 12 matches
@@ -146,46 +220,43 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[3/81] >2010-11/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[4/81] >2010-11/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[5/81] >2011-12/1-premierleague.txt<
-  1 section(s):
-    422 lines - league: >English Premier League< (eng.1), season: >2011/12<
-      20 clubs:
-        Arsenal x38 => Arsenal FC
-        Aston Villa x38 => Aston Villa FC
-        Blackburn x38 => Blackburn Rovers FC
-        Bolton x38 => Bolton Wanderers FC
-        Chelsea x38 => Chelsea FC
-        Everton x38 => Everton FC
-        Fulham x38 => Fulham FC
-        Liverpool x38 => Liverpool FC
-        Manchester City x38 => Manchester City FC
-        Manchester United x38 => Manchester United FC
-        Newcastle Utd x38 => Newcastle United FC
-        Norwich x38 => Norwich City FC
-        QPR x38 => Queens Park Rangers FC
-        Stoke City x38 => Stoke City FC
-        Sunderland x38 => Sunderland AFC
-        Swansea x38 => Swansea City FC
-        Tottenham x38 => Tottenham Hotspur FC
-        West Brom x38 => West Bromwich Albion FC
-        Wigan x38 => Wigan Athletic FC
-        Wolves x38 => Wolverhampton Wanderers FC
-      38 rounds:
+[3/34] >2010-11/3-league1.txt< - 0 section(s):
+[4/34] >2010-11/4-league2.txt< - 0 section(s):
+[5/34] >2011-12/1-premierleague.txt< - 1 section(s):
+    422 lines, 380 matches - Premier League (eng.1) 2011/12
+      20 teams (referenced):
+        38× Arsenal ⇒ Arsenal FC
+        38× Aston Villa ⇒ Aston Villa FC
+        38× Blackburn ⇒ Blackburn Rovers FC
+        38× Bolton ⇒ Bolton Wanderers FC
+        38× Chelsea ⇒ Chelsea FC
+        38× Everton ⇒ Everton FC
+        38× Fulham ⇒ Fulham FC
+        38× Liverpool ⇒ Liverpool FC
+        38× Manchester City ⇒ Manchester City FC
+        38× Manchester United ⇒ Manchester United FC
+        38× Newcastle Utd ⇒ Newcastle United FC
+        38× Norwich ⇒ Norwich City FC
+        38× QPR ⇒ Queens Park Rangers FC
+        38× Stoke City ⇒ Stoke City FC
+        38× Sunderland ⇒ Sunderland AFC
+        38× Swansea ⇒ Swansea City FC
+        38× Tottenham ⇒ Tottenham Hotspur FC
+        38× West Brom ⇒ West Bromwich Albion FC
+        38× Wigan ⇒ Wigan Athletic FC
+        38× Wolves ⇒ Wolverhampton Wanderers FC
+      38 rounds (referenced):
         Round 38, 10 matches
         Round 37, 10 matches
-        Round 34 x2, 10 matches
+        Round 34 ×2, 10 matches
         Round 36, 10 matches
-        Round 29 x2, 10 matches
+        Round 29 ×2, 10 matches
         Round 35, 10 matches
         Round 33, 10 matches
         Round 32, 10 matches
         Round 31, 10 matches
         Round 30, 10 matches
-        Round 26 x2, 10 matches
+        Round 26 ×2, 10 matches
         Round 28, 10 matches
         Round 27, 10 matches
         Round 25, 10 matches
@@ -193,7 +264,7 @@
         Round 23, 10 matches
         Round 22, 10 matches
         Round 21, 10 matches
-        Round 1 x2, 10 matches
+        Round 1 ×2, 10 matches
         Round 20, 10 matches
         Round 19, 10 matches
         Round 18, 10 matches
@@ -213,44 +284,43 @@
         Round 4, 10 matches
         Round 3, 10 matches
         Round 2, 10 matches
-[6/81] >2011-12/2-championship.txt<
-  2 section(s):
-    7 lines - league: >English Championship< (eng.2), season: >2011/12<, stage: >Play-offs<
-      4 clubs:
-        Blackpool x3 => Blackpool FC
-        West Ham x3 => West Ham United FC
-        Birmingham x2 => Birmingham City FC
-        Cardiff x2 => Cardiff City FC
-      2 rounds:
+[6/34] >2011-12/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2011/12, stage: >Play-offs<
+      4 teams (referenced):
+        3× Blackpool ⇒ Blackpool FC
+        3× West Ham ⇒ West Ham United FC
+        2× Birmingham ⇒ Birmingham City FC
+        2× Cardiff ⇒ Cardiff City FC
+      2 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
-    598 lines - league: >English Championship< (eng.2), season: >2011/12<
-      24 clubs:
-        Barnsley x46 => Barnsley FC
-        Birmingham x46 => Birmingham City FC
-        Blackpool x46 => Blackpool FC
-        Brighton x46 => Brighton & Hove Albion FC
-        Bristol City x46 => Bristol City FC
-        Burnley x46 => Burnley FC
-        Cardiff x46 => Cardiff City FC
-        Coventry x46 => Coventry City FC
-        Crystal Palace x46 => Crystal Palace FC
-        Derby x46 => Derby County FC
-        Doncaster x46 => Doncaster Rovers FC
-        Hull City x46 => Hull City AFC
-        Ipswich x46 => Ipswich Town FC
-        Leeds x46 => Leeds United FC
-        Leicester x46 => Leicester City FC
-        Middlesbrough x46 => Middlesbrough FC
-        Millwall x46 => Millwall FC
-        Nottingham Forest x46 => Nottingham Forest FC
-        Peterborough x46 => Peterborough United FC
-        Portsmouth x46 => Portsmouth FC
-        Reading x46 => Reading FC
-        Southampton x46 => Southampton FC
-        Watford x46 => Watford FC
-        West Ham x46 => West Ham United FC
-      46 rounds:
+    598 lines, 552 matches - Championship (eng.2) 2011/12
+      24 teams (referenced):
+        46× Barnsley ⇒ Barnsley FC
+        46× Birmingham ⇒ Birmingham City FC
+        46× Blackpool ⇒ Blackpool FC
+        46× Brighton ⇒ Brighton & Hove Albion FC
+        46× Bristol City ⇒ Bristol City FC
+        46× Burnley ⇒ Burnley FC
+        46× Cardiff ⇒ Cardiff City FC
+        46× Coventry ⇒ Coventry City FC
+        46× Crystal Palace ⇒ Crystal Palace FC
+        46× Derby ⇒ Derby County FC
+        46× Doncaster ⇒ Doncaster Rovers FC
+        46× Hull City ⇒ Hull City AFC
+        46× Ipswich ⇒ Ipswich Town FC
+        46× Leeds ⇒ Leeds United FC
+        46× Leicester ⇒ Leicester City FC
+        46× Middlesbrough ⇒ Middlesbrough FC
+        46× Millwall ⇒ Millwall FC
+        46× Nottingham Forest ⇒ Nottingham Forest FC
+        46× Peterborough ⇒ Peterborough United FC
+        46× Portsmouth ⇒ Portsmouth FC
+        46× Reading ⇒ Reading FC
+        46× Southampton ⇒ Southampton FC
+        46× Watford ⇒ Watford FC
+        46× West Ham ⇒ West Ham United FC
+      46 rounds (referenced):
         Round 46, 12 matches
         Round 45, 12 matches
         Round 44, 12 matches
@@ -297,35 +367,32 @@
         Round 3, 11 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[7/81] >2011-12/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[8/81] >2011-12/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[9/81] >2012-13/1-premierleague-i.txt<
-  1 section(s):
-    249 lines - league: >English Premier League< (eng.1), season: >2012/13<
-      20 clubs:
-        Arsenal FC x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Chelsea FC x19 => Chelsea FC
-        Everton FC x19 => Everton FC
-        Fulham FC x19 => Fulham FC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Newcastle United x19 => Newcastle United FC
-        Norwich City x19 => Norwich City FC
-        Queens Park Rangers x19 => Queens Park Rangers FC
-        Reading FC x19 => Reading FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        West Bromwich Albion x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-        Wigan Athletic x19 => Wigan Athletic FC
-      19 rounds:
+[7/34] >2011-12/3-league1.txt< - 0 section(s):
+[8/34] >2011-12/4-league2.txt< - 0 section(s):
+[9/34] >2012-13/1-premierleague-i.txt< - 1 section(s):
+    249 lines, 190 matches - Premier League (eng.1) 2012/13
+      20 teams (referenced):
+        19× Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Chelsea FC
+        19× Everton FC
+        19× Fulham FC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Newcastle United ⇒ Newcastle United FC
+        19× Norwich City ⇒ Norwich City FC
+        19× Queens Park Rangers ⇒ Queens Park Rangers FC
+        19× Reading FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+        19× Wigan Athletic ⇒ Wigan Athletic FC
+      19 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -345,31 +412,30 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[10/81] >2012-13/1-premierleague-ii.txt<
-  1 section(s):
-    261 lines - league: >English Premier League< (eng.1), season: >2012/13<
-      20 clubs:
-        Arsenal x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Chelsea x19 => Chelsea FC
-        Everton x19 => Everton FC
-        Fulham x19 => Fulham FC
-        Liverpool x19 => Liverpool FC
-        Manchester C x19 => Manchester City FC
-        Manchester U x19 => Manchester United FC
-        Newcastle x19 => Newcastle United FC
-        Norwich x19 => Norwich City FC
-        QPR x19 => Queens Park Rangers FC
-        Reading x19 => Reading FC
-        Southampton x19 => Southampton FC
-        Stoke x19 => Stoke City FC
-        Sunderland x19 => Sunderland AFC
-        Swansea x19 => Swansea City FC
-        Tottenham x19 => Tottenham Hotspur FC
-        West Bromwich x19 => West Bromwich Albion FC
-        West Ham x19 => West Ham United FC
-        Wigan x19 => Wigan Athletic FC
-      19 rounds:
+[10/34] >2012-13/1-premierleague-ii.txt< - 1 section(s):
+    261 lines, 190 matches - Premier League (eng.1) 2012/13
+      20 teams (referenced):
+        19× Arsenal ⇒ Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Chelsea ⇒ Chelsea FC
+        19× Everton ⇒ Everton FC
+        19× Fulham ⇒ Fulham FC
+        19× Liverpool ⇒ Liverpool FC
+        19× Manchester C ⇒ Manchester City FC
+        19× Manchester U ⇒ Manchester United FC
+        19× Newcastle ⇒ Newcastle United FC
+        19× Norwich ⇒ Norwich City FC
+        19× QPR ⇒ Queens Park Rangers FC
+        19× Reading ⇒ Reading FC
+        19× Southampton ⇒ Southampton FC
+        19× Stoke ⇒ Stoke City FC
+        19× Sunderland ⇒ Sunderland AFC
+        19× Swansea ⇒ Swansea City FC
+        19× Tottenham ⇒ Tottenham Hotspur FC
+        19× West Bromwich ⇒ West Bromwich Albion FC
+        19× West Ham ⇒ West Ham United FC
+        19× Wigan ⇒ Wigan Athletic FC
+      19 rounds (referenced):
         Matchday 20, 10 matches
         Matchday 21, 10 matches
         Matchday 22, 10 matches
@@ -389,44 +455,43 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[11/81] >2012-13/2-championship.txt<
-  2 section(s):
-    7 lines - league: >English Championship< (eng.2), season: >2012/13<, stage: >Play-offs<
-      4 clubs:
-        Crystal Palace x3 => Crystal Palace FC
-        Watford x3 => Watford FC
-        Brighton x2 => Brighton & Hove Albion FC
-        Leicester x2 => Leicester City FC
-      2 rounds:
+[11/34] >2012-13/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2012/13, stage: >Play-offs<
+      4 teams (referenced):
+        3× Crystal Palace ⇒ Crystal Palace FC
+        3× Watford ⇒ Watford FC
+        2× Brighton ⇒ Brighton & Hove Albion FC
+        2× Leicester ⇒ Leicester City FC
+      2 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
-    598 lines - league: >English Championship< (eng.2), season: >2012/13<
-      24 clubs:
-        Barnsley x46 => Barnsley FC
-        Birmingham x46 => Birmingham City FC
-        Blackburn x46 => Blackburn Rovers FC
-        Blackpool x46 => Blackpool FC
-        Bolton x46 => Bolton Wanderers FC
-        Brighton x46 => Brighton & Hove Albion FC
-        Bristol City x46 => Bristol City FC
-        Burnley x46 => Burnley FC
-        Cardiff x46 => Cardiff City FC
-        Charlton x46 => Charlton Athletic FC
-        Crystal Palace x46 => Crystal Palace FC
-        Derby x46 => Derby County FC
-        Huddersfield x46 => Huddersfield Town AFC
-        Hull City x46 => Hull City AFC
-        Ipswich x46 => Ipswich Town FC
-        Leeds x46 => Leeds United FC
-        Leicester x46 => Leicester City FC
-        Middlesbrough x46 => Middlesbrough FC
-        Millwall x46 => Millwall FC
-        Nottingham Forest x46 => Nottingham Forest FC
-        Peterborough x46 => Peterborough United FC
-        Sheffield Wed x46 => Sheffield Wednesday FC
-        Watford x46 => Watford FC
-        Wolves x46 => Wolverhampton Wanderers FC
-      46 rounds:
+    598 lines, 552 matches - Championship (eng.2) 2012/13
+      24 teams (referenced):
+        46× Barnsley ⇒ Barnsley FC
+        46× Birmingham ⇒ Birmingham City FC
+        46× Blackburn ⇒ Blackburn Rovers FC
+        46× Blackpool ⇒ Blackpool FC
+        46× Bolton ⇒ Bolton Wanderers FC
+        46× Brighton ⇒ Brighton & Hove Albion FC
+        46× Bristol City ⇒ Bristol City FC
+        46× Burnley ⇒ Burnley FC
+        46× Cardiff ⇒ Cardiff City FC
+        46× Charlton ⇒ Charlton Athletic FC
+        46× Crystal Palace ⇒ Crystal Palace FC
+        46× Derby ⇒ Derby County FC
+        46× Huddersfield ⇒ Huddersfield Town AFC
+        46× Hull City ⇒ Hull City AFC
+        46× Ipswich ⇒ Ipswich Town FC
+        46× Leeds ⇒ Leeds United FC
+        46× Leicester ⇒ Leicester City FC
+        46× Middlesbrough ⇒ Middlesbrough FC
+        46× Millwall ⇒ Millwall FC
+        46× Nottingham Forest ⇒ Nottingham Forest FC
+        46× Peterborough ⇒ Peterborough United FC
+        46× Sheffield Wed ⇒ Sheffield Wednesday FC
+        46× Watford ⇒ Watford FC
+        46× Wolves ⇒ Wolverhampton Wanderers FC
+      46 rounds (referenced):
         Round 46, 13 matches
         Round 45, 13 matches
         Round 44, 12 matches
@@ -473,35 +538,32 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[12/81] >2012-13/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[13/81] >2012-13/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[14/81] >2013-14/1-premierleague-i.txt<
-  1 section(s):
-    255 lines - league: >English Premier League< (eng.1), season: >2013/14<
-      20 clubs:
-        Arsenal FC x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Cardiff City x19 => Cardiff City FC
-        Chelsea FC x19 => Chelsea FC
-        Crystal Palace x19 => Crystal Palace FC
-        Everton FC x19 => Everton FC
-        Fulham FC x19 => Fulham FC
-        Hull City x19 => Hull City AFC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Newcastle United x19 => Newcastle United FC
-        Norwich City x19 => Norwich City FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        West Brom x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-      19 rounds:
+[12/34] >2012-13/3-league1.txt< - 0 section(s):
+[13/34] >2012-13/4-league2.txt< - 0 section(s):
+[14/34] >2013-14/1-premierleague-i.txt< - 1 section(s):
+    255 lines, 190 matches - Premier League (eng.1) 2013/14
+      20 teams (referenced):
+        19× Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Cardiff City ⇒ Cardiff City FC
+        19× Chelsea FC
+        19× Crystal Palace ⇒ Crystal Palace FC
+        19× Everton FC
+        19× Fulham FC
+        19× Hull City ⇒ Hull City AFC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Newcastle United ⇒ Newcastle United FC
+        19× Norwich City ⇒ Norwich City FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× West Brom ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+      19 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -521,31 +583,30 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[15/81] >2013-14/1-premierleague-ii.txt<
-  1 section(s):
-    258 lines - league: >English Premier League< (eng.1), season: >2013/14<
-      20 clubs:
-        Arsenal FC x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Cardiff City x19 => Cardiff City FC
-        Chelsea FC x19 => Chelsea FC
-        Crystal Palace x19 => Crystal Palace FC
-        Everton FC x19 => Everton FC
-        Fulham FC x19 => Fulham FC
-        Hull City x19 => Hull City AFC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Newcastle United x19 => Newcastle United FC
-        Norwich City x19 => Norwich City FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        West Bromwich Albion x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-      19 rounds:
+[15/34] >2013-14/1-premierleague-ii.txt< - 1 section(s):
+    258 lines, 190 matches - Premier League (eng.1) 2013/14
+      20 teams (referenced):
+        19× Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Cardiff City ⇒ Cardiff City FC
+        19× Chelsea FC
+        19× Crystal Palace ⇒ Crystal Palace FC
+        19× Everton FC
+        19× Fulham FC
+        19× Hull City ⇒ Hull City AFC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Newcastle United ⇒ Newcastle United FC
+        19× Norwich City ⇒ Norwich City FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+      19 rounds (referenced):
         Matchday 20, 10 matches
         Matchday 21, 10 matches
         Matchday 22, 10 matches
@@ -565,44 +626,43 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[16/81] >2013-14/2-championship.txt<
-  2 section(s):
-    7 lines - league: >English Championship< (eng.2), season: >2013/14<, stage: >Play-offs<
-      4 clubs:
-        Derby x3 => Derby County FC
-        QPR x3 => Queens Park Rangers FC
-        Brighton x2 => Brighton & Hove Albion FC
-        Wigan x2 => Wigan Athletic FC
-      2 rounds:
+[16/34] >2013-14/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2013/14, stage: >Play-offs<
+      4 teams (referenced):
+        3× Derby ⇒ Derby County FC
+        3× QPR ⇒ Queens Park Rangers FC
+        2× Brighton ⇒ Brighton & Hove Albion FC
+        2× Wigan ⇒ Wigan Athletic FC
+      2 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
-    598 lines - league: >English Championship< (eng.2), season: >2013/14<
-      24 clubs:
-        Barnsley x46 => Barnsley FC
-        Birmingham x46 => Birmingham City FC
-        Blackburn x46 => Blackburn Rovers FC
-        Blackpool x46 => Blackpool FC
-        Bolton x46 => Bolton Wanderers FC
-        Bournemouth x46 => AFC Bournemouth
-        Brighton x46 => Brighton & Hove Albion FC
-        Burnley x46 => Burnley FC
-        Charlton x46 => Charlton Athletic FC
-        Derby x46 => Derby County FC
-        Doncaster x46 => Doncaster Rovers FC
-        Huddersfield x46 => Huddersfield Town AFC
-        Ipswich x46 => Ipswich Town FC
-        Leeds x46 => Leeds United FC
-        Leicester x46 => Leicester City FC
-        Middlesbrough x46 => Middlesbrough FC
-        Millwall x46 => Millwall FC
-        Nottingham Forest x46 => Nottingham Forest FC
-        QPR x46 => Queens Park Rangers FC
-        Reading x46 => Reading FC
-        Sheffield Wed x46 => Sheffield Wednesday FC
-        Watford x46 => Watford FC
-        Wigan x46 => Wigan Athletic FC
-        Yeovil x46 => Yeovil Town FC
-      46 rounds:
+    598 lines, 552 matches - Championship (eng.2) 2013/14
+      24 teams (referenced):
+        46× Barnsley ⇒ Barnsley FC
+        46× Birmingham ⇒ Birmingham City FC
+        46× Blackburn ⇒ Blackburn Rovers FC
+        46× Blackpool ⇒ Blackpool FC
+        46× Bolton ⇒ Bolton Wanderers FC
+        46× Bournemouth ⇒ AFC Bournemouth
+        46× Brighton ⇒ Brighton & Hove Albion FC
+        46× Burnley ⇒ Burnley FC
+        46× Charlton ⇒ Charlton Athletic FC
+        46× Derby ⇒ Derby County FC
+        46× Doncaster ⇒ Doncaster Rovers FC
+        46× Huddersfield ⇒ Huddersfield Town AFC
+        46× Ipswich ⇒ Ipswich Town FC
+        46× Leeds ⇒ Leeds United FC
+        46× Leicester ⇒ Leicester City FC
+        46× Middlesbrough ⇒ Middlesbrough FC
+        46× Millwall ⇒ Millwall FC
+        46× Nottingham Forest ⇒ Nottingham Forest FC
+        46× QPR ⇒ Queens Park Rangers FC
+        46× Reading ⇒ Reading FC
+        46× Sheffield Wed ⇒ Sheffield Wednesday FC
+        46× Watford ⇒ Watford FC
+        46× Wigan ⇒ Wigan Athletic FC
+        46× Yeovil ⇒ Yeovil Town FC
+      46 rounds (referenced):
         Round 46, 14 matches
         Round 45, 12 matches
         Round 44, 12 matches
@@ -649,59 +709,58 @@
         Round 3, 12 matches
         Round 2, 11 matches
         Round 1, 12 matches
-[17/81] >2013-14/3-league1.txt<
-  1 section(s):
-    640 lines - league: >English League One< (eng.3), season: >2013/14<
-      24 clubs:
-        Leyton Orient x49 => Leyton Orient FC
-        Rotherham x49 => Rotherham United FC
-        Peterborough x48 => Peterborough United FC
-        Preston x48 => Preston North End FC
-        Bradford x46 => Bradford City AFC
-        Brentford x46 => Brentford FC
-        Bristol City x46 => Bristol City FC
-        Carlisle x46 => Carlisle United FC
-        Colchester x46 => Colchester United FC
-        Coventry x46 => Coventry City FC
-        Crawley Town x46 => Crawley Town FC
-        Crewe x46 => Crewe Alexandra FC
-        Gillingham FC x46 => Gillingham FC
-        Milton Keynes Dons x46 => Milton Keynes Dons FC
-        Notts County x46 => Notts County FC
-        Oldham x46 => Oldham Athletic AFC
-        Port Vale x46 => Port Vale FC
-        Sheffield Utd x46 => Sheffield United FC
-        Shrewsbury x46 => Shrewsbury Town FC
-        Stevenage x46 => Stevenage FC
-        Swindon x46 => Swindon Town FC
-        Tranmere x46 => Tranmere Rovers FC
-        Walsall x46 => Walsall FC
-        Wolves x46 => Wolverhampton Wanderers FC
-      48 rounds:
+[17/34] >2013-14/3-league1.txt< - 1 section(s):
+    640 lines, 557 matches - League One (eng.3) 2013/14
+      24 teams (referenced):
+        49× Leyton Orient ⇒ Leyton Orient FC
+        49× Rotherham ⇒ Rotherham United FC
+        48× Peterborough ⇒ Peterborough United FC
+        48× Preston ⇒ Preston North End FC
+        46× Bradford ⇒ Bradford City AFC
+        46× Brentford ⇒ Brentford FC
+        46× Bristol City ⇒ Bristol City FC
+        46× Carlisle ⇒ Carlisle United FC
+        46× Colchester ⇒ Colchester United FC
+        46× Coventry ⇒ Coventry City FC
+        46× Crawley Town ⇒ Crawley Town FC
+        46× Crewe ⇒ Crewe Alexandra FC
+        46× Gillingham FC
+        46× Milton Keynes Dons ⇒ Milton Keynes Dons FC
+        46× Notts County ⇒ Notts County FC
+        46× Oldham ⇒ Oldham Athletic AFC
+        46× Port Vale ⇒ Port Vale FC
+        46× Sheffield Utd ⇒ Sheffield United FC
+        46× Shrewsbury ⇒ Shrewsbury Town FC
+        46× Stevenage ⇒ Stevenage FC
+        46× Swindon ⇒ Swindon Town FC
+        46× Tranmere ⇒ Tranmere Rovers FC
+        46× Walsall ⇒ Walsall FC
+        46× Wolves ⇒ Wolverhampton Wanderers FC
+      48 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
         Round 46, 12 matches
-        Round 32 x4, 12 matches
-        Round 42 x2, 12 matches
+        Round 32 ×4, 12 matches
+        Round 42 ×2, 12 matches
         Round 45, 12 matches
         Round 44, 12 matches
         Round 43, 12 matches
-        Round 25 x9, 12 matches
-        Round 31 x4, 12 matches
-        Round 40 x2, 12 matches
-        Round 35 x2, 12 matches
+        Round 25 ×9, 12 matches
+        Round 31 ×4, 12 matches
+        Round 40 ×2, 12 matches
+        Round 35 ×2, 12 matches
         Round 41, 12 matches
-        Round 30 x4, 12 matches
-        Round 29 x6, 12 matches
+        Round 30 ×4, 12 matches
+        Round 29 ×6, 12 matches
         Round 39, 12 matches
         Round 38, 12 matches
-        Round 27 x2, 12 matches
+        Round 27 ×2, 12 matches
         Round 37, 12 matches
         Round 36, 12 matches
         Round 34, 12 matches
-        Round 28 x3, 12 matches
-        Round 16 x2, 12 matches
-        Round 24 x4, 12 matches
+        Round 28 ×3, 12 matches
+        Round 16 ×2, 12 matches
+        Round 24 ×4, 12 matches
         Round 33, 12 matches
         Round 26, 12 matches
         Round 23, 12 matches
@@ -711,7 +770,7 @@
         Round 19, 12 matches
         Round 18, 12 matches
         Round 17, 12 matches
-        Round 11 x3, 12 matches
+        Round 11 ×3, 12 matches
         Round 15, 12 matches
         Round 14, 12 matches
         Round 13, 12 matches
@@ -719,42 +778,41 @@
         Round 10, 12 matches
         Round 9, 12 matches
         Round 8, 12 matches
-        Round 6 x2, 12 matches
+        Round 6 ×2, 12 matches
         Round 7, 12 matches
         Round 5, 12 matches
         Round 4, 12 matches
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[18/81] >2013-14/4-league2.txt<
-  1 section(s):
-    635 lines - league: >English League Two< (eng.4), season: >2013/14<
-      24 clubs:
-        Burton x49 => Burton Albion FC
-        Fleetwood Town x49 => Fleetwood Town FC
-        Southend x48 => Southend United FC
-        York x48 => York City FC
-        AFC Wimbledon x46 => AFC Wimbledon
-        Accrington x46 => Accrington Stanley FC
-        Bristol Rovers x46 => Bristol Rovers FC
-        Bury x46 => Bury FC
-        Cheltenham x46 => Cheltenham Town FC
-        Chesterfield x46 => Chesterfield FC
-        Dagenham & Red. x46 => Dagenham & Redbridge FC
-        Exeter x46 => Exeter City FC
-        Hartlepool x46 => Hartlepool United FC
-        Mansfield x46 => Mansfield Town FC
-        Morecambe x46 => Morecambe FC
-        Newport x46 => Newport County AFC
-        Northampton x46 => Northampton Town FC
-        Oxford Utd x46 => Oxford United FC
-        Plymouth x46 => Plymouth Argyle FC
-        Portsmouth x46 => Portsmouth FC
-        Rochdale x46 => Rochdale AFC
-        Scunthorpe x46 => Scunthorpe United FC
-        Torquay x46 => Torquay United FC
-        Wycombe x46 => Wycombe Wanderers FC
-      48 rounds:
+[18/34] >2013-14/4-league2.txt< - 1 section(s):
+    635 lines, 557 matches - League Two (eng.4) 2013/14
+      24 teams (referenced):
+        49× Burton ⇒ Burton Albion FC
+        49× Fleetwood Town ⇒ Fleetwood Town FC
+        48× Southend ⇒ Southend United FC
+        48× York ⇒ York City FC
+        46× AFC Wimbledon
+        46× Accrington ⇒ Accrington Stanley FC
+        46× Bristol Rovers ⇒ Bristol Rovers FC
+        46× Bury ⇒ Bury FC
+        46× Cheltenham ⇒ Cheltenham Town FC
+        46× Chesterfield ⇒ Chesterfield FC
+        46× Dagenham & Red. ⇒ Dagenham & Redbridge FC
+        46× Exeter ⇒ Exeter City FC
+        46× Hartlepool ⇒ Hartlepool United FC
+        46× Mansfield ⇒ Mansfield Town FC
+        46× Morecambe ⇒ Morecambe FC
+        46× Newport ⇒ Newport County AFC
+        46× Northampton ⇒ Northampton Town FC
+        46× Oxford Utd ⇒ Oxford United FC
+        46× Plymouth ⇒ Plymouth Argyle FC
+        46× Portsmouth ⇒ Portsmouth FC
+        46× Rochdale ⇒ Rochdale AFC
+        46× Scunthorpe ⇒ Scunthorpe United FC
+        46× Torquay ⇒ Torquay United FC
+        46× Wycombe ⇒ Wycombe Wanderers FC
+      48 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
         Round 46, 12 matches
@@ -762,35 +820,35 @@
         Round 44, 12 matches
         Round 43, 12 matches
         Round 42, 12 matches
-        Round 29 x6, 12 matches
+        Round 29 ×6, 12 matches
         Round 41, 12 matches
-        Round 32 x3, 12 matches
-        Round 40 x2, 12 matches
+        Round 32 ×3, 12 matches
+        Round 40 ×2, 12 matches
         Round 39, 12 matches
         Round 38, 12 matches
-        Round 27 x4, 12 matches
-        Round 30 x2, 12 matches
-        Round 31 x3, 12 matches
+        Round 27 ×4, 12 matches
+        Round 30 ×2, 12 matches
+        Round 31 ×3, 12 matches
         Round 37, 12 matches
         Round 36, 12 matches
         Round 35, 12 matches
         Round 34, 12 matches
-        Round 25 x6, 12 matches
-        Round 24 x5, 12 matches
-        Round 21 x2, 12 matches
-        Round 28 x4, 12 matches
+        Round 25 ×6, 12 matches
+        Round 24 ×5, 12 matches
+        Round 21 ×2, 12 matches
+        Round 28 ×4, 12 matches
         Round 33, 12 matches
-        Round 23 x2, 12 matches
+        Round 23 ×2, 12 matches
         Round 26, 12 matches
         Round 22, 12 matches
         Round 20, 12 matches
-        Round 13 x2, 12 matches
+        Round 13 ×2, 12 matches
         Round 19, 12 matches
         Round 18, 12 matches
         Round 17, 12 matches
         Round 16, 12 matches
         Round 15, 12 matches
-        Round 11 x2, 12 matches
+        Round 11 ×2, 12 matches
         Round 14, 12 matches
         Round 12, 12 matches
         Round 10, 12 matches
@@ -803,31 +861,30 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[19/81] >2014-15/1-premierleague-i.txt<
-  1 section(s):
-    231 lines - league: >English Premier League< (eng.1), season: >2014/15<
-      20 clubs:
-        Arsenal FC x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Burnley FC x19 => Burnley FC
-        Chelsea FC x19 => Chelsea FC
-        Crystal Palace x19 => Crystal Palace FC
-        Everton FC x19 => Everton FC
-        Hull City x19 => Hull City AFC
-        Leicester City x19 => Leicester City FC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Newcastle United x19 => Newcastle United FC
-        Queens Park Rangers x19 => Queens Park Rangers FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        West Bromwich Albion x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-      19 rounds:
+[19/34] >2014-15/1-premierleague-i.txt< - 1 section(s):
+    231 lines, 190 matches - Premier League (eng.1) 2014/15
+      20 teams (referenced):
+        19× Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Burnley FC
+        19× Chelsea FC
+        19× Crystal Palace ⇒ Crystal Palace FC
+        19× Everton FC
+        19× Hull City ⇒ Hull City AFC
+        19× Leicester City ⇒ Leicester City FC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Newcastle United ⇒ Newcastle United FC
+        19× Queens Park Rangers ⇒ Queens Park Rangers FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+      19 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -847,31 +904,30 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[20/81] >2014-15/1-premierleague-ii.txt<
-  1 section(s):
-    230 lines - league: >English Premier League< (eng.1), season: >2014/15<
-      20 clubs:
-        Arsenal FC x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Burnley FC x19 => Burnley FC
-        Chelsea FC x19 => Chelsea FC
-        Crystal Palace x19 => Crystal Palace FC
-        Everton FC x19 => Everton FC
-        Hull City x19 => Hull City AFC
-        Leicester City x19 => Leicester City FC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Newcastle United x19 => Newcastle United FC
-        Queens Park Rangers x19 => Queens Park Rangers FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        West Bromwich Albion x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-      19 rounds:
+[20/34] >2014-15/1-premierleague-ii.txt< - 1 section(s):
+    230 lines, 190 matches - Premier League (eng.1) 2014/15
+      20 teams (referenced):
+        19× Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Burnley FC
+        19× Chelsea FC
+        19× Crystal Palace ⇒ Crystal Palace FC
+        19× Everton FC
+        19× Hull City ⇒ Hull City AFC
+        19× Leicester City ⇒ Leicester City FC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Newcastle United ⇒ Newcastle United FC
+        19× Queens Park Rangers ⇒ Queens Park Rangers FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+      19 rounds (referenced):
         Matchday 20, 10 matches
         Matchday 21, 10 matches
         Matchday 22, 10 matches
@@ -891,44 +947,43 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[21/81] >2014-15/2-championship.txt<
-  2 section(s):
-    7 lines - league: >English Championship< (eng.2), season: >2014/15<, stage: >Play-offs<
-      4 clubs:
-        Middlesbrough x3 => Middlesbrough FC
-        Norwich x3 => Norwich City FC
-        Brentford x2 => Brentford FC
-        Ipswich x2 => Ipswich Town FC
-      2 rounds:
+[21/34] >2014-15/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2014/15, stage: >Play-offs<
+      4 teams (referenced):
+        3× Middlesbrough ⇒ Middlesbrough FC
+        3× Norwich ⇒ Norwich City FC
+        2× Brentford ⇒ Brentford FC
+        2× Ipswich ⇒ Ipswich Town FC
+      2 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
-    598 lines - league: >English Championship< (eng.2), season: >2014/15<
-      24 clubs:
-        Birmingham x46 => Birmingham City FC
-        Blackburn x46 => Blackburn Rovers FC
-        Blackpool x46 => Blackpool FC
-        Bolton x46 => Bolton Wanderers FC
-        Bournemouth x46 => AFC Bournemouth
-        Brentford x46 => Brentford FC
-        Brighton x46 => Brighton & Hove Albion FC
-        Cardiff x46 => Cardiff City FC
-        Charlton x46 => Charlton Athletic FC
-        Derby x46 => Derby County FC
-        Fulham x46 => Fulham FC
-        Huddersfield x46 => Huddersfield Town AFC
-        Ipswich x46 => Ipswich Town FC
-        Leeds x46 => Leeds United FC
-        Middlesbrough x46 => Middlesbrough FC
-        Millwall x46 => Millwall FC
-        Norwich x46 => Norwich City FC
-        Nottingham Forest x46 => Nottingham Forest FC
-        Reading x46 => Reading FC
-        Rotherham x46 => Rotherham United FC
-        Sheffield Wed x46 => Sheffield Wednesday FC
-        Watford x46 => Watford FC
-        Wigan x46 => Wigan Athletic FC
-        Wolves x46 => Wolverhampton Wanderers FC
-      46 rounds:
+    598 lines, 552 matches - Championship (eng.2) 2014/15
+      24 teams (referenced):
+        46× Birmingham ⇒ Birmingham City FC
+        46× Blackburn ⇒ Blackburn Rovers FC
+        46× Blackpool ⇒ Blackpool FC
+        46× Bolton ⇒ Bolton Wanderers FC
+        46× Bournemouth ⇒ AFC Bournemouth
+        46× Brentford ⇒ Brentford FC
+        46× Brighton ⇒ Brighton & Hove Albion FC
+        46× Cardiff ⇒ Cardiff City FC
+        46× Charlton ⇒ Charlton Athletic FC
+        46× Derby ⇒ Derby County FC
+        46× Fulham ⇒ Fulham FC
+        46× Huddersfield ⇒ Huddersfield Town AFC
+        46× Ipswich ⇒ Ipswich Town FC
+        46× Leeds ⇒ Leeds United FC
+        46× Middlesbrough ⇒ Middlesbrough FC
+        46× Millwall ⇒ Millwall FC
+        46× Norwich ⇒ Norwich City FC
+        46× Nottingham Forest ⇒ Nottingham Forest FC
+        46× Reading ⇒ Reading FC
+        46× Rotherham ⇒ Rotherham United FC
+        46× Sheffield Wed ⇒ Sheffield Wednesday FC
+        46× Watford ⇒ Watford FC
+        46× Wigan ⇒ Wigan Athletic FC
+        46× Wolves ⇒ Wolverhampton Wanderers FC
+      46 rounds (referenced):
         Round 46, 13 matches
         Round 45, 14 matches
         Round 44, 11 matches
@@ -975,67 +1030,66 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[22/81] >2014-15/3-league1.txt<
-  1 section(s):
-    631 lines - league: >English League One< (eng.3), season: >2014/15<
-      24 clubs:
-        Preston x49 => Preston North End FC
-        Swindon x49 => Swindon Town FC
-        Chesterfield x48 => Chesterfield FC
-        Sheffield Utd x48 => Sheffield United FC
-        Barnsley x46 => Barnsley FC
-        Bradford x46 => Bradford City AFC
-        Bristol City x46 => Bristol City FC
-        Colchester x46 => Colchester United FC
-        Coventry x46 => Coventry City FC
-        Crawley Town x46 => Crawley Town FC
-        Crewe x46 => Crewe Alexandra FC
-        Doncaster x46 => Doncaster Rovers FC
-        Fleetwood Town x46 => Fleetwood Town FC
-        Gillingham FC x46 => Gillingham FC
-        Leyton Orient x46 => Leyton Orient FC
-        Milton Keynes Dons x46 => Milton Keynes Dons FC
-        Notts County x46 => Notts County FC
-        Oldham x46 => Oldham Athletic AFC
-        Peterborough x46 => Peterborough United FC
-        Port Vale x46 => Port Vale FC
-        Rochdale x46 => Rochdale AFC
-        Scunthorpe x46 => Scunthorpe United FC
-        Walsall x46 => Walsall FC
-        Yeovil x46 => Yeovil Town FC
-      48 rounds:
+[22/34] >2014-15/3-league1.txt< - 1 section(s):
+    631 lines, 557 matches - League One (eng.3) 2014/15
+      24 teams (referenced):
+        49× Preston ⇒ Preston North End FC
+        49× Swindon ⇒ Swindon Town FC
+        48× Chesterfield ⇒ Chesterfield FC
+        48× Sheffield Utd ⇒ Sheffield United FC
+        46× Barnsley ⇒ Barnsley FC
+        46× Bradford ⇒ Bradford City AFC
+        46× Bristol City ⇒ Bristol City FC
+        46× Colchester ⇒ Colchester United FC
+        46× Coventry ⇒ Coventry City FC
+        46× Crawley Town ⇒ Crawley Town FC
+        46× Crewe ⇒ Crewe Alexandra FC
+        46× Doncaster ⇒ Doncaster Rovers FC
+        46× Fleetwood Town ⇒ Fleetwood Town FC
+        46× Gillingham FC
+        46× Leyton Orient ⇒ Leyton Orient FC
+        46× Milton Keynes Dons ⇒ Milton Keynes Dons FC
+        46× Notts County ⇒ Notts County FC
+        46× Oldham ⇒ Oldham Athletic AFC
+        46× Peterborough ⇒ Peterborough United FC
+        46× Port Vale ⇒ Port Vale FC
+        46× Rochdale ⇒ Rochdale AFC
+        46× Scunthorpe ⇒ Scunthorpe United FC
+        46× Walsall ⇒ Walsall FC
+        46× Yeovil ⇒ Yeovil Town FC
+      48 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
         Round 46, 12 matches
-        Round 39 x3, 12 matches
+        Round 39 ×3, 12 matches
         Round 45, 12 matches
-        Round 31 x3, 12 matches
-        Round 29 x2, 12 matches
-        Round 37 x2, 12 matches
-        Round 38 x3, 12 matches
+        Round 31 ×3, 12 matches
+        Round 29 ×2, 12 matches
+        Round 37 ×2, 12 matches
+        Round 38 ×3, 12 matches
         Round 44, 12 matches
         Round 43, 12 matches
         Round 42, 12 matches
         Round 41, 12 matches
         Round 40, 12 matches
-        Round 35 x2, 12 matches
-        Round 24 x6, 12 matches
-        Round 23 x3, 12 matches
+        Round 35 ×2, 12 matches
+        Round 24 ×6, 12 matches
+        Round 23 ×3, 12 matches
         Round 36, 12 matches
         Round 34, 12 matches
         Round 33, 12 matches
-        Round 27 x4, 12 matches
+        Round 27 ×4, 12 matches
         Round 32, 12 matches
         Round 30, 12 matches
         Round 28, 12 matches
-        Round 17 x2, 12 matches
-        Round 12 x4, 12 matches
+        Round 17 ×2, 12 matches
+        Round 12 ×4, 12 matches
         Round 26, 12 matches
         Round 25, 12 matches
         Round 22, 12 matches
         Round 21, 12 matches
         Round 20, 12 matches
-        Round 6 x4, 12 matches
+        Round 6 ×4, 12 matches
         Round 19, 12 matches
         Round 18, 12 matches
         Round 16, 12 matches
@@ -1052,40 +1106,39 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[23/81] >2014-15/4-league2.txt<
-  1 section(s):
-    611 lines - league: >English League Two< (eng.4), season: >2014/15<
-      24 clubs:
-        Southend x49 => Southend United FC
-        Wycombe x49 => Wycombe Wanderers FC
-        Plymouth x48 => Plymouth Argyle FC
-        Stevenage x48 => Stevenage FC
-        AFC Wimbledon x46 => AFC Wimbledon
-        Accrington x46 => Accrington Stanley FC
-        Burton x46 => Burton Albion FC
-        Bury x46 => Bury FC
-        Cambridge Utd x46 => Cambridge United FC
-        Carlisle x46 => Carlisle United FC
-        Cheltenham x46 => Cheltenham Town FC
-        Dagenham & Red. x46 => Dagenham & Redbridge FC
-        Exeter x46 => Exeter City FC
-        Hartlepool x46 => Hartlepool United FC
-        Luton x46 => Luton Town FC
-        Mansfield x46 => Mansfield Town FC
-        Morecambe x46 => Morecambe FC
-        Newport x46 => Newport County AFC
-        Northampton x46 => Northampton Town FC
-        Oxford Utd x46 => Oxford United FC
-        Portsmouth x46 => Portsmouth FC
-        Shrewsbury x46 => Shrewsbury Town FC
-        Tranmere x46 => Tranmere Rovers FC
-        York x46 => York City FC
-      48 rounds:
+[23/34] >2014-15/4-league2.txt< - 1 section(s):
+    611 lines, 557 matches - League Two (eng.4) 2014/15
+      24 teams (referenced):
+        49× Southend ⇒ Southend United FC
+        49× Wycombe ⇒ Wycombe Wanderers FC
+        48× Plymouth ⇒ Plymouth Argyle FC
+        48× Stevenage ⇒ Stevenage FC
+        46× AFC Wimbledon
+        46× Accrington ⇒ Accrington Stanley FC
+        46× Burton ⇒ Burton Albion FC
+        46× Bury ⇒ Bury FC
+        46× Cambridge Utd ⇒ Cambridge United FC
+        46× Carlisle ⇒ Carlisle United FC
+        46× Cheltenham ⇒ Cheltenham Town FC
+        46× Dagenham & Red. ⇒ Dagenham & Redbridge FC
+        46× Exeter ⇒ Exeter City FC
+        46× Hartlepool ⇒ Hartlepool United FC
+        46× Luton ⇒ Luton Town FC
+        46× Mansfield ⇒ Mansfield Town FC
+        46× Morecambe ⇒ Morecambe FC
+        46× Newport ⇒ Newport County AFC
+        46× Northampton ⇒ Northampton Town FC
+        46× Oxford Utd ⇒ Oxford United FC
+        46× Portsmouth ⇒ Portsmouth FC
+        46× Shrewsbury ⇒ Shrewsbury Town FC
+        46× Tranmere ⇒ Tranmere Rovers FC
+        46× York ⇒ York City FC
+      48 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
         Round 46, 12 matches
         Round 45, 12 matches
-        Round 39 x2, 12 matches
+        Round 39 ×2, 12 matches
         Round 44, 12 matches
         Round 43, 12 matches
         Round 42, 12 matches
@@ -1095,16 +1148,16 @@
         Round 37, 12 matches
         Round 36, 12 matches
         Round 35, 12 matches
-        Round 34 x2, 12 matches
+        Round 34 ×2, 12 matches
         Round 33, 12 matches
-        Round 23 x2, 12 matches
-        Round 24 x3, 12 matches
+        Round 23 ×2, 12 matches
+        Round 24 ×3, 12 matches
         Round 32, 12 matches
         Round 31, 12 matches
         Round 30, 12 matches
         Round 29, 12 matches
         Round 28, 12 matches
-        Round 25 x2, 12 matches
+        Round 25 ×2, 12 matches
         Round 27, 12 matches
         Round 26, 12 matches
         Round 22, 12 matches
@@ -1129,31 +1182,30 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[24/81] >2015-16/1-premierleague-i.txt<
-  1 section(s):
-    241 lines - league: >English Premier League< (eng.1), season: >2015/16<
-      20 clubs:
-        AFC Bournemouth x19 => AFC Bournemouth
-        Arsenal FC x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Chelsea FC x19 => Chelsea FC
-        Crystal Palace x19 => Crystal Palace FC
-        Everton FC x19 => Everton FC
-        Leicester City x19 => Leicester City FC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Newcastle United x19 => Newcastle United FC
-        Norwich City x19 => Norwich City FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        Watford FC x19 => Watford FC
-        West Bromwich Albion x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-      19 rounds:
+[24/34] >2015-16/1-premierleague-i.txt< - 1 section(s):
+    241 lines, 190 matches - Premier League (eng.1) 2015/16
+      20 teams (referenced):
+        19× AFC Bournemouth
+        19× Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Chelsea FC
+        19× Crystal Palace ⇒ Crystal Palace FC
+        19× Everton FC
+        19× Leicester City ⇒ Leicester City FC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Newcastle United ⇒ Newcastle United FC
+        19× Norwich City ⇒ Norwich City FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× Watford FC
+        19× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+      19 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -1173,31 +1225,30 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[25/81] >2015-16/1-premierleague-ii.txt<
-  1 section(s):
-    243 lines - league: >English Premier League< (eng.1), season: >2015/16<
-      20 clubs:
-        AFC Bournemouth x19 => AFC Bournemouth
-        Arsenal FC x19 => Arsenal FC
-        Aston Villa x19 => Aston Villa FC
-        Chelsea FC x19 => Chelsea FC
-        Crystal Palace x19 => Crystal Palace FC
-        Everton FC x19 => Everton FC
-        Leicester City x19 => Leicester City FC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Newcastle United x19 => Newcastle United FC
-        Norwich City x19 => Norwich City FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        Watford FC x19 => Watford FC
-        West Bromwich Albion x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-      19 rounds:
+[25/34] >2015-16/1-premierleague-ii.txt< - 1 section(s):
+    243 lines, 190 matches - Premier League (eng.1) 2015/16
+      20 teams (referenced):
+        19× AFC Bournemouth
+        19× Arsenal FC
+        19× Aston Villa ⇒ Aston Villa FC
+        19× Chelsea FC
+        19× Crystal Palace ⇒ Crystal Palace FC
+        19× Everton FC
+        19× Leicester City ⇒ Leicester City FC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Newcastle United ⇒ Newcastle United FC
+        19× Norwich City ⇒ Norwich City FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× Watford FC
+        19× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+      19 rounds (referenced):
         Matchday 20, 10 matches
         Matchday 21, 10 matches
         Matchday 22, 10 matches
@@ -1217,44 +1268,43 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[26/81] >2015-16/2-championship.txt<
-  2 section(s):
-    7 lines - league: >English Championship< (eng.2), season: >2015/16<, stage: >Play-offs<
-      4 clubs:
-        Hull City x3 => Hull City AFC
-        Sheffield Wed x3 => Sheffield Wednesday FC
-        Brighton x2 => Brighton & Hove Albion FC
-        Derby x2 => Derby County FC
-      2 rounds:
+[26/34] >2015-16/2-championship.txt< - 2 section(s):
+    7 lines, 5 matches - Championship (eng.2) 2015/16, stage: >Play-offs<
+      4 teams (referenced):
+        3× Hull City ⇒ Hull City AFC
+        3× Sheffield Wed ⇒ Sheffield Wednesday FC
+        2× Brighton ⇒ Brighton & Hove Albion FC
+        2× Derby ⇒ Derby County FC
+      2 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
-    596 lines - league: >English Championship< (eng.2), season: >2015/16<
-      24 clubs:
-        Birmingham x46 => Birmingham City FC
-        Bolton x46 => Bolton Wanderers FC
-        Brentford x46 => Brentford FC
-        Brighton x46 => Brighton & Hove Albion FC
-        Bristol City x46 => Bristol City FC
-        Burnley x46 => Burnley FC
-        Cardiff x46 => Cardiff City FC
-        Charlton x46 => Charlton Athletic FC
-        Derby x46 => Derby County FC
-        Fulham x46 => Fulham FC
-        Huddersfield x46 => Huddersfield Town AFC
-        Leeds x46 => Leeds United FC
-        Middlesbrough x46 => Middlesbrough FC
-        Milton Keynes Dons x46 => Milton Keynes Dons FC
-        Preston x46 => Preston North End FC
-        QPR x46 => Queens Park Rangers FC
-        Reading x46 => Reading FC
-        Rotherham x46 => Rotherham United FC
-        Sheffield Wed x46 => Sheffield Wednesday FC
-        Wolves x46 => Wolverhampton Wanderers FC
-        Blackburn x45 => Blackburn Rovers FC
-        Hull City x45 => Hull City AFC
-        Ipswich x45 => Ipswich Town FC
-        Nottingham Forest x45 => Nottingham Forest FC
-      46 rounds:
+    596 lines, 550 matches - Championship (eng.2) 2015/16
+      24 teams (referenced):
+        46× Birmingham ⇒ Birmingham City FC
+        46× Bolton ⇒ Bolton Wanderers FC
+        46× Brentford ⇒ Brentford FC
+        46× Brighton ⇒ Brighton & Hove Albion FC
+        46× Bristol City ⇒ Bristol City FC
+        46× Burnley ⇒ Burnley FC
+        46× Cardiff ⇒ Cardiff City FC
+        46× Charlton ⇒ Charlton Athletic FC
+        46× Derby ⇒ Derby County FC
+        46× Fulham ⇒ Fulham FC
+        46× Huddersfield ⇒ Huddersfield Town AFC
+        46× Leeds ⇒ Leeds United FC
+        46× Middlesbrough ⇒ Middlesbrough FC
+        46× Milton Keynes Dons ⇒ Milton Keynes Dons FC
+        46× Preston ⇒ Preston North End FC
+        46× QPR ⇒ Queens Park Rangers FC
+        46× Reading ⇒ Reading FC
+        46× Rotherham ⇒ Rotherham United FC
+        46× Sheffield Wed ⇒ Sheffield Wednesday FC
+        46× Wolves ⇒ Wolverhampton Wanderers FC
+        45× Blackburn ⇒ Blackburn Rovers FC
+        45× Hull City ⇒ Hull City AFC
+        45× Ipswich ⇒ Ipswich Town FC
+        45× Nottingham Forest ⇒ Nottingham Forest FC
+      46 rounds (referenced):
         Matchday 46, 12 matches
         Matchday 45, 13 matches
         Matchday 44, 12 matches
@@ -1301,69 +1351,68 @@
         Matchday 3, 11 matches
         Matchday 2, 12 matches
         Matchday 1, 12 matches
-[27/81] >2015-16/3-league1.txt<
-  1 section(s):
-    636 lines - league: >English League One< (eng.3), season: >2015/16<
-      24 clubs:
-        Barnsley x49 => Barnsley FC
-        Millwall x49 => Millwall FC
-        Bradford x48 => Bradford City AFC
-        Walsall x48 => Walsall FC
-        Blackpool x46 => Blackpool FC
-        Burton x46 => Burton Albion FC
-        Bury x46 => Bury FC
-        Chesterfield x46 => Chesterfield FC
-        Colchester x46 => Colchester United FC
-        Coventry x46 => Coventry City FC
-        Crewe x46 => Crewe Alexandra FC
-        Doncaster x46 => Doncaster Rovers FC
-        Fleetwood Town x46 => Fleetwood Town FC
-        Gillingham FC x46 => Gillingham FC
-        Oldham x46 => Oldham Athletic AFC
-        Peterborough x46 => Peterborough United FC
-        Port Vale x46 => Port Vale FC
-        Rochdale x46 => Rochdale AFC
-        Scunthorpe x46 => Scunthorpe United FC
-        Sheffield Utd x46 => Sheffield United FC
-        Shrewsbury x46 => Shrewsbury Town FC
-        Southend x46 => Southend United FC
-        Swindon x46 => Swindon Town FC
-        Wigan x46 => Wigan Athletic FC
-      48 rounds:
+[27/34] >2015-16/3-league1.txt< - 1 section(s):
+    636 lines, 557 matches - League One (eng.3) 2015/16
+      24 teams (referenced):
+        49× Barnsley ⇒ Barnsley FC
+        49× Millwall ⇒ Millwall FC
+        48× Bradford ⇒ Bradford City AFC
+        48× Walsall ⇒ Walsall FC
+        46× Blackpool ⇒ Blackpool FC
+        46× Burton ⇒ Burton Albion FC
+        46× Bury ⇒ Bury FC
+        46× Chesterfield ⇒ Chesterfield FC
+        46× Colchester ⇒ Colchester United FC
+        46× Coventry ⇒ Coventry City FC
+        46× Crewe ⇒ Crewe Alexandra FC
+        46× Doncaster ⇒ Doncaster Rovers FC
+        46× Fleetwood Town ⇒ Fleetwood Town FC
+        46× Gillingham FC
+        46× Oldham ⇒ Oldham Athletic AFC
+        46× Peterborough ⇒ Peterborough United FC
+        46× Port Vale ⇒ Port Vale FC
+        46× Rochdale ⇒ Rochdale AFC
+        46× Scunthorpe ⇒ Scunthorpe United FC
+        46× Sheffield Utd ⇒ Sheffield United FC
+        46× Shrewsbury ⇒ Shrewsbury Town FC
+        46× Southend ⇒ Southend United FC
+        46× Swindon ⇒ Swindon Town FC
+        46× Wigan ⇒ Wigan Athletic FC
+      48 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
         Matchday 46, 12 matches
         Matchday 45, 12 matches
-        Matchday 39 x3, 12 matches
+        Matchday 39 ×3, 12 matches
         Matchday 44, 12 matches
-        Matchday 43 x2, 12 matches
+        Matchday 43 ×2, 12 matches
         Matchday 42, 12 matches
-        Matchday 40 x2, 12 matches
-        Matchday 38 x2, 12 matches
+        Matchday 40 ×2, 12 matches
+        Matchday 38 ×2, 12 matches
         Matchday 41, 12 matches
-        Matchday 35 x2, 12 matches
+        Matchday 35 ×2, 12 matches
         Matchday 37, 12 matches
-        Matchday 21 x4, 12 matches
-        Matchday 30 x3, 12 matches
+        Matchday 21 ×4, 12 matches
+        Matchday 30 ×3, 12 matches
         Matchday 36, 12 matches
-        Matchday 23 x6, 12 matches
-        Matchday 32 x2, 12 matches
+        Matchday 23 ×6, 12 matches
+        Matchday 32 ×2, 12 matches
         Matchday 34, 12 matches
         Matchday 33, 12 matches
-        Matchday 29 x4, 12 matches
-        Matchday 27 x2, 12 matches
-        Matchday 26 x5, 12 matches
+        Matchday 29 ×4, 12 matches
+        Matchday 27 ×2, 12 matches
+        Matchday 26 ×5, 12 matches
         Matchday 31, 12 matches
-        Matchday 25 x2, 12 matches
+        Matchday 25 ×2, 12 matches
         Matchday 28, 12 matches
         Matchday 24, 12 matches
         Matchday 22, 12 matches
-        Matchday 17 x2, 12 matches
+        Matchday 17 ×2, 12 matches
         Matchday 20, 12 matches
         Matchday 19, 12 matches
         Matchday 18, 12 matches
-        Matchday 12 x3, 12 matches
-        Matchday 10 x2, 12 matches
+        Matchday 12 ×3, 12 matches
+        Matchday 10 ×2, 12 matches
         Matchday 16, 12 matches
         Matchday 15, 12 matches
         Matchday 14, 12 matches
@@ -1371,73 +1420,72 @@
         Matchday 11, 12 matches
         Matchday 9, 12 matches
         Matchday 8, 12 matches
-        Matchday 6 x2, 12 matches
+        Matchday 6 ×2, 12 matches
         Matchday 7, 12 matches
         Matchday 5, 12 matches
         Matchday 4, 12 matches
         Matchday 3, 12 matches
         Matchday 2, 12 matches
         Matchday 1, 12 matches
-[28/81] >2015-16/4-league2.txt<
-  1 section(s):
-    635 lines - league: >English League Two< (eng.4), season: >2015/16<
-      24 clubs:
-        AFC Wimbledon x49 => AFC Wimbledon
-        Plymouth x49 => Plymouth Argyle FC
-        Accrington x48 => Accrington Stanley FC
-        Portsmouth x48 => Portsmouth FC
-        Barnet x46 => Barnet FC
-        Bristol Rovers x46 => Bristol Rovers FC
-        Cambridge Utd x46 => Cambridge United FC
-        Carlisle x46 => Carlisle United FC
-        Crawley Town x46 => Crawley Town FC
-        Dagenham & Red. x46 => Dagenham & Redbridge FC
-        Exeter x46 => Exeter City FC
-        Hartlepool x46 => Hartlepool United FC
-        Leyton Orient x46 => Leyton Orient FC
-        Luton x46 => Luton Town FC
-        Mansfield x46 => Mansfield Town FC
-        Morecambe x46 => Morecambe FC
-        Newport x46 => Newport County AFC
-        Northampton x46 => Northampton Town FC
-        Notts County x46 => Notts County FC
-        Oxford Utd x46 => Oxford United FC
-        Stevenage x46 => Stevenage FC
-        Wycombe x46 => Wycombe Wanderers FC
-        Yeovil x46 => Yeovil Town FC
-        York x46 => York City FC
-      48 rounds:
+[28/34] >2015-16/4-league2.txt< - 1 section(s):
+    635 lines, 557 matches - League Two (eng.4) 2015/16
+      24 teams (referenced):
+        49× AFC Wimbledon
+        49× Plymouth ⇒ Plymouth Argyle FC
+        48× Accrington ⇒ Accrington Stanley FC
+        48× Portsmouth ⇒ Portsmouth FC
+        46× Barnet ⇒ Barnet FC
+        46× Bristol Rovers ⇒ Bristol Rovers FC
+        46× Cambridge Utd ⇒ Cambridge United FC
+        46× Carlisle ⇒ Carlisle United FC
+        46× Crawley Town ⇒ Crawley Town FC
+        46× Dagenham & Red. ⇒ Dagenham & Redbridge FC
+        46× Exeter ⇒ Exeter City FC
+        46× Hartlepool ⇒ Hartlepool United FC
+        46× Leyton Orient ⇒ Leyton Orient FC
+        46× Luton ⇒ Luton Town FC
+        46× Mansfield ⇒ Mansfield Town FC
+        46× Morecambe ⇒ Morecambe FC
+        46× Newport ⇒ Newport County AFC
+        46× Northampton ⇒ Northampton Town FC
+        46× Notts County ⇒ Notts County FC
+        46× Oxford Utd ⇒ Oxford United FC
+        46× Stevenage ⇒ Stevenage FC
+        46× Wycombe ⇒ Wycombe Wanderers FC
+        46× Yeovil ⇒ Yeovil Town FC
+        46× York ⇒ York City FC
+      48 rounds (referenced):
         Final, 1 matches
         Semi-finals, 4 matches
         Round 46, 12 matches
         Round 45, 12 matches
-        Round 39 x3, 12 matches
+        Round 39 ×3, 12 matches
         Round 44, 12 matches
         Round 43, 12 matches
         Round 42, 12 matches
-        Round 38 x2, 12 matches
-        Round 30 x5, 12 matches
+        Round 38 ×2, 12 matches
+        Round 30 ×5, 12 matches
         Round 41, 12 matches
-        Round 24 x2, 12 matches
-        Round 40 x2, 12 matches
+        Round 24 ×2, 12 matches
+        Round 40 ×2, 12 matches
         Round 37, 12 matches
-        Round 21 x3, 12 matches
-        Round 25 x2, 12 matches
+        Round 21 ×3, 12 matches
+        Round 25 ×2, 12 matches
         Round 36, 12 matches
-        Round 27 x2, 12 matches
-        Round 29 x4, 12 matches
+        Round 27 ×2, 12 matches
+        Round 29 ×4, 12 matches
         Round 35, 12 matches
-        Round 34 x2, 12 matches
+        Round 34 ×2, 12 matches
         Round 33, 12 matches
-        Round 26 x6, 12 matches
-        Round 23 x4, 12 matches
+        Round 26 ×6, 12 matches
+        Round 23 ×4, 12 matches
         Round 32, 12 matches
         Round 31, 12 matches
         Round 28, 12 matches
-        Round 19 x2, 12 matches
+        Round 19 ×2, 12 matches
         Round 22, 12 matches
-        Round 17 x3, 12 matches
-        Round 12 x2, 12 matches
+        Round 17 ×3, 12 matches
+        Round 12 ×2, 12 matches
         Round 20, 12 matches
         Round 18, 12 matches
         Round 16, 12 matches
@@ -1447,7 +1495,7 @@
         Round 11, 12 matches
         Round 10, 12 matches
         Round 9, 12 matches
-        Round 6 x2, 12 matches
+        Round 6 ×2, 12 matches
         Round 8, 12 matches
         Round 7, 12 matches
         Round 5, 12 matches
@@ -1455,31 +1503,30 @@
         Round 3, 12 matches
         Round 2, 12 matches
         Round 1, 12 matches
-[29/81] >2016-17/1-premierleague-i.txt<
-  1 section(s):
-    326 lines - league: >English Premier League< (eng.1), season: >2016/17<
-      20 clubs:
-        AFC Bournemouth x19 => AFC Bournemouth
-        Arsenal FC x19 => Arsenal FC
-        Burnley FC x19 => Burnley FC
-        Chelsea FC x19 => Chelsea FC
-        Crystal Palace x19 => Crystal Palace FC
-        Everton FC x19 => Everton FC
-        Hull City x19 => Hull City AFC
-        Leicester City x19 => Leicester City FC
-        Liverpool FC x19 => Liverpool FC
-        Manchester City x19 => Manchester City FC
-        Manchester United x19 => Manchester United FC
-        Middlesbrough FC x19 => Middlesbrough FC
-        Southampton FC x19 => Southampton FC
-        Stoke City x19 => Stoke City FC
-        Sunderland AFC x19 => Sunderland AFC
-        Swansea City x19 => Swansea City FC
-        Tottenham Hotspur x19 => Tottenham Hotspur FC
-        Watford FC x19 => Watford FC
-        West Bromwich Albion x19 => West Bromwich Albion FC
-        West Ham United x19 => West Ham United FC
-      19 rounds:
+[29/34] >2016-17/1-premierleague-i.txt< - 1 section(s):
+    324 lines, 190 matches - Premier League (eng.1) 2016/17
+      20 teams (referenced):
+        19× AFC Bournemouth
+        19× Arsenal FC
+        19× Burnley FC
+        19× Chelsea FC
+        19× Crystal Palace ⇒ Crystal Palace FC
+        19× Everton FC
+        19× Hull City ⇒ Hull City AFC
+        19× Leicester City ⇒ Leicester City FC
+        19× Liverpool FC
+        19× Manchester City ⇒ Manchester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Middlesbrough FC
+        19× Southampton FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Sunderland AFC
+        19× Swansea City ⇒ Swansea City FC
+        19× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× Watford FC
+        19× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× West Ham United ⇒ West Ham United FC
+      19 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -1499,31 +1546,30 @@
         Matchday 17, 10 matches
         Matchday 18, 10 matches
         Matchday 19, 10 matches
-[30/81] >2016-17/1-premierleague-ii.txt<
-  1 section(s):
-    260 lines - league: >English Premier League< (eng.1), season: >2016/17<
-      20 clubs:
-        Arsenal FC x22 => Arsenal FC
-        Southampton FC x22 => Southampton FC
-        Chelsea FC x21 => Chelsea FC
-        Leicester City x21 => Leicester City FC
-        Manchester City x21 => Manchester City FC
-        Manchester United x21 => Manchester United FC
-        Sunderland AFC x21 => Sunderland AFC
-        Tottenham Hotspur x21 => Tottenham Hotspur FC
-        Crystal Palace x20 => Crystal Palace FC
-        Middlesbrough FC x20 => Middlesbrough FC
-        Watford FC x20 => Watford FC
-        West Bromwich Albion x20 => West Bromwich Albion FC
-        AFC Bournemouth x19 => AFC Bournemouth
-        Burnley FC x19 => Burnley FC
-        Everton FC x19 => Everton FC
-        Hull City x19 => Hull City AFC
-        Liverpool FC x19 => Liverpool FC
-        Stoke City x19 => Stoke City FC
-        Swansea City x19 => Swansea City FC
-        West Ham United x19 => West Ham United FC
-      22 rounds:
+[30/34] >2016-17/1-premierleague-ii.txt< - 1 section(s):
+    260 lines, 201 matches - Premier League (eng.1) 2016/17
+      20 teams (referenced):
+        22× Arsenal FC
+        22× Southampton FC
+        21× Chelsea FC
+        21× Leicester City ⇒ Leicester City FC
+        21× Manchester City ⇒ Manchester City FC
+        21× Manchester United ⇒ Manchester United FC
+        21× Sunderland AFC
+        21× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        20× Crystal Palace ⇒ Crystal Palace FC
+        20× Middlesbrough FC
+        20× Watford FC
+        20× West Bromwich Albion ⇒ West Bromwich Albion FC
+        19× AFC Bournemouth
+        19× Burnley FC
+        19× Everton FC
+        19× Hull City ⇒ Hull City AFC
+        19× Liverpool FC
+        19× Stoke City ⇒ Stoke City FC
+        19× Swansea City ⇒ Swansea City FC
+        19× West Ham United ⇒ West Ham United FC
+      22 rounds (referenced):
         Matchday 20, 10 matches
         Matchday 21, 10 matches
         Matchday 22, 10 matches
@@ -1539,38 +1585,37 @@
         Matchday 32, 10 matches
         Matchday 33, 10 matches
         Matchday 34, 10 matches
-        Postponed Matchday 34 x3, 4 matches
-        Postponed Matchday 28 x3, 5 matches
-        Postponed Matchday 26 x2, 2 matches
+        Postponed Matchday 34 ×3, 4 matches
+        Postponed Matchday 28 ×3, 5 matches
+        Postponed Matchday 26 ×2, 2 matches
         Matchday 35, 10 matches
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[31/81] >2017-18/1-premierleague-i.txt<
-  1 section(s):
-    286 lines - league: >English Premier League< (eng.1), season: >2017/18<
-      20 clubs:
-        AFC Bournemouth x21 => AFC Bournemouth
-        Arsenal FC x21 => Arsenal FC
-        Brighton & Hove Albion x21 => Brighton & Hove Albion FC
-        Burnley FC x21 => Burnley FC
-        Chelsea FC x21 => Chelsea FC
-        Crystal Palace x21 => Crystal Palace FC
-        Everton FC x21 => Everton FC
-        Huddersfield Town x21 => Huddersfield Town AFC
-        Leicester City x21 => Leicester City FC
-        Liverpool FC x21 => Liverpool FC
-        Manchester City x21 => Manchester City FC
-        Manchester United x21 => Manchester United FC
-        Newcastle United x21 => Newcastle United FC
-        Southampton FC x21 => Southampton FC
-        Stoke City x21 => Stoke City FC
-        Swansea City x21 => Swansea City FC
-        Tottenham Hotspur x21 => Tottenham Hotspur FC
-        Watford FC x21 => Watford FC
-        West Bromwich Albion x21 => West Bromwich Albion FC
-        West Ham United x21 => West Ham United FC
-      21 rounds:
+[31/34] >2017-18/1-premierleague-i.txt< - 1 section(s):
+    286 lines, 210 matches - Premier League (eng.1) 2017/18
+      20 teams (referenced):
+        21× AFC Bournemouth
+        21× Arsenal FC
+        21× Brighton & Hove Albion ⇒ Brighton & Hove Albion FC
+        21× Burnley FC
+        21× Chelsea FC
+        21× Crystal Palace ⇒ Crystal Palace FC
+        21× Everton FC
+        21× Huddersfield Town ⇒ Huddersfield Town AFC
+        21× Leicester City ⇒ Leicester City FC
+        21× Liverpool FC
+        21× Manchester City ⇒ Manchester City FC
+        21× Manchester United ⇒ Manchester United FC
+        21× Newcastle United ⇒ Newcastle United FC
+        21× Southampton FC
+        21× Stoke City ⇒ Stoke City FC
+        21× Swansea City ⇒ Swansea City FC
+        21× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        21× Watford FC
+        21× West Bromwich Albion ⇒ West Bromwich Albion FC
+        21× West Ham United ⇒ West Ham United FC
+      21 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -1592,31 +1637,30 @@
         Matchday 19, 10 matches
         Matchday 20, 10 matches
         Matchday 21, 10 matches
-[32/81] >2017-18/1-premierleague-ii.txt<
-  1 section(s):
-    254 lines - league: >English Premier League< (eng.1), season: >2017/18<
-      20 clubs:
-        Tottenham Hotspur x20 => Tottenham Hotspur FC
-        Brighton & Hove Albion x19 => Brighton & Hove Albion FC
-        Chelsea FC x19 => Chelsea FC
-        Leicester City x19 => Leicester City FC
-        Manchester United x19 => Manchester United FC
-        Southampton FC x19 => Southampton FC
-        West Ham United x19 => West Ham United FC
-        AFC Bournemouth x18 => AFC Bournemouth
-        Arsenal FC x18 => Arsenal FC
-        Burnley FC x18 => Burnley FC
-        Huddersfield Town x18 => Huddersfield Town AFC
-        Manchester City x18 => Manchester City FC
-        Newcastle United x18 => Newcastle United FC
-        Swansea City x18 => Swansea City FC
-        Crystal Palace x17 => Crystal Palace FC
-        Everton FC x17 => Everton FC
-        Liverpool FC x17 => Liverpool FC
-        Stoke City x17 => Stoke City FC
-        Watford FC x17 => Watford FC
-        West Bromwich Albion x17 => West Bromwich Albion FC
-      17 rounds:
+[32/34] >2017-18/1-premierleague-ii.txt< - 1 section(s):
+    254 lines, 181 matches - Premier League (eng.1) 2017/18
+      20 teams (referenced):
+        20× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        19× Brighton & Hove Albion ⇒ Brighton & Hove Albion FC
+        19× Chelsea FC
+        19× Leicester City ⇒ Leicester City FC
+        19× Manchester United ⇒ Manchester United FC
+        19× Southampton FC
+        19× West Ham United ⇒ West Ham United FC
+        18× AFC Bournemouth
+        18× Arsenal FC
+        18× Burnley FC
+        18× Huddersfield Town ⇒ Huddersfield Town AFC
+        18× Manchester City ⇒ Manchester City FC
+        18× Newcastle United ⇒ Newcastle United FC
+        18× Swansea City ⇒ Swansea City FC
+        17× Crystal Palace ⇒ Crystal Palace FC
+        17× Everton FC
+        17× Liverpool FC
+        17× Stoke City ⇒ Stoke City FC
+        17× Watford FC
+        17× West Bromwich Albion ⇒ West Bromwich Albion FC
+      17 rounds (referenced):
         Matchday 22, 11 matches
         Matchday 23, 10 matches
         Matchday 24, 10 matches
@@ -1634,31 +1678,30 @@
         Matchday 36, 10 matches
         Matchday 37, 16 matches
         Matchday 38, 10 matches
-[33/81] >2018-19/1-premierleague.txt<
-  1 section(s):
-    516 lines - league: >English Premier League< (eng.1), season: >2018/19<
-      20 clubs:
-        Manchester City x39 => Manchester City FC
-        Manchester United x39 => Manchester United FC
-        AFC Bournemouth x38 => AFC Bournemouth
-        Arsenal FC x38 => Arsenal FC
-        Brighton & Hove Albion x38 => Brighton & Hove Albion FC
-        Burnley FC x38 => Burnley FC
-        Cardiff City x38 => Cardiff City FC
-        Chelsea FC x38 => Chelsea FC
-        Crystal Palace x38 => Crystal Palace FC
-        Everton FC x38 => Everton FC
-        Fulham FC x38 => Fulham FC
-        Huddersfield Town x38 => Huddersfield Town AFC
-        Leicester City x38 => Leicester City FC
-        Liverpool FC x38 => Liverpool FC
-        Newcastle United x38 => Newcastle United FC
-        Southampton FC x38 => Southampton FC
-        Tottenham Hotspur x38 => Tottenham Hotspur FC
-        Watford FC x38 => Watford FC
-        West Ham United x38 => West Ham United FC
-        Wolverhampton Wanderers x38 => Wolverhampton Wanderers FC
-      38 rounds:
+[33/34] >2018-19/1-premierleague.txt< - 1 section(s):
+    516 lines, 380 matches - Premier League (eng.1) 2018/19
+      20 teams (referenced):
+        38× AFC Bournemouth
+        38× Arsenal FC
+        38× Brighton & Hove Albion ⇒ Brighton & Hove Albion FC
+        38× Burnley FC
+        38× Cardiff City ⇒ Cardiff City FC
+        38× Chelsea FC
+        38× Crystal Palace ⇒ Crystal Palace FC
+        38× Everton FC
+        38× Fulham FC
+        38× Huddersfield Town ⇒ Huddersfield Town AFC
+        38× Leicester City ⇒ Leicester City FC
+        38× Liverpool FC
+        38× Manchester City ⇒ Manchester City FC
+        38× Manchester United ⇒ Manchester United FC
+        38× Newcastle United ⇒ Newcastle United FC
+        38× Southampton FC
+        38× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        38× Watford FC
+        38× West Ham United ⇒ West Ham United FC
+        38× Wolverhampton Wanderers ⇒ Wolverhampton Wanderers FC
+      38 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -1684,44 +1727,43 @@
         Matchday 23, 10 matches
         Matchday 24, 10 matches
         Matchday 25, 10 matches
-        Matchday 27 x2, 10 matches
+        Matchday 27 ×2, 10 matches
         Matchday 26, 10 matches
         Matchday 28, 10 matches
         Matchday 29, 10 matches
         Matchday 30, 10 matches
-        Matchday 31, 10 matches
+        Matchday 31 ×2, 10 matches
         Matchday 32, 10 matches
         Matchday 33, 10 matches
         Matchday 34, 10 matches
-        Matchday 35, 11 matches
+        Matchday 35, 10 matches
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[34/81] >2019-20/1-premierleague.txt<
-  1 section(s):
-    495 lines - league: >English Premier League< (eng.1), season: >2019/20<
-      20 clubs:
-        AFC Bournemouth x38 => AFC Bournemouth
-        Aston Villa x38 => Aston Villa FC
-        Brighton & Hove Albion x38 => Brighton & Hove Albion FC
-        Crystal Palace x38 => Crystal Palace FC
-        FC Arsenal x38 => Arsenal FC
-        FC Burnley x38 => Burnley FC
-        FC Chelsea x38 => Chelsea FC
-        FC Everton x38 => Everton FC
-        FC Liverpool x38 => Liverpool FC
-        FC Southampton x38 => Southampton FC
-        FC Watford x38 => Watford FC
-        Leicester City x38 => Leicester City FC
-        Manchester City x38 => Manchester City FC
-        Manchester United x38 => Manchester United FC
-        Newcastle United x38 => Newcastle United FC
-        Norwich City x38 => Norwich City FC
-        Sheffield United x38 => Sheffield United FC
-        Tottenham Hotspur x38 => Tottenham Hotspur FC
-        West Ham United x38 => West Ham United FC
-        Wolverhampton Wanderers x38 => Wolverhampton Wanderers FC
-      38 rounds:
+[34/34] >2019-20/1-premierleague.txt< - 1 section(s):
+    514 lines, 381 matches - Premier League (eng.1) 2019/20
+      20 teams (referenced):
+        39× FC Liverpool ⇒ Liverpool FC
+        39× West Ham United ⇒ West Ham United FC
+        38× AFC Bournemouth
+        38× Aston Villa ⇒ Aston Villa FC
+        38× Brighton & Hove Albion ⇒ Brighton & Hove Albion FC
+        38× Crystal Palace ⇒ Crystal Palace FC
+        38× FC Arsenal ⇒ Arsenal FC
+        38× FC Burnley ⇒ Burnley FC
+        38× FC Chelsea ⇒ Chelsea FC
+        38× FC Everton ⇒ Everton FC
+        38× FC Southampton ⇒ Southampton FC
+        38× FC Watford ⇒ Watford FC
+        38× Leicester City ⇒ Leicester City FC
+        38× Manchester City ⇒ Manchester City FC
+        38× Manchester United ⇒ Manchester United FC
+        38× Newcastle United ⇒ Newcastle United FC
+        38× Norwich City ⇒ Norwich City FC
+        38× Sheffield United ⇒ Sheffield United FC
+        38× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        38× Wolverhampton Wanderers ⇒ Wolverhampton Wanderers FC
+      38 rounds (referenced):
         Matchday 1, 10 matches
         Matchday 2, 10 matches
         Matchday 3, 10 matches
@@ -1745,7 +1787,7 @@
         Matchday 21, 10 matches
         Matchday 22, 10 matches
         Matchday 23, 10 matches
-        Matchday 24, 10 matches
+        Matchday 24, 11 matches
         Matchday 25, 10 matches
         Matchday 26, 10 matches
         Matchday 27, 10 matches
@@ -1760,97 +1802,3 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[35/81] >archive/1990s/1998-99/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[36/81] >archive/1990s/1998-99/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[37/81] >archive/1990s/1998-99/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[38/81] >archive/1990s/1998-99/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[39/81] >archive/1990s/1999-00/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[40/81] >archive/1990s/1999-00/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[41/81] >archive/1990s/1999-00/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[42/81] >archive/1990s/1999-00/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[43/81] >archive/2000s/2000-01/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[44/81] >archive/2000s/2000-01/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[45/81] >archive/2000s/2000-01/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[46/81] >archive/2000s/2001-02/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[47/81] >archive/2000s/2001-02/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[48/81] >archive/2000s/2001-02/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[49/81] >archive/2000s/2001-02/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[50/81] >archive/2000s/2002-03/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[51/81] >archive/2000s/2002-03/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[52/81] >archive/2000s/2002-03/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[53/81] >archive/2000s/2002-03/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[54/81] >archive/2000s/2003-04/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[55/81] >archive/2000s/2003-04/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[56/81] >archive/2000s/2003-04/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[57/81] >archive/2000s/2003-04/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[58/81] >archive/2000s/2004-05/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[59/81] >archive/2000s/2004-05/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[60/81] >archive/2000s/2004-05/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[61/81] >archive/2000s/2004-05/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[62/81] >archive/2000s/2005-06/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[63/81] >archive/2000s/2005-06/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[64/81] >archive/2000s/2005-06/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[65/81] >archive/2000s/2005-06/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[66/81] >archive/2000s/2006-07/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[67/81] >archive/2000s/2006-07/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[68/81] >archive/2000s/2006-07/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[69/81] >archive/2000s/2006-07/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[70/81] >archive/2000s/2007-08/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[71/81] >archive/2000s/2007-08/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[72/81] >archive/2000s/2007-08/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[73/81] >archive/2000s/2007-08/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[74/81] >archive/2000s/2008-09/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[75/81] >archive/2000s/2008-09/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[76/81] >archive/2000s/2008-09/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[77/81] >archive/2000s/2008-09/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[78/81] >archive/2000s/2009-10/1-premierleague.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[79/81] >archive/2000s/2009-10/2-championship.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[80/81] >archive/2000s/2009-10/3-league1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
-[81/81] >archive/2000s/2009-10/4-league2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
