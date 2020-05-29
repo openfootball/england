@@ -1,96 +1,130 @@
 # Stats
 
-```
+95 teams, 10505 matches
+
+
 4 leagues
-English Premier League (en) |  4 events
-English Championsip (en.2) |  0 events
-English League One (en.3) |  0 events
-English League Two (en.4) |  0 events
-92 teams
-4 events:
-#######################
-## 2015/16 English Premier League  |  20 Teams, 380 Matches, 346 Goals (+0 a.e.t.)
+eng.1 - Premier League |  10 events
+eng.2 - Championship |  6 events
+eng.3 - League One |  3 events
+eng.4 - League Two |  3 events
+
+
+10 seasons
+2019/20 |  1 events
+2018/19 |  1 events
+2017/18 |  1 events
+2016/17 |  1 events
+2015/16 |  4 events
+2014/15 |  4 events
+2013/14 |  4 events
+2012/13 |  2 events
+2011/12 |  2 events
+2010/11 |  2 events
+
+
+22 events:
+  2019/20 (1):
+== eng.1 - Premier League 2019/20 |  20 Teams, 381 Matches, 784 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (11)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
+
+  2018/19 (1):
+== eng.1 - Premier League 2018/19 |  20 Teams, 380 Matches, 1072 Goals (+0 a.e.t.)
     0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
 1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
 
-#######################
-## 2014/15 English Premier League  |  20 Teams, 380 Matches, 975 Goals (+0 a.e.t.)
+  2017/18 (1):
+== eng.1 - Premier League 2017/18 |  20 Teams, 391 Matches, 1039 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (11)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (14)  35 (10)  36 (10)  37 (16)  38 (10)  
+
+  2016/17 (1):
+== eng.1 - Premier League 2016/17 |  20 Teams, 391 Matches, 1095 Goals (+0 a.e.t.)
+    0 Groups, 41 Rounds (41 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (4)  36 (5)  37 (2)  38 (10)  39 (10)  40 (10)  41 (10)  
+
+  2015/16 (4):
+== eng.1 - Premier League 2015/16 |  20 Teams, 380 Matches, 1026 Goals (+0 a.e.t.)
     0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
 1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
 
-#######################
-## 2013/14 English Premier League  |  20 Teams, 379 Matches, 1046 Goals (+0 a.e.t.)
-    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
-1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (9)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
+== eng.2 - Championship 2015/16 |  24 Teams, 555 Matches, 1343 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (13)  5 (12)  6 (12)  7 (14)  8 (12)  9 (12)  10 (12)  11 (12)  12 (12)  13 (11)  14 (13)  15 (12)  16 (12)  17 (10)  18 (13)  19 (12)  20 (9)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (11)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (14)  40 (12)  41 (12)  42 (11)  43 (12)  44 (12)  45 (12)  46 (11)  47 (12)  48 (12)  
 
-#######################
-## 2012/13 English Premier League  |  20 Teams, 380 Matches, 1065 Goals (+0 a.e.t.)
+== eng.3 - League One 2015/16 |  24 Teams, 557 Matches, 1474 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (12)  7 (12)  8 (12)  9 (12)  10 (12)  11 (12)  12 (12)  13 (12)  14 (12)  15 (12)  16 (12)  17 (12)  18 (12)  19 (12)  20 (12)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+== eng.4 - League Two 2015/16 |  24 Teams, 557 Matches, 1484 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (12)  7 (12)  8 (12)  9 (12)  10 (12)  11 (12)  12 (12)  13 (12)  14 (12)  15 (12)  16 (12)  17 (12)  18 (12)  19 (12)  20 (12)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+  2014/15 (4):
+== eng.1 - Premier League 2014/15 |  20 Teams, 380 Matches, 975 Goals (+0 a.e.t.)
     0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
 1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
 
-62 logs:
-[warn] Rakefile - 2015-11-22 16:11:17 +0100
-[warn] hash reader - found implicit bool (no) for key; adding quotes to turn into string; see yaml.org/refcard.html (path=)
-[warn] no country match found for >Bonaire<; skipping line; in [1-codes/fifa]
-[warn] no country match found for >Kosovo<; skipping line; in [1-codes/fifa]
-[warn] no country match found for >Zanzibar<; skipping line; in [1-codes/fifa]
-[warn] no country match found for >Saint-Martin<; skipping line; in [1-codes/fifa]
-[warn] no country match found for >Ashmore and Cartier Islands (AU)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Akrotiri (UK)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Burma<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Navassa Island (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Bassas da India (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Cocos (Keeling) Islands (AU)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Coral Sea Islands (AU)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Jarvis Island (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Dhekelia (UK)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Europa Island (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >French Polynesia (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Baker Island (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Glorioso Islands (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Gaza Strip (PS)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Howland Island (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Clipperton Island (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Jan Mayen (NO)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Johnston Atoll (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Juan de Nova Island (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Kingman Reef (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Kosovo<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Palmyra Atoll (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Midway Islands (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Paracel Islands (CN)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Spratly Islands<; skipping line; in [1-codes/fips]
-[warn] no country match found for >South Kuril Islands (RU)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Svalbard (NO)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >South Georgia and South Sandwich Islands (UK)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Saint Barthelemy (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Tromelin Island (FR)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Sao Tome and Principe<; skipping line; in [1-codes/fips]
-[warn] no country match found for >West Bank<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Western Sahara (MA)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Wake Island (US)<; skipping line; in [1-codes/fips]
-[warn] no country match found for >Ascension Island<; skipping line; in [1-codes/internet]
-[warn] no country match found for >Netherlands Antilles (NL)<; skipping line; in [1-codes/internet]
-[warn] no country match found for >Cocos (Keeling) Islands (AU)<; skipping line; in [1-codes/internet]
-[warn] no country match found for >French Polynesia<; skipping line; in [1-codes/internet]
-[warn] no country match found for >Saint-Pierre and Miquelon<; skipping line; in [1-codes/internet]
-[warn] no country match found for >Svalbard and Jan Mayen Islands<; skipping line; in [1-codes/internet]
-[warn] no country match found for >Bonaire<; skipping line; in [1-codes/iso]
-[warn] no country match found for >Cabo Verde<; skipping line; in [1-codes/iso]
-[warn] no country match found for >Cocos (Keeling) Islands (AU)<; skipping line; in [1-codes/iso]
-[warn] no country match found for >French Polynesia (FR)<; skipping line; in [1-codes/iso]
-[warn] no country match found for >Sao Tome and Principe<; skipping line; in [1-codes/iso]
-[warn] no country match found for >Svalbard and Jan Mayen<; skipping line; in [1-codes/iso]
-[warn] no country match found for >United States Minor Outlying Islands (US)<; skipping line; in [1-codes/iso]
-[warn] no country match found for >Western Sahara<; skipping line; in [1-codes/iso]
-[warn] no country match found for >Burma<; skipping line; in [1-codes/motor]
-[warn] no country match found for >Zanzibar<; skipping line; in [1-codes/motor]
-[warn] no country match found for >Alderney<; skipping line; in [1-codes/motor]
-[warn] no country match found for >Transnistria<; skipping line; in [1-codes/motor]
-[warn] no country match found for >Kosovo<; skipping line; in [1-codes/motor]
-[warn] no country match found for >Western Sahara<; skipping line; in [1-codes/motor]
-[warn] hash reader - found tab (	) replacing w/ two spaces; yaml forbids tabs; see yaml.org/faq.html (path=)
-[warn] hash reader - found tab (	) replacing w/ two spaces; yaml forbids tabs; see yaml.org/faq.html (path=)
-```
+== eng.2 - Championship 2014/15 |  24 Teams, 557 Matches, 1488 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (13)  4 (14)  5 (11)  6 (12)  7 (12)  8 (11)  9 (12)  10 (12)  11 (11)  12 (12)  13 (12)  14 (12)  15 (12)  16 (12)  17 (12)  18 (12)  19 (12)  20 (12)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+== eng.3 - League One 2014/15 |  24 Teams, 557 Matches, 1485 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (12)  7 (12)  8 (12)  9 (12)  10 (12)  11 (12)  12 (12)  13 (12)  14 (12)  15 (12)  16 (12)  17 (12)  18 (12)  19 (12)  20 (12)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+== eng.4 - League Two 2014/15 |  24 Teams, 557 Matches, 1334 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (12)  7 (12)  8 (12)  9 (12)  10 (12)  11 (12)  12 (12)  13 (12)  14 (12)  15 (12)  16 (12)  17 (12)  18 (12)  19 (12)  20 (12)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+  2013/14 (4):
+== eng.1 - Premier League 2013/14 |  20 Teams, 380 Matches, 1052 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
+
+== eng.2 - Championship 2013/14 |  24 Teams, 557 Matches, 1446 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (14)  4 (12)  5 (12)  6 (13)  7 (11)  8 (12)  9 (15)  10 (12)  11 (12)  12 (15)  13 (12)  14 (12)  15 (10)  16 (12)  17 (16)  18 (13)  19 (12)  20 (12)  21 (12)  22 (4)  23 (12)  24 (11)  25 (11)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (13)  33 (12)  34 (12)  35 (13)  36 (12)  37 (12)  38 (12)  39 (11)  40 (12)  41 (12)  42 (11)  43 (12)  44 (12)  45 (12)  46 (12)  47 (11)  48 (12)  
+
+== eng.3 - League One 2013/14 |  24 Teams, 557 Matches, 1489 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (12)  7 (12)  8 (12)  9 (12)  10 (12)  11 (12)  12 (12)  13 (12)  14 (12)  15 (12)  16 (12)  17 (12)  18 (12)  19 (12)  20 (12)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+== eng.4 - League Two 2013/14 |  24 Teams, 557 Matches, 1298 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (12)  7 (12)  8 (12)  9 (12)  10 (12)  11 (12)  12 (12)  13 (12)  14 (12)  15 (12)  16 (12)  17 (12)  18 (12)  19 (12)  20 (12)  21 (12)  22 (12)  23 (12)  24 (12)  25 (12)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+  2012/13 (2):
+== eng.1 - Premier League 2012/13 |  20 Teams, 380 Matches, 1063 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
+
+== eng.2 - Championship 2012/13 |  24 Teams, 557 Matches, 1502 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (13)  4 (13)  5 (12)  6 (12)  7 (13)  8 (12)  9 (12)  10 (12)  11 (15)  12 (10)  13 (12)  14 (15)  15 (12)  16 (12)  17 (10)  18 (12)  19 (15)  20 (6)  21 (12)  22 (12)  23 (12)  24 (12)  25 (10)  26 (12)  27 (12)  28 (12)  29 (12)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
+
+  2011/12 (2):
+== eng.1 - Premier League 2011/12 |  20 Teams, 380 Matches, 1066 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
+
+== eng.2 - Championship 2011/12 |  24 Teams, 557 Matches, 1432 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (12)  7 (12)  8 (13)  9 (17)  10 (12)  11 (12)  12 (15)  13 (12)  14 (11)  15 (12)  16 (11)  17 (12)  18 (12)  19 (9)  20 (9)  21 (12)  22 (12)  23 (13)  24 (12)  25 (12)  26 (12)  27 (12)  28 (14)  29 (12)  30 (9)  31 (14)  32 (12)  33 (12)  34 (11)  35 (13)  36 (12)  37 (11)  38 (12)  39 (12)  40 (11)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (11)  47 (12)  48 (12)  
+
+  2010/11 (2):
+== eng.1 - Premier League 2010/11 |  20 Teams, 380 Matches, 1063 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
+
+== eng.2 - Championship 2010/11 |  24 Teams, 557 Matches, 1523 Goals (+0 a.e.t.)
+    0 Groups, 48 Rounds (48 Matchdays, 0 K.O.s)
+1 (1)  2 (4)  3 (12)  4 (12)  5 (12)  6 (13)  7 (12)  8 (12)  9 (13)  10 (12)  11 (15)  12 (11)  13 (12)  14 (15)  15 (12)  16 (11)  17 (16)  18 (12)  19 (12)  20 (18)  21 (12)  22 (12)  23 (12)  24 (12)  25 (11)  26 (7)  27 (8)  28 (11)  29 (7)  30 (12)  31 (12)  32 (12)  33 (12)  34 (12)  35 (12)  36 (12)  37 (12)  38 (12)  39 (12)  40 (12)  41 (12)  42 (12)  43 (12)  44 (12)  45 (12)  46 (12)  47 (12)  48 (12)  
 
 
+
+## Logs
+
+6 logs:
+[warn] skipping line (no match found): >[De Bruyne '15 Iheanacho '25 Sterling '48 Gündogan '66]<
