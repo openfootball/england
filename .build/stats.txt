@@ -126,5 +126,6 @@ eng.4 - League Two |  3 events
 
 ## Logs
 
-6 logs:
+3 logs:
+[warn] skipping line (no match found): >[De Bruyne '15 Iheanacho '25 Sterling '48 Gündogan '66]<
 [warn] skipping line (no match found): >[De Bruyne '15 Iheanacho '25 Sterling '48 Gündogan '66]<
