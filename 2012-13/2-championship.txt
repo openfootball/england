@@ -1,22 +1,9 @@
 ## todo/fix: use reverse order and "new" standard format
 
-= English Championship 2012/13, Play-offs
-
- Final
-
-May/27 Crystal Palace 1-0 Watford
-
- Semi-finals
-
-May/13 Brighton 0-2 Crystal Palace
-May/12 Watford 3-1 Leicester
-May/10 Crystal Palace 0-0 Brighton
-May/09 Leicester 1-0 Watford
-
 
 = English Championship 2012/13
 
- Round 46
+ Matchday 46
 
 May/04 Birmingham 1-1 Blackburn
 May/04 Bolton 2-2 Blackpool
@@ -32,7 +19,7 @@ May/04 Sheffield Wed 2-0 Middlesbrough
 May/04 Watford 1-2 Leeds
 Apr/30 Millwall 0-0 Crystal Palace
 
- Round 45
+ Matchday 45
 
 Apr/27 Peterborough 1-0 Sheffield Wed
 Apr/27 Barnsley 2-0 Hull City
@@ -48,7 +35,7 @@ Apr/27 Wolves 1-2 Burnley
 Apr/26 Leicester 1-2 Watford
 Apr/23 Millwall 1-2 Blackburn
 
- Round 44
+ Matchday 44
 
 Apr/20 Birmingham 1-0 Leeds
 Apr/20 Bolton 2-1 Middlesbrough
@@ -63,7 +50,7 @@ Apr/20 Burnley 1-1 Cardiff
 Apr/20 Huddersfield 3-0 Millwall
 Apr/19 Hull City 0-0 Bristol City
 
- Round 43
+ Matchday 43
 
 Apr/16 Blackpool 0-0 Sheffield Wed
 Apr/16 Barnsley 1-1 Derby
@@ -78,7 +65,7 @@ Apr/16 Millwall 1-0 Watford
 Apr/16 Peterborough 0-0 Brighton
 Apr/16 Wolves 1-0 Hull City
 
- Round 42
+ Matchday 42
 
 Apr/13 Barnsley 0-6 Charlton
 Apr/13 Blackburn 2-0 Derby
@@ -94,7 +81,7 @@ Apr/12 Leicester 2-2 Birmingham
 Apr/09 Cardiff 1-1 Barnsley
 Apr/09 Millwall 1-2 Sheffield Wed
 
- Round 41
+ Matchday 41
 
 Apr/06 Watford 0-0 Cardiff
 Apr/06 Birmingham 1-1 Millwall
@@ -109,7 +96,7 @@ Apr/06 Hull City 1-0 Middlesbrough
 Apr/06 Nottingham Forest 1-1 Blackpool
 Apr/06 Sheffield Wed 3-2 Blackburn
 
- Round 40
+ Matchday 40
 
 Apr/02 Bolton 1-0 Huddersfield
 Apr/02 Brighton 0-0 Charlton
@@ -124,7 +111,7 @@ Apr/01 Burnley 1-1 Nottingham Forest
 Apr/01 Cardiff 3-0 Blackburn
 Apr/01 Millwall 0-0 Ipswich
 
- Round 39
+ Matchday 39
 
 Mar/30 Huddersfield 0-1 Hull City
 Mar/30 Charlton 3-2 Bolton
@@ -139,7 +126,7 @@ Mar/29 Crystal Palace 0-4 Birmingham
 Mar/29 Blackburn 1-1 Blackpool
 Mar/29 Watford 3-3 Burnley
 
- Round 38
+ Matchday 38
 
 Mar/17 Blackburn 1-1 Burnley
 Mar/17 Brighton 3-0 Crystal Palace
@@ -157,7 +144,7 @@ Mar/12 Barnsley 2-1 Brighton
 Mar/12 Cardiff 1-1 Leicester
 Mar/12 Leeds 1-1 Peterborough
 
- Round 37
+ Matchday 37
 
 Mar/11 Burnley 0-1 Hull City
 Mar/09 Birmingham 3-1 Derby
@@ -170,7 +157,7 @@ Mar/09 Nottingham Forest 3-1 Wolves
 Mar/09 Peterborough 0-0 Ipswich
 Mar/09 Watford 1-2 Blackpool
 
- Round 36
+ Matchday 36
 
 Mar/05 Bolton 1-0 Blackburn
 Mar/05 Crystal Palace 4-2 Hull City
@@ -185,7 +172,7 @@ Mar/05 Nottingham Forest 1-0 Ipswich
 Mar/05 Peterborough 2-2 Charlton
 Mar/05 Watford 2-1 Sheffield Wed
 
- Round 35
+ Matchday 35
 
 Mar/02 Sheffield Wed 0-1 Nottingham Forest
 Mar/02 Barnsley 2-3 Bolton
@@ -203,7 +190,7 @@ Feb/26 Bolton 1-0 Peterborough
 Feb/26 Burnley 0-1 Huddersfield
 Feb/26 Leicester 3-0 Blackburn
 
- Round 34
+ Matchday 34
 
 Feb/24 Wolves 1-2 Cardiff
 Feb/23 Middlesbrough 1-2 Millwall
@@ -218,7 +205,7 @@ Feb/23 Peterborough 0-2 Birmingham
 Feb/23 Sheffield Wed 1-0 Crystal Palace
 Feb/23 Watford 2-1 Derby
 
- Round 33
+ Matchday 33
 
 Feb/20 Leeds 2-0 Blackpool
 Feb/19 Crystal Palace 2-1 Bristol City
@@ -233,7 +220,7 @@ Feb/19 Leicester 1-2 Charlton
 Feb/19 Millwall 1-5 Peterborough
 Feb/19 Nottingham Forest 6-1 Huddersfield
 
- Round 32
+ Matchday 32
 
 Feb/16 Birmingham 0-4 Watford
 Feb/16 Crystal Palace 4-1 Middlesbrough
@@ -246,7 +233,7 @@ Feb/12 Brighton 1-1 Blackburn
 Feb/12 Hull City 2-1 Derby
 Feb/12 Middlesbrough 1-0 Leeds
 
- Round 31
+ Matchday 31
 
 Feb/09 Brighton 1-0 Hull City
 Feb/09 Blackburn 1-0 Ipswich
@@ -261,7 +248,7 @@ Feb/09 Sheffield Wed 2-2 Derby
 Feb/09 Wolves 2-2 Leeds
 Feb/08 Watford 2-2 Crystal Palace
 
- Round 30
+ Matchday 30
 
 Feb/02 Birmingham 2-1 Nottingham Forest
 Feb/02 Blackburn 2-0 Bristol City
@@ -280,7 +267,7 @@ Jan/29 Barnsley 2-0 Millwall
 
 Jan/29 Bristol City 2-0 Watford
 
- Round 29
+ Matchday 29
 
 Jan/26 Bristol City 2-1 Ipswich
 Jan/26 Burnley 1-2 Birmingham
@@ -289,7 +276,7 @@ Jan/26 Nottingham Forest 0-3 Watford
 Jan/26 Wolves 1-2 Blackpool
 Jan/22 Blackburn 1-1 Brighton
 
- Round 28
+ Matchday 28
 
 Jan/19 Blackpool 1-2 Cardiff
 Jan/19 Birmingham 2-2 Brighton
@@ -304,7 +291,7 @@ Jan/19 Watford 4-0 Huddersfield
 Jan/19 Derby 1-1 Nottingham Forest
 Jan/18 Leicester 1-0 Middlesbrough
 
- Round 27
+ Matchday 27
 
 Jan/12 Hull City 1-3 Sheffield Wed
 Jan/12 Barnsley 2-0 Leeds
@@ -319,7 +306,7 @@ Jan/12 Middlesbrough 1-2 Watford
 Jan/12 Nottingham Forest 2-1 Peterborough
 Jan/11 Wolves 1-1 Blackburn
 
- Round 26
+ Matchday 26
 
 Jan/01 Birmingham 0-1 Cardiff
 Jan/01 Blackburn 3-0 Nottingham Forest
@@ -334,7 +321,7 @@ Jan/01 Peterborough 2-1 Barnsley
 Jan/01 Sheffield Wed 0-2 Burnley
 Jan/01 Watford 3-4 Charlton
 
- Round 25
+ Matchday 25
 
 Dec/29 Brighton 1-3 Watford
 Dec/29 Barnsley 1-3 Blackburn
@@ -349,7 +336,7 @@ Dec/29 Wolves 0-2 Ipswich
 Dec/29 Huddersfield 0-0 Sheffield Wed
 Dec/29 Hull City 2-0 Leeds
 
- Round 24
+ Matchday 24
 
 Dec/26 Barnsley 1-2 Birmingham
 Dec/26 Bolton 0-1 Sheffield Wed
@@ -362,7 +349,7 @@ Dec/26 Wolves 0-3 Peterborough
 Dec/26 Charlton 1-2 Ipswich
 Dec/26 Nottingham Forest 4-2 Leeds
 
- Round 23
+ Matchday 23
 
 Dec/22 Crystal Palace 1-1 Huddersfield
 Dec/22 Birmingham 2-2 Burnley
@@ -377,7 +364,7 @@ Dec/21 Blackpool 1-2 Wolves
 Dec/21 Derby 1-2 Hull City
 Dec/18 Brighton 2-2 Millwall
 
- Round 22
+ Matchday 22
 
 Dec/15 Barnsley 0-1 Sheffield Wed
 Dec/15 Birmingham 2-2 Crystal Palace
@@ -392,7 +379,7 @@ Dec/15 Middlesbrough 2-0 Wolves
 Dec/15 Millwall 1-0 Leicester
 Dec/15 Hull City 2-0 Huddersfield
 
- Round 21
+ Matchday 21
 
 Dec/08 Wolves 1-0 Birmingham
 Dec/08 Charlton 2-2 Brighton
@@ -407,7 +394,7 @@ Dec/08 Watford 1-2 Hull City
 Dec/08 Derby 3-1 Leeds
 Dec/07 Blackburn 1-4 Cardiff
 
- Round 20
+ Matchday 20
 
 Dec/02 Cardiff 1-0 Sheffield Wed
 Dec/02 Burnley 1-1 Blackburn
@@ -422,7 +409,7 @@ Dec/01 Watford 4-1 Barnsley
 Dec/01 Huddersfield 2-4 Leeds
 Nov/30 Birmingham 3-2 Middlesbrough
 
- Round 19
+ Matchday 19
 
 Nov/28 Blackburn 1-2 Bolton
 Nov/27 Blackpool 1-1 Birmingham
@@ -437,7 +424,7 @@ Nov/27 Middlesbrough 3-0 Huddersfield
 Nov/27 Sheffield Wed 1-4 Watford
 Nov/27 Wolves 0-1 Millwall
 
- Round 18
+ Matchday 18
 
 Nov/24 Derby 3-2 Birmingham
 Nov/24 Barnsley 1-2 Cardiff
@@ -452,7 +439,7 @@ Nov/24 Middlesbrough 1-3 Bristol City
 Nov/24 Sheffield Wed 0-2 Leicester
 Nov/24 Wolves 1-2 Nottingham Forest
 
- Round 17
+ Matchday 17
 
 Nov/18 Millwall 1-0 Leeds
 Nov/17 Peterborough 1-4 Blackburn
@@ -467,7 +454,7 @@ Nov/17 Leicester 6-0 Ipswich
 Nov/17 Nottingham Forest 1-0 Sheffield Wed
 Nov/17 Watford 2-1 Wolves
 
- Round 16
+ Matchday 16
 
 Nov/11 Bristol City 0-2 Charlton
 Nov/10 Barnsley 0-1 Huddersfield
@@ -482,7 +469,7 @@ Nov/10 Wolves 3-3 Brighton
 Nov/10 Leicester 2-2 Nottingham Forest
 Nov/09 Middlesbrough 3-1 Sheffield Wed
 
- Round 15
+ Matchday 15
 
 Nov/06 Bolton 0-0 Leicester
 Nov/06 Crystal Palace 5-0 Ipswich
@@ -497,7 +484,7 @@ Nov/06 Nottingham Forest 0-0 Middlesbrough
 Nov/06 Sheffield Wed 0-2 Blackpool
 Nov/06 Watford 0-0 Millwall
 
- Round 14
+ Matchday 14
 
 Nov/03 Bolton 2-1 Cardiff
 Nov/03 Birmingham 0-1 Ipswich
@@ -512,7 +499,7 @@ Nov/03 Sheffield Wed 2-1 Peterborough
 Nov/03 Watford 2-1 Leicester
 Nov/02 Brighton 2-2 Leeds
 
- Round 13
+ Matchday 13
 
 Oct/27 Bristol City 1-2 Hull City
 Oct/27 Barnsley 1-4 Nottingham Forest
@@ -527,7 +514,7 @@ Oct/27 Millwall 4-0 Huddersfield
 Oct/27 Peterborough 3-0 Derby
 Oct/27 Wolves 1-1 Charlton
 
- Round 12
+ Matchday 12
 
 Oct/24 Blackburn 1-0 Sheffield Wed
 Oct/23 Blackpool 2-2 Nottingham Forest
@@ -542,7 +529,7 @@ Oct/23 Millwall 3-3 Birmingham
 Oct/23 Peterborough 3-1 Huddersfield
 Oct/23 Wolves 2-2 Bolton
 
- Round 11
+ Matchday 11
 
 Oct/20 Burnley 1-0 Blackpool
 Oct/20 Birmingham 1-1 Leicester
@@ -557,7 +544,7 @@ Oct/20 Watford 1-0 Peterborough
 Oct/20 Crystal Palace 2-2 Millwall
 Oct/19 Sheffield Wed 1-1 Leeds
 
- Round 10
+ Matchday 10
 
 Oct/06 Ipswich 1-2 Cardiff
 Oct/06 Birmingham 0-1 Huddersfield
@@ -572,7 +559,7 @@ Oct/06 Peterborough 0-1 Nottingham Forest
 Oct/06 Sheffield Wed 0-1 Hull City
 Oct/06 Watford 1-2 Middlesbrough
 
- Round 9
+ Matchday 9
 
 Oct/03 Middlesbrough 2-2 Derby
 Oct/03 Nottingham Forest 0-0 Blackburn
@@ -587,7 +574,7 @@ Oct/02 Huddersfield 0-2 Leicester
 Oct/02 Hull City 2-3 Blackpool
 Oct/02 Wolves 1-2 Crystal Palace
 
- Round 8
+ Matchday 8
 
 Sep/30 Nottingham Forest 0-1 Derby
 Sep/29 Brighton 0-1 Birmingham
@@ -602,7 +589,7 @@ Sep/29 Hull City 1-3 Peterborough
 Sep/29 Middlesbrough 1-2 Leicester
 Sep/29 Wolves 1-0 Sheffield Wed
 
- Round 7
+ Matchday 7
 
 Sep/24 Blackpool 1-3 Huddersfield
 Sep/23 Leicester 3-1 Hull City
@@ -617,7 +604,7 @@ Sep/22 Sheffield Wed 1-2 Bolton
 Sep/22 Watford 2-2 Bristol City
 Sep/21 Blackburn 1-2 Middlesbrough
 
- Round 6
+ Matchday 6
 
 Sep/19 Ipswich 0-2 Wolves
 Sep/19 Leicester 2-1 Burnley
@@ -632,7 +619,7 @@ Sep/18 Millwall 0-2 Cardiff
 Sep/18 Peterborough 1-2 Bristol City
 Sep/18 Watford 0-1 Brighton
 
- Round 5
+ Matchday 5
 
 Sep/16 Wolves 2-1 Leicester
 Sep/15 Barnsley 1-1 Blackpool
@@ -647,7 +634,7 @@ Sep/15 Nottingham Forest 2-2 Birmingham
 Sep/14 Brighton 3-0 Sheffield Wed
 Sep/14 Charlton 0-1 Crystal Palace
 
- Round 4
+ Matchday 4
 
 Sep/02 Cardiff 3-1 Wolves
 Sep/01 Leicester 1-0 Blackpool
@@ -662,7 +649,7 @@ Sep/01 Leeds 3-3 Blackburn
 Sep/01 Nottingham Forest 2-1 Charlton
 Sep/01 Millwall 3-1 Middlesbrough
 
- Round 3
+ Matchday 3
 
 Aug/25 Watford 2-0 Birmingham
 Aug/25 Blackburn 2-1 Leicester
@@ -677,7 +664,7 @@ Aug/25 Wolves 1-1 Derby
 Aug/25 Bristol City 4-2 Cardiff
 Aug/24 Bolton 2-2 Nottingham Forest
 
- Round 2
+ Matchday 2
 
 Aug/22 Blackburn 1-0 Hull City
 Aug/21 Blackpool 2-1 Leeds
@@ -692,7 +679,7 @@ Aug/21 Sheffield Wed 3-2 Birmingham
 Aug/21 Watford 0-1 Ipswich
 Aug/21 Wolves 3-1 Barnsley
 
- Round 1
+ Matchday 1
 
 Aug/18 Barnsley 1-0 Middlesbrough
 Aug/18 Birmingham 1-1 Charlton

@@ -17,13 +17,10 @@ Matchday 22
 [Wed Jan/3]
   Arsenal FC                  2-2  Chelsea FC
 
-## in addition Matchday 21
+Postponed Matchday 21
 [Thu Jan/4]
   Tottenham Hotspur          1-1  West Ham United
 
-
-# proposed 1. Aufsteiger in PremierLeague 2018/19:
-# Wolverhampton Wanderers
 
 
 Matchday 23
@@ -156,18 +153,19 @@ Matchday 30
 Matchday 31
 
 [Fri Mar/16]
-  Tottenham Hotspur           1-0  Newcastle United
+  ## Tottenham Hotspur         -  Newcastle United    ## see postponed matchday 31
 [Sat Mar/17]
   AFC Bournemouth             2-1  West Bromwich Albion
-  Burnley FC                  1-2  Chelsea FC
+  ## Burnley FC                -  Chelsea FC     ## see postponed matchday 31
   Huddersfield Town           0-2  Crystal Palace
-  Leicester City              3-1  Arsenal FC
+  ## Leicester City            -  Arsenal FC     ## see postponed matchday 31
   Liverpool FC                5-0  Watford FC
   Stoke City                  1-2  Everton FC
-  Swansea City                0-1  Southampton FC
+  ## Swansea City              -  Southampton FC  ## see postponed matchday 31
 [Sun Mar/18]
-  West Ham United             0-0  Manchester United
-  Manchester City             3-1  Brighton & Hove Albion
+  ## West Ham United           -  Manchester United       ## see postponed matchday 31
+  ## Manchester City           -  Brighton & Hove Albion  ## see postponed matchday 31
+
 
 Matchday 32
 
@@ -215,36 +213,23 @@ Matchday 34
 [Mon Apr/16]
   West Ham United             1-1  Stoke City
 
-# 1. PremierLeague Aufsteiger 2018/19:
-#  Wolverhampton Wanderers
-#
-# Master PremierLeague 2017/18:
-#  Manchester City
 
-# in addition Matchday 35
-[Tue Apr/17]
-  Brighton & Hove Albion      1-1  Tottenham Hotspur
-
-# in addition Matchday 35
-[Wed Apr/18]
-  AFC Bournemouth             0-2  Manchester United
-
-## in addition Matchday 31
+Postponed Matchday 31
 [Thu Apr/19]
   Burnley FC                  1-2  Chelsea FC
 
-## in addition Matchday 35
+
+
+Matchday 35
+[Tue Apr/17]
+  Brighton & Hove Albion      1-1  Tottenham Hotspur
+[Wed Apr/18]
+  AFC Bournemouth             0-2  Manchester United
 [Thu Apr/19]
   Leicester City              0-0  Southampton FC
 
-Matchday 35
-
-[Fri Apr/20]
-  Brighton & Hove Albion      1-1  Tottenham Hotspur
 [Sat Apr/21]
-  AFC Bournemouth             0-2  Manchester United
-  Chelsea FC                  1-1  Huddersfield Town
-  Leicester City              0-0  Southampton FC
+  ## Chelsea FC                -  Huddersfield Town    ## see postponed matchday 35
   Watford FC                  0-0  Crystal Palace
   West Bromwich Albion        2-2  Liverpool FC
 [Sun Apr/22]
@@ -253,6 +238,7 @@ Matchday 35
   Arsenal FC                  4-1  West Ham United
 [Mon Apr/23]
   Everton FC                  1-0  Newcastle United
+
 
 Matchday 36
 
@@ -285,39 +271,21 @@ Matchday 37
   Chelsea FC                  1-0  Liverpool FC
   Manchester City             0-0  Huddersfield Town
 
-# 2. Aufsteiger PremierLeague 2018/19:
-#   Cardiff City
 
-# in addition Matchday 31
+Postponed Matchday 31
 [Tue May/8]
   Swansea City               0-1  Southampton FC
-
-# 2. Absteiger PremierLeague 2017/18:
-#   West Bromwich Albion
-
-## in addition Matchday 31
 [Wed May/9]
   Tottenham Hotspur          1-0  Newcastle United
   Leicester City             3-1  Arsenal FC
   Manchester City            3-1  Brighton & Hove Albion
-
-## in addition Matchday 35
-[Wed May/9]
-  Chelsea FC                 1-1  Huddersfield Town
-
-## in addition Matchday 31
 [Thu May/10]
   West Ham United            0-0  Manchester United
 
-##  winner for play-off final 2017/18 qualified:
-# [Fri May/11]
-#  Derby County               1-0  FC Fulham
-# [Sat May/12]
-#  FC Middlesbrough           0-1  Aston Villa
-# [Mon May/14]
-#  FC Fulham                  2-0  Derby County
-# [Tue May/15]
-#  Aston Villa                0-0  FC Middlesbrough
+
+Postponed Matchday 35     ## todo/check: use Addition Matchday 35 - check what's a good name/naming convention?
+[Wed May/9]
+  Chelsea FC                 1-1  Huddersfield Town
 
 
 Matchday 38
@@ -334,14 +302,3 @@ Matchday 38
   Tottenham Hotspur          5-4  Leicester City
   West Ham United            3-1  Everton FC
 
-# 3. Absteiger PremierLeague 2017/18:
-#    Swansea City
-
-# winner to PremierLeague 2018/19:
-#  [Sat May/26]
-#    FC Fulham               1-0 Aston Villa
-#
-# 3. Aufsteiger PremiereLeague 2018/19:
-#    FC Fulham
-
-#  summerbreak until 11.08.18

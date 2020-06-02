@@ -1,23 +1,8 @@
 ## todo/fix: use reverse order and "new" standard format
 
-= English Championship 2011/12, Play-offs
-
-
- Final
-
-May/19 Blackpool 1-2 West Ham
-
- Semi-finals
-
-May/09 Birmingham 2-2 Blackpool
-May/07 West Ham 3-0 Cardiff
-May/04 Blackpool 1-0 Birmingham
-May/03 Cardiff 0-2 West Ham
-
-
 = English Championship 2011/12
 
- Round 46
+ Matchday 46
 
 Apr/28 Barnsley 0-0 Brighton
 Apr/28 Birmingham 2-0 Reading
@@ -32,7 +17,7 @@ Apr/28 Southampton 4-0 Coventry
 Apr/28 Watford 2-1 Middlesbrough
 Apr/28 West Ham 2-1 Hull City
 
- Round 45
+ Matchday 45
 
 Apr/23 Leicester 1-2 West Ham
 Apr/21 Middlesbrough 2-1 Southampton
@@ -47,7 +32,7 @@ Apr/21 Portsmouth 1-2 Derby
 Apr/21 Reading 2-2 Crystal Palace
 Apr/21 Cardiff 1-1 Leeds
 
- Round 44
+ Matchday 44
 
 Apr/17 Blackpool 1-0 Leeds
 Apr/17 Reading 1-0 Nottingham Forest
@@ -62,7 +47,7 @@ Apr/17 Middlesbrough 0-0 Doncaster
 Apr/17 Peterborough 1-3 Southampton
 Apr/17 Portsmouth 2-1 Crystal Palace
 
- Round 43
+ Matchday 43
 
 Apr/14 Barnsley 0-1 Cardiff
 Apr/14 Birmingham 2-2 Bristol City
@@ -77,7 +62,7 @@ Apr/14 Watford 1-1 Hull City
 Apr/14 West Ham 6-0 Brighton
 Apr/13 Southampton 1-3 Reading
 
- Round 42
+ Matchday 42
 
 Apr/10 Brighton 0-1 Reading
 Apr/10 Portsmouth 0-1 Millwall
@@ -92,7 +77,7 @@ Apr/09 Ipswich 1-2 Leicester
 Apr/09 Leeds 0-2 Derby
 Apr/09 Peterborough 0-1 Nottingham Forest
 
- Round 41
+ Matchday 41
 
 Apr/07 Nottingham Forest 0-1 Bristol City
 Apr/07 Birmingham 3-1 Crystal Palace
@@ -108,7 +93,7 @@ Apr/06 Watford 0-2 Blackpool
 Apr/06 Reading 2-0 Leeds
 Apr/03 Burnley 1-3 Birmingham
 
- Round 40
+ Matchday 40
 
 Mar/31 Blackpool 3-0 Southampton
 Mar/31 Brighton 1-1 Middlesbrough
@@ -128,7 +113,7 @@ Mar/27 Leicester 0-0 Nottingham Forest
 Mar/27 Peterborough 0-2 West Ham
 Mar/27 Portsmouth 2-0 Hull City
 
- Round 39
+ Matchday 39
 
 Mar/25 Birmingham 1-1 Cardiff
 Mar/24 Barnsley 1-0 Peterborough
@@ -143,7 +128,7 @@ Mar/24 Reading 3-1 Blackpool
 Mar/24 Southampton 2-0 Doncaster
 Mar/24 Watford 2-1 Ipswich
 
- Round 38
+ Matchday 38
 
 Mar/21 Blackpool 3-3 Leicester
 Mar/21 Cardiff 2-2 Coventry
@@ -158,7 +143,7 @@ Mar/20 Peterborough 3-1 Reading
 Mar/20 Portsmouth 4-1 Birmingham
 Mar/20 West Ham 1-1 Middlesbrough
 
- Round 37
+ Matchday 37
 
 Mar/18 Cardiff 0-0 Burnley
 Mar/17 Barnsley 0-4 Reading
@@ -176,7 +161,7 @@ Mar/13 Derby 1-0 Nottingham Forest
 Mar/13 Doncaster 1-1 Reading
 Mar/13 Leicester 3-1 Birmingham
 
- Round 36
+ Matchday 36
 
 Mar/11 Middlesbrough 0-2 Leeds
 Mar/10 Bristol City 1-2 Cardiff
@@ -191,7 +176,7 @@ Mar/10 Southampton 2-0 Barnsley
 Mar/10 West Ham 1-1 Doncaster
 Mar/10 Coventry 1-1 Birmingham
 
- Round 35
+ Matchday 35
 
 Mar/07 Brighton 2-2 Cardiff
 Mar/07 West Ham 1-1 Watford
@@ -205,7 +190,7 @@ Mar/06 Nottingham Forest 1-2 Doncaster
 Mar/06 Peterborough 0-3 Millwall
 Mar/06 Southampton 1-1 Ipswich
 
- Round 34
+ Matchday 34
 
 Mar/04 Cardiff 0-2 West Ham
 Mar/03 Leeds 0-1 Southampton
@@ -220,7 +205,7 @@ Mar/03 Portsmouth 1-3 Middlesbrough
 Mar/03 Watford 3-2 Burnley
 Mar/02 Blackpool 1-1 Hull City
 
- Round 33
+ Matchday 33
 
 Feb/25 Birmingham 1-2 Nottingham Forest
 Feb/25 Brighton 3-0 Ipswich
@@ -234,7 +219,7 @@ Feb/25 Watford 0-3 Southampton
 Feb/25 West Ham 0-0 Crystal Palace
 Feb/23 Derby 0-1 Leicester
 
- Round 32
+ Matchday 32
 
 Feb/22 Hull City 0-0 Brighton
 Feb/21 Blackpool 1-4 West Ham
@@ -249,7 +234,7 @@ Feb/18 Peterborough 3-0 Bristol City
 Feb/18 Southampton 4-0 Derby
 Feb/17 Reading 1-0 Burnley
 
- Round 31
+ Matchday 31
 
 Feb/14 Birmingham 0-0 Hull City
 Feb/14 Brighton 2-2 Millwall
@@ -264,7 +249,7 @@ Feb/14 Portsmouth 0-1 Ipswich
 Feb/14 Watford 3-2 Leicester
 Feb/14 West Ham 1-1 Southampton
 
- Round 30
+ Matchday 30
 
 Feb/11 Blackpool 1-1 Portsmouth
 Feb/11 Hull City 3-0 Bristol City
@@ -276,7 +261,7 @@ Feb/11 Reading 2-0 Coventry
 Feb/11 Southampton 2-0 Burnley
 Feb/07 Birmingham 1-0 Portsmouth
 
- Round 29
+ Matchday 29
 
 Feb/04 Birmingham 0-0 Southampton
 Feb/04 Brighton 1-0 Leicester
@@ -288,7 +273,7 @@ Feb/04 Middlesbrough 0-0 Crystal Palace
 Feb/04 Watford 2-1 Barnsley
 Feb/04 West Ham 2-1 Millwall
 
- Round 28
+ Matchday 28
 
 Feb/01 Leicester 2-2 Middlesbrough
 Jan/31 Blackpool 2-1 Coventry
@@ -303,7 +288,7 @@ Jan/31 Southampton 1-1 Cardiff
 Jan/28 Peterborough 0-3 Portsmouth
 Jan/28 Reading 1-0 Bristol City
 
- Round 27
+ Matchday 27
 
 Jan/23 Southampton 0-2 Leicester
 Jan/21 Barnsley 1-3 Millwall
@@ -318,7 +303,7 @@ Jan/21 Peterborough 1-2 Brighton
 Jan/21 Reading 0-1 Hull City
 Jan/21 West Ham 2-1 Nottingham Forest
 
- Round 26
+ Matchday 26
 
 Jan/14 Watford 1-2 Reading
 Jan/14 Brighton 2-0 Bristol City
@@ -334,7 +319,7 @@ Jan/14 Nottingham Forest 0-3 Southampton
 Jan/14 Portsmouth 0-1 West Ham
 Jan/11 Birmingham 2-1 Ipswich
 
- Round 25
+ Matchday 25
 
 Jan/03 Bristol City 1-0 Millwall
 Jan/02 Blackpool 3-0 Middlesbrough
@@ -349,7 +334,7 @@ Jan/02 Portsmouth 2-0 Watford
 Jan/02 West Ham 1-0 Coventry
 Jan/02 Crystal Palace 1-2 Leicester
 
- Round 24
+ Matchday 24
 
 Dec/31 Birmingham 3-0 Blackpool
 Dec/31 Burnley 1-0 Hull City
@@ -364,7 +349,7 @@ Dec/31 Watford 4-1 Doncaster
 Dec/31 Leicester 1-1 Portsmouth
 Dec/30 Southampton 0-1 Bristol City
 
- Round 23
+ Matchday 23
 
 Dec/26 Birmingham 1-1 West Ham
 Dec/26 Barnsley 1-3 Blackpool
@@ -379,7 +364,7 @@ Dec/26 Millwall 1-0 Portsmouth
 Dec/26 Southampton 2-0 Crystal Palace
 Dec/26 Watford 1-1 Cardiff
 
- Round 22
+ Matchday 22
 
 Dec/19 Crystal Palace 1-0 Birmingham
 Dec/18 Portsmouth 1-1 Southampton
@@ -394,7 +379,7 @@ Dec/17 Leeds 0-1 Reading
 Dec/17 Peterborough 1-0 Coventry
 Dec/17 West Ham 1-0 Barnsley
 
- Round 21
+ Matchday 21
 
 Dec/10 Barnsley 3-5 Ipswich
 Dec/10 Birmingham 2-1 Doncaster
@@ -411,7 +396,7 @@ Dec/10 Southampton 2-2 Blackpool
 Dec/07 Hull City 2-1 Birmingham
 Dec/06 Barnsley 2-1 Crystal Palace
 
- Round 20
+ Matchday 20
 
 Dec/04 Cardiff 1-0 Birmingham
 Dec/03 Bristol City 0-1 Middlesbrough
@@ -426,7 +411,7 @@ Dec/03 West Ham 1-2 Burnley
 Dec/03 Leeds 2-0 Millwall
 Dec/02 Crystal Palace 1-1 Derby
 
- Round 19
+ Matchday 19
 
 Nov/29 Reading 3-2 Peterborough
 Nov/29 Burnley 4-0 Ipswich
@@ -438,7 +423,7 @@ Nov/29 Nottingham Forest 0-4 Leeds
 Nov/29 Southampton 2-1 Hull City
 Nov/29 Watford 2-2 Bristol City
 
- Round 18
+ Matchday 18
 
 Nov/26 West Ham 3-1 Derby
 Nov/26 Blackpool 2-2 Birmingham
@@ -455,7 +440,7 @@ Nov/26 Portsmouth 1-1 Leicester
 Nov/22 Birmingham 2-1 Burnley
 Nov/22 Coventry 1-1 Cardiff
 
- Round 17
+ Matchday 17
 
 Nov/20 Leicester 3-0 Crystal Palace
 Nov/20 Millwall 1-2 Bristol City
@@ -470,7 +455,7 @@ Nov/19 Southampton 3-0 Brighton
 Nov/19 Watford 2-0 Portsmouth
 Nov/19 Burnley 1-2 Leeds
 
- Round 16
+ Matchday 16
 
 Nov/06 Brighton 2-0 Barnsley
 Nov/06 Leicester 0-1 Leeds
@@ -485,7 +470,7 @@ Nov/05 Ipswich 2-3 Doncaster
 Nov/05 Peterborough 3-2 Derby
 Nov/05 Portsmouth 3-0 Nottingham Forest
 
- Round 15
+ Matchday 15
 
 Nov/02 Derby 0-3 Cardiff
 Nov/02 Leeds 0-5 Blackpool
@@ -499,7 +484,7 @@ Nov/01 Southampton 2-1 Peterborough
 Nov/01 Watford 1-0 Brighton
 Nov/01 West Ham 0-0 Bristol City
 
- Round 14
+ Matchday 14
 
 Oct/30 Leeds 1-1 Cardiff
 Oct/29 Burnley 3-1 Blackpool
@@ -515,7 +500,7 @@ Oct/29 Watford 3-2 Peterborough
 Oct/29 West Ham 3-2 Leicester
 Oct/26 Birmingham 1-0 Leeds
 
- Round 13
+ Matchday 13
 
 Oct/24 Brighton 0-1 West Ham
 Oct/23 Bristol City 0-2 Birmingham
@@ -530,7 +515,7 @@ Oct/22 Middlesbrough 2-0 Derby
 Oct/22 Portsmouth 3-1 Doncaster
 Oct/22 Peterborough 2-3 Leeds
 
- Round 12
+ Matchday 12
 
 Oct/19 Leicester 2-0 Watford
 Oct/18 Blackpool 2-1 Doncaster
@@ -544,7 +529,7 @@ Oct/18 Nottingham Forest 2-0 Middlesbrough
 Oct/18 Peterborough 4-3 Cardiff
 Oct/18 Southampton 1-0 West Ham
 
- Round 11
+ Matchday 11
 
 Oct/16 Birmingham 2-0 Leicester
 Oct/15 Brighton 0-0 Hull City
@@ -559,7 +544,7 @@ Oct/15 Watford 0-2 Crystal Palace
 Oct/15 West Ham 4-0 Blackpool
 Oct/14 Doncaster 0-3 Leeds
 
- Round 10
+ Matchday 10
 
 Oct/02 Nottingham Forest 1-3 Birmingham
 Oct/01 Leicester 4-0 Derby
@@ -574,7 +559,7 @@ Oct/01 Peterborough 1-2 Doncaster
 Oct/01 Reading 0-0 Middlesbrough
 Oct/01 Southampton 4-0 Watford
 
- Round 9
+ Matchday 9
 
 Sep/28 Cardiff 2-1 Southampton
 Sep/28 Middlesbrough 0-0 Leicester
@@ -588,7 +573,7 @@ Sep/27 Portsmouth 2-3 Peterborough
 Sep/27 Watford 2-1 Millwall
 Sep/27 West Ham 0-1 Ipswich
 
- Round 8
+ Matchday 8
 
 Sep/25 Cardiff 0-0 Leicester
 Sep/24 Watford 0-1 Nottingham Forest
@@ -603,7 +588,7 @@ Sep/24 Portsmouth 1-0 Blackpool
 Sep/24 West Ham 1-0 Peterborough
 Sep/23 Brighton 3-3 Leeds
 
- Round 7
+ Matchday 7
 
 Sep/19 Ipswich 3-0 Coventry
 Sep/18 Southampton 4-1 Birmingham
@@ -618,7 +603,7 @@ Sep/17 Reading 2-0 Doncaster
 Sep/17 Nottingham Forest 1-2 Derby
 Sep/17 Millwall 0-0 West Ham
 
- Round 6
+ Matchday 6
 
 Sep/11 Birmingham 3-0 Millwall
 Sep/10 Coventry 2-0 Derby
@@ -633,7 +618,7 @@ Sep/10 Reading 0-2 Watford
 Sep/10 Southampton 3-2 Nottingham Forest
 Sep/10 West Ham 4-3 Portsmouth
 
- Round 5
+ Matchday 5
 
 Aug/28 Watford 2-2 Birmingham
 Aug/28 Nottingham Forest 1-4 West Ham
@@ -648,7 +633,7 @@ Aug/27 Middlesbrough 1-1 Coventry
 Aug/27 Millwall 0-0 Barnsley
 Aug/27 Portsmouth 1-1 Cardiff
 
- Round 4
+ Matchday 4
 
 Aug/21 Middlesbrough 3-1 Birmingham
 Aug/21 West Ham 2-2 Leeds
@@ -663,7 +648,7 @@ Aug/20 Nottingham Forest 2-2 Leicester
 Aug/20 Reading 1-2 Barnsley
 Aug/20 Southampton 1-0 Millwall
 
- Round 3
+ Matchday 3
 
 Aug/17 Blackpool 0-1 Derby
 Aug/17 Cardiff 1-3 Brighton
@@ -677,7 +662,7 @@ Aug/16 Leeds 4-1 Hull City
 Aug/16 Portsmouth 1-0 Reading
 Aug/16 Watford 0-4 West Ham
 
- Round 2
+ Matchday 2
 
 Aug/14 Blackpool 2-1 Peterborough
 Aug/14 Cardiff 3-1 Bristol City
@@ -692,7 +677,7 @@ Aug/13 Millwall 2-0 Nottingham Forest
 Aug/13 Portsmouth 0-1 Brighton
 Aug/13 Watford 0-1 Derby
 
- Round 1
+ Matchday 1
 
 Aug/07 West Ham 0-1 Cardiff
 Aug/06 Southampton 3-1 Leeds

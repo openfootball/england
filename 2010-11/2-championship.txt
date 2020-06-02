@@ -1,23 +1,8 @@
 ## todo/fix: use reverse order and "new" standard format
 
-
-= English Championship 2010/11, Play-offs
-
-Final
-
-May/30 Swansea 4-2 Reading
-
-Semi-finals
-
-May/17 Cardiff 0-3 Reading
-May/16 Swansea 3-1 Nottingham Forest
-May/13 Reading 0-0 Cardiff
-May/12 Nottingham Forest 0-0 Swansea
-
-
 = English Championship 2010/11
 
- Round 46
+ Matchday 46
 
 May/07 Barnsley 1-0 Millwall
 May/07 Bristol City 3-0 Hull City
@@ -32,7 +17,7 @@ May/07 Reading 2-1 Derby
 May/07 Scunthorpe 1-1 Portsmouth
 May/07 Swansea 4-0 Sheffield Utd
 
- Round 45
+ Matchday 45
 
 May/02 Portsmouth 0-1 Norwich
 May/02 Cardiff 0-3 Middlesbrough
@@ -47,7 +32,7 @@ Apr/30 Sheffield Utd 2-2 Barnsley
 Apr/30 Watford 0-2 QPR
 Apr/30 Leeds 1-0 Burnley
 
- Round 44
+ Matchday 44
 
 Apr/25 Barnsley 2-2 Doncaster
 Apr/25 Bristol City 2-3 Nottingham Forest
@@ -62,7 +47,7 @@ Apr/25 Reading 2-3 Sheffield Utd
 Apr/25 Scunthorpe 1-2 Millwall
 Apr/25 Swansea 4-1 Ipswich
 
- Round 43
+ Matchday 43
 
 Apr/23 Millwall 4-0 Preston
 Apr/23 Derby 2-4 Burnley
@@ -78,7 +63,7 @@ Apr/22 Doncaster 0-0 Crystal Palace
 Apr/21 Ipswich 1-5 Norwich
 Apr/19 Burnley 3-1 Middlesbrough
 
- Round 42
+ Matchday 42
 
 Apr/18 QPR 0-0 Derby
 Apr/16 Bristol City 0-1 Ipswich
@@ -93,7 +78,7 @@ Apr/16 Preston 3-1 Sheffield Utd
 Apr/16 Reading 3-1 Leicester
 Apr/15 Norwich 2-1 Nottingham Forest
 
- Round 41
+ Matchday 41
 
 Apr/12 Barnsley 0-1 QPR
 Apr/12 Derby 2-1 Leeds
@@ -108,7 +93,7 @@ Apr/12 Sheffield Utd 0-2 Cardiff
 Apr/12 Swansea 1-1 Hull City
 Apr/12 Watford 2-2 Norwich
 
- Round 40
+ Matchday 40
 
 Apr/09 Swansea 3-0 Norwich
 Apr/09 Barnsley 4-2 Bristol City
@@ -124,7 +109,7 @@ Apr/09 Sheffield Utd 1-2 Middlesbrough
 Apr/09 Watford 1-2 Hull City
 Apr/05 Reading 2-1 Preston
 
- Round 39
+ Matchday 39
 
 Apr/04 QPR 3-0 Sheffield Utd
 Apr/02 Bristol City 1-0 Doncaster
@@ -139,7 +124,7 @@ Apr/02 Reading 2-0 Portsmouth
 Apr/02 Hull City 0-1 Millwall
 Apr/02 Leeds 4-1 Nottingham Forest
 
- Round 38
+ Matchday 38
 
 Mar/19 Barnsley 0-1 Reading
 Mar/19 Bristol City 2-0 Burnley
@@ -157,7 +142,7 @@ Mar/15 Burnley 2-2 Coventry
 Mar/15 Ipswich 0-3 Watford
 Mar/15 Scunthorpe 0-3 Preston
 
- Round 37
+ Matchday 37
 
 Mar/14 Norwich 3-1 Bristol City
 Mar/13 Cardiff 2-2 Barnsley
@@ -171,7 +156,7 @@ Mar/12 QPR 2-1 Crystal Palace
 Mar/12 Scunthorpe 0-3 Leicester
 Mar/12 Watford 3-0 Sheffield Utd
 
- Round 36
+ Matchday 36
 
 Mar/08 Crystal Palace 1-0 Cardiff
 Mar/08 Barnsley 2-1 Scunthorpe
@@ -186,7 +171,7 @@ Mar/08 Preston 1-2 Leeds
 Mar/08 Sheffield Utd 2-1 Nottingham Forest
 Mar/08 Swansea 1-1 Watford
 
- Round 35
+ Matchday 35
 
 Mar/05 Cardiff 0-2 Ipswich
 Mar/05 Burnley 1-0 Crystal Palace
@@ -204,7 +189,7 @@ Mar/01 Derby 1-3 Doncaster
 Mar/01 Middlesbrough 1-1 Nottingham Forest
 Mar/01 Portsmouth 2-0 Scunthorpe
 
- Round 34
+ Matchday 34
 
 Feb/26 Barnsley 0-2 Norwich
 Feb/26 Bristol City 2-0 Scunthorpe
@@ -219,7 +204,7 @@ Feb/26 Preston 1-2 Burnley
 Feb/26 Sheffield Utd 0-1 Derby
 Feb/26 Swansea 3-0 Leeds
 
- Round 33
+ Matchday 33
 
 Feb/22 QPR 2-0 Ipswich
 Feb/22 Reading 2-1 Millwall
@@ -233,7 +218,7 @@ Feb/22 Portsmouth 1-0 Crystal Palace
 Feb/22 Scunthorpe 3-2 Sheffield Utd
 Feb/22 Watford 1-3 Bristol City
 
- Round 32
+ Matchday 32
 
 Feb/19 Crystal Palace 1-0 Sheffield Utd
 Feb/19 Ipswich 1-1 Hull City
@@ -252,7 +237,7 @@ Feb/15 Doncaster 0-6 Ipswich
 Feb/15 Sheffield Utd 1-1 Reading
 Feb/15 Watford 2-2 Preston
 
- Round 31
+ Matchday 31
 
 Feb/13 QPR 1-1 Nottingham Forest
 Feb/12 Derby 0-2 Leicester
@@ -267,7 +252,7 @@ Feb/12 Norwich 2-1 Reading
 Feb/12 Sheffield Utd 1-1 Millwall
 Feb/12 Watford 1-3 Burnley
 
- Round 30
+ Matchday 30
 
 Feb/06 Swansea 0-1 Cardiff
 Feb/05 Burnley 2-1 Norwich
@@ -282,7 +267,7 @@ Feb/05 Preston 0-4 Bristol City
 Feb/05 Scunthorpe 1-5 Hull City
 Feb/04 Reading 0-1 QPR
 
- Round 29
+ Matchday 29
 
 Feb/01 QPR 2-0 Portsmouth
 Feb/01 Barnsley 2-0 Preston
@@ -303,7 +288,7 @@ Jan/25 Doncaster 0-2 Barnsley
 Jan/25 Nottingham Forest 1-0 Bristol City
 Jan/25 Portsmouth 1-2 Burnley
 
- Round 28
+ Matchday 28
 
 Jan/23 QPR 2-1 Coventry
 Jan/22 Scunthorpe 0-0 Burnley
@@ -318,7 +303,7 @@ Jan/22 Reading 1-1 Hull City
 Jan/22 Sheffield Utd 1-2 Norwich
 Jan/22 Derby 0-1 Nottingham Forest
 
- Round 27
+ Matchday 27
 
 Jan/15 Bristol City 0-4 Middlesbrough
 Jan/15 Burnley 0-0 QPR
@@ -333,7 +318,7 @@ Jan/15 Preston 1-1 Leicester
 Jan/15 Watford 3-0 Derby
 Jan/15 Swansea 3-0 Crystal Palace
 
- Round 26
+ Matchday 26
 
 Jan/04 Cardiff 2-1 Leeds
 Jan/03 Barnsley 2-1 Coventry
@@ -348,7 +333,7 @@ Jan/03 Reading 2-1 Burnley
 Jan/03 Scunthorpe 1-2 Watford
 Jan/03 Sheffield Utd 2-2 Doncaster
 
- Round 25
+ Matchday 25
 
 Jan/01 Watford 3-0 Portsmouth
 Jan/01 Bristol City 3-0 Cardiff
@@ -363,7 +348,7 @@ Jan/01 Swansea 1-0 Reading
 Jan/01 Millwall 3-0 Crystal Palace
 Jan/01 Leeds 1-1 Middlesbrough
 
- Round 24
+ Matchday 24
 
 Dec/29 Nottingham Forest 5-2 Derby
 Dec/28 Bristol City 1-1 Crystal Palace
@@ -377,7 +362,7 @@ Dec/28 Swansea 1-0 Barnsley
 Dec/28 Watford 4-1 Cardiff
 Dec/28 Coventry 0-2 QPR
 
- Round 23
+ Matchday 23
 
 Dec/26 Barnsley 1-2 Burnley
 Dec/26 Cardiff 2-0 Coventry
@@ -387,7 +372,7 @@ Dec/26 Sheffield Utd 2-3 Hull City
 Dec/26 Portsmouth 1-1 Millwall
 Dec/26 QPR 4-0 Swansea
 
- Round 22
+ Matchday 22
 
 Dec/18 Ipswich 3-0 Leicester
 Dec/18 Coventry 1-2 Norwich
@@ -398,7 +383,7 @@ Dec/18 Nottingham Forest 3-0 Crystal Palace
 Dec/18 Sheffield Utd 1-0 Swansea
 Dec/17 Doncaster 2-1 Middlesbrough
 
- Round 21
+ Matchday 21
 
 Dec/11 Crystal Palace 0-0 Hull City
 Dec/11 Barnsley 1-0 Sheffield Utd
@@ -412,7 +397,7 @@ Dec/11 Reading 0-0 Coventry
 Dec/10 QPR 1-3 Watford
 Dec/10 Swansea 1-1 Millwall
 
- Round 20
+ Matchday 20
 
 Dec/04 Millwall 3-0 Scunthorpe
 Dec/04 Cardiff 1-1 Preston
@@ -422,7 +407,7 @@ Dec/04 Leeds 2-1 Crystal Palace
 Dec/04 Watford 3-2 Leicester
 Dec/04 Ipswich 1-3 Swansea
 
- Round 19
+ Matchday 19
 
 Nov/29 Leicester 1-0 Nottingham Forest
 Nov/28 Norwich 4-1 Ipswich
@@ -437,7 +422,7 @@ Nov/27 Reading 0-0 Leeds
 Nov/27 Scunthorpe 0-2 Coventry
 Nov/26 Swansea 1-2 Portsmouth
 
- Round 18
+ Matchday 18
 
 Nov/20 Sheffield Utd 3-2 Crystal Palace
 Nov/20 Barnsley 1-0 Portsmouth
@@ -452,7 +437,7 @@ Nov/20 Norwich 1-1 Leeds
 Nov/20 QPR 3-1 Preston
 Nov/20 Watford 1-1 Reading
 
- Round 17
+ Matchday 17
 
 Nov/14 Swansea 1-0 Middlesbrough
 Nov/13 Reading 3-3 Norwich
@@ -467,7 +452,7 @@ Nov/13 Portsmouth 2-3 Doncaster
 Nov/13 Scunthorpe 2-4 Cardiff
 Nov/12 Preston 0-2 Hull City
 
- Round 16
+ Matchday 16
 
 Nov/10 Reading 1-1 Cardiff
 Nov/10 Leicester 2-2 Sheffield Utd
@@ -482,7 +467,7 @@ Nov/09 Portsmouth 1-1 QPR
 Nov/09 Preston 1-2 Barnsley
 Nov/09 Scunthorpe 0-2 Middlesbrough
 
- Round 15
+ Matchday 15
 
 Nov/07 Cardiff 0-1 Swansea
 Nov/06 Derby 2-0 Portsmouth
@@ -497,7 +482,7 @@ Nov/06 QPR 3-1 Reading
 Nov/06 Sheffield Utd 1-2 Ipswich
 Nov/06 Watford 1-1 Nottingham Forest
 
- Round 14
+ Matchday 14
 
 Oct/30 Barnsley 1-1 Hull City
 Oct/30 Cardiff 3-1 Norwich
@@ -512,7 +497,7 @@ Oct/30 Reading 4-3 Doncaster
 Oct/30 Scunthorpe 1-4 Leeds
 Oct/30 Sheffield Utd 0-1 Coventry
 
- Round 13
+ Matchday 13
 
 Oct/25 Leeds 0-4 Cardiff
 Oct/23 Doncaster 2-0 Sheffield Utd
@@ -527,7 +512,7 @@ Oct/23 Swansea 2-0 Leicester
 Oct/23 Watford 0-2 Scunthorpe
 Oct/22 Bristol City 1-1 QPR
 
- Round 12
+ Matchday 12
 
 Oct/19 Bristol City 1-0 Reading
 Oct/19 Burnley 3-0 Barnsley
@@ -542,7 +527,7 @@ Oct/19 Preston 2-3 Scunthorpe
 Oct/19 Swansea 0-0 QPR
 Oct/19 Watford 2-1 Ipswich
 
- Round 11
+ Matchday 11
 
 Oct/16 Middlesbrough 1-2 Leeds
 Oct/16 Barnsley 3-1 Nottingham Forest
@@ -557,7 +542,7 @@ Oct/16 Sheffield Utd 3-3 Burnley
 Oct/16 Cardiff 3-2 Bristol City
 Oct/16 Scunthorpe 1-3 Doncaster
 
- Round 10
+ Matchday 10
 
 Oct/02 Barnsley 1-2 Cardiff
 Oct/02 Bristol City 0-3 Norwich
@@ -572,7 +557,7 @@ Oct/02 Preston 1-1 Reading
 Oct/02 Sheffield Utd 0-1 Watford
 Oct/02 Swansea 0-0 Derby
 
- Round 9
+ Matchday 9
 
 Sep/28 QPR 0-0 Millwall
 Sep/28 Reading 1-0 Ipswich
@@ -587,7 +572,7 @@ Sep/28 Portsmouth 3-1 Bristol City
 Sep/28 Scunthorpe 0-0 Barnsley
 Sep/28 Watford 2-3 Swansea
 
- Round 8
+ Matchday 8
 
 Sep/25 Burnley 0-0 Bristol City
 Sep/25 Coventry 1-2 Preston
@@ -602,7 +587,7 @@ Sep/25 Watford 3-1 Middlesbrough
 Sep/25 Cardiff 2-1 Millwall
 Sep/24 Portsmouth 6-1 Leicester
 
- Round 7
+ Matchday 7
 
 Sep/18 Hull City 0-0 Nottingham Forest
 Sep/18 Barnsley 1-1 Derby
@@ -617,7 +602,7 @@ Sep/18 Sheffield Utd 1-0 Portsmouth
 Sep/18 Swansea 2-0 Scunthorpe
 Sep/17 Doncaster 0-0 Leeds
 
- Round 6
+ Matchday 6
 
 Sep/14 Crystal Palace 4-1 Portsmouth
 Sep/14 Barnsley 5-2 Leeds
@@ -632,7 +617,7 @@ Sep/14 Preston 1-2 Nottingham Forest
 Sep/14 Sheffield Utd 0-4 Scunthorpe
 Sep/14 Swansea 2-1 Coventry
 
- Round 5
+ Matchday 5
 
 Sep/11 Burnley 4-3 Preston
 Sep/11 Cardiff 2-0 Hull City
@@ -647,7 +632,7 @@ Sep/11 Watford 2-2 Doncaster
 Sep/11 Derby 0-1 Sheffield Utd
 Sep/11 Coventry 1-1 Leicester
 
- Round 4
+ Matchday 4
 
 Aug/28 Leicester 1-2 Reading
 Aug/28 Barnsley 2-0 Middlesbrough
@@ -662,7 +647,7 @@ Aug/28 Sheffield Utd 1-0 Preston
 Aug/28 Swansea 1-0 Burnley
 Aug/28 Watford 0-1 Leeds
 
- Round 3
+ Matchday 3
 
 Aug/22 Middlesbrough 1-0 Sheffield Utd
 Aug/21 Bristol City 3-3 Barnsley
@@ -677,7 +662,7 @@ Aug/21 Reading 1-1 Nottingham Forest
 Aug/21 Leeds 3-1 Millwall
 Aug/21 Coventry 2-1 Derby
 
- Round 2
+ Matchday 2
 
 Aug/15 Nottingham Forest 1-1 Leeds
 Aug/14 Barnsley 1-0 Crystal Palace
@@ -692,7 +677,7 @@ Aug/14 Sheffield Utd 0-3 QPR
 Aug/14 Swansea 4-0 Preston
 Aug/14 Watford 2-2 Coventry
 
- Round 1
+ Matchday 1
 
 Aug/08 Cardiff 1-1 Sheffield Utd
 Aug/07 Leeds 1-2 Derby

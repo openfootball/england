@@ -1,16 +1,7 @@
+= English League One 2010/11
 
- Final
 
-May/29 Huddersfield 0-3 Peterborough
-
- Semi-finals
-
-May/19 Peterborough 2-0 Milton Keynes Dons
-May/18 Huddersfield 4-3 Bournemouth
-May/15 Milton Keynes Dons 3-2 Peterborough
-May/14 Bournemouth 1-1 Huddersfield
-
- Round 46
+ Matchday 46
 
 May/07 Bournemouth 1-2 Rochdale
 May/07 Carlisle 0-2 Yeovil
@@ -25,11 +16,11 @@ May/07 Sheffield Wed 1-2 Exeter
 May/07 Southampton 3-1 Walsall
 May/07 Tranmere 0-2 Swindon
 
- Round 39
+ Matchday 39
 
 May/02 Plymouth 1-3 Southampton
 
- Round 45
+ Matchday 45
 
 Apr/30 Brentford 0-3 Southampton
 Apr/30 Brighton 2-3 Huddersfield
@@ -44,7 +35,7 @@ Apr/30 Walsall 2-0 Charlton
 Apr/30 Yeovil 4-2 Colchester
 Apr/30 Exeter 1-0 Plymouth
 
- Round 44
+ Matchday 44
 
 Apr/25 Bournemouth 2-1 Bristol Rovers
 Apr/25 Carlisle 0-1 Leyton Orient
@@ -59,7 +50,7 @@ Apr/25 Southampton 2-0 Hartlepool
 Apr/25 Tranmere 4-0 Exeter
 Apr/25 Colchester 1-1 Brighton
 
- Round 43
+ Matchday 43
 
 Apr/23 Brighton 1-2 Southampton
 Apr/23 Bristol Rovers 2-2 Charlton
@@ -74,11 +65,11 @@ Apr/22 Hartlepool 1-1 Tranmere
 Apr/22 Leyton Orient 2-1 Peterborough
 Apr/22 Milton Keynes Dons 1-3 Huddersfield
 
- Round 31
+ Matchday 31
 
 Apr/19 Tranmere 0-1 Notts County
 
- Round 42
+ Matchday 42
 
 Apr/16 Carlisle 4-1 Colchester
 Apr/16 Charlton 0-1 Huddersfield
@@ -93,27 +84,27 @@ Apr/16 Walsall 1-3 Brighton
 Apr/16 Yeovil 1-1 Oldham
 Apr/16 Notts County 0-2 Bournemouth
 
- Round 29
+ Matchday 29
 
 Apr/12 Brighton 4-3 Dagenham & Red.
 
- Round 19
+ Matchday 19
 
 Apr/12 Leyton Orient 0-0 Carlisle
 
- Round 33
+ Matchday 33
 
 Apr/12 Rochdale 2-0 Southampton
 
- Round 40
+ Matchday 40
 
 Apr/12 Walsall 3-2 Brentford
 
- Round 33
+ Matchday 33
 
 Apr/12 Yeovil 2-1 Notts County
 
- Round 41
+ Matchday 41
 
 Apr/09 Bournemouth 1-2 Tranmere
 Apr/09 Brentford 0-1 Swindon
@@ -128,25 +119,25 @@ Apr/09 Milton Keynes Dons 3-2 Carlisle
 Apr/09 Oldham 0-0 Charlton
 Apr/09 Plymouth 2-0 Walsall
 
- Round 19
+ Matchday 19
 
 Apr/05 Bristol Rovers 1-0 Bournemouth
 
- Round 21
+ Matchday 21
 
 Apr/05 Dagenham & Red. 0-2 Peterborough
 Apr/05 Leyton Orient 2-0 Plymouth
 
- Round 22
+ Matchday 22
 
 Apr/05 Notts County 1-2 Rochdale
 
- Round 29
+ Matchday 29
 
 Apr/05 Sheffield Wed 4-0 Tranmere
 Apr/05 Southampton 2-0 Charlton
 
- Round 40
+ Matchday 40
 
 Apr/02 Charlton 3-1 Leyton Orient
 Apr/02 Exeter 2-1 Dagenham & Red.
@@ -159,24 +150,24 @@ Apr/02 Tranmere 0-2 Huddersfield
 Apr/02 Yeovil 0-1 Bristol Rovers
 Apr/01 Peterborough 3-3 Bournemouth
 
- Round 22
+ Matchday 22
 
 Mar/29 Dagenham & Red. 0-1 Brighton
 Mar/29 Exeter 1-0 Swindon
 
- Round 19
+ Matchday 19
 
 Mar/29 Rochdale 2-0 Charlton
 
- Round 33
+ Matchday 33
 
 Mar/29 Sheffield Wed 1-3 Brentford
 
- Round 21
+ Matchday 21
 
 Mar/29 Yeovil 1-0 Carlisle
 
- Round 39
+ Matchday 39
 
 Mar/28 Oldham 0-0 Tranmere
 Mar/27 Huddersfield 3-0 Notts County
@@ -190,23 +181,23 @@ Mar/25 Bristol Rovers 2-2 Peterborough
 Mar/25 Hartlepool 0-2 Rochdale
 Mar/25 Milton Keynes Dons 1-1 Walsall
 
- Round 21
+ Matchday 21
 
 Mar/22 Brighton 1-0 Notts County
 
- Round 22
+ Matchday 22
 
 Mar/22 Charlton 1-1 Southampton
 
- Round 23
+ Matchday 23
 
 Mar/22 Colchester 1-0 Oldham
 
- Round 33
+ Matchday 33
 
 Mar/22 Leyton Orient 1-1 Dagenham & Red.
 
- Round 38
+ Matchday 38
 
 Mar/21 Milton Keynes Dons 1-0 Peterborough
 Mar/19 Southampton 2-0 Sheffield Wed
@@ -221,27 +212,27 @@ Mar/19 Plymouth 0-1 Rochdale
 Mar/19 Tranmere 1-0 Colchester
 Mar/19 Walsall 5-2 Hartlepool
 
- Round 21
+ Matchday 21
 
 Mar/15 Brentford 0-1 Huddersfield
 
- Round 40
+ Matchday 40
 
 Mar/15 Carlisle 1-1 Plymouth
 
- Round 23
+ Matchday 23
 
 Mar/15 Hartlepool 0-1 Leyton Orient
 
- Round 29
+ Matchday 29
 
 Mar/15 Rochdale 1-0 Notts County
 
- Round 24
+ Matchday 24
 
 Mar/15 Sheffield Wed 1-4 Peterborough
 
- Round 37
+ Matchday 37
 
 Mar/12 Bournemouth 1-3 Southampton
 Mar/12 Brighton 2-0 Tranmere
@@ -256,7 +247,7 @@ Mar/12 Sheffield Wed 0-1 Notts County
 Mar/12 Swindon 1-1 Dagenham & Red.
 Mar/12 Yeovil 1-1 Walsall
 
- Round 36
+ Matchday 36
 
 Mar/08 Brentford 0-1 Brighton
 Mar/08 Carlisle 1-0 Hartlepool
@@ -271,7 +262,7 @@ Mar/08 Southampton 3-0 Yeovil
 Mar/08 Tranmere 0-1 Bristol Rovers
 Mar/08 Walsall 0-2 Leyton Orient
 
- Round 35
+ Matchday 35
 
 Mar/05 Bournemouth 3-0 Oldham
 Mar/05 Brighton 4-3 Carlisle
@@ -286,35 +277,35 @@ Mar/05 Sheffield Wed 2-4 Plymouth
 Mar/05 Swindon 0-0 Walsall
 Mar/05 Yeovil 1-1 Huddersfield
 
- Round 19
+ Matchday 19
 
 Mar/01 Brentford 1-1 Notts County
 
- Round 21
+ Matchday 21
 
 Mar/01 Bristol Rovers 0-1 Colchester
 
- Round 26
+ Matchday 26
 
 Mar/01 Charlton 1-3 Carlisle
 
- Round 19
+ Matchday 19
 
 Mar/01 Exeter 1-1 Tranmere
 
- Round 29
+ Matchday 29
 
 Mar/01 Hartlepool 0-1 Huddersfield
 
- Round 21
+ Matchday 21
 
 Mar/01 Walsall 1-0 Southampton
 
- Round 26
+ Matchday 26
 
 Mar/01 Yeovil 0-1 Brighton
 
- Round 34
+ Matchday 34
 
 Feb/26 Brentford 1-0 Bristol Rovers
 Feb/26 Carlisle 0-1 Sheffield Wed
@@ -329,36 +320,36 @@ Feb/26 Tranmere 0-1 Yeovil
 Feb/26 Walsall 0-0 Rochdale
 Feb/25 Notts County 1-0 Charlton
 
- Round 26
+ Matchday 26
 
 Feb/22 Bournemouth 0-0 Sheffield Wed
 
- Round 23
+ Matchday 23
 
 Feb/22 Brentford 2-1 Tranmere
 
- Round 33
+ Matchday 33
 
 Feb/22 Brighton 4-0 Plymouth
 
- Round 23
+ Matchday 23
 
 Feb/22 Carlisle 2-2 Exeter
 
- Round 19
+ Matchday 19
 
 Feb/22 Dagenham & Red. 1-1 Huddersfield
 Feb/22 Hartlepool 0-0 Southampton
 
- Round 21
+ Matchday 21
 
 Feb/22 Milton Keynes Dons 0-0 Oldham
 
- Round 22
+ Matchday 22
 
 Feb/22 Peterborough 1-1 Colchester
 
- Round 33
+ Matchday 33
 
 Feb/19 Bournemouth 1-1 Huddersfield
 Feb/19 Bristol Rovers 1-0 Oldham
@@ -368,32 +359,32 @@ Feb/19 Hartlepool 0-1 Milton Keynes Dons
 Feb/19 Peterborough 2-1 Tranmere
 Feb/19 Swindon 0-1 Carlisle
 
- Round 21
+ Matchday 21
 
 Feb/15 Hartlepool 2-1 Charlton
 
- Round 29
+ Matchday 29
 
 Feb/15 Milton Keynes Dons 2-3 Leyton Orient
 
- Round 26
+ Matchday 26
 
 Feb/15 Notts County 2-0 Colchester
 
- Round 22
+ Matchday 22
 
 Feb/15 Oldham 0-1 Carlisle
 Feb/15 Tranmere 3-0 Sheffield Wed
 
- Round 23
+ Matchday 23
 
 Feb/15 Walsall 1-0 Dagenham & Red.
 
- Round 19
+ Matchday 19
 
 Feb/15 Yeovil 0-2 Peterborough
 
- Round 32
+ Matchday 32
 
 Feb/12 Brighton 4-1 Hartlepool
 Feb/12 Charlton 3-2 Peterborough
@@ -408,15 +399,15 @@ Feb/12 Rochdale 2-1 Sheffield Wed
 Feb/12 Southampton 1-0 Carlisle
 Feb/12 Walsall 0-1 Bournemouth
 
- Round 26
+ Matchday 26
 
 Feb/08 Leyton Orient 3-0 Swindon
 
- Round 23
+ Matchday 23
 
 Feb/08 Rochdale 3-1 Bristol Rovers
 
- Round 31
+ Matchday 31
 
 Feb/05 Peterborough 4-4 Southampton
 Feb/05 Bournemouth 1-1 Leyton Orient
@@ -430,7 +421,7 @@ Feb/05 Sheffield Wed 2-2 Milton Keynes Dons
 Feb/05 Swindon 1-1 Rochdale
 Feb/05 Yeovil 0-1 Charlton
 
- Round 30
+ Matchday 30
 
 Feb/02 Bristol Rovers 1-2 Milton Keynes Dons
 Feb/02 Notts County 1-1 Walsall
@@ -445,7 +436,7 @@ Feb/01 Peterborough 5-3 Sheffield Wed
 Feb/01 Tranmere 1-1 Rochdale
 Feb/01 Yeovil 1-0 Plymouth
 
- Round 29
+ Matchday 29
 
 Jan/29 Brentford 1-2 Yeovil
 Jan/29 Carlisle 2-2 Oldham
@@ -454,31 +445,31 @@ Jan/29 Swindon 0-0 Exeter
 Jan/29 Walsall 6-1 Bristol Rovers
 Jan/28 Colchester 2-1 Peterborough
 
- Round 19
+ Matchday 19
 
 Jan/25 Brighton 2-0 Colchester
 
- Round 15
+ Matchday 15
 
 Jan/25 Hartlepool 1-1 Notts County
 
- Round 22
+ Matchday 22
 
 Jan/25 Leyton Orient 2-2 Milton Keynes Dons
 
- Round 23
+ Matchday 23
 
 Jan/25 Sheffield Wed 2-2 Yeovil
 
- Round 21
+ Matchday 21
 
 Jan/25 Swindon 0-0 Tranmere
 
- Round 19
+ Matchday 19
 
 Jan/25 Walsall 1-1 Oldham
 
- Round 28
+ Matchday 28
 
 Jan/22 Bournemouth 1-0 Brighton
 Jan/22 Bristol Rovers 3-1 Swindon
@@ -493,19 +484,19 @@ Jan/22 Peterborough 4-0 Hartlepool
 Jan/22 Tranmere 2-0 Southampton
 Jan/22 Yeovil 0-1 Rochdale
 
- Round 26
+ Matchday 26
 
 Jan/18 Bristol Rovers 0-0 Hartlepool
 
- Round 19
+ Matchday 19
 
 Jan/18 Milton Keynes Dons 1-3 Plymouth
 
- Round 21
+ Matchday 21
 
 Jan/18 Rochdale 0-0 Bournemouth
 
- Round 27
+ Matchday 27
 
 Jan/15 Brighton 3-1 Peterborough
 Jan/15 Carlisle 4-0 Bristol Rovers
@@ -520,38 +511,38 @@ Jan/15 Walsall 2-4 Huddersfield
 Jan/14 Brentford 1-1 Exeter
 Jan/14 Colchester 2-1 Bournemouth
 
- Round 22
+ Matchday 22
 
 Jan/11 Bristol Rovers 2-2 Walsall
 
- Round 26
+ Matchday 26
 
 Jan/11 Huddersfield 3-2 Plymouth
 Jan/11 Oldham 0-6 Southampton
 Jan/11 Peterborough 2-1 Brentford
 
- Round 22
+ Matchday 22
 
 Jan/08 Bournemouth 3-0 Plymouth
 
- Round 26
+ Matchday 26
 
 Jan/08 Dagenham & Red. 0-1 Rochdale
 Jan/08 Exeter 1-1 Milton Keynes Dons
 
- Round 20
+ Matchday 20
 
 Jan/08 Oldham 2-0 Swindon
 
- Round 26
+ Matchday 26
 
 Jan/08 Tranmere 3-3 Walsall
 
- Round 22
+ Matchday 22
 
 Jan/08 Yeovil 2-0 Brentford
 
- Round 25
+ Matchday 25
 
 Jan/04 Bristol Rovers 2-3 Plymouth
 Jan/03 Charlton 2-4 Swindon
@@ -566,7 +557,7 @@ Jan/03 Tranmere 2-1 Carlisle
 Jan/03 Yeovil 1-0 Milton Keynes Dons
 Jan/03 Huddersfield 1-0 Sheffield Wed
 
- Round 24
+ Matchday 24
 
 Jan/01 Brentford 2-1 Dagenham & Red.
 Jan/01 Carlisle 2-2 Huddersfield
@@ -580,7 +571,7 @@ Jan/01 Swindon 1-2 Bournemouth
 Jan/01 Walsall 0-3 Notts County
 Jan/01 Brighton 5-0 Leyton Orient
 
- Round 23
+ Matchday 23
 
 Dec/29 Brighton 1-1 Charlton
 Dec/28 Milton Keynes Dons 2-0 Bournemouth
@@ -588,15 +579,15 @@ Dec/28 Plymouth 1-1 Notts County
 Dec/28 Southampton 4-1 Huddersfield
 Dec/28 Swindon 1-1 Peterborough
 
- Round 22
+ Matchday 22
 
 Dec/26 Huddersfield 0-1 Hartlepool
 
- Round 21
+ Matchday 21
 
 Dec/18 Exeter 5-1 Sheffield Wed
 
- Round 20
+ Matchday 20
 
 Dec/12 Charlton 0-1 Walsall
 Dec/11 Bournemouth 0-1 Hartlepool
@@ -610,15 +601,15 @@ Dec/11 Southampton 0-2 Brentford
 Dec/11 Tranmere 1-2 Leyton Orient
 Dec/10 Peterborough 2-1 Rochdale
 
- Round 19
+ Matchday 19
 
 Dec/04 Swindon 2-1 Sheffield Wed
 
- Round 15
+ Matchday 15
 
 Nov/27 Rochdale 1-1 Oldham
 
- Round 18
+ Matchday 18
 
 Nov/23 Bournemouth 2-0 Yeovil
 Nov/23 Carlisle 1-1 Rochdale
@@ -633,7 +624,7 @@ Nov/23 Sheffield Wed 3-0 Walsall
 Nov/23 Southampton 0-0 Brighton
 Nov/23 Tranmere 0-1 Hartlepool
 
- Round 17
+ Matchday 17
 
 Nov/20 Brighton 2-2 Bristol Rovers
 Nov/20 Charlton 3-2 Yeovil
@@ -648,7 +639,7 @@ Nov/20 Rochdale 3-3 Swindon
 Nov/20 Southampton 4-1 Peterborough
 Nov/20 Walsall 2-1 Carlisle
 
- Round 16
+ Matchday 16
 
 Nov/13 Bournemouth 3-0 Walsall
 Nov/13 Brentford 0-2 Milton Keynes Dons
@@ -663,7 +654,7 @@ Nov/13 Swindon 2-1 Colchester
 Nov/13 Tranmere 1-0 Plymouth
 Nov/13 Yeovil 1-3 Dagenham & Red.
 
- Round 15
+ Matchday 15
 
 Nov/02 Brentford 1-1 Bournemouth
 Nov/02 Brighton 3-0 Exeter
@@ -676,7 +667,7 @@ Nov/02 Southampton 4-0 Dagenham & Red.
 Nov/02 Swindon 0-3 Charlton
 Nov/02 Walsall 1-3 Peterborough
 
- Round 14
+ Matchday 14
 
 Oct/30 Bournemouth 1-2 Colchester
 Oct/30 Bristol Rovers 1-1 Carlisle
@@ -691,7 +682,7 @@ Oct/30 Peterborough 0-3 Brighton
 Oct/30 Tranmere 4-2 Milton Keynes Dons
 Oct/30 Yeovil 3-3 Swindon
 
- Round 13
+ Matchday 13
 
 Oct/23 Brentford 2-1 Peterborough
 Oct/23 Brighton 2-0 Yeovil
@@ -706,7 +697,7 @@ Oct/23 Southampton 2-1 Oldham
 Oct/23 Swindon 2-2 Leyton Orient
 Oct/23 Walsall 1-4 Tranmere
 
- Round 12
+ Matchday 12
 
 Oct/16 Bournemouth 3-2 Milton Keynes Dons
 Oct/16 Bristol Rovers 2-1 Rochdale
@@ -721,7 +712,7 @@ Oct/16 Peterborough 5-4 Swindon
 Oct/16 Tranmere 0-3 Brentford
 Oct/16 Yeovil 0-2 Sheffield Wed
 
- Round 11
+ Matchday 11
 
 Oct/11 Swindon 2-1 Bristol Rovers
 Oct/09 Brentford 1-3 Oldham
@@ -736,7 +727,7 @@ Oct/09 Southampton 2-0 Tranmere
 Oct/09 Walsall 2-1 Exeter
 Oct/09 Brighton 1-1 Bournemouth
 
- Round 10
+ Matchday 10
 
 Oct/02 Brentford 2-1 Charlton
 Oct/02 Carlisle 0-1 Peterborough
@@ -751,7 +742,7 @@ Oct/02 Southampton 2-0 Bournemouth
 Oct/02 Tranmere 1-1 Brighton
 Oct/02 Walsall 0-1 Yeovil
 
- Round 9
+ Matchday 9
 
 Sep/28 Bournemouth 3-0 Exeter
 Sep/28 Brighton 1-0 Brentford
@@ -766,7 +757,7 @@ Sep/28 Sheffield Wed 0-0 Oldham
 Sep/28 Swindon 2-3 Plymouth
 Sep/28 Yeovil 1-1 Southampton
 
- Round 8
+ Matchday 8
 
 Sep/25 Bournemouth 2-0 Carlisle
 Sep/25 Brighton 2-1 Oldham
@@ -781,15 +772,15 @@ Sep/25 Swindon 1-0 Huddersfield
 Sep/25 Yeovil 1-3 Exeter
 Sep/24 Leyton Orient 1-0 Brentford
 
- Round 2
+ Matchday 2
 
 Sep/21 Dagenham & Red. 1-1 Exeter
 
- Round 5
+ Matchday 5
 
 Sep/21 Plymouth 0-2 Brighton
 
- Round 7
+ Matchday 7
 
 Sep/18 Brentford 0-0 Hartlepool
 Sep/18 Carlisle 0-0 Brighton
@@ -804,11 +795,11 @@ Sep/18 Southampton 0-0 Colchester
 Sep/18 Tranmere 1-1 Charlton
 Sep/18 Walsall 1-2 Swindon
 
- Round 2
+ Matchday 2
 
 Sep/15 Milton Keynes Dons 2-0 Southampton
 
- Round 6
+ Matchday 6
 
 Sep/11 Bournemouth 3-0 Dagenham & Red.
 Sep/11 Brighton 2-0 Milton Keynes Dons
@@ -823,7 +814,7 @@ Sep/11 Sheffield Wed 0-1 Carlisle
 Sep/11 Swindon 1-0 Southampton
 Sep/11 Yeovil 3-1 Tranmere
 
- Round 5
+ Matchday 5
 
 Sep/05 Brentford 1-0 Sheffield Wed
 Sep/04 Carlisle 0-0 Swindon
@@ -837,7 +828,7 @@ Sep/04 Tranmere 1-0 Peterborough
 Sep/04 Walsall 0-1 Colchester
 Sep/04 Milton Keynes Dons 1-0 Hartlepool
 
- Round 4
+ Matchday 4
 
 Aug/28 Bournemouth 3-3 Notts County
 Aug/28 Brentford 1-3 Rochdale
@@ -852,7 +843,7 @@ Aug/28 Oldham 0-0 Yeovil
 Aug/28 Plymouth 0-3 Peterborough
 Aug/27 Colchester 1-1 Carlisle
 
- Round 3
+ Matchday 3
 
 Aug/21 Carlisle 4-1 Milton Keynes Dons
 Aug/21 Charlton 1-1 Oldham
@@ -867,7 +858,7 @@ Aug/21 Tranmere 0-3 Bournemouth
 Aug/21 Walsall 2-1 Plymouth
 Aug/21 Yeovil 0-2 Hartlepool
 
- Round 2
+ Matchday 2
 
 Aug/14 Bournemouth 5-1 Peterborough
 Aug/14 Brentford 1-2 Walsall
@@ -880,7 +871,7 @@ Aug/14 Oldham 3-0 Notts County
 Aug/14 Plymouth 1-1 Carlisle
 Aug/13 Leyton Orient 1-3 Charlton
 
- Round 1
+ Matchday 1
 
 Aug/07 Carlisle 2-0 Brentford
 Aug/07 Charlton 1-0 Bournemouth

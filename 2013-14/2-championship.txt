@@ -1,22 +1,10 @@
 ## todo/fix: use reverse order and "new" standard format
 
-= English Championship 2013/14, Play-offs
-
- Final
-
-May/24 Derby 0-1 QPR
-
- Semi-finals
-
-May/12 QPR 2-1 Wigan
-May/11 Derby 4-1 Brighton
-May/09 Wigan 0-0 QPR
-May/08 Brighton 1-2 Derby
 
 
 = English Championship 2013/14
 
- Round 46
+ Matchday 46
 
 May/03 Barnsley 2-3 QPR
 May/03 Blackburn 4-3 Wigan
@@ -33,7 +21,7 @@ May/03 Yeovil 1-4 Middlesbrough
 Apr/29 Birmingham 0-1 Wigan
 Apr/29 Charlton 3-1 Watford
 
- Round 45
+ Matchday 45
 
 Apr/26 Birmingham 1-3 Leeds
 Apr/26 Bournemouth 4-1 Nottingham Forest
@@ -48,7 +36,7 @@ Apr/26 Wigan 0-2 Blackpool
 Apr/26 Burnley 1-0 Ipswich
 Apr/25 Brighton 2-0 Yeovil
 
- Round 44
+ Matchday 44
 
 Apr/22 Bolton 0-1 Leicester
 Apr/22 Reading 2-0 Middlesbrough
@@ -63,7 +51,7 @@ Apr/21 QPR 2-1 Watford
 Apr/21 Sheffield Wed 2-3 Charlton
 Apr/21 Yeovil 1-2 Huddersfield
 
- Round 43
+ Matchday 43
 
 Apr/19 Barnsley 0-1 Leeds
 Apr/19 Middlesbrough 1-2 Millwall
@@ -79,7 +67,7 @@ Apr/18 Huddersfield 1-1 Brighton
 Apr/18 Wigan 3-0 Reading
 Apr/15 Charlton 1-2 Barnsley
 
- Round 42
+ Matchday 42
 
 Apr/14 Reading 1-1 Leicester
 Apr/12 Bolton 1-0 Barnsley
@@ -93,7 +81,7 @@ Apr/12 Sheffield Wed 3-3 Blackburn
 Apr/12 Yeovil 1-1 Bournemouth
 Apr/12 QPR 5-2 Nottingham Forest
 
- Round 41
+ Matchday 41
 
 Apr/08 Blackpool 1-3 Derby
 Apr/08 Barnsley 0-1 Burnley
@@ -108,7 +96,7 @@ Apr/08 Nottingham Forest 3-3 Sheffield Wed
 Apr/08 Watford 3-0 Leeds
 Apr/08 Wigan 0-1 Millwall
 
- Round 40
+ Matchday 40
 
 Apr/05 Barnsley 0-0 Brighton
 Apr/05 Blackburn 2-0 Ipswich
@@ -126,7 +114,7 @@ Apr/01 Blackburn 3-3 Brighton
 Apr/01 Leeds 0-1 Charlton
 Apr/01 Wigan 2-2 Leicester
 
- Round 39
+ Matchday 39
 
 Mar/29 Birmingham 2-4 Bournemouth
 Mar/29 Bolton 1-1 Wigan
@@ -141,7 +129,7 @@ Mar/29 Sheffield Wed 1-4 Watford
 Mar/29 Yeovil 1-4 Barnsley
 Mar/29 Burnley 0-2 Leicester
 
- Round 38
+ Matchday 38
 
 Mar/25 Bolton 1-0 Blackpool
 Mar/25 Reading 1-3 Barnsley
@@ -156,7 +144,7 @@ Mar/25 QPR 1-0 Wigan
 Mar/25 Sheffield Wed 1-0 Brighton
 Mar/25 Watford 3-3 Blackburn
 
- Round 37
+ Matchday 37
 
 Mar/22 Barnsley 0-1 Bournemouth
 Mar/22 Birmingham 1-2 Reading
@@ -174,7 +162,7 @@ Mar/18 Charlton 1-0 Bournemouth
 Mar/18 Sheffield Wed 3-0 QPR
 Mar/18 Wigan 3-3 Yeovil
 
- Round 36
+ Matchday 36
 
 Mar/15 Bolton 0-2 Brighton
 Mar/15 Bournemouth 0-0 Middlesbrough
@@ -189,7 +177,7 @@ Mar/15 Reading 0-0 Derby
 Mar/15 Sheffield Wed 4-1 Birmingham
 Mar/15 Watford 3-0 Barnsley
 
- Round 35
+ Matchday 35
 
 Mar/12 Birmingham 3-3 Burnley
 Mar/12 Blackburn 0-1 Bournemouth
@@ -204,7 +192,7 @@ Mar/11 Doncaster 2-1 Watford
 Mar/11 Middlesbrough 1-1 Nottingham Forest
 Mar/11 Yeovil 0-1 Ipswich
 
- Round 34
+ Matchday 34
 
 Mar/09 Blackburn 1-2 Burnley
 Mar/08 Barnsley 1-0 Nottingham Forest
@@ -217,7 +205,7 @@ Mar/08 Leeds 1-5 Bolton
 Mar/08 Middlesbrough 2-0 Ipswich
 Mar/08 Yeovil 2-0 Sheffield Wed
 
- Round 33
+ Matchday 33
 
 Mar/01 Bolton 4-0 Blackburn
 Mar/01 Bournemouth 5-0 Doncaster
@@ -232,7 +220,7 @@ Mar/01 Sheffield Wed 1-0 Middlesbrough
 Mar/01 Watford 4-0 Blackpool
 Mar/01 QPR 1-1 Leeds
 
- Round 32
+ Matchday 32
 
 Feb/22 Barnsley 1-0 Millwall
 Feb/22 Blackpool 1-2 Birmingham
@@ -251,7 +239,7 @@ Feb/18 Sheffield Wed 0-1 Derby
 Feb/18 Wigan 2-0 Barnsley
 Feb/18 Yeovil 0-0 Watford
 
- Round 31
+ Matchday 31
 
 Feb/16 QPR 1-3 Reading
 Feb/15 Birmingham 1-2 Huddersfield
@@ -267,7 +255,7 @@ Feb/11 Sheffield Wed 0-3 Wigan
 Feb/11 Watford 1-0 Birmingham
 Feb/11 Yeovil 1-1 Millwall
 
- Round 30
+ Matchday 30
 
 Feb/10 Derby 1-0 QPR
 Feb/08 Barnsley 2-2 Ipswich
@@ -282,7 +270,7 @@ Feb/08 Middlesbrough 0-0 Blackburn
 Feb/08 Reading 0-2 Sheffield Wed
 Feb/08 Yeovil 1-2 Leeds
 
- Round 29
+ Matchday 29
 
 Feb/02 Nottingham Forest 3-1 Yeovil
 Feb/02 Watford 2-0 Brighton
@@ -297,7 +285,7 @@ Feb/01 Sheffield Wed 1-0 Barnsley
 Feb/01 Wigan 2-1 Charlton
 Feb/01 QPR 3-3 Burnley
 
- Round 28
+ Matchday 28
 
 Jan/30 Nottingham Forest 4-2 Watford
 Jan/28 Reading 5-1 Blackpool
@@ -312,14 +300,14 @@ Jan/28 Middlesbrough 0-0 Wigan
 Jan/28 Millwall 1-1 Sheffield Wed
 Jan/28 QPR 2-1 Bolton
 
- Round 27
+ Matchday 27
 
 Jan/25 Blackburn 1-1 Derby
 Jan/25 Blackpool 1-1 Doncaster
 Jan/25 Ipswich 2-0 Reading
 Jan/25 Leicester 2-0 Middlesbrough
 
- Round 26
+ Matchday 26
 
 Jan/18 Barnsley 2-0 Blackpool
 Jan/18 Birmingham 0-2 Yeovil
@@ -334,7 +322,7 @@ Jan/18 QPR 2-1 Huddersfield
 Jan/18 Reading 7-1 Bolton
 Jan/18 Leeds 0-1 Leicester
 
- Round 25
+ Matchday 25
 
 Jan/11 Blackburn 1-0 Doncaster
 Jan/11 Blackpool 0-2 Middlesbrough
@@ -348,7 +336,7 @@ Jan/11 Yeovil 1-2 Burnley
 Jan/11 Sheffield Wed 6-0 Leeds
 Jan/10 Leicester 4-1 Derby
 
- Round 24
+ Matchday 24
 
 Jan/01 Birmingham 1-1 Barnsley
 Jan/01 Bolton 2-2 Middlesbrough
@@ -362,7 +350,7 @@ Jan/01 QPR 2-1 Doncaster
 Jan/01 Reading 1-1 Nottingham Forest
 Jan/01 Sheffield Wed 2-0 Blackpool
 
- Round 23
+ Matchday 23
 
 Dec/29 Barnsley 1-2 Derby
 Dec/29 Blackburn 2-3 Birmingham
@@ -377,7 +365,7 @@ Dec/29 Nottingham Forest 2-1 Leeds
 Dec/29 Watford 0-0 QPR
 Dec/29 Wigan 0-0 Burnley
 
- Round 22
+ Matchday 22
 
 Dec/26 Nottingham Forest 2-0 QPR
 Dec/26 Blackpool 1-1 Leeds
@@ -392,7 +380,7 @@ Dec/26 Wigan 0-0 Birmingham
 Dec/26 Watford 4-0 Millwall
 Dec/26 Charlton 3-2 Brighton
 
- Round 21
+ Matchday 21
 
 Dec/21 Millwall 0-2 Middlesbrough
 Dec/21 Birmingham 0-0 Nottingham Forest
@@ -407,7 +395,7 @@ Dec/21 Sheffield Wed 1-2 Bournemouth
 Dec/21 Yeovil 0-1 Blackburn
 Dec/21 QPR 0-1 Leicester
 
- Round 20
+ Matchday 20
 
 Dec/15 Wigan 3-2 Bolton
 Dec/14 Barnsley 1-1 Yeovil
@@ -422,7 +410,7 @@ Dec/14 Nottingham Forest 0-0 Ipswich
 Dec/14 Watford 0-1 Sheffield Wed
 Dec/14 Leicester 1-1 Burnley
 
- Round 19
+ Matchday 19
 
 Dec/07 Birmingham 2-2 Middlesbrough
 Dec/07 Bolton 3-0 Doncaster
@@ -437,7 +425,7 @@ Dec/07 Sheffield Wed 0-1 Nottingham Forest
 Dec/07 Yeovil 2-2 Charlton
 Dec/07 Derby 5-1 Blackpool
 
- Round 18
+ Matchday 18
 
 Dec/04 Derby 2-1 Middlesbrough
 Dec/04 Leeds 2-0 Wigan
@@ -452,7 +440,7 @@ Dec/03 QPR 3-0 Bournemouth
 Dec/03 Sheffield Wed 2-1 Leicester
 Dec/03 Yeovil 1-0 Blackpool
 
- Round 17
+ Matchday 17
 
 Dec/01 Wigan 1-3 Derby
 Nov/30 Barnsley 0-3 Birmingham
@@ -468,7 +456,7 @@ Nov/30 Bournemouth 1-1 Brighton
 Nov/29 Nottingham Forest 2-3 Reading
 Nov/26 Charlton 2-0 Doncaster
 
- Round 16
+ Matchday 16
 
 Nov/23 Birmingham 1-1 Blackpool
 Nov/23 Blackburn 0-0 Reading
@@ -483,7 +471,7 @@ Nov/23 Wigan 0-1 Brighton
 Nov/23 Sheffield Wed 1-2 Huddersfield
 Nov/22 Doncaster 2-1 Yeovil
 
- Round 15
+ Matchday 15
 
 Nov/10 Yeovil 0-1 Wigan
 Nov/09 Barnsley 0-0 Doncaster
@@ -498,7 +486,7 @@ Nov/09 Leicester 0-2 Nottingham Forest
 Nov/09 Middlesbrough 2-2 Watford
 Nov/09 Reading 1-1 QPR
 
- Round 14
+ Matchday 14
 
 Nov/02 Birmingham 0-1 Charlton
 Nov/02 Blackburn 1-0 Middlesbrough
@@ -514,7 +502,7 @@ Nov/02 Watford 0-3 Leicester
 Nov/01 Ipswich 1-1 Barnsley
 Oct/30 Wigan 0-0 QPR
 
- Round 13
+ Matchday 13
 
 Oct/28 Brighton 1-1 Watford
 Oct/27 Charlton 0-0 Wigan
@@ -529,7 +517,7 @@ Oct/26 Huddersfield 3-2 Leeds
 Oct/26 Barnsley 1-1 Sheffield Wed
 Oct/25 Middlesbrough 4-0 Doncaster
 
- Round 12
+ Matchday 12
 
 Oct/20 Leeds 4-0 Birmingham
 Oct/19 Barnsley 3-2 Middlesbrough
@@ -544,7 +532,7 @@ Oct/19 Watford 2-3 Derby
 Oct/19 Yeovil 0-0 Brighton
 Oct/19 Blackpool 1-0 Wigan
 
- Round 11
+ Matchday 11
 
 Oct/06 Wigan 2-1 Blackburn
 Oct/05 Brighton 1-3 Nottingham Forest
@@ -559,7 +547,7 @@ Oct/05 QPR 2-0 Barnsley
 Oct/05 Sheffield Wed 1-1 Ipswich
 Oct/05 Birmingham 1-2 Bolton
 
- Round 10
+ Matchday 10
 
 Oct/01 Blackpool 0-0 Bolton
 Oct/01 Barnsley 1-1 Reading
@@ -573,7 +561,7 @@ Oct/01 Leeds 2-1 Bournemouth
 Oct/01 Middlesbrough 1-1 Huddersfield
 Oct/01 Yeovil 1-2 Leicester
 
- Round 9
+ Matchday 9
 
 Sep/28 Bolton 1-1 Yeovil
 Sep/28 Bournemouth 1-3 Blackburn
@@ -588,7 +576,7 @@ Sep/28 Watford 1-0 Wigan
 Sep/28 Nottingham Forest 1-0 Derby
 Sep/27 Huddersfield 1-1 Blackpool
 
- Round 8
+ Matchday 8
 
 Sep/22 Wigan 2-0 Ipswich
 Sep/21 Barnsley 1-5 Watford
@@ -603,7 +591,7 @@ Sep/21 Middlesbrough 3-3 Bournemouth
 Sep/21 Yeovil 0-1 QPR
 Sep/21 Charlton 0-1 Millwall
 
- Round 7
+ Matchday 7
 
 Sep/18 Reading 1-0 Leeds
 Sep/18 QPR 0-0 Brighton
@@ -617,7 +605,7 @@ Sep/17 Millwall 3-1 Blackpool
 Sep/17 Nottingham Forest 2-2 Middlesbrough
 Sep/17 Watford 2-1 Doncaster
 
- Round 6
+ Matchday 6
 
 Sep/15 Reading 0-0 Brighton
 Sep/14 Bolton 0-1 Leeds
@@ -632,7 +620,7 @@ Sep/14 Sheffield Wed 1-1 Yeovil
 Sep/14 Watford 1-1 Charlton
 Sep/14 Burnley 1-1 Blackburn
 
- Round 5
+ Matchday 5
 
 Aug/31 Barnsley 2-1 Huddersfield
 Aug/31 Birmingham 1-1 Ipswich
@@ -647,7 +635,7 @@ Aug/31 Wigan 2-1 Nottingham Forest
 Aug/31 Yeovil 0-1 Reading
 Aug/31 Leeds 0-1 QPR
 
- Round 4
+ Matchday 4
 
 Aug/25 Wigan 2-2 Middlesbrough
 Aug/25 Watford 1-1 Nottingham Forest
@@ -662,7 +650,7 @@ Aug/24 Yeovil 0-3 Derby
 Aug/24 Bolton 0-1 QPR
 Aug/20 Wigan 2-2 Doncaster
 
- Round 3
+ Matchday 3
 
 Aug/17 Barnsley 2-2 Charlton
 Aug/17 Birmingham 0-1 Brighton
@@ -677,7 +665,7 @@ Aug/17 Reading 3-3 Watford
 Aug/17 Leeds 1-1 Sheffield Wed
 Aug/16 Doncaster 2-0 Blackburn
 
- Round 2
+ Matchday 2
 
 Aug/11 Leicester 0-0 Leeds
 Aug/10 Blackburn 0-1 Nottingham Forest
@@ -691,7 +679,7 @@ Aug/10 Sheffield Wed 1-2 Burnley
 Aug/10 Watford 6-1 Bournemouth
 Aug/10 Yeovil 0-1 Birmingham
 
- Round 1
+ Matchday 1
 
 Aug/04 Derby 1-1 Blackburn
 Aug/03 Barnsley 0-4 Wigan

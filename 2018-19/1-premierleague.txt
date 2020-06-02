@@ -470,7 +470,7 @@ Matchday 31
   Burnley FC              1-2 Leicester City
   AFC Bournemouth         2-2 Newcastle United
   Watford FC              1-1 Southampton FC
-##  Manchester United       0-2 Manchester City     ## note - match got rescheduled - delete? see reschudeled match later in file
+##  Manchester United     - Manchester City     ## note - match got rescheduled - delete? see reschudeled match later in file
 [Sun Mar/17]
   Everton FC              2-0 Chelsea FC
   Tottenham Hotspur       2-0 Crystal Palace
@@ -536,7 +536,7 @@ Matchday 35
 
 
 
-Matchday 31     ## in addition Matchday 31 - rescheduled
+Postponed Matchday 31
 [Wed Apr/24]
   Manchester United       0-2 Manchester City
 
@@ -557,17 +557,6 @@ Matchday 36
   Manchester United       1-1 Chelsea FC
 
 
-# 3 Absteiger Premier League 2018/19:
-# Huddersfield Town
-# Fulham FC
-# Cardiff City or Brighton & Hove Albion
-
-# 3 Aufsteiger to Premier League 2019/20:
-#  Norwich City
-#  Sheffield United
-#  Either Leeds United, West Bromwich Albion, Aston Villa or Derby County, Middlesbrough FC, Bristol City.
-
-
 Matchday 37
 [Fri May/3]
   Everton FC              2-0 Burnley FC
@@ -585,11 +574,6 @@ Matchday 37
   Manchester City         1-0 Leicester City
 
 
-# 3. Absteiger Premier League 2018/19:
-#  Cardiff City
-
-
-
 Matchday 38
 [Sun May/12]
   Brighton & Hove Albion  1-4 Manchester City
@@ -603,33 +587,3 @@ Matchday 38
   Tottenham Hotspur       2-2 Everton FC
   Watford FC              1-4 West Ham United
 
-
-# Meister Premier League 2018/19:
-#  Manchester City
-
-
-__END__
-# todo: add relegation playoff !!!
-
-
-# 3. Aufsteiger to Premier League 2019/20:
-# Halbfinale:
-[Sat May/11]
-  Aston Villa             2-1 West Bromwich Albions
-  Derby County            0-1 Leeds United
-[Tue May/14]
-  West Bromwich Albions   1-0 Aston Villa   3-4 after penalty
-[Wed May/15]
-  Leeds United            2-4 Derby County
-
-# Finale:
-[Mon May/27]
-  Derby Country           1-2 Aston Villa
-
-# Play-off Winner to Premier League 2019/20:
-#  Aston Villa
-
-
-# Finish Premier League 2018/19
-
-# 9.8. Start Premier League 2019/20

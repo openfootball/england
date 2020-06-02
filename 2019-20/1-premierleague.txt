@@ -172,7 +172,7 @@ Matchday 11
 [Sun Nov/3]
   Crystal Palace          0-2 Leicester City
   FC Everton              1-1 Tottenham Hotspur
-  
+
 
 Matchday 12
 [Fri Nov/8]
@@ -188,8 +188,8 @@ Matchday 12
   FC Liverpool            3-1 Manchester City
   Manchester United       3-1 Brighton & Hove Albion
   Wolverhampton Wanderers 2-1 Aston Villa
-  
-  
+
+
 Matchday 13
 [Sat Nov/23]
   FC Arsenal              2-2 FC Southampton
@@ -204,8 +204,8 @@ Matchday 13
   Sheffield United        3-3 Manchester United
 [Mon Nov/25]
   Aston Villa             2-0 Newcastle United
-  
-  
+
+
 Matchday 14
 [Sat Nov/30]
   FC Chelsea              0-1 West Ham United
@@ -219,8 +219,8 @@ Matchday 14
   Norwich City            2-2 FC Arsenal
   Leicester City          2-1 FC Everton
   Manchester United       2-2 Aston Villa
-  
-  
+
+
 Matchday 15
 [Tue Dec/3]
   Crystal Palace          1-0 AFC Bournemouth
@@ -235,8 +235,8 @@ Matchday 15
 [Thu Dec/5]
   FC Arsenal              1-2 Brighton & Hove Albion
   Sheffield United        0-2 Newcastle United
- 
- 
+
+
 Matchday 16
 [Sat Dec/7]
   FC Everton              3-1 FC Chelsea
@@ -261,20 +261,20 @@ Matchday 17
   Sheffield United        2-0 Aston Villa
   FC Burnley              1-0 Newcastle United
   FC Southampton          0-1 West Ham United
-[Sun Dec/15] 
+[Sun Dec/15]
   FC Arsenal              0-3 Manchester City
   Manchester United       1-1 FC Everton
   Wolverhampton Wanderers 1-2 Tottenham Hotspur
 [Mon Dec/16]
   Crystal Palace          1-1 Brighton & Hove Albion
- 
-   
+
+
 Matchday 18
 [Sat Dec/21]
   Aston Villa             1-3 FC Southampton
   FC Everton              0-0 FC Arsenal
   Newcastle United        1-0 Crystal Palace
-  West Ham United         0-2 FC Liverpool                 
+  ## West Ham United       - FC Liverpool    ## see postponed matchday
   Manchester City         3-1 Leicester City
   Norwich City            1-2 Wolverhampton Wanderers
   AFC Bournemouth         0-1 FC Burnley
@@ -282,8 +282,8 @@ Matchday 18
 [Sun Dec/22]
   FC Watford              2-0 Manchester United
   Tottenham Hotspur       0-2 FC Chelsea
-  
-  
+
+
 Matchday 19
 [Thu Dec/26]
   Aston Villa             1-0 Norwich City
@@ -297,7 +297,7 @@ Matchday 19
   AFC Bournemouth         1-1 FC Arsenal
 [Fri Dec/27]
   Wolverhampton Wanderers 3-2 Manchester City
-  
+
 
 Matchday 20
 [Sat Dec/28]
@@ -312,8 +312,8 @@ Matchday 20
   FC Arsenal              1-2 FC Chelsea
   FC Liverpool            1-0 Wolverhampton Wanderers
   Manchester City         2-0 Sheffield United
-  
-  
+
+
 Matchday 21
 [Wed Jan/1]
   FC Arsenal              2-0 Manchester United
@@ -340,7 +340,7 @@ Matchday 22
   Manchester United       4-0 Norwich City
   Tottenham Hotspur       0-1 FC Liverpool
   Wolverhampton Wanderers 1-1 Newcastle United
-[Sun Jan/12]  
+[Sun Jan/12]
   AFC Bournemouth         0-3 FC Watford
   Aston Villa             1-6 Manchester City
 
@@ -355,7 +355,7 @@ Matchday 23
   Manchester City         2-2 Crystal Palace
   FC Watford              0-0 Tottenham Hotspur
   Norwich City            1-0 AFC Bournemouth
-[Sun Jan/19]  
+[Sun Jan/19]
   FC Burnley              2-1 Leicester City
   FC Liverpool            2-0 Manchester United
 
@@ -374,9 +374,9 @@ Matchday 24
   Tottenham Hotspur       2-1 Norwich City
 [Thu Jan/23]
   Wolverhampton Wanderers 1-2 FC Liverpool
-  
-  
-## Matchday 18 
+
+
+Postponed Matchday 18
 [Wed Jan/29]
  West Ham United          0-2 FC Liverpool
 
@@ -394,11 +394,11 @@ Matchday 25
 [Sun Feb/2]
   FC Burnley              0-0 FC Arsenal
   Tottenham Hotspur       2-0 Manchester City
-  
-  
-## winterbreak 
-  
-  
+
+
+# winter break
+
+
 Matchday 26
 [Sat Feb/8]
   FC Everton              3-1 Crystal Palace
@@ -410,7 +410,7 @@ Matchday 26
 [Sat Feb/15]
   FC Southampton          1-2 FC Burnley
   Norwich City            0-1 FC Liverpool
-[Sun Feb/16] 
+[Sun Feb/16]
   FC Arsenal              4-0 Newcastle United
   Aston Villa             2-3 Tottenham Hotspur
 [Mon Feb/17]
@@ -433,13 +433,13 @@ Matchday 27
   FC Arsenal              3-2 FC Everton
 [Mon Feb/24]
   FC Liverpool            3-2 West Ham United
-  
-  
+
+
 Matchday 28
 [Fri Feb/28]
   Norwich City            1-0 Leicester City
 [Sat Feb/29]
-  Aston Villa             - Sheffield United                # Termin verschoben
+  Aston Villa             - Sheffield United                # postponed
   Newcastle United        0-0 FC Burnley
   West Ham United         3-1 FC Southampton
   FC Watford              3-0 FC Liverpool
@@ -447,9 +447,9 @@ Matchday 28
   Brighton & Hove Albion  0-1 Crystal Palace
 [Sun Mar/1]
   FC Everton              1-1 Manchester United
-  Manchester City         - FC Arsenal                       # Termin verschoben
+  Manchester City         - FC Arsenal                       # postponed
   Tottenham Hotspur       2-3 Wolverhampton Wanderers
- 
+
 
 Matchday 29
 [Sat Mar/7]
@@ -469,34 +469,34 @@ Matchday 29
 
 Matchday 30
 [Sat Mar/14]
-  Aston Villa             - FC Chelsea                      # Termin verschoben
-  Newcastle United        - Sheffield United                # Termin verschoben
-  Manchester City         - FC Burnley                      # Termin verschoben
-  FC Watford              - Leicester City                  # Termin verschoben
-  Norwich City            - FC Southampton                  # Termin verschoben
-  AFC Bournemouth         - Crystal Palace                  # Termin verschoben
-  Brighton & Hove Albion  - FC Arsenal                      # Termin verschoben
+  Aston Villa             - FC Chelsea
+  Newcastle United        - Sheffield United
+  Manchester City         - FC Burnley
+  FC Watford              - Leicester City
+  Norwich City            - FC Southampton
+  AFC Bournemouth         - Crystal Palace
+  Brighton & Hove Albion  - FC Arsenal
 [Sun Mar/15]
-  Tottenham Hotspur       - Manchester United               # Termin verschoben
-  West Ham United         - Wolverhampton Wanderers         # Termin verschoben
+  Tottenham Hotspur       - Manchester United
+  West Ham United         - Wolverhampton Wanderers
 [Mon Mar/16]
-  FC Everton              - FC Liverpool                    # Termin verschoben
+  FC Everton              - FC Liverpool
 
 
 Matchday 31
 [Fri Mar/20]
-  Tottenham Hotspur       - West Ham United                 # Termin verschoben 
+  Tottenham Hotspur       - West Ham United
 [Sat Mar/21]
-  FC Chelsea              - Manchester City                 # Termin verschoben
-  FC Liverpool            - Crystal Palace                  # Termin verschoben
-  Manchester United       - Sheffield United                # Termin verschoben
-  Newcastle United        - Aston Villa                     # Termin verschoben
-  Wolverhampton Wanderers - AFC Bournemouth                 # Termin verschoben
-  Norwich City            - FC Everton                      # Termin verschoben
-  FC Burnley              - FC Watford                      # Termin verschoben
+  FC Chelsea              - Manchester City
+  FC Liverpool            - Crystal Palace
+  Manchester United       - Sheffield United
+  Newcastle United        - Aston Villa
+  Wolverhampton Wanderers - AFC Bournemouth
+  Norwich City            - FC Everton
+  FC Burnley              - FC Watford
 [Sun Mar/22]
-  Leicester City          - Brighton & Hove Albion          # Termin verschoben
-  FC Southampton          - FC Arsenal                      # Termin verschoben
+  Leicester City          - Brighton & Hove Albion
+  FC Southampton          - FC Arsenal
 
 
 Matchday 32
