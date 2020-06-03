@@ -7,10 +7,10 @@
     Premier League 2013/14  - teams: 20, matches: 380, rounds: 38
     Premier League 2014/15  - teams: 20, matches: 380, rounds: 38
     Premier League 2015/16  - teams: 20, matches: 380, rounds: 38
-    Premier League 2016/17  - teams: 20, matches: 391, rounds: 41
-    Premier League 2017/18  - teams: 20, matches: 391, rounds: 38
-    Premier League 2018/19  - teams: 20, matches: 380, rounds: 38
-    Premier League 2019/20  - teams: 20, matches: 381, rounds: 38
+    Premier League 2016/17  - teams: 20, matches: 380, rounds: 41
+    Premier League 2017/18  - teams: 20, matches: 380, rounds: 41
+    Premier League 2018/19  - teams: 20, matches: 380, rounds: 39
+    Premier League 2019/20  - teams: 20, matches: 380, rounds: 39
 
 Premier League  - 10 seasons
 
@@ -53,12 +53,12 @@ Premier League  - 10 seasons
 
 
   Championship - 6 records
-    Championship 2010/11  - teams: 24, matches: 557, rounds: 48
-    Championship 2011/12  - teams: 24, matches: 557, rounds: 48
-    Championship 2012/13  - teams: 24, matches: 557, rounds: 48
-    Championship 2013/14  - teams: 24, matches: 557, rounds: 48
-    Championship 2014/15  - teams: 24, matches: 557, rounds: 48
-    Championship 2015/16  - teams: 24, matches: 555, rounds: 48
+    Championship 2010/11  - teams: 24, matches: 552, rounds: 46
+    Championship 2011/12  - teams: 24, matches: 552, rounds: 46
+    Championship 2012/13  - teams: 24, matches: 552, rounds: 46
+    Championship 2013/14  - teams: 24, matches: 552, rounds: 46
+    Championship 2014/15  - teams: 24, matches: 552, rounds: 46
+    Championship 2015/16  - teams: 24, matches: 550, rounds: 46
 
 Championship  - 6 seasons
 
@@ -107,93 +107,212 @@ Championship  - 6 seasons
  43. Yeovil Town FC             1  (2013/14)
 
 
-  League One - 3 records
-    League One 2013/14  - teams: 24, matches: 557, rounds: 48
-    League One 2014/15  - teams: 24, matches: 557, rounds: 48
-    League One 2015/16  - teams: 24, matches: 557, rounds: 48
+  League One - 6 records
+    League One 2010/11  - teams: 24, matches: 552, rounds: 46
+    League One 2011/12  - teams: 24, matches: 552, rounds: 46
+    League One 2012/13  - teams: 24, matches: 552, rounds: 46
+    League One 2013/14  - teams: 24, matches: 552, rounds: 46
+    League One 2014/15  - teams: 24, matches: 552, rounds: 46
+    League One 2015/16  - teams: 24, matches: 552, rounds: 46
 
-League One  - 3 seasons
+League One  - 6 seasons
 
-  1. Bradford City AFC          3  (2015/16, 2014/15, 2013/14)
-  2. Colchester United FC       3  (2015/16, 2014/15, 2013/14)
-  3. Coventry City FC           3  (2015/16, 2014/15, 2013/14)
-  4. Crewe Alexandra FC         3  (2015/16, 2014/15, 2013/14)
-  5. Gillingham FC              3  (2015/16, 2014/15, 2013/14)
-  6. Oldham Athletic AFC        3  (2015/16, 2014/15, 2013/14)
-  7. Peterborough United FC     3  (2015/16, 2014/15, 2013/14)
-  8. Port Vale FC               3  (2015/16, 2014/15, 2013/14)
-  9. Sheffield United FC        3  (2015/16, 2014/15, 2013/14)
- 10. Swindon Town FC            3  (2015/16, 2014/15, 2013/14)
- 11. Walsall FC                 3  (2015/16, 2014/15, 2013/14)
- 12. Barnsley FC                2  (2015/16, 2014/15)
- 13. Bristol City FC            2  (2014/15, 2013/14)
- 14. Chesterfield FC            2  (2015/16, 2014/15)
- 15. Crawley Town FC            2  (2014/15, 2013/14)
- 16. Doncaster Rovers FC        2  (2015/16, 2014/15)
- 17. Fleetwood Town FC          2  (2015/16, 2014/15)
- 18. Leyton Orient FC           2  (2014/15, 2013/14)
- 19. Milton Keynes Dons FC      2  (2014/15, 2013/14)
- 20. Notts County FC            2  (2014/15, 2013/14)
- 21. Preston North End FC       2  (2014/15, 2013/14)
- 22. Rochdale AFC               2  (2015/16, 2014/15)
- 23. Scunthorpe United FC       2  (2015/16, 2014/15)
- 24. Shrewsbury Town FC         2  (2015/16, 2013/14)
- 25. Blackpool FC               1  (2015/16)
- 26. Brentford FC               1  (2013/14)
- 27. Burton Albion FC           1  (2015/16)
- 28. Bury FC                    1  (2015/16)
- 29. Carlisle United FC         1  (2013/14)
- 30. Millwall FC                1  (2015/16)
- 31. Rotherham United FC        1  (2013/14)
- 32. Southend United FC         1  (2015/16)
- 33. Stevenage FC               1  (2013/14)
- 34. Tranmere Rovers FC         1  (2013/14)
- 35. Wigan Athletic FC          1  (2015/16)
- 36. Wolverhampton Wanderers FC   1  (2013/14)
- 37. Yeovil Town FC             1  (2014/15)
+  1. Colchester United FC       6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  2. Oldham Athletic AFC        6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  3. Walsall FC                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  4. Leyton Orient FC           5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  5. Milton Keynes Dons FC      5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  6. Notts County FC            5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  7. Sheffield United FC        5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  8. Swindon Town FC            5  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11)
+  9. Brentford FC               4  (2013/14, 2012/13, 2011/12, 2010/11)
+ 10. Carlisle United FC         4  (2013/14, 2012/13, 2011/12, 2010/11)
+ 11. Coventry City FC           4  (2015/16, 2014/15, 2013/14, 2012/13)
+ 12. Crewe Alexandra FC         4  (2015/16, 2014/15, 2013/14, 2012/13)
+ 13. Peterborough United FC     4  (2015/16, 2014/15, 2013/14, 2010/11)
+ 14. Preston North End FC       4  (2014/15, 2013/14, 2012/13, 2011/12)
+ 15. Rochdale AFC               4  (2015/16, 2014/15, 2011/12, 2010/11)
+ 16. Scunthorpe United FC       4  (2015/16, 2014/15, 2012/13, 2011/12)
+ 17. Tranmere Rovers FC         4  (2013/14, 2012/13, 2011/12, 2010/11)
+ 18. Yeovil Town FC             4  (2014/15, 2012/13, 2011/12, 2010/11)
+ 19. AFC Bournemouth            3  (2012/13, 2011/12, 2010/11)
+ 20. Bradford City AFC          3  (2015/16, 2014/15, 2013/14)
+ 21. Bury FC                    3  (2015/16, 2012/13, 2011/12)
+ 22. Chesterfield FC            3  (2015/16, 2014/15, 2011/12)
+ 23. Crawley Town FC            3  (2014/15, 2013/14, 2012/13)
+ 24. Doncaster Rovers FC        3  (2015/16, 2014/15, 2012/13)
+ 25. Gillingham FC              3  (2015/16, 2014/15, 2013/14)
+ 26. Hartlepool United FC       3  (2012/13, 2011/12, 2010/11)
+ 27. Port Vale FC               3  (2015/16, 2014/15, 2013/14)
+ 28. Shrewsbury Town FC         3  (2015/16, 2013/14, 2012/13)
+ 29. Stevenage FC               3  (2013/14, 2012/13, 2011/12)
+ 30. Barnsley FC                2  (2015/16, 2014/15)
+ 31. Bristol City FC            2  (2014/15, 2013/14)
+ 32. Charlton Athletic FC       2  (2011/12, 2010/11)
+ 33. Exeter City FC             2  (2011/12, 2010/11)
+ 34. Fleetwood Town FC          2  (2015/16, 2014/15)
+ 35. Huddersfield Town AFC      2  (2011/12, 2010/11)
+ 36. Sheffield Wednesday FC     2  (2011/12, 2010/11)
+ 37. Blackpool FC               1  (2015/16)
+ 38. Brighton & Hove Albion FC   1  (2010/11)
+ 39. Bristol Rovers FC          1  (2010/11)
+ 40. Burton Albion FC           1  (2015/16)
+ 41. Dagenham & Redbridge FC    1  (2010/11)
+ 42. Millwall FC                1  (2015/16)
+ 43. Plymouth Argyle FC         1  (2010/11)
+ 44. Portsmouth FC              1  (2012/13)
+ 45. Rotherham United FC        1  (2013/14)
+ 46. Southampton FC             1  (2010/11)
+ 47. Southend United FC         1  (2015/16)
+ 48. Wigan Athletic FC          1  (2015/16)
+ 49. Wolverhampton Wanderers FC   1  (2013/14)
+ 50. Wycombe Wanderers FC       1  (2011/12)
 
 
-  League Two - 3 records
-    League Two 2013/14  - teams: 24, matches: 557, rounds: 48
-    League Two 2014/15  - teams: 24, matches: 557, rounds: 48
-    League Two 2015/16  - teams: 24, matches: 557, rounds: 48
+  League Two - 6 records
+    League Two 2010/11  - teams: 24, matches: 552, rounds: 46
+    League Two 2011/12  - teams: 24, matches: 552, rounds: 46
+    League Two 2012/13  - teams: 24, matches: 552, rounds: 46
+    League Two 2013/14  - teams: 24, matches: 552, rounds: 46
+    League Two 2014/15  - teams: 24, matches: 552, rounds: 46
+    League Two 2015/16  - teams: 24, matches: 552, rounds: 46
 
-League Two  - 3 seasons
+League Two  - 6 seasons
 
-  1. AFC Wimbledon              3  (2015/16, 2014/15, 2013/14)
-  2. Accrington Stanley FC      3  (2015/16, 2014/15, 2013/14)
-  3. Dagenham & Redbridge FC    3  (2015/16, 2014/15, 2013/14)
-  4. Exeter City FC             3  (2015/16, 2014/15, 2013/14)
-  5. Hartlepool United FC       3  (2015/16, 2014/15, 2013/14)
-  6. Mansfield Town FC          3  (2015/16, 2014/15, 2013/14)
-  7. Morecambe FC               3  (2015/16, 2014/15, 2013/14)
-  8. Newport County AFC         3  (2015/16, 2014/15, 2013/14)
-  9. Northampton Town FC        3  (2015/16, 2014/15, 2013/14)
- 10. Oxford United FC           3  (2015/16, 2014/15, 2013/14)
- 11. Plymouth Argyle FC         3  (2015/16, 2014/15, 2013/14)
- 12. Portsmouth FC              3  (2015/16, 2014/15, 2013/14)
- 13. Wycombe Wanderers FC       3  (2015/16, 2014/15, 2013/14)
- 14. York City FC               3  (2015/16, 2014/15, 2013/14)
- 15. Bristol Rovers FC          2  (2015/16, 2013/14)
- 16. Burton Albion FC           2  (2014/15, 2013/14)
- 17. Bury FC                    2  (2014/15, 2013/14)
- 18. Cambridge United FC        2  (2015/16, 2014/15)
- 19. Carlisle United FC         2  (2015/16, 2014/15)
- 20. Cheltenham Town FC         2  (2014/15, 2013/14)
- 21. Luton Town FC              2  (2015/16, 2014/15)
- 22. Southend United FC         2  (2014/15, 2013/14)
- 23. Stevenage FC               2  (2015/16, 2014/15)
- 24. Barnet FC                  1  (2015/16)
- 25. Chesterfield FC            1  (2013/14)
- 26. Crawley Town FC            1  (2015/16)
- 27. Fleetwood Town FC          1  (2013/14)
- 28. Leyton Orient FC           1  (2015/16)
- 29. Notts County FC            1  (2015/16)
- 30. Rochdale AFC               1  (2013/14)
- 31. Scunthorpe United FC       1  (2013/14)
- 32. Shrewsbury Town FC         1  (2014/15)
- 33. Torquay United FC          1  (2013/14)
- 34. Tranmere Rovers FC         1  (2014/15)
- 35. Yeovil Town FC             1  (2015/16)
+  1. Accrington Stanley FC      6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  2. Morecambe FC               6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  3. Northampton Town FC        6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  4. Oxford United FC           6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  5. AFC Wimbledon              5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  6. Burton Albion FC           5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  7. Cheltenham Town FC         5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+  8. Dagenham & Redbridge FC    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  9. Plymouth Argyle FC         5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+ 10. Southend United FC         5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
+ 11. Wycombe Wanderers FC       5  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11)
+ 12. Barnet FC                  4  (2015/16, 2012/13, 2011/12, 2010/11)
+ 13. Bristol Rovers FC          4  (2015/16, 2013/14, 2012/13, 2011/12)
+ 14. Exeter City FC             4  (2015/16, 2014/15, 2013/14, 2012/13)
+ 15. Torquay United FC          4  (2013/14, 2012/13, 2011/12, 2010/11)
+ 16. York City FC               4  (2015/16, 2014/15, 2013/14, 2012/13)
+ 17. Aldershot Town FC          3  (2012/13, 2011/12, 2010/11)
+ 18. Bradford City AFC          3  (2012/13, 2011/12, 2010/11)
+ 19. Bury FC                    3  (2014/15, 2013/14, 2010/11)
+ 20. Chesterfield FC            3  (2013/14, 2012/13, 2010/11)
+ 21. Gillingham FC              3  (2012/13, 2011/12, 2010/11)
+ 22. Hartlepool United FC       3  (2015/16, 2014/15, 2013/14)
+ 23. Mansfield Town FC          3  (2015/16, 2014/15, 2013/14)
+ 24. Newport County AFC         3  (2015/16, 2014/15, 2013/14)
+ 25. Port Vale FC               3  (2012/13, 2011/12, 2010/11)
+ 26. Portsmouth FC              3  (2015/16, 2014/15, 2013/14)
+ 27. Rotherham United FC        3  (2012/13, 2011/12, 2010/11)
+ 28. Shrewsbury Town FC         3  (2014/15, 2011/12, 2010/11)
+ 29. Stevenage FC               3  (2015/16, 2014/15, 2010/11)
+ 30. Cambridge United FC        2  (2015/16, 2014/15)
+ 31. Carlisle United FC         2  (2015/16, 2014/15)
+ 32. Crawley Town FC            2  (2015/16, 2011/12)
+ 33. Crewe Alexandra FC         2  (2011/12, 2010/11)
+ 34. Fleetwood Town FC          2  (2013/14, 2012/13)
+ 35. Hereford FC (2014-)        2  (2011/12, 2010/11)
+ 36. Luton Town FC              2  (2015/16, 2014/15)
+ 37. Macclesfield Town FC       2  (2011/12, 2010/11)
+ 38. Rochdale AFC               2  (2013/14, 2012/13)
+ 39. Leyton Orient FC           1  (2015/16)
+ 40. Lincoln City FC            1  (2010/11)
+ 41. Notts County FC            1  (2015/16)
+ 42. Scunthorpe United FC       1  (2013/14)
+ 43. Stockport County FC        1  (2010/11)
+ 44. Swindon Town FC            1  (2011/12)
+ 45. Tranmere Rovers FC         1  (2014/15)
+ 46. Yeovil Town FC             1  (2015/16)
+
+
+  Championship - Play-offs - 6 records
+    Championship - Play-offs 2010/11  - teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2011/12  - teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2012/13  - teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2013/14  - teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2014/15  - teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2015/16  - teams: 4, matches: 5, rounds: 2
+
+Championship - Play-offs  - 6 seasons
+
+  1. Brighton & Hove Albion FC   3  (2015/16, 2013/14, 2012/13)
+  2. Cardiff City FC            2  (2011/12, 2010/11)
+  3. Derby County FC            2  (2015/16, 2013/14)
+  4. Birmingham City FC         1  (2011/12)
+  5. Blackpool FC               1  (2011/12)
+  6. Brentford FC               1  (2014/15)
+  7. Crystal Palace FC          1  (2012/13)
+  8. Hull City AFC              1  (2015/16)
+  9. Ipswich Town FC            1  (2014/15)
+ 10. Leicester City FC          1  (2012/13)
+ 11. Middlesbrough FC           1  (2014/15)
+ 12. Norwich City FC            1  (2014/15)
+ 13. Nottingham Forest FC       1  (2010/11)
+ 14. Queens Park Rangers FC     1  (2013/14)
+ 15. Reading FC                 1  (2010/11)
+ 16. Sheffield Wednesday FC     1  (2015/16)
+ 17. Swansea City FC            1  (2010/11)
+ 18. Watford FC                 1  (2012/13)
+ 19. West Ham United FC         1  (2011/12)
+ 20. Wigan Athletic FC          1  (2013/14)
+
+
+  League One - Play-offs - 6 records
+    League One - Play-offs 2010/11  - teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2011/12  - teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2012/13  - teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2013/14  - teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2014/15  - teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2015/16  - teams: 4, matches: 5, rounds: 2
+
+League One - Play-offs  - 6 seasons
+
+  1. Sheffield United FC        3  (2014/15, 2012/13, 2011/12)
+  2. Huddersfield Town AFC      2  (2011/12, 2010/11)
+  3. Milton Keynes Dons FC      2  (2011/12, 2010/11)
+  4. Peterborough United FC     2  (2013/14, 2010/11)
+  5. Preston North End FC       2  (2014/15, 2013/14)
+  6. Swindon Town FC            2  (2014/15, 2012/13)
+  7. AFC Bournemouth            1  (2010/11)
+  8. Barnsley FC                1  (2015/16)
+  9. Bradford City AFC          1  (2015/16)
+ 10. Brentford FC               1  (2012/13)
+ 11. Chesterfield FC            1  (2014/15)
+ 12. Leyton Orient FC           1  (2013/14)
+ 13. Millwall FC                1  (2015/16)
+ 14. Rotherham United FC        1  (2013/14)
+ 15. Stevenage FC               1  (2011/12)
+ 16. Walsall FC                 1  (2015/16)
+ 17. Yeovil Town FC             1  (2012/13)
+
+
+  League Two - Play-offs - 6 records
+    League Two - Play-offs 2010/11  - teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2011/12  - teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2012/13  - teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2013/14  - teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2014/15  - teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2015/16  - teams: 4, matches: 5, rounds: 2
+
+League Two - Play-offs  - 6 seasons
+
+  1. Southend United FC         3  (2014/15, 2013/14, 2011/12)
+  2. Accrington Stanley FC      2  (2015/16, 2010/11)
+  3. Burton Albion FC           2  (2013/14, 2012/13)
+  4. Cheltenham Town FC         2  (2012/13, 2011/12)
+  5. Plymouth Argyle FC         2  (2015/16, 2014/15)
+  6. Stevenage FC               2  (2014/15, 2010/11)
+  7. Torquay United FC          2  (2011/12, 2010/11)
+  8. AFC Wimbledon              1  (2015/16)
+  9. Bradford City AFC          1  (2012/13)
+ 10. Crewe Alexandra FC         1  (2011/12)
+ 11. Fleetwood Town FC          1  (2013/14)
+ 12. Northampton Town FC        1  (2012/13)
+ 13. Portsmouth FC              1  (2015/16)
+ 14. Shrewsbury Town FC         1  (2010/11)
+ 15. Wycombe Wanderers FC       1  (2014/15)
+ 16. York City FC               1  (2013/14)
 
 
