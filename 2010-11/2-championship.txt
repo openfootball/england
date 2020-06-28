@@ -1,693 +1,778 @@
-## todo/fix: use reverse order and "new" standard format
-
 = English Championship 2010/11
 
- Matchday 46
-
-May/07 Barnsley 1-0 Millwall
-May/07 Bristol City 3-0 Hull City
-May/07 Burnley 1-1 Cardiff
-May/07 Crystal Palace 0-3 Nottingham Forest
-May/07 Leicester 4-2 Ipswich
-May/07 Middlesbrough 3-0 Doncaster
-May/07 Norwich 2-2 Coventry
-May/07 Preston 3-1 Watford
-May/07 QPR 1-2 Leeds
-May/07 Reading 2-1 Derby
-May/07 Scunthorpe 1-1 Portsmouth
-May/07 Swansea 4-0 Sheffield Utd
-
- Matchday 45
-
-May/02 Portsmouth 0-1 Norwich
-May/02 Cardiff 0-3 Middlesbrough
-Apr/30 Coventry 0-0 Reading
-Apr/30 Derby 0-2 Bristol City
-Apr/30 Doncaster 1-1 Leicester
-Apr/30 Hull City 1-1 Crystal Palace
-Apr/30 Ipswich 2-1 Preston
-Apr/30 Millwall 0-2 Swansea
-Apr/30 Nottingham Forest 5-1 Scunthorpe
-Apr/30 Sheffield Utd 2-2 Barnsley
-Apr/30 Watford 0-2 QPR
-Apr/30 Leeds 1-0 Burnley
-
- Matchday 44
-
-Apr/25 Barnsley 2-2 Doncaster
-Apr/25 Bristol City 2-3 Nottingham Forest
-Apr/25 Burnley 1-1 Portsmouth
-Apr/25 Crystal Palace 1-0 Leeds
-Apr/25 Leicester 4-2 Watford
-Apr/25 Middlesbrough 2-1 Coventry
-Apr/25 Norwich 3-2 Derby
-Apr/25 Preston 0-1 Cardiff
-Apr/25 QPR 1-1 Hull City
-Apr/25 Reading 2-3 Sheffield Utd
-Apr/25 Scunthorpe 1-2 Millwall
-Apr/25 Swansea 4-1 Ipswich
-
- Matchday 43
-
-Apr/23 Millwall 4-0 Preston
-Apr/23 Derby 2-4 Burnley
-Apr/23 Hull City 2-4 Middlesbrough
-Apr/23 Portsmouth 0-0 Swansea
-Apr/23 Sheffield Utd 3-2 Bristol City
-Apr/23 Watford 1-0 Barnsley
-Apr/23 Cardiff 2-2 QPR
-Apr/22 Leeds 0-0 Reading
-Apr/22 Nottingham Forest 3-2 Leicester
-Apr/22 Coventry 1-1 Scunthorpe
-Apr/22 Doncaster 0-0 Crystal Palace
-Apr/21 Ipswich 1-5 Norwich
-Apr/19 Burnley 3-1 Middlesbrough
-
- Matchday 42
-
-Apr/18 QPR 0-0 Derby
-Apr/16 Bristol City 0-1 Ipswich
-Apr/16 Burnley 2-1 Swansea
-Apr/16 Cardiff 3-0 Portsmouth
-Apr/16 Coventry 2-1 Millwall
-Apr/16 Crystal Palace 1-2 Scunthorpe
-Apr/16 Hull City 3-1 Doncaster
-Apr/16 Leeds 2-2 Watford
-Apr/16 Middlesbrough 1-1 Barnsley
-Apr/16 Preston 3-1 Sheffield Utd
-Apr/16 Reading 3-1 Leicester
-Apr/15 Norwich 2-1 Nottingham Forest
-
- Matchday 41
-
-Apr/12 Barnsley 0-1 QPR
-Apr/12 Derby 2-1 Leeds
-Apr/12 Doncaster 1-1 Preston
-Apr/12 Ipswich 3-3 Middlesbrough
-Apr/12 Leicester 1-1 Crystal Palace
-Apr/12 Millwall 0-0 Bristol City
-Apr/12 Nottingham Forest 2-0 Burnley
-Apr/12 Portsmouth 0-3 Coventry
-Apr/12 Scunthorpe 0-2 Reading
-Apr/12 Sheffield Utd 0-2 Cardiff
-Apr/12 Swansea 1-1 Hull City
-Apr/12 Watford 2-2 Norwich
-
- Matchday 40
-
-Apr/09 Swansea 3-0 Norwich
-Apr/09 Barnsley 4-2 Bristol City
-Apr/09 Derby 2-2 Coventry
-Apr/09 Doncaster 1-3 Cardiff
-Apr/09 Ipswich 2-1 Crystal Palace
-Apr/09 Leicester 4-0 Burnley
-Apr/09 Millwall 3-2 Leeds
-Apr/09 Nottingham Forest 3-4 Reading
-Apr/09 Portsmouth 1-1 Preston
-Apr/09 Scunthorpe 4-1 QPR
-Apr/09 Sheffield Utd 1-2 Middlesbrough
-Apr/09 Watford 1-2 Hull City
-Apr/05 Reading 2-1 Preston
-
- Matchday 39
-
-Apr/04 QPR 3-0 Sheffield Utd
-Apr/02 Bristol City 1-0 Doncaster
-Apr/02 Burnley 1-2 Ipswich
-Apr/02 Cardiff 4-1 Derby
-Apr/02 Coventry 2-0 Watford
-Apr/02 Crystal Palace 2-1 Barnsley
-Apr/02 Middlesbrough 3-3 Leicester
-Apr/02 Norwich 6-0 Scunthorpe
-Apr/02 Preston 2-1 Swansea
-Apr/02 Reading 2-0 Portsmouth
-Apr/02 Hull City 0-1 Millwall
-Apr/02 Leeds 4-1 Nottingham Forest
-
- Matchday 38
-
-Mar/19 Barnsley 0-1 Reading
-Mar/19 Bristol City 2-0 Burnley
-Mar/19 Crystal Palace 2-2 Derby
-Mar/19 Doncaster 0-1 QPR
-Mar/19 Hull City 1-1 Norwich
-Mar/19 Ipswich 2-0 Scunthorpe
-Mar/19 Leicester 0-1 Portsmouth
-Mar/19 Middlesbrough 2-1 Watford
-Mar/19 Millwall 3-3 Cardiff
-Mar/19 Preston 2-1 Coventry
-Mar/19 Swansea 3-2 Nottingham Forest
-Mar/19 Sheffield Utd 2-0 Leeds
-Mar/15 Burnley 2-2 Coventry
-Mar/15 Ipswich 0-3 Watford
-Mar/15 Scunthorpe 0-3 Preston
-
- Matchday 37
-
-Mar/14 Norwich 3-1 Bristol City
-Mar/13 Cardiff 2-2 Barnsley
-Mar/12 Burnley 0-3 Millwall
-Mar/12 Coventry 0-1 Hull City
-Mar/12 Derby 2-1 Swansea
-Mar/12 Leeds 0-0 Ipswich
-Mar/12 Nottingham Forest 0-0 Doncaster
-Mar/12 Portsmouth 0-0 Middlesbrough
-Mar/12 QPR 2-1 Crystal Palace
-Mar/12 Scunthorpe 0-3 Leicester
-Mar/12 Watford 3-0 Sheffield Utd
-
- Matchday 36
-
-Mar/08 Crystal Palace 1-0 Cardiff
-Mar/08 Barnsley 2-1 Scunthorpe
-Mar/08 Bristol City 2-1 Portsmouth
-Mar/08 Doncaster 1-1 Coventry
-Mar/08 Hull City 0-1 Burnley
-Mar/08 Ipswich 1-3 Reading
-Mar/08 Leicester 2-3 Norwich
-Mar/08 Middlesbrough 2-1 Derby
-Mar/08 Millwall 2-0 QPR
-Mar/08 Preston 1-2 Leeds
-Mar/08 Sheffield Utd 2-1 Nottingham Forest
-Mar/08 Swansea 1-1 Watford
-
- Matchday 35
-
-Mar/05 Cardiff 0-2 Ipswich
-Mar/05 Burnley 1-0 Crystal Palace
-Mar/05 Coventry 1-4 Bristol City
-Mar/05 Derby 0-0 Barnsley
-Mar/05 Leeds 5-2 Doncaster
-Mar/05 Norwich 1-1 Preston
-Mar/05 Nottingham Forest 0-1 Hull City
-Mar/05 Portsmouth 1-0 Sheffield Utd
-Mar/05 QPR 1-0 Leicester
-Mar/05 Reading 5-2 Middlesbrough
-Mar/05 Scunthorpe 1-0 Swansea
-Mar/05 Watford 1-0 Millwall
-Mar/01 Derby 1-3 Doncaster
-Mar/01 Middlesbrough 1-1 Nottingham Forest
-Mar/01 Portsmouth 2-0 Scunthorpe
-
- Matchday 34
-
-Feb/26 Barnsley 0-2 Norwich
-Feb/26 Bristol City 2-0 Scunthorpe
-Feb/26 Crystal Palace 3-3 Reading
-Feb/26 Doncaster 1-1 Watford
-Feb/26 Hull City 0-2 Cardiff
-Feb/26 Ipswich 0-2 Portsmouth
-Feb/26 Leicester 1-1 Coventry
-Feb/26 Middlesbrough 0-3 QPR
-Feb/26 Millwall 0-0 Nottingham Forest
-Feb/26 Preston 1-2 Burnley
-Feb/26 Sheffield Utd 0-1 Derby
-Feb/26 Swansea 3-0 Leeds
-
- Matchday 33
-
-Feb/22 QPR 2-0 Ipswich
-Feb/22 Reading 2-1 Millwall
-Feb/22 Cardiff 2-0 Leicester
-Feb/22 Coventry 0-1 Swansea
-Feb/22 Derby 0-1 Hull City
-Feb/22 Leeds 3-3 Barnsley
-Feb/22 Norwich 1-1 Doncaster
-Feb/22 Nottingham Forest 2-2 Preston
-Feb/22 Portsmouth 1-0 Crystal Palace
-Feb/22 Scunthorpe 3-2 Sheffield Utd
-Feb/22 Watford 1-3 Bristol City
-
- Matchday 32
-
-Feb/19 Crystal Palace 1-0 Sheffield Utd
-Feb/19 Ipswich 1-1 Hull City
-Feb/19 Leeds 2-2 Norwich
-Feb/19 Millwall 2-3 Middlesbrough
-Feb/19 Nottingham Forest 2-1 Cardiff
-Feb/19 Portsmouth 1-0 Barnsley
-Feb/19 Preston 1-1 QPR
-Feb/19 Reading 1-1 Watford
-Feb/19 Scunthorpe 0-0 Derby
-Feb/19 Swansea 3-0 Doncaster
-Feb/18 Leicester 2-1 Bristol City
-Feb/16 Scunthorpe 1-0 Nottingham Forest
-Feb/15 Cardiff 1-1 Burnley
-Feb/15 Doncaster 0-6 Ipswich
-Feb/15 Sheffield Utd 1-1 Reading
-Feb/15 Watford 2-2 Preston
-
- Matchday 31
-
-Feb/13 QPR 1-1 Nottingham Forest
-Feb/12 Derby 0-2 Leicester
-Feb/12 Barnsley 1-1 Ipswich
-Feb/12 Bristol City 0-2 Leeds
-Feb/12 Cardiff 1-0 Scunthorpe
-Feb/12 Coventry 2-1 Crystal Palace
-Feb/12 Doncaster 0-2 Portsmouth
-Feb/12 Hull City 1-0 Preston
-Feb/12 Middlesbrough 3-4 Swansea
-Feb/12 Norwich 2-1 Reading
-Feb/12 Sheffield Utd 1-1 Millwall
-Feb/12 Watford 1-3 Burnley
-
- Matchday 30
-
-Feb/06 Swansea 0-1 Cardiff
-Feb/05 Burnley 2-1 Norwich
-Feb/05 Crystal Palace 1-0 Middlesbrough
-Feb/05 Ipswich 3-0 Sheffield Utd
-Feb/05 Leeds 1-0 Coventry
-Feb/05 Leicester 4-1 Barnsley
-Feb/05 Millwall 1-0 Doncaster
-Feb/05 Nottingham Forest 1-0 Watford
-Feb/05 Portsmouth 1-1 Derby
-Feb/05 Preston 0-4 Bristol City
-Feb/05 Scunthorpe 1-5 Hull City
-Feb/04 Reading 0-1 QPR
-
- Matchday 29
-
-Feb/01 QPR 2-0 Portsmouth
-Feb/01 Barnsley 2-0 Preston
-Feb/01 Bristol City 0-2 Swansea
-Feb/01 Cardiff 2-2 Reading
-Feb/01 Coventry 1-2 Nottingham Forest
-Feb/01 Derby 1-2 Ipswich
-Feb/01 Doncaster 1-0 Burnley
-Feb/01 Hull City 2-2 Leeds
-Feb/01 Middlesbrough 2-0 Scunthorpe
-Feb/01 Norwich 2-1 Millwall
-Feb/01 Sheffield Utd 0-1 Leicester
-Feb/01 Watford 1-1 Crystal Palace
-Jan/29 Crystal Palace 0-0 Norwich
-Jan/29 Hull City 0-0 QPR
-Jan/28 Millwall 2-0 Barnsley
-Jan/25 Doncaster 0-2 Barnsley
-Jan/25 Nottingham Forest 1-0 Bristol City
-Jan/25 Portsmouth 1-2 Burnley
-
- Matchday 28
-
-Jan/23 QPR 2-1 Coventry
-Jan/22 Scunthorpe 0-0 Burnley
-Jan/22 Barnsley 1-1 Swansea
-Jan/22 Cardiff 4-2 Watford
-Jan/22 Crystal Palace 0-0 Bristol City
-Jan/22 Ipswich 3-2 Doncaster
-Jan/22 Leicester 4-2 Millwall
-Jan/22 Middlesbrough 1-1 Preston
-Jan/22 Portsmouth 2-2 Leeds
-Jan/22 Reading 1-1 Hull City
-Jan/22 Sheffield Utd 1-2 Norwich
-Jan/22 Derby 0-1 Nottingham Forest
-
- Matchday 27
-
-Jan/15 Bristol City 0-4 Middlesbrough
-Jan/15 Burnley 0-0 QPR
-Jan/15 Coventry 0-0 Sheffield Utd
-Jan/15 Doncaster 0-3 Reading
-Jan/15 Hull City 2-0 Barnsley
-Jan/15 Leeds 4-0 Scunthorpe
-Jan/15 Millwall 2-1 Ipswich
-Jan/15 Norwich 1-1 Cardiff
-Jan/15 Nottingham Forest 2-1 Portsmouth
-Jan/15 Preston 1-1 Leicester
-Jan/15 Watford 3-0 Derby
-Jan/15 Swansea 3-0 Crystal Palace
-
- Matchday 26
-
-Jan/04 Cardiff 2-1 Leeds
-Jan/03 Barnsley 2-1 Coventry
-Jan/03 Crystal Palace 1-0 Preston
-Jan/03 Derby 0-0 Millwall
-Jan/03 Ipswich 0-1 Nottingham Forest
-Jan/03 Leicester 2-1 Swansea
-Jan/03 Middlesbrough 1-1 Norwich
-Jan/03 Portsmouth 2-3 Hull City
-Jan/03 QPR 2-2 Bristol City
-Jan/03 Reading 2-1 Burnley
-Jan/03 Scunthorpe 1-2 Watford
-Jan/03 Sheffield Utd 2-2 Doncaster
-
- Matchday 25
-
-Jan/01 Watford 3-0 Portsmouth
-Jan/01 Bristol City 3-0 Cardiff
-Jan/01 Burnley 4-2 Sheffield Utd
-Jan/01 Coventry 1-1 Ipswich
-Jan/01 Doncaster 3-0 Scunthorpe
-Jan/01 Hull City 0-1 Leicester
-Jan/01 Norwich 1-0 QPR
-Jan/01 Nottingham Forest 2-2 Barnsley
-Jan/01 Preston 1-2 Derby
-Jan/01 Swansea 1-0 Reading
-Jan/01 Millwall 3-0 Crystal Palace
-Jan/01 Leeds 1-1 Middlesbrough
-
- Matchday 24
-
-Dec/29 Nottingham Forest 5-2 Derby
-Dec/28 Bristol City 1-1 Crystal Palace
-Dec/28 Burnley 0-2 Scunthorpe
-Dec/28 Hull City 1-1 Reading
-Dec/28 Leeds 3-3 Portsmouth
-Dec/28 Millwall 2-0 Leicester
-Dec/28 Norwich 4-2 Sheffield Utd
-Dec/28 Preston 1-3 Middlesbrough
-Dec/28 Swansea 1-0 Barnsley
-Dec/28 Watford 4-1 Cardiff
-Dec/28 Coventry 0-2 QPR
-
- Matchday 23
-
-Dec/26 Barnsley 1-2 Burnley
-Dec/26 Cardiff 2-0 Coventry
-Dec/26 Leicester 2-2 Leeds
-Dec/26 Reading 4-1 Bristol City
-Dec/26 Sheffield Utd 2-3 Hull City
-Dec/26 Portsmouth 1-1 Millwall
-Dec/26 QPR 4-0 Swansea
-
- Matchday 22
-
-Dec/18 Ipswich 3-0 Leicester
-Dec/18 Coventry 1-2 Norwich
-Dec/18 Derby 1-2 Reading
-Dec/18 Hull City 2-0 Bristol City
-Dec/18 Leeds 2-0 QPR
-Dec/18 Nottingham Forest 3-0 Crystal Palace
-Dec/18 Sheffield Utd 1-0 Swansea
-Dec/17 Doncaster 2-1 Middlesbrough
-
- Matchday 21
-
-Dec/11 Crystal Palace 0-0 Hull City
-Dec/11 Barnsley 1-0 Sheffield Utd
-Dec/11 Bristol City 2-0 Derby
-Dec/11 Burnley 2-3 Leeds
-Dec/11 Leicester 5-1 Doncaster
-Dec/11 Middlesbrough 1-0 Cardiff
-Dec/11 Norwich 0-2 Portsmouth
-Dec/11 Preston 1-0 Ipswich
-Dec/11 Reading 0-0 Coventry
-Dec/10 QPR 1-3 Watford
-Dec/10 Swansea 1-1 Millwall
-
- Matchday 20
-
-Dec/04 Millwall 3-0 Scunthorpe
-Dec/04 Cardiff 1-1 Preston
-Dec/04 Coventry 1-0 Middlesbrough
-Dec/04 Derby 1-2 Norwich
-Dec/04 Leeds 2-1 Crystal Palace
-Dec/04 Watford 3-2 Leicester
-Dec/04 Ipswich 1-3 Swansea
-
- Matchday 19
-
-Nov/29 Leicester 1-0 Nottingham Forest
-Nov/28 Norwich 4-1 Ipswich
-Nov/27 Burnley 2-1 Derby
-Nov/27 Barnsley 0-0 Watford
-Nov/27 Bristol City 3-0 Sheffield Utd
-Nov/27 Crystal Palace 1-0 Doncaster
-Nov/27 Middlesbrough 2-2 Hull City
-Nov/27 Preston 0-0 Millwall
-Nov/27 QPR 2-1 Cardiff
-Nov/27 Reading 0-0 Leeds
-Nov/27 Scunthorpe 0-2 Coventry
-Nov/26 Swansea 1-2 Portsmouth
-
- Matchday 18
-
-Nov/20 Sheffield Utd 3-2 Crystal Palace
-Nov/20 Barnsley 1-0 Portsmouth
-Nov/20 Bristol City 2-0 Leicester
-Nov/20 Cardiff 0-2 Nottingham Forest
-Nov/20 Coventry 1-0 Burnley
-Nov/20 Derby 3-2 Scunthorpe
-Nov/20 Doncaster 1-1 Swansea
-Nov/20 Hull City 1-0 Ipswich
-Nov/20 Middlesbrough 0-1 Millwall
-Nov/20 Norwich 1-1 Leeds
-Nov/20 QPR 3-1 Preston
-Nov/20 Watford 1-1 Reading
-
- Matchday 17
-
-Nov/14 Swansea 1-0 Middlesbrough
-Nov/13 Reading 3-3 Norwich
-Nov/13 Burnley 3-2 Watford
-Nov/13 Crystal Palace 2-0 Coventry
-Nov/13 Ipswich 1-3 Barnsley
-Nov/13 Leeds 3-1 Bristol City
-Nov/13 Leicester 2-0 Derby
-Nov/13 Millwall 0-1 Sheffield Utd
-Nov/13 Nottingham Forest 0-0 QPR
-Nov/13 Portsmouth 2-3 Doncaster
-Nov/13 Scunthorpe 2-4 Cardiff
-Nov/12 Preston 0-2 Hull City
-
- Matchday 16
-
-Nov/10 Reading 1-1 Cardiff
-Nov/10 Leicester 2-2 Sheffield Utd
-Nov/10 Swansea 0-1 Bristol City
-Nov/09 Crystal Palace 3-2 Watford
-Nov/09 Burnley 1-1 Doncaster
-Nov/09 Ipswich 0-2 Derby
-Nov/09 Leeds 2-2 Hull City
-Nov/09 Millwall 1-1 Norwich
-Nov/09 Nottingham Forest 2-1 Coventry
-Nov/09 Portsmouth 1-1 QPR
-Nov/09 Preston 1-2 Barnsley
-Nov/09 Scunthorpe 0-2 Middlesbrough
-
- Matchday 15
-
-Nov/07 Cardiff 0-1 Swansea
-Nov/06 Derby 2-0 Portsmouth
-Nov/06 Barnsley 0-2 Leicester
-Nov/06 Bristol City 1-1 Preston
-Nov/06 Coventry 2-3 Leeds
-Nov/06 Doncaster 2-1 Millwall
-Nov/06 Hull City 0-1 Scunthorpe
-Nov/06 Middlesbrough 2-1 Crystal Palace
-Nov/06 Norwich 2-2 Burnley
-Nov/06 QPR 3-1 Reading
-Nov/06 Sheffield Utd 1-2 Ipswich
-Nov/06 Watford 1-1 Nottingham Forest
-
- Matchday 14
-
-Oct/30 Barnsley 1-1 Hull City
-Oct/30 Cardiff 3-1 Norwich
-Oct/30 Crystal Palace 0-3 Swansea
-Oct/30 Derby 4-1 Watford
-Oct/30 Ipswich 2-0 Millwall
-Oct/30 Leicester 1-0 Preston
-Oct/30 Middlesbrough 1-2 Bristol City
-Oct/30 Portsmouth 2-1 Nottingham Forest
-Oct/30 QPR 1-1 Burnley
-Oct/30 Reading 4-3 Doncaster
-Oct/30 Scunthorpe 1-4 Leeds
-Oct/30 Sheffield Utd 0-1 Coventry
-
- Matchday 13
-
-Oct/25 Leeds 0-4 Cardiff
-Oct/23 Doncaster 2-0 Sheffield Utd
-Oct/23 Burnley 0-4 Reading
-Oct/23 Coventry 3-0 Barnsley
-Oct/23 Hull City 1-2 Portsmouth
-Oct/23 Millwall 2-0 Derby
-Oct/23 Norwich 1-0 Middlesbrough
-Oct/23 Nottingham Forest 2-0 Ipswich
-Oct/23 Preston 4-3 Crystal Palace
-Oct/23 Swansea 2-0 Leicester
-Oct/23 Watford 0-2 Scunthorpe
-Oct/22 Bristol City 1-1 QPR
-
- Matchday 12
-
-Oct/19 Bristol City 1-0 Reading
-Oct/19 Burnley 3-0 Barnsley
-Oct/19 Coventry 1-2 Cardiff
-Oct/19 Doncaster 2-3 Derby
-Oct/19 Hull City 0-1 Sheffield Utd
-Oct/19 Leeds 1-2 Leicester
-Oct/19 Millwall 0-1 Portsmouth
-Oct/19 Norwich 1-2 Crystal Palace
-Oct/19 Nottingham Forest 1-0 Middlesbrough
-Oct/19 Preston 2-3 Scunthorpe
-Oct/19 Swansea 0-0 QPR
-Oct/19 Watford 2-1 Ipswich
-
- Matchday 11
-
-Oct/16 Middlesbrough 1-2 Leeds
-Oct/16 Barnsley 3-1 Nottingham Forest
-Oct/16 Crystal Palace 0-1 Millwall
-Oct/16 Derby 3-0 Preston
-Oct/16 Ipswich 1-2 Coventry
-Oct/16 Leicester 1-1 Hull City
-Oct/16 Portsmouth 3-2 Watford
-Oct/16 QPR 0-0 Norwich
-Oct/16 Reading 0-1 Swansea
-Oct/16 Sheffield Utd 3-3 Burnley
-Oct/16 Cardiff 3-2 Bristol City
-Oct/16 Scunthorpe 1-3 Doncaster
-
- Matchday 10
-
-Oct/02 Barnsley 1-2 Cardiff
-Oct/02 Bristol City 0-3 Norwich
-Oct/02 Crystal Palace 1-2 QPR
-Oct/02 Doncaster 1-1 Nottingham Forest
-Oct/02 Hull City 0-0 Coventry
-Oct/02 Ipswich 2-1 Leeds
-Oct/02 Leicester 3-1 Scunthorpe
-Oct/02 Middlesbrough 2-2 Portsmouth
-Oct/02 Millwall 1-1 Burnley
-Oct/02 Preston 1-1 Reading
-Oct/02 Sheffield Utd 0-1 Watford
-Oct/02 Swansea 0-0 Derby
-
- Matchday 9
-
-Sep/28 QPR 0-0 Millwall
-Sep/28 Reading 1-0 Ipswich
-Sep/28 Burnley 4-0 Hull City
-Sep/28 Cardiff 0-0 Crystal Palace
-Sep/28 Coventry 2-1 Doncaster
-Sep/28 Derby 3-1 Middlesbrough
-Sep/28 Leeds 4-6 Preston
-Sep/28 Norwich 4-3 Leicester
-Sep/28 Nottingham Forest 1-1 Sheffield Utd
-Sep/28 Portsmouth 3-1 Bristol City
-Sep/28 Scunthorpe 0-0 Barnsley
-Sep/28 Watford 2-3 Swansea
-
- Matchday 8
-
-Sep/25 Burnley 0-0 Bristol City
-Sep/25 Coventry 1-2 Preston
-Sep/25 Derby 5-0 Crystal Palace
-Sep/25 Leeds 1-0 Sheffield Utd
-Sep/25 Norwich 0-2 Hull City
-Sep/25 Nottingham Forest 3-1 Swansea
-Sep/25 QPR 3-0 Doncaster
-Sep/25 Reading 3-0 Barnsley
-Sep/25 Scunthorpe 1-1 Ipswich
-Sep/25 Watford 3-1 Middlesbrough
-Sep/25 Cardiff 2-1 Millwall
-Sep/24 Portsmouth 6-1 Leicester
-
- Matchday 7
-
-Sep/18 Hull City 0-0 Nottingham Forest
-Sep/18 Barnsley 1-1 Derby
-Sep/18 Bristol City 1-2 Coventry
-Sep/18 Crystal Palace 0-0 Burnley
-Sep/18 Ipswich 2-0 Cardiff
-Sep/18 Leicester 0-2 QPR
-Sep/18 Middlesbrough 3-1 Reading
-Sep/18 Millwall 1-6 Watford
-Sep/18 Preston 0-1 Norwich
-Sep/18 Sheffield Utd 1-0 Portsmouth
-Sep/18 Swansea 2-0 Scunthorpe
-Sep/17 Doncaster 0-0 Leeds
-
- Matchday 6
-
-Sep/14 Crystal Palace 4-1 Portsmouth
-Sep/14 Barnsley 5-2 Leeds
-Sep/14 Bristol City 0-2 Watford
-Sep/14 Doncaster 3-1 Norwich
-Sep/14 Hull City 2-0 Derby
-Sep/14 Ipswich 0-3 QPR
-Sep/14 Leicester 2-1 Cardiff
-Sep/14 Middlesbrough 2-1 Burnley
-Sep/14 Millwall 0-0 Reading
-Sep/14 Preston 1-2 Nottingham Forest
-Sep/14 Sheffield Utd 0-4 Scunthorpe
-Sep/14 Swansea 2-1 Coventry
-
- Matchday 5
-
-Sep/11 Burnley 4-3 Preston
-Sep/11 Cardiff 2-0 Hull City
-Sep/11 Leeds 2-1 Swansea
-Sep/11 Norwich 2-1 Barnsley
-Sep/11 Nottingham Forest 1-1 Millwall
-Sep/11 Portsmouth 0-0 Ipswich
-Sep/11 QPR 3-0 Middlesbrough
-Sep/11 Reading 3-0 Crystal Palace
-Sep/11 Scunthorpe 0-2 Bristol City
-Sep/11 Watford 2-2 Doncaster
-Sep/11 Derby 0-1 Sheffield Utd
-Sep/11 Coventry 1-1 Leicester
-
- Matchday 4
-
-Aug/28 Leicester 1-2 Reading
-Aug/28 Barnsley 2-0 Middlesbrough
-Aug/28 Derby 2-2 QPR
-Aug/28 Doncaster 3-1 Hull City
-Aug/28 Ipswich 2-0 Bristol City
-Aug/28 Millwall 3-1 Coventry
-Aug/28 Nottingham Forest 1-1 Norwich
-Aug/28 Portsmouth 0-2 Cardiff
-Aug/28 Scunthorpe 3-0 Crystal Palace
-Aug/28 Sheffield Utd 1-0 Preston
-Aug/28 Swansea 1-0 Burnley
-Aug/28 Watford 0-1 Leeds
-
- Matchday 3
-
-Aug/22 Middlesbrough 1-0 Sheffield Utd
-Aug/21 Bristol City 3-3 Barnsley
-Aug/21 Burnley 3-0 Leicester
-Aug/21 Cardiff 4-0 Doncaster
-Aug/21 Crystal Palace 1-2 Ipswich
-Aug/21 Hull City 0-0 Watford
-Aug/21 Norwich 2-0 Swansea
-Aug/21 Preston 1-0 Portsmouth
-Aug/21 QPR 2-0 Scunthorpe
-Aug/21 Reading 1-1 Nottingham Forest
-Aug/21 Leeds 3-1 Millwall
-Aug/21 Coventry 2-1 Derby
-
- Matchday 2
-
-Aug/15 Nottingham Forest 1-1 Leeds
-Aug/14 Barnsley 1-0 Crystal Palace
-Aug/14 Derby 1-2 Cardiff
-Aug/14 Doncaster 1-1 Bristol City
-Aug/14 Ipswich 1-1 Burnley
-Aug/14 Leicester 0-0 Middlesbrough
-Aug/14 Millwall 4-0 Hull City
-Aug/14 Portsmouth 1-1 Reading
-Aug/14 Scunthorpe 0-1 Norwich
-Aug/14 Sheffield Utd 0-3 QPR
-Aug/14 Swansea 4-0 Preston
-Aug/14 Watford 2-2 Coventry
-
- Matchday 1
-
-Aug/08 Cardiff 1-1 Sheffield Utd
-Aug/07 Leeds 1-2 Derby
-Aug/07 Bristol City 0-3 Millwall
-Aug/07 Burnley 1-0 Nottingham Forest
-Aug/07 Coventry 2-0 Portsmouth
-Aug/07 Crystal Palace 3-2 Leicester
-Aug/07 Hull City 2-0 Swansea
-Aug/07 Middlesbrough 1-3 Ipswich
-Aug/07 Preston 0-2 Doncaster
-Aug/07 QPR 4-0 Barnsley
-Aug/07 Reading 1-2 Scunthorpe
-Aug/06 Norwich 2-3 Watford
+
+Matchday 1
+[Fri Aug/6]
+  Norwich                  2-3  Watford
+[Sat Aug/7]
+  Reading                  1-2  Scunthorpe
+  QPR                      4-0  Barnsley
+  Preston                  0-2  Doncaster
+  Middlesbrough            1-3  Ipswich
+  Hull City                2-0  Swansea
+  Crystal Palace           3-2  Leicester
+  Coventry                 2-0  Portsmouth
+  Burnley                  1-0  Nottingham Forest
+  Bristol City             0-3  Millwall
+  Leeds                    1-2  Derby
+[Sun Aug/8]
+  Cardiff                  1-1  Sheffield Utd
+
+
+Matchday 2
+[Sat Aug/14]
+  Watford                  2-2  Coventry
+  Swansea                  4-0  Preston
+  Sheffield Utd            0-3  QPR
+  Scunthorpe               0-1  Norwich
+  Portsmouth               1-1  Reading
+  Millwall                 4-0  Hull City
+  Leicester                0-0  Middlesbrough
+  Ipswich                  1-1  Burnley
+  Doncaster                1-1  Bristol City
+  Derby                    1-2  Cardiff
+  Barnsley                 1-0  Crystal Palace
+[Sun Aug/15]
+  Nottingham Forest        1-1  Leeds
+
+
+Matchday 3
+[Sat Aug/21]
+  Coventry                 2-1  Derby
+  Leeds                    3-1  Millwall
+  Reading                  1-1  Nottingham Forest
+  QPR                      2-0  Scunthorpe
+  Preston                  1-0  Portsmouth
+  Norwich                  2-0  Swansea
+  Hull City                0-0  Watford
+  Crystal Palace           1-2  Ipswich
+  Cardiff                  4-0  Doncaster
+  Burnley                  3-0  Leicester
+  Bristol City             3-3  Barnsley
+[Sun Aug/22]
+  Middlesbrough            1-0  Sheffield Utd
+
+
+Matchday 4
+[Sat Aug/28]
+  Watford                  0-1  Leeds
+  Swansea                  1-0  Burnley
+  Sheffield Utd            1-0  Preston
+  Scunthorpe               3-0  Crystal Palace
+  Portsmouth               0-2  Cardiff
+  Nottingham Forest        1-1  Norwich
+  Millwall                 3-1  Coventry
+  Ipswich                  2-0  Bristol City
+  Doncaster                3-1  Hull City
+  Derby                    2-2  QPR
+  Barnsley                 2-0  Middlesbrough
+  Leicester                1-2  Reading
+
+
+Matchday 5
+[Sat Sep/11]
+  Coventry                 1-1  Leicester
+  Derby                    0-1  Sheffield Utd
+  Watford                  2-2  Doncaster
+  Scunthorpe               0-2  Bristol City
+  Reading                  3-0  Crystal Palace
+  QPR                      3-0  Middlesbrough
+  Portsmouth               0-0  Ipswich
+  Nottingham Forest        1-1  Millwall
+  Norwich                  2-1  Barnsley
+  Leeds                    2-1  Swansea
+  Cardiff                  2-0  Hull City
+  Burnley                  4-3  Preston
+
+
+Matchday 6
+[Tue Sep/14]
+  Swansea                  2-1  Coventry
+  Sheffield Utd            0-4  Scunthorpe
+  Preston                  1-2  Nottingham Forest
+  Millwall                 0-0  Reading
+  Middlesbrough            2-1  Burnley
+  Leicester                2-1  Cardiff
+  Ipswich                  0-3  QPR
+  Hull City                2-0  Derby
+  Doncaster                3-1  Norwich
+  Bristol City             0-2  Watford
+  Barnsley                 5-2  Leeds
+  Crystal Palace           4-1  Portsmouth
+
+
+Matchday 7
+[Fri Sep/17]
+  Doncaster                0-0  Leeds
+[Sat Sep/18]
+  Swansea                  2-0  Scunthorpe
+  Sheffield Utd            1-0  Portsmouth
+  Preston                  0-1  Norwich
+  Millwall                 1-6  Watford
+  Middlesbrough            3-1  Reading
+  Leicester                0-2  QPR
+  Ipswich                  2-0  Cardiff
+  Crystal Palace           0-0  Burnley
+  Bristol City             1-2  Coventry
+  Barnsley                 1-1  Derby
+  Hull City                0-0  Nottingham Forest
+
+
+Matchday 8
+[Fri Sep/24]
+  Portsmouth               6-1  Leicester
+[Sat Sep/25]
+  Cardiff                  2-1  Millwall
+  Watford                  3-1  Middlesbrough
+  Scunthorpe               1-1  Ipswich
+  Reading                  3-0  Barnsley
+  QPR                      3-0  Doncaster
+  Nottingham Forest        3-1  Swansea
+  Norwich                  0-2  Hull City
+  Leeds                    1-0  Sheffield Utd
+  Derby                    5-0  Crystal Palace
+  Coventry                 1-2  Preston
+  Burnley                  0-0  Bristol City
+
+
+Matchday 9
+[Tue Sep/28]
+  Watford                  2-3  Swansea
+  Scunthorpe               0-0  Barnsley
+  Portsmouth               3-1  Bristol City
+  Nottingham Forest        1-1  Sheffield Utd
+  Norwich                  4-3  Leicester
+  Leeds                    4-6  Preston
+  Derby                    3-1  Middlesbrough
+  Coventry                 2-1  Doncaster
+  Cardiff                  0-0  Crystal Palace
+  Burnley                  4-0  Hull City
+  Reading                  1-0  Ipswich
+  QPR                      0-0  Millwall
+
+
+Matchday 10
+[Sat Oct/2]
+  Swansea                  0-0  Derby
+  Sheffield Utd            0-1  Watford
+  Preston                  1-1  Reading
+  Millwall                 1-1  Burnley
+  Middlesbrough            2-2  Portsmouth
+  Leicester                3-1  Scunthorpe
+  Ipswich                  2-1  Leeds
+  Hull City                0-0  Coventry
+  Doncaster                1-1  Nottingham Forest
+  Crystal Palace           1-2  QPR
+  Bristol City             0-3  Norwich
+  Barnsley                 1-2  Cardiff
+
+
+Matchday 11
+[Sat Oct/16]
+  Scunthorpe               1-3  Doncaster
+  Cardiff                  3-2  Bristol City
+  Sheffield Utd            3-3  Burnley
+  Reading                  0-1  Swansea
+  QPR                      0-0  Norwich
+  Portsmouth               3-2  Watford
+  Leicester                1-1  Hull City
+  Ipswich                  1-2  Coventry
+  Derby                    3-0  Preston
+  Crystal Palace           0-1  Millwall
+  Barnsley                 3-1  Nottingham Forest
+  Middlesbrough            1-2  Leeds
+
+
+Matchday 12
+[Tue Oct/19]
+  Watford                  2-1  Ipswich
+  Swansea                  0-0  QPR
+  Preston                  2-3  Scunthorpe
+  Nottingham Forest        1-0  Middlesbrough
+  Norwich                  1-2  Crystal Palace
+  Millwall                 0-1  Portsmouth
+  Leeds                    1-2  Leicester
+  Hull City                0-1  Sheffield Utd
+  Doncaster                2-3  Derby
+  Coventry                 1-2  Cardiff
+  Burnley                  3-0  Barnsley
+  Bristol City             1-0  Reading
+
+
+Matchday 13
+[Fri Oct/22]
+  Bristol City             1-1  QPR
+[Sat Oct/23]
+  Watford                  0-2  Scunthorpe
+  Swansea                  2-0  Leicester
+  Preston                  4-3  Crystal Palace
+  Nottingham Forest        2-0  Ipswich
+  Norwich                  1-0  Middlesbrough
+  Millwall                 2-0  Derby
+  Hull City                1-2  Portsmouth
+  Coventry                 3-0  Barnsley
+  Burnley                  0-4  Reading
+  Doncaster                2-0  Sheffield Utd
+[Mon Oct/25]
+  Leeds                    0-4  Cardiff
+
+
+Matchday 14
+[Sat Oct/30]
+  Sheffield Utd            0-1  Coventry
+  Scunthorpe               1-4  Leeds
+  Reading                  4-3  Doncaster
+  QPR                      1-1  Burnley
+  Portsmouth               2-1  Nottingham Forest
+  Middlesbrough            1-2  Bristol City
+  Leicester                1-0  Preston
+  Ipswich                  2-0  Millwall
+  Derby                    4-1  Watford
+  Crystal Palace           0-3  Swansea
+  Cardiff                  3-1  Norwich
+  Barnsley                 1-1  Hull City
+
+
+Matchday 15
+[Sat Nov/6]
+  Watford                  1-1  Nottingham Forest
+  Sheffield Utd            1-2  Ipswich
+  QPR                      3-1  Reading
+  Norwich                  2-2  Burnley
+  Middlesbrough            2-1  Crystal Palace
+  Hull City                0-1  Scunthorpe
+  Doncaster                2-1  Millwall
+  Coventry                 2-3  Leeds
+  Bristol City             1-1  Preston
+  Barnsley                 0-2  Leicester
+  Derby                    2-0  Portsmouth
+[Sun Nov/7]
+  Cardiff                  0-1  Swansea
+
+
+Matchday 16
+[Tue Nov/9]
+  Scunthorpe               0-2  Middlesbrough
+  Preston                  1-2  Barnsley
+  Portsmouth               1-1  QPR
+  Nottingham Forest        2-1  Coventry
+  Millwall                 1-1  Norwich
+  Leeds                    2-2  Hull City
+  Ipswich                  0-2  Derby
+  Burnley                  1-1  Doncaster
+  Crystal Palace           3-2  Watford
+[Wed Nov/10]
+  Swansea                  0-1  Bristol City
+  Leicester                2-2  Sheffield Utd
+  Reading                  1-1  Cardiff
+
+
+Matchday 17
+[Fri Nov/12]
+  Preston                  0-2  Hull City
+[Sat Nov/13]
+  Scunthorpe               2-4  Cardiff
+  Portsmouth               2-3  Doncaster
+  Nottingham Forest        0-0  QPR
+  Millwall                 0-1  Sheffield Utd
+  Leicester                2-0  Derby
+  Leeds                    3-1  Bristol City
+  Ipswich                  1-3  Barnsley
+  Crystal Palace           2-0  Coventry
+  Burnley                  3-2  Watford
+  Reading                  3-3  Norwich
+[Sun Nov/14]
+  Swansea                  1-0  Middlesbrough
+
+
+Matchday 18
+[Sat Nov/20]
+  Watford                  1-1  Reading
+  QPR                      3-1  Preston
+  Norwich                  1-1  Leeds
+  Middlesbrough            0-1  Millwall
+  Hull City                1-0  Ipswich
+  Doncaster                1-1  Swansea
+  Derby                    3-2  Scunthorpe
+  Coventry                 1-0  Burnley
+  Cardiff                  0-2  Nottingham Forest
+  Bristol City             2-0  Leicester
+  Barnsley                 1-0  Portsmouth
+  Sheffield Utd            3-2  Crystal Palace
+
+
+Matchday 19
+[Fri Nov/26]
+  Swansea                  1-2  Portsmouth
+[Sat Nov/27]
+  Scunthorpe               0-2  Coventry
+  Reading                  0-0  Leeds
+  QPR                      2-1  Cardiff
+  Preston                  0-0  Millwall
+  Middlesbrough            2-2  Hull City
+  Crystal Palace           1-0  Doncaster
+  Bristol City             3-0  Sheffield Utd
+  Barnsley                 0-0  Watford
+  Burnley                  2-1  Derby
+[Sun Nov/28]
+  Norwich                  4-1  Ipswich
+[Mon Nov/29]
+  Leicester                1-0  Nottingham Forest
+
+
+Matchday 20
+[Sat Dec/4]
+  Ipswich                  1-3  Swansea
+  Watford                  3-2  Leicester
+  Leeds                    2-1  Crystal Palace
+  Derby                    1-2  Norwich
+  Coventry                 1-0  Middlesbrough
+  Cardiff                  1-1  Preston
+  Millwall                 3-0  Scunthorpe
+
+
+Matchday 21
+[Fri Dec/10]
+  Swansea                  1-1  Millwall
+  QPR                      1-3  Watford
+[Sat Dec/11]
+  Reading                  0-0  Coventry
+  Preston                  1-0  Ipswich
+  Norwich                  0-2  Portsmouth
+  Middlesbrough            1-0  Cardiff
+  Leicester                5-1  Doncaster
+  Burnley                  2-3  Leeds
+  Bristol City             2-0  Derby
+  Barnsley                 1-0  Sheffield Utd
+  Crystal Palace           0-0  Hull City
+
+
+Matchday 22
+[Fri Dec/17]
+  Doncaster                2-1  Middlesbrough
+[Sat Dec/18]
+  Sheffield Utd            1-0  Swansea
+  Nottingham Forest        3-0  Crystal Palace
+  Leeds                    2-0  QPR
+  Hull City                2-0  Bristol City
+  Derby                    1-2  Reading
+  Coventry                 1-2  Norwich
+  Ipswich                  3-0  Leicester
+
+
+Matchday 23
+[Sun Dec/26]
+  QPR                      4-0  Swansea
+  Portsmouth               1-1  Millwall
+  Sheffield Utd            2-3  Hull City
+  Reading                  4-1  Bristol City
+  Leicester                2-2  Leeds
+  Cardiff                  2-0  Coventry
+  Barnsley                 1-2  Burnley
+
+
+Matchday 24
+[Tue Dec/28]
+  Coventry                 0-2  QPR
+  Watford                  4-1  Cardiff
+  Swansea                  1-0  Barnsley
+  Preston                  1-3  Middlesbrough
+  Norwich                  4-2  Sheffield Utd
+  Millwall                 2-0  Leicester
+  Leeds                    3-3  Portsmouth
+  Hull City                1-1  Reading
+  Burnley                  0-2  Scunthorpe
+  Bristol City             1-1  Crystal Palace
+[Wed Dec/29]
+  Nottingham Forest        5-2  Derby
+
+
+Matchday 25
+[Sat Jan/1]
+  Leeds                    1-1  Middlesbrough
+  Millwall                 3-0  Crystal Palace
+  Swansea                  1-0  Reading
+  Preston                  1-2  Derby
+  Nottingham Forest        2-2  Barnsley
+  Norwich                  1-0  QPR
+  Hull City                0-1  Leicester
+  Doncaster                3-0  Scunthorpe
+  Coventry                 1-1  Ipswich
+  Burnley                  4-2  Sheffield Utd
+  Bristol City             3-0  Cardiff
+  Watford                  3-0  Portsmouth
+
+
+Matchday 26
+[Mon Jan/3]
+  Sheffield Utd            2-2  Doncaster
+  Scunthorpe               1-2  Watford
+  Reading                  2-1  Burnley
+  QPR                      2-2  Bristol City
+  Portsmouth               2-3  Hull City
+  Middlesbrough            1-1  Norwich
+  Leicester                2-1  Swansea
+  Ipswich                  0-1  Nottingham Forest
+  Derby                    0-0  Millwall
+  Crystal Palace           1-0  Preston
+  Barnsley                 2-1  Coventry
+[Tue Jan/4]
+  Cardiff                  2-1  Leeds
+
+
+Matchday 27
+[Sat Jan/15]
+  Swansea                  3-0  Crystal Palace
+  Watford                  3-0  Derby
+  Preston                  1-1  Leicester
+  Nottingham Forest        2-1  Portsmouth
+  Norwich                  1-1  Cardiff
+  Millwall                 2-1  Ipswich
+  Leeds                    4-0  Scunthorpe
+  Hull City                2-0  Barnsley
+  Doncaster                0-3  Reading
+  Coventry                 0-0  Sheffield Utd
+  Burnley                  0-0  QPR
+  Bristol City             0-4  Middlesbrough
+
+
+Matchday 28
+[Sat Jan/22]
+  Derby                    0-1  Nottingham Forest
+  Sheffield Utd            1-2  Norwich
+  Reading                  1-1  Hull City
+  Portsmouth               2-2  Leeds
+  Middlesbrough            1-1  Preston
+  Leicester                4-2  Millwall
+  Ipswich                  3-2  Doncaster
+  Crystal Palace           0-0  Bristol City
+  Cardiff                  4-2  Watford
+  Barnsley                 1-1  Swansea
+  Scunthorpe               0-0  Burnley
+[Sun Jan/23]
+  QPR                      2-1  Coventry
+
+
+Matchday 29
+[Tue Jan/25]
+  Portsmouth               1-2  Burnley
+  Nottingham Forest        1-0  Bristol City
+  Doncaster                0-2  Barnsley
+[Fri Jan/28]
+  Millwall                 2-0  Barnsley
+[Sat Jan/29]
+  Hull City                0-0  QPR
+  Crystal Palace           0-0  Norwich
+[Tue Feb/1]
+  Watford                  1-1  Crystal Palace
+  Sheffield Utd            0-1  Leicester
+  Norwich                  2-1  Millwall
+  Middlesbrough            2-0  Scunthorpe
+  Hull City                2-2  Leeds
+  Doncaster                1-0  Burnley
+  Derby                    1-2  Ipswich
+  Coventry                 1-2  Nottingham Forest
+  Cardiff                  2-2  Reading
+  Bristol City             0-2  Swansea
+  Barnsley                 2-0  Preston
+  QPR                      2-0  Portsmouth
+
+
+Matchday 30
+[Fri Feb/4]
+  Reading                  0-1  QPR
+[Sat Feb/5]
+  Scunthorpe               1-5  Hull City
+  Preston                  0-4  Bristol City
+  Portsmouth               1-1  Derby
+  Nottingham Forest        1-0  Watford
+  Millwall                 1-0  Doncaster
+  Leicester                4-1  Barnsley
+  Leeds                    1-0  Coventry
+  Ipswich                  3-0  Sheffield Utd
+  Crystal Palace           1-0  Middlesbrough
+  Burnley                  2-1  Norwich
+[Sun Feb/6]
+  Swansea                  0-1  Cardiff
+
+
+Matchday 31
+[Sat Feb/12]
+  Watford                  1-3  Burnley
+  Sheffield Utd            1-1  Millwall
+  Norwich                  2-1  Reading
+  Middlesbrough            3-4  Swansea
+  Hull City                1-0  Preston
+  Doncaster                0-2  Portsmouth
+  Coventry                 2-1  Crystal Palace
+  Cardiff                  1-0  Scunthorpe
+  Bristol City             0-2  Leeds
+  Barnsley                 1-1  Ipswich
+  Derby                    0-2  Leicester
+[Sun Feb/13]
+  QPR                      1-1  Nottingham Forest
+
+
+Matchday 32
+[Tue Feb/15]
+  Watford                  2-2  Preston
+  Sheffield Utd            1-1  Reading
+  Doncaster                0-6  Ipswich
+  Cardiff                  1-1  Burnley
+[Wed Feb/16]
+  Scunthorpe               1-0  Nottingham Forest
+[Fri Feb/18]
+  Leicester                2-1  Bristol City
+[Sat Feb/19]
+  Swansea                  3-0  Doncaster
+  Scunthorpe               0-0  Derby
+  Reading                  1-1  Watford
+  Preston                  1-1  QPR
+  Portsmouth               1-0  Barnsley
+  Nottingham Forest        2-1  Cardiff
+  Millwall                 2-3  Middlesbrough
+  Leeds                    2-2  Norwich
+  Ipswich                  1-1  Hull City
+  Crystal Palace           1-0  Sheffield Utd
+
+
+Matchday 33
+[Tue Feb/22]
+  Watford                  1-3  Bristol City
+  Scunthorpe               3-2  Sheffield Utd
+  Portsmouth               1-0  Crystal Palace
+  Nottingham Forest        2-2  Preston
+  Norwich                  1-1  Doncaster
+  Leeds                    3-3  Barnsley
+  Derby                    0-1  Hull City
+  Coventry                 0-1  Swansea
+  Cardiff                  2-0  Leicester
+  Reading                  2-1  Millwall
+  QPR                      2-0  Ipswich
+
+
+Matchday 34
+[Sat Feb/26]
+  Swansea                  3-0  Leeds
+  Sheffield Utd            0-1  Derby
+  Preston                  1-2  Burnley
+  Millwall                 0-0  Nottingham Forest
+  Middlesbrough            0-3  QPR
+  Leicester                1-1  Coventry
+  Ipswich                  0-2  Portsmouth
+  Hull City                0-2  Cardiff
+  Doncaster                1-1  Watford
+  Crystal Palace           3-3  Reading
+  Bristol City             2-0  Scunthorpe
+  Barnsley                 0-2  Norwich
+
+
+Matchday 35
+[Tue Mar/1]
+  Portsmouth               2-0  Scunthorpe
+  Middlesbrough            1-1  Nottingham Forest
+  Derby                    1-3  Doncaster
+[Sat Mar/5]
+  Watford                  1-0  Millwall
+  Scunthorpe               1-0  Swansea
+  Reading                  5-2  Middlesbrough
+  QPR                      1-0  Leicester
+  Portsmouth               1-0  Sheffield Utd
+  Nottingham Forest        0-1  Hull City
+  Norwich                  1-1  Preston
+  Leeds                    5-2  Doncaster
+  Derby                    0-0  Barnsley
+  Coventry                 1-4  Bristol City
+  Burnley                  1-0  Crystal Palace
+  Cardiff                  0-2  Ipswich
+
+
+Matchday 36
+[Tue Mar/8]
+  Swansea                  1-1  Watford
+  Sheffield Utd            2-1  Nottingham Forest
+  Preston                  1-2  Leeds
+  Millwall                 2-0  QPR
+  Middlesbrough            2-1  Derby
+  Leicester                2-3  Norwich
+  Ipswich                  1-3  Reading
+  Hull City                0-1  Burnley
+  Doncaster                1-1  Coventry
+  Bristol City             2-1  Portsmouth
+  Barnsley                 2-1  Scunthorpe
+  Crystal Palace           1-0  Cardiff
+
+
+Matchday 37
+[Sat Mar/12]
+  Watford                  3-0  Sheffield Utd
+  Scunthorpe               0-3  Leicester
+  QPR                      2-1  Crystal Palace
+  Portsmouth               0-0  Middlesbrough
+  Nottingham Forest        0-0  Doncaster
+  Leeds                    0-0  Ipswich
+  Derby                    2-1  Swansea
+  Coventry                 0-1  Hull City
+  Burnley                  0-3  Millwall
+[Sun Mar/13]
+  Cardiff                  2-2  Barnsley
+[Mon Mar/14]
+  Norwich                  3-1  Bristol City
+
+
+Matchday 38
+[Tue Mar/15]
+  Scunthorpe               0-3  Preston
+  Ipswich                  0-3  Watford
+  Burnley                  2-2  Coventry
+[Sat Mar/19]
+  Sheffield Utd            2-0  Leeds
+  Swansea                  3-2  Nottingham Forest
+  Preston                  2-1  Coventry
+  Millwall                 3-3  Cardiff
+  Middlesbrough            2-1  Watford
+  Leicester                0-1  Portsmouth
+  Ipswich                  2-0  Scunthorpe
+  Hull City                1-1  Norwich
+  Doncaster                0-1  QPR
+  Crystal Palace           2-2  Derby
+  Bristol City             2-0  Burnley
+  Barnsley                 0-1  Reading
+
+
+Matchday 39
+[Sat Apr/2]
+  Leeds                    4-1  Nottingham Forest
+  Hull City                0-1  Millwall
+  Reading                  2-0  Portsmouth
+  Preston                  2-1  Swansea
+  Norwich                  6-0  Scunthorpe
+  Middlesbrough            3-3  Leicester
+  Crystal Palace           2-1  Barnsley
+  Coventry                 2-0  Watford
+  Cardiff                  4-1  Derby
+  Burnley                  1-2  Ipswich
+  Bristol City             1-0  Doncaster
+[Mon Apr/4]
+  QPR                      3-0  Sheffield Utd
+
+
+Matchday 40
+[Tue Apr/5]
+  Reading                  2-1  Preston
+[Sat Apr/9]
+  Watford                  1-2  Hull City
+  Sheffield Utd            1-2  Middlesbrough
+  Scunthorpe               4-1  QPR
+  Portsmouth               1-1  Preston
+  Nottingham Forest        3-4  Reading
+  Millwall                 3-2  Leeds
+  Leicester                4-0  Burnley
+  Ipswich                  2-1  Crystal Palace
+  Doncaster                1-3  Cardiff
+  Derby                    2-2  Coventry
+  Barnsley                 4-2  Bristol City
+  Swansea                  3-0  Norwich
+
+
+Matchday 41
+[Tue Apr/12]
+  Watford                  2-2  Norwich
+  Swansea                  1-1  Hull City
+  Sheffield Utd            0-2  Cardiff
+  Scunthorpe               0-2  Reading
+  Portsmouth               0-3  Coventry
+  Nottingham Forest        2-0  Burnley
+  Millwall                 0-0  Bristol City
+  Leicester                1-1  Crystal Palace
+  Ipswich                  3-3  Middlesbrough
+  Doncaster                1-1  Preston
+  Derby                    2-1  Leeds
+  Barnsley                 0-1  QPR
+
+
+Matchday 42
+[Fri Apr/15]
+  Norwich                  2-1  Nottingham Forest
+[Sat Apr/16]
+  Reading                  3-1  Leicester
+  Preston                  3-1  Sheffield Utd
+  Middlesbrough            1-1  Barnsley
+  Leeds                    2-2  Watford
+  Hull City                3-1  Doncaster
+  Crystal Palace           1-2  Scunthorpe
+  Coventry                 2-1  Millwall
+  Cardiff                  3-0  Portsmouth
+  Burnley                  2-1  Swansea
+  Bristol City             0-1  Ipswich
+[Mon Apr/18]
+  QPR                      0-0  Derby
+
+
+Matchday 43
+[Tue Apr/19]
+  Burnley                  3-1  Middlesbrough
+[Thu Apr/21]
+  Ipswich                  1-5  Norwich
+[Fri Apr/22]
+  Doncaster                0-0  Crystal Palace
+  Coventry                 1-1  Scunthorpe
+  Nottingham Forest        3-2  Leicester
+  Leeds                    0-0  Reading
+[Sat Apr/23]
+  Cardiff                  2-2  QPR
+  Watford                  1-0  Barnsley
+  Sheffield Utd            3-2  Bristol City
+  Portsmouth               0-0  Swansea
+  Hull City                2-4  Middlesbrough
+  Derby                    2-4  Burnley
+  Millwall                 4-0  Preston
+
+
+Matchday 44
+[Mon Apr/25]
+  Swansea                  4-1  Ipswich
+  Scunthorpe               1-2  Millwall
+  Reading                  2-3  Sheffield Utd
+  QPR                      1-1  Hull City
+  Preston                  0-1  Cardiff
+  Norwich                  3-2  Derby
+  Middlesbrough            2-1  Coventry
+  Leicester                4-2  Watford
+  Crystal Palace           1-0  Leeds
+  Burnley                  1-1  Portsmouth
+  Bristol City             2-3  Nottingham Forest
+  Barnsley                 2-2  Doncaster
+
+
+Matchday 45
+[Sat Apr/30]
+  Leeds                    1-0  Burnley
+  Watford                  0-2  QPR
+  Sheffield Utd            2-2  Barnsley
+  Nottingham Forest        5-1  Scunthorpe
+  Millwall                 0-2  Swansea
+  Ipswich                  2-1  Preston
+  Hull City                1-1  Crystal Palace
+  Doncaster                1-1  Leicester
+  Derby                    0-2  Bristol City
+  Coventry                 0-0  Reading
+[Mon May/2]
+  Cardiff                  0-3  Middlesbrough
+  Portsmouth               0-1  Norwich
+
+
+Matchday 46
+[Sat May/7]
+  Swansea                  4-0  Sheffield Utd
+  Scunthorpe               1-1  Portsmouth
+  Reading                  2-1  Derby
+  QPR                      1-2  Leeds
+  Preston                  3-1  Watford
+  Norwich                  2-2  Coventry
+  Middlesbrough            3-0  Doncaster
+  Leicester                4-2  Ipswich
+  Crystal Palace           0-3  Nottingham Forest
+  Burnley                  1-1  Cardiff
+  Bristol City             3-0  Hull City
+  Barnsley                 1-0  Millwall
