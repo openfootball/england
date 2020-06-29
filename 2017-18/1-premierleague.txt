@@ -328,3 +328,307 @@ Matchday 21
   Crystal Palace           0-0  Manchester City
   West Bromwich Albion     1-1  Arsenal FC
 ##  Tottenham Hotspur       -  West Ham United    ## see postponed matchday
+
+
+Matchday 22
+
+[Mon Jan/1]
+  Brighton & Hove Albion      2-2  AFC Bournemouth
+  Burnley FC                  1-2  Liverpool FC
+  Everton FC                  0-2  Manchester United
+  Leicester City              3-0  Huddersfield Town
+  Stoke City                  0-1  Newcastle United
+ [Tue Jan/2]
+  Manchester City             3-1  Watford FC
+  Southampton FC              1-2  Crystal Palace
+  Swansea City                0-2  Tottenham Hotspur
+  West Ham United             2-1  West Bromwich Albion
+[Wed Jan/3]
+  Arsenal FC                  2-2  Chelsea FC
+
+Postponed Matchday 21
+[Thu Jan/4]
+  Tottenham Hotspur          1-1  West Ham United
+
+
+
+Matchday 23
+
+[Sat Jan/13]
+  Chelsea FC                  0-0  Leicester City
+  Crystal Palace              1-0  Burnley FC
+  Huddersfield Town           1-4  West Ham United
+  Newcastle United            1-1  Swansea City
+  Tottenham Hotspur           4-0  Everton FC
+  Watford FC                  2-2  Southampton FC
+  West Bromwich Albion        2-0  Brighton & Hove Albion
+[Sun Jan/14]
+  AFC Bournemouth             2-1  Arsenal FC
+  Liverpool FC                4-3  Manchester City
+[Mon Jan/15]
+  Manchester United           3-0  Stoke City
+
+Matchday 24
+
+[Sat Jan/20]
+  Arsenal FC                  4-1  Crystal Palace
+  Brighton & Hove Albion      0-4  Chelsea FC
+  Burnley FC                  0-1  Manchester United
+  Everton FC                  1-1  West Bromwich Albion
+  Leicester City              2-0  Watford FC
+  Manchester City             3-1  Newcastle United
+  Stoke City                  2-0  Huddersfield Town
+  West Ham United             1-1  AFC Bournemouth
+[Sun Jan/21]
+  Southampton FC              1-1  Tottenham Hotspur
+[Mon Jan/22]
+  Swansea City                1-0  Liverpool FC
+
+Matchday 25
+
+[Tue Jan/30]
+  Huddersfield Town           0-3  Liverpool FC
+  Swansea City                3-1  Arsenal FC
+  West Ham United             1-1  Crystal Palace
+[Wed Jan/31]
+  Chelsea FC                  0-3  AFC Bournemouth
+  Everton FC                  2-1  Leicester City
+  Manchester City             3-0  West Bromwich Albion
+  Newcastle United            1-1  Burnley FC
+  Southampton FC              1-1  Brighton & Hove Albion
+  Stoke City                  0-0  Watford FC
+  Tottenham Hotspur           2-0  Manchester United
+
+Matchday 26
+
+[Sat Feb/3]
+  AFC Bournemouth             2-1  Stoke City
+  Arsenal FC                  5-1  Everton FC
+  Brighton & Hove Albion      3-1  West Ham United
+  Burnley FC                  1-1  Manchester City
+  Leicester City              1-1  Swansea City
+  Manchester United           2-0  Huddersfield Town
+  West Bromwich Albion        2-3  Southampton FC
+[Sun Feb/4]
+  Crystal Palace              1-1  Newcastle United
+  Liverpool FC                2-2  Tottenham Hotspur
+[Mon Feb/5]
+  Watford FC                  4-1  Chelsea FC
+
+Matchday 27
+
+[Sat Feb/10]
+  Everton FC                  3-1  Crystal Palace
+  Manchester City             5-1  Leicester City
+  Stoke City                  1-1  Brighton & Hove Albion
+  Swansea City                1-0  Burnley FC
+  Tottenham Hotspur           1-0  Arsenal FC
+  West Ham United             2-0  Watford FC
+[Sun Feb/11]
+  Newcastle United            1-0  Manchester United
+  Southampton FC              0-2  Liverpool FC
+  Huddersfield Town           4-1  AFC Bournemouth
+[Mon Feb/12]
+  Chelsea FC                  3-0  West Bromwich Albion
+
+Matchday 28
+
+[Sat Feb/24]
+  AFC Bournemouth             2-2  Newcastle United
+  Brighton & Hove Albion      4-1  Swansea City
+  Burnley FC                  1-1  Southampton FC
+  Leicester City              1-1  Stoke City
+  Liverpool FC                4-1  West Ham United
+  Watford FC                  1-0  Everton FC
+  West Bromwich Albion        1-2  Huddersfield Town
+[Sun Feb/25]
+  Manchester United           2-1  Chelsea FC
+  Crystal Palace              0-1  Tottenham Hotspur
+[Thu Mar/1]
+  Arsenal FC                  0-3  Manchester City
+
+Matchday 29
+
+[Sat Mar/3]
+  Burnley FC                  2-1  Everton FC
+  Leicester City              1-1  AFC Bournemouth
+  Liverpool FC                2-0  Newcastle United
+  Southampton FC              0-0  Stoke City
+  Swansea City                4-1  West Ham United
+  Tottenham Hotspur           2-0  Huddersfield Town
+  Watford FC                  1-0  West Bromwich Albion
+[Sun Mar/4]
+  Brighton & Hove Albion      2-1  Arsenal FC
+  Manchester City             1-0  Chelsea FC
+[Mon Mar/5]
+  Crystal Palace              2-3  Manchester United
+
+Matchday 30
+
+[Sat Mar/10]
+  Chelsea FC                  2-1  Crystal Palace
+  Everton FC                  2-0  Brighton & Hove Albion
+  Huddersfield Town           0-0  Swansea City
+  Manchester United           2-1  Liverpool FC
+  Newcastle United            3-0  Southampton FC
+  West Bromwich Albion        1-4  Leicester City
+  West Ham United             0-3  Burnley FC
+[Sun Mar/11]
+  AFC Bournemouth             1-4  Tottenham Hotspur
+  Arsenal FC                  3-0  Watford FC
+[Mon Mar/12]
+  Stoke City                  0-2  Manchester City
+
+Matchday 31
+
+[Fri Mar/16]
+  ## Tottenham Hotspur         -  Newcastle United    ## see postponed matchday 31
+[Sat Mar/17]
+  AFC Bournemouth             2-1  West Bromwich Albion
+  ## Burnley FC                -  Chelsea FC     ## see postponed matchday 31
+  Huddersfield Town           0-2  Crystal Palace
+  ## Leicester City            -  Arsenal FC     ## see postponed matchday 31
+  Liverpool FC                5-0  Watford FC
+  Stoke City                  1-2  Everton FC
+  ## Swansea City              -  Southampton FC  ## see postponed matchday 31
+[Sun Mar/18]
+  ## West Ham United           -  Manchester United       ## see postponed matchday 31
+  ## Manchester City           -  Brighton & Hove Albion  ## see postponed matchday 31
+
+
+Matchday 32
+
+[Sat Mar/31]
+  Brighton & Hove Albion      0-2  Leicester City
+  Crystal Palace              1-2  Liverpool FC
+  Everton FC                  1-3  Manchester City
+  Manchester United           2-0  Swansea City
+  Newcastle United            1-0  Huddersfield Town
+  West Ham United             3-0  Southampton FC
+  Watford FC                  2-2  AFC Bournemouth
+  West Bromwich Albion        1-2  Burnley FC
+[Sun Apr/1]
+ Arsenal FC                   3-0  Stoke City
+ Chelsea FC                   1-3  Tottenham Hotspur
+
+Matchday 33
+
+[Sat Apr/7]
+  AFC Bournemouth             2-2  Crystal Palace
+  Brighton & Hove Albion      1-1  Huddersfield Town
+  Everton FC                  0-0  Liverpool FC
+  Leicester City              1-2  Newcastle United
+  Manchester City             2-3  Manchester United
+  Stoke City                  1-2  Tottenham Hotspur
+  Watford FC                  1-2  Burnley FC
+  West Bromwich Albion        1-1  Swansea City
+[Sun Apr/8]
+  Arsenal FC                  3-2  Southampton FC
+  Chelsea FC                  1-1  West Ham United
+
+Matchday 34
+
+[Sat Apr/14]
+  Burnley FC                  2-1  Leicester City
+  Crystal Palace              3-2  Brighton & Hove Albion
+  Huddersfield Town           1-0  Watford FC
+  Liverpool FC                3-0  AFC Bournemouth
+  Southampton FC              2-3  Chelsea FC
+  Swansea City                1-1  Everton FC
+  Tottenham Hotspur           1-3  Manchester City
+[Sun Apr/15]
+  Manchester United           0-1  West Bromwich Albion
+  Newcastle United            2-1  Arsenal FC
+[Mon Apr/16]
+  West Ham United             1-1  Stoke City
+
+
+Postponed Matchday 31
+[Thu Apr/19]
+  Burnley FC                  1-2  Chelsea FC
+
+
+
+Matchday 35
+[Tue Apr/17]
+  Brighton & Hove Albion      1-1  Tottenham Hotspur
+[Wed Apr/18]
+  AFC Bournemouth             0-2  Manchester United
+[Thu Apr/19]
+  Leicester City              0-0  Southampton FC
+
+[Sat Apr/21]
+  ## Chelsea FC                -  Huddersfield Town    ## see postponed matchday 35
+  Watford FC                  0-0  Crystal Palace
+  West Bromwich Albion        2-2  Liverpool FC
+[Sun Apr/22]
+  Manchester City             5-0  Swansea City
+  Stoke City                  1-1  Burnley FC
+  Arsenal FC                  4-1  West Ham United
+[Mon Apr/23]
+  Everton FC                  1-0  Newcastle United
+
+
+Matchday 36
+
+[Sat Apr/28]
+  Burnley FC                  0-0  Brighton & Hove Albion
+  Crystal Palace              5-0  Leicester City
+  Liverpool FC                0-0  Stoke City
+  Newcastle United            0-1  West Bromwich Albion
+  Southampton FC              2-1  AFC Bournemouth
+  Swansea City                0-1  Chelsea FC
+  Huddersfield Town           0-2  Everton FC
+[Sun Apr/29]
+  West Ham United             1-4  Manchester City
+  Manchester United           2-1  Arsenal FC
+[Mon Apr/30]
+  Tottenham Hotspur           2-0  Watford FC
+
+Matchday 37
+[Fri May/4]
+  Brighton & Hove Albion      1-0  Manchester United
+[Sat May/5]
+  AFC Bournemouth             1-0  Swansea City
+  Everton FC                  1-1  Southampton FC
+  Leicester City              0-2  West Ham United
+  Stoke City                  1-2  Crystal Palace
+  Watford FC                  2-1  Newcastle United
+  West Bromwich Albion        1-0  Tottenham Hotspur
+[Sun May/6]
+  Arsenal FC                  5-0  Burnley FC
+  Chelsea FC                  1-0  Liverpool FC
+  Manchester City             0-0  Huddersfield Town
+
+
+Postponed Matchday 31
+[Tue May/8]
+  Swansea City               0-1  Southampton FC
+[Wed May/9]
+  Tottenham Hotspur          1-0  Newcastle United
+  Leicester City             3-1  Arsenal FC
+  Manchester City            3-1  Brighton & Hove Albion
+[Thu May/10]
+  West Ham United            0-0  Manchester United
+
+
+Postponed Matchday 35     ## todo/check: use Addition Matchday 35 - check what's a good name/naming convention?
+[Wed May/9]
+  Chelsea FC                 1-1  Huddersfield Town
+
+
+Matchday 38
+
+[Sun May/13]
+  Burnley FC                 1-2  AFC Bournemouth
+  Crystal Palace             2-0  West Bromwich Albion
+  Huddersfield Town          0-1  Arsenal FC
+  Liverpool FC               4-0  Brighton & Hove Albion
+  Manchester United          1-0  Watford FC
+  Newcastle United           3-0  Chelsea FC
+  Southampton FC             0-1  Manchester City
+  Swansea City               1-2  Stoke City
+  Tottenham Hotspur          5-4  Leicester City
+  West Ham United            3-1  Everton FC
+
+
