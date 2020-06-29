@@ -2,288 +2,605 @@
 
 
 Matchday 1
-
 [Sat Aug/16]
-  12.45  Manchester United    1-2  Swansea City
-  15.00  Leicester City       2-2  Everton FC
-  15.00  Queens Park Rangers  0-1  Hull City
-  15.00  Stoke City           0-1  Aston Villa
-  15.00  West Bromwich Albion 2-2  Sunderland AFC
-  15.00  West Ham United      0-1  Tottenham Hotspur
-  17.30  Arsenal FC           2-1  Crystal Palace
+  Manchester United FC     1-2  Swansea City FC
+  West Bromwich Albion FC  2-2  Sunderland AFC
+  Leicester City FC        2-2  Everton FC
+  Stoke City FC            0-1  Aston Villa FC
+  Queens Park Rangers FC   0-1  Hull City AFC
+  West Ham United FC       0-1  Tottenham Hotspur FC
+  Arsenal FC               2-1  Crystal Palace FC
 [Sun Aug/17]
-  13.30  Liverpool FC         2-1  Southampton FC
-  16.00  Newcastle United     0-2  Manchester City
+  Liverpool FC             2-1  Southampton FC
+  Newcastle United FC      0-2  Manchester City FC
 [Mon Aug/18]
-  20.00  Burnley FC           1-3  Chelsea FC
+  Burnley FC               1-3  Chelsea FC
 
 
 Matchday 2
-
 [Sat Aug/23]
-  Aston Villa                 0-0  Newcastle United
-  Chelsea FC                  2-0  Leicester City
-  Crystal Palace              1-3  West Ham United
-  Everton FC                  2-2  Arsenal FC
-  Hull City                   1-1  Stoke City
-  Manchester City             3-1  Liverpool FC
-  Southampton FC              0-0  West Bromwich Albion
-  Sunderland AFC              1-1  Manchester United
-  Swansea City                1-0  Burnley FC
-  Tottenham Hotspur           4-0  Queens Park Rangers
+  Aston Villa FC           0-0  Newcastle United FC
+  Crystal Palace FC        1-3  West Ham United FC
+  Swansea City FC          1-0  Burnley FC
+  Chelsea FC               2-0  Leicester City FC
+  Southampton FC           0-0  West Bromwich Albion FC
+  Everton FC               2-2  Arsenal FC
+[Sun Aug/24]
+  Tottenham Hotspur FC     4-0  Queens Park Rangers FC
+  Hull City AFC            1-1  Stoke City FC
+  Sunderland AFC           1-1  Manchester United FC
+[Mon Aug/25]
+  Manchester City FC       3-1  Liverpool FC
 
 
 Matchday 3
-
 [Sat Aug/30]
-  Aston Villa                 2-1  Hull City
-  Burnley FC                  0-0  Manchester United
-  Everton FC                  3-6  Chelsea FC
-  Leicester City              1-1  Arsenal FC
-  Manchester City             0-1  Stoke City
-  Newcastle United            3-3  Crystal Palace
-  Queens Park Rangers         1-0  Sunderland AFC
-  Swansea City                3-0  West Bromwich Albion
-  Tottenham Hotspur           0-3  Liverpool FC
-  West Ham United             1-3  Southampton FC
+  Burnley FC               0-0  Manchester United FC
+  Queens Park Rangers FC   1-0  Sunderland AFC
+  Swansea City FC          3-0  West Bromwich Albion FC
+  Manchester City FC       0-1  Stoke City FC
+  Newcastle United FC      3-3  Crystal Palace FC
+  West Ham United FC       1-3  Southampton FC
+  Everton FC               3-6  Chelsea FC
+[Sun Aug/31]
+  Tottenham Hotspur FC     0-3  Liverpool FC
+  Aston Villa FC           2-1  Hull City AFC
+  Leicester City FC        1-1  Arsenal FC
 
 
 Matchday 4
-
 [Sat Sep/13]
-  Arsenal FC                  2-2  Manchester City
-  Chelsea FC                  4-2  Swansea City
-  Crystal Palace              0-0  Burnley FC
-  Hull City                   2-2  West Ham United
-  Liverpool FC                0-1  Aston Villa
-  Manchester United           4-0  Queens Park Rangers
-  Southampton FC              4-0  Newcastle United
-  Stoke City                  0-1  Leicester City
-  Sunderland AFC              2-2  Tottenham Hotspur
-  West Bromwich Albion        0-2  Everton FC
+  Arsenal FC               2-2  Manchester City FC
+  Sunderland AFC           2-2  Tottenham Hotspur FC
+  Southampton FC           4-0  Newcastle United FC
+  Stoke City FC            0-1  Leicester City FC
+  Chelsea FC               4-2  Swansea City FC
+  West Bromwich Albion FC  0-2  Everton FC
+  Crystal Palace FC        0-0  Burnley FC
+  Liverpool FC             0-1  Aston Villa FC
+[Sun Sep/14]
+  Manchester United FC     4-0  Queens Park Rangers FC
+[Mon Sep/15]
+  Hull City AFC            2-2  West Ham United FC
 
 
 Matchday 5
-
 [Sat Sep/20]
-  Aston Villa                 0-3  Arsenal FC
-  Burnley FC                  0-0  Sunderland AFC
-  Everton FC                  2-3  Crystal Palace
-  Leicester City              5-3  Manchester United
-  Manchester City             1-1  Chelsea FC
-  Newcastle United            2-2  Hull City
-  Queens Park Rangers         2-2  Stoke City
-  Swansea City                0-1  Southampton FC
-  Tottenham Hotspur           0-1  West Bromwich Albion
-  West Ham United             3-1  Liverpool FC
+  Queens Park Rangers FC   2-2  Stoke City FC
+  Swansea City FC          0-1  Southampton FC
+  Burnley FC               0-0  Sunderland AFC
+  Aston Villa FC           0-3  Arsenal FC
+  Newcastle United FC      2-2  Hull City AFC
+  West Ham United FC       3-1  Liverpool FC
+[Sun Sep/21]
+  Leicester City FC        5-3  Manchester United FC
+  Tottenham Hotspur FC     0-1  West Bromwich Albion FC
+  Manchester City FC       1-1  Chelsea FC
+  Everton FC               2-3  Crystal Palace FC
 
 
 Matchday 6
-
 [Sat Sep/27]
-  Arsenal FC                  1-1  Tottenham Hotspur
-  Chelsea FC                  3-0  Aston Villa
-  Crystal Palace              2-0  Leicester City
-  Hull City                   2-4  Manchester City
-  Liverpool FC                1-1  Everton FC
-  Manchester United           2-1  West Ham United
-  Southampton FC              2-1  Queens Park Rangers
-  Stoke City                  1-0  Newcastle United
-  Sunderland AFC              0-0  Swansea City
-  West Bromwich Albion        4-0  Burnley FC
+  Liverpool FC             1-1  Everton FC
+  Hull City AFC            2-4  Manchester City FC
+  Southampton FC           2-1  Queens Park Rangers FC
+  Chelsea FC               3-0  Aston Villa FC
+  Crystal Palace FC        2-0  Leicester City FC
+  Sunderland AFC           0-0  Swansea City FC
+  Manchester United FC     2-1  West Ham United FC
+  Arsenal FC               1-1  Tottenham Hotspur FC
+[Sun Sep/28]
+  West Bromwich Albion FC  4-0  Burnley FC
+[Mon Sep/29]
+  Stoke City FC            1-0  Newcastle United FC
 
 
 Matchday 7
-
 [Sat Oct/4]
-  Aston Villa                 0-2  Manchester City
-  Chelsea FC                  2-0  Arsenal FC
-  Hull City                   2-0  Crystal Palace
-  Leicester City              2-2  Burnley FC
-  Liverpool FC                2-1  West Bromwich Albion
-  Manchester United           2-1  Everton FC
-  Sunderland AFC              3-1  Stoke City
-  Swansea City                2-2  Newcastle United
-  Tottenham Hotspur           1-0  Southampton FC
-  West Ham United             2-0  Queens Park Rangers
+  Hull City AFC            2-0  Crystal Palace FC
+  Swansea City FC          2-2  Newcastle United FC
+  Liverpool FC             2-1  West Bromwich Albion FC
+  Sunderland AFC           3-1  Stoke City FC
+  Leicester City FC        2-2  Burnley FC
+  Aston Villa FC           0-2  Manchester City FC
+[Sun Oct/5]
+  Manchester United FC     2-1  Everton FC
+  Tottenham Hotspur FC     1-0  Southampton FC
+  Chelsea FC               2-0  Arsenal FC
+  West Ham United FC       2-0  Queens Park Rangers FC
 
 
 Matchday 8
-
 [Sat Oct/18]
-  Arsenal FC                  2-2  Hull City
-  Burnley FC                  1-3  West Ham United
-  Crystal Palace              1-2  Chelsea FC
-  Everton FC                  3-0  Aston Villa
-  Manchester City             4-1  Tottenham Hotspur
-  Newcastle United            1-0  Leicester City
-  Queens Park Rangers         2-3  Liverpool FC
-  Southampton FC              8-0  Sunderland AFC
-  Stoke City                  2-1  Swansea City
-  West Bromwich Albion        2-2  Manchester United
+  Manchester City FC       4-1  Tottenham Hotspur FC
+  Arsenal FC               2-2  Hull City AFC
+  Burnley FC               1-3  West Ham United FC
+  Everton FC               3-0  Aston Villa FC
+  Crystal Palace FC        1-2  Chelsea FC
+  Southampton FC           8-0  Sunderland AFC
+  Newcastle United FC      1-0  Leicester City FC
+[Sun Oct/19]
+  Queens Park Rangers FC   2-3  Liverpool FC
+  Stoke City FC            2-1  Swansea City FC
+[Mon Oct/20]
+  West Bromwich Albion FC  2-2  Manchester United FC
 
 
 Matchday 9
-
 [Sat Oct/25]
-  Burnley FC                  1-3  Everton FC
-  Liverpool FC                0-0  Hull City
-  Manchester United           1-1  Chelsea FC
-  Queens Park Rangers         2-0  Aston Villa
-  Southampton FC              1-0  Stoke City
-  Sunderland AFC              0-2  Arsenal FC
-  Swansea City                2-0  Leicester City
-  Tottenham Hotspur           1-2  Newcastle United
-  West Bromwich Albion        2-2  Crystal Palace
-  West Ham United             2-1  Manchester City
+  West Ham United FC       2-1  Manchester City FC
+  Southampton FC           1-0  Stoke City FC
+  Liverpool FC             0-0  Hull City AFC
+  Sunderland AFC           0-2  Arsenal FC
+  West Bromwich Albion FC  2-2  Crystal Palace FC
+  Swansea City FC          2-0  Leicester City FC
+[Sun Oct/26]
+  Burnley FC               1-3  Everton FC
+  Tottenham Hotspur FC     1-2  Newcastle United FC
+  Manchester United FC     1-1  Chelsea FC
+[Mon Oct/27]
+  Queens Park Rangers FC   2-0  Aston Villa FC
 
 
 Matchday 10
-
 [Sat Nov/1]
-  Arsenal FC                  3-0  Burnley FC
-  Aston Villa                 1-2  Tottenham Hotspur
-  Chelsea FC                  2-1  Queens Park Rangers
-  Everton FC                  0-0  Swansea City
-  Hull City                   0-1  Southampton FC
-  Leicester City              0-1  West Bromwich Albion
-  Manchester City             1-0  Manchester United
-  Newcastle United            1-0  Liverpool FC
-  Stoke City                  2-2  West Ham United
-  Crystal Palace              1-3  Sunderland AFC
+  Newcastle United FC      1-0  Liverpool FC
+  Leicester City FC        0-1  West Bromwich Albion FC
+  Everton FC               0-0  Swansea City FC
+  Chelsea FC               2-1  Queens Park Rangers FC
+  Arsenal FC               3-0  Burnley FC
+  Hull City AFC            0-1  Southampton FC
+  Stoke City FC            2-2  West Ham United FC
+[Sun Nov/2]
+  Manchester City FC       1-0  Manchester United FC
+  Aston Villa FC           1-2  Tottenham Hotspur FC
+[Mon Nov/3]
+  Crystal Palace FC        1-3  Sunderland AFC
 
 
 Matchday 11
-
 [Sat Nov/8]
-  Burnley FC                  1-0  Hull City
-  Liverpool FC                1-2  Chelsea FC
-  Manchester United           1-0  Crystal Palace
-  Queens Park Rangers         2-2  Manchester City
-  Southampton FC              2-0  Leicester City
-  Sunderland AFC              1-1  Everton FC
-  Swansea City                2-1  Arsenal FC
-  Tottenham Hotspur           1-2  Stoke City
-  West Bromwich Albion        0-2  Newcastle United
-  West Ham United             0-0  Aston Villa
+  Liverpool FC             1-2  Chelsea FC
+  Southampton FC           2-0  Leicester City FC
+  Manchester United FC     1-0  Crystal Palace FC
+  West Ham United FC       0-0  Aston Villa FC
+  Burnley FC               1-0  Hull City AFC
+  Queens Park Rangers FC   2-2  Manchester City FC
+[Sun Nov/9]
+  Sunderland AFC           1-1  Everton FC
+  Tottenham Hotspur FC     1-2  Stoke City FC
+  West Bromwich Albion FC  0-2  Newcastle United FC
+  Swansea City FC          2-1  Arsenal FC
 
 
 Matchday 12
-
 [Sat Nov/22]
-  Arsenal FC                  1-2  Manchester United
-  Aston Villa                 1-1  Southampton FC
-  Chelsea FC                  2-0  West Bromwich Albion
-  Crystal Palace              3-1  Liverpool FC
-  Everton FC                  2-1  West Ham United
-  Hull City                   1-2  Tottenham Hotspur
-  Leicester City              0-0  Sunderland AFC
-  Manchester City             2-1  Swansea City
-  Newcastle United            1-0  Queens Park Rangers
-  Stoke City                  1-2  Burnley FC
+  Manchester City FC       2-1  Swansea City FC
+  Everton FC               2-1  West Ham United FC
+  Stoke City FC            1-2  Burnley FC
+  Leicester City FC        0-0  Sunderland AFC
+  Newcastle United FC      1-0  Queens Park Rangers FC
+  Chelsea FC               2-0  West Bromwich Albion FC
+  Arsenal FC               1-2  Manchester United FC
+[Sun Nov/23]
+  Crystal Palace FC        3-1  Liverpool FC
+  Hull City AFC            1-2  Tottenham Hotspur FC
+[Mon Nov/24]
+  Aston Villa FC           1-1  Southampton FC
 
 
 Matchday 13
-
 [Sat Nov/29]
-  Burnley FC                  1-1  Aston Villa
-  Liverpool FC                1-0  Stoke City
-  Manchester United           3-0  Hull City
-  Queens Park Rangers         3-2  Leicester City
-  Southampton FC              0-3  Manchester City
-  Sunderland AFC              0-0  Chelsea FC
-  Swansea City                1-1  Crystal Palace
-  Tottenham Hotspur           2-1  Everton FC
-  West Bromwich Albion        0-1  Arsenal FC
-  West Ham United             1-0  Newcastle United
+  West Bromwich Albion FC  0-1  Arsenal FC
+  Liverpool FC             1-0  Stoke City FC
+  Burnley FC               1-1  Aston Villa FC
+  Swansea City FC          1-1  Crystal Palace FC
+  Manchester United FC     3-0  Hull City AFC
+  Queens Park Rangers FC   3-2  Leicester City FC
+  West Ham United FC       1-0  Newcastle United FC
+  Sunderland AFC           0-0  Chelsea FC
+[Sun Nov/30]
+  Southampton FC           0-3  Manchester City FC
+  Tottenham Hotspur FC     2-1  Everton FC
 
 
 Matchday 14
-
 [Tue Dec/2]
-  Arsenal FC                  1-0  Southampton FC
-  Burnley FC                  1-1  Newcastle United
-  Leicester City              1-3  Liverpool FC
-  Manchester United           2-1  Stoke City
-  Swansea City                2-0  Queens Park Rangers
-  Crystal Palace              0-1  Aston Villa
-  West Bromwich Albion        1-2  West Ham United
+  Leicester City FC        1-3  Liverpool FC
+  Burnley FC               1-1  Newcastle United FC
+  Manchester United FC     2-1  Stoke City FC
+  Swansea City FC          2-0  Queens Park Rangers FC
+  West Bromwich Albion FC  1-2  West Ham United FC
+  Crystal Palace FC        0-1  Aston Villa FC
 [Wed Dec/3]
-  Chelsea FC                  3-0  Tottenham Hotspur
-  Everton FC                  1-1  Hull City
-  Sunderland AFC              1-4  Manchester City
+  Everton FC               1-1  Hull City AFC
+  Sunderland AFC           1-4  Manchester City FC
+  Chelsea FC               3-0  Tottenham Hotspur FC
+  Arsenal FC               1-0  Southampton FC
 
 
 Matchday 15
-
 [Sat Dec/6]
-  Aston Villa                 2-1  Leicester City
-  Hull City                   0-0  West Bromwich Albion
-  Liverpool FC                0-0  Sunderland AFC
-  Manchester City             1-0  Everton FC
-  Newcastle United            2-1  Chelsea FC
-  Queens Park Rangers         2-0  Burnley FC
-  Southampton FC              1-2  Manchester United
-  Stoke City                  3-2  Arsenal FC
-  Tottenham Hotspur           0-0  Crystal Palace
-  West Ham United             3-1  Swansea City
+  Newcastle United FC      2-1  Chelsea FC
+  Hull City AFC            0-0  West Bromwich Albion FC
+  Tottenham Hotspur FC     0-0  Crystal Palace FC
+  Liverpool FC             0-0  Sunderland AFC
+  Stoke City FC            3-2  Arsenal FC
+  Queens Park Rangers FC   2-0  Burnley FC
+  Manchester City FC       1-0  Everton FC
+[Sun Dec/7]
+  West Ham United FC       3-1  Swansea City FC
+  Aston Villa FC           2-1  Leicester City FC
+[Mon Dec/8]
+  Southampton FC           1-2  Manchester United FC
 
 
 Matchday 16
-
 [Sat Dec/13]
-  Arsenal FC                  4-1  Newcastle United
-  Burnley FC                  1-0  Southampton FC
-  Chelsea FC                  2-0  Hull City
-  Crystal Palace              1-1  Stoke City
-  Everton FC                  3-1  Queens Park Rangers
-  Leicester City              0-1  Manchester City
-  Manchester United           3-0  Liverpool FC
-  Sunderland AFC              1-1  West Ham United
-  Swansea City                1-2  Tottenham Hotspur
-  West Bromwich Albion        1-0  Aston Villa
+  Burnley FC               1-0  Southampton FC
+  West Bromwich Albion FC  1-0  Aston Villa FC
+  Chelsea FC               2-0  Hull City AFC
+  Leicester City FC        0-1  Manchester City FC
+  Crystal Palace FC        1-1  Stoke City FC
+  Sunderland AFC           1-1  West Ham United FC
+  Arsenal FC               4-1  Newcastle United FC
+[Sun Dec/14]
+  Manchester United FC     3-0  Liverpool FC
+  Swansea City FC          1-2  Tottenham Hotspur FC
+[Mon Dec/15]
+  Everton FC               3-1  Queens Park Rangers FC
 
 
 Matchday 17
-
 [Sat Dec/20]
-  Aston Villa                 1-1  Manchester United
-  Hull City                   0-1  Swansea City
-  Liverpool FC                2-2  Arsenal FC
-  Manchester City             3-0  Crystal Palace
-  Newcastle United            0-1  Sunderland AFC
-  Queens Park Rangers         3-2  West Bromwich Albion
-  Southampton FC              3-0  Everton FC
-  Stoke City                  0-2  Chelsea FC
-  Tottenham Hotspur           2-1  Burnley FC
-  West Ham United             2-0  Leicester City
+  Manchester City FC       3-0  Crystal Palace FC
+  Aston Villa FC           1-1  Manchester United FC
+  Southampton FC           3-0  Everton FC
+  Hull City AFC            0-1  Swansea City FC
+  West Ham United FC       2-0  Leicester City FC
+  Queens Park Rangers FC   3-2  West Bromwich Albion FC
+  Tottenham Hotspur FC     2-1  Burnley FC
+[Sun Dec/21]
+  Newcastle United FC      0-1  Sunderland AFC
+  Liverpool FC             2-2  Arsenal FC
+[Mon Dec/22]
+  Stoke City FC            0-2  Chelsea FC
 
 
 Matchday 18
-
 [Fri Dec/26]
-  Arsenal FC                  2-1  Queens Park Rangers
-  Burnley FC                  0-1  Liverpool FC
-  Chelsea FC                  2-0  West Ham United
-  Crystal Palace              1-3  Southampton FC
-  Everton FC                  0-1  Stoke City
-  Leicester City              1-2  Tottenham Hotspur
-  Manchester United           3-1  Newcastle United
-  Sunderland AFC              1-3  Hull City
-  Swansea City                1-0  Aston Villa
-  West Bromwich Albion        1-3  Manchester City
+  Chelsea FC               2-0  West Ham United FC
+  Burnley FC               0-1  Liverpool FC
+  Leicester City FC        1-2  Tottenham Hotspur FC
+  Manchester United FC     3-1  Newcastle United FC
+  Swansea City FC          1-0  Aston Villa FC
+  West Bromwich Albion FC  1-3  Manchester City FC
+  Crystal Palace FC        1-3  Southampton FC
+  Everton FC               0-1  Stoke City FC
+  Sunderland AFC           1-3  Hull City AFC
+  Arsenal FC               2-1  Queens Park Rangers FC
 
 
 Matchday 19
-
 [Sun Dec/28]
-  Aston Villa                 0-0  Sunderland AFC
-  Hull City                   0-1  Leicester City
-  Liverpool FC                4-1  Swansea City
-  Manchester City             2-2  Burnley FC
-  Newcastle United            3-2  Everton FC
-  Queens Park Rangers         0-0  Crystal Palace
-  Southampton FC              1-1  Chelsea FC
-  Stoke City                  2-0  West Bromwich Albion
-  Tottenham Hotspur           0-0  Manchester United
-  West Ham United             1-2  Arsenal FC
+  Tottenham Hotspur FC     0-0  Manchester United FC
+  Southampton FC           1-1  Chelsea FC
+  West Ham United FC       1-2  Arsenal FC
+  Manchester City FC       2-2  Burnley FC
+  Hull City AFC            0-1  Leicester City FC
+  Aston Villa FC           0-0  Sunderland AFC
+  Queens Park Rangers FC   0-0  Crystal Palace FC
+  Stoke City FC            2-0  West Bromwich Albion FC
+  Newcastle United FC      3-2  Everton FC
+[Mon Dec/29]
+  Liverpool FC             4-1  Swansea City FC
+
+
+Matchday 20
+[Thu Jan/1]
+  Stoke City FC            1-1  Manchester United FC
+  West Ham United FC       1-1  West Bromwich Albion FC
+  Newcastle United FC      3-3  Burnley FC
+  Aston Villa FC           0-0  Crystal Palace FC
+  Liverpool FC             2-2  Leicester City FC
+  Queens Park Rangers FC   1-1  Swansea City FC
+  Southampton FC           2-0  Arsenal FC
+  Hull City AFC            2-0  Everton FC
+  Manchester City FC       3-2  Sunderland AFC
+  Tottenham Hotspur FC     5-3  Chelsea FC
+
+
+Matchday 21
+[Sat Jan/10]
+  Sunderland AFC           0-1  Liverpool FC
+  Chelsea FC               2-0  Newcastle United FC
+  Everton FC               1-1  Manchester City FC
+  Swansea City FC          1-1  West Ham United FC
+  West Bromwich Albion FC  1-0  Hull City AFC
+  Burnley FC               2-1  Queens Park Rangers FC
+  Leicester City FC        1-0  Aston Villa FC
+  Crystal Palace FC        2-1  Tottenham Hotspur FC
+[Sun Jan/11]
+  Arsenal FC               3-0  Stoke City FC
+  Manchester United FC     0-1  Southampton FC
+
+
+Matchday 22
+[Sat Jan/17]
+  Leicester City FC        0-1  Stoke City FC
+  Queens Park Rangers FC   0-2  Manchester United FC
+  Tottenham Hotspur FC     2-1  Sunderland AFC
+  Burnley FC               2-3  Crystal Palace FC
+  Swansea City FC          0-5  Chelsea FC
+  Aston Villa FC           0-2  Liverpool FC
+  Newcastle United FC      1-2  Southampton FC
+[Sun Jan/18]
+  West Ham United FC       3-0  Hull City AFC
+  Manchester City FC       0-2  Arsenal FC
+[Mon Jan/19]
+  Everton FC               0-0  West Bromwich Albion FC
+
+
+Matchday 23
+[Sat Jan/31]
+  Hull City AFC            0-3  Newcastle United FC
+  West Bromwich Albion FC  0-3  Tottenham Hotspur FC
+  Stoke City FC            3-1  Queens Park Rangers FC
+  Sunderland AFC           2-0  Burnley FC
+  Crystal Palace FC        0-1  Everton FC
+  Manchester United FC     3-1  Leicester City FC
+  Liverpool FC             2-0  West Ham United FC
+  Chelsea FC               1-1  Manchester City FC
+[Sun Feb/1]
+  Arsenal FC               5-0  Aston Villa FC
+  Southampton FC           0-1  Swansea City FC
+
+
+Matchday 24
+[Sat Feb/7]
+  Tottenham Hotspur FC     2-1  Arsenal FC
+  Aston Villa FC           1-2  Chelsea FC
+  Queens Park Rangers FC   0-1  Southampton FC
+  Leicester City FC        0-1  Crystal Palace FC
+  Swansea City FC          1-1  Sunderland AFC
+  Manchester City FC       1-1  Hull City AFC
+  Everton FC               0-0  Liverpool FC
+[Sun Feb/8]
+  Burnley FC               2-2  West Bromwich Albion FC
+  Newcastle United FC      1-1  Stoke City FC
+  West Ham United FC       1-1  Manchester United FC
+
+
+Matchday 25
+[Tue Feb/10]
+  Arsenal FC               2-1  Leicester City FC
+  Sunderland AFC           0-2  Queens Park Rangers FC
+  Hull City AFC            2-0  Aston Villa FC
+  Liverpool FC             3-2  Tottenham Hotspur FC
+[Wed Feb/11]
+  Stoke City FC            1-4  Manchester City FC
+  Chelsea FC               1-0  Everton FC
+  Southampton FC           0-0  West Ham United FC
+  Manchester United FC     3-1  Burnley FC
+  West Bromwich Albion FC  2-0  Swansea City FC
+  Crystal Palace FC        1-1  Newcastle United FC
+
+
+Matchday 26
+[Sat Feb/21]
+  Aston Villa FC           1-2  Stoke City FC
+  Hull City AFC            2-1  Queens Park Rangers FC
+  Chelsea FC               1-1  Burnley FC
+  Crystal Palace FC        1-2  Arsenal FC
+  Sunderland AFC           0-0  West Bromwich Albion FC
+  Swansea City FC          2-1  Manchester United FC
+  Manchester City FC       5-0  Newcastle United FC
+[Sun Feb/22]
+  Tottenham Hotspur FC     2-2  West Ham United FC
+  Everton FC               2-2  Leicester City FC
+  Southampton FC           0-2  Liverpool FC
+
+
+Matchday 27
+[Sat Feb/28]
+  West Ham United FC       1-3  Crystal Palace FC
+  Newcastle United FC      1-0  Aston Villa FC
+  West Bromwich Albion FC  1-0  Southampton FC
+  Stoke City FC            1-0  Hull City AFC
+  Manchester United FC     2-0  Sunderland AFC
+  Burnley FC               0-1  Swansea City FC
+[Sun Mar/1]
+  Liverpool FC             2-1  Manchester City FC
+  Arsenal FC               2-0  Everton FC
+
+
+Matchday 28
+[Tue Mar/3]
+  Southampton FC           1-0  Crystal Palace FC
+  Aston Villa FC           2-1  West Bromwich Albion FC
+  Hull City AFC            1-1  Sunderland AFC
+[Wed Mar/4]
+  Stoke City FC            2-0  Everton FC
+  West Ham United FC       0-1  Chelsea FC
+  Tottenham Hotspur FC     3-2  Swansea City FC
+  Newcastle United FC      0-1  Manchester United FC
+  Manchester City FC       2-0  Leicester City FC
+  Queens Park Rangers FC   1-2  Arsenal FC
+  Liverpool FC             2-0  Burnley FC
+
+
+Matchday 27
+[Sat Mar/7]
+  Queens Park Rangers FC   1-2  Tottenham Hotspur FC
+
+
+Matchday 29
+[Sat Mar/14]
+  Crystal Palace FC        3-1  Queens Park Rangers FC
+  Leicester City FC        0-0  Hull City AFC
+  Arsenal FC               3-0  West Ham United FC
+  West Bromwich Albion FC  1-0  Stoke City FC
+  Sunderland AFC           0-4  Aston Villa FC
+  Burnley FC               1-0  Manchester City FC
+[Sun Mar/15]
+  Chelsea FC               1-1  Southampton FC
+  Manchester United FC     3-0  Tottenham Hotspur FC
+  Everton FC               3-0  Newcastle United FC
+[Mon Mar/16]
+  Swansea City FC          0-1  Liverpool FC
+
+
+Matchday 30
+[Sat Mar/21]
+  Manchester City FC       3-0  West Bromwich Albion FC
+  Newcastle United FC      1-2  Arsenal FC
+  Southampton FC           2-0  Burnley FC
+  Tottenham Hotspur FC     4-3  Leicester City FC
+  Stoke City FC            1-2  Crystal Palace FC
+  Aston Villa FC           0-1  Swansea City FC
+  West Ham United FC       1-0  Sunderland AFC
+[Sun Mar/22]
+  Liverpool FC             1-2  Manchester United FC
+  Queens Park Rangers FC   1-2  Everton FC
+  Hull City AFC            2-3  Chelsea FC
+
+
+Matchday 31
+[Sat Apr/4]
+  Arsenal FC               4-1  Liverpool FC
+  West Bromwich Albion FC  1-4  Queens Park Rangers FC
+  Everton FC               1-0  Southampton FC
+  Swansea City FC          3-1  Hull City AFC
+  Manchester United FC     3-1  Aston Villa FC
+  Leicester City FC        2-1  West Ham United FC
+  Chelsea FC               2-1  Stoke City FC
+[Sun Apr/5]
+  Burnley FC               0-0  Tottenham Hotspur FC
+  Sunderland AFC           1-0  Newcastle United FC
+[Mon Apr/6]
+  Crystal Palace FC        2-1  Manchester City FC
+
+
+Matchday 33
+[Tue Apr/7]
+  Aston Villa FC           3-3  Queens Park Rangers FC
+
+
+Matchday 32
+[Sat Apr/11]
+  Swansea City FC          1-1  Everton FC
+  West Ham United FC       1-1  Stoke City FC
+  Sunderland AFC           1-4  Crystal Palace FC
+  West Bromwich Albion FC  2-3  Leicester City FC
+  Tottenham Hotspur FC     0-1  Aston Villa FC
+  Southampton FC           2-0  Hull City AFC
+  Burnley FC               0-1  Arsenal FC
+[Sun Apr/12]
+  Queens Park Rangers FC   0-1  Chelsea FC
+  Manchester United FC     4-2  Manchester City FC
+[Mon Apr/13]
+  Liverpool FC             2-0  Newcastle United FC
+
+
+Matchday 33
+[Sat Apr/18]
+  Crystal Palace FC        0-2  West Bromwich Albion FC
+  Stoke City FC            2-1  Southampton FC
+  Everton FC               1-0  Burnley FC
+  Leicester City FC        2-0  Swansea City FC
+  Chelsea FC               1-0  Manchester United FC
+[Sun Apr/19]
+  Manchester City FC       2-0  West Ham United FC
+  Newcastle United FC      1-3  Tottenham Hotspur FC
+
+
+Matchday 34
+[Sat Apr/25]
+  Southampton FC           2-2  Tottenham Hotspur FC
+  Stoke City FC            1-1  Sunderland AFC
+  Burnley FC               0-1  Leicester City FC
+  Crystal Palace FC        0-2  Hull City AFC
+  Queens Park Rangers FC   0-0  West Ham United FC
+  Newcastle United FC      2-3  Swansea City FC
+  West Bromwich Albion FC  0-0  Liverpool FC
+  Manchester City FC       3-2  Aston Villa FC
+[Sun Apr/26]
+  Everton FC               3-0  Manchester United FC
+  Arsenal FC               0-0  Chelsea FC
+
+
+Matchday 33
+[Tue Apr/28]
+  Hull City AFC            1-0  Liverpool FC
+
+
+Matchday 27
+[Wed Apr/29]
+  Leicester City FC        1-3  Chelsea FC
+
+
+Matchday 35
+[Sat May/2]
+  Leicester City FC        3-0  Newcastle United FC
+  West Ham United FC       1-0  Burnley FC
+  Aston Villa FC           3-2  Everton FC
+  Swansea City FC          2-0  Stoke City FC
+  Liverpool FC             2-1  Queens Park Rangers FC
+  Sunderland AFC           2-1  Southampton FC
+  Manchester United FC     0-1  West Bromwich Albion FC
+[Sun May/3]
+  Chelsea FC               1-0  Crystal Palace FC
+  Tottenham Hotspur FC     0-1  Manchester City FC
+[Mon May/4]
+  Hull City AFC            1-3  Arsenal FC
+
+
+Matchday 36
+[Sat May/9]
+  Everton FC               0-2  Sunderland AFC
+  Leicester City FC        2-0  Southampton FC
+  Stoke City FC            3-0  Tottenham Hotspur FC
+  Newcastle United FC      1-1  West Bromwich Albion FC
+  Hull City AFC            0-1  Burnley FC
+  Aston Villa FC           1-0  West Ham United FC
+  Crystal Palace FC        1-2  Manchester United FC
+[Sun May/10]
+  Manchester City FC       6-0  Queens Park Rangers FC
+  Chelsea FC               1-1  Liverpool FC
+[Mon May/11]
+  Arsenal FC               0-1  Swansea City FC
+
+
+Matchday 37
+[Sat May/16]
+  Southampton FC           6-1  Aston Villa FC
+  Sunderland AFC           0-0  Leicester City FC
+  Tottenham Hotspur FC     2-0  Hull City AFC
+  Burnley FC               0-0  Stoke City FC
+  Queens Park Rangers FC   2-1  Newcastle United FC
+  West Ham United FC       1-2  Everton FC
+  Liverpool FC             1-3  Crystal Palace FC
+[Sun May/17]
+  Swansea City FC          2-4  Manchester City FC
+  Manchester United FC     1-1  Arsenal FC
+[Mon May/18]
+  West Bromwich Albion FC  3-0  Chelsea FC
+
+
+Matchday 33
+[Wed May/20]
+  Arsenal FC               0-0  Sunderland AFC
+
+
+Matchday 38
+[Sun May/24]
+  Arsenal FC               4-1  West Bromwich Albion FC
+  Everton FC               0-1  Tottenham Hotspur FC
+  Manchester City FC       2-0  Southampton FC
+  Stoke City FC            6-1  Liverpool FC
+  Hull City AFC            0-0  Manchester United FC
+  Chelsea FC               3-1  Sunderland AFC
+  Leicester City FC        5-1  Queens Park Rangers FC
+  Newcastle United FC      2-0  West Ham United FC
+  Aston Villa FC           0-1  Burnley FC
+  Crystal Palace FC        1-0  Swansea City FC
