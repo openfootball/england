@@ -334,3 +334,287 @@ Matchday 19
   Reading FC - Swansea City              0-0
   Stoke City - Liverpool FC              3-1
   Sunderland AFC - Manchester City       1-0
+
+
+Matchday 20
+
+[Sat Dec/29]
+  Arsenal          7-3  Newcastle
+  Aston Villa      0-3  Wigan
+  Fulham           1-2  Swansea
+  Manchester U     2-0  West Bromwich
+  Norwich          3-4  Manchester C
+  Reading          1-0  West Ham
+  Stoke            3-3  Southampton
+  Sunderland       1-2  Tottenham
+[Sun Dec/30]
+  Everton          1-2  Chelsea
+  QPR              0-3  Liverpool
+
+
+Matchday 21
+[Jan/1]
+Manchester C  3-0 Stoke
+Southampton   1-1 Arsenal
+Swansea       2-2 Aston Villa
+Tottenham     3-1 Reading
+West Bromwich 1-2 Fulham
+West Ham      2-1 Norwich
+Wigan         0-4 Manchester U
+[Jan/2]
+Chelsea       0-1 QPR
+Liverpool     3-0 Sunderland
+Newcastle     1-2 Everton
+
+Matchday 22
+[Jan/12]
+Aston Villa   0-1 Southampton
+Everton       0-0 Swansea
+Fulham        1-1 Wigan
+Norwich       0-0 Newcastle
+QPR           0-0 Tottenham
+Reading       3-2 West Bromwich
+Stoke         0-4 Chelsea
+Sunderland    3-0 West Ham
+[Jan/13]
+Arsenal       0-2 Manchester C
+Manchester U  2-1 Liverpool
+
+Matchday 23
+[Jan/19]
+Liverpool     5-0 Norwich
+Manchester C  2-0 Fulham
+Newcastle     1-2 Reading
+Swansea       3-1 Stoke
+West Bromwich 2-2 Aston Villa
+West Ham      1-1 QPR
+Wigan         2-3 Sunderland
+[Jan/20]
+Chelsea       2-1 Arsenal
+Tottenham     1-1 Manchester U
+[Jan/21]
+Southampton   0-0 Everton
+
+Matchday 24
+[Jan/29]
+Aston Villa   1-2 Newcastle
+QPR           0-0 Manchester C
+Stoke         2-2 Wigan
+Sunderland    0-0 Swansea
+[Jan/30]
+Arsenal       2-2 Liverpool
+Everton       2-1 West Bromwich
+Fulham        3-1 West Ham
+Manchester U  2-1 Southampton
+Norwich       1-1 Tottenham
+Reading       2-2 Chelsea
+
+Matchday 25
+[Feb/2]
+Arsenal       1-0 Stoke
+Everton       3-3 Aston Villa
+Fulham        0-1 Manchester U
+Newcastle     3-2 Chelsea
+QPR           0-0 Norwich
+Reading       2-1 Sunderland
+West Ham      1-0 Swansea
+Wigan         2-2 Southampton
+[Feb/3]
+Manchester C  2-2 Liverpool
+West Bromwich 0-1 Tottenham
+
+Matchday 26
+[Feb/9]
+Chelsea       4-1 Wigan
+Norwich       0-0 Fulham
+Southampton   3-1 Manchester C
+Stoke         2-1 Reading
+Sunderland    0-1 Arsenal
+Swansea       4-1 QPR
+Tottenham     2-1 Newcastle
+[Feb/10]
+Aston Villa   2-1 West Ham
+Manchester U  2-0 Everton
+[Feb/11]
+Liverpool     0-2 West Bromwich
+
+Matchday 27
+[Feb/17]
+Liverpool     5-0 Swansea
+[Feb/23]
+Arsenal       2-1 Aston Villa
+Fulham        1-0 Stoke
+Norwich       2-1 Everton
+QPR           0-2 Manchester U
+Reading       0-3 Wigan
+West Bromwich 2-1 Sunderland
+[Feb/24]
+Manchester C  2-0 Chelsea
+Newcastle     4-2 Southampton
+[Feb/25]
+West Ham      2-3 Tottenham
+
+Matchday 28
+[Mar/2]
+Manchester U  4-0 Norwich
+Everton       3-1 Reading
+Southampton   1-2 QPR
+Stoke         0-1 West Ham
+Sunderland    2-2 Fulham
+Swansea       1-0 Newcastle
+Chelsea       1-0 West Bromwich
+Wigan         0-4 Liverpool
+[Mar/3]
+Tottenham     2-1 Arsenal
+[Mar/4]
+Aston Villa   0-1 Manchester C
+
+Matchday 29
+[Mar/9]
+Reading       1-2 Aston Villa
+West Bromwich 2-1 Swansea
+QPR           3-1 Sunderland
+Norwich       0-0 Southampton
+[Mar/10]
+Newcastle     2-1 Stoke
+Liverpool     3-2 Tottenham
+
+[Apr/16]
+Arsenal       0-0 Everton
+[Apr/17]
+West Ham      2-2 Manchester U
+Manchester C  1-0 Wigan
+Fulham        0-3 Chelsea
+
+Matchday 30
+[Mar/16]
+Everton       2-0 Manchester C
+Stoke         0-0 West Bromwich
+Southampton   3-1 Liverpool
+Swansea       0-2 Arsenal
+Aston Villa   3-2 QPR
+Manchester U  1-0 Reading
+[Mar/17]
+Sunderland    1-1 Norwich
+Tottenham     0-1 Fulham
+Wigan         2-1 Newcastle
+Chelsea       2-0 West Ham
+
+Matchday 31
+[Mar/30]
+Sunderland    0-1 Manchester U
+Southampton   2-1 Chelsea
+Wigan         1-0 Norwich
+West Ham      3-1 West Bromwich
+Swansea       1-2 Tottenham
+Arsenal       4-1 Reading
+Manchester C  4-0 Newcastle
+Everton       1-0 Stoke
+[Mar/31]
+Aston Villa   1-2 Liverpool
+[Apr/1]
+Fulham        3-2 QPR
+
+Matchday 32
+[Apr/6]
+Reading       0-2 Southampton
+Norwich       2-2 Swansea
+Stoke         1-3 Aston Villa
+West Bromwich 1-2 Arsenal
+[Apr/7]
+Liverpool     0-0 West Ham
+Tottenham     2-2 Everton
+Chelsea       2-1 Sunderland
+Newcastle     1-0 Fulham
+QPR           1-1 Wigan
+[Apr/8]
+Manchester U  1-2 Manchester C
+
+Matchday 33
+[Apr/13]
+Aston Villa   1-1 Fulham
+Everton       2-0 QPR
+Reading       0-0 Liverpool
+Southampton   1-1 West Ham
+Arsenal       3-1 Norwich
+[Apr/14]
+Newcastle     0-3 Sunderland
+Stoke         0-2 Manchester U
+[May/7]
+Manchester C  1-0 West Bromwich
+Wigan         2-3 Swansea
+[May/8]
+Chelsea       2-2 Tottenham
+
+Matchday 34
+[Apr/20]
+Sunderland    1-0 Everton
+West Bromwich 1-1 Newcastle
+Norwich       2-1 Reading
+Fulham        0-1 Arsenal
+QPR           0-2 Stoke
+Swansea       0-0 Southampton
+West Ham      2-0 Wigan
+[Apr/21]
+Tottenham     3-1 Manchester C
+Liverpool     2-2 Chelsea
+[Apr/22]
+Manchester U  3-0 Aston Villa
+
+Matchday 35
+[Apr/27]
+Everton       1-0 Fulham
+Manchester C  2-1 West Ham
+Newcastle     0-6 Liverpool
+Southampton   0-3 West Bromwich
+Stoke         1-0 Norwich
+Wigan         2-2 Tottenham
+[Apr/28]
+Arsenal       1-1 Manchester U
+Chelsea       2-0 Swansea
+Reading       0-0 QPR
+[Apr/29]
+Aston Villa   6-1 Sunderland
+
+Matchday 36
+[May/4]
+Fulham        2-4 Reading
+Norwich       1-2 Aston Villa
+QPR           0-1 Arsenal
+Swansea       0-0 Manchester C
+Tottenham     1-0 Southampton
+West Bromwich 2-3 Wigan
+West Ham      0-0 Newcastle
+[May/5]
+Liverpool     0-0 Everton
+Manchester U  0-1 Chelsea
+[May/6]
+Sunderland    1-1 Stoke
+
+Matchday 37
+[May/11]
+Aston Villa   1-2 Chelsea
+[May/12]
+Everton       2-0 West Ham
+Fulham        1-3 Liverpool
+Manchester U  2-1 Swansea
+Norwich       4-0 West Bromwich
+QPR           1-2 Newcastle
+Stoke         1-2 Tottenham
+Sunderland    1-1 Southampton
+[May/14]
+Arsenal       4-1 Wigan
+Reading       0-2 Manchester C
+
+Matchday 38
+[May/19]
+Chelsea       2-1 Everton
+Liverpool     1-0 QPR
+Manchester C  2-3 Norwich
+Newcastle     0-1 Arsenal
+Southampton   1-1 Stoke
+Swansea       0-3 Fulham
+Tottenham     1-0 Sunderland
+West Bromwich 5-5 Manchester U
+West Ham      4-2 Reading
+Wigan         2-2 Aston Villa
