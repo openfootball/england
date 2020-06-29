@@ -1,44 +1,56 @@
-## todo/fix: use reverse order and "new" standard format
-
-
 = English Championship - Play-offs 2013/14
 
- Final
 
-May/24 Derby 0-1 QPR
+Semi-finals
+[Thu May/8]
+  Brighton                 1-2  Derby
+[Fri May/9]
+  Wigan                    0-0  QPR
+[Sun May/11]
+  Derby                    4-1  Brighton
+[Mon May/12]
+  QPR                      2-1  Wigan
 
- Semi-finals
 
-May/12 QPR 2-1 Wigan
-May/11 Derby 4-1 Brighton
-May/09 Wigan 0-0 QPR
-May/08 Brighton 1-2 Derby
+Final
+[Sat May/24]
+  Derby                    0-1  QPR
 
 
 = English League One - Play-offs 2013/14
 
- Final
 
-May/25 Leyton Orient 2-3 Rotherham
+Semi-finals
+[Sat May/10]
+  Peterborough             1-1  Leyton Orient
+  Preston                  1-1  Rotherham
+[Tue May/13]
+  Leyton Orient            2-1  Peterborough
+[Thu May/15]
+  Rotherham                3-1  Preston
 
- Semi-finals
 
-May/15 Rotherham 3-1 Preston
-May/13 Leyton Orient 2-1 Peterborough
-May/10 Preston 1-1 Rotherham
-May/10 Peterborough 1-1 Leyton Orient
+Final
+[Sun May/25]
+  Leyton Orient            2-3  Rotherham
 
 
 = English League Two - Play-offs 2013/14
 
- Final
 
-May/26 Burton 0-1 Fleetwood Town
+Semi-finals
+[Sun May/11]
+  Burton                   1-0  Southend
+[Mon May/12]
+  York                     0-1  Fleetwood Town
+[Fri May/16]
+  Fleetwood Town           0-0  York
+[Sat May/17]
+  Southend                 2-2  Burton
 
- Semi-finals
 
-May/17 Southend 2-2 Burton
-May/16 Fleetwood Town 0-0 York
-May/12 York 0-1 Fleetwood Town
-May/11 Burton 1-0 Southend
+Final
+[Mon May/26]
+  Burton                   0-1  Fleetwood Town
+
 
