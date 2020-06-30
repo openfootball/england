@@ -1,8 +1,5 @@
 = English Premier League 2015/16
 
-# start_at: 2015-08-08
-# 20 teams
-
  1  Leicester City          38  23 12  3  68-36  81
  2  Arsenal                 38  20 11  7  65-36  71
  3  Tottenham Hotspur       38  19 13  6  69-35  70
@@ -27,11 +24,6 @@
 
 
 = English Championship 2015/16
-
-#  see en.wikipedia.org/wiki/2015–16_Football_League_Championship
-#
-#  start_at: 2015-08-07
-#  24 teams
 
  1  Burnley                  46  26 15  5  72-35  93
  2  Middlesbrough            46  26 11  9  63-31  89
@@ -64,11 +56,6 @@
 
 = English League One 2015/16
 
-#  see en.wikipedia.org/wiki/2015–16_Football_League_One
-#
-#  start_at: 2015-08-08
-#  24 teams
-
  1  Wigan Athletic          46  24 15  7  82-45  87
  2  Burton Albion           46  25 10 11  57-37  85
 ---------------------------------------------------
@@ -99,11 +86,6 @@
 
 
 = English League Two 2015/16
-
-#   see en.wikipedia.org/wiki/2015–16_Football_League_Two
-#
-#  start_at: 2015-08-08
-#  24 Teams
 
  1  Northampton Town        46  29 12  5  82-46  99
  2  Oxford United           46  24 14  8  84-41  86

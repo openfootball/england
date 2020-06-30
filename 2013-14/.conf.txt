@@ -1,10 +1,5 @@
 = English Premier League 2013/14    # no. 22
 
-# see en.wikipedia.org/wiki/2013–14_Premier_League
-#
-# start_at: 2013-08-17
-# 20 teams
-
  1  Manchester City         38  27  5  6 102-37  86
  2  Liverpool               38  26  6  6 101-50  84
  3  Chelsea                 38  25  7  6  71-27  82
@@ -28,11 +23,6 @@
 
 
 = English Championship 2013/14
-
-#  see en.wikipedia.org/wiki/2013–14_Football_League_Championship
-#
-#  start_at: 2013-08-03
-#  24 Teams
 
  1  Leicester City          46  31  9  6  83-43 102
  2  Burnley                 46  26 15  5  72-37  93
@@ -61,11 +51,6 @@
 
 
 = English League One 2013/14
-
-#  see en.wikipedia.org/wiki/2013–14_Football_League_One
-#
-#  start_at: 2013-08-02
-#  24 Teams
 
  1  Wolverhampton Wanderers  46  31 10  5  89-31 103
  2  Brentford                46  28 10  8  72-43  94

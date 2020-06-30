@@ -1,10 +1,5 @@
 = English Premier League 2012/13    # no. 21
 
-#  see en.wikipedia.org/wiki/2012–13_Premier_League
-#
-#  start_at: 2012-08-18
-#  20 teams
-
  1  Manchester United       38  28  5  5  86-43  89
  2  Manchester City         38  23  9  6  66-34  78
  3  Chelsea                 38  22  9  7  75-39  75
@@ -28,11 +23,6 @@
 
 
 = English Championship 2012/13
-
-#  see en.wikipedia.org/wiki/2012–13_Football_League_Championship
-#
-#  start_at: 2012-08-17
-#  24 Teams
 
  1  Cardiff City             46  25 12  9  72-45  87
  2  Hull City                46  24  7 15  61-52  79
