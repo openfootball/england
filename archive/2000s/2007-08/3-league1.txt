@@ -8,7 +8,7 @@ Matchday 1
   Southend                 1-2  Leyton Orient
   Port Vale                1-1  Bristol Rovers
   Oldham                   2-1  Swansea
-  Nottingham               0-0  Bournemouth
+  Nottingham Forest        0-0  Bournemouth
   Northampton              1-1  Swindon
   Luton                    2-1  Hartlepool
   Huddersfield             1-0  Yeovil
@@ -21,7 +21,7 @@ Matchday 2
 [Sat Aug/18]
   Yeovil                   1-0  Port Vale
   Swindon                  2-1  Luton
-  Swansea                  0-0  Nottingham
+  Swansea                  0-0  Nottingham Forest
   Millwall                 1-0  Cheltenham
   Leyton Orient            1-0  Walsall
   Bournemouth              0-1  Huddersfield
@@ -35,7 +35,7 @@ Matchday 2
 
 Matchday 3
 [Sat Aug/25]
-  Nottingham               1-2  Leeds
+  Nottingham Forest        1-2  Leeds
   Walsall                  1-3  Swansea
   Tranmere                 2-0  Brighton
   Southend                 1-0  Millwall
@@ -60,7 +60,7 @@ Matchday 4
   Hartlepool               4-1  Oldham
   Gillingham FC            2-1  Walsall
   Carlisle                 1-0  Cheltenham
-  Bristol Rovers           2-2  Nottingham
+  Bristol Rovers           2-2  Nottingham Forest
   Bournemouth              0-1  Port Vale
   Brighton                 3-2  Southend
 
@@ -87,7 +87,7 @@ Matchday 6
   Tranmere                 2-1  Luton
   Bristol Rovers           0-3  Leeds
 [Sat Sep/15]
-  Port Vale                0-2  Nottingham
+  Port Vale                0-2  Nottingham Forest
   Yeovil                   0-1  Leyton Orient
   Bournemouth              1-1  Northampton
   Millwall                 1-2  Walsall
@@ -109,7 +109,7 @@ Matchday 7
   Walsall                  0-3  Oldham
   Swindon                  4-1  Bournemouth
   Southend                 3-2  Doncaster
-  Nottingham               4-0  Gillingham FC
+  Nottingham Forest        4-0  Gillingham FC
   Northampton              3-0  Huddersfield
   Luton                    2-1  Port Vale
   Leyton Orient            2-4  Hartlepool
@@ -124,7 +124,7 @@ Matchday 8
 [Sat Sep/29]
   Huddersfield             2-0  Luton
   Swansea                  0-0  Brighton
-  Yeovil                   0-3  Nottingham
+  Yeovil                   0-3  Nottingham Forest
   Tranmere                 2-2  Northampton
   Port Vale                1-2  Southend
   Bournemouth              1-3  Carlisle
@@ -144,7 +144,7 @@ Matchday 9
   Port Vale                3-0  Cheltenham
   Oldham                   0-1  Leeds
   Millwall                 2-0  Northampton
-  Huddersfield             1-1  Nottingham
+  Huddersfield             1-1  Nottingham Forest
   Hartlepool               2-2  Carlisle
   Gillingham FC            3-1  Leyton Orient
   Doncaster                2-3  Walsall
@@ -157,7 +157,7 @@ Matchday 10
   Walsall                  4-0  Huddersfield
   Swindon                  5-0  Gillingham FC
   Southend                 1-2  Tranmere
-  Nottingham               2-1  Hartlepool
+  Nottingham Forest        2-1  Hartlepool
   Northampton              2-1  Port Vale
   Luton                    1-1  Doncaster
   Leyton Orient            0-5  Swansea
@@ -177,7 +177,7 @@ Matchday 11
   Gillingham FC            1-1  Millwall
   Leeds                    1-1  Leyton Orient
   Port Vale                0-1  Brighton
-  Cheltenham               0-3  Nottingham
+  Cheltenham               0-3  Nottingham Forest
   Southend                 3-0  Crewe
 [Sun Oct/14]
   Bournemouth              1-4  Swansea
@@ -190,7 +190,7 @@ Matchday 12
 [Sat Oct/20]
   Northampton              2-1  Cheltenham
   Swindon                  1-0  Tranmere
-  Nottingham               0-0  Doncaster
+  Nottingham Forest        0-0  Doncaster
   Walsall                  0-2  Southend
   Millwall                 2-1  Bournemouth
   Leyton Orient            3-1  Port Vale
@@ -209,7 +209,7 @@ Matchday 13
   Southend                 0-1  Carlisle
   Port Vale                2-1  Swindon
   Oldham                   0-1  Northampton
-  Luton                    2-1  Nottingham
+  Luton                    2-1  Nottingham Forest
   Bournemouth              1-1  Walsall
   Hartlepool               1-2  Brighton
   Gillingham FC            3-2  Bristol Rovers
@@ -221,7 +221,7 @@ Matchday 13
 
 Matchday 5
 [Tue Oct/30]
-  Nottingham               0-0  Oldham
+  Nottingham Forest        0-0  Oldham
 
 
 Matchday 14
@@ -231,7 +231,7 @@ Matchday 14
   Brighton                 3-1  Luton
   Walsall                  2-0  Cheltenham
   Swindon                  1-2  Doncaster
-  Nottingham               2-0  Tranmere
+  Nottingham Forest        2-0  Tranmere
   Millwall                 0-1  Hartlepool
   Leyton Orient            1-0  Oldham
   Huddersfield             3-1  Port Vale
@@ -246,7 +246,7 @@ Matchday 15
   Tranmere                 0-1  Oldham
   Swindon                  1-1  Leyton Orient
   Port Vale                0-1  Crewe
-  Nottingham               4-1  Southend
+  Nottingham Forest        4-1  Southend
   Northampton              0-1  Bristol Rovers
   Millwall                 2-2  Swansea
   Luton                    0-0  Carlisle
@@ -279,7 +279,7 @@ Matchday 17
   Tranmere                 0-1  Swansea
   Swindon                  1-0  Bristol Rovers
   Port Vale                1-3  Doncaster
-  Nottingham               2-0  Crewe
+  Nottingham Forest        2-0  Crewe
   Northampton              0-2  Walsall
   Bournemouth              0-3  Oldham
   Luton                    1-0  Southend
@@ -299,7 +299,7 @@ Matchday 12
 Matchday 18
 [Tue Dec/4]
   Oldham                   1-1  Luton
-  Walsall                  1-0  Nottingham
+  Walsall                  1-0  Nottingham Forest
   Swansea                  3-0  Northampton
   Yeovil                   2-1  Bournemouth
   Leyton Orient            0-1  Millwall
@@ -314,7 +314,7 @@ Matchday 18
 
 Matchday 19
 [Fri Dec/7]
-  Brighton                 0-2  Nottingham
+  Brighton                 0-2  Nottingham Forest
 [Sat Dec/8]
   Southend                 2-1  Swindon
   Yeovil                   3-1  Hartlepool
@@ -335,7 +335,7 @@ Matchday 20
   Swindon                  0-3  Brighton
   Swansea                  3-0  Southend
   Port Vale                0-0  Tranmere
-  Nottingham               2-2  Northampton
+  Nottingham Forest        2-2  Northampton
   Millwall                 2-3  Oldham
   Huddersfield             2-1  Bristol Rovers
   Hartlepool               3-0  Crewe
@@ -352,7 +352,7 @@ Matchday 21
   Luton                    1-0  Tranmere
   Swindon                  2-1  Hartlepool
   Southend                 0-1  Oldham
-  Nottingham               2-0  Port Vale
+  Nottingham Forest        2-0  Port Vale
   Walsall                  3-0  Millwall
   Leyton Orient            0-0  Yeovil
   Leeds                    1-0  Bristol Rovers
@@ -369,7 +369,7 @@ Matchday 22
   Swansea                  4-1  Cheltenham
   Tranmere                 2-0  Carlisle
   Port Vale                1-1  Walsall
-  Oldham                   0-0  Nottingham
+  Oldham                   0-0  Nottingham Forest
   Huddersfield             1-1  Crewe
   Doncaster                2-0  Northampton
   Bristol Rovers           1-1  Luton
@@ -386,7 +386,7 @@ Matchday 23
   Millwall                 2-0  Crewe
   Huddersfield             1-2  Northampton
   Hartlepool               1-1  Leyton Orient
-  Gillingham FC            3-0  Nottingham
+  Gillingham FC            3-0  Nottingham Forest
   Doncaster                3-1  Southend
   Bristol Rovers           3-0  Carlisle
   Bournemouth              2-2  Swindon
@@ -403,7 +403,7 @@ Matchday 24
   Leyton Orient            0-0  Gillingham FC
   Walsall                  1-1  Doncaster
   Northampton              1-1  Millwall
-  Nottingham               2-1  Huddersfield
+  Nottingham Forest        2-1  Huddersfield
   Luton                    1-0  Yeovil
 [Wed Jan/2]
   Cheltenham               1-0  Port Vale
@@ -426,7 +426,7 @@ Matchday 26
   Walsall                  2-2  Swindon
   Port Vale                3-1  Millwall
   Oldham                   1-1  Brighton
-  Nottingham               4-0  Leyton Orient
+  Nottingham Forest        4-0  Leyton Orient
   Northampton              1-1  Hartlepool
   Luton                    1-3  Swansea
   Huddersfield             1-3  Gillingham FC
@@ -441,7 +441,7 @@ Matchday 27
   Hartlepool               0-2  Cheltenham
 [Sat Jan/19]
   Leyton Orient            2-1  Luton
-  Swindon                  2-1  Nottingham
+  Swindon                  2-1  Nottingham Forest
   Bournemouth              1-4  Southend
   Millwall                 0-1  Tranmere
   Yeovil                   0-0  Oldham
@@ -460,7 +460,7 @@ Matchday 25
   Gillingham FC            0-0  Oldham
   Bournemouth              4-3  Luton
 [Wed Jan/23]
-  Millwall                 2-2  Nottingham
+  Millwall                 2-2  Nottingham Forest
 
 
 Matchday 28
@@ -483,7 +483,7 @@ Matchday 29
   Southend                 1-0  Leeds
   Port Vale                2-2  Yeovil
   Oldham                   2-0  Carlisle
-  Nottingham               0-0  Swansea
+  Nottingham Forest        0-0  Swansea
   Northampton              1-0  Brighton
   Luton                    0-1  Swindon
   Huddersfield             1-0  Bournemouth
@@ -500,7 +500,7 @@ Matchday 30
   Millwall                 0-3  Doncaster
   Leyton Orient            2-2  Southend
   Leeds                    0-2  Tranmere
-  Bournemouth              2-0  Nottingham
+  Bournemouth              2-0  Nottingham Forest
   Gillingham FC            0-0  Cheltenham
   Carlisle                 2-1  Walsall
   Bristol Rovers           3-2  Port Vale
@@ -515,7 +515,7 @@ Matchday 18
 
 Matchday 31
 [Sat Feb/9]
-  Nottingham               2-0  Millwall
+  Nottingham Forest        2-0  Millwall
   Tranmere                 1-1  Leyton Orient
   Southend                 2-1  Hartlepool
   Cheltenham               2-1  Brighton
@@ -536,7 +536,7 @@ Matchday 32
   Swansea                  1-0  Walsall
   Millwall                 2-1  Southend
   Leyton Orient            0-1  Crewe
-  Leeds                    1-1  Nottingham
+  Leeds                    1-1  Nottingham Forest
   Hartlepool               3-2  Port Vale
   Carlisle                 2-1  Huddersfield
   Bristol Rovers           1-0  Oldham
@@ -550,7 +550,7 @@ Matchday 33
   Southend                 2-1  Bournemouth
   Port Vale                0-2  Swansea
   Oldham                   3-0  Yeovil
-  Nottingham               1-0  Swindon
+  Nottingham Forest        1-0  Swindon
   Cheltenham               1-1  Hartlepool
   Luton                    0-1  Leyton Orient
   Northampton              4-0  Gillingham FC
@@ -574,7 +574,7 @@ Matchday 34
   Millwall                 3-0  Port Vale
   Swindon                  0-3  Walsall
   Yeovil                   0-3  Southend
-  Leyton Orient            0-1  Nottingham
+  Leyton Orient            0-1  Nottingham Forest
   Leeds                    1-1  Crewe
   Gillingham FC            1-0  Huddersfield
   Carlisle                 1-0  Doncaster
@@ -613,7 +613,7 @@ Matchday 35
   Brighton                 1-1  Leyton Orient
   Bournemouth              2-0  Hartlepool
 [Mon Mar/3]
-  Nottingham               0-1  Carlisle
+  Nottingham Forest        0-1  Carlisle
 
 
 Matchday 21
@@ -644,7 +644,7 @@ Matchday 36
   Leeds                    2-0  Bournemouth
   Hartlepool               4-0  Gillingham FC
   Doncaster                2-1  Port Vale
-  Crewe                    0-0  Nottingham
+  Crewe                    0-0  Nottingham Forest
   Leyton Orient            0-1  Huddersfield
 
 
@@ -653,7 +653,7 @@ Matchday 37
   Yeovil                   0-1  Millwall
   Walsall                  1-2  Brighton
   Swansea                  1-1  Tranmere
-  Southend                 1-1  Nottingham
+  Southend                 1-1  Nottingham Forest
   Oldham                   2-0  Bournemouth
   Leyton Orient            2-1  Swindon
   Leeds                    1-2  Cheltenham
@@ -670,7 +670,7 @@ Matchday 38
   Tranmere                 3-1  Hartlepool
   Swindon                  2-2  Carlisle
   Port Vale                3-3  Leeds
-  Nottingham               1-1  Walsall
+  Nottingham Forest        1-1  Walsall
   Northampton              4-2  Swansea
   Millwall                 0-1  Leyton Orient
   Bournemouth              2-0  Yeovil
@@ -697,7 +697,7 @@ Matchday 39
 [Fri Mar/21]
   Southend                 1-1  Swansea
   Yeovil                   2-1  Doncaster
-  Northampton              1-2  Nottingham
+  Northampton              1-2  Nottingham Forest
 [Sat Mar/22]
   Oldham                   1-1  Millwall
   Luton                    1-1  Cheltenham
@@ -714,7 +714,7 @@ Matchday 40
   Walsall                  1-1  Crewe
   Swindon                  0-1  Southend
   Port Vale                2-1  Gillingham FC
-  Nottingham               0-0  Brighton
+  Nottingham Forest        0-0  Brighton
   Millwall                 0-0  Luton
   Hartlepool               2-0  Yeovil
   Swansea                  2-2  Bristol Rovers
@@ -726,7 +726,7 @@ Matchday 40
 
 Matchday 41
 [Fri Mar/28]
-  Doncaster                1-0  Nottingham
+  Doncaster                1-0  Nottingham Forest
   Tranmere                 2-1  Swindon
 [Sat Mar/29]
   Yeovil                   0-0  Bristol Rovers
@@ -743,7 +743,7 @@ Matchday 41
 
 Matchday 16
 [Tue Apr/1]
-  Carlisle                 0-2  Nottingham
+  Carlisle                 0-2  Nottingham Forest
 
 
 Matchday 32
@@ -761,7 +761,7 @@ Matchday 42
   Northampton              2-1  Luton
   Brighton                 2-3  Port Vale
   Swansea                  1-2  Bournemouth
-  Nottingham               3-1  Cheltenham
+  Nottingham Forest        3-1  Cheltenham
   Walsall                  2-1  Tranmere
   Millwall                 1-1  Gillingham FC
   Leyton Orient            0-2  Leeds
@@ -780,7 +780,7 @@ Matchday 21
 Matchday 28
 [Tue Apr/8]
   Southend                 2-0  Brighton
-  Nottingham               1-1  Bristol Rovers
+  Nottingham Forest        1-1  Bristol Rovers
 
 
 Matchday 43
@@ -789,7 +789,7 @@ Matchday 43
 [Sat Apr/12]
   Southend                 1-1  Northampton
   Yeovil                   0-3  Crewe
-  Tranmere                 0-2  Nottingham
+  Tranmere                 0-2  Nottingham Forest
   Leeds                    3-2  Carlisle
   Port Vale                0-0  Huddersfield
   Oldham                   2-0  Leyton Orient
@@ -815,7 +815,7 @@ Matchday 44
   Northampton              2-0  Oldham
   Swindon                  6-0  Port Vale
   Swansea                  1-2  Yeovil
-  Nottingham               1-0  Luton
+  Nottingham Forest        1-0  Luton
   Walsall                  1-3  Bournemouth
   Millwall                 0-2  Leeds
   Leyton Orient            1-1  Doncaster
@@ -842,7 +842,7 @@ Matchday 45
   Gillingham FC            1-1  Swindon
   Millwall                 3-0  Carlisle
   Huddersfield             2-0  Walsall
-  Hartlepool               0-1  Nottingham
+  Hartlepool               0-1  Nottingham Forest
   Doncaster                2-0  Luton
   Bristol Rovers           0-2  Brighton
   Bournemouth              1-0  Crewe
@@ -853,7 +853,7 @@ Matchday 46
   Walsall                  2-2  Hartlepool
   Swindon                  2-1  Millwall
   Southend                 1-1  Port Vale
-  Nottingham               3-2  Yeovil
+  Nottingham Forest        3-2  Yeovil
   Northampton              2-1  Tranmere
   Luton                    0-1  Huddersfield
   Leyton Orient            3-1  Bristol Rovers

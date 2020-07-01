@@ -8,7 +8,7 @@ Matchday 1
   Tranmere                 0-0  Bolton
   QPR                      3-1  Huddersfield
   Portsmouth               2-0  Sheffield Utd
-  Ipswich                  3-1  Nottingham
+  Ipswich                  3-1  Nottingham Forest
   Grimsby                  0-1  Stockport
   Crystal Palace           1-1  Crewe
   Charlton                 3-1  Barnsley
@@ -26,7 +26,7 @@ Matchday 2
   Stockport                2-1  Tranmere
   Sheffield Utd            1-1  Walsall
   Wolves                   1-1  Portsmouth
-  Nottingham               2-1  Grimsby
+  Nottingham Forest        2-1  Grimsby
   Barnsley                 2-3  Crystal Palace
   Fulham                   0-0  Manchester City
   Bolton                   2-1  QPR
@@ -37,7 +37,7 @@ Matchday 2
 
 Matchday 3
 [Thu Aug/19]
-  West Brom                1-1  Nottingham
+  West Brom                1-1  Nottingham Forest
 [Fri Aug/20]
   Manchester City          6-0  Sheffield Utd
   Tranmere                 1-0  Huddersfield
@@ -61,7 +61,7 @@ Matchday 4
   Swindon                  1-2  West Brom
   Sheffield Utd            2-2  Ipswich
   Port Vale                1-0  Tranmere
-  Nottingham               1-1  QPR
+  Nottingham Forest        1-1  QPR
   Norwich                  0-2  Blackburn
   Huddersfield             7-1  Crystal Palace
   Fulham                   2-1  Charlton
@@ -75,7 +75,7 @@ Matchday 5
   Walsall                  2-2  Norwich
   Tranmere                 1-3  Sheffield Utd
   Portsmouth               0-0  Huddersfield
-  Manchester City          1-0  Nottingham
+  Manchester City          1-0  Nottingham Forest
   Ipswich                  6-1  Barnsley
   Grimsby                  1-0  Swindon
   Birmingham               5-1  Crewe
@@ -88,7 +88,7 @@ Matchday 6
   Barnsley                 3-0  Tranmere
 [Fri Sep/3]
   Sheffield Utd            3-1  Crystal Palace
-  Nottingham               4-1  Walsall
+  Nottingham Forest        4-1  Walsall
 [Sat Sep/4]
   Port Vale                3-1  Grimsby
   Bolton                   3-3  Birmingham
@@ -98,7 +98,7 @@ Matchday 7
 [Thu Sep/9]
   Barnsley                 2-1  Stockport
 [Fri Sep/10]
-  Swindon                  0-0  Nottingham
+  Swindon                  0-0  Nottingham Forest
   Wolves                   0-1  Huddersfield
   Portsmouth               1-1  Ipswich
   Port Vale                0-2  Fulham
@@ -124,7 +124,7 @@ Matchday 8
   Crewe                    2-1  Swindon
   Bolton                   2-2  Barnsley
 [Sat Sep/18]
-  Nottingham               1-1  Wolves
+  Nottingham Forest        1-1  Wolves
 
 
 Matchday 9
@@ -136,7 +136,7 @@ Matchday 9
   Portsmouth               1-2  Grimsby
   Port Vale                2-0  Swindon
   Barnsley                 4-2  Huddersfield
-  Bolton                   3-2  Nottingham
+  Bolton                   3-2  Nottingham Forest
   Blackburn                2-0  Walsall
   Birmingham               2-0  QPR
   Fulham                   3-0  Crewe
@@ -158,7 +158,7 @@ Matchday 6
 
 Matchday 10
 [Thu Sep/30]
-  Nottingham               3-0  Barnsley
+  Nottingham Forest        3-0  Barnsley
 [Fri Oct/1]
   Swindon                  0-4  Bolton
   Walsall                  1-2  Stockport
@@ -190,7 +190,7 @@ Matchday 12
   Tranmere                 1-1  Manchester City
   West Brom                0-1  Walsall
   Stockport                2-1  Crewe
-  Sheffield Utd            2-1  Nottingham
+  Sheffield Utd            2-1  Nottingham Forest
   Portsmouth               0-2  Charlton
   Port Vale                0-1  Norwich
   Ipswich                  1-4  QPR
@@ -208,7 +208,7 @@ Matchday 13
   Stockport                1-1  Huddersfield
   Sheffield Utd            0-0  Norwich
   Portsmouth               5-1  Walsall
-  Port Vale                0-2  Nottingham
+  Port Vale                0-2  Nottingham Forest
   Ipswich                  4-2  Charlton
   Fulham                   0-1  Wolves
   Bolton                   2-2  Crewe
@@ -224,7 +224,7 @@ Matchday 14
   Walsall                  0-1  Ipswich
   Swindon                  2-2  Sheffield Utd
   QPR                      0-0  Portsmouth
-  Nottingham               1-1  Stockport
+  Nottingham Forest        1-1  Stockport
   Manchester City          2-0  Blackburn
   Huddersfield             1-1  Fulham
   Grimsby                  1-1  Birmingham
@@ -248,7 +248,7 @@ Matchday 15
   Crewe                    1-1  Fulham
 [Tue Oct/26]
   QPR                      2-2  Birmingham
-  Nottingham               1-1  Bolton
+  Nottingham Forest        1-1  Bolton
   Manchester City          1-0  Ipswich
 
 
@@ -259,7 +259,7 @@ Matchday 16
   Sheffield Utd            0-1  Huddersfield
   Tranmere                 2-0  Crewe
   Port Vale                1-2  Manchester City
-  Barnsley                 1-0  Nottingham
+  Barnsley                 1-0  Nottingham Forest
   Fulham                   1-1  Norwich
   Bolton                   2-0  Swindon
   Blackburn                0-2  QPR
@@ -294,7 +294,7 @@ Matchday 17
   Stockport                2-1  Fulham
   QPR                      1-1  Manchester City
   Wolves                   3-0  Grimsby
-  Norwich                  1-0  Nottingham
+  Norwich                  1-0  Nottingham Forest
   Barnsley                 2-0  Sheffield Utd
   Charlton                 2-1  Walsall
   Bolton                   2-0  Crystal Palace
@@ -318,14 +318,14 @@ Matchday 18
 [Sat Nov/13]
   Sheffield Utd            1-2  Bolton
   West Brom                3-2  Portsmouth
-  Nottingham               1-3  Huddersfield
+  Nottingham Forest        1-3  Huddersfield
   Crystal Palace           3-0  QPR
 
 
 Matchday 19
 [Fri Nov/19]
   Stockport                1-1  Sheffield Utd
-  Tranmere                 3-0  Nottingham
+  Tranmere                 3-0  Nottingham Forest
   Wolves                   1-1  Swindon
   QPR                      2-1  Walsall
   Portsmouth               0-2  Crewe
@@ -351,7 +351,7 @@ Matchday 20
   Crewe                    0-0  Blackburn
   Fulham                   1-1  Bolton
 [Tue Nov/23]
-  Nottingham               2-0  Portsmouth
+  Nottingham Forest        2-0  Portsmouth
   Ipswich                  1-0  Wolves
   Manchester City          3-1  Barnsley
 
@@ -365,7 +365,7 @@ Matchday 21
   Portsmouth               0-0  Bolton
   Birmingham               1-1  Swindon
   Ipswich                  2-1  Crewe
-  Crystal Palace           2-0  Nottingham
+  Crystal Palace           2-0  Nottingham Forest
   Charlton                 2-2  Port Vale
   Blackburn                2-0  Stockport
   Manchester City          0-1  Huddersfield
@@ -398,7 +398,7 @@ Matchday 22
   Bolton                   2-3  Tranmere
   Fulham                   0-0  Birmingham
 [Sat Dec/4]
-  Nottingham               0-1  Ipswich
+  Nottingham Forest        0-1  Ipswich
 
 
 Matchday 5
@@ -433,7 +433,7 @@ Matchday 18
 
 Matchday 11
 [Tue Dec/14]
-  Nottingham               0-0  Fulham
+  Nottingham Forest        0-0  Fulham
 
 
 Matchday 23
@@ -443,7 +443,7 @@ Matchday 23
 [Fri Dec/17]
   QPR                      0-0  Charlton
   Portsmouth               0-0  Port Vale
-  Nottingham               1-0  Crewe
+  Nottingham Forest        1-0  Crewe
   Manchester City          3-0  Swindon
   Ipswich                  3-1  West Brom
   Huddersfield             3-1  Grimsby
@@ -464,7 +464,7 @@ Matchday 24
   West Brom                0-2  Manchester City
   Fulham                   0-0  Ipswich
   Charlton                 2-1  Crystal Palace
-  Blackburn                2-1  Nottingham
+  Blackburn                2-1  Nottingham Forest
   Birmingham               0-2  Sheffield Utd
   Swindon                  1-1  Portsmouth
 
@@ -476,7 +476,7 @@ Matchday 25
   Sheffield Utd            2-0  Fulham
   QPR                      1-0  Crewe
   Portsmouth               1-2  Blackburn
-  Nottingham               1-0  Birmingham
+  Nottingham Forest        1-0  Birmingham
   Manchester City          2-1  Grimsby
   Ipswich                  1-0  Stockport
   Huddersfield             1-2  Charlton
@@ -496,7 +496,7 @@ Matchday 26
   Birmingham               1-0  Huddersfield
   Fulham                   1-0  Tranmere
   Crewe                    1-1  Manchester City
-  Charlton                 3-0  Nottingham
+  Charlton                 3-0  Nottingham Forest
   Blackburn                1-1  Wolves
   Grimsby                  2-2  Sheffield Utd
 
@@ -519,7 +519,7 @@ Matchday 27
   QPR                      0-1  Bolton
   West Brom                0-0  Port Vale
   Ipswich                  3-0  Swindon
-  Grimsby                  4-3  Nottingham
+  Grimsby                  4-3  Nottingham Forest
   Crystal Palace           0-2  Barnsley
   Charlton                 1-0  Crewe
   Birmingham               2-0  Norwich
@@ -532,7 +532,7 @@ Matchday 28
 [Thu Jan/20]
   Swindon                  2-4  Crystal Palace
 [Fri Jan/21]
-  Nottingham               0-0  West Brom
+  Nottingham Forest        0-0  West Brom
   Stockport                1-1  Portsmouth
   Sheffield Utd            1-0  Manchester City
   Port Vale                3-1  Birmingham
@@ -549,7 +549,7 @@ Matchday 29
 [Fri Jan/28]
   West Brom                1-1  Swindon
   Walsall                  1-1  Wolves
-  QPR                      1-1  Nottingham
+  QPR                      1-1  Nottingham Forest
   Portsmouth               3-0  Barnsley
   Birmingham               2-1  Stockport
   Grimsby                  1-1  Crewe
@@ -564,7 +564,7 @@ Matchday 30
   Stockport                1-3  Charlton
   Sheffield Utd            3-1  Tranmere
   Port Vale                1-1  QPR
-  Nottingham               1-3  Manchester City
+  Nottingham Forest        1-3  Manchester City
   Barnsley                 0-2  Ipswich
   Huddersfield             0-1  Portsmouth
   Fulham                   1-0  West Brom
@@ -583,7 +583,7 @@ Matchday 31
   Tranmere                 2-2  Barnsley
 [Fri Feb/11]
   West Brom                1-0  Crewe
-  Walsall                  0-2  Nottingham
+  Walsall                  0-2  Nottingham Forest
   QPR                      1-1  Stockport
   Portsmouth               0-1  Fulham
   Manchester City          3-1  Norwich
@@ -614,7 +614,7 @@ Matchday 32
   Barnsley                 1-1  QPR
   Stockport                0-1  Blackburn
   Swindon                  1-4  Birmingham
-  Nottingham               2-0  Crystal Palace
+  Nottingham Forest        2-0  Crystal Palace
   Norwich                  3-0  Grimsby
   Fulham                   2-0  Walsall
   Crewe                    1-2  Ipswich
@@ -625,7 +625,7 @@ Matchday 32
 
 Matchday 33
 [Fri Feb/25]
-  Wolves                   3-0  Nottingham
+  Wolves                   3-0  Nottingham Forest
   Swindon                  0-1  Crewe
   Port Vale                1-1  Stockport
   Norwich                  1-1  Huddersfield
@@ -654,7 +654,7 @@ Matchday 34
 [Thu Mar/2]
   Stockport                1-3  Barnsley
 [Fri Mar/3]
-  Nottingham               3-1  Swindon
+  Nottingham Forest        3-1  Swindon
   Walsall                  1-0  Grimsby
   Tranmere                 2-1  Blackburn
   West Brom                0-3  Birmingham
@@ -681,13 +681,13 @@ Matchday 35
   Crewe                    2-1  Port Vale
   Ipswich                  0-0  Blackburn
 [Tue Mar/7]
-  Nottingham               1-1  Norwich
+  Nottingham Forest        1-1  Norwich
   Manchester City          1-3  QPR
 
 
 Matchday 36
 [Fri Mar/10]
-  Portsmouth               2-1  Nottingham
+  Portsmouth               2-1  Nottingham Forest
   Barnsley                 2-1  Manchester City
   Stockport                0-1  West Brom
   QPR                      1-0  Grimsby
@@ -713,7 +713,7 @@ Matchday 37
   Walsall                  2-3  QPR
   Swindon                  1-2  Wolves
   West Brom                0-1  Huddersfield
-  Nottingham               1-1  Tranmere
+  Nottingham Forest        1-1  Tranmere
   Grimsby                  0-1  Bolton
   Fulham                   2-2  Blackburn
   Crystal Palace           1-1  Port Vale
@@ -732,7 +732,7 @@ Matchday 38
   Port Vale                1-2  Walsall
   Barnsley                 1-0  Fulham
   Bolton                   2-0  Sheffield Utd
-  Huddersfield             2-1  Nottingham
+  Huddersfield             2-1  Nottingham Forest
 [Tue Mar/21]
   Tranmere                 0-2  Ipswich
   QPR                      0-1  Crystal Palace
@@ -753,7 +753,7 @@ Matchday 39
   Ipswich                  1-0  Fulham
   Huddersfield             3-0  Crewe
   Crystal Palace           0-1  Charlton
-  Nottingham               0-1  Blackburn
+  Nottingham Forest        0-1  Blackburn
 [Sun Mar/26]
   Barnsley                 3-0  Grimsby
 
@@ -768,7 +768,7 @@ Matchday 40
   Walsall                  1-4  Barnsley
   Grimsby                  0-0  Huddersfield
   Fulham                   1-0  Crystal Palace
-  Crewe                    0-3  Nottingham
+  Crewe                    0-3  Nottingham Forest
   Blackburn                5-0  Sheffield Utd
   Birmingham               1-0  Wolves
 
@@ -790,7 +790,7 @@ Matchday 29
 
 Matchday 41
 [Fri Apr/7]
-  Nottingham               1-1  Charlton
+  Nottingham Forest        1-1  Charlton
   Sheffield Utd            0-0  Grimsby
   QPR                      2-1  Swindon
   Portsmouth               2-1  Norwich
@@ -819,7 +819,7 @@ Matchday 42
   Fulham                   4-0  Sheffield Utd
   Crewe                    2-1  QPR
   Blackburn                1-1  Portsmouth
-  Birmingham               0-1  Nottingham
+  Birmingham               0-1  Nottingham Forest
 
 
 Matchday 29
@@ -831,7 +831,7 @@ Matchday 43
 [Thu Apr/20]
   Charlton                 1-1  Portsmouth
 [Fri Apr/21]
-  Nottingham               0-0  Sheffield Utd
+  Nottingham Forest        0-0  Sheffield Utd
   Walsall                  2-1  West Brom
   Swindon                  1-0  Fulham
   Crewe                    3-2  Stockport
@@ -852,7 +852,7 @@ Matchday 44
   Sheffield Utd            1-1  Crewe
   Portsmouth               2-2  Manchester City
   Barnsley                 2-1  Norwich
-  Fulham                   1-1  Nottingham
+  Fulham                   1-1  Nottingham Forest
   Blackburn                1-1  Charlton
   Birmingham               2-0  Walsall
   Port Vale                1-2  Huddersfield
@@ -864,7 +864,7 @@ Matchday 45
 [Thu Apr/27]
   Manchester City          1-0  Birmingham
 [Fri Apr/28]
-  Nottingham               2-0  Port Vale
+  Nottingham Forest        2-0  Port Vale
   Swindon                  1-2  Barnsley
   QPR                      0-0  West Brom
   Walsall                  1-0  Portsmouth
@@ -887,7 +887,7 @@ Matchday 46
 [Sat May/6]
   West Brom                2-0  Charlton
   Tranmere                 1-2  Crystal Palace
-  Stockport                2-3  Nottingham
+  Stockport                2-3  Nottingham Forest
   Sheffield Utd            2-2  Swindon
   Portsmouth               1-3  QPR
   Port Vale                0-1  Wolves

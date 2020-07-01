@@ -14,14 +14,14 @@ Matchday 1
 [Sat Aug/15]
   Southampton              1-2  Liverpool
 [Sun Aug/16]
-  Arsenal                  2-1  Nottingham
+  Arsenal                  2-1  Nottingham Forest
 
 
 Matchday 2
 [Fri Aug/21]
   West Ham                 0-0  Manchester United
   Tottenham                0-3  Sheffield Wed
-  Nottingham               1-0  Coventry
+  Nottingham Forest        1-0  Coventry
   Aston Villa              3-1  Middlesbrough
   Leicester                2-0  Everton
   Derby                    0-0  Wimbledon FC
@@ -35,7 +35,7 @@ Matchday 2
 Matchday 3
 [Fri Aug/28]
   Middlesbrough            1-1  Derby
-  Southampton              1-2  Nottingham
+  Southampton              1-2  Nottingham Forest
   Sheffield Wed            0-1  Aston Villa
   Wimbledon FC             1-1  Leeds
   Arsenal                  0-0  Charlton
@@ -49,7 +49,7 @@ Matchday 3
 Matchday 4
 [Mon Sep/7]
   Manchester United        4-1  Charlton
-  Nottingham               0-2  Everton
+  Nottingham Forest        0-2  Everton
   Leeds                    3-0  Southampton
 [Tue Sep/8]
   Tottenham                2-1  Blackburn
@@ -69,7 +69,7 @@ Matchday 5
   Manchester United        2-0  Coventry
   Leicester                1-1  Arsenal
   Everton                  0-0  Leeds
-  Chelsea                  2-1  Nottingham
+  Chelsea                  2-1  Nottingham Forest
   Charlton                 1-2  Derby
   Aston Villa              2-0  Wimbledon FC
 [Sat Sep/12]
@@ -80,7 +80,7 @@ Matchday 6
 [Fri Sep/18]
   Wimbledon FC             2-1  Sheffield Wed
   Southampton              1-1  Tottenham
-  Nottingham               0-0  West Ham
+  Nottingham Forest        0-0  West Ham
   Middlesbrough            2-2  Everton
   Liverpool                3-3  Charlton
   Leeds                    0-0  Aston Villa
@@ -102,7 +102,7 @@ Matchday 7
   Everton                  0-0  Blackburn
   Chelsea                  2-0  Middlesbrough
   Charlton                 1-1  Coventry
-  Newcastle Utd            2-0  Nottingham
+  Newcastle Utd            2-0  Nottingham Forest
 [Sat Sep/26]
   Leicester                1-1  Wimbledon FC
 [Sun Sep/27]
@@ -111,7 +111,7 @@ Matchday 7
 
 Matchday 8
 [Fri Oct/2]
-  Nottingham               0-1  Charlton
+  Nottingham Forest        0-1  Charlton
   Southampton              0-3  Manchester United
   Wimbledon FC             1-2  Everton
   Blackburn                3-0  West Ham
@@ -127,7 +127,7 @@ Matchday 8
 Matchday 9
 [Fri Oct/16]
   Newcastle Utd            2-1  Derby
-  Nottingham               1-1  Leeds
+  Nottingham Forest        1-1  Leeds
   West Ham                 0-0  Aston Villa
   Middlesbrough            2-1  Blackburn
   Manchester United        5-1  Wimbledon FC
@@ -146,7 +146,7 @@ Matchday 10
   Tottenham                2-0  Newcastle Utd
   Wimbledon FC             2-2  Middlesbrough
   Sheffield Wed            0-0  Everton
-  Liverpool                5-1  Nottingham
+  Liverpool                5-1  Nottingham Forest
   Aston Villa              1-1  Leicester
   Charlton                 4-2  West Ham
   Derby                    1-1  Manchester United
@@ -165,14 +165,14 @@ Matchday 11
   Derby                    2-2  Leeds
   Coventry                 0-1  Arsenal
 [Sat Oct/31]
-  Middlesbrough            1-1  Nottingham
+  Middlesbrough            1-1  Nottingham Forest
 [Sun Nov/1]
   Tottenham                2-2  Charlton
 
 
 Matchday 12
 [Fri Nov/6]
-  Nottingham               0-1  Wimbledon FC
+  Nottingham Forest        0-1  Wimbledon FC
   Southampton              3-3  Middlesbrough
   Liverpool                1-2  Derby
   Aston Villa              3-2  Tottenham
@@ -198,13 +198,13 @@ Matchday 13
 [Sat Nov/14]
   Coventry                 3-0  Everton
 [Sun Nov/15]
-  Nottingham               2-2  Derby
+  Nottingham Forest        2-2  Derby
 
 
 Matchday 14
 [Fri Nov/20]
   Sheffield Wed            3-1  Manchester United
-  Tottenham                2-0  Nottingham
+  Tottenham                2-0  Nottingham Forest
   Wimbledon FC             1-0  Arsenal
   Middlesbrough            2-0  Coventry
   Leicester                2-4  Chelsea
@@ -219,7 +219,7 @@ Matchday 14
 
 Matchday 15
 [Fri Nov/27]
-  Nottingham               2-2  Aston Villa
+  Nottingham Forest        2-2  Aston Villa
   Southampton              0-1  Derby
   West Ham                 2-1  Tottenham
   Newcastle Utd            3-1  Wimbledon FC
@@ -245,7 +245,7 @@ Matchday 16
 [Sat Dec/5]
   Middlesbrough            2-2  Newcastle Utd
 [Sun Dec/6]
-  Sheffield Wed            3-2  Nottingham
+  Sheffield Wed            3-2  Nottingham Forest
 
 
 Matchday 11
@@ -261,7 +261,7 @@ Matchday 17
   Blackburn                0-0  Newcastle Utd
   Everton                  1-0  Southampton
   Derby                    2-2  Chelsea
-  Leicester                3-1  Nottingham
+  Leicester                3-1  Nottingham Forest
 [Sat Dec/12]
   Wimbledon FC             1-0  Liverpool
   Aston Villa              3-2  Arsenal
@@ -278,7 +278,7 @@ Matchday 18
 [Fri Dec/18]
   Newcastle Utd            1-0  Leicester
   Southampton              3-1  Wimbledon FC
-  Nottingham               2-2  Blackburn
+  Nottingham Forest        2-2  Blackburn
   West Ham                 2-1  Everton
   Manchester United        2-3  Middlesbrough
   Liverpool                2-0  Sheffield Wed
@@ -297,7 +297,7 @@ Matchday 19
   Sheffield Wed            0-1  Leicester
   Newcastle Utd            0-3  Leeds
   Wimbledon FC             2-1  Charlton
-  Manchester United        3-0  Nottingham
+  Manchester United        3-0  Nottingham Forest
   Everton                  0-0  Derby
   Coventry                 1-1  Tottenham
   Blackburn                2-1  Aston Villa
@@ -308,7 +308,7 @@ Matchday 20
 [Sun Dec/27]
   West Ham                 2-0  Coventry
   Tottenham                4-1  Everton
-  Nottingham               1-1  Southampton
+  Nottingham Forest        1-1  Southampton
   Liverpool                4-2  Newcastle Utd
   Aston Villa              2-1  Sheffield Wed
   Derby                    2-1  Middlesbrough
@@ -327,7 +327,7 @@ Matchday 21
   Arsenal                  0-0  Liverpool
   Middlesbrough            0-0  Aston Villa
   Everton                  0-0  Leicester
-  Coventry                 4-0  Nottingham
+  Coventry                 4-0  Nottingham Forest
   Blackburn                1-0  Leeds
   Newcastle Utd            0-1  Chelsea
 [Sat Jan/9]
@@ -338,7 +338,7 @@ Matchday 22
 [Fri Jan/15]
   Liverpool                7-1  Southampton
   Tottenham                0-0  Wimbledon FC
-  Nottingham               0-1  Arsenal
+  Nottingham Forest        0-1  Arsenal
   West Ham                 0-4  Sheffield Wed
   Chelsea                  2-1  Coventry
   Leeds                    2-0  Middlesbrough
@@ -357,7 +357,7 @@ Matchday 23
   Wimbledon FC             0-0  West Ham
   Blackburn                1-1  Tottenham
   Middlesbrough            0-0  Leicester
-  Everton                  0-1  Nottingham
+  Everton                  0-1  Nottingham Forest
   Coventry                 2-1  Liverpool
   Newcastle Utd            2-1  Aston Villa
 [Sat Jan/30]
@@ -374,7 +374,7 @@ Matchday 24
 [Fri Feb/5]
   Liverpool                3-1  Middlesbrough
   Tottenham                0-0  Coventry
-  Nottingham               1-8  Manchester United
+  Nottingham Forest        1-8  Manchester United
   West Ham                 0-4  Arsenal
   Leicester                0-2  Sheffield Wed
   Leeds                    0-1  Newcastle Utd
@@ -388,7 +388,7 @@ Matchday 24
 
 Matchday 25
 [Fri Feb/12]
-  West Ham                 2-1  Nottingham
+  West Ham                 2-1  Nottingham Forest
   Charlton                 1-0  Liverpool
 [Tue Feb/16]
   Newcastle Utd            4-1  Coventry
@@ -401,7 +401,7 @@ Matchday 25
 Matchday 26
 [Fri Feb/19]
   Southampton              2-1  Newcastle Utd
-  Nottingham               1-3  Chelsea
+  Nottingham Forest        1-3  Chelsea
   Middlesbrough            0-0  Tottenham
   Liverpool                2-2  West Ham
   Arsenal                  5-0  Leicester
@@ -421,7 +421,7 @@ Matchday 27
   West Ham                 2-0  Blackburn
   Aston Villa              1-4  Coventry
   Chelsea                  2-1  Liverpool
-  Charlton                 0-0  Nottingham
+  Charlton                 0-0  Nottingham Forest
   Everton                  1-1  Wimbledon FC
 [Sat Feb/27]
   Newcastle Utd            1-1  Arsenal
@@ -445,14 +445,14 @@ Matchday 28
   Arsenal                  3-0  Sheffield Wed
 [Tue Mar/9]
   Leeds                    2-0  Tottenham
-  Nottingham               1-2  Newcastle Utd
+  Nottingham Forest        1-2  Newcastle Utd
   Blackburn                1-2  Everton
   Derby                    2-1  Aston Villa
 
 
 Matchday 29
 [Fri Mar/12]
-  Wimbledon FC             1-3  Nottingham
+  Wimbledon FC             1-3  Nottingham Forest
   Tottenham                1-0  Aston Villa
   Sheffield Wed            0-2  Leeds
   Newcastle Utd            1-2  Manchester United
@@ -469,7 +469,7 @@ Matchday 30
 [Fri Mar/19]
   West Ham                 2-0  Newcastle Utd
   Southampton              1-0  Sheffield Wed
-  Nottingham               1-2  Middlesbrough
+  Nottingham Forest        1-2  Middlesbrough
   Arsenal                  2-0  Coventry
   Blackburn                3-1  Wimbledon FC
   Leeds                    4-1  Derby
@@ -487,7 +487,7 @@ Matchday 31
   Blackburn                0-0  Middlesbrough
   Sheffield Wed            1-2  Coventry
   Liverpool                3-2  Everton
-  Leeds                    3-1  Nottingham
+  Leeds                    3-1  Nottingham Forest
   Derby                    3-4  Newcastle Utd
   Charlton                 0-1  Chelsea
   Southampton              0-0  Arsenal
@@ -496,7 +496,7 @@ Matchday 31
 Matchday 32
 [Sun Apr/4]
   West Ham                 0-1  Charlton
-  Nottingham               2-2  Liverpool
+  Nottingham Forest        2-2  Liverpool
   Newcastle Utd            1-1  Tottenham
   Middlesbrough            3-1  Wimbledon FC
   Coventry                 1-0  Southampton
@@ -511,7 +511,7 @@ Matchday 33
   Middlesbrough            2-0  Charlton
   Leicester                0-0  West Ham
   Aston Villa              3-0  Southampton
-  Derby                    1-0  Nottingham
+  Derby                    1-0  Nottingham Forest
 [Sat Apr/10]
   Wimbledon FC             1-2  Chelsea
   Everton                  2-0  Coventry
@@ -528,7 +528,7 @@ Matchday 34
 [Fri Apr/16]
   Newcastle Utd            1-3  Everton
   Charlton                 1-1  Leeds
-  Nottingham               0-1  Tottenham
+  Nottingham Forest        0-1  Tottenham
   West Ham                 5-1  Derby
   Manchester United        3-0  Sheffield Wed
   Liverpool                0-1  Aston Villa
@@ -558,7 +558,7 @@ Matchday 35
   Tottenham                1-2  West Ham
   Middlesbrough            1-6  Arsenal
   Leicester                1-0  Coventry
-  Aston Villa              2-0  Nottingham
+  Aston Villa              2-0  Nottingham Forest
   Derby                    0-0  Southampton
   Blackburn                1-3  Liverpool
   Everton                  4-1  Charlton
@@ -571,7 +571,7 @@ Matchday 36
 [Fri Apr/30]
   Charlton                 0-0  Blackburn
   Southampton              2-1  Leicester
-  Nottingham               2-0  Sheffield Wed
+  Nottingham Forest        2-0  Sheffield Wed
   Newcastle Utd            1-1  Middlesbrough
   Manchester United        2-1  Aston Villa
   Liverpool                3-2  Tottenham
@@ -609,7 +609,7 @@ Matchday 37
   Leicester                2-0  Newcastle Utd
   Aston Villa              3-4  Charlton
   Derby                    0-0  Coventry
-  Blackburn                1-2  Nottingham
+  Blackburn                1-2  Nottingham Forest
   Everton                  6-0  West Ham
 [Sat May/8]
   Middlesbrough            0-1  Manchester United
@@ -628,7 +628,7 @@ Matchday 38
 [Sat May/15]
   Manchester United        2-1  Tottenham
   Southampton              2-0  Everton
-  Nottingham               1-0  Leicester
+  Nottingham Forest        1-0  Leicester
   Newcastle Utd            1-1  Blackburn
   West Ham                 4-0  Middlesbrough
   Liverpool                3-0  Wimbledon FC

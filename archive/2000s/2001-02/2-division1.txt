@@ -8,7 +8,7 @@ Matchday 1
   Walsall                  2-1  West Brom
   Stockport                0-2  Coventry
   Rotherham                2-3  Crystal Palace
-  Nottingham               1-1  Sheffield Utd
+  Nottingham Forest        1-1  Sheffield Utd
   Millwall                 4-0  Norwich
   Manchester City          3-0  Watford
   Grimsby                  1-0  Crewe
@@ -25,7 +25,7 @@ Matchday 2
   Sheffield Utd            0-0  Gillingham FC
   Preston                  1-1  Walsall
   Portsmouth               0-1  Bradford
-  Barnsley                 2-1  Nottingham
+  Barnsley                 2-1  Nottingham Forest
   Crystal Palace           4-1  Stockport
   Crewe                    0-2  Sheffield Wed
   Burnley                  3-2  Wimbledon FC
@@ -46,7 +46,7 @@ Matchday 3
   Walsall                  1-2  Birmingham
   Wolves                   1-0  Watford
   Sheffield Wed            1-1  West Brom
-  Nottingham               4-2  Crystal Palace
+  Nottingham Forest        4-2  Crystal Palace
   Millwall                 0-2  Burnley
   Manchester City          5-2  Crewe
   Gillingham FC            3-0  Barnsley
@@ -61,7 +61,7 @@ Matchday 4
   Preston                  1-1  Wimbledon FC
   Portsmouth               4-2  Grimsby
   Norwich                  2-0  Sheffield Wed
-  Coventry                 0-0  Nottingham
+  Coventry                 0-0  Nottingham Forest
   Burnley                  2-4  Manchester City
   Birmingham               2-1  Stockport
   West Brom                1-0  Gillingham FC
@@ -82,7 +82,7 @@ Matchday 6
   Sheffield Utd            2-2  Bradford
   Preston                  1-2  Wolves
   West Brom                4-0  Manchester City
-  Norwich                  1-0  Nottingham
+  Norwich                  1-0  Nottingham Forest
   Crystal Palace           1-3  Millwall
   Crewe                    2-1  Walsall
   Coventry                 0-1  Grimsby
@@ -110,7 +110,7 @@ Matchday 7
   Preston                  1-0  Millwall
   Portsmouth               4-2  Crystal Palace
   Barnsley                 2-0  Crewe
-  Grimsby                  0-0  Nottingham
+  Grimsby                  0-0  Nottingham Forest
   Burnley                  5-2  Walsall
   Manchester City          3-0  Birmingham
 
@@ -118,7 +118,7 @@ Matchday 7
 Matchday 8
 [Sun Sep/16]
   Sheffield Wed            1-1  Bradford
-  Nottingham               2-0  Rotherham
+  Nottingham Forest        2-0  Rotherham
 [Mon Sep/17]
   Norwich                  3-1  Watford
   Walsall                  0-0  Portsmouth
@@ -135,7 +135,7 @@ Matchday 8
 
 Matchday 9
 [Thu Sep/20]
-  Nottingham               1-0  Bradford
+  Nottingham Forest        1-0  Bradford
 [Fri Sep/21]
   Walsall                  0-3  Wolves
 [Sat Sep/22]
@@ -158,7 +158,7 @@ Matchday 10
   Wimbledon FC             2-2  Millwall
   Sheffield Utd            1-3  Crystal Palace
   Rotherham                1-1  Sheffield Wed
-  Wolves                   1-0  Nottingham
+  Wolves                   1-0  Nottingham Forest
   Manchester City          3-0  Walsall
   Grimsby                  1-2  Gillingham FC
   Burnley                  3-3  Crewe
@@ -177,7 +177,7 @@ Matchday 11
   Walsall                  0-0  Millwall
   Sheffield Utd            2-1  Norwich
   West Brom                1-0  Burnley
-  Nottingham               2-1  Stockport
+  Nottingham Forest        2-1  Stockport
   Bradford                 3-2  Grimsby
   Gillingham FC            1-2  Coventry
   Crystal Palace           4-1  Sheffield Wed
@@ -207,7 +207,7 @@ Matchday 13
 [Sat Oct/13]
   Manchester City          2-2  Stockport
   Sheffield Utd            3-1  Grimsby
-  Nottingham               1-0  Burnley
+  Nottingham Forest        1-0  Burnley
   Watford                  3-1  Sheffield Wed
   Gillingham FC            0-2  Norwich
   Crystal Palace           4-0  Wimbledon FC
@@ -231,7 +231,7 @@ Matchday 5
   Wolves                   0-1  Crewe
 [Wed Oct/17]
   Rotherham                0-0  Coventry
-  Nottingham               0-0  Birmingham
+  Nottingham Forest        0-0  Birmingham
 
 
 Matchday 14
@@ -243,7 +243,7 @@ Matchday 14
   Wolves                   0-1  Crystal Palace
   Sheffield Wed            2-1  Walsall
   Portsmouth               1-0  Sheffield Utd
-  Millwall                 3-3  Nottingham
+  Millwall                 3-3  Nottingham Forest
   Grimsby                  0-3  Watford
   Birmingham               4-0  Bradford
   Burnley                  3-3  Barnsley
@@ -258,7 +258,7 @@ Matchday 15
   Preston                  3-0  Sheffield Utd
   Walsall                  3-2  Rotherham
   Millwall                 3-1  Bradford
-  Watford                  1-2  Nottingham
+  Watford                  1-2  Nottingham Forest
   Burnley                  1-0  Crystal Palace
   Birmingham               2-1  Gillingham FC
   Manchester City          4-0  Grimsby
@@ -283,7 +283,7 @@ Matchday 16
   Rotherham                3-2  Wimbledon FC
 [Sun Oct/28]
   Crystal Palace           3-2  Norwich
-  Nottingham               1-1  Manchester City
+  Nottingham Forest        1-1  Manchester City
   Barnsley                 3-2  West Brom
   Wolves                   3-0  Burnley
 
@@ -299,7 +299,7 @@ Matchday 17
   Gillingham FC            2-2  Burnley
 [Wed Oct/31]
   Wolves                   1-0  Millwall
-  Nottingham               0-1  Sheffield Wed
+  Nottingham Forest        0-1  Sheffield Wed
   Coventry                 2-2  Preston
   Crystal Palace           0-1  West Brom
   Barnsley                 0-3  Manchester City
@@ -318,7 +318,7 @@ Matchday 18
   Millwall                 3-2  Coventry
   Sheffield Wed            2-3  Portsmouth
 [Sun Nov/4]
-  West Brom                1-0  Nottingham
+  West Brom                1-0  Nottingham Forest
   Burnley                  2-0  Sheffield Utd
   Birmingham               2-2  Rotherham
 
@@ -341,7 +341,7 @@ Matchday 19
   Crewe                    0-0  Gillingham FC
   Watford                  1-1  Stockport
 [Sun Nov/11]
-  Walsall                  2-0  Nottingham
+  Walsall                  2-0  Nottingham Forest
 
 
 Matchday 12
@@ -356,7 +356,7 @@ Matchday 20
   Rotherham                2-1  West Brom
   Sheffield Utd            4-0  Birmingham
   Portsmouth               2-1  Manchester City
-  Nottingham               1-1  Preston
+  Nottingham Forest        1-1  Preston
   Grimsby                  2-2  Millwall
   Barnsley                 1-1  Wimbledon FC
   Coventry                 0-2  Burnley
@@ -388,7 +388,7 @@ Matchday 21
   Walsall                  1-2  Sheffield Utd
   Wimbledon FC             0-1  Wolves
   Preston                  2-1  Crystal Palace
-  Crewe                    0-3  Nottingham
+  Crewe                    0-3  Nottingham Forest
   Millwall                 1-2  Gillingham FC
   Manchester City          2-1  Rotherham
   Norwich                  2-1  Barnsley
@@ -402,7 +402,7 @@ Matchday 12
   Wolves                   4-1  Barnsley
   Stockport                0-2  Gillingham FC
 [Wed Nov/28]
-  Portsmouth               3-2  Nottingham
+  Portsmouth               3-2  Nottingham Forest
   Coventry                 2-0  Crystal Palace
 
 
@@ -413,7 +413,7 @@ Matchday 22
   Rotherham                2-0  Walsall
   Sheffield Utd            2-2  Preston
   Stockport                0-1  Crewe
-  Nottingham               0-0  Watford
+  Nottingham Forest        0-0  Watford
   Bradford                 1-2  Millwall
   Crystal Palace           1-2  Burnley
   Coventry                 3-1  Wimbledon FC
@@ -437,7 +437,7 @@ Matchday 23
   Stockport                1-2  Wimbledon FC
   Sheffield Wed            1-1  Millwall
   Portsmouth               2-4  Crewe
-  Nottingham               2-2  Gillingham FC
+  Nottingham Forest        2-2  Gillingham FC
   Crystal Palace           2-1  Manchester City
   Bradford                 3-1  Rotherham
   Barnsley                 4-1  Walsall
@@ -470,13 +470,13 @@ Matchday 24
   Gillingham FC            2-1  Sheffield Wed
 [Sun Dec/16]
   Wolves                   2-1  Birmingham
-  Wimbledon FC             1-0  Nottingham
+  Wimbledon FC             1-0  Nottingham Forest
   Manchester City          3-1  Bradford
 
 
 Matchday 25
 [Thu Dec/20]
-  Crystal Palace           1-1  Nottingham
+  Crystal Palace           1-1  Nottingham Forest
 [Sat Dec/22]
   Portsmouth               2-0  Stockport
   Watford                  1-1  Wolves
@@ -498,7 +498,7 @@ Matchday 26
   Stockport                1-3  Barnsley
   Walsall                  2-1  Crewe
   Sheffield Wed            0-1  Birmingham
-  Nottingham               2-0  Norwich
+  Nottingham Forest        2-0  Norwich
   Manchester City          0-0  West Brom
   Grimsby                  0-1  Coventry
   Bradford                 1-2  Sheffield Utd
@@ -514,7 +514,7 @@ Matchday 27
   Bradford                 1-2  Crystal Palace
   Sheffield Wed            0-5  Norwich
   Rotherham                1-1  Barnsley
-  Nottingham               2-1  Coventry
+  Nottingham Forest        2-1  Coventry
   Millwall                 2-0  Crewe
   Grimsby                  3-1  Portsmouth
   Gillingham FC            2-1  West Brom
@@ -523,7 +523,7 @@ Matchday 27
 
 Matchday 28
 [Tue Jan/1]
-  Birmingham               1-1  Nottingham
+  Birmingham               1-1  Nottingham Forest
   West Brom                4-0  Stockport
   Watford                  1-4  Millwall
   Barnsley                 0-0  Grimsby
@@ -539,7 +539,7 @@ Matchday 29
   Walsall                  1-2  Preston
   Sheffield Wed            1-0  Crewe
   Rotherham                1-1  Watford
-  Nottingham               0-0  Barnsley
+  Nottingham Forest        0-0  Barnsley
   Grimsby                  0-0  West Brom
   Gillingham FC            0-1  Sheffield Utd
   Bradford                 3-1  Portsmouth
@@ -563,7 +563,7 @@ Matchday 30
 [Thu Jan/17]
   Portsmouth               2-3  Wolves
 [Sat Jan/19]
-  Sheffield Utd            0-0  Nottingham
+  Sheffield Utd            0-0  Nottingham Forest
   Preston                  0-2  Gillingham FC
   Crystal Palace           2-0  Rotherham
   Crewe                    2-0  Grimsby
@@ -589,7 +589,7 @@ Matchday 31
   Sheffield Utd            0-0  Sheffield Wed
   Barnsley                 1-0  Wolves
 [Wed Jan/30]
-  Nottingham               0-1  Portsmouth
+  Nottingham Forest        0-1  Portsmouth
   Manchester City          2-0  Millwall
 
 
@@ -597,7 +597,7 @@ Matchday 32
 [Thu Jan/31]
   Preston                  1-1  Watford
 [Sat Feb/2]
-  Stockport                1-3  Nottingham
+  Stockport                1-3  Nottingham Forest
   Wolves                   2-1  Rotherham
   Coventry                 1-2  Gillingham FC
   Portsmouth               4-4  Barnsley
@@ -626,7 +626,7 @@ Matchday 33
 [Thu Feb/7]
   Crystal Palace           0-2  Wolves
 [Sat Feb/9]
-  Nottingham               1-2  Millwall
+  Nottingham Forest        1-2  Millwall
   Walsall                  0-3  Sheffield Wed
   Sheffield Utd            4-3  Portsmouth
   Rotherham                3-2  Stockport
@@ -651,7 +651,7 @@ Matchday 34
   Birmingham               1-0  Barnsley
   Portsmouth               0-0  Rotherham
   Grimsby                  1-0  Sheffield Utd
-  Burnley                  1-1  Nottingham
+  Burnley                  1-1  Nottingham Forest
   Sheffield Wed            2-1  Watford
 
 
@@ -675,7 +675,7 @@ Matchday 35
 [Fri Feb/22]
   Norwich                  3-0  Preston
 [Sat Feb/23]
-  Nottingham               0-0  Grimsby
+  Nottingham Forest        0-0  Grimsby
   Birmingham               3-2  Watford
   Stockport                1-4  Wolves
   Sheffield Wed            1-2  Rotherham
@@ -696,7 +696,7 @@ Matchday 36
   Portsmouth               1-0  Coventry
   Grimsby                  3-1  Stockport
   Burnley                  0-1  Birmingham
-  Bradford                 2-1  Nottingham
+  Bradford                 2-1  Nottingham Forest
   Barnsley                 1-4  Crystal Palace
   Preston                  1-0  West Brom
 [Wed Feb/27]
@@ -709,7 +709,7 @@ Matchday 37
   Wimbledon FC             0-1  West Brom
   Watford                  0-1  Crewe
   Sheffield Utd            3-0  Stockport
-  Rotherham                1-2  Nottingham
+  Rotherham                1-2  Nottingham Forest
   Preston                  1-0  Birmingham
   Portsmouth               1-1  Walsall
   Grimsby                  5-2  Crystal Palace
@@ -733,7 +733,7 @@ Matchday 38
   Millwall                 2-1  Preston
 [Wed Mar/6]
   Sheffield Wed            1-2  Wimbledon FC
-  Nottingham               2-2  Wolves
+  Nottingham Forest        2-2  Wolves
   Coventry                 1-0  Sheffield Utd
 
 
@@ -746,7 +746,7 @@ Matchday 39
   Portsmouth               3-0  Millwall
   Sheffield Wed            0-0  Gillingham FC
   Preston                  2-1  Rotherham
-  Nottingham               0-0  Wimbledon FC
+  Nottingham Forest        0-0  Wimbledon FC
   Barnsley                 1-1  Sheffield Utd
   Crystal Palace           0-2  Watford
   Coventry                 2-1  Norwich
@@ -780,7 +780,7 @@ Matchday 40
   Rotherham                1-1  Bradford
   Millwall                 1-2  Sheffield Wed
   Manchester City          1-0  Crystal Palace
-  Gillingham FC            3-1  Nottingham
+  Gillingham FC            3-1  Nottingham Forest
   Crewe                    1-1  Portsmouth
 [Sun Mar/17]
   Burnley                  2-1  Preston
@@ -809,7 +809,7 @@ Matchday 34
 
 Matchday 41
 [Fri Mar/22]
-  Nottingham               0-1  West Brom
+  Nottingham Forest        0-1  West Brom
 [Sat Mar/23]
   Stockport                0-2  Preston
   Wolves                   0-0  Norwich
@@ -841,7 +841,7 @@ Matchday 42
   Preston                  2-0  Portsmouth
   Norwich                  2-1  Crystal Palace
   Millwall                 3-0  Stockport
-  Manchester City          3-0  Nottingham
+  Manchester City          3-0  Nottingham Forest
   Crewe                    2-2  Sheffield Utd
   Birmingham               4-0  Grimsby
   Burnley                  2-3  Wolves
@@ -854,7 +854,7 @@ Matchday 43
   Sheffield Utd            0-1  Wimbledon FC
   Barnsley                 2-1  Preston
   Portsmouth               1-1  Burnley
-  Nottingham               2-3  Walsall
+  Nottingham Forest        2-3  Walsall
   Grimsby                  0-0  Sheffield Wed
   Gillingham FC            1-0  Crewe
   Crystal Palace           0-0  Birmingham
@@ -876,7 +876,7 @@ Matchday 44
   Wimbledon FC             1-2  Bradford
   Manchester City          5-1  Barnsley
   Burnley                  2-0  Gillingham FC
-  Sheffield Wed            0-2  Nottingham
+  Sheffield Wed            0-2  Nottingham Forest
   Preston                  4-0  Coventry
   Norwich                  1-1  Grimsby
   Walsall                  1-0  Stockport
@@ -900,7 +900,7 @@ Matchday 45
   Gillingham FC            1-3  Manchester City
   Rotherham                2-2  Birmingham
   Portsmouth               0-1  Watford
-  Nottingham               2-2  Crewe
+  Nottingham Forest        2-2  Crewe
   Grimsby                  3-1  Burnley
   Crystal Palace           2-0  Preston
   Bradford                 0-1  West Brom
@@ -911,7 +911,7 @@ Matchday 45
 
 Matchday 46
 [Sun Apr/21]
-  Preston                  2-1  Nottingham
+  Preston                  2-1  Nottingham Forest
   West Brom                2-0  Crystal Palace
   Watford                  2-3  Gillingham FC
   Walsall                  2-2  Bradford

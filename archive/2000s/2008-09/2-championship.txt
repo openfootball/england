@@ -15,14 +15,14 @@ Matchday 1
   Cardiff                  2-1  Southampton
   Blackpool                0-1  Bristol City
 [Sun Aug/10]
-  Nottingham               0-0  Reading
+  Nottingham Forest        0-0  Reading
 
 
 Matchday 2
 [Sat Aug/16]
   Wolves                   4-1  Sheffield Wed
   Watford                  1-0  Charlton
-  Swansea                  3-1  Nottingham
+  Swansea                  3-1  Nottingham Forest
   Southampton              1-2  Birmingham
   Sheffield Utd            3-0  QPR
   Bristol City             1-1  Derby
@@ -39,7 +39,7 @@ Matchday 3
   Charlton                 4-2  Reading
   Sheffield Wed            1-1  Preston
   QPR                      2-0  Doncaster
-  Nottingham               3-2  Watford
+  Nottingham Forest        3-2  Watford
   Ipswich                  0-2  Wolves
   Derby                    0-1  Southampton
   Crystal Palace           0-0  Burnley
@@ -53,7 +53,7 @@ Matchday 3
 Matchday 4
 [Sat Aug/30]
   Southampton              0-1  Blackpool
-  Wolves                   5-1  Nottingham
+  Wolves                   5-1  Nottingham Forest
   Swansea                  1-1  Sheffield Wed
   Sheffield Utd            0-0  Cardiff
   Reading                  4-2  Crystal Palace
@@ -70,7 +70,7 @@ Matchday 5
 [Sat Sep/13]
   Sheffield Wed            2-0  Watford
   Plymouth                 1-2  Norwich
-  Nottingham               1-2  Burnley
+  Nottingham Forest        1-2  Burnley
   Ipswich                  2-0  Reading
   Crystal Palace           2-0  Swansea
   Derby                    2-1  Sheffield Utd
@@ -89,7 +89,7 @@ Matchday 6
   Watford                  1-2  Plymouth
   Swansea                  1-1  Derby
   Sheffield Utd            1-1  Coventry
-  Preston                  2-1  Nottingham
+  Preston                  2-1  Nottingham Forest
   Reading                  6-0  Sheffield Wed
   Burnley                  2-0  Blackpool
   Bristol City             1-2  Birmingham
@@ -107,7 +107,7 @@ Matchday 7
   Southampton              0-0  Barnsley
   Sheffield Wed            0-0  Ipswich
   Preston                  1-3  Wolves
-  Nottingham               0-0  Charlton
+  Nottingham Forest        0-0  Charlton
   Norwich                  1-0  Sheffield Utd
   Derby                    1-1  Cardiff
   Crystal Palace           1-2  Plymouth
@@ -122,7 +122,7 @@ Matchday 8
   Sheffield Utd            2-1  Watford
   Reading                  4-0  Swansea
   QPR                      0-2  Derby
-  Plymouth                 1-0  Nottingham
+  Plymouth                 1-0  Nottingham Forest
   Ipswich                  1-1  Crystal Palace
   Charlton                 1-2  Sheffield Wed
   Cardiff                  1-2  Birmingham
@@ -136,7 +136,7 @@ Matchday 9
 [Tue Sep/30]
   Wolves                   0-3  Reading
   Southampton              2-0  Norwich
-  Sheffield Wed            1-0  Nottingham
+  Sheffield Wed            1-0  Nottingham Forest
   Preston                  0-2  Swansea
   Ipswich                  3-0  Barnsley
   Doncaster                0-2  Sheffield Utd
@@ -157,7 +157,7 @@ Matchday 10
   Sheffield Utd            3-0  Bristol City
   Reading                  3-1  Burnley
   Plymouth                 4-0  Sheffield Wed
-  Nottingham               0-2  Crystal Palace
+  Nottingham Forest        0-2  Crystal Palace
   Norwich                  1-2  Derby
   Charlton                 2-1  Ipswich
   Barnsley                 4-1  Doncaster
@@ -168,7 +168,7 @@ Matchday 11
 [Sat Oct/18]
   Wolves                   2-1  Coventry
   Southampton              0-3  Watford
-  QPR                      2-1  Nottingham
+  QPR                      2-1  Nottingham Forest
   Preston                  2-1  Reading
   Ipswich                  2-2  Swansea
   Crystal Palace           3-0  Barnsley
@@ -187,7 +187,7 @@ Matchday 12
   Swansea                  0-0  QPR
   Sheffield Utd            0-0  Southampton
   Plymouth                 1-0  Preston
-  Nottingham               1-1  Ipswich
+  Nottingham Forest        1-1  Ipswich
   Watford                  2-2  Cardiff
   Coventry                 1-3  Burnley
   Charlton                 0-2  Bristol City
@@ -203,7 +203,7 @@ Matchday 13
   Swansea                  3-0  Southampton
   Sheffield Utd            1-0  Preston
   Plymouth                 1-3  Ipswich
-  Nottingham               0-1  Cardiff
+  Nottingham Forest        0-1  Cardiff
   Norwich                  2-1  Doncaster
   Coventry                 1-1  Derby
   Charlton                 1-1  Burnley
@@ -220,7 +220,7 @@ Matchday 14
   Sheffield Wed            0-1  Plymouth
   Preston                  2-0  Watford
   Ipswich                  1-1  Charlton
-  Crystal Palace           1-2  Nottingham
+  Crystal Palace           1-2  Nottingham Forest
   Derby                    3-1  Norwich
   Cardiff                  2-0  Blackpool
   Burnley                  1-0  Reading
@@ -242,7 +242,7 @@ Matchday 15
   Bristol City             1-4  Reading
   Crystal Palace           1-1  Sheffield Wed
 [Sun Nov/2]
-  Derby                    1-1  Nottingham
+  Derby                    1-1  Nottingham Forest
 [Mon Nov/3]
   Birmingham               0-1  Coventry
 
@@ -254,7 +254,7 @@ Matchday 16
   Reading                  3-0  Derby
   QPR                      1-0  Cardiff
   Plymouth                 2-2  Charlton
-  Nottingham               1-1  Birmingham
+  Nottingham Forest        1-1  Birmingham
   Norwich                  2-2  Preston
   Coventry                 0-2  Crystal Palace
   Blackpool                0-1  Ipswich
@@ -273,7 +273,7 @@ Matchday 17
   Derby                    3-0  Sheffield Wed
   Doncaster                1-0  Ipswich
   Cardiff                  2-1  Crystal Palace
-  Bristol City             2-2  Nottingham
+  Bristol City             2-2  Nottingham Forest
   Birmingham               3-2  Charlton
   Barnsley                 2-1  Watford
   Coventry                 0-1  Plymouth
@@ -285,7 +285,7 @@ Matchday 18
 [Fri Nov/21]
   Swansea                  2-3  Birmingham
 [Sat Nov/22]
-  Nottingham               1-2  Norwich
+  Nottingham Forest        1-2  Norwich
   Wolves                   2-0  Blackpool
   Watford                  3-0  QPR
   Sheffield Wed            0-1  Coventry
@@ -305,7 +305,7 @@ Matchday 19
   Southampton              0-0  Plymouth
   Sheffield Utd            1-3  Wolves
   Norwich                  1-2  Crystal Palace
-  Doncaster                0-0  Nottingham
+  Doncaster                0-0  Nottingham Forest
   Derby                    2-2  Preston
   Coventry                 1-1  Swansea
   Cardiff                  2-2  Reading
@@ -321,7 +321,7 @@ Matchday 20
   Watford                  1-1  Doncaster
   Sheffield Wed            3-2  Norwich
   Plymouth                 1-2  Blackpool
-  Nottingham               1-0  Barnsley
+  Nottingham Forest        1-0  Barnsley
   Preston                  2-0  Bristol City
   Crystal Palace           0-0  QPR
   Charlton                 0-0  Southampton
@@ -335,7 +335,7 @@ Matchday 20
 
 Matchday 21
 [Sat Dec/6]
-  Coventry                 2-2  Nottingham
+  Coventry                 2-2  Nottingham Forest
   Sheffield Utd            2-3  Burnley
   Doncaster                1-0  Plymouth
   Derby                    1-2  Crystal Palace
@@ -359,7 +359,7 @@ Matchday 22
   Sheffield Wed            1-0  QPR
   Wolves                   3-0  Derby
   Reading                  1-0  Blackpool
-  Nottingham               0-1  Sheffield Utd
+  Nottingham Forest        0-1  Sheffield Utd
   Charlton                 1-2  Coventry
   Burnley                  2-2  Cardiff
   Plymouth                 0-1  Birmingham
@@ -376,7 +376,7 @@ Matchday 23
   Sheffield Wed            0-0  Bristol City
   Reading                  2-0  Norwich
   Plymouth                 1-1  QPR
-  Nottingham               0-0  Blackpool
+  Nottingham Forest        0-0  Blackpool
   Ipswich                  1-2  Cardiff
   Crystal Palace           2-1  Doncaster
   Burnley                  3-2  Southampton
@@ -388,7 +388,7 @@ Matchday 23
 Matchday 24
 [Sat Dec/20]
   Birmingham               1-3  Reading
-  Southampton              0-2  Nottingham
+  Southampton              0-2  Nottingham Forest
   QPR                      3-2  Preston
   Norwich                  1-0  Charlton
   Doncaster                0-1  Wolves
@@ -414,7 +414,7 @@ Matchday 25
   Plymouth                 2-0  Southampton
   Burnley                  1-2  Barnsley
   Ipswich                  0-1  Birmingham
-  Nottingham               2-4  Doncaster
+  Nottingham Forest        2-4  Doncaster
 
 
 Matchday 26
@@ -422,7 +422,7 @@ Matchday 26
   Southampton              1-1  Reading
   Sheffield Utd            3-1  Charlton
   QPR                      0-0  Watford
-  Norwich                  2-3  Nottingham
+  Norwich                  2-3  Nottingham Forest
   Doncaster                2-1  Burnley
   Derby                    0-1  Ipswich
   Coventry                 2-0  Sheffield Wed
@@ -442,7 +442,7 @@ Matchday 27
   Sheffield Utd            1-0  Norwich
   Wolves                   1-3  Preston
   Burnley                  0-2  Swansea
-  Charlton                 0-2  Nottingham
+  Charlton                 0-2  Nottingham Forest
   Barnsley                 0-1  Southampton
   Ipswich                  1-1  Sheffield Wed
 
@@ -454,7 +454,7 @@ Matchday 28
   Swansea                  2-0  Reading
   Southampton              1-2  Doncaster
   Sheffield Wed            4-1  Charlton
-  Nottingham               2-0  Plymouth
+  Nottingham Forest        2-0  Plymouth
   Norwich                  4-0  Barnsley
   Derby                    0-2  QPR
   Crystal Palace           1-4  Ipswich
@@ -470,7 +470,7 @@ Matchday 27
 
 Matchday 29
 [Tue Jan/27]
-  Nottingham               2-1  Sheffield Wed
+  Nottingham Forest        2-1  Sheffield Wed
   Swansea                  4-1  Preston
   Sheffield Utd            0-1  Doncaster
   Plymouth                 0-2  Bristol City
@@ -496,7 +496,7 @@ Matchday 30
   Wolves                   3-1  Watford
   Derby                    2-1  Coventry
   Crystal Palace           0-1  Blackpool
-  Cardiff                  2-0  Nottingham
+  Cardiff                  2-0  Nottingham Forest
   Burnley                  2-1  Charlton
   Bristol City             2-0  Barnsley
   Southampton              2-2  Swansea
@@ -516,7 +516,7 @@ Matchday 32
   Swansea                  3-0  Ipswich
   Sheffield Utd            1-2  Sheffield Wed
   Plymouth                 0-3  Derby
-  Nottingham               2-2  QPR
+  Nottingham Forest        2-2  QPR
   Birmingham               1-1  Burnley
   Coventry                 2-1  Wolves
   Blackpool                2-3  Doncaster
@@ -530,7 +530,7 @@ Matchday 33
   Doncaster                1-0  Sheffield Wed
   Charlton                 2-0  Plymouth
   Burnley                  1-0  Wolves
-  Birmingham               2-0  Nottingham
+  Birmingham               2-0  Nottingham Forest
   Bristol City             2-0  Southampton
 
 
@@ -553,14 +553,14 @@ Matchday 33
 
 Matchday 31
 [Wed Feb/18]
-  Ipswich                  2-1  Nottingham
+  Ipswich                  2-1  Nottingham Forest
   Derby                    4-1  Blackpool
 
 
 Matchday 34
 [Sat Feb/21]
   Swansea                  3-1  Doncaster
-  Nottingham               1-3  Derby
+  Nottingham Forest        1-3  Derby
   Southampton              3-1  Preston
   Sheffield Wed            2-0  Crystal Palace
   QPR                      1-3  Ipswich
@@ -592,7 +592,7 @@ Matchday 35
   Watford                  2-0  Crystal Palace
   Wolves                   0-1  Plymouth
   Southampton              1-0  Cardiff
-  Reading                  0-1  Nottingham
+  Reading                  0-1  Nottingham Forest
   Preston                  3-2  Ipswich
   Norwich                  1-2  Coventry
   Burnley                  2-4  Sheffield Wed
@@ -606,7 +606,7 @@ Matchday 36
 [Tue Mar/3]
   Crystal Palace           0-1  Wolves
   Plymouth                 2-1  Watford
-  Nottingham               2-1  Preston
+  Nottingham Forest        2-1  Preston
   Ipswich                  0-3  Southampton
   Sheffield Wed            1-2  Reading
   Charlton                 1-2  Doncaster
@@ -625,7 +625,7 @@ Matchday 37
   Sheffield Wed            0-1  Wolves
   QPR                      0-0  Sheffield Utd
   Derby                    2-1  Bristol City
-  Nottingham               1-1  Swansea
+  Nottingham Forest        1-1  Swansea
   Crystal Palace           2-1  Preston
   Charlton                 2-3  Watford
   Cardiff                  3-0  Doncaster
@@ -636,7 +636,7 @@ Matchday 37
 Matchday 38
 [Tue Mar/10]
   Wolves                   0-0  Ipswich
-  Watford                  2-1  Nottingham
+  Watford                  2-1  Nottingham Forest
   Swansea                  1-0  Plymouth
   Southampton              1-1  Derby
   Sheffield Utd            2-2  Blackpool
@@ -660,7 +660,7 @@ Matchday 39
   Reading                  0-1  Ipswich
   Preston                  2-1  Coventry
   Norwich                  1-0  Plymouth
-  Burnley                  5-0  Nottingham
+  Burnley                  5-0  Nottingham Forest
   Doncaster                0-2  Birmingham
   Barnsley                 0-1  Blackpool
 [Sun Mar/15]
@@ -693,7 +693,7 @@ Matchday 40
   Plymouth                 1-2  Burnley
   QPR                      2-1  Bristol City
   Sheffield Wed            0-0  Swansea
-  Nottingham               0-1  Wolves
+  Nottingham Forest        0-1  Wolves
   Ipswich                  0-0  Watford
   Derby                    0-0  Barnsley
   Coventry                 1-0  Doncaster
@@ -715,7 +715,7 @@ Matchday 41
   Derby                    1-1  Burnley
   Bristol City             1-1  Preston
   Blackpool                0-1  Plymouth
-  Barnsley                 1-1  Nottingham
+  Barnsley                 1-1  Nottingham Forest
   Coventry                 0-0  Reading
 [Sun Apr/5]
   Cardiff                  2-2  Swansea
@@ -749,7 +749,7 @@ Matchday 42
   Swansea                  2-1  Norwich
   Preston                  0-1  Blackpool
   Plymouth                 4-0  Coventry
-  Nottingham               3-2  Bristol City
+  Nottingham Forest        3-2  Bristol City
   Ipswich                  1-3  Doncaster
   Crystal Palace           0-2  Cardiff
   Charlton                 0-0  Birmingham
@@ -759,7 +759,7 @@ Matchday 42
 Matchday 43
 [Mon Apr/13]
   Southampton              1-0  Crystal Palace
-  Sheffield Utd            0-0  Nottingham
+  Sheffield Utd            0-0  Nottingham Forest
   QPR                      3-2  Sheffield Wed
   Norwich                  2-0  Watford
   Barnsley                 1-3  Swansea
@@ -783,7 +783,7 @@ Matchday 44
   Plymouth                 0-3  Doncaster
   Charlton                 2-2  Blackpool
   Crystal Palace           1-0  Derby
-  Nottingham               1-0  Coventry
+  Nottingham Forest        1-0  Coventry
 [Sun Apr/19]
   Ipswich                  3-2  Norwich
 [Mon Apr/20]
@@ -809,7 +809,7 @@ Matchday 45
 [Sat Apr/25]
   Sheffield Utd            1-0  Swansea
   Southampton              2-2  Burnley
-  Blackpool                1-1  Nottingham
+  Blackpool                1-1  Nottingham Forest
   QPR                      0-0  Plymouth
   Doncaster                2-0  Crystal Palace
   Derby                    1-0  Charlton
@@ -831,7 +831,7 @@ Matchday 46
   Reading                  1-2  Birmingham
   Wolves                   1-0  Doncaster
   Plymouth                 1-2  Barnsley
-  Nottingham               3-1  Southampton
+  Nottingham Forest        3-1  Southampton
   Ipswich                  2-1  Coventry
   Crystal Palace           0-0  Sheffield Utd
   Charlton                 4-2  Norwich
