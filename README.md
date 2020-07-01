@@ -20,6 +20,11 @@ National football club leagues include:
 |    IV | English League Two            | 24 Clubs  |
 
 
+Notes:
+
+- Starting with the 2004/05 season the Football League's Division 1, Division 2 and Division 3 changed to Championship, League One and League Two.
+
+
 
 Example:
 
