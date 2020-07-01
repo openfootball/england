@@ -1,393 +1,604 @@
 # Clubs
 
-  Premier League - 10 records
+  Premier League - 28 records
     Premier League 2010/11  -- teams: 20, matches: 380, rounds: 38
     Premier League 2011/12  -- teams: 20, matches: 380, rounds: 38
     Premier League 2012/13  -- teams: 20, matches: 380, rounds: 38
     Premier League 2013/14  -- teams: 20, matches: 380, rounds: 38
     Premier League 2014/15  -- teams: 20, matches: 380, rounds: 38
     Premier League 2015/16  -- teams: 20, matches: 380, rounds: 38
-    Premier League 2016/17  -- teams: 20, matches: 380, rounds: 41
-    Premier League 2017/18  -- teams: 20, matches: 380, rounds: 41
-    Premier League 2018/19  -- teams: 20, matches: 380, rounds: 39
-    Premier League 2019/20  -- teams: 20, matches: 380, rounds: 39
+    Premier League 2016/17  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2017/18  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2018/19  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2019/20  -- teams: 20, matches: 380, rounds: 38
+    Premier League 1992/93  -- teams: 22, matches: 462, rounds: 42
+    Premier League 1993/94  -- teams: 22, matches: 462, rounds: 42
+    Premier League 1994/95  -- teams: 22, matches: 462, rounds: 42
+    Premier League 1995/96  -- teams: 20, matches: 380, rounds: 38
+    Premier League 1996/97  -- teams: 20, matches: 380, rounds: 38
+    Premier League 1997/98  -- teams: 20, matches: 380, rounds: 38
+    Premier League 1998/99  -- teams: 20, matches: 380, rounds: 38
+    Premier League 1999/00  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2000/01  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2001/02  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2002/03  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2003/04  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2004/05  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2005/06  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2006/07  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2007/08  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2008/09  -- teams: 20, matches: 380, rounds: 38
+    Premier League 2009/10  -- teams: 20, matches: 380, rounds: 38
 
-  Championship - 6 records
+  Championship - 18 records
     Championship 2010/11  -- teams: 24, matches: 552, rounds: 46
     Championship 2011/12  -- teams: 24, matches: 552, rounds: 46
     Championship 2012/13  -- teams: 24, matches: 552, rounds: 46
     Championship 2013/14  -- teams: 24, matches: 552, rounds: 46
     Championship 2014/15  -- teams: 24, matches: 552, rounds: 46
     Championship 2015/16  -- teams: 24, matches: 550, rounds: 46
+    Championship 1998/99  -- teams: 24, matches: 552, rounds: 46
+    Championship 1999/00  -- teams: 24, matches: 552, rounds: 46
+    Championship 2000/01  -- teams: 24, matches: 552, rounds: 46
+    Championship 2001/02  -- teams: 24, matches: 552, rounds: 46
+    Championship 2002/03  -- teams: 24, matches: 552, rounds: 46
+    Championship 2003/04  -- teams: 24, matches: 552, rounds: 46
+    Championship 2004/05  -- teams: 24, matches: 552, rounds: 46
+    Championship 2005/06  -- teams: 24, matches: 552, rounds: 46
+    Championship 2006/07  -- teams: 24, matches: 552, rounds: 46
+    Championship 2007/08  -- teams: 24, matches: 552, rounds: 46
+    Championship 2008/09  -- teams: 24, matches: 552, rounds: 46
+    Championship 2009/10  -- teams: 24, matches: 552, rounds: 46
 
-  League One - 6 records
+  League One - 18 records
     League One 2010/11  -- teams: 24, matches: 552, rounds: 46
     League One 2011/12  -- teams: 24, matches: 552, rounds: 46
     League One 2012/13  -- teams: 24, matches: 552, rounds: 46
     League One 2013/14  -- teams: 24, matches: 552, rounds: 46
     League One 2014/15  -- teams: 24, matches: 552, rounds: 46
     League One 2015/16  -- teams: 24, matches: 552, rounds: 46
+    League One 1998/99  -- teams: 24, matches: 552, rounds: 46
+    League One 1999/00  -- teams: 24, matches: 552, rounds: 46
+    League One 2000/01  -- teams: 24, matches: 552, rounds: 46
+    League One 2001/02  -- teams: 24, matches: 552, rounds: 46
+    League One 2002/03  -- teams: 24, matches: 552, rounds: 46
+    League One 2003/04  -- teams: 24, matches: 552, rounds: 46
+    League One 2004/05  -- teams: 24, matches: 552, rounds: 46
+    League One 2005/06  -- teams: 24, matches: 552, rounds: 46
+    League One 2006/07  -- teams: 24, matches: 552, rounds: 46
+    League One 2007/08  -- teams: 24, matches: 552, rounds: 46
+    League One 2008/09  -- teams: 24, matches: 552, rounds: 46
+    League One 2009/10  -- teams: 24, matches: 552, rounds: 46
 
-  League Two - 6 records
+  League Two - 18 records
     League Two 2010/11  -- teams: 24, matches: 552, rounds: 46
     League Two 2011/12  -- teams: 24, matches: 552, rounds: 46
     League Two 2012/13  -- teams: 24, matches: 552, rounds: 46
     League Two 2013/14  -- teams: 24, matches: 552, rounds: 46
     League Two 2014/15  -- teams: 24, matches: 552, rounds: 46
     League Two 2015/16  -- teams: 24, matches: 552, rounds: 46
+    League Two 1998/99  -- teams: 24, matches: 552, rounds: 46
+    League Two 1999/00  -- teams: 24, matches: 552, rounds: 46
+    League Two 2000/01  -- teams: 24, matches: 552, rounds: 46
+    League Two 2001/02  -- teams: 24, matches: 552, rounds: 46
+    League Two 2002/03  -- teams: 24, matches: 552, rounds: 46
+    League Two 2003/04  -- teams: 24, matches: 552, rounds: 46
+    League Two 2004/05  -- teams: 24, matches: 552, rounds: 46
+    League Two 2005/06  -- teams: 24, matches: 552, rounds: 46
+    League Two 2006/07  -- teams: 24, matches: 552, rounds: 46
+    League Two 2007/08  -- teams: 24, matches: 552, rounds: 46
+    League Two 2008/09  -- teams: 24, matches: 552, rounds: 46
+    League Two 2009/10  -- teams: 24, matches: 552, rounds: 46
 
-  Championship - Play-offs - 6 records
+  Championship - Play-offs - 15 records
     Championship - Play-offs 2010/11  -- teams: 4, matches: 5, rounds: 2
     Championship - Play-offs 2011/12  -- teams: 4, matches: 5, rounds: 2
     Championship - Play-offs 2012/13  -- teams: 4, matches: 5, rounds: 2
     Championship - Play-offs 2013/14  -- teams: 4, matches: 5, rounds: 2
     Championship - Play-offs 2014/15  -- teams: 4, matches: 5, rounds: 2
     Championship - Play-offs 2015/16  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2001/02  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2002/03  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2003/04  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2004/05  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2005/06  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2006/07  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2007/08  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2008/09  -- teams: 4, matches: 5, rounds: 2
+    Championship - Play-offs 2009/10  -- teams: 4, matches: 5, rounds: 2
 
-  League One - Play-offs - 6 records
+  League One - Play-offs - 13 records
     League One - Play-offs 2010/11  -- teams: 4, matches: 5, rounds: 2
     League One - Play-offs 2011/12  -- teams: 4, matches: 5, rounds: 2
     League One - Play-offs 2012/13  -- teams: 4, matches: 5, rounds: 2
     League One - Play-offs 2013/14  -- teams: 4, matches: 5, rounds: 2
     League One - Play-offs 2014/15  -- teams: 4, matches: 5, rounds: 2
     League One - Play-offs 2015/16  -- teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2003/04  -- teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2004/05  -- teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2005/06  -- teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2006/07  -- teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2007/08  -- teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2008/09  -- teams: 4, matches: 5, rounds: 2
+    League One - Play-offs 2009/10  -- teams: 4, matches: 5, rounds: 2
 
-  League Two - Play-offs - 6 records
+  League Two - Play-offs - 13 records
     League Two - Play-offs 2010/11  -- teams: 4, matches: 5, rounds: 2
     League Two - Play-offs 2011/12  -- teams: 4, matches: 5, rounds: 2
     League Two - Play-offs 2012/13  -- teams: 4, matches: 5, rounds: 2
     League Two - Play-offs 2013/14  -- teams: 4, matches: 5, rounds: 2
     League Two - Play-offs 2014/15  -- teams: 4, matches: 5, rounds: 2
     League Two - Play-offs 2015/16  -- teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2003/04  -- teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2004/05  -- teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2005/06  -- teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2006/07  -- teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2007/08  -- teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2008/09  -- teams: 4, matches: 5, rounds: 2
+    League Two - Play-offs 2009/10  -- teams: 4, matches: 5, rounds: 2
 
 
-100 Clubs
+110 Clubs
 
-   1. Brighton & Hove Albion FC
+   1. West Ham United FC      
+      - Premier League            24  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94)
+      - Championship               3  (2011/12, 2004/05, 2003/04)
+      - Championship - Play-offs   3  (2011/12, 2004/05, 2003/04)
+   2. Crystal Palace FC       
+      - Premier League            11  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2004/05, 1997/98, 1994/95, 1992/93)
+      - Championship              14  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - Championship - Play-offs   4  (2012/13, 2007/08, 2005/06, 2003/04)
+   3. Southampton FC          
+      - Premier League            21  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship               5  (2011/12, 2008/09, 2007/08, 2006/07, 2005/06)
+      - League One                 2  (2010/11, 2009/10)
+      - Championship - Play-offs   1  (2006/07)
+   4. Arsenal FC              
+      - Premier League            28  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   5. Chelsea FC              
+      - Premier League            28  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   6. Everton FC              
+      - Premier League            28  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   7. Liverpool FC            
+      - Premier League            28  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   8. Manchester United FC    
+      - Premier League            28  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+   9. Tottenham Hotspur FC    
+      - Premier League            28  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+  10. Leeds United FC         
+      - Premier League            12  (2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship               9  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2006/07, 2005/06, 2004/05)
+      - League One                 3  (2009/10, 2008/09, 2007/08)
+      - Championship - Play-offs   1  (2005/06)
+      - League One - Play-offs     2  (2008/09, 2007/08)
+  11. Leicester City FC       
+      - Premier League            14  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1994/95)
+      - Championship              10  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2007/08, 2006/07, 2005/06, 2004/05, 2002/03)
+      - League One                 1  (2008/09)
+      - Championship - Play-offs   2  (2012/13, 2009/10)
+  12. Manchester City FC      
+      - Premier League            23  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2000/01, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship               2  (2001/02, 1999/00)
+      - League One                 1  (1998/99)
+  13. Newcastle United FC     
+      - Premier League            25  (2019/20, 2018/19, 2017/18, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94)
+      - Championship               1  (2009/10)
+  14. Nottingham Forest FC    
+      - Premier League             5  (1998/99, 1996/97, 1995/96, 1994/95, 1992/93)
+      - Championship              14  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00)
+      - League One                 3  (2007/08, 2006/07, 2005/06)
+      - Championship - Play-offs   3  (2010/11, 2009/10, 2002/03)
+      - League One - Play-offs     1  (2006/07)
+  15. Sheffield United FC     
+      - Premier League             4  (2019/20, 2006/07, 1993/94, 1992/93)
+      - Championship              12  (2010/11, 2009/10, 2008/09, 2007/08, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - Championship - Play-offs   2  (2008/09, 2002/03)
+      - League One - Play-offs     3  (2014/15, 2012/13, 2011/12)
+  16. Sheffield Wednesday FC  
+      - Premier League             8  (1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship              12  (2015/16, 2014/15, 2013/14, 2012/13, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2002/03, 2001/02, 2000/01)
+      - League One                 4  (2011/12, 2010/11, 2004/05, 2003/04)
+      - Championship - Play-offs   1  (2015/16)
+      - League One - Play-offs     1  (2004/05)
+  17. Aston Villa FC          
+      - Premier League            25  (2019/20, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+  18. Brighton & Hove Albion FC
       - Premier League             3  (2019/20, 2018/19, 2017/18)
-      - Championship               5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
-      - League One                 1  (2010/11)
+      - Championship               8  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2005/06, 2004/05, 2002/03)
+      - League One                 7  (2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2003/04, 2001/02)
+      - League Two                 3  (2000/01, 1999/00, 1998/99)
       - Championship - Play-offs   3  (2015/16, 2013/14, 2012/13)
-   2. AFC Bournemouth         
+      - League One - Play-offs     1  (2003/04)
+  19. Huddersfield Town AFC   
+      - Premier League             2  (2018/19, 2017/18)
+      - Championship               7  (2015/16, 2014/15, 2013/14, 2012/13, 2000/01, 1999/00, 1998/99)
+      - League One                10  (2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2002/03, 2001/02)
+      - League Two                 1  (2003/04)
+      - League One - Play-offs     4  (2011/12, 2010/11, 2009/10, 2005/06)
+      - League Two - Play-offs     1  (2003/04)
+  20. Watford FC              
+      - Premier League             7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2006/07, 1999/00)
+      - Championship              15  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1998/99)
+      - Championship - Play-offs   3  (2012/13, 2007/08, 2005/06)
+  21. Blackburn Rovers FC     
+      - Premier League            18  (2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship               6  (2015/16, 2014/15, 2013/14, 2012/13, 2000/01, 1999/00)
+  22. Coventry City FC        
+      - Premier League             9  (2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship              11  (2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02)
+      - League One                 4  (2015/16, 2014/15, 2013/14, 2012/13)
+  23. Derby County FC         
+      - Premier League             7  (2007/08, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97)
+      - Championship              13  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03)
+      - Championship - Play-offs   4  (2015/16, 2013/14, 2006/07, 2004/05)
+  24. Ipswich Town FC         
+      - Premier League             5  (2001/02, 2000/01, 1994/95, 1993/94, 1992/93)
+      - Championship              16  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 1999/00, 1998/99)
+      - Championship - Play-offs   3  (2014/15, 2004/05, 2003/04)
+  25. Norwich City FC         
+      - Premier League             9  (2019/20, 2015/16, 2013/14, 2012/13, 2011/12, 2004/05, 1994/95, 1993/94, 1992/93)
+      - Championship              12  (2014/15, 2010/11, 2008/09, 2007/08, 2006/07, 2005/06, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 1  (2009/10)
+      - Championship - Play-offs   2  (2014/15, 2001/02)
+  26. AFC Bournemouth         
       - Premier League             5  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16)
       - Championship               2  (2014/15, 2013/14)
-      - League One                 3  (2012/13, 2011/12, 2010/11)
+      - League One                12  (2012/13, 2011/12, 2010/11, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two                 3  (2009/10, 2008/09, 2002/03)
       - League One - Play-offs     1  (2010/11)
-   3. Crystal Palace FC       
-      - Premier League             7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
-      - Championship               3  (2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2012/13)
-   4. Leicester City FC       
-      - Premier League             6  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15)
-      - Championship               4  (2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2012/13)
-   5. Watford FC              
-      - Premier League             5  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16)
-      - Championship               5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2012/13)
-   6. West Ham United FC      
-      - Premier League             9  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2010/11)
-      - Championship               1  (2011/12)
-      - Championship - Play-offs   1  (2011/12)
-   7. Arsenal FC              
-      - Premier League            10  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-   8. Burnley FC              
-      - Premier League             5  (2019/20, 2018/19, 2017/18, 2016/17, 2014/15)
-      - Championship               5  (2015/16, 2013/14, 2012/13, 2011/12, 2010/11)
-   9. Chelsea FC              
-      - Premier League            10  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  10. Everton FC              
-      - Premier League            10  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  11. Huddersfield Town AFC   
-      - Premier League             2  (2018/19, 2017/18)
-      - Championship               4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - League One                 2  (2011/12, 2010/11)
-      - League One - Play-offs     2  (2011/12, 2010/11)
-  12. Liverpool FC            
-      - Premier League            10  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  13. Manchester City FC      
-      - Premier League            10  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  14. Manchester United FC    
-      - Premier League            10  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  15. Sheffield United FC     
-      - Premier League             1  (2019/20)
-      - Championship               1  (2010/11)
-      - League One                 5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
-      - League One - Play-offs     3  (2014/15, 2012/13, 2011/12)
-  16. Southampton FC          
-      - Premier League             8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
-      - Championship               1  (2011/12)
-      - League One                 1  (2010/11)
-  17. Tottenham Hotspur FC    
-      - Premier League            10  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  18. Cardiff City FC         
+  27. Burnley FC              
+      - Premier League             6  (2019/20, 2018/19, 2017/18, 2016/17, 2014/15, 2009/10)
+      - Championship              14  (2015/16, 2013/14, 2012/13, 2011/12, 2010/11, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01)
+      - League One                 2  (1999/00, 1998/99)
+      - Championship - Play-offs   1  (2008/09)
+  28. Middlesbrough FC        
+      - Premier League            15  (2016/17, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1996/97, 1995/96, 1992/93)
+      - Championship               7  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10)
+      - Championship - Play-offs   1  (2014/15)
+  29. Preston North End FC    
+      - Championship              12  (2015/16, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01)
+      - League One                 6  (2014/15, 2013/14, 2012/13, 2011/12, 1999/00, 1998/99)
+      - Championship - Play-offs   3  (2008/09, 2005/06, 2004/05)
+      - League One - Play-offs     2  (2014/15, 2013/14)
+  30. Queens Park Rangers FC  
+      - Premier League             7  (2014/15, 2012/13, 2011/12, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship              12  (2015/16, 2013/14, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2000/01, 1999/00, 1998/99)
+      - League One                 3  (2003/04, 2002/03, 2001/02)
+      - Championship - Play-offs   1  (2013/14)
+  31. Southend United FC      
+      - Championship               1  (2006/07)
+      - League One                 5  (2015/16, 2009/10, 2008/09, 2007/08, 2005/06)
+      - League Two                12  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One - Play-offs     1  (2007/08)
+      - League Two - Play-offs     4  (2014/15, 2013/14, 2011/12, 2004/05)
+  32. Swindon Town FC         
+      - Premier League             1  (1993/94)
+      - Championship               2  (1999/00, 1998/99)
+      - League One                14  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11, 2009/10, 2008/09, 2007/08, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01)
+      - League Two                 2  (2011/12, 2006/07)
+      - League One - Play-offs     4  (2014/15, 2012/13, 2009/10, 2003/04)
+  33. Wolverhampton Wanderers FC
+      - Premier League             6  (2019/20, 2018/19, 2011/12, 2010/11, 2009/10, 2003/04)
+      - Championship              13  (2015/16, 2014/15, 2012/13, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 1  (2013/14)
+      - Championship - Play-offs   3  (2006/07, 2002/03, 2001/02)
+  34. Brentford FC            
+      - Championship               2  (2015/16, 2014/15)
+      - League One                13  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00)
+      - League Two                 3  (2008/09, 2007/08, 1998/99)
+      - Championship - Play-offs   1  (2014/15)
+      - League One - Play-offs     3  (2012/13, 2005/06, 2004/05)
+  35. Cardiff City FC         
       - Premier League             2  (2018/19, 2013/14)
-      - Championship               5  (2015/16, 2014/15, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   2  (2011/12, 2010/11)
-  19. Newcastle United FC     
-      - Premier League             9  (2019/20, 2018/19, 2017/18, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  20. Southend United FC      
+      - Championship              12  (2015/16, 2014/15, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04)
+      - League One                 3  (2002/03, 2001/02, 1999/00)
+      - League Two                 2  (2000/01, 1998/99)
+      - Championship - Play-offs   3  (2011/12, 2010/11, 2009/10)
+  36. Millwall FC             
+      - Championship              10  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02)
+      - League One                 8  (2015/16, 2009/10, 2008/09, 2007/08, 2006/07, 2000/01, 1999/00, 1998/99)
+      - Championship - Play-offs   1  (2001/02)
+      - League One - Play-offs     3  (2015/16, 2009/10, 2008/09)
+  37. Swansea City FC         
+      - Premier League             7  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - Championship               3  (2010/11, 2009/10, 2008/09)
+      - League One                 4  (2007/08, 2006/07, 2005/06, 2000/01)
+      - League Two                 6  (2004/05, 2003/04, 2002/03, 2001/02, 1999/00, 1998/99)
+      - Championship - Play-offs   1  (2010/11)
+      - League One - Play-offs     1  (2005/06)
+  38. Barnsley FC             
+      - Premier League             1  (1997/98)
+      - Championship              12  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 6  (2015/16, 2014/15, 2005/06, 2004/05, 2003/04, 2002/03)
+      - League One - Play-offs     2  (2015/16, 2005/06)
+  39. Blackpool FC            
+      - Premier League             1  (2010/11)
+      - Championship               7  (2014/15, 2013/14, 2012/13, 2011/12, 2009/10, 2008/09, 2007/08)
+      - League One                 9  (2015/16, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 1999/00, 1998/99)
+      - League Two                 1  (2000/01)
+      - Championship - Play-offs   2  (2011/12, 2009/10)
+      - League One - Play-offs     1  (2006/07)
+  40. Hull City AFC           
+      - Premier League             5  (2016/17, 2014/15, 2013/14, 2009/10, 2008/09)
+      - Championship               7  (2015/16, 2012/13, 2011/12, 2010/11, 2007/08, 2006/07, 2005/06)
+      - League One                 1  (2004/05)
+      - League Two                 6  (2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - Championship - Play-offs   2  (2015/16, 2007/08)
+  41. Northampton Town FC     
+      - League One                 7  (2008/09, 2007/08, 2006/07, 2002/03, 2001/02, 2000/01, 1998/99)
+      - League Two                11  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2005/06, 2004/05, 2003/04, 1999/00)
+      - League Two - Play-offs     3  (2012/13, 2004/05, 2003/04)
+  42. Oldham Athletic AFC     
+      - Premier League             2  (1993/94, 1992/93)
+      - League One                18  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One - Play-offs     1  (2006/07)
+  43. Reading FC              
+      - Premier League             3  (2012/13, 2007/08, 2006/07)
+      - Championship              11  (2015/16, 2014/15, 2013/14, 2011/12, 2010/11, 2009/10, 2008/09, 2005/06, 2004/05, 2003/04, 2002/03)
+      - League One                 4  (2001/02, 2000/01, 1999/00, 1998/99)
+      - Championship - Play-offs   3  (2010/11, 2008/09, 2002/03)
+  44. Sunderland AFC          
+      - Premier League            16  (2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2005/06, 2002/03, 2001/02, 2000/01, 1999/00, 1996/97)
+      - Championship               4  (2006/07, 2004/05, 2003/04, 1998/99)
+      - Championship - Play-offs   1  (2003/04)
+  45. West Bromwich Albion FC 
+      - Premier League            12  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2008/09, 2005/06, 2004/05, 2002/03)
+      - Championship               8  (2009/10, 2007/08, 2006/07, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99)
+      - Championship - Play-offs   1  (2006/07)
+  46. Wycombe Wanderers FC    
+      - League One                 8  (2011/12, 2009/10, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two                10  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05)
+      - League Two - Play-offs     3  (2014/15, 2007/08, 2005/06)
+  47. Birmingham City FC      
+      - Premier League             7  (2010/11, 2009/10, 2007/08, 2005/06, 2004/05, 2003/04, 2002/03)
+      - Championship              11  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2008/09, 2006/07, 2001/02, 2000/01, 1999/00, 1998/99)
+      - Championship - Play-offs   2  (2011/12, 2001/02)
+  48. Bolton Wanderers FC     
+      - Premier League            13  (2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 1997/98, 1995/96)
+      - Championship               7  (2015/16, 2014/15, 2013/14, 2012/13, 2000/01, 1999/00, 1998/99)
+  49. Bradford City AFC       
+      - Premier League             2  (2000/01, 1999/00)
+      - Championship               4  (2003/04, 2002/03, 2001/02, 1998/99)
+      - League One                 6  (2015/16, 2014/15, 2013/14, 2006/07, 2005/06, 2004/05)
+      - League Two                 6  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08)
+      - League One - Play-offs     1  (2015/16)
+      - League Two - Play-offs     1  (2012/13)
+  50. Bristol City FC         
+      - Championship               8  (2015/16, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 1998/99)
+      - League One                10  (2014/15, 2013/14, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00)
+      - Championship - Play-offs   1  (2007/08)
+      - League One - Play-offs     1  (2003/04)
+  51. Hartlepool United FC    
+      - League One                 9  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2005/06, 2004/05, 2003/04)
+      - League Two                 9  (2015/16, 2014/15, 2013/14, 2006/07, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One - Play-offs     2  (2004/05, 2003/04)
+  52. Peterborough United FC  
+      - Championship               3  (2012/13, 2011/12, 2009/10)
+      - League One                10  (2015/16, 2014/15, 2013/14, 2010/11, 2008/09, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01)
+      - League Two                 5  (2007/08, 2006/07, 2005/06, 1999/00, 1998/99)
+      - League One - Play-offs     2  (2013/14, 2010/11)
+  53. Plymouth Argyle FC      
+      - Championship               6  (2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05)
+      - League One                 3  (2010/11, 2003/04, 2002/03)
+      - League Two                 9  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two - Play-offs     2  (2015/16, 2014/15)
+  54. Rochdale AFC            
+      - League One                 4  (2015/16, 2014/15, 2011/12, 2010/11)
+      - League Two                14  (2013/14, 2012/13, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two - Play-offs     2  (2008/09, 2007/08)
+  55. Rotherham United FC     
+      - Championship               6  (2015/16, 2014/15, 2004/05, 2003/04, 2002/03, 2001/02)
+      - League One                 4  (2013/14, 2006/07, 2005/06, 2000/01)
+      - League Two                 8  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 1999/00, 1998/99)
+      - League One - Play-offs     1  (2013/14)
+      - League Two - Play-offs     1  (2009/10)
+  56. Shrewsbury Town FC      
+      - League One                 3  (2015/16, 2013/14, 2012/13)
+      - League Two                14  (2014/15, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two - Play-offs     3  (2010/11, 2008/09, 2006/07)
+  57. Stoke City FC           
+      - Premier League            10  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09)
+      - Championship               6  (2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03)
+      - League One                 4  (2001/02, 2000/01, 1999/00, 1998/99)
+  58. Bury FC                 
+      - Championship               1  (1998/99)
+      - League One                 6  (2015/16, 2012/13, 2011/12, 2001/02, 2000/01, 1999/00)
+      - League Two                11  (2014/15, 2013/14, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03)
+      - League Two - Play-offs     1  (2008/09)
+  59. Charlton Athletic FC    
+      - Premier League             8  (2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1998/99)
+      - Championship               7  (2015/16, 2014/15, 2013/14, 2012/13, 2008/09, 2007/08, 1999/00)
+      - League One                 3  (2011/12, 2010/11, 2009/10)
+      - League One - Play-offs     1  (2009/10)
+  60. Cheltenham Town FC      
+      - League One                 4  (2008/09, 2007/08, 2006/07, 2002/03)
+      - League Two                12  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2005/06, 2004/05, 2003/04, 2001/02, 2000/01, 1999/00)
+      - League Two - Play-offs     3  (2012/13, 2011/12, 2005/06)
+  61. Chesterfield FC         
+      - League One                11  (2015/16, 2014/15, 2011/12, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 1999/00, 1998/99)
+      - League Two                 7  (2013/14, 2012/13, 2010/11, 2009/10, 2008/09, 2007/08, 2000/01)
+      - League One - Play-offs     1  (2014/15)
+  62. Crewe Alexandra FC      
+      - Championship               7  (2005/06, 2004/05, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 8  (2015/16, 2014/15, 2013/14, 2012/13, 2008/09, 2007/08, 2006/07, 2002/03)
+      - League Two                 3  (2011/12, 2010/11, 2009/10)
+      - League Two - Play-offs     1  (2011/12)
+  63. Fulham FC               
+      - Premier League            14  (2018/19, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02)
+      - Championship               4  (2015/16, 2014/15, 2000/01, 1999/00)
+      - League One                 1  (1998/99)
+  64. Gillingham FC           
+      - Championship               5  (2004/05, 2003/04, 2002/03, 2001/02, 2000/01)
+      - League One                 9  (2015/16, 2014/15, 2013/14, 2009/10, 2007/08, 2006/07, 2005/06, 1999/00, 1998/99)
+      - League Two                 4  (2012/13, 2011/12, 2010/11, 2008/09)
+      - League Two - Play-offs     1  (2008/09)
+  65. Leyton Orient FC        
+      - League One                 9  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07)
+      - League Two                 9  (2015/16, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One - Play-offs     1  (2013/14)
+  66. Portsmouth FC           
+      - Premier League             7  (2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04)
+      - Championship               7  (2011/12, 2010/11, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 1  (2012/13)
+      - League Two                 3  (2015/16, 2014/15, 2013/14)
+      - League Two - Play-offs     1  (2015/16)
+  67. Scunthorpe United FC    
+      - Championship               3  (2010/11, 2009/10, 2007/08)
+      - League One                 8  (2015/16, 2014/15, 2012/13, 2011/12, 2008/09, 2006/07, 2005/06, 1999/00)
+      - League Two                 7  (2013/14, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1998/99)
+      - League One - Play-offs     1  (2008/09)
+  68. Walsall FC              
+      - Championship               4  (2003/04, 2002/03, 2001/02, 1999/00)
+      - League One                13  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2005/06, 2004/05, 2000/01, 1998/99)
+      - League Two                 1  (2006/07)
+      - League One - Play-offs     1  (2015/16)
+  69. Wigan Athletic FC       
+      - Premier League             8  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06)
+      - Championship               4  (2014/15, 2013/14, 2004/05, 2003/04)
+      - League One                 6  (2015/16, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - Championship - Play-offs   1  (2013/14)
+  70. Bristol Rovers FC       
+      - League One                 7  (2010/11, 2009/10, 2008/09, 2007/08, 2000/01, 1999/00, 1998/99)
+      - League Two                10  (2015/16, 2013/14, 2012/13, 2011/12, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02)
+      - League Two - Play-offs     1  (2006/07)
+  71. Carlisle United FC      
+      - League One                 8  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07)
+      - League Two                 9  (2015/16, 2014/15, 2005/06, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One - Play-offs     1  (2007/08)
+  72. Colchester United FC    
+      - Championship               2  (2007/08, 2006/07)
+      - League One                16  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+  73. Notts County FC         
+      - League One                11  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two                 7  (2015/16, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05)
+  74. Port Vale FC            
+      - Championship               2  (1999/00, 1998/99)
+      - League One                11  (2015/16, 2014/15, 2013/14, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01)
+      - League Two                 5  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09)
+  75. Tranmere Rovers FC      
+      - Championship               3  (2000/01, 1999/00, 1998/99)
+      - League One                13  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02)
+      - League Two                 1  (2014/15)
+      - League One - Play-offs     1  (2004/05)
+  76. Lincoln City FC         
+      - League One                 1  (1998/99)
+      - League Two                12  (2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00)
+      - League Two - Play-offs     4  (2006/07, 2005/06, 2004/05, 2003/04)
+  77. Milton Keynes Dons FC   
+      - Championship               1  (2015/16)
+      - League One                 9  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2005/06, 2004/05)
+      - League Two                 2  (2007/08, 2006/07)
+      - League One - Play-offs     3  (2011/12, 2010/11, 2008/09)
+      - League Two - Play-offs     1  (2006/07)
+  78. Torquay United FC       
+      - League One                 1  (2004/05)
+      - League Two                13  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2006/07, 2005/06, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two - Play-offs     2  (2011/12, 2010/11)
+  79. Macclesfield Town FC    
+      - League One                 1  (1998/99)
+      - League Two                13  (2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00)
+      - League Two - Play-offs     1  (2004/05)
+  80. Yeovil Town FC          
+      - Championship               1  (2013/14)
+      - League One                 9  (2014/15, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06)
+      - League Two                 3  (2015/16, 2004/05, 2003/04)
+      - League One - Play-offs     2  (2012/13, 2006/07)
+  81. Doncaster Rovers FC     
+      - Championship               5  (2013/14, 2011/12, 2010/11, 2009/10, 2008/09)
+      - League One                 7  (2015/16, 2014/15, 2012/13, 2007/08, 2006/07, 2005/06, 2004/05)
+      - League Two                 1  (2003/04)
+      - League One - Play-offs     1  (2007/08)
+  82. Mansfield Town FC       
+      - League One                 1  (2002/03)
+      - League Two                12  (2015/16, 2014/15, 2013/14, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two - Play-offs     1  (2003/04)
+  83. Oxford United FC        
+      - Championship               1  (1998/99)
+      - League One                 2  (2000/01, 1999/00)
+      - League Two                11  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02)
+  84. Stockport County FC     
+      - Championship               4  (2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 5  (2009/10, 2008/09, 2004/05, 2003/04, 2002/03)
+      - League Two                 4  (2010/11, 2007/08, 2006/07, 2005/06)
+      - League Two - Play-offs     1  (2007/08)
+  85. Darlington FC           
+      - League Two                12  (2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two - Play-offs     1  (2007/08)
+  86. Exeter City FC          
+      - League One                 3  (2011/12, 2010/11, 2009/10)
+      - League Two                10  (2015/16, 2014/15, 2013/14, 2012/13, 2008/09, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+  87. Grimsby Town FC         
+      - Championship               5  (2002/03, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League One                 1  (2003/04)
+      - League Two                 6  (2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05)
+      - League Two - Play-offs     1  (2005/06)
+  88. Luton Town FC           
+      - Championship               2  (2006/07, 2005/06)
+      - League One                 7  (2007/08, 2004/05, 2003/04, 2002/03, 2000/01, 1999/00, 1998/99)
+      - League Two                 4  (2015/16, 2014/15, 2008/09, 2001/02)
+  89. Accrington Stanley FC   
+      - League Two                10  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07)
+      - League Two - Play-offs     2  (2015/16, 2010/11)
+  90. Barnet FC               
+      - League Two                12  (2015/16, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2000/01, 1999/00, 1998/99)
+  91. Wimbledon FC            
+      - Premier League             8  (1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93)
+      - Championship               4  (2003/04, 2002/03, 2001/02, 2000/01)
+  92. York City FC            
+      - League One                 1  (1998/99)
+      - League Two                 9  (2015/16, 2014/15, 2013/14, 2012/13, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00)
+      - League Two - Play-offs     1  (2013/14)
+  93. Dagenham & Redbridge FC 
+      - League One                 1  (2010/11)
+      - League Two                 8  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2009/10, 2008/09, 2007/08)
+      - League Two - Play-offs     1  (2009/10)
+  94. Morecambe FC            
+      - League Two                 9  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08)
+      - League Two - Play-offs     1  (2009/10)
+  95. Wrexham AFC             
+      - League One                 6  (2004/05, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99)
+      - League Two                 4  (2007/08, 2006/07, 2005/06, 2002/03)
+  96. Burton Albion FC        
       - League One                 1  (2015/16)
-      - League Two                 5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two - Play-offs     3  (2014/15, 2013/14, 2011/12)
-  21. Stevenage FC            
+      - League Two                 6  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10)
+      - League Two - Play-offs     2  (2013/14, 2012/13)
+  97. Cambridge United FC     
+      - League One                 3  (2001/02, 2000/01, 1999/00)
+      - League Two                 6  (2015/16, 2014/15, 2004/05, 2003/04, 2002/03, 1998/99)
+  98. Stevenage FC            
       - League One                 3  (2013/14, 2012/13, 2011/12)
       - League Two                 3  (2015/16, 2014/15, 2010/11)
       - League One - Play-offs     1  (2011/12)
       - League Two - Play-offs     2  (2014/15, 2010/11)
-  22. Swansea City FC         
-      - Premier League             7  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
-      - Championship               1  (2010/11)
-      - Championship - Play-offs   1  (2010/11)
-  23. Accrington Stanley FC   
-      - League Two                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two - Play-offs     2  (2015/16, 2010/11)
-  24. Bradford City AFC       
-      - League One                 3  (2015/16, 2014/15, 2013/14)
-      - League Two                 3  (2012/13, 2011/12, 2010/11)
-      - League One - Play-offs     1  (2015/16)
-      - League Two - Play-offs     1  (2012/13)
-  25. Brentford FC            
-      - Championship               2  (2015/16, 2014/15)
-      - League One                 4  (2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2014/15)
-      - League One - Play-offs     1  (2012/13)
-  26. Burton Albion FC        
-      - League One                 1  (2015/16)
-      - League Two                 5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two - Play-offs     2  (2013/14, 2012/13)
-  27. Derby County FC         
-      - Championship               6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   2  (2015/16, 2013/14)
-  28. Hull City AFC           
-      - Premier League             3  (2016/17, 2014/15, 2013/14)
-      - Championship               4  (2015/16, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2015/16)
-  29. Middlesbrough FC        
-      - Premier League             1  (2016/17)
-      - Championship               6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2014/15)
-  30. Milton Keynes Dons FC   
-      - Championship               1  (2015/16)
-      - League One                 5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League One - Play-offs     2  (2011/12, 2010/11)
-  31. Norwich City FC         
-      - Premier League             5  (2019/20, 2015/16, 2013/14, 2012/13, 2011/12)
-      - Championship               2  (2014/15, 2010/11)
-      - Championship - Play-offs   1  (2014/15)
-  32. Peterborough United FC  
-      - Championship               2  (2012/13, 2011/12)
-      - League One                 4  (2015/16, 2014/15, 2013/14, 2010/11)
-      - League One - Play-offs     2  (2013/14, 2010/11)
-  33. Plymouth Argyle FC      
-      - League One                 1  (2010/11)
-      - League Two                 5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
-      - League Two - Play-offs     2  (2015/16, 2014/15)
-  34. Preston North End FC    
-      - Championship               2  (2015/16, 2010/11)
-      - League One                 4  (2014/15, 2013/14, 2012/13, 2011/12)
-      - League One - Play-offs     2  (2014/15, 2013/14)
-  35. Stoke City FC           
-      - Premier League             8  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  36. Swindon Town FC         
-      - League One                 5  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11)
-      - League Two                 1  (2011/12)
-      - League One - Play-offs     2  (2014/15, 2012/13)
-  37. West Bromwich Albion FC 
-      - Premier League             8  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  38. Wolverhampton Wanderers FC
-      - Premier League             4  (2019/20, 2018/19, 2011/12, 2010/11)
-      - Championship               3  (2015/16, 2014/15, 2012/13)
-      - League One                 1  (2013/14)
-  39. Aston Villa FC          
-      - Premier League             7  (2019/20, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  40. Barnsley FC             
-      - Championship               4  (2013/14, 2012/13, 2011/12, 2010/11)
-      - League One                 2  (2015/16, 2014/15)
-      - League One - Play-offs     1  (2015/16)
-  41. Birmingham City FC      
-      - Premier League             1  (2010/11)
-      - Championship               5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
-      - Championship - Play-offs   1  (2011/12)
-  42. Blackpool FC            
-      - Premier League             1  (2010/11)
-      - Championship               4  (2014/15, 2013/14, 2012/13, 2011/12)
-      - League One                 1  (2015/16)
-      - Championship - Play-offs   1  (2011/12)
-  43. Cheltenham Town FC      
-      - League Two                 5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two - Play-offs     2  (2012/13, 2011/12)
-  44. Chesterfield FC         
-      - League One                 3  (2015/16, 2014/15, 2011/12)
-      - League Two                 3  (2013/14, 2012/13, 2010/11)
-      - League One - Play-offs     1  (2014/15)
-  45. Crewe Alexandra FC      
-      - League One                 4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - League Two                 2  (2011/12, 2010/11)
-      - League Two - Play-offs     1  (2011/12)
-  46. Fulham FC               
-      - Premier League             5  (2018/19, 2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship               2  (2015/16, 2014/15)
-  47. Ipswich Town FC         
-      - Championship               6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2014/15)
-  48. Leyton Orient FC        
-      - League One                 5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two                 1  (2015/16)
-      - League One - Play-offs     1  (2013/14)
-  49. Millwall FC             
-      - Championship               5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League One                 1  (2015/16)
-      - League One - Play-offs     1  (2015/16)
-  50. Northampton Town FC     
-      - League Two                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two - Play-offs     1  (2012/13)
-  51. Nottingham Forest FC    
-      - Championship               6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2010/11)
-  52. Portsmouth FC           
-      - Championship               2  (2011/12, 2010/11)
-      - League One                 1  (2012/13)
-      - League Two                 3  (2015/16, 2014/15, 2013/14)
-      - League Two - Play-offs     1  (2015/16)
-  53. Queens Park Rangers FC  
-      - Premier League             3  (2014/15, 2012/13, 2011/12)
-      - Championship               3  (2015/16, 2013/14, 2010/11)
-      - Championship - Play-offs   1  (2013/14)
-  54. Reading FC              
-      - Premier League             1  (2012/13)
-      - Championship               5  (2015/16, 2014/15, 2013/14, 2011/12, 2010/11)
-      - Championship - Play-offs   1  (2010/11)
-  55. Rotherham United FC     
-      - Championship               2  (2015/16, 2014/15)
-      - League One                 1  (2013/14)
-      - League Two                 3  (2012/13, 2011/12, 2010/11)
-      - League One - Play-offs     1  (2013/14)
-  56. Sheffield Wednesday FC  
-      - Championship               4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - League One                 2  (2011/12, 2010/11)
-      - Championship - Play-offs   1  (2015/16)
-  57. Shrewsbury Town FC      
-      - League One                 3  (2015/16, 2013/14, 2012/13)
-      - League Two                 3  (2014/15, 2011/12, 2010/11)
-      - League Two - Play-offs     1  (2010/11)
-  58. Sunderland AFC          
-      - Premier League             7  (2016/17, 2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  59. Walsall FC              
-      - League One                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League One - Play-offs     1  (2015/16)
-  60. Wigan Athletic FC       
-      - Premier League             3  (2012/13, 2011/12, 2010/11)
-      - Championship               2  (2014/15, 2013/14)
-      - League One                 1  (2015/16)
-      - Championship - Play-offs   1  (2013/14)
-  61. Wycombe Wanderers FC    
-      - League One                 1  (2011/12)
-      - League Two                 5  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11)
-      - League Two - Play-offs     1  (2014/15)
-  62. Yeovil Town FC          
-      - Championship               1  (2013/14)
-      - League One                 4  (2014/15, 2012/13, 2011/12, 2010/11)
-      - League Two                 1  (2015/16)
-      - League One - Play-offs     1  (2012/13)
-  63. AFC Wimbledon           
+  99. Chester FC              
+      - League Two                 7  (2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 1999/00, 1998/99)
+ 100. AFC Wimbledon           
       - League Two                 5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
       - League Two - Play-offs     1  (2015/16)
-  64. Blackburn Rovers FC     
-      - Premier League             2  (2011/12, 2010/11)
-      - Championship               4  (2015/16, 2014/15, 2013/14, 2012/13)
-  65. Bolton Wanderers FC     
-      - Premier League             2  (2011/12, 2010/11)
-      - Championship               4  (2015/16, 2014/15, 2013/14, 2012/13)
-  66. Bristol City FC         
-      - Championship               4  (2015/16, 2012/13, 2011/12, 2010/11)
-      - League One                 2  (2014/15, 2013/14)
-  67. Bury FC                 
-      - League One                 3  (2015/16, 2012/13, 2011/12)
-      - League Two                 3  (2014/15, 2013/14, 2010/11)
-  68. Carlisle United FC      
-      - League One                 4  (2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two                 2  (2015/16, 2014/15)
-  69. Charlton Athletic FC    
-      - Championship               4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - League One                 2  (2011/12, 2010/11)
-  70. Colchester United FC    
-      - League One                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  71. Coventry City FC        
-      - Championship               2  (2011/12, 2010/11)
-      - League One                 4  (2015/16, 2014/15, 2013/14, 2012/13)
-  72. Dagenham & Redbridge FC 
-      - League One                 1  (2010/11)
-      - League Two                 5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
-  73. Doncaster Rovers FC     
-      - Championship               3  (2013/14, 2011/12, 2010/11)
-      - League One                 3  (2015/16, 2014/15, 2012/13)
-  74. Exeter City FC          
-      - League One                 2  (2011/12, 2010/11)
-      - League Two                 4  (2015/16, 2014/15, 2013/14, 2012/13)
-  75. Gillingham FC           
-      - League One                 3  (2015/16, 2014/15, 2013/14)
-      - League Two                 3  (2012/13, 2011/12, 2010/11)
-  76. Hartlepool United FC    
-      - League One                 3  (2012/13, 2011/12, 2010/11)
-      - League Two                 3  (2015/16, 2014/15, 2013/14)
-  77. Leeds United FC         
-      - Championship               6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  78. Morecambe FC            
-      - League Two                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  79. Notts County FC         
-      - League One                 5  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two                 1  (2015/16)
-  80. Oldham Athletic AFC     
-      - League One                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  81. Oxford United FC        
-      - League Two                 6  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11)
-  82. Port Vale FC            
-      - League One                 3  (2015/16, 2014/15, 2013/14)
-      - League Two                 3  (2012/13, 2011/12, 2010/11)
-  83. Rochdale AFC            
-      - League One                 4  (2015/16, 2014/15, 2011/12, 2010/11)
-      - League Two                 2  (2013/14, 2012/13)
-  84. Scunthorpe United FC    
-      - Championship               1  (2010/11)
-      - League One                 4  (2015/16, 2014/15, 2012/13, 2011/12)
-      - League Two                 1  (2013/14)
-  85. Torquay United FC       
-      - League Two                 4  (2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two - Play-offs     2  (2011/12, 2010/11)
-  86. Bristol Rovers FC       
-      - League One                 1  (2010/11)
-      - League Two                 4  (2015/16, 2013/14, 2012/13, 2011/12)
-  87. Crawley Town FC         
+ 101. Aldershot Town FC       
+      - League Two                 5  (2012/13, 2011/12, 2010/11, 2009/10, 2008/09)
+      - League Two - Play-offs     1  (2009/10)
+ 102. Hereford FC (2014-)     
+      - League One                 1  (2008/09)
+      - League Two                 5  (2011/12, 2010/11, 2009/10, 2007/08, 2006/07)
+ 103. Boston United FC        
+      - League Two                 5  (2006/07, 2005/06, 2004/05, 2003/04, 2002/03)
+ 104. Crawley Town FC         
       - League One                 3  (2014/15, 2013/14, 2012/13)
       - League Two                 2  (2015/16, 2011/12)
-  88. Fleetwood Town FC       
+ 105. Fleetwood Town FC       
       - League One                 2  (2015/16, 2014/15)
       - League Two                 2  (2013/14, 2012/13)
       - League Two - Play-offs     1  (2013/14)
-  89. Tranmere Rovers FC      
-      - League One                 4  (2013/14, 2012/13, 2011/12, 2010/11)
-      - League Two                 1  (2014/15)
-  90. York City FC            
-      - League Two                 4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - League Two - Play-offs     1  (2013/14)
-  91. Barnet FC               
-      - League Two                 4  (2015/16, 2012/13, 2011/12, 2010/11)
-  92. Aldershot Town FC       
-      - League Two                 3  (2012/13, 2011/12, 2010/11)
-  93. Mansfield Town FC       
+ 106. Kidderminster Harriers FC
+      - League Two                 5  (2004/05, 2003/04, 2002/03, 2001/02, 2000/01)
+ 107. Rushden & Diamonds (1992-2011)
+      - League One                 1  (2003/04)
+      - League Two                 4  (2005/06, 2004/05, 2002/03, 2001/02)
+ 108. FC Halifax Town         
+      - League Two                 4  (2001/02, 2000/01, 1999/00, 1998/99)
+ 109. Newport County AFC      
       - League Two                 3  (2015/16, 2014/15, 2013/14)
-  94. Newport County AFC      
-      - League Two                 3  (2015/16, 2014/15, 2013/14)
-  95. Cambridge United FC     
-      - League Two                 2  (2015/16, 2014/15)
-  96. Hereford FC (2014-)     
-      - League Two                 2  (2011/12, 2010/11)
-  97. Luton Town FC           
-      - League Two                 2  (2015/16, 2014/15)
-  98. Macclesfield Town FC    
-      - League Two                 2  (2011/12, 2010/11)
-  99. Lincoln City FC         
-      - League Two                 1  (2010/11)
- 100. Stockport County FC     
-      - League Two                 1  (2010/11)
+ 110. Scarborough FC (1879-2007)
+      - League Two                 1  (1998/99)
