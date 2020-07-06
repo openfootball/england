@@ -489,48 +489,48 @@ Matchday 31
   Leicester City FC        0-0  Brighton & Hove Albion FC
   Tottenham Hotspur FC     2-0  West Ham United FC
 [Wed Jun/24]
-  Wolverhampton Wanderers FC  -  AFC Bournemouth
-  Newcastle United FC      -  Aston Villa FC
-  Manchester United FC     -  Sheffield United FC
-  Norwich City FC          -  Everton FC
-  Liverpool FC             -  Crystal Palace FC
+  Wolverhampton Wanderers FC  1-0  AFC Bournemouth
+  Newcastle United FC      1-1  Aston Villa FC
+  Manchester United FC     3-0  Sheffield United FC
+  Norwich City FC          0-1  Everton FC
+  Liverpool FC             4-0  Crystal Palace FC
 [Thu Jun/25]
-  Burnley FC               -  Watford FC
-  Southampton FC           -  Arsenal FC
-  Chelsea FC               -  Manchester City FC
+  Burnley FC               1-0  Watford FC
+  Southampton FC           0-2  Arsenal FC
+  Chelsea FC               2-1  Manchester City FC
 
 
 Matchday 32
 [Sat Jun/27]
-  Aston Villa FC           -  Wolverhampton Wanderers FC
+  Aston Villa FC           0-1  Wolverhampton Wanderers FC
 [Sun Jun/28]
-  Watford FC               -  Southampton FC
+  Watford FC               1-3  Southampton FC
 [Mon Jun/29]
-  Crystal Palace FC        -  Burnley FC
+  Crystal Palace FC        0-1  Burnley FC
 [Tue Jun/30]
-  Brighton & Hove Albion FC  -  Manchester United FC
+  Brighton & Hove Albion FC  0-3  Manchester United FC
 [Wed Jul/1]
-  Arsenal FC               -  Norwich City FC
-  Everton FC               -  Leicester City FC
-  AFC Bournemouth          -  Newcastle United FC
-  West Ham United FC       -  Chelsea FC
+  Arsenal FC               4-0  Norwich City FC
+  Everton FC               2-1  Leicester City FC
+  AFC Bournemouth          1-4  Newcastle United FC
+  West Ham United FC       3-2  Chelsea FC
 [Thu Jul/2]
-  Sheffield United FC      -  Tottenham Hotspur FC
-  Manchester City FC       -  Liverpool FC
+  Sheffield United FC      3-1  Tottenham Hotspur FC
+  Manchester City FC       4-0  Liverpool FC
 
 
 Matchday 33
 [Sat Jul/4]
-  Norwich City FC          -  Brighton & Hove Albion FC
-  Manchester United FC     -  AFC Bournemouth
-  Leicester City FC        -  Crystal Palace FC
-  Wolverhampton Wanderers FC  -  Arsenal FC
-  Chelsea FC               -  Watford FC
+  Norwich City FC          0-1  Brighton & Hove Albion FC
+  Manchester United FC     5-2  AFC Bournemouth
+  Leicester City FC        3-0  Crystal Palace FC
+  Wolverhampton Wanderers FC  0-2  Arsenal FC
+  Chelsea FC               3-0  Watford FC
 [Sun Jul/5]
-  Burnley FC               -  Sheffield United FC
-  Newcastle United FC      -  West Ham United FC
-  Liverpool FC             -  Aston Villa FC
-  Southampton FC           -  Manchester City FC
+  Burnley FC               1-1  Sheffield United FC
+  Newcastle United FC      2-2  West Ham United FC
+  Liverpool FC             2-0  Aston Villa FC
+  Southampton FC           1-0  Manchester City FC
 [Mon Jul/6]
   Tottenham Hotspur FC     -  Everton FC
 
