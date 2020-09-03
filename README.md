@@ -104,9 +104,9 @@ Build the database for all English (incl. Welsh) clubs, leagues and seasons:
 
     $ sportdb new eng
 
-Build the database for the 2019/20 season:
+Build the database for the 2020/21 season:
 
-    $ sportdb new eng2019-20
+    $ sportdb new eng2020-21
 
 [More »](https://github.com/openfootball/quick-starter)
 
