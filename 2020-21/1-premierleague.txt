@@ -5,43 +5,48 @@ Matchday 1
 [Sat Sep/12]
   Burnley FC               -  Manchester United
   Manchester City FC       -  Aston Villa FC
-  16.00  Crystal Palace FC        -  Southampton FC
-         Fulham FC                -  Arsenal FC
-         Liverpool FC             -  Leeds United FC
-         Tottenham Hotspur FC     -  Everton FC
-         West Bromwich Albion FC  -  Leicester City FC
-         West Ham United FC       -  Newcastle United FC
+  12.30  Fulham FC                0-3 (0-1)  Arsenal FC
+  15.00  Crystal Palace FC        1-0 (1-0)  Southampton FC
+  17.30  Liverpool FC             4-3 (3-2)  Leeds United FC
+  20.00  West Ham United FC       0-2 (0-0)  Newcastle United FC
+[Sun Sep/13]
+  14.00  West Bromwich Albion FC  0-3 (0-0)  Leicester City FC
+  16.30  Tottenham Hotspur FC     0-1 (0-0)  Everton FC
 [Mon Sep/14]
-  21.00  Brighton & Hove Albion FC  -  Chelsea FC
-         Sheffield United FC      -  Wolverhampton Wanderers FC
+  18.00  Sheffield United FC      0-2 (0-2)  Wolverhampton Wanderers FC
+  20.15  Brighton & Hove Albion FC  1-3 (0-1)  Chelsea FC
 
 
 Matchday 2
 [Sat Sep/19]
-  Arsenal FC               -  West Ham United FC
-  Aston Villa FC           -  Sheffield United FC
-  Chelsea FC               -  Liverpool FC
-  Everton FC               -  West Bromwich Albion FC
-  Leeds United FC          -  Fulham FC
-  Leicester City FC        -  Burnley FC
-  Manchester United        -  Crystal Palace FC
-  Newcastle United FC      -  Brighton & Hove Albion FC
-  Southampton FC           -  Tottenham Hotspur FC
-  Wolverhampton Wanderers FC  -  Manchester City FC
+  12.30  Everton FC               -  West Bromwich Albion FC
+  15.00  Leeds United FC          -  Fulham FC
+  17.30  Manchester United        -  Crystal Palace FC
+  20.00  Arsenal FC               -  West Ham United FC
+[Sun Sep/20]
+  12.00  Southampton FC           -  Tottenham Hotspur FC
+  14.00  Newcastle United FC      -  Brighton & Hove Albion FC
+  16.30  Chelsea FC               -  Liverpool FC
+  19.00  Leicester City FC        -  Burnley FC
+[Mon Sep/21]
+  18.00  Aston Villa FC           -  Sheffield United FC
+  20.00  Wolverhampton Wanderers FC  -  Manchester City FC
 
 
 Matchday 3
 [Sat Sep/26]
-  Brighton & Hove Albion FC  -  Manchester United
-  Burnley FC               -  Southampton FC
-  Crystal Palace FC        -  Everton FC
-  Fulham FC                -  Aston Villa FC
-  Liverpool FC             -  Arsenal FC
-  Manchester City FC       -  Leicester City FC
-  Sheffield United FC      -  Leeds United FC
-  Tottenham Hotspur FC     -  Newcastle United FC
-  West Bromwich Albion FC  -  Chelsea FC
-  West Ham United FC       -  Wolverhampton Wanderers FC
+  12.30  Brighton & Hove Albion FC  -  Manchester United
+  15.00  Crystal Palace FC        -  Everton FC
+  17.30  West Bromwich Albion FC  -  Chelsea FC
+  20.00  Burnley FC               -  Southampton FC
+[Sun Sep/27]
+  12.00  Sheffield United FC      -  Leeds United FC
+  14.00  Tottenham Hotspur FC     -  Newcastle United FC
+  16.30  Manchester City FC       -  Leicester City FC
+  19.00  West Ham United FC       -  Wolverhampton Wanderers FC
+[Mon Sep/28]
+  18.00  Fulham FC                -  Aston Villa FC
+  20.15  Liverpool FC             -  Arsenal FC
 
 
 Matchday 4
@@ -172,7 +177,7 @@ Matchday 12
 
 Matchday 13
 [Tue Dec/15]
-  20.45  Arsenal FC               -  Southampton FC
+  19.45  Arsenal FC               -  Southampton FC
          Aston Villa FC           -  Burnley FC
          Fulham FC                -  Brighton & Hove Albion FC
          Leeds United FC          -  Newcastle United FC
@@ -181,7 +186,7 @@ Matchday 13
          West Ham United FC       -  Crystal Palace FC
          Wolverhampton Wanderers FC  -  Chelsea FC
 [Wed Dec/16]
-  21.00  Liverpool FC             -  Tottenham Hotspur FC
+  20.00  Liverpool FC             -  Tottenham Hotspur FC
          Manchester City FC       -  West Bromwich Albion FC
 
 
@@ -243,7 +248,7 @@ Matchday 17
 
 Matchday 18
 [Tue Jan/12]
-  20.45  Arsenal FC               -  Crystal Palace FC
+  19.45  Arsenal FC               -  Crystal Palace FC
          Aston Villa FC           -  Tottenham Hotspur FC
          Fulham FC                -  Manchester United
          Leeds United FC          -  Southampton FC
@@ -252,7 +257,7 @@ Matchday 18
          West Ham United FC       -  West Bromwich Albion FC
          Wolverhampton Wanderers FC  -  Everton FC
 [Wed Jan/13]
-  21.00  Liverpool FC             -  Burnley FC
+  20.00  Liverpool FC             -  Burnley FC
          Manchester City FC       -  Brighton & Hove Albion FC
 
 
@@ -272,17 +277,17 @@ Matchday 19
 
 Matchday 20
 [Tue Jan/26]
-  20.45  Brighton & Hove Albion FC  -  Fulham FC
+  19.45  Brighton & Hove Albion FC  -  Fulham FC
          Burnley FC               -  Aston Villa FC
          Everton FC               -  Leicester City FC
-  21.00  Manchester United        -  Sheffield United FC
+  20.00  Manchester United        -  Sheffield United FC
          West Bromwich Albion FC  -  Manchester City FC
 [Wed Jan/27]
-  20.45  Chelsea FC               -  Wolverhampton Wanderers FC
+  19.45  Chelsea FC               -  Wolverhampton Wanderers FC
          Newcastle United FC      -  Leeds United FC
          Southampton FC           -  Arsenal FC
          Tottenham Hotspur FC     -  Liverpool FC
-  21.00  Crystal Palace FC        -  West Ham United FC
+  20.00  Crystal Palace FC        -  West Ham United FC
 
 
 Matchday 21
@@ -301,17 +306,17 @@ Matchday 21
 
 Matchday 22
 [Tue Feb/2]
-  20.45  Aston Villa FC           -  West Ham United FC
+  19.45  Aston Villa FC           -  West Ham United FC
          Burnley FC               -  Manchester City FC
          Fulham FC                -  Leicester City FC
          Leeds United FC          -  Everton FC
          Sheffield United FC      -  West Bromwich Albion FC
          Wolverhampton Wanderers FC  -  Arsenal FC
-  21.00  Manchester United        -  Southampton FC
+  20.00  Manchester United        -  Southampton FC
 [Wed Feb/3]
-  20.45  Newcastle United FC      -  Crystal Palace FC
+  19.45  Newcastle United FC      -  Crystal Palace FC
          Tottenham Hotspur FC     -  Chelsea FC
-  21.00  Liverpool FC             -  Brighton & Hove Albion FC
+  20.00  Liverpool FC             -  Brighton & Hove Albion FC
 
 
 Matchday 23
@@ -498,17 +503,17 @@ Matchday 35
 
 Matchday 36
 [Tue May/11]
-  20.45  Brighton & Hove Albion FC  -  West Ham United FC
+  19.45  Brighton & Hove Albion FC  -  West Ham United FC
          Burnley FC               -  Leeds United FC
          Everton FC               -  Sheffield United FC
-  21.00  Manchester United        -  Leicester City FC
+  20.00  Manchester United        -  Leicester City FC
          West Bromwich Albion FC  -  Liverpool FC
 [Wed May/12]
-  20.45  Chelsea FC               -  Arsenal FC
+  19.45  Chelsea FC               -  Arsenal FC
          Newcastle United FC      -  Manchester City FC
          Southampton FC           -  Fulham FC
          Tottenham Hotspur FC     -  Wolverhampton Wanderers FC
-  21.00  Crystal Palace FC        -  Aston Villa FC
+  20.00  Crystal Palace FC        -  Aston Villa FC
 
 
 Matchday 37
@@ -527,7 +532,7 @@ Matchday 37
 
 Matchday 38
 [Sun May/23]
-  17.00  Arsenal FC               -  Brighton & Hove Albion FC
+  16.00  Arsenal FC               -  Brighton & Hove Albion FC
          Aston Villa FC           -  Chelsea FC
          Fulham FC                -  Newcastle United FC
          Leeds United FC          -  West Bromwich Albion FC

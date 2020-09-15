@@ -3,23 +3,24 @@
 
 Matchday 1
 [Sat Sep/12]
-  16.00  Accrington Stanley FC    -  Peterborough United FC
-         Crewe Alexandra FC       -  Charlton Athletic FC
-         Doncaster Rovers FC      -  Milton Keynes Dons FC
-         Fleetwood Town FC        -  Burton Albion FC
-         Gillingham FC            -  Hull City AFC
-         Ipswich Town FC          -  Wigan Athletic FC
-         Lincoln City FC          -  Oxford United FC
-         Northampton Town FC      -  AFC Wimbledon
-         Plymouth Argyle FC       -  Blackpool FC
-         Portsmouth FC            -  Shrewsbury Town FC
-         Sunderland AFC           -  Bristol Rovers FC
-         Swindon Town FC          -  Rochdale AFC
+  15.00  Accrington Stanley FC    2-0 (1-0)  Peterborough United FC
+         Crewe Alexandra FC       0-2 (0-2)  Charlton Athletic FC
+         Doncaster Rovers FC      1-1 (0-0)  Milton Keynes Dons FC
+         Fleetwood Town FC        2-1 (1-0)  Burton Albion FC
+         Gillingham FC            0-2 (0-1)  Hull City AFC
+         Lincoln City FC          2-0 (1-0)  Oxford United FC
+         Northampton Town FC      2-2 (2-2)  AFC Wimbledon
+         Plymouth Argyle FC       1-0 (1-0)  Blackpool FC
+         Portsmouth FC            0-0  Shrewsbury Town FC
+         Sunderland AFC           1-1 (0-1)  Bristol Rovers FC
+         Swindon Town FC          3-1 (3-0)  Rochdale AFC
+[Sun Sep/13]
+  12.00  Ipswich Town FC          2-0 (1-0)  Wigan Athletic FC
 
 
 Matchday 2
 [Sat Sep/19]
-  16.00  AFC Wimbledon            -  Plymouth Argyle FC
+  15.00  AFC Wimbledon            -  Plymouth Argyle FC
          Blackpool FC             -  Swindon Town FC
          Bristol Rovers FC        -  Ipswich Town FC
          Burton Albion FC         -  Accrington Stanley FC
@@ -28,14 +29,15 @@ Matchday 2
          Milton Keynes Dons FC    -  Lincoln City FC
          Oxford United FC         -  Sunderland AFC
          Peterborough United FC   -  Fleetwood Town FC
-         Rochdale AFC             -  Portsmouth FC
          Shrewsbury Town FC       -  Northampton Town FC
          Wigan Athletic FC        -  Gillingham FC
+[Sun Sep/20]
+  15.00  Rochdale AFC             -  Portsmouth FC
 
 
 Matchday 3
 [Sat Sep/26]
-  16.00  Accrington Stanley FC    -  Oxford United FC
+  15.00  Accrington Stanley FC    -  Oxford United FC
          Crewe Alexandra FC       -  Milton Keynes Dons FC
          Doncaster Rovers FC      -  Bristol Rovers FC
          Fleetwood Town FC        -  AFC Wimbledon
@@ -51,7 +53,7 @@ Matchday 3
 
 Matchday 4
 [Sat Oct/3]
-  16.00  AFC Wimbledon            -  Accrington Stanley FC
+  15.00  AFC Wimbledon            -  Accrington Stanley FC
          Blackpool FC             -  Lincoln City FC
          Bristol Rovers FC        -  Northampton Town FC
          Burton Albion FC         -  Portsmouth FC
@@ -67,7 +69,7 @@ Matchday 4
 
 Matchday 5
 [Sat Oct/10]
-  16.00  Accrington Stanley FC    -  Rochdale AFC
+  15.00  Accrington Stanley FC    -  Rochdale AFC
          Crewe Alexandra FC       -  Wigan Athletic FC
          Doncaster Rovers FC      -  Shrewsbury Town FC
          Fleetwood Town FC        -  Hull City AFC
@@ -83,7 +85,7 @@ Matchday 5
 
 Matchday 6
 [Sat Oct/17]
-  16.00  AFC Wimbledon            -  Shrewsbury Town FC
+  15.00  AFC Wimbledon            -  Shrewsbury Town FC
          Bristol Rovers FC        -  Burton Albion FC
          Charlton Athletic FC     -  Wigan Athletic FC
          Crewe Alexandra FC       -  Blackpool FC
@@ -99,7 +101,7 @@ Matchday 6
 
 Matchday 7
 [Tue Oct/20]
-  20.45  Accrington Stanley FC    -  Fleetwood Town FC
+  19.45  Accrington Stanley FC    -  Fleetwood Town FC
          Blackpool FC             -  Charlton Athletic FC
          Burton Albion FC         -  Rochdale AFC
          Gillingham FC            -  Portsmouth FC
@@ -110,12 +112,12 @@ Matchday 7
          Shrewsbury Town FC       -  Bristol Rovers FC
          Sunderland AFC           -  Crewe Alexandra FC
          Wigan Athletic FC        -  Peterborough United FC
-  21.00  Doncaster Rovers FC      -  Ipswich Town FC
+  20.00  Doncaster Rovers FC      -  Ipswich Town FC
 
 
 Matchday 8
 [Sat Oct/24]
-  16.00  Accrington Stanley FC    -  Bristol Rovers FC
+  15.00  Accrington Stanley FC    -  Bristol Rovers FC
          Blackpool FC             -  Milton Keynes Dons FC
          Burton Albion FC         -  AFC Wimbledon
          Doncaster Rovers FC      -  Crewe Alexandra FC
@@ -131,7 +133,7 @@ Matchday 8
 
 Matchday 9
 [Tue Oct/27]
-  20.45  AFC Wimbledon            -  Blackpool FC
+  19.45  AFC Wimbledon            -  Blackpool FC
          Bristol Rovers FC        -  Hull City AFC
          Charlton Athletic FC     -  Oxford United FC
          Crewe Alexandra FC       -  Lincoln City FC
@@ -147,7 +149,7 @@ Matchday 9
 
 Matchday 10
 [Sat Oct/31]
-  16.00  Accrington Stanley FC    -  Plymouth Argyle FC
+  15.00  Accrington Stanley FC    -  Plymouth Argyle FC
          Burton Albion FC         -  Blackpool FC
          Doncaster Rovers FC      -  Lincoln City FC
          Fleetwood Town FC        -  Oxford United FC
@@ -163,7 +165,7 @@ Matchday 10
 
 Matchday 11
 [Tue Nov/3]
-  20.45  AFC Wimbledon            -  Doncaster Rovers FC
+  19.45  AFC Wimbledon            -  Doncaster Rovers FC
          Blackpool FC             -  Wigan Athletic FC
          Bristol Rovers FC        -  Peterborough United FC
          Charlton Athletic FC     -  Fleetwood Town FC
@@ -179,7 +181,7 @@ Matchday 11
 
 Matchday 12
 [Sat Nov/14]
-  16.00  AFC Wimbledon            -  Wigan Athletic FC
+  15.00  AFC Wimbledon            -  Wigan Athletic FC
          Blackpool FC             -  Ipswich Town FC
          Bristol Rovers FC        -  Fleetwood Town FC
          Charlton Athletic FC     -  Rochdale AFC
@@ -195,7 +197,7 @@ Matchday 12
 
 Matchday 13
 [Sat Nov/21]
-  16.00  Accrington Stanley FC    -  Lincoln City FC
+  15.00  Accrington Stanley FC    -  Lincoln City FC
          Burton Albion FC         -  Northampton Town FC
          Doncaster Rovers FC      -  Sunderland AFC
          Fleetwood Town FC        -  Plymouth Argyle FC
@@ -211,7 +213,7 @@ Matchday 13
 
 Matchday 14
 [Tue Nov/24]
-  20.45  Accrington Stanley FC    -  Crewe Alexandra FC
+  19.45  Accrington Stanley FC    -  Crewe Alexandra FC
          Burton Albion FC         -  Charlton Athletic FC
          Fleetwood Town FC        -  Sunderland AFC
          Gillingham FC            -  AFC Wimbledon
@@ -222,12 +224,12 @@ Matchday 14
          Rochdale AFC             -  Northampton Town FC
          Swindon Town FC          -  Lincoln City FC
          Wigan Athletic FC        -  Bristol Rovers FC
-  21.00  Doncaster Rovers FC      -  Blackpool FC
+  20.00  Doncaster Rovers FC      -  Blackpool FC
 
 
 Matchday 15
 [Tue Dec/1]
-  20.45  AFC Wimbledon            -  Peterborough United FC
+  19.45  AFC Wimbledon            -  Peterborough United FC
          Blackpool FC             -  Portsmouth FC
          Bristol Rovers FC        -  Gillingham FC
          Charlton Athletic FC     -  Milton Keynes Dons FC
@@ -243,7 +245,7 @@ Matchday 15
 
 Matchday 16
 [Sat Dec/5]
-  16.00  Accrington Stanley FC    -  Milton Keynes Dons FC
+  15.00  Accrington Stanley FC    -  Milton Keynes Dons FC
          AFC Wimbledon            -  Bristol Rovers FC
          Burton Albion FC         -  Crewe Alexandra FC
          Fleetwood Town FC        -  Blackpool FC
@@ -259,7 +261,7 @@ Matchday 16
 
 Matchday 17
 [Sat Dec/12]
-  16.00  Blackpool FC             -  Oxford United FC
+  15.00  Blackpool FC             -  Oxford United FC
          Bristol Rovers FC        -  Plymouth Argyle FC
          Charlton Athletic FC     -  AFC Wimbledon
          Crewe Alexandra FC       -  Northampton Town FC
@@ -275,7 +277,7 @@ Matchday 17
 
 Matchday 18
 [Tue Dec/15]
-  20.45  Blackpool FC             -  Hull City AFC
+  19.45  Blackpool FC             -  Hull City AFC
          Charlton Athletic FC     -  Bristol Rovers FC
          Crewe Alexandra FC       -  Plymouth Argyle FC
          Gillingham FC            -  Accrington Stanley FC
@@ -286,12 +288,12 @@ Matchday 18
          Portsmouth FC            -  Fleetwood Town FC
          Sunderland AFC           -  AFC Wimbledon
          Wigan Athletic FC        -  Rochdale AFC
-  21.00  Doncaster Rovers FC      -  Swindon Town FC
+  20.00  Doncaster Rovers FC      -  Swindon Town FC
 
 
 Matchday 19
 [Sat Dec/19]
-  16.00  Accrington Stanley FC    -  Blackpool FC
+  15.00  Accrington Stanley FC    -  Blackpool FC
          AFC Wimbledon            -  Crewe Alexandra FC
          Bristol Rovers FC        -  Oxford United FC
          Burton Albion FC         -  Doncaster Rovers FC
@@ -307,7 +309,7 @@ Matchday 19
 
 Matchday 20
 [Sat Dec/26]
-  16.00  Blackpool FC             -  Rochdale AFC
+  15.00  Blackpool FC             -  Rochdale AFC
          Charlton Athletic FC     -  Plymouth Argyle FC
          Crewe Alexandra FC       -  Fleetwood Town FC
          Doncaster Rovers FC      -  Accrington Stanley FC
@@ -323,7 +325,7 @@ Matchday 20
 
 Matchday 21
 [Tue Dec/29]
-  20.45  Accrington Stanley FC    -  Sunderland AFC
+  19.45  Accrington Stanley FC    -  Sunderland AFC
          AFC Wimbledon            -  Ipswich Town FC
          Bristol Rovers FC        -  Portsmouth FC
          Burton Albion FC         -  Wigan Athletic FC
@@ -339,7 +341,7 @@ Matchday 21
 
 Matchday 22
 [Sat Jan/2]
-  16.00  Accrington Stanley FC    -  Portsmouth FC
+  15.00  Accrington Stanley FC    -  Portsmouth FC
          AFC Wimbledon            -  Lincoln City FC
          Bristol Rovers FC        -  Blackpool FC
          Burton Albion FC         -  Oxford United FC
@@ -355,7 +357,7 @@ Matchday 22
 
 Matchday 23
 [Sat Jan/9]
-  16.00  Blackpool FC             -  Northampton Town FC
+  15.00  Blackpool FC             -  Northampton Town FC
          Charlton Athletic FC     -  Accrington Stanley FC
          Crewe Alexandra FC       -  Bristol Rovers FC
          Doncaster Rovers FC      -  Rochdale AFC
@@ -371,7 +373,7 @@ Matchday 23
 
 Matchday 24
 [Sat Jan/16]
-  16.00  Accrington Stanley FC    -  Gillingham FC
+  15.00  Accrington Stanley FC    -  Gillingham FC
          AFC Wimbledon            -  Sunderland AFC
          Bristol Rovers FC        -  Charlton Athletic FC
          Burton Albion FC         -  Ipswich Town FC
@@ -387,7 +389,7 @@ Matchday 24
 
 Matchday 25
 [Sat Jan/23]
-  16.00  Blackpool FC             -  Accrington Stanley FC
+  15.00  Blackpool FC             -  Accrington Stanley FC
          Charlton Athletic FC     -  Swindon Town FC
          Crewe Alexandra FC       -  AFC Wimbledon
          Doncaster Rovers FC      -  Burton Albion FC
@@ -403,7 +405,7 @@ Matchday 25
 
 Matchday 26
 [Tue Jan/26]
-  20.45  Accrington Stanley FC    -  Hull City AFC
+  19.45  Accrington Stanley FC    -  Hull City AFC
          Burton Albion FC         -  Shrewsbury Town FC
          Fleetwood Town FC        -  Northampton Town FC
          Gillingham FC            -  Crewe Alexandra FC
@@ -414,12 +416,12 @@ Matchday 26
          Rochdale AFC             -  Oxford United FC
          Swindon Town FC          -  Plymouth Argyle FC
          Wigan Athletic FC        -  Blackpool FC
-  21.00  Doncaster Rovers FC      -  AFC Wimbledon
+  20.00  Doncaster Rovers FC      -  AFC Wimbledon
 
 
 Matchday 27
 [Sat Jan/30]
-  16.00  AFC Wimbledon            -  Milton Keynes Dons FC
+  15.00  AFC Wimbledon            -  Milton Keynes Dons FC
          Blackpool FC             -  Burton Albion FC
          Bristol Rovers FC        -  Rochdale AFC
          Charlton Athletic FC     -  Portsmouth FC
@@ -435,7 +437,7 @@ Matchday 27
 
 Matchday 28
 [Sat Feb/6]
-  16.00  Accrington Stanley FC    -  Northampton Town FC
+  15.00  Accrington Stanley FC    -  Northampton Town FC
          Burton Albion FC         -  Hull City AFC
          Doncaster Rovers FC      -  Oxford United FC
          Fleetwood Town FC        -  Bristol Rovers FC
@@ -451,7 +453,7 @@ Matchday 28
 
 Matchday 29
 [Sat Feb/13]
-  16.00  AFC Wimbledon            -  Rochdale AFC
+  15.00  AFC Wimbledon            -  Rochdale AFC
          Blackpool FC             -  Peterborough United FC
          Bristol Rovers FC        -  Swindon Town FC
          Charlton Athletic FC     -  Gillingham FC
@@ -467,7 +469,7 @@ Matchday 29
 
 Matchday 30
 [Sat Feb/20]
-  16.00  Accrington Stanley FC    -  Shrewsbury Town FC
+  15.00  Accrington Stanley FC    -  Shrewsbury Town FC
          Burton Albion FC         -  Sunderland AFC
          Doncaster Rovers FC      -  Hull City AFC
          Fleetwood Town FC        -  Charlton Athletic FC
@@ -483,7 +485,7 @@ Matchday 30
 
 Matchday 31
 [Tue Feb/23]
-  20.45  AFC Wimbledon            -  Gillingham FC
+  19.45  AFC Wimbledon            -  Gillingham FC
          Blackpool FC             -  Doncaster Rovers FC
          Bristol Rovers FC        -  Wigan Athletic FC
          Charlton Athletic FC     -  Burton Albion FC
@@ -499,7 +501,7 @@ Matchday 31
 
 Matchday 32
 [Sat Feb/27]
-  16.00  AFC Wimbledon            -  Hull City AFC
+  15.00  AFC Wimbledon            -  Hull City AFC
          Bristol Rovers FC        -  Shrewsbury Town FC
          Charlton Athletic FC     -  Blackpool FC
          Crewe Alexandra FC       -  Sunderland AFC
@@ -515,7 +517,7 @@ Matchday 32
 
 Matchday 33
 [Tue Mar/2]
-  20.45  Accrington Stanley FC    -  Ipswich Town FC
+  19.45  Accrington Stanley FC    -  Ipswich Town FC
          Blackpool FC             -  Crewe Alexandra FC
          Burton Albion FC         -  Bristol Rovers FC
          Gillingham FC            -  Milton Keynes Dons FC
@@ -526,12 +528,12 @@ Matchday 33
          Shrewsbury Town FC       -  AFC Wimbledon
          Sunderland AFC           -  Swindon Town FC
          Wigan Athletic FC        -  Charlton Athletic FC
-  21.00  Doncaster Rovers FC      -  Portsmouth FC
+  20.00  Doncaster Rovers FC      -  Portsmouth FC
 
 
 Matchday 34
 [Sat Mar/6]
-  16.00  Accrington Stanley FC    -  Swindon Town FC
+  15.00  Accrington Stanley FC    -  Swindon Town FC
          Blackpool FC             -  AFC Wimbledon
          Burton Albion FC         -  Peterborough United FC
          Doncaster Rovers FC      -  Plymouth Argyle FC
@@ -547,7 +549,7 @@ Matchday 34
 
 Matchday 35
 [Tue Mar/9]
-  20.45  AFC Wimbledon            -  Burton Albion FC
+  19.45  AFC Wimbledon            -  Burton Albion FC
          Bristol Rovers FC        -  Accrington Stanley FC
          Charlton Athletic FC     -  Northampton Town FC
          Crewe Alexandra FC       -  Doncaster Rovers FC
@@ -563,7 +565,7 @@ Matchday 35
 
 Matchday 36
 [Sat Mar/13]
-  16.00  Blackpool FC             -  Fleetwood Town FC
+  15.00  Blackpool FC             -  Fleetwood Town FC
          Bristol Rovers FC        -  AFC Wimbledon
          Charlton Athletic FC     -  Shrewsbury Town FC
          Crewe Alexandra FC       -  Burton Albion FC
@@ -579,7 +581,7 @@ Matchday 36
 
 Matchday 37
 [Sat Mar/20]
-  16.00  Accrington Stanley FC    -  Wigan Athletic FC
+  15.00  Accrington Stanley FC    -  Wigan Athletic FC
          AFC Wimbledon            -  Charlton Athletic FC
          Burton Albion FC         -  Milton Keynes Dons FC
          Fleetwood Town FC        -  Swindon Town FC
@@ -595,7 +597,7 @@ Matchday 37
 
 Matchday 38
 [Sat Mar/27]
-  16.00  AFC Wimbledon            -  Northampton Town FC
+  15.00  AFC Wimbledon            -  Northampton Town FC
          Blackpool FC             -  Plymouth Argyle FC
          Bristol Rovers FC        -  Sunderland AFC
          Burton Albion FC         -  Fleetwood Town FC
@@ -611,7 +613,7 @@ Matchday 38
 
 Matchday 39
 [Fri Apr/2]
-  16.00  Accrington Stanley FC    -  Burton Albion FC
+  15.00  Accrington Stanley FC    -  Burton Albion FC
          Crewe Alexandra FC       -  Hull City AFC
          Doncaster Rovers FC      -  Charlton Athletic FC
          Fleetwood Town FC        -  Peterborough United FC
@@ -627,7 +629,7 @@ Matchday 39
 
 Matchday 40
 [Mon Apr/5]
-  16.00  AFC Wimbledon            -  Fleetwood Town FC
+  15.00  AFC Wimbledon            -  Fleetwood Town FC
          Blackpool FC             -  Gillingham FC
          Bristol Rovers FC        -  Doncaster Rovers FC
          Burton Albion FC         -  Swindon Town FC
@@ -643,7 +645,7 @@ Matchday 40
 
 Matchday 41
 [Sat Apr/10]
-  16.00  Accrington Stanley FC    -  AFC Wimbledon
+  15.00  Accrington Stanley FC    -  AFC Wimbledon
          Crewe Alexandra FC       -  Oxford United FC
          Doncaster Rovers FC      -  Wigan Athletic FC
          Fleetwood Town FC        -  Rochdale AFC
@@ -659,7 +661,7 @@ Matchday 41
 
 Matchday 42
 [Sat Apr/17]
-  16.00  AFC Wimbledon            -  Swindon Town FC
+  15.00  AFC Wimbledon            -  Swindon Town FC
          Blackpool FC             -  Sunderland AFC
          Bristol Rovers FC        -  Lincoln City FC
          Burton Albion FC         -  Plymouth Argyle FC
@@ -675,7 +677,7 @@ Matchday 42
 
 Matchday 43
 [Tue Apr/20]
-  20.45  Accrington Stanley FC    -  Doncaster Rovers FC
+  19.45  Accrington Stanley FC    -  Doncaster Rovers FC
          AFC Wimbledon            -  Oxford United FC
          Bristol Rovers FC        -  Milton Keynes Dons FC
          Burton Albion FC         -  Lincoln City FC
@@ -691,7 +693,7 @@ Matchday 43
 
 Matchday 44
 [Sat Apr/24]
-  16.00  Blackpool FC             -  Shrewsbury Town FC
+  15.00  Blackpool FC             -  Shrewsbury Town FC
          Charlton Athletic FC     -  Peterborough United FC
          Crewe Alexandra FC       -  Rochdale AFC
          Doncaster Rovers FC      -  Fleetwood Town FC
@@ -707,7 +709,7 @@ Matchday 44
 
 Matchday 45
 [Sat May/1]
-  16.00  Accrington Stanley FC    -  Charlton Athletic FC
+  15.00  Accrington Stanley FC    -  Charlton Athletic FC
          AFC Wimbledon            -  Portsmouth FC
          Bristol Rovers FC        -  Crewe Alexandra FC
          Burton Albion FC         -  Gillingham FC
@@ -723,7 +725,7 @@ Matchday 45
 
 Matchday 46
 [Sat May/8]
-  16.00  Blackpool FC             -  Bristol Rovers FC
+  15.00  Blackpool FC             -  Bristol Rovers FC
          Charlton Athletic FC     -  Hull City AFC
          Crewe Alexandra FC       -  Shrewsbury Town FC
          Doncaster Rovers FC      -  Peterborough United FC
