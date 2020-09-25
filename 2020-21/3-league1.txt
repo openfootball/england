@@ -20,19 +20,19 @@ Matchday 1
 
 Matchday 2
 [Sat Sep/19]
-  15.00  AFC Wimbledon            -  Plymouth Argyle FC
-         Blackpool FC             -  Swindon Town FC
-         Bristol Rovers FC        -  Ipswich Town FC
-         Burton Albion FC         -  Accrington Stanley FC
-         Charlton Athletic FC     -  Doncaster Rovers FC
-         Hull City AFC            -  Crewe Alexandra FC
-         Milton Keynes Dons FC    -  Lincoln City FC
-         Oxford United FC         -  Sunderland AFC
-         Peterborough United FC   -  Fleetwood Town FC
-         Shrewsbury Town FC       -  Northampton Town FC
-         Wigan Athletic FC        -  Gillingham FC
+  15.00  AFC Wimbledon            4-4 (1-2)  Plymouth Argyle FC
+         Blackpool FC             2-0 (1-0)  Swindon Town FC
+         Bristol Rovers FC        0-2 (0-0)  Ipswich Town FC
+         Burton Albion FC         2-1 (0-0)  Accrington Stanley FC
+         Charlton Athletic FC     1-3 (0-1)  Doncaster Rovers FC
+         Hull City AFC            1-0 (0-0)  Crewe Alexandra FC
+         Milton Keynes Dons FC    1-2 (0-1)  Lincoln City FC
+         Oxford United FC         0-2 (0-0)  Sunderland AFC
+         Peterborough United FC   2-1 (0-0)  Fleetwood Town FC
+         Shrewsbury Town FC       1-2 (0-1)  Northampton Town FC
+         Wigan Athletic FC        2-3 (1-2)  Gillingham FC
 [Sun Sep/20]
-  15.00  Rochdale AFC             -  Portsmouth FC
+  15.00  Rochdale AFC             0-0  Portsmouth FC
 
 
 Matchday 3
@@ -43,12 +43,13 @@ Matchday 3
          Fleetwood Town FC        -  AFC Wimbledon
          Gillingham FC            -  Blackpool FC
          Ipswich Town FC          -  Rochdale AFC
-         Lincoln City FC          -  Charlton Athletic FC
          Northampton Town FC      -  Hull City AFC
          Plymouth Argyle FC       -  Shrewsbury Town FC
          Portsmouth FC            -  Wigan Athletic FC
          Sunderland AFC           -  Peterborough United FC
          Swindon Town FC          -  Burton Albion FC
+[Sun Sep/27]
+  15.00  Lincoln City FC          -  Charlton Athletic FC
 
 
 Matchday 4
@@ -68,11 +69,12 @@ Matchday 4
 
 
 Matchday 5
+[Fri Oct/9]
+  19.45  Fleetwood Town FC        -  Hull City AFC
 [Sat Oct/10]
   15.00  Accrington Stanley FC    -  Rochdale AFC
          Crewe Alexandra FC       -  Wigan Athletic FC
          Doncaster Rovers FC      -  Shrewsbury Town FC
-         Fleetwood Town FC        -  Hull City AFC
          Gillingham FC            -  Oxford United FC
          Ipswich Town FC          -  Charlton Athletic FC
          Lincoln City FC          -  Bristol Rovers FC
