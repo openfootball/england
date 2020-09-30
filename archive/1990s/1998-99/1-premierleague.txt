@@ -48,7 +48,6 @@ Matchday 3
 
 Matchday 4
 [Mon Sep/7]
-  Manchester United        4-1  Charlton
   Nottingham Forest        0-2  Everton
   Leeds                    3-0  Southampton
 [Tue Sep/8]
@@ -59,6 +58,7 @@ Matchday 4
   Derby                    1-0  Sheffield Wed
   Chelsea                  0-0  Arsenal
   Aston Villa              1-0  Newcastle Utd
+  Manchester United        4-1  Charlton
 
 
 Matchday 5
