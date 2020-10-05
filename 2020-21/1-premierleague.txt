@@ -35,32 +35,33 @@ Matchday 2
 
 Matchday 3
 [Sat Sep/26]
-  12.30  Brighton & Hove Albion FC  2-3  Manchester United
-  15.00  Crystal Palace FC        1-2  Everton FC
-  17.30  West Bromwich Albion FC  3-3  Chelsea FC
-  20.00  Burnley FC               0-1  Southampton FC
+  12.30  Brighton & Hove Albion FC  2-3 (1-1)  Manchester United
+  15.00  Crystal Palace FC        1-2 (1-2)  Everton FC
+  17.30  West Bromwich Albion FC  3-3 (3-0)  Chelsea FC
+  20.00  Burnley FC               0-1 (0-1)  Southampton FC
 [Sun Sep/27]
-  12.00  Sheffield United FC      0-1  Leeds United FC
-  14.00  Tottenham Hotspur FC     1-1  Newcastle United FC
-  16.30  Manchester City FC       2-5  Leicester City FC
-  19.00  West Ham United FC       4-0  Wolverhampton Wanderers FC
+  12.00  Sheffield United FC      0-1 (0-0)  Leeds United FC
+  14.00  Tottenham Hotspur FC     1-1 (1-0)  Newcastle United FC
+  16.30  Manchester City FC       2-5 (1-1)  Leicester City FC
+  19.00  West Ham United FC       4-0 (1-0)  Wolverhampton Wanderers FC
 [Mon Sep/28]
-  17.45  Fulham FC                0-3  Aston Villa FC
-  20.15  Liverpool FC             3-1  Arsenal FC
+  17.45  Fulham FC                0-3 (0-2)  Aston Villa FC
+  20.00  Liverpool FC             3-1 (2-1)  Arsenal FC
 
 
 Matchday 4
 [Sat Oct/3]
-  Arsenal FC               4-0  Sheffield United FC
-  Aston Villa FC           -  Liverpool FC
-  Chelsea FC               4-0  Crystal Palace FC
-  Everton FC               4-2  Brighton & Hove Albion FC
-  Leeds United FC          1-1  Manchester City FC
-  Leicester City FC        0-3  West Ham United FC
-  Manchester United        -  Tottenham Hotspur FC
-  Newcastle United FC      3-1  Burnley FC
-  Southampton FC           2-0  West Bromwich Albion FC
-  Wolverhampton Wanderers FC  1-0  Fulham FC
+  12.30  Chelsea FC               4-0 (0-0)  Crystal Palace FC
+  15.00  Everton FC               4-2 (2-1)  Brighton & Hove Albion FC
+  17.30  Leeds United FC          1-1 (0-1)  Manchester City FC
+  20.00  Newcastle United FC      3-1 (1-0)  Burnley FC
+[Sun Oct/4]
+  12.00  Leicester City FC        0-3 (0-2)  West Ham United FC
+         Southampton FC           2-0 (1-0)  West Bromwich Albion FC
+  14.00  Arsenal FC               2-1 (0-0)  Sheffield United FC
+         Wolverhampton Wanderers FC  1-0 (0-0)  Fulham FC
+  16.30  Manchester United        1-6 (1-4)  Tottenham Hotspur FC
+  19.15  Aston Villa FC           7-2 (4-1)  Liverpool FC
 
 
 Matchday 5
