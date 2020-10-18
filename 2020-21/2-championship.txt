@@ -74,20 +74,20 @@ Matchday 4
 
 Matchday 5
 [Fri Oct/16]
-  19.45  Derby County FC          -  Watford FC
+  19.45  Derby County FC          0-1 (0-0)  Watford FC
 [Sat Oct/17]
-  15.00  AFC Bournemouth          -  Queens Park Rangers FC
-         Birmingham City FC       -  Sheffield Wednesday
-         Blackburn Rovers FC      -  Nottingham Forest FC
-         Barnsley FC              -  Bristol City FC
-         Brentford FC             -  Coventry City FC
-         Middlesbrough FC         -  Reading FC
-         Luton Town FC            -  Stoke City FC
-         Rotherham United FC      -  Norwich City FC
-         Swansea City FC          -  Huddersfield Town AFC
-         Wycombe Wanderers FC     -  Millwall FC
+  15.00  AFC Bournemouth          0-0  Queens Park Rangers FC
+         Birmingham City FC       0-1 (0-0)  Sheffield Wednesday
+         Blackburn Rovers FC      0-1 (0-0)  Nottingham Forest FC
+         Barnsley FC              2-2 (1-0)  Bristol City FC
+         Brentford FC             2-0 (0-0)  Coventry City FC
+         Middlesbrough FC         0-0  Reading FC
+         Luton Town FC            0-2 (0-0)  Stoke City FC
+         Rotherham United FC      1-2 (1-0)  Norwich City FC
+         Swansea City FC          1-2 (1-1)  Huddersfield Town AFC
+         Wycombe Wanderers FC     1-2 (1-0)  Millwall FC
 [Sun Oct/18]
-  12.00  Preston North End FC     -  Cardiff City FC
+  12.00  Preston North End FC     0-1 (0-0)  Cardiff City FC
 
 
 Matchday 6
@@ -97,14 +97,14 @@ Matchday 6
          Millwall FC              -  Luton Town FC
          Norwich City FC          -  Birmingham City FC
          Nottingham Forest FC     -  Rotherham United FC
+         Huddersfield Town AFC    -  Derby County FC
   20.00  Reading FC               -  Wycombe Wanderers FC
 [Wed Oct/21]
   19.45  Cardiff City FC          -  AFC Bournemouth
          Watford FC               -  Blackburn Rovers FC
-         Huddersfield Town AFC    -  Derby County FC
          Queens Park Rangers FC   -  Preston North End FC
          Sheffield Wednesday      -  Brentford FC
-  20.00  Stoke City FC            -  Barnsley FC
+         Stoke City FC            -  Barnsley FC
 
 
 Matchday 7
