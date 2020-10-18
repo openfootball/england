@@ -132,6 +132,32 @@ This will
 That's it.
 
 
+### Alternative III  - Read / Load Match files with `football-to-sqlite` / `football-to-psql`
+
+Run the `football-to-sqlite` tool against match files in the Football.TXT format like so:
+
+```
+$ football-to-sqlite england.db 2020-21\1-premierleague.txt
+```
+
+or pass in more than one match file:
+
+```
+$ football-to-sqlite england.db 2020-21\1-premierleague.txt \
+                                2020-21\2-championship.txt  \
+                                2020-21\3-league1.txt       \
+                                2020-21\4-league2.txt       \
+                                2020-21\5-nationalleague.txt
+```
+
+Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist, 
+they get auto-created on the first run.
+
+[More »](https://github.com/sportdb/football.db/tree/master/football-to-sqlite)
+
+
+
+
 ## License
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
