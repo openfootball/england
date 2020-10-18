@@ -137,17 +137,25 @@ That's it.
 Run the `football-to-sqlite` tool against match files in the Football.TXT format like so:
 
 ```
-$ football-to-sqlite england.db 2020-21\1-premierleague.txt
+$ football-to-sqlite england.db 2020-21/1-premierleague.txt
 ```
 
-or pass in more than one match file:
+or pass in more than one match file (e.g. different leagues or more seasons):
 
 ```
-$ football-to-sqlite england.db 2020-21\1-premierleague.txt \
-                                2020-21\2-championship.txt  \
-                                2020-21\3-league1.txt       \
-                                2020-21\4-league2.txt       \
-                                2020-21\5-nationalleague.txt
+$ football-to-sqlite england.db 2020-21/1-premierleague.txt \
+                                2020-21/2-championship.txt  \
+                                2020-21/3-league1.txt       \
+                                2020-21/4-league2.txt       \
+                                2020-21/5-nationalleague.txt
+
+# -or-
+
+$ football-to-sqlite premier.db 2020-21/1-premierleague.txt  \
+                                2019-20/1-premierleague.txt  \
+                                2018-19/1-premierleague.txt  \
+                                2017-18/1-premierleague.txt  \
+                                2016-17/1-premierleague.txt
 ```
 
 Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist, 
