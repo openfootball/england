@@ -73,43 +73,44 @@ Matchday 5
 [Sun Oct/18]
   12.00  Sheffield United FC      1-1 (0-0)  Fulham FC
   14.00  Crystal Palace FC        1-1 (1-0)  Brighton & Hove Albion FC
-  16.30  Tottenham Hotspur FC     -  West Ham United FC
-  19.15  Leicester City FC        -  Aston Villa FC
+  16.30  Tottenham Hotspur FC     3-3 (3-0)  West Ham United FC
+  19.15  Leicester City FC        0-1 (0-0)  Aston Villa FC
 [Mon Oct/19]
-  17.30  West Bromwich Albion FC  -  Burnley FC
-  20.00  Leeds United FC          -  Wolverhampton Wanderers FC
+  17.30  West Bromwich Albion FC  0-0  Burnley FC
+  20.00  Leeds United FC          0-1 (0-0)  Wolverhampton Wanderers FC
 
 
 Matchday 6
 [Fri Oct/23]
-  20.00  Aston Villa FC           -  Leeds United FC
+  20.00  Aston Villa FC           0-3 (0-0)  Leeds United FC
 [Sat Oct/24]
-  12.30  West Ham United FC       -  Manchester City FC
-  15.00  Arsenal FC               -  Leicester City FC
-         Brighton & Hove Albion FC  -  West Bromwich Albion FC
-         Fulham FC                -  Crystal Palace FC
-  17.30  Manchester United        -  Chelsea FC
-  20.00  Liverpool FC             -  Sheffield United FC
+  12.30  West Ham United FC       1-1 (1-0)  Manchester City FC
+  15.00  Fulham FC                1-2 (0-1)  Crystal Palace FC
+  17.30  Manchester United        0-0  Chelsea FC
+  20.00  Liverpool FC             2-1 (1-1)  Sheffield United FC
 [Sun Oct/25]
-  14.00  Southampton FC           -  Everton FC
-  16.30  Wolverhampton Wanderers FC  -  Newcastle United FC
+  14.00  Southampton FC           2-0 (2-0)  Everton FC
+  16.30  Wolverhampton Wanderers FC  1-1 (0-0)  Newcastle United FC
+  19.15  Arsenal FC               -  Leicester City FC
 [Mon Oct/26]
+  17.30  Brighton & Hove Albion FC  -  West Bromwich Albion FC
   20.00  Burnley FC               -  Tottenham Hotspur FC
 
 
 Matchday 7
+[Fri Oct/30]
+  20.00  Wolverhampton Wanderers FC  -  Crystal Palace FC
 [Sat Oct/31]
   12.30  Sheffield United FC      -  Manchester City FC
-  15.00  Aston Villa FC           -  Southampton FC
-         Burnley FC               -  Chelsea FC
-         Fulham FC                -  West Bromwich Albion FC
-         Tottenham Hotspur FC     -  Brighton & Hove Albion FC
-         Wolverhampton Wanderers FC  -  Crystal Palace FC
+  15.00  Burnley FC               -  Chelsea FC
   17.30  Liverpool FC             -  West Ham United FC
 [Sun Nov/1]
+  12.00  Aston Villa FC           -  Southampton FC
   14.00  Newcastle United FC      -  Everton FC
   16.30  Manchester United        -  Arsenal FC
+  19.15  Tottenham Hotspur FC     -  Brighton & Hove Albion FC
 [Mon Nov/2]
+  17.30  Fulham FC                -  West Bromwich Albion FC
   20.00  Leeds United FC          -  Leicester City FC
 
 

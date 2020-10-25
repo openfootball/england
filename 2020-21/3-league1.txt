@@ -37,12 +37,12 @@ Matchday 2
 
 Matchday 3
 [Sat Sep/26]
-  15.00  Ipswich Town FC          2-0 (0-0)  Rochdale AFC
+  15.00  Gillingham FC            2-0 (1-0)  Blackpool FC
          Crewe Alexandra FC       2-0 (2-0)  Milton Keynes Dons FC
          Doncaster Rovers FC      4-1 (2-1)  Bristol Rovers FC
          Fleetwood Town FC        0-1 (0-1)  AFC Wimbledon
-         Gillingham FC            2-0 (1-0)  Blackpool FC
          Accrington Stanley FC    1-4 (0-1)  Oxford United FC
+         Ipswich Town FC          2-0 (0-0)  Rochdale AFC
          Northampton Town FC      0-2 (0-2)  Hull City AFC
          Plymouth Argyle FC       1-1 (1-1)  Shrewsbury Town FC
          Portsmouth FC            1-2 (0-1)  Wigan Athletic FC
@@ -57,14 +57,14 @@ Matchday 4
   15.00  AFC Wimbledon            1-2 (1-2)  Accrington Stanley FC
          Blackpool FC             2-3 (1-1)  Lincoln City FC
          Bristol Rovers FC        2-0 (0-0)  Northampton Town FC
-         Burton Albion FC         2-4 (2-1)  Portsmouth FC
          Wigan Athletic FC        1-0 (0-0)  Doncaster Rovers FC
+         Charlton Athletic FC     0-0  Sunderland AFC
          Hull City AFC            1-0 (1-0)  Plymouth Argyle FC
          Milton Keynes Dons FC    1-1 (0-1)  Ipswich Town FC
          Peterborough United FC   3-1 (0-1)  Swindon Town FC
          Rochdale AFC             2-1 (1-0)  Fleetwood Town FC
          Shrewsbury Town FC       1-1 (1-0)  Gillingham FC
-         Charlton Athletic FC     0-0  Sunderland AFC
+         Burton Albion FC         2-4 (2-1)  Portsmouth FC
 
 
 Matchday 5
@@ -83,23 +83,19 @@ Matchday 5
 [Sat Oct/10]
   Doncaster Rovers FC      -  Shrewsbury Town FC
   15.00  Accrington Stanley FC    2-1 (0-0)  Rochdale AFC
-         Crewe Alexandra FC       3-0 (2-0)  Wigan Athletic FC
          Swindon Town FC          0-1 (0-1)  AFC Wimbledon
+         Crewe Alexandra FC       3-0 (2-0)  Wigan Athletic FC
          Northampton Town FC      0-2 (0-1)  Peterborough United FC
          Plymouth Argyle FC       2-0 (1-0)  Burton Albion FC
          Portsmouth FC            2-1 (2-1)  Milton Keynes Dons FC
          Lincoln City FC          1-2 (0-0)  Bristol Rovers FC
 
 
-Matchday 4
-[Tue Oct/13]
-  Oxford United FC         -  Crewe Alexandra FC
-
-
 Matchday 6
 [Sat Oct/17]
   13.00  Milton Keynes Dons FC    2-0 (1-0)  Gillingham FC
   15.00  Swindon Town FC          0-2 (0-1)  Sunderland AFC
+         Portsmouth FC            0-1 (0-0)  Doncaster Rovers FC
          AFC Wimbledon            0-1 (0-0)  Shrewsbury Town FC
          Bristol Rovers FC        1-1 (0-0)  Burton Albion FC
          Rochdale AFC             0-3 (0-1)  Hull City AFC
@@ -108,62 +104,62 @@ Matchday 6
          Ipswich Town FC          2-0 (0-0)  Accrington Stanley FC
          Peterborough United FC   2-0 (1-0)  Oxford United FC
          Plymouth Argyle FC       2-1 (1-0)  Northampton Town FC
-         Portsmouth FC            0-1 (0-0)  Doncaster Rovers FC
          Charlton Athletic FC     1-0 (0-0)  Wigan Athletic FC
 
 
 Matchday 7
 [Tue Oct/20]
-  18.00  Shrewsbury Town FC       -  Bristol Rovers FC
-  18.30  Gillingham FC            -  Portsmouth FC
-  19.00  Blackpool FC             -  Charlton Athletic FC
-         Accrington Stanley FC    -  Fleetwood Town FC
-         Doncaster Rovers FC      -  Ipswich Town FC
-         Wigan Athletic FC        -  Peterborough United FC
-         Lincoln City FC          -  Plymouth Argyle FC
-         Oxford United FC         -  Milton Keynes Dons FC
-         Sunderland AFC           -  Crewe Alexandra FC
-         Hull City AFC            -  AFC Wimbledon
-  19.45  Northampton Town FC      -  Swindon Town FC
-         Burton Albion FC         -  Rochdale AFC
+  18.00  Shrewsbury Town FC       0-1 (0-1)  Bristol Rovers FC
+  18.30  Gillingham FC            0-2 (0-2)  Portsmouth FC
+  19.00  Accrington Stanley FC    1-0 (0-0)  Fleetwood Town FC
+         Wigan Athletic FC        0-1 (0-1)  Peterborough United FC
+         Doncaster Rovers FC      4-1 (2-1)  Ipswich Town FC
+         Blackpool FC             0-1 (0-0)  Charlton Athletic FC
+         Sunderland AFC           1-0 (1-0)  Crewe Alexandra FC
+         Lincoln City FC          2-0 (0-0)  Plymouth Argyle FC
+         Oxford United FC         3-2 (1-1)  Milton Keynes Dons FC
+         Hull City AFC            1-0 (1-0)  AFC Wimbledon
+  19.45  Northampton Town FC      2-1 (2-0)  Swindon Town FC
+         Burton Albion FC         0-1 (0-0)  Rochdale AFC
 
 
 Matchday 8
 [Sat Oct/24]
-  13.00  Gillingham FC            -  Fleetwood Town FC
-  15.00  Burton Albion FC         -  AFC Wimbledon
-         Accrington Stanley FC    -  Bristol Rovers FC
-         Blackpool FC             -  Milton Keynes Dons FC
-         Doncaster Rovers FC      -  Crewe Alexandra FC
-         Wigan Athletic FC        -  Plymouth Argyle FC
-         Hull City AFC            -  Peterborough United FC
-         Sunderland AFC           -  Portsmouth FC
-         Northampton Town FC      -  Charlton Athletic FC
-         Oxford United FC         -  Swindon Town FC
-         Shrewsbury Town FC       -  Rochdale AFC
-         Lincoln City FC          -  Ipswich Town FC
+  Accrington Stanley FC    -  Bristol Rovers FC
+  Oxford United FC         -  Swindon Town FC
+  13.00  Gillingham FC            0-2 (0-0)  Fleetwood Town FC
+  15.00  Wigan Athletic FC        1-1 (0-1)  Plymouth Argyle FC
+         Blackpool FC             1-0 (0-0)  Milton Keynes Dons FC
+         Sunderland AFC           1-3 (1-2)  Portsmouth FC
+         Burton Albion FC         1-1 (0-0)  AFC Wimbledon
+         Doncaster Rovers FC      1-2 (1-1)  Crewe Alexandra FC
+         Shrewsbury Town FC       1-2 (1-2)  Rochdale AFC
+         Lincoln City FC          1-0 (0-0)  Ipswich Town FC
+         Northampton Town FC      0-2 (0-0)  Charlton Athletic FC
+         Hull City AFC            1-2 (1-0)  Peterborough United FC
 
 
 Matchday 9
 [Tue Oct/27]
-  19.00  Swindon Town FC          -  Accrington Stanley FC
-         Charlton Athletic FC     -  Oxford United FC
-         Crewe Alexandra FC       -  Lincoln City FC
-         Ipswich Town FC          -  Gillingham FC
+  19.00  Ipswich Town FC          -  Gillingham FC
+         Swindon Town FC          -  Accrington Stanley FC
+         AFC Wimbledon            -  Blackpool FC
+         Bristol Rovers FC        -  Hull City AFC
          Milton Keynes Dons FC    -  Wigan Athletic FC
+         Crewe Alexandra FC       -  Lincoln City FC
+         Peterborough United FC   -  Burton Albion FC
+         Charlton Athletic FC     -  Oxford United FC
   19.45  Portsmouth FC            -  Northampton Town FC
          Rochdale AFC             -  Sunderland AFC
-         Bristol Rovers FC        -  Hull City AFC
-         Fleetwood Town FC        -  Shrewsbury Town FC
-         AFC Wimbledon            -  Blackpool FC
          Plymouth Argyle FC       -  Doncaster Rovers FC
-         Peterborough United FC   -  Burton Albion FC
+         Fleetwood Town FC        -  Shrewsbury Town FC
 
 
 Matchday 10
 [Sat Oct/31]
   13.00  Gillingham FC            -  Sunderland AFC
   15.00  Accrington Stanley FC    -  Plymouth Argyle FC
+         Swindon Town FC          -  Hull City AFC
          Wigan Athletic FC        -  Northampton Town FC
          Burton Albion FC         -  Blackpool FC
          Doncaster Rovers FC      -  Lincoln City FC
@@ -171,99 +167,104 @@ Matchday 10
          Ipswich Town FC          -  Crewe Alexandra FC
          Milton Keynes Dons FC    -  AFC Wimbledon
          Peterborough United FC   -  Shrewsbury Town FC
-         Portsmouth FC            -  Charlton Athletic FC
-         Swindon Town FC          -  Hull City AFC
          Rochdale AFC             -  Bristol Rovers FC
+         Portsmouth FC            -  Charlton Athletic FC
 
 
 Matchday 11
 [Tue Nov/3]
-  19.45  Sunderland AFC           -  Ipswich Town FC
-         AFC Wimbledon            -  Doncaster Rovers FC
+  19.00  Crewe Alexandra FC       -  Gillingham FC
+         Oxford United FC         -  Rochdale AFC
          Blackpool FC             -  Wigan Athletic FC
          Bristol Rovers FC        -  Peterborough United FC
          Charlton Athletic FC     -  Fleetwood Town FC
-         Crewe Alexandra FC       -  Gillingham FC
-         Hull City AFC            -  Accrington Stanley FC
          Lincoln City FC          -  Portsmouth FC
-         Northampton Town FC      -  Milton Keynes Dons FC
-         Oxford United FC         -  Rochdale AFC
+  19.45  Shrewsbury Town FC       -  Burton Albion FC
+         Sunderland AFC           -  Ipswich Town FC
+         AFC Wimbledon            -  Doncaster Rovers FC
+         Hull City AFC            -  Accrington Stanley FC
          Plymouth Argyle FC       -  Swindon Town FC
-         Shrewsbury Town FC       -  Burton Albion FC
+         Northampton Town FC      -  Milton Keynes Dons FC
 
 
 Matchday 12
 [Sat Nov/14]
   15.00  Shrewsbury Town FC       -  Swindon Town FC
-         Plymouth Argyle FC       -  Portsmouth FC
+         Sunderland AFC           -  Milton Keynes Dons FC
+         Oxford United FC         -  Doncaster Rovers FC
          AFC Wimbledon            -  Wigan Athletic FC
          Bristol Rovers FC        -  Fleetwood Town FC
-         Charlton Athletic FC     -  Rochdale AFC
-         Sunderland AFC           -  Milton Keynes Dons FC
+         Northampton Town FC      -  Accrington Stanley FC
+         Crewe Alexandra FC       -  Peterborough United FC
          Hull City AFC            -  Burton Albion FC
          Lincoln City FC          -  Gillingham FC
-         Northampton Town FC      -  Accrington Stanley FC
-         Oxford United FC         -  Doncaster Rovers FC
-         Crewe Alexandra FC       -  Peterborough United FC
+         Charlton Athletic FC     -  Rochdale AFC
+[Mon Nov/16]
+  19.45  Plymouth Argyle FC       -  Portsmouth FC
+
+
+Matchday 4
+[Tue Nov/17]
+  19.00  Oxford United FC         -  Crewe Alexandra FC
 
 
 Matchday 13
 [Sat Nov/21]
-  15.00  Swindon Town FC          -  Bristol Rovers FC
-         Rochdale AFC             -  AFC Wimbledon
-         Accrington Stanley FC    -  Lincoln City FC
-         Burton Albion FC         -  Northampton Town FC
+  13.00  Gillingham FC            -  Charlton Athletic FC
+  15.00  Burton Albion FC         -  Northampton Town FC
          Doncaster Rovers FC      -  Sunderland AFC
+         Accrington Stanley FC    -  Lincoln City FC
+         Swindon Town FC          -  Bristol Rovers FC
+         Wigan Athletic FC        -  Oxford United FC
          Fleetwood Town FC        -  Plymouth Argyle FC
-         Gillingham FC            -  Charlton Athletic FC
          Ipswich Town FC          -  Shrewsbury Town FC
          Milton Keynes Dons FC    -  Hull City AFC
          Peterborough United FC   -  Blackpool FC
          Portsmouth FC            -  Crewe Alexandra FC
-         Wigan Athletic FC        -  Oxford United FC
+         Rochdale AFC             -  AFC Wimbledon
 
 
 Matchday 14
 [Tue Nov/24]
-  19.45  Ipswich Town FC          -  Hull City AFC
-         Rochdale AFC             -  Northampton Town FC
+  18.00  Gillingham FC            -  AFC Wimbledon
+  19.00  Wigan Athletic FC        -  Bristol Rovers FC
+         Swindon Town FC          -  Lincoln City FC
+         Peterborough United FC   -  Plymouth Argyle FC
+  19.45  Rochdale AFC             -  Northampton Town FC
+         Milton Keynes Dons FC    -  Shrewsbury Town FC
          Accrington Stanley FC    -  Crewe Alexandra FC
          Burton Albion FC         -  Charlton Athletic FC
          Fleetwood Town FC        -  Sunderland AFC
-         Gillingham FC            -  AFC Wimbledon
-         Wigan Athletic FC        -  Bristol Rovers FC
-         Milton Keynes Dons FC    -  Shrewsbury Town FC
-         Peterborough United FC   -  Plymouth Argyle FC
+         Ipswich Town FC          -  Hull City AFC
          Portsmouth FC            -  Oxford United FC
-         Swindon Town FC          -  Lincoln City FC
   20.00  Doncaster Rovers FC      -  Blackpool FC
 
 
 Matchday 15
 [Tue Dec/1]
-  19.45  Plymouth Argyle FC       -  Rochdale AFC
-         Sunderland AFC           -  Burton Albion FC
-         AFC Wimbledon            -  Peterborough United FC
-         Blackpool FC             -  Portsmouth FC
+  19.00  Lincoln City FC          -  Wigan Athletic FC
          Bristol Rovers FC        -  Gillingham FC
+  19.45  Plymouth Argyle FC       -  Rochdale AFC
+         Blackpool FC             -  Portsmouth FC
+         AFC Wimbledon            -  Peterborough United FC
+         Sunderland AFC           -  Burton Albion FC
+         Charlton Athletic FC     -  Milton Keynes Dons FC
          Crewe Alexandra FC       -  Swindon Town FC
-         Shrewsbury Town FC       -  Accrington Stanley FC
          Hull City AFC            -  Doncaster Rovers FC
-         Lincoln City FC          -  Wigan Athletic FC
          Northampton Town FC      -  Fleetwood Town FC
          Oxford United FC         -  Ipswich Town FC
-         Charlton Athletic FC     -  Milton Keynes Dons FC
+         Shrewsbury Town FC       -  Accrington Stanley FC
 
 
 Matchday 16
 [Sat Dec/5]
-  15.00  Gillingham FC            -  Swindon Town FC
-         Shrewsbury Town FC       -  Charlton Athletic FC
+  13.00  Gillingham FC            -  Swindon Town FC
+  15.00  Sunderland AFC           -  Wigan Athletic FC
+         Burton Albion FC         -  Crewe Alexandra FC
          Accrington Stanley FC    -  Milton Keynes Dons FC
          AFC Wimbledon            -  Bristol Rovers FC
-         Burton Albion FC         -  Crewe Alexandra FC
+         Shrewsbury Town FC       -  Charlton Athletic FC
          Fleetwood Town FC        -  Blackpool FC
-         Sunderland AFC           -  Wigan Athletic FC
          Northampton Town FC      -  Doncaster Rovers FC
          Oxford United FC         -  Hull City AFC
          Plymouth Argyle FC       -  Ipswich Town FC
