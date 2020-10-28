@@ -91,10 +91,10 @@ Matchday 6
 [Sun Oct/25]
   14.00  Southampton FC           2-0 (2-0)  Everton FC
   16.30  Wolverhampton Wanderers FC  1-1 (0-0)  Newcastle United FC
-  19.15  Arsenal FC               -  Leicester City FC
+  19.15  Arsenal FC               0-1 (0-0)  Leicester City FC
 [Mon Oct/26]
-  17.30  Brighton & Hove Albion FC  -  West Bromwich Albion FC
-  20.00  Burnley FC               -  Tottenham Hotspur FC
+  17.30  Brighton & Hove Albion FC  1-1 (1-0)  West Bromwich Albion FC
+  20.00  Burnley FC               0-1 (0-0)  Tottenham Hotspur FC
 
 
 Matchday 7
@@ -115,45 +115,50 @@ Matchday 7
 
 
 Matchday 8
+[Fri Nov/6]
+  20.00  Southampton FC           -  Newcastle United FC
 [Sat Nov/7]
   Arsenal FC               -  Aston Villa FC
-  Brighton & Hove Albion FC  -  Burnley FC
-  Chelsea FC               -  Sheffield United FC
-  Crystal Palace FC        -  Leeds United FC
-  Everton FC               -  Manchester United
-  Leicester City FC        -  Wolverhampton Wanderers FC
-  Manchester City FC       -  Liverpool FC
-  Southampton FC           -  Newcastle United FC
-  West Bromwich Albion FC  -  Tottenham Hotspur FC
-  West Ham United FC       -  Fulham FC
+  15.00  Brighton & Hove Albion FC  -  Burnley FC
+         Crystal Palace FC        -  Leeds United FC
+         Everton FC               -  Manchester United
+         West Bromwich Albion FC  -  Tottenham Hotspur FC
+         West Ham United FC       -  Fulham FC
+  17.30  Chelsea FC               -  Sheffield United FC
+[Sun Nov/8]
+  14.00  Leicester City FC        -  Wolverhampton Wanderers FC
+  16.30  Manchester City FC       -  Liverpool FC
 
 
 Matchday 9
 [Sat Nov/21]
-  Aston Villa FC           -  Brighton & Hove Albion FC
-  Burnley FC               -  Crystal Palace FC
-  Fulham FC                -  Everton FC
-  Leeds United FC          -  Arsenal FC
-  Liverpool FC             -  Leicester City FC
-  Manchester United        -  West Bromwich Albion FC
-  Newcastle United FC      -  Chelsea FC
-  Sheffield United FC      -  West Ham United FC
-  Tottenham Hotspur FC     -  Manchester City FC
-  Wolverhampton Wanderers FC  -  Southampton FC
+  12.30  Newcastle United FC      -  Chelsea FC
+  15.00  Aston Villa FC           -  Brighton & Hove Albion FC
+         Burnley FC               -  Crystal Palace FC
+         Fulham FC                -  Everton FC
+         Liverpool FC             -  Leicester City FC
+         Manchester United        -  West Bromwich Albion FC
+         Wolverhampton Wanderers FC  -  Southampton FC
+  17.30  Tottenham Hotspur FC     -  Manchester City FC
+[Sun Nov/22]
+  14.00  Sheffield United FC      -  West Ham United FC
+  16.30  Leeds United FC          -  Arsenal FC
 
 
 Matchday 10
 [Sat Nov/28]
   Arsenal FC               -  Wolverhampton Wanderers FC
-  Brighton & Hove Albion FC  -  Liverpool FC
-  Chelsea FC               -  Tottenham Hotspur FC
-  Crystal Palace FC        -  Newcastle United FC
-  Everton FC               -  Leeds United FC
   Leicester City FC        -  Fulham FC
-  Manchester City FC       -  Burnley FC
-  Southampton FC           -  Manchester United
-  West Bromwich Albion FC  -  Sheffield United FC
-  West Ham United FC       -  Aston Villa FC
+  12.30  Brighton & Hove Albion FC  -  Liverpool FC
+  15.00  Crystal Palace FC        -  Newcastle United FC
+         Manchester City FC       -  Burnley FC
+         West Bromwich Albion FC  -  Sheffield United FC
+  17.30  Everton FC               -  Leeds United FC
+[Sun Nov/29]
+  14.00  Southampton FC           -  Manchester United
+  16.30  Chelsea FC               -  Tottenham Hotspur FC
+[Mon Nov/30]
+  20.00  West Ham United FC       -  Aston Villa FC
 
 
 Matchday 11

@@ -8,10 +8,10 @@ Matchday 1
          Barnet FC                1-5 (1-1)  Eastleigh FC
          Woking FC                2-1 (0-1)  Solihull Moors FC
          FC Halifax Town          2-0 (1-0)  Dagenham & Redbridge FC
-         Hartlepool United FC     2-1 (1-0)  Aldershot Town FC
+         Wrexham AFC              2-1 (1-0)  Boreham Wood FC
          Sutton United FC         3-0 (2-0)  Maidenhead United FC
          Torquay United FC        1-0 (0-0)  Stockport County FC
-         Wrexham AFC              2-1 (1-0)  Boreham Wood FC
+         Hartlepool United FC     2-1 (1-0)  Aldershot Town FC
   17.30  King's Lynn FC           2-2 (0-0)  Yeovil Town FC
 
 
@@ -23,10 +23,10 @@ Matchday 2
          Dagenham & Redbridge FC  1-2 (1-0)  Barnet FC
          Eastleigh FC             2-1 (0-1)  Torquay United FC
          Stockport County FC      2-1 (1-1)  FC Halifax Town
-         Chesterfield FC          1-2 (0-0)  Hartlepool United FC
+         Weymouth FC              0-1 (0-1)  Woking FC
          Maidenhead United FC     2-3 (1-1)  King's Lynn FC
          Solihull Moors FC        1-0 (0-0)  Wrexham AFC
-         Weymouth FC              0-1 (0-1)  Woking FC
+         Chesterfield FC          1-2 (0-0)  Hartlepool United FC
 [Wed Oct/7]
   19.45  Notts County FC          3-1 (2-0)  Altrincham FC
 
@@ -37,12 +37,12 @@ Matchday 3
          Boreham Wood FC          0-0  FC Halifax Town
          Bromley FC               1-2 (1-0)  Torquay United FC
          Eastleigh FC             1-1 (1-1)  Altrincham FC
-         Yeovil Town FC           0-1 (0-1)  Wrexham AFC
          Stockport County FC      3-0 (0-0)  Dover Athletic FC
+         Weymouth FC              0-1 (0-0)  Sutton United FC
          Maidenhead United FC     0-4 (0-1)  Hartlepool United FC
          Notts County FC          4-2 (3-1)  Barnet FC
          Solihull Moors FC        5-0 (1-0)  King's Lynn FC
-         Weymouth FC              0-1 (0-0)  Sutton United FC
+         Yeovil Town FC           0-1 (0-1)  Wrexham AFC
   17.20  Dagenham & Redbridge FC  1-0 (0-0)  Wealdstone FC
 
 
@@ -50,30 +50,28 @@ Matchday 4
 [Mon Oct/12]
   19.45  Wrexham AFC              0-1 (0-1)  Maidenhead United FC
 [Tue Oct/13]
-  19.45  Woking FC                2-0 (2-0)  Dagenham & Redbridge FC
-  Altrincham FC            -  Solihull Moors FC
-  19.45  Dover Athletic FC        0-5 (0-3)  Aldershot Town FC
+  19.45  Torquay United FC        2-1 (1-1)  Chesterfield FC
+         Dover Athletic FC        0-5 (0-3)  Aldershot Town FC
          Barnet FC                1-0 (1-0)  Weymouth FC
-         Wealdstone FC            2-5 (1-1)  Stockport County FC
          FC Halifax Town          1-1 (1-0)  Yeovil Town FC
+         Wealdstone FC            2-5 (1-1)  Stockport County FC
          Hartlepool United FC     0-0  Bromley FC
          King's Lynn FC           0-3 (0-2)  Boreham Wood FC
          Sutton United FC         0-1 (0-0)  Notts County FC
-         Torquay United FC        2-1 (1-1)  Chesterfield FC
+         Woking FC                2-0 (2-0)  Dagenham & Redbridge FC
 
 
 Matchday 5
 [Sat Oct/17]
   15.00  Weymouth FC              2-1 (1-0)  King's Lynn FC
-  Altrincham FC            -  Bromley FC
+         Torquay United FC        2-0 (2-0)  Dover Athletic FC
   Barnet FC                -  Hartlepool United FC
   15.00  Dagenham & Redbridge FC  0-0  Yeovil Town FC
          Eastleigh FC             2-2 (1-1)  Aldershot Town FC
-         Wealdstone FC            4-3 (2-2)  Wrexham AFC
-         Torquay United FC        2-0 (2-0)  Dover Athletic FC
-         Notts County FC          2-3 (2-1)  Maidenhead United FC
          Solihull Moors FC        1-0 (0-0)  Boreham Wood FC
          Woking FC                0-0  FC Halifax Town
+         Notts County FC          2-3 (2-1)  Maidenhead United FC
+         Wealdstone FC            4-3 (2-2)  Wrexham AFC
   17.20  Chesterfield FC          1-2 (1-1)  Stockport County FC
 
 
@@ -84,32 +82,37 @@ Matchday 1
 
 Matchday 6
 [Tue Oct/27]
-  19.45  Dover Athletic FC        -  Eastleigh FC
-         Aldershot Town FC        -  Torquay United FC
-         Boreham Wood FC          -  Woking FC
-         Bromley FC               -  Weymouth FC
+  19.00  Wrexham AFC              0-0  Barnet FC
+  19.45  Boreham Wood FC          1-0 (1-0)  Woking FC
   FC Halifax Town          -  Notts County FC
-  19.45  Hartlepool United FC     -  Altrincham FC
-         King's Lynn FC           -  Wealdstone FC
-         Maidenhead United FC     -  Dagenham & Redbridge FC
-         Stockport County FC      -  Solihull Moors FC
-         Wrexham AFC              -  Barnet FC
-         Yeovil Town FC           -  Sutton United FC
+  19.45  Maidenhead United FC     2-1 (0-1)  Dagenham & Redbridge FC
+         Yeovil Town FC           1-2 (1-1)  Sutton United FC
+         Stockport County FC      0-0  Solihull Moors FC
+         Bromley FC               3-2 (1-1)  Weymouth FC
+         Dover Athletic FC        3-2 (2-1)  Eastleigh FC
+         Hartlepool United FC     1-1 (1-0)  Altrincham FC
+         King's Lynn FC           2-3 (0-1)  Wealdstone FC
+         Aldershot Town FC        1-4 (1-1)  Torquay United FC
 
 
 Matchday 7
 [Sat Oct/31]
-  15.00  Aldershot Town FC        -  Notts County FC
-         Boreham Wood FC          -  Dagenham & Redbridge FC
+  15.00  FC Halifax Town          -  Wealdstone FC
+         Stockport County FC      -  Weymouth FC
+  Aldershot Town FC        -  Notts County FC
+  15.00  Boreham Wood FC          -  Dagenham & Redbridge FC
          Bromley FC               -  Eastleigh FC
          Dover Athletic FC        -  Altrincham FC
-         FC Halifax Town          -  Wealdstone FC
-         King's Lynn FC           -  Woking FC
-         Yeovil Town FC           -  Chesterfield FC
-         Stockport County FC      -  Weymouth FC
          Wrexham AFC              -  Sutton United FC
+         King's Lynn FC           -  Woking FC
          Maidenhead United FC     -  Solihull Moors FC
+         Yeovil Town FC           -  Chesterfield FC
   17.20  Hartlepool United FC     -  Torquay United FC
+
+
+Matchday 4
+[Tue Nov/10]
+  19.45  Altrincham FC            -  Solihull Moors FC
 
 
 Matchday 9
@@ -119,62 +122,67 @@ Matchday 9
 
 Matchday 8
 [Sat Nov/14]
-  15.00  Chesterfield FC          -  Maidenhead United FC
+  15.00  Barnet FC                -  Bromley FC
+         Dagenham & Redbridge FC  -  Stockport County FC
          Eastleigh FC             -  Hartlepool United FC
-         Barnet FC                -  Bromley FC
-         Altrincham FC            -  Aldershot Town FC
+         Wealdstone FC            -  Dover Athletic FC
+         Chesterfield FC          -  Maidenhead United FC
          Woking FC                -  Yeovil Town FC
          Solihull Moors FC        -  FC Halifax Town
          Sutton United FC         -  King's Lynn FC
+         Altrincham FC            -  Aldershot Town FC
          Torquay United FC        -  Boreham Wood FC
-         Wealdstone FC            -  Dover Athletic FC
-         Dagenham & Redbridge FC  -  Stockport County FC
   17.20  Weymouth FC              -  Wrexham AFC
 
 
 Matchday 9
 [Tue Nov/17]
-  19.45  Eastleigh FC             -  Wealdstone FC
-         Altrincham FC            -  Chesterfield FC
-         Bromley FC               -  Boreham Wood FC
-         Dover Athletic FC        -  Woking FC
+  19.45  Dover Athletic FC        -  Woking FC
          Aldershot Town FC        -  Maidenhead United FC
+         Torquay United FC        -  Solihull Moors FC
+         Bromley FC               -  Boreham Wood FC
+         Sutton United FC         -  Dagenham & Redbridge FC
+         Eastleigh FC             -  Wealdstone FC
          Barnet FC                -  King's Lynn FC
          Weymouth FC              -  Yeovil Town FC
          Hartlepool United FC     -  Wrexham AFC
-         Sutton United FC         -  Dagenham & Redbridge FC
-         Torquay United FC        -  Solihull Moors FC
+         Altrincham FC            -  Chesterfield FC
 
 
 Matchday 10
 [Sat Nov/21]
   15.00  Boreham Wood FC          -  Altrincham FC
+         Yeovil Town FC           -  Hartlepool United FC
          Chesterfield FC          -  Notts County FC
          Woking FC                -  Barnet FC
-         FC Halifax Town          -  Torquay United FC
+         Wrexham AFC              -  Aldershot Town FC
          King's Lynn FC           -  Dover Athletic FC
          Maidenhead United FC     -  Bromley FC
          Solihull Moors FC        -  Weymouth FC
          Stockport County FC      -  Eastleigh FC
-         Wrexham AFC              -  Aldershot Town FC
-         Yeovil Town FC           -  Hartlepool United FC
+         FC Halifax Town          -  Torquay United FC
   17.20  Wealdstone FC            -  Sutton United FC
+
+
+Matchday 5
+[Tue Nov/24]
+  19.00  Altrincham FC            -  Bromley FC
 
 
 Matchday 11
 [Fri Nov/27]
   19.45  Notts County FC          -  Wealdstone FC
 [Sat Nov/28]
-  15.00  Eastleigh FC             -  King's Lynn FC
+  15.00  Dover Athletic FC        -  Boreham Wood FC
          Altrincham FC            -  Maidenhead United FC
          Bromley FC               -  Wrexham AFC
-         Dover Athletic FC        -  Boreham Wood FC
-         Torquay United FC        -  Dagenham & Redbridge FC
+         Aldershot Town FC        -  Solihull Moors FC
+         Eastleigh FC             -  King's Lynn FC
          Barnet FC                -  Yeovil Town FC
          Weymouth FC              -  Chesterfield FC
          Hartlepool United FC     -  Stockport County FC
+         Torquay United FC        -  Dagenham & Redbridge FC
          Sutton United FC         -  FC Halifax Town
-         Aldershot Town FC        -  Solihull Moors FC
 
 
 Matchday 12
