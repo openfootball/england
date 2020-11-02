@@ -99,16 +99,16 @@ Matchday 6
 
 Matchday 7
 [Fri Oct/30]
-  20.00  Wolverhampton Wanderers FC  -  Crystal Palace FC
+  20.00  Wolverhampton Wanderers FC  2-0 (2-0)  Crystal Palace FC
 [Sat Oct/31]
-  12.30  Sheffield United FC      -  Manchester City FC
-  15.00  Burnley FC               -  Chelsea FC
-  17.30  Liverpool FC             -  West Ham United FC
+  12.30  Sheffield United FC      0-1 (0-1)  Manchester City FC
+  15.00  Burnley FC               0-3 (0-1)  Chelsea FC
+  17.30  Liverpool FC             2-1 (1-1)  West Ham United FC
 [Sun Nov/1]
-  12.00  Aston Villa FC           -  Southampton FC
-  14.00  Newcastle United FC      -  Everton FC
-  16.30  Manchester United        -  Arsenal FC
-  19.15  Tottenham Hotspur FC     -  Brighton & Hove Albion FC
+  12.00  Aston Villa FC           3-4 (0-3)  Southampton FC
+  14.00  Newcastle United FC      2-1 (0-0)  Everton FC
+  16.30  Manchester United        0-1 (0-0)  Arsenal FC
+  19.15  Tottenham Hotspur FC     2-1 (1-0)  Brighton & Hove Albion FC
 [Mon Nov/2]
   17.30  Fulham FC                -  West Bromwich Albion FC
   20.00  Leeds United FC          -  Leicester City FC
@@ -116,18 +116,18 @@ Matchday 7
 
 Matchday 8
 [Fri Nov/6]
+  17.30  Brighton & Hove Albion FC  -  Burnley FC
   20.00  Southampton FC           -  Newcastle United FC
 [Sat Nov/7]
-  Arsenal FC               -  Aston Villa FC
-  15.00  Brighton & Hove Albion FC  -  Burnley FC
-         Crystal Palace FC        -  Leeds United FC
-         Everton FC               -  Manchester United
-         West Bromwich Albion FC  -  Tottenham Hotspur FC
-         West Ham United FC       -  Fulham FC
+  12.30  Everton FC               -  Manchester United
+  15.00  Crystal Palace FC        -  Leeds United FC
   17.30  Chelsea FC               -  Sheffield United FC
+  20.00  West Ham United FC       -  Fulham FC
 [Sun Nov/8]
+  12.00  West Bromwich Albion FC  -  Tottenham Hotspur FC
   14.00  Leicester City FC        -  Wolverhampton Wanderers FC
   16.30  Manchester City FC       -  Liverpool FC
+  19.15  Arsenal FC               -  Aston Villa FC
 
 
 Matchday 9
