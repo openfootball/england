@@ -3,41 +3,41 @@
 #
 #  note: three letter codes (tags) taken from official premierleague.com site
 
-Key,           Name,                    Code
-chelsea,       Chelsea FC,              CHE
-arsenal,       Arsenal FC,              ARS
-tottenham,     Tottenham Hotspur,       TOT
-westham,       West Ham United,         WHU
-crystalpalace, Crystal Palace,          CRY
-manutd,        Manchester United,       MUN
-mancity,       Manchester City,         MCI
-everton,       Everton FC,              EVE
-liverpool,     Liverpool FC,            LIV
-westbrom,      West Bromwich Albion,    WBA
-newcastle,     Newcastle United,        NEW
-stoke,         Stoke City,              STK
-sunderland,    Sunderland AFC,          SUN
-astonvilla,    Aston Villa FC,          AVL
-southampton,   Southampton FC,          SOU
-leicester,     Leicester City,          LEI
-bournemouth,   AFC Bournemouth,         BOU
-norwich,       Norwich City,            NOR
-watford,       Watford FC,              WAT
-burnley,       Burnley FC,              BUR
-hull,          Hull City,               HUL
-qpr,           Queens Park Rangers,     QPR
-fulham,        Fulham FC,               FUL
-middlesbrough, Middlesbrough FC,        MFC
-reading,       Reading FC,              RDG
-wigan,         Wigan Athletic,          WIG
+Name,                    Code
+Chelsea FC,              CHE
+Arsenal FC,              ARS
+Tottenham Hotspur,       TOT
+West Ham United,         WHU
+Crystal Palace,          CRY
+Manchester United,       MUN
+Manchester City,         MCI
+Everton FC,              EVE
+Liverpool FC,            LIV
+West Bromwich Albion,    WBA
+Newcastle United,        NEW
+Stoke City,              STK
+Sunderland AFC,          SUN
+Aston Villa FC,          AVL
+Southampton FC,          SOU
+Leicester City,          LEI
+AFC Bournemouth,         BOU
+Norwich City,            NOR
+Watford FC,              WAT
+Burnley FC,              BUR
+Hull City,               HUL
+Queens Park Rangers,     QPR
+Fulham FC,               FUL
+Middlesbrough FC,        MFC
+Reading FC,              RDG
+Wigan Athletic,          WIG
 
-brightonhovealbionfc,  Brighton & Hove Albion FC,   BHA
-sheffieldunitedfc,     Sheffield United FC,         SHU
-wolves,                Wolverhampton Wanderers FC,  WOL
-huddersfieldtown,      Huddersfield Town,           HUD
+Brighton & Hove Albion FC,   BHA
+Sheffield United FC,         SHU
+Wolverhampton Wanderers FC,  WOL
+Huddersfield Town,           HUD
 
 
 # Wales (WAL), wal
-swansea,       Swansea City,            SWA            
-cardiff,       Cardiff City,            CAR
-## newport,       Newport County,          ?    -- fix: n/a !!!!
+Swansea City,            SWA            
+Cardiff City,            CAR
+##  Newport County,          ?    -- fix: n/a !!!!
