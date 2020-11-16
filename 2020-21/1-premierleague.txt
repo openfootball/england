@@ -134,15 +134,16 @@ Matchday 9
 [Sat Nov/21]
   12.30  Newcastle United FC      -  Chelsea FC
   15.00  Aston Villa FC           -  Brighton & Hove Albion FC
-         Burnley FC               -  Crystal Palace FC
-         Fulham FC                -  Everton FC
-         Liverpool FC             -  Leicester City FC
-         Manchester United        -  West Bromwich Albion FC
-         Wolverhampton Wanderers FC  -  Southampton FC
   17.30  Tottenham Hotspur FC     -  Manchester City FC
+  20.00  Manchester United        -  West Bromwich Albion FC
 [Sun Nov/22]
+  12.00  Fulham FC                -  Everton FC
   14.00  Sheffield United FC      -  West Ham United FC
   16.30  Leeds United FC          -  Arsenal FC
+  19.15  Liverpool FC             -  Leicester City FC
+[Mon Nov/23]
+  17.30  Burnley FC               -  Crystal Palace FC
+  20.00  Wolverhampton Wanderers FC  -  Southampton FC
 
 
 Matchday 10

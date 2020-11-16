@@ -54,12 +54,12 @@ Matchday 4
          Carlisle United FC       1-0 (1-0)  Barrow AFC
          Colchester United FC     3-3 (2-0)  Oldham Athletic AFC
          Crawley Town FC          1-1 (1-0)  Southend United FC
-         Newport County AFC       2-1 (0-0)  Mansfield Town FC
+         Exeter City FC           2-0 (2-0)  Cambridge United FC
          Morecambe FC             1-0 (0-0)  Port Vale FC
-         Stevenage FC             0-1 (0-1)  Salford City FC
+         Newport County AFC       2-1 (0-0)  Mansfield Town FC
          Forest Green Rovers FC   1-1 (0-1)  Walsall FC
          Harrogate Town AFC       1-2 (0-1)  Bolton Wanderers FC
-         Exeter City FC           2-0 (2-0)  Cambridge United FC
+         Stevenage FC             0-1 (0-1)  Salford City FC
 
 
 Matchday 5
@@ -90,14 +90,14 @@ Matchday 6
   15.00  Walsall FC               0-0  Exeter City FC
          Bolton Wanderers FC      1-2 (1-1)  Oldham Athletic AFC
          Carlisle United FC       3-2 (2-1)  Colchester United FC
-         Scunthorpe United FC     0-5 (0-2)  Cambridge United FC
+         Crawley Town FC          4-0 (0-0)  Morecambe FC
          Southend United FC       0-2 (0-1)  Cheltenham Town FC
          Forest Green Rovers FC   1-0 (1-0)  Stevenage FC
          Harrogate Town AFC       1-0 (1-0)  Barrow AFC
          Mansfield Town FC        1-3 (0-2)  Bradford City AFC
          Newport County AFC       1-0 (1-0)  Tranmere Rovers FC
          Port Vale FC             1-0 (0-0)  Salford City FC
-         Crawley Town FC          4-0 (0-0)  Morecambe FC
+         Scunthorpe United FC     0-5 (0-2)  Cambridge United FC
   17.30  Leyton Orient FC         2-3 (1-2)  Grimsby Town FC
 
 
@@ -105,48 +105,48 @@ Matchday 7
 [Tue Oct/20]
   18.00  Cheltenham Town FC       1-0 (1-0)  Scunthorpe United FC
   18.30  Morecambe FC             1-1 (1-1)  Mansfield Town FC
-  19.00  Barrow AFC               3-3 (3-2)  Bolton Wanderers FC
-         Tranmere Rovers FC       0-1 (0-0)  Leyton Orient FC
-         Cambridge United FC      3-1 (1-1)  Port Vale FC
+  19.00  Cambridge United FC      3-1 (1-1)  Port Vale FC
+         Barrow AFC               3-3 (3-2)  Bolton Wanderers FC
          Colchester United FC     1-0 (1-0)  Forest Green Rovers FC
-         Oldham Athletic AFC      1-1 (0-0)  Carlisle United FC
-         Stevenage FC             0-1 (0-1)  Newport County AFC
+         Tranmere Rovers FC       0-1 (0-0)  Leyton Orient FC
          Exeter City FC           2-1 (0-1)  Crawley Town FC
-  19.45  Salford City FC          3-0 (1-0)  Southend United FC
+         Stevenage FC             0-1 (0-1)  Newport County AFC
+         Oldham Athletic AFC      1-1 (0-0)  Carlisle United FC
+  19.45  Grimsby Town FC          1-2 (1-2)  Harrogate Town AFC
          Bradford City AFC        1-1 (0-1)  Walsall FC
-         Grimsby Town FC          1-2 (1-2)  Harrogate Town AFC
+         Salford City FC          3-0 (1-0)  Southend United FC
 
 
 Matchday 8
 [Sat Oct/24]
   13.00  Exeter City FC           3-1 (2-0)  Scunthorpe United FC
-  15.00  Cambridge United FC      1-1 (0-0)  Bolton Wanderers FC
+  15.00  Tranmere Rovers FC       2-0 (1-0)  Southend United FC
          Barrow AFC               2-2 (1-1)  Walsall FC
          Bradford City AFC        0-3 (0-2)  Newport County AFC
+         Cambridge United FC      1-1 (0-0)  Bolton Wanderers FC
          Cheltenham Town FC       0-0  Mansfield Town FC
-         Tranmere Rovers FC       2-0 (1-0)  Southend United FC
          Colchester United FC     2-1 (0-0)  Harrogate Town AFC
          Morecambe FC             1-2 (1-0)  Forest Green Rovers FC
          Stevenage FC             0-2 (0-0)  Leyton Orient FC
          Grimsby Town FC          1-1 (1-0)  Carlisle United FC
-         Salford City FC          1-1 (0-0)  Crawley Town FC
          Oldham Athletic AFC      1-2 (0-2)  Port Vale FC
+         Salford City FC          1-1 (0-0)  Crawley Town FC
 
 
 Matchday 9
 [Tue Oct/27]
   18.30  Crawley Town FC          4-0 (3-0)  Tranmere Rovers FC
-  19.00  Forest Green Rovers FC   1-0 (1-0)  Grimsby Town FC
+  19.00  Harrogate Town AFC       0-0  Stevenage FC
          Southend United FC       1-2 (0-0)  Oldham Athletic AFC
          Carlisle United FC       3-1 (2-0)  Morecambe FC
-         Harrogate Town AFC       0-0  Stevenage FC
+         Walsall FC               0-2 (0-1)  Cambridge United FC
   Scunthorpe United FC     -  Salford City FC
   19.00  Bolton Wanderers FC      1-0 (1-0)  Bradford City AFC
          Leyton Orient FC         1-1 (1-0)  Exeter City FC
          Mansfield Town FC        2-4 (1-2)  Barrow AFC
          Newport County AFC       2-1 (0-0)  Colchester United FC
          Port Vale FC             2-1 (0-0)  Cheltenham Town FC
-         Walsall FC               0-2 (0-1)  Cambridge United FC
+         Forest Green Rovers FC   1-0 (1-0)  Grimsby Town FC
 
 
 Matchday 10
@@ -158,23 +158,22 @@ Matchday 10
          Barrow AFC               1-0 (1-0)  Bradford City AFC
          Cheltenham Town FC       2-1 (1-0)  Forest Green Rovers FC
          Crawley Town FC          2-1 (1-1)  Cambridge United FC
-         Stevenage FC             0-0  Grimsby Town FC
+         Southend United FC       0-2 (0-0)  Port Vale FC
          Leyton Orient FC         4-0 (3-0)  Bolton Wanderers FC
          Mansfield Town FC        1-1 (1-0)  Walsall FC
          Newport County AFC       2-1 (1-1)  Harrogate Town AFC
-         Southend United FC       0-2 (0-0)  Port Vale FC
          Salford City FC          2-0 (1-0)  Oldham Athletic AFC
+         Stevenage FC             0-0  Grimsby Town FC
 
 
 Matchday 11
 [Tue Nov/3]
   18.00  Oldham Athletic AFC      2-1 (1-1)  Cheltenham Town FC
   18.30  Morecambe FC             2-2 (2-1)  Exeter City FC
-  19.00  Cambridge United FC      2-1 (1-1)  Salford City FC
-  Port Vale FC             -  Scunthorpe United FC
-  19.00  Bradford City AFC        3-0 (3-0)  Southend United FC
+  19.00  Carlisle United FC       3-2 (1-0)  Newport County AFC
+         Bradford City AFC        3-0 (3-0)  Southend United FC
+         Cambridge United FC      2-1 (1-1)  Salford City FC
          Harrogate Town AFC       0-1 (0-0)  Tranmere Rovers FC
-         Carlisle United FC       3-2 (1-0)  Newport County AFC
          Colchester United FC     3-1 (1-1)  Stevenage FC
          Walsall FC               1-0 (0-0)  Crawley Town FC
          Forest Green Rovers FC   2-1 (1-1)  Leyton Orient FC
@@ -184,93 +183,99 @@ Matchday 11
 
 Matchday 12
 [Fri Nov/13]
-  19.45  Bolton Wanderers FC      -  Salford City FC
+  19.45  Bolton Wanderers FC      2-0 (1-0)  Salford City FC
 [Sat Nov/14]
-  15.00  Port Vale FC             -  Tranmere Rovers FC
-         Bradford City AFC        -  Exeter City FC
-         Cambridge United FC      -  Barrow AFC
-         Carlisle United FC       -  Cheltenham Town FC
-         Oldham Athletic AFC      -  Scunthorpe United FC
-         Morecambe FC             -  Stevenage FC
-         Walsall FC               -  Southend United FC
-         Forest Green Rovers FC   -  Mansfield Town FC
-         Grimsby Town FC          -  Newport County AFC
-         Harrogate Town AFC       -  Crawley Town FC
-         Colchester United FC     -  Leyton Orient FC
+  15.00  Port Vale FC             3-4 (2-0)  Tranmere Rovers FC
+         Oldham Athletic AFC      0-2 (0-0)  Scunthorpe United FC
+  Grimsby Town FC          -  Newport County AFC
+  15.00  Bradford City AFC        2-2 (2-2)  Exeter City FC
+         Cambridge United FC      1-1 (0-0)  Barrow AFC
+         Carlisle United FC       1-2 (1-2)  Cheltenham Town FC
+         Colchester United FC     2-1 (1-0)  Leyton Orient FC
+         Morecambe FC             1-1 (0-1)  Stevenage FC
+         Walsall FC               0-1 (0-0)  Southend United FC
+         Forest Green Rovers FC   1-2 (0-2)  Mansfield Town FC
+         Harrogate Town AFC       1-1 (0-1)  Crawley Town FC
+
+
+Matchday 11
+[Tue Nov/17]
+  19.00  Port Vale FC             -  Scunthorpe United FC
 
 
 Matchday 13
+[Fri Nov/20]
+  19.00  Mansfield Town FC        -  Colchester United FC
 [Sat Nov/21]
-  15.00  Southend United FC       -  Cambridge United FC
+  15.00  Exeter City FC           -  Oldham Athletic AFC
          Barrow AFC               -  Forest Green Rovers FC
          Cheltenham Town FC       -  Walsall FC
          Crawley Town FC          -  Carlisle United FC
-         Exeter City FC           -  Oldham Athletic AFC
+         Tranmere Rovers FC       -  Grimsby Town FC
          Stevenage FC             -  Bolton Wanderers FC
          Leyton Orient FC         -  Harrogate Town AFC
-         Mansfield Town FC        -  Colchester United FC
          Newport County AFC       -  Port Vale FC
          Salford City FC          -  Bradford City AFC
          Scunthorpe United FC     -  Morecambe FC
-         Tranmere Rovers FC       -  Grimsby Town FC
+         Southend United FC       -  Cambridge United FC
 
 
 Matchday 14
 [Tue Nov/24]
-  19.45  Leyton Orient FC         -  Bradford City AFC
+  19.45  Tranmere Rovers FC       -  Carlisle United FC
          Barrow AFC               -  Oldham Athletic AFC
          Cheltenham Town FC       -  Cambridge United FC
          Crawley Town FC          -  Grimsby Town FC
          Exeter City FC           -  Colchester United FC
+         Southend United FC       -  Forest Green Rovers FC
          Stevenage FC             -  Port Vale FC
-         Tranmere Rovers FC       -  Carlisle United FC
          Mansfield Town FC        -  Harrogate Town AFC
          Newport County AFC       -  Walsall FC
          Salford City FC          -  Morecambe FC
          Scunthorpe United FC     -  Bolton Wanderers FC
-         Southend United FC       -  Forest Green Rovers FC
+         Leyton Orient FC         -  Bradford City AFC
 
 
 Matchday 15
 [Tue Dec/1]
-  19.45  Walsall FC               -  Stevenage FC
+  19.45  Port Vale FC             -  Leyton Orient FC
          Bradford City AFC        -  Cheltenham Town FC
          Cambridge United FC      -  Mansfield Town FC
          Carlisle United FC       -  Salford City FC
          Colchester United FC     -  Crawley Town FC
-         Oldham Athletic AFC      -  Tranmere Rovers FC
-         Port Vale FC             -  Leyton Orient FC
+         Morecambe FC             -  Barrow AFC
+         Walsall FC               -  Stevenage FC
          Forest Green Rovers FC   -  Newport County AFC
          Grimsby Town FC          -  Exeter City FC
          Harrogate Town AFC       -  Scunthorpe United FC
-         Morecambe FC             -  Barrow AFC
+         Oldham Athletic AFC      -  Tranmere Rovers FC
   20.00  Bolton Wanderers FC      -  Southend United FC
 
 
 Matchday 16
 [Sat Dec/5]
-  15.00  Cheltenham Town FC       -  Exeter City FC
+  15.00  Tranmere Rovers FC       -  Walsall FC
          Barrow AFC               -  Salford City FC
          Bolton Wanderers FC      -  Port Vale FC
          Bradford City AFC        -  Carlisle United FC
          Cambridge United FC      -  Oldham Athletic AFC
-         Colchester United FC     -  Grimsby Town FC
+         Cheltenham Town FC       -  Exeter City FC
          Scunthorpe United FC     -  Leyton Orient FC
          Stevenage FC             -  Southend United FC
          Harrogate Town AFC       -  Forest Green Rovers FC
          Mansfield Town FC        -  Crawley Town FC
          Newport County AFC       -  Morecambe FC
-         Tranmere Rovers FC       -  Walsall FC
+         Colchester United FC     -  Grimsby Town FC
 
 
 Matchday 17
 [Sat Dec/12]
-  15.00  Southend United FC       -  Scunthorpe United FC
+  15.00  Walsall FC               -  Bolton Wanderers FC
          Carlisle United FC       -  Stevenage FC
          Crawley Town FC          -  Barrow AFC
          Exeter City FC           -  Tranmere Rovers FC
          Morecambe FC             -  Harrogate Town AFC
-         Walsall FC               -  Bolton Wanderers FC
+         Southend United FC       -  Scunthorpe United FC
          Forest Green Rovers FC   -  Cambridge United FC
          Grimsby Town FC          -  Mansfield Town FC
          Leyton Orient FC         -  Newport County AFC
@@ -297,18 +302,18 @@ Matchday 18
 
 Matchday 19
 [Sat Dec/19]
-  15.00  Newport County AFC       -  Oldham Athletic AFC
+  15.00  Mansfield Town FC        -  Southend United FC
          Barrow AFC               -  Cheltenham Town FC
          Bolton Wanderers FC      -  Tranmere Rovers FC
          Bradford City AFC        -  Cambridge United FC
          Colchester United FC     -  Morecambe FC
          Stevenage FC             -  Exeter City FC
-         Mansfield Town FC        -  Southend United FC
+         Walsall FC               -  Port Vale FC
          Forest Green Rovers FC   -  Carlisle United FC
          Grimsby Town FC          -  Scunthorpe United FC
          Harrogate Town AFC       -  Salford City FC
          Leyton Orient FC         -  Crawley Town FC
-         Walsall FC               -  Port Vale FC
+         Newport County AFC       -  Oldham Athletic AFC
 
 
 Matchday 4
@@ -323,13 +328,13 @@ Matchday 20
          Cheltenham Town FC       -  Stevenage FC
          Crawley Town FC          -  Newport County AFC
          Exeter City FC           -  Forest Green Rovers FC
-         Morecambe FC             -  Grimsby Town FC
+         Tranmere Rovers FC       -  Bradford City AFC
          Oldham Athletic AFC      -  Harrogate Town AFC
          Port Vale FC             -  Barrow AFC
          Salford City FC          -  Walsall FC
          Scunthorpe United FC     -  Mansfield Town FC
+         Morecambe FC             -  Grimsby Town FC
          Southend United FC       -  Colchester United FC
-         Tranmere Rovers FC       -  Bradford City AFC
 
 
 Matchday 21
@@ -339,29 +344,29 @@ Matchday 21
          Colchester United FC     -  Cheltenham Town FC
          Stevenage FC             -  Cambridge United FC
          Walsall FC               -  Scunthorpe United FC
-         Forest Green Rovers FC   -  Crawley Town FC
+         Newport County AFC       -  Exeter City FC
          Grimsby Town FC          -  Oldham Athletic AFC
          Harrogate Town AFC       -  Carlisle United FC
          Leyton Orient FC         -  Southend United FC
          Mansfield Town FC        -  Salford City FC
-         Newport County AFC       -  Exeter City FC
+         Forest Green Rovers FC   -  Crawley Town FC
   20.00  Bolton Wanderers FC      -  Morecambe FC
 
 
 Matchday 22
 [Sat Jan/2]
-  15.00  Barrow AFC               -  Exeter City FC
+  15.00  Newport County AFC       -  Southend United FC
          Bolton Wanderers FC      -  Crawley Town FC
          Bradford City AFC        -  Morecambe FC
          Colchester United FC     -  Tranmere Rovers FC
          Stevenage FC             -  Scunthorpe United FC
-         Walsall FC               -  Carlisle United FC
+         Barrow AFC               -  Exeter City FC
          Forest Green Rovers FC   -  Oldham Athletic AFC
          Grimsby Town FC          -  Cambridge United FC
          Harrogate Town AFC       -  Cheltenham Town FC
          Leyton Orient FC         -  Salford City FC
          Mansfield Town FC        -  Port Vale FC
-         Newport County AFC       -  Southend United FC
+         Walsall FC               -  Carlisle United FC
 
 
 Matchday 23
@@ -371,13 +376,13 @@ Matchday 23
          Cheltenham Town FC       -  Newport County AFC
          Crawley Town FC          -  Stevenage FC
          Exeter City FC           -  Bolton Wanderers FC
-         Morecambe FC             -  Walsall FC
+         Tranmere Rovers FC       -  Forest Green Rovers FC
          Oldham Athletic AFC      -  Mansfield Town FC
          Port Vale FC             -  Grimsby Town FC
          Salford City FC          -  Colchester United FC
          Scunthorpe United FC     -  Bradford City AFC
          Southend United FC       -  Barrow AFC
-         Tranmere Rovers FC       -  Forest Green Rovers FC
+         Morecambe FC             -  Walsall FC
 
 
 Matchday 24

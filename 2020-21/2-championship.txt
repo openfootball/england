@@ -193,10 +193,11 @@ Matchday 11
 
 
 Matchday 12
+[Fri Nov/20]
+  19.45  Coventry City FC         -  Birmingham City FC
 [Sat Nov/21]
-  15.00  AFC Bournemouth          -  Reading FC
-         Bristol City FC          -  Derby County FC
-         Coventry City FC         -  Birmingham City FC
+  12.30  AFC Bournemouth          -  Reading FC
+  15.00  Bristol City FC          -  Derby County FC
          Barnsley FC              -  Nottingham Forest FC
          Middlesbrough FC         -  Norwich City FC
          Millwall FC              -  Cardiff City FC
@@ -210,35 +211,37 @@ Matchday 12
 
 Matchday 13
 [Tue Nov/24]
-  19.45  AFC Bournemouth          -  Nottingham Forest FC
-         Barnsley FC              -  Brentford FC
-         Luton Town FC            -  Birmingham City FC
-         Preston North End FC     -  Blackburn Rovers FC
+  19.00  Luton Town FC            -  Birmingham City FC
          Queens Park Rangers FC   -  Rotherham United FC
-  20.00  Stoke City FC            -  Norwich City FC
+         Stoke City FC            -  Norwich City FC
+         Wycombe Wanderers FC     -  Huddersfield Town AFC
+  19.45  Barnsley FC              -  Brentford FC
+         Preston North End FC     -  Blackburn Rovers FC
+  20.00  AFC Bournemouth          -  Nottingham Forest FC
 [Wed Nov/25]
+  19.00  Middlesbrough FC         -  Derby County FC
+         Millwall FC              -  Reading FC
   19.45  Bristol City FC          -  Watford FC
          Coventry City FC         -  Cardiff City FC
-         Middlesbrough FC         -  Derby County FC
-         Millwall FC              -  Reading FC
          Swansea City FC          -  Sheffield Wednesday
-         Wycombe Wanderers FC     -  Huddersfield Town AFC
 
 
 Matchday 14
+[Fri Nov/27]
+  19.45  Brentford FC             -  Queens Park Rangers FC
 [Sat Nov/28]
+  12.30  Reading FC               -  Bristol City FC
   15.00  Birmingham City FC       -  Millwall FC
          Blackburn Rovers FC      -  Barnsley FC
          Cardiff City FC          -  Luton Town FC
          Derby County FC          -  Wycombe Wanderers FC
-         Brentford FC             -  Queens Park Rangers FC
-         Reading FC               -  Bristol City FC
          Watford FC               -  Preston North End FC
          Huddersfield Town AFC    -  Middlesbrough FC
          Norwich City FC          -  Coventry City FC
-         Nottingham Forest FC     -  Swansea City FC
          Rotherham United FC      -  AFC Bournemouth
          Sheffield Wednesday      -  Stoke City FC
+[Sun Nov/29]
+  12.00  Nottingham Forest FC     -  Swansea City FC
 
 
 Matchday 15
@@ -259,13 +262,14 @@ Matchday 15
 
 
 Matchday 16
+[Fri Dec/4]
+  19.45  Barnsley FC              -  AFC Bournemouth
 [Sat Dec/5]
+  12.30  Reading FC               -  Nottingham Forest FC
   15.00  Bristol City FC          -  Birmingham City FC
          Coventry City FC         -  Rotherham United FC
-         Barnsley FC              -  AFC Bournemouth
          Brentford FC             -  Blackburn Rovers FC
          Millwall FC              -  Derby County FC
-         Reading FC               -  Nottingham Forest FC
          Watford FC               -  Cardiff City FC
          Huddersfield Town AFC    -  Queens Park Rangers FC
          Norwich City FC          -  Sheffield Wednesday
@@ -281,14 +285,14 @@ Matchday 17
          Watford FC               -  Rotherham United FC
          Huddersfield Town AFC    -  Sheffield Wednesday
          Swansea City FC          -  AFC Bournemouth
-  20.00  Stoke City FC            -  Cardiff City FC
+         Stoke City FC            -  Cardiff City FC
 [Wed Dec/9]
   19.45  Bristol City FC          -  Blackburn Rovers FC
          Barnsley FC              -  Wycombe Wanderers FC
          Brentford FC             -  Derby County FC
          Norwich City FC          -  Nottingham Forest FC
          Preston North End FC     -  Middlesbrough FC
-  20.00  Reading FC               -  Birmingham City FC
+         Reading FC               -  Birmingham City FC
 
 
 Matchday 18
