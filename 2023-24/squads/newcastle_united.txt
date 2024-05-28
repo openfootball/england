@@ -1,0 +1,79 @@
+= Newcastle United Football Club    # Newcastle United
+
+ 1  Martin Dúbravka (SVK)          GK    # 15 Jan 1989, Žilina  -- Sparta Prague
+18  Loris Karius (GER)             GK    # 22 Jun 1993, Biberach  -- Liverpool
+22  Nick Pope (ENG)                GK    # 19 Apr 1992, Cambridge  -- Burnley
+29  Mark Gillespie (ENG)           GK    # 27 Mar 1992, Newcastle upon Tyne  -- Motherwell
+35  Will Brown (ENG)               GK    # 10 Jan 2002, Newcastle upon Tyne
+41  Jude Smith (SCO)               GK    # 29 May 2003, Coatbridge  -- East Fife
+60  Reece Byrne (IRL)              GK    # 20 Nov 2004  -- Bohemians
+75  Adrian Janusz (POL)            GK    # 30 Jun 2006  -- Gateshead
+80  Taylor Ross (ENG)              GK    # 10 Mar 2006, Bolton  -- Bolton W
+84  Aidan Harris (ENG)             GK    # 16 Dec 2006, Sunderland
+85  Adam Harrison (ENG)            GK    # 20 Oct 2006, Newcastle upon Tyne
+91  Tyler Jones (ENG)              GK    # 18 Apr 2008
+93  Will Anderson (ENG)            GK   
+
+ 2  Kieran Trippier (ENG)          DF    # 19 Sep 1990, Bury  -- Atlético Madrid
+ 3  Paul Dummett (WAL)             DF    # 26 Sep 1991, Newcastle upon Tyne
+ 4  Sven Botman (NED)              DF    # 12 Jan 2000, Badhoevedorp  -- Lille
+ 5  Fabian Schär (SUI)             DF    # 20 Dec 1991, Wil  -- Deportivo La Coruña
+ 6  Jamaal Lascelles (ENG)         DF    # 11 Dec 1993, Derby  -- Nottingham F
+13  Matt Targett (ENG)             DF    # 18 Sep 1995, Eastleigh  -- Aston Villa
+17  Emil Krafth (SWE)              DF    # 02 Aug 1994, Stockholm  -- Amiens
+20  Lewis Hall (ENG)               DF    # 08 Sep 2004, Slough  -- Chelsea
+21  Tino Livramento (ENG)          DF    # 12 Nov 2002, Croydon  -- Southampton
+33  Dan Burn (ENG)                 DF    # 09 May 1992, Blyth  -- Brighton & HA
+50  Cathal Heffernan (IRL)         DF    # 27 Apr 2005, Cork  -- Milan
+53  Jordan Hackett (ENG)           DF    # 20 Feb 2004, Hammersmith  -- Tottenham H
+54  Alex Murphy (IRL)              DF    # 25 Jun 2004, Galway  -- Galway U
+62  Eden Page (ENG)                DF    # 14 Apr 2005, Sunderland
+65  Ciaran Thompson (ENG)          DF    # 17 Oct 2004, North Shields
+72  Dylan Charlton (ENG)           DF    # 02 Jul 2006, Gateshead
+76  Carter Milmore (ENG)           DF    # 19 Dec 2005, Durham
+78  Harry Powell (ENG)             DF    # 31 Dec 2005, Newcastle upon Tyne
+79  Rory Powell (ENG)              DF    # 31 Dec 2005, Newcastle upon Tyne
+82  Thomas Bryant (ENG)            DF    # 11 Dec 2006, Newcastle upon Tyne
+83  Luke Craggs (ENG)              DF    # 14 Jul 2007, Gateshead
+86  Leo Shahar (ENG)               DF    # 18 Mar 2007  -- Wolverhampton W
+89  Logan Watts (ENG)              DF    # 22 Jan 2007
+
+ 8  Sandro Tonali (ITA)            MF    # 08 May 2000, Lodi  -- Milan
+10  Anthony Gordon (ENG)           MF    # 24 Feb 2001, Liverpool  -- Everton
+11  Matt Ritchie (SCO)             MF    # 10 Sep 1989, Gosport  -- Bournemouth
+15  Harvey Barnes (ENG)            MF    # 09 Dec 1997, Burnley  -- Leicester C
+23  Jacob Murphy (ENG)             MF    # 24 Feb 1995, Wembley  -- Norwich C
+24  Miguel Almirón (PAR)           MF    # 01 Feb 1994, Asunción  -- Atlanta U
+28  Joe Willock (ENG)              MF    # 20 Aug 1999, Waltham Forest  -- Arsenal
+32  Elliot Anderson (SCO)          MF    # 06 Nov 2002, North Shields
+34  Lucas De Bolle (SCO)           MF    # 22 Oct 2002, Edinburgh
+36  Sean Longstaff (ENG)           MF    # 30 Oct 1997, North Shields
+37  Nathan Carlyon (ENG)           MF    # 14 Sep 2002, Durham
+39  Bruno Guimarães (BRA)          MF    # 16 Nov 1997, Rio de Janeiro  -- Lyon
+40  Joe White (ENG)                MF    # 01 Oct 2002, Carlisle
+43  Dylan Stephenson (ENG)         MF    # 10 Dec 2002, Ashington
+47  Jamie Miley (ENG)              MF    # 14 Jan 2004, Gateshead
+48  Rodrigo Vilca (PER)            MF    # 12 Mar 1999, Lima  -- Deportivo Municipal
+52  Jay Turner-Cook (ENG)          MF    # 31 Dec 2003, South Shields  -- Sunderland
+58  James Huntley (ENG)            MF    # 02 Mar 2004
+64  Ellis Stanton (ENG)            MF    # 19 Feb 2005, Sunderland
+66  Charlie McArthur (SCO)         MF    # 12 May 2005, Irvine  -- Kilmarnock
+67  Lewis Miley (ENG)              MF    # 01 May 2006, Gateshead
+71  Scott Bailey (ENG)             MF    # 22 Jan 2006, Durham
+77  Darren Palmer (ENG)            MF    # 24 Sep 2005, South Shields
+81  Joe Brayson (ENG)              MF    # 21 Apr 2007, Newcastle upon Tyne
+87  Anthony Munda (ENG)            MF    # 08 Sep 2006, Newcastle upon Tyne
+90  Travis Hernes (NOR)            MF    # 04 Nov 2005, Heradsbygda  -- Shrewsbury T
+92  Matthew Taylor (ENG)           MF    # 31 Mar 2008
+
+ 7  Joelinton (BRA)                FW    # 14 Aug 1996, Aliança  -- 1899 Hoffenheim
+ 9  Callum Wilson (ENG)            FW    # 27 Feb 1992, Coventry  -- Bournemouth
+14  Alexander Isak (SWE)           FW    # 21 Sep 1999, Solna  -- Real Sociedad
+49  Amadou Diallo (ENG)            FW    # 15 Feb 2003  -- West Ham U
+57  Kyle Crossley (ENG)            FW    # 24 Jul 2004, Sunderland  -- Morecambe
+61  Shaun Mavididi (ENG)           FW    # 13 Aug 2005, Havering
+63  Ben Parkinson (ENG)            FW    # 10 Mar 2005, Newcastle upon Tyne
+70  Trevan Sanusi (ENG)            FW    # 25 Apr 2007  -- Birmingham C
+73  Josh Donaldson (ENG)           FW    # 25 Sep 2005, Gateshead
+74  Johnny Emerson (SCO)           FW    # 30 Nov 2005, Carlisle
+88  Sean Neave (ENG)               FW    # 27 May 2007, Newcastle upon Tyne

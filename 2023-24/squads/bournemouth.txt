@@ -1,0 +1,36 @@
+= Athletic Football Club Bournemouth    # Bournemouth
+
+ 1  Neto (BRA)                     GK    # 19 Jul 1989, Araxá  -- Barcelona
+12  Darren Randolph (IRL)          GK    # 12 May 1987, Dublin  -- West Ham U
+20  Ionuţ Andrei Radu (ROU)        GK    # 28 May 1997, Bucharest  -- Internazionale
+42  Mark Travers (IRL)             GK    # 18 May 1999, Maynooth  -- Shamrock R
+45  Cameron Plain (ENG)            GK    # 28 Nov 2002, Winchester
+46  Callan McKenna (SCO)           GK    # 22 Dec 2006, Rutherglen  -- Queen's Park
+
+ 2  Ryan Fredericks (ENG)          DF    # 10 Oct 1992, Potters Bar  -- West Ham U
+ 3  Milos Kerkez (HUN)             DF    # 07 Nov 2003, Vrbas  -- AZ Alkmaar
+ 5  Lloyd Kelly (ENG)              DF    # 01 Oct 1998, Bristol  -- Bristol C
+ 6  Chris Mepham (WAL)             DF    # 05 Nov 1997, Hammersmith  -- Brentford
+15  Adam Smith (ENG)               DF    # 29 Apr 1991, Leytonstone  -- Tottenham H
+23  James Hill (ENG)               DF    # 10 Jan 2002, Bristol  -- Fleetwood T
+25  Marcos Senesi (ARG)            DF    # 10 May 1997, Concordia  -- Feyenoord
+27  Illya Zabarnyi (UKR)           DF    # 01 Sep 2002, Kyiv  -- Dynamo Kyiv
+37  Max Aarons (ENG)               DF    # 04 Jan 2000, Hammersmith  -- Norwich C
+48  Max Kinsey-Wellings (ENG)      DF    # 02 Feb 2005  -- Southampton
+
+ 4  Lewis Cook (ENG)               MF    # 03 Feb 1997, Leeds  -- Leeds U
+ 8  Romain Faivre (FRA)            MF    # 14 Jul 1998, Asnières-sur-Seine  -- Lyon
+10  Ryan Christie (SCO)            MF    # 22 Feb 1995, Inverness  -- Celtic
+14  Alex Scott (ENG)               MF    # 21 Aug 2003, Guernsey  -- Bristol C
+16  Marcus Tavernier (ENG)         MF    # 22 Mar 1999, Leeds  -- Middlesbrough
+17  Luis Sinisterra (COL)          MF    # 17 Jun 1999, Santader de Quilichao  -- Leeds U
+18  Tyler Adams (USA)              MF    # 14 Feb 1999, Wappingers Falls  -- Leeds U
+29  Philip Billing (DEN)           MF    # 11 Jun 1996, Copenhagen  -- Huddersfield T
+49  Dominic Sadi (ENG)             MF    # 02 Sep 2003, Enfield  -- Wingate & Finchley
+
+ 9  Dominic Solanke (ENG)          FW    # 14 Sep 1997, Reading  -- Liverpool
+11  Dango Ouattara (BFA)           FW    # 11 Feb 2002, Ouagadougou  -- Lorient
+19  Justin Kluivert (NED)          FW    # 05 May 1999, Amsterdam  -- Roma
+24  Antoine Semenyo (GHA)          FW    # 07 Jan 2000, Chelsea  -- Bristol C
+26  Enes Ünal (TUR)                FW    # 10 May 1997, Bursa  -- Getafe
+50  Michael Dacosta Gonzalez (ESP)   FW    # 05 Mar 2005, Alicante

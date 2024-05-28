@@ -1,0 +1,53 @@
+= Nottingham Forest Football Club    # Nottingham Forest
+
+ 1  Matt Turner (USA)              GK    # 24 Jun 1994, Park Ridge  -- Arsenal
+13  Wayne Hennessey (WAL)          GK    # 24 Jan 1987, Bangor  -- Burnley
+23  Odisseas Vlachodimos (GRE)     GK    # 26 Apr 1994, Stuttgart  -- Benfica
+26  Matz Sels (BEL)                GK    # 26 Feb 1992, Lint  -- Strasbourg
+62  Will Brook (ENG)               GK    # 09 Nov 2003, Pontefract  -- Leeds U
+63  Aaron Bott (ENG)               GK    # 06 Sep 2004, Mansfield
+
+ 3  Nuno Tavares (POR)             DF    # 26 Jan 2000, Lisbon  -- Arsenal
+ 7  Neco Williams (WAL)            DF    # 13 Apr 2001, Wrexham  -- Liverpool
+15  Harry Toffolo (ENG)            DF    # 19 Aug 1995, Welwyn Garden City  -- Huddersfield T
+18  Felipe (BRA)                   DF    # 16 May 1989, Mogi das Cruzes  -- Atlético Madrid
+19  Moussa Niakhaté (SEN)          DF    # 08 Mar 1996, Roubaix  -- Mainz
+29  Gonzalo Montiel (ARG)          DF    # 01 Jan 1997, Virrey del Pino  -- Sevilla
+30  Willy Boly (CIV)               DF    # 03 Feb 1991, Melun  -- Wolverhampton W
+32  Andrew Omobamidele (IRL)       DF    # 23 Jun 2002, Dublin  -- Norwich C
+40  Murillo (BRA)                  DF    # 04 Jul 2002, São Paulo  -- Corinthians
+43  Ola Aina (NGA)                 DF    # 08 Oct 1996, Southwark  -- Torino
+55  Josh Powell (ENG)              DF    # 09 Jan 2005, Nottingham
+56  Zach Abbott (ENG)              DF    # 13 May 2006
+64  Ben Hammond (WAL)              DF    # 01 Jul 2004
+65  Justin Hanks (WAL)             DF    # 01 Sep 2004, Slough
+71  Kyle McAdam (ENG)              DF    # 24 Dec 2004
+73  Tony Gbopo (ENG)               DF    # 09 Nov 2005, Nottingham
+81  Jimmy Sinclair (ENG)           DF    # 11 Aug 2006, Nottingham
+
+ 6  Ibrahim Sangaré (CIV)          MF    # 02 Dec 1997, Abidjan  -- PSV Eindhoven
+ 8  Cheikhou Kouyaté (SEN)         MF    # 21 Dec 1989, Dakar  -- Crystal Palace
+10  Morgan Gibbs-White (ENG)       MF    # 27 Jan 2000, Stafford  -- Wolverhampton W
+14  Callum Hudson-Odoi (ENG)       MF    # 07 Nov 2000, Wandsworth  -- Chelsea
+16  Nicolás Domínguez (ARG)        MF    # 28 Jun 1998, Haedo  -- Bologna
+20  Giovanni Reyna (USA)           MF    # 13 Nov 2002, Sunderland  -- Borussia Dortmund
+22  Ryan Yates (ENG)               MF    # 21 Nov 1997, Nottingham
+28  Danilo (BRA)                   MF    # 29 Apr 2001, Salvador  -- Palmeiras
+52  Jamie McDonnell (NIR)          MF    # 16 Feb 2004  -- Glentoran
+53  Joe Gardner (ENG)              MF    # 06 Jun 2005, Nottingham
+59  Ben Perry (ENG)                MF    # 11 Oct 2004, Derby
+60  Sam Collins (WAL)              MF    # 16 Sep 2003, Leicester
+66  Jack Nadin (ENG)               MF    # 31 Oct 2004, Chesterfield
+68  Jack Thompson (WAL)            MF    # 05 May 2005, Mansfield
+83  Archie Whitehall (ENG)         MF    # 21 May 2006, Nottingham
+91  Jack Perkins (ENG)             MF    # 26 Oct 2003, Nottingham
+
+ 9  Taiwo Awoniyi (NGA)            FW    # 12 Aug 1997, Ilorin  -- Union Berlin
+11  Chris Wood (NZL)               FW    # 07 Dec 1991, Auckland  -- Newcastle U
+21  Anthony Elanga (SWE)           FW    # 27 Apr 2002, Hyllie  -- Manchester U
+27  Divock Origi (BEL)             FW    # 18 Apr 1995, Ostend  -- Milan
+37  Rodrigo Ribeiro (POR)          FW    # 28 Apr 2005, Viana do Castelo  -- Sporting CP
+48  Ateef Konaté (FRA)             FW    # 04 Apr 2001, Aubervilliers  -- Le Havre
+49  Detlef Esapa Osong (ENG)       FW    # 21 Sep 2004
+69  Manni Norkett (ENG)            FW    # 30 Oct 2004, Nottingham  -- Manchester U
+92  Taeneal Brandy (ENG)           FW   

@@ -1,0 +1,55 @@
+= Fulham Football Club    # Fulham
+
+ 1  Marek Rodák (SVK)              GK    # 13 Dec 1996, Košice  -- MFK Košice
+17  Bernd Leno (GER)               GK    # 04 Mar 1992, Bietigheim-Bissingen  -- Arsenal
+23  Steven Benda (GER)             GK    # 01 Oct 1998, Stuttgart  -- Swansea C
+36  Alex Borto (USA)               GK    # 06 Nov 2003, South Plainfield  -- Cedar Stars Rush
+58  Alfie McNally (ENG)            GK    # 22 Dec 2004, Hillingdon  -- Brentford
+60  Dino Kaiser (ENG)              GK    # -- QPR
+
+ 2  Kenny Tete (NED)               DF    # 09 Oct 1995, Amsterdam  -- Lyon
+ 3  Calvin Bassey (NGA)            DF    # 31 Dec 1999, Aosta  -- Ajax
+ 4  Tosin Adarabioyo (ENG)         DF    # 24 Sep 1997, Manchester  -- Manchester C
+12  Fodé Ballo-Touré (SEN)         DF    # 03 Jan 1997, Conflans-Sainte-Honorine  -- Milan
+13  Tim Ream (USA)                 DF    # 05 Oct 1987, St Louis  -- Bolton W
+21  Timothy Castagne (BEL)         DF    # 05 Dec 1995, Aarlen  -- Leicester C
+31  Issa Diop (FRA)                DF    # 09 Jan 1997, Toulouse  -- West Ham U
+32  Harvey Araujo (ENG)            DF    # 03 Sep 2004  -- Brentford
+33  Antonee Robinson (USA)         DF    # 08 Aug 1997, Milton Keynes  -- Wigan Ath
+39  Stefan Parkes (ENG)            DF    # 28 Mar 2004, Brent
+41  Devan Tanton (COL)             DF    # 03 Jan 2004, San Antonio  -- Cornellà
+44  Luc De Fougerolles (CAN)       DF    # 12 Oct 2005
+48  Sam Amissah (ENG)              DF    # 07 Mar 2007  -- Brentford
+55  Luciano D'Auria-Henry (ENG)    DF    # 11 Nov 2002
+59  Jonathan Esenga (ENG)          DF    # 09 Feb 2007
+68  Bradley Slade (ENG)            DF   
+70  Damon Park (ENG)               DF    # 29 Dec 2005, Manchester  -- Oldham Ath
+
+ 6  Harrison Reed (ENG)            MF    # 27 Jan 1995, Worthing  -- Southampton
+ 8  Harry Wilson (WAL)             MF    # 22 Mar 1997, Wrexham  -- Liverpool
+10  Tom Cairney (SCO)              MF    # 20 Jan 1991, Nottingham  -- Blackburn R
+14  Bobby Reid (JAM)               MF    # 02 Feb 1993, Bristol  -- Cardiff C
+18  Andreas Pereira (BRA)          MF    # 01 Jan 1996, Duffel  -- Manchester U
+20  Willian (BRA)                  MF    # 09 Aug 1988, Ribeirão Pires  -- Corinthians
+22  Alex Iwobi (NGA)               MF    # 03 May 1996, Lagos  -- Everton
+26  João Palhinha (POR)            MF    # 09 Jul 1995, Lisbon  -- Sporting CP
+28  Saša Lukić (SRB)               MF    # 13 Aug 1996, Šabac  -- Torino
+43  Delano McCoy-Splatt (JAM)      MF    # 11 Oct 2004
+45  Georgios Okkas (CYP)           MF    # 24 Oct 2003, Marousi  -- Anorthosis Famagusta
+46  Adrion Pajaziti (ALB)          MF    # 16 Nov 2002, Camden
+49  Matt Dibley-Dias (ENG)         MF    # 29 Oct 2003, Lower Hutt
+57  Kristian Šekularac (SUI)      MF    # 07 Dec 2003, Camden  -- Juventus
+62  Joshua King (ENG)              MF    # 03 Jan 2007
+64  Oliver Gofford (ENG)           MF    # 03 Sep 2005, Windsor
+72  Callum Osmand (WAL)            MF    # 08 Nov 2005
+
+ 7  Raúl Jiménez (MEX)             FW    # 05 May 1991, Tepeji  -- Wolverhampton W
+ 9  Armando Broja (ALB)            FW    # 10 Sep 2001, Slough  -- Chelsea
+11  Adama Traoré (ESP)             FW    # 25 Jan 1996, L'Hospitalet de Llobregat  -- Wolverhampton W
+19  Rodrigo Muniz (BRA)            FW    # 04 May 2001, São Domingos do Prata  -- Flamengo
+52  Callum McFarlane (ENG)         FW    # 08 Sep 2003
+53  Lemar Gordon (ENG)             FW    # 17 Nov 2005, Ealing
+61  Tom Olyott (ENG)               FW    # 21 Jan 2006, Liverpool  -- Manchester C
+63  Terrell Works (ENG)            FW    # 26 Dec 2004, Wandsworth
+69  Brad de Jesus (POR)            FW    # 14 Jan 2006
+71  Aaron Loupalo-Bi (ENG)         FW    # 07 Nov 2005, Lambeth

@@ -1,0 +1,63 @@
+= West Ham United Football Club    # West Ham United
+
+ 1  Łukasz Fabiański (POL)         GK    # 18 Apr 1985, Kostrzyn nad Odrą  -- Swansea C
+23  Alphonse Areola (FRA)          GK    # 27 Feb 1993, Paris  -- Paris St-Germain
+46  Mason Terry (ENG)              GK    # 20 Sep 2004, Southend-on-Sea
+49  Joseph Anang (ENG)             GK    # 08 Jun 2000  -- Wa All Stars
+55  Jacob Knightbridge (ENG)       GK    # 25 Jan 2004, Romford
+67  Finlay Herrick (ENG)           GK    # 09 Jan 2006, Hatfield
+79  Dondre Abraham (ENG)           GK    # 24 May 2006, Enfield
+
+ 2  Ben Johnson (ENG)              DF    # 24 Jan 2000, Waltham Forest
+ 3  Aaron Cresswell (ENG)          DF    # 15 Dec 1989, Liverpool  -- Ipswich T
+ 4  Kurt Zouma (FRA)               DF    # 27 Oct 1994, Lyon  -- Chelsea
+ 5  Vladimír Coufal (CZE)          DF    # 22 Aug 1992, Ludgeřovice  -- Slavia Prague
+15  Konstantinos Mavropanos (GRE)   DF    # 11 Dec 1997, Athens  -- Stuttgart
+19  Edson Álvarez (MEX)            DF    # 24 Oct 1997, Tlalnepantla de Baz  -- Ajax
+21  Angelo Ogbonna (ITA)           DF    # 23 May 1988, Cassino  -- Juventus
+27  Nayef Aguerd (MAR)             DF    # 30 Mar 1996, Kenitra  -- Rennes
+33  Emerson Palmieri (ITA)         DF    # 03 Aug 1994, Santos  -- Chelsea
+37  Luizão (BRA)                   DF    # 08 Mar 2002, São Paulo  -- São Paulo
+42  Kaelan Casey (ENG)             DF    # 28 Oct 2004, Brentwood
+43  Regan Clayton (ENG)            DF    # 11 Nov 2004, Havering
+44  Junior Robinson (ENG)          DF    # 06 Apr 2004, Bethnal Green
+48  Sean Tarima (ENG)              DF    # 12 Sep 2004, Newham
+53  Levi Laing (ENG)               DF    # 12 Apr 2003, Kingston upon Thames  -- Arsenal
+57  Oliver Scarles (ENG)           DF    # 12 Dec 2005, Bromley
+64  Ryan Battrum (ENG)             DF    # 08 Sep 2005, Havering
+65  Michael Forbes (NIR)           DF    # 29 Apr 2004  -- Dungannon Swifts
+71  Ezra Mayers (ENG)              DF   
+75  Emeka Adiele (ENG)             DF   
+76  Jethro Medine (ENG)            DF   
+77  Rayan Oyebade (ENG)            DF    # 30 Apr 2007
+84  Josh Briggs (NIR)              DF    # 14 Mar 2006, Belfast  -- Linfield
+
+ 7  James Ward-Prowse (ENG)        MF    # 01 Nov 1994, Southampton  -- Southampton
+10  Lucas Paquetá (BRA)            MF    # 27 Aug 1997, Rio de Janeiro  -- Lyon
+11  Kalvin Phillips (ENG)          MF    # 02 Dec 1995, Leeds  -- Manchester C
+14  Mohammed Kudus (GHA)           MF    # 02 Aug 2000, Accra  -- Ajax
+17  Maxwel Cornet (CIV)            MF    # 27 Sep 1996, Bregbo  -- Burnley
+28  Tomáš Souček (CZE)             MF    # 27 Feb 1995, Havlíčkův Brod  -- Slavia Prague
+40  George Earthy (ENG)            MF    # 05 Sep 2004, Havering
+54  Patrick Kelly (NIR)            MF    # 02 Oct 2004, Portstewart  -- Coleraine
+58  Kamarai Simon-Swyer (ENG)      MF    # 04 Dec 2002, Redbridge
+61  Lewis Orford (ENG)             MF    # 18 Feb 2006, Havering
+66  Daniel Rigge (ENG)             MF    # 25 Mar 2006, Stockport  -- Manchester C
+69  Tyron Akpata (ENG)             MF    # 12 Aug 2006, Havering
+72  Gabriel Caliste (ENG)          MF    # 18 Nov 2006, Redbridge
+74  Preston Fearon (ENG)           MF    # 16 Jan 2007
+78  Elisha Sowunmi (ENG)           MF   
+80  Riley Hargan (ENG)             MF   
+81  Liam Jones (ENG)               MF    # 12 Sep 2005
+83  Seb Boothe (ENG)               MF    # 17 Jul 2006, Bedford
+
+ 9  Michail Antonio (JAM)          FW    # 28 Mar 1990, Wandsworth  -- Nottingham F
+18  Danny Ings (ENG)               FW    # 16 Mar 1992, Winchester  -- Aston Villa
+20  Jarrod Bowen (ENG)             FW    # 20 Dec 1996, Leominster  -- Hull C
+36  Sean Moore (IRL)               FW    # 13 Aug 2005  -- Cliftonville
+45  Divin Mubama (ENG)             FW    # 25 Oct 2004, Newham
+68  Favour Fawunmi (ENG)           FW    # 26 Apr 2006, Newham
+70  Blaise Uwandji (ENG)           FW    # 05 Oct 2005
+82  Jemiah Umolu (ENG)             FW    # 28 Oct 2005, Westminster
+85  Mehmet Halim (ENG)             FW   
+86  Joshua Ajala (ENG)             FW    # 13 Nov 2006, Redbridge  -- Chelsea

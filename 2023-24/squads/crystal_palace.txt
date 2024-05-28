@@ -1,0 +1,52 @@
+= Crystal Palace Football Club    # Crystal Palace
+
+ 1  Sam Johnstone (ENG)            GK    # 25 Mar 1993, Preston  -- WBA
+30  Dean Henderson (ENG)           GK    # 12 Mar 1997, Whitehaven  -- Manchester U
+31  Remi Matthews (ENG)            GK    # 10 Feb 1994, Gorleston  -- Sunderland
+41  Joseph Whitworth (ENG)         GK    # 29 Feb 2004, Sutton
+74  Billy Eastwood (ENG)           GK   
+
+ 2  Joel Ward (ENG)                DF    # 29 Oct 1989, Emsworth  -- Portsmouth
+ 3  Tyrick Mitchell (ENG)          DF    # 01 Sep 1999, Brent  -- Brentford
+ 4  Rob Holding (ENG)              DF    # 09 Nov 1994, Bolton  -- Arsenal
+ 5  James Tomkins (ENG)            DF    # 29 Mar 1989, Basildon  -- West Ham U
+ 6  Marc Guéhi (ENG)               DF    # 13 Jul 2000, Abidjan  -- Chelsea
+12  Daniel Muñoz (COL)             DF    # 26 May 1996, Amalfi  -- KRC Genk
+15  Jeffrey Schlupp (GHA)          DF    # 23 Dec 1992, Hamburg  -- Leicester C
+16  Joachim Andersen (DEN)         DF    # 31 May 1996, Frederiksberg  -- Lyon
+17  Nathaniel Clyne (ENG)          DF    # 05 Apr 1991, Stockwell  -- Liverpool
+26  Chris Richards (USA)           DF    # 28 Mar 2000, Birmingham, AL  -- Bayern Munich
+36  Nathan Ferguson (ENG)          DF    # 06 Oct 2000, Birmingham  -- WBA
+42  Seán Grehan (IRL)              DF    # 08 Jan 2004  -- Bohemians
+46  Danny Imray (ENG)              DF    # 27 Jul 2003, Harold Wood  -- Chelmsford C
+50  Joe Sheridan (ENG)             DF    # 10 Dec 2003
+65  Chris Francis (ENG)            DF    # 15 Nov 2002  -- Bournemouth
+
+ 7  Michael Olise (FRA)            MF    # 12 Dec 2001  -- Reading
+ 8  Jefferson Lerma (COL)          MF    # 25 Oct 1994, El Cerrito  -- Bournemouth
+10  Eberechi Eze (ENG)             MF    # 29 Jun 1998, Greenwich  -- QPR
+11  Matheus França (BRA)           MF    # 01 Apr 2004, Rio de Janeiro  -- Flamengo
+19  Will Hughes (ENG)              MF    # 17 Apr 1995, Weybridge  -- Watford
+20  Adam Wharton (ENG)             MF    # 06 Feb 2004, Blackburn  -- Blackburn R
+28  Cheick Doucouré (MLI)          MF    # 08 Jan 2000, Bamako  -- Lens
+29  Naouirou Ahamada (FRA)         MF    # 29 Mar 2002, Marseille  -- Stuttgart
+40  Jack Wells-Morrison (ENG)      MF    # 18 Feb 2004, Wandsworth
+44  Jaïro Riedewald (NED)          MF    # 09 Sep 1996, Amsterdam  -- Ajax
+49  Jesuran Rak-Sakyi (ENG)        MF    # 05 Oct 2002, Southwark  -- Brighton & HA
+51  Kaden Rodney (ENG)             MF    # 07 Oct 2004, Lambeth
+52  David Ozoh (ENG)               MF    # 06 May 2005
+54  Dylan Reid (SCO)               MF    # 01 Mar 2005, Kilbirnie  -- St Mirren
+60  Jadan Raymond (WAL)            MF    # 15 Oct 2003, Croydon
+61  Roshaun Mathurin (ENG)         MF    # 23 Jan 2004, Leytonstone  -- Tottenham H
+63  Justin Devenny (SCO)           MF    # 11 Oct 2003  -- Airdrieonians
+78  Rio Cardines (TRI)             MF    # 01 Jul 2006
+79  Hindolo Mustapha (ENG)         MF    # 29 Jul 2006, Lambeth
+87  Matteo Dashi (ENG)             MF    # 22 Jan 2007
+
+ 9  Jordan Ayew (GHA)              FW    # 11 Sep 1991, Marseille  -- Swansea C
+14  Jean-Philippe Mateta (FRA)     FW    # 28 Jun 1997, Clamart  -- Mainz
+22  Odsonne Édouard (FRA)          FW    # 16 Jan 1998, Kourou  -- Celtic
+43  Victor Akinwale (ENG)          FW    # 06 Aug 2004, Greenwich
+55  Franco Umeh-Chibueze (IRL)     FW    # 26 Jan 2005  -- Cork C
+67  Chimaechi Eze (ENG)            FW    # -- QPR
+71  Zach Marsh (ENG)               FW    # 06 Oct 2005, Luton  -- Watford

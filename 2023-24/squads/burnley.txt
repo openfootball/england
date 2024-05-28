@@ -1,0 +1,35 @@
+= Burnley Football Club    # Burnley
+
+ 1  James Trafford (ENG)           GK    # 10 Oct 2002, Carlisle  -- Manchester C
+29  Lawrence Vigouroux (CHI)       GK    # 19 Nov 1993, Camden Town  -- Leyton Orient
+49  Arijanet Murić (KVX)           GK    # 07 Nov 1998, Zürich  -- Manchester C
+
+ 2  Dara O'Shea (IRL)              DF    # 04 Mar 1999, Dublin  -- WBA
+ 3  Charlie Taylor (ENG)           DF    # 18 Sep 1993, York  -- Leeds U
+ 5  Jordan Beyer (GER)             DF    # 19 May 2000, Kempen  -- B Mönchengladbach
+18  Hjalmar Ekdal (SWE)            DF    # 21 Oct 1998, Stockholm  -- Djurgårdens IF
+20  Lorenz Assignon (FRA)          DF    # 22 Jun 2000, Grasse  -- Rennes
+22  Vitinho (BRA)                  DF    # 23 Jul 1999, Belo Horizonte  -- Cercle Brugge
+28  Ameen Al-Dakhil (BEL)          DF    # 06 Mar 2002, Baghdad  -- Sint-Truiden
+33  Maxime Estève (FRA)            DF    # 26 May 2002, Montpellier  -- Montpellier
+44  Hannes Delcroix (BEL)          DF    # 28 Feb 1999, Grande Hatte  -- Anderlecht
+
+ 4  Jack Cork (ENG)                MF    # 25 Jun 1989, Carshalton  -- Swansea C
+ 7  Jóhann Guðmundsson (ISL)       MF    # 27 Oct 1990, Reykjavík  -- Charlton Ath
+ 8  Josh Brownhill (ENG)           MF    # 19 Dec 1995, Warrington  -- Bristol C
+15  Nathan Redmond (ENG)           MF    # 06 Mar 1994, Birmingham  -- Beşiktaş
+16  Sander Berge (NOR)             MF    # 18 Feb 1998, Bærum  -- Sheffield U
+21  Aaron Ramsey (ENG)             MF    # 21 Jan 2003, Birmingham  -- Aston Villa
+24  Josh Cullen (IRL)              MF    # 07 Apr 1996, Southend-on-Sea  -- Anderlecht
+30  Luca Koleosho (USA)            MF    # 15 Sep 2004, Norwalk  -- Espanyol B
+31  Mike Trésor Ndayishimiye (NED)   MF    # 28 May 1999, Lembeek  -- KRC Genk
+42  Han-Noah Massengo (FRA)        MF    # 07 Jul 2001, Villepinte  -- Bristol C
+
+ 9  Jay Rodriguez (ENG)            FW    # 29 Jul 1989, Burnley  -- WBA
+10  Manuel Benson (BEL)            FW    # 28 Mar 1997, Lokeren  -- Royal Antwerp
+17  Lyle Foster (RSA)              FW    # 03 Sep 2000, Soweto  -- KVC Westerlo
+23  Datro Fofana (CIV)             FW    # 22 Dec 2002, Ouragahio  -- Chelsea
+25  Zeki Amdouni (SUI)             FW    # 04 Dec 2000, Geneva  -- Basel
+34  Jacob Bruun Larsen (DEN)       FW    # 19 Sep 1998, Lyngby  -- 1899 Hoffenheim
+47  Wilson Odobert (FRA)           FW    # 28 Nov 2004, Meaux  -- Troyes
+48  Enock Agyei (BEL)              FW    # 13 Jan 2005  -- Anderlecht

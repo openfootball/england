@@ -1,0 +1,55 @@
+= Manchester City Football Club    # Manchester City
+
+18  Stefan Ortega (GER)            GK    # 06 Nov 1992, Hofgeismar  -- Arminia Bielefeld
+31  Ederson (BRA)                  GK    # 17 Aug 1993, Osasco  -- Benfica
+33  Scott Carson (ENG)             GK    # 03 Sep 1985, Whitehaven  -- Derby Co
+83  George Murray-Jones (ENG)      GK    # 27 Oct 2004, Waltham Forest  -- Southend U
+88  True Grant (ENG)               GK    # 02 Nov 2005, Manchester  -- Derby Co
+
+ 2  Kyle Walker (ENG)              DF    # 28 May 1990, Sheffield  -- Tottenham H
+ 3  Rúben Dias (POR)               DF    # 14 May 1997, Amadora  -- Benfica
+ 5  John Stones (ENG)              DF    # 28 May 1994, Barnsley  -- Everton
+ 6  Nathan Aké (NED)               DF    # 18 Feb 1995, Den Haag  -- Bournemouth
+24  Joško Gvardiol (CRO)           DF    # 23 Jan 2002, Zagreb  -- RB Leipzig
+25  Manuel Akanji (SUI)            DF    # 19 Jul 1995, Winterthur  -- Borussia Dortmund
+51  Isaac Smith (ENG)              DF    # 26 Jul 2005, Liverpool
+53  Ezra Carrington (ENG)          DF    # 16 Dec 2005, Manchester
+54  Sebastian Naylor (ENG)         DF    # 10 Sep 2005, Manchester
+66  Jahmai Simpson-Pusey (ENG)     DF    # 04 Nov 2005, Manchester
+68  Max Alleyne (ENG)              DF    # 21 Jul 2005, Bristol  -- Southampton
+74  Tomas Galvez (FIN)             DF    # 28 Jan 2005, Watford  -- Watford
+82  Rico Lewis (ENG)               DF    # 21 Nov 2004, Manchester
+89  Matty Henderson-Hall (ENG)     DF    # 08 Dec 2006, Bradford
+90  Kian Noble (ENG)               DF    # 26 Feb 2007
+95  Lakyle Samuel (ENG)            DF    # 06 May 2006, Manchester
+
+ 8  Mateo Kovačić (CRO)            MF    # 06 May 1994, Linz  -- Chelsea
+10  Jack Grealish (ENG)            MF    # 10 Sep 1995, Birmingham  -- Aston Villa
+16  Rodri (ESP)                    MF    # 22 Jun 1996, Madrid  -- Atlético Madrid
+17  Kevin De Bruyne (BEL)          MF    # 28 Jun 1991, Drongen  -- Wolfsburg
+20  Bernardo Silva (POR)           MF    # 10 Aug 1994, Lisbon  -- Monaco
+21  Sergio Gómez (ESP)             MF    # 04 Sep 2000, Badalona  -- Anderlecht
+27  Matheus Nunes (POR)            MF    # 27 Aug 1998, Rio de Janeiro  -- Wolverhampton W
+47  Phil Foden (ENG)               MF    # 28 May 2000, Stockport
+50  Kian Breckin (ENG)             MF    # 10 Dec 2003, Manchester
+52  Oscar Bobb (NOR)               MF    # 12 Jul 2003, Oslo  -- Vålerenga
+56  Jacob Wright (ENG)             MF    # 21 Sep 2005, Manchester
+57  Michael Okeke (ENG)            MF    # 16 Oct 2005, Manchester
+61  Josh Adam (SCO)                MF    # 03 Feb 2004, Glasgow  -- Celtic
+64  Isaiah Dada-Mascoll (ENG)      MF    # 24 May 2006, Manchester
+67  Kane Taylor (ENG)              MF    # 14 Feb 2005, Birmingham  -- Aston Villa
+75  Nico O'Reilly (ENG)            MF    # 21 Mar 2005, Manchester
+76  Mahamadou Susoho (ESP)         MF    # 20 Jan 2005, Granollers
+92  Micah Hamlton (ENG)            MF    # 13 Nov 2003, Manchester
+
+ 9  Erling Håland (NOR)            FW    # 21 Jul 2000, Leeds  -- Borussia Dortmund
+11  Jérémy Doku (BEL)              FW    # 27 May 2002, Borgerhout  -- Rennes
+19  Julián Álvarez (ARG)           FW    # 31 Jan 2000, Calchín  -- River Plate
+60  Tai Sodje (ENG)                FW    # 20 Sep 2003, Sheffield
+65  Will Dickson (ENG)             FW    # 25 Nov 2004, Liverpool
+73  Joel Ndala (ENG)               FW    # 31 May 2006, Manchester
+77  Justin Oboavwoduo (ENG)        FW    # 23 Aug 2006, Manchester
+81  Jaden Heskey (ENG)             FW    # 17 Dec 2005, Manchester
+85  Farid Alfa-Ruprecht (GER)      FW    # 28 Mar 2006, Hamburg  -- Hamburg
+98  Matty Warhurst (ENG)           FW    # 25 Sep 2006, Stalybridge
+99  Emilio Lawrence (ENG)          FW    # 20 Sep 2005, Manchester  -- Everton

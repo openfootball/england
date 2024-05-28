@@ -1,0 +1,60 @@
+= Wolverhampton Wanderers Football Club    # Wolverhampton Wanderers
+
+ 1  José Sá (POR)                  GK    # 17 Jan 1993, Braga  -- Olympiakos
+25  Daniel Bentley (ENG)           GK    # 13 Jul 1993, Basildon  -- Bristol C
+40  Tom King (ENG)                 GK    # 09 Mar 1995, Plymouth  -- Northampton T
+48  James Storer (IRL)             GK    # 05 Nov 2001, Buxton
+56  Joe Young (ENG)                GK    # 22 Sep 2002, Telford
+64  Lewys Benjamin (WAL)           GK    # 13 Sep 2006, Manchester  -- Cardiff C
+
+ 2  Matt Doherty (IRL)             DF    # 16 Jan 1992, Dublin  -- Atlético Madrid
+ 3  Rayan Aït-Nouri (ALG)          DF    # 06 Jun 2001, Montreuil  -- Angers
+ 4  Santiago Bueno (URU)           DF    # 09 Nov 1998, Montevideo  -- Girona
+15  Craig Dawson (ENG)             DF    # 06 May 1990, Rochdale  -- West Ham U
+17  Hugo Bueno (ESP)               DF    # 18 Sep 2002, Vigo  -- Areosa
+22  Nélson Semedo (POR)            DF    # 16 Nov 1993, Lisbon  -- Barcelona
+23  Max Kilman (ENG)               DF    # 23 May 1997, Chelsea  -- Maidenhead U
+24  Toti Gomes (POR)               DF    # 16 Jan 1999, Bissau  -- Estoril
+46  Alfie Pond (ENG)               DF    # 17 Feb 2004, Exeter  -- Exeter C
+49  Marvin Kaleta (ENG)            DF    # 14 Sep 2004, Manchester
+51  Kam Kandola (ENG)              DF    # 03 Jan 2004, Wolverhampton
+53  Aaron Keto-Diyawa (ENG)        DF    # 11 Sep 2003  -- Fulham
+61  Wesley Okoduwa (ENG)           DF   
+69  Testimony Igbinoghene (ENG)    DF    # -- Manchester C
+70  Mo Diomande (ENG)              DF   
+71  Hayden Carson (ENG)            DF    # 19 Feb 2006, Whitehaven
+76  Caden Voice (ENG)              DF    # 14 Sep 2006, Walsall
+
+ 5  Mario Lemina (GAB)             MF    # 01 Sep 1993, Libreville  -- Nice
+ 6  Boubacar Traoré (MLI)          MF    # 20 Aug 2001, Bamako  -- Metz
+ 8  João Gomes (BRA)               MF    # 12 Feb 2001, Rio de Janeiro  -- Flamengo
+14  Noha Lemina (FRA)              MF    # 17 Jun 2005, Libreville  -- Paris St-Germain
+20  Tommy Doyle (ENG)              MF    # 17 Oct 2001, Manchester  -- Manchester C
+21  Pablo Sarabia (ESP)            MF    # 11 May 1992, Madrid  -- Paris St-Germain
+27  Jean-Ricner Bellegarde (FRA)   MF    # 27 Jun 1998, Colombe  -- Strasbourg
+41  Josh Esen (WAL)                MF    # 24 Nov 2004, Swansea  -- Llanelli T
+42  Harvey Griffiths (ENG)         MF    # 22 Sep 2003, Oldham  -- Manchester C
+45  Ty Barnett (ENG)               MF    # 19 Jul 2005, Birmingham
+50  Mason Rees (ENG)               MF    # 06 Nov 2005, Solihull
+57  Temple Ojinnaka (ITA)          MF    # 30 Mar 2005, Venice
+62  Tawanda Chirewa (ENG)          MF    # 11 Oct 2003
+65  Matthew Whittingham (ENG)      MF    # 21 Oct 2004, St Helens  -- Manchester C
+72  Fin Ashworth (WAL)             MF    # 18 Sep 2005, Wolverhampton
+74  Thomas Edozie (ENG)            MF   
+75  Dom Plank (ENG)                MF   
+81  Makenzie Bradbury (ENG)        MF   
+82  Conor McLeod (ENG)             MF    # 15 Dec 2006, Birmingham
+
+ 7  Pedro Neto (POR)               FW    # 09 Mar 2000, Viana do Castelo  -- Lazio
+11  Hwang Hee-Chan (KOR)           FW    # 26 Jan 1996, Chuncheon  -- RB Leipzig
+12  Matheus Cunha (BRA)            FW    # 27 May 1999, João Pessoa  -- Atlético Madrid
+30  Enso González (PAR)            FW    # 20 Jan 2005, Asunción  -- Libertad
+37  Fletcher Holman (ENG)          FW    # 12 Oct 2004, Eastbourne  -- Eastbourne Boro
+47  Owen Farmer (ENG)              FW    # 06 Sep 2004, Solihull
+63  Nathan Fraser (IRL)            FW    # 01 Jul 2005, Wolverhampton
+66  Ethan McLeod (ENG)             FW    # 01 Apr 2004, Birmingham
+68  Leo Lopes (POR)                FW    # 05 Nov 2004  -- Grasshoppers
+73  Fabian Reynolds (ENG)          FW    # 06 Apr 2006
+77  Fraser Harper (ENG)            FW   
+78  Emilio Ballard-Matthews (ENG)   FW    # 30 Nov 2007  -- Watford
+84  Leon Chiwome (ENG)             FW    # 10 Jan 2006, Brighton  -- AFC Wimbledon

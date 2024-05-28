@@ -1,0 +1,41 @@
+= Brentford Football Club    # Brentford
+
+ 1  Mark Flekken (NED)             GK    # 13 Jun 1993, Kerkrade  -- Freiburg
+21  Thomas Strakosha (ALB)         GK    # 19 Mar 1995, Athens  -- Lazio
+31  Hákon Rafn Valdimarsson (ISL)   GK    # 13 Oct 2001  -- IF Elfsborg
+40  Ellery Balcombe (ENG)          GK    # 15 Oct 1999, Watford
+41  Vincent Angelini (SCO)         GK    # 12 Sep 2003, Glasgow  -- Watford
+
+ 2  Aaron Hickey (SCO)             DF    # 10 Jun 2002, Glasgow  -- Bologna
+ 3  Rico Henry (ENG)               DF    # 08 Jul 1997, Birmingham  -- Walsall
+ 5  Ethan Pinnock (JAM)            DF    # 29 May 1993, Lambeth  -- Barnsley
+12  Sergio Reguilón (ESP)          DF    # 16 Dec 1996, Madrid  -- Tottenham H
+13  Mathias Zanka Jørgensen (DEN)   DF    # 23 Apr 1990, Copenhagen  -- Fenerbahçe
+16  Ben Mee (ENG)                  DF    # 23 Sep 1989, Sale  -- Burnley
+20  Kristoffer Ajer (NOR)          DF    # 17 Apr 1998, Rælingen  -- Start
+22  Nathan Collins (IRL)           DF    # 30 Apr 2001, Leixlip  -- Wolverhampton W
+30  Mads Roerslev (DEN)            DF    # 24 Jun 1999, Copenhagen  -- FC København
+36  Kim Ji-Soo (KOR)               DF    # 24 Dec 2004, Bucheon  -- Seongnam
+43  Benjamin Fredrick (NGA)        DF    # 28 May 2005  -- Simoiben
+50  Benjamin Arthur (ENG)          DF    # 09 Oct 2005  -- Peterborough U
+
+ 6  Christian Nørgaard (DEN)       MF    # 10 Mar 1994, Copenhagen  -- Fiorentina
+ 8  Mathias Jensen (DEN)           MF    # 01 Jan 1996, Horsens  -- Celta Vigo
+10  Josh Dasilva (ENG)             MF    # 23 Oct 1998, Redbridge  -- Arsenal
+15  Frank Onyeka (NGA)             MF    # 01 Jan 1998, Abuja  -- FC Midtjylland
+19  Bryan Mbeumo (CMR)             MF    # 07 Aug 1999, Avallon  -- Troyes
+24  Mikkel Damsgaard (DEN)         MF    # 03 Jul 2000, Roskilde  -- Sampdoria
+26  Shandon Baptiste (GRN)         MF    # 08 Apr 1998  -- Oxford U
+27  Vitaly Janelt (GER)            MF    # 10 May 1998, Hamburg  -- Bochum
+32  Ryan Trevitt (ENG)             MF    # 12 Mar 2003  -- Leatherhead
+33  Yehor Yarmolyuk (UKR)          MF    # 01 Mar 2004, Verkhnodniprovsk  -- Dnipro-1
+38  Ethan Brierley (ENG)           MF    # 23 Nov 2003, Rochdale  -- Rochdale
+52  Yunus Emre Konak (TUR)         MF    # 10 Jan 2006, Batman  -- Sivasspor
+
+ 7  Neal Maupay (FRA)              FW    # 14 Aug 1996, Versailles  -- Everton
+ 9  Kevin Schade (GER)             FW    # 27 Nov 2001, Potsdam  -- Freiburg
+11  Yoane Wissa (COD)              FW    # 03 Sep 1996, Villeneuve-Saint-Georges  -- Lorient
+14  Saman Ghoddos (IRN)            FW    # 06 Sep 1993, Malmö  -- Amiens
+17  Ivan Toney (ENG)               FW    # 16 Mar 1996, Northampton  -- Peterborough U
+23  Keane Lewis-Potter (ENG)       FW    # 22 Feb 2001, Kingston upon Hull  -- Hull C
+42  Val Adedokun (IRL)             FW    # 14 Feb 2003, Dublin  -- Dundalk
