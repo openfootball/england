@@ -1,53 +1,53 @@
-= Tottenham Hotspur Football Club    # Tottenham Hotspur
+=  Tottenham Hotspur FC - English Premier League 2023/24
 
-13  Guglielmo Vicario (ITA)        GK    # 07 Oct 1996, Udine  -- Empoli
-20  Fraser Forster (ENG)           GK    # 17 Mar 1988, Hexham  -- Southampton
-40  Brandon Austin (USA)           GK    # 08 Jan 1999, Hemel Hempstead
-41  Alfie Whiteman (ENG)           GK    # 02 Oct 1998, Tottenham
-46  Luca Gunter (ENG)              GK    # 23 Mar 2005, Enfield
-61  Aaron Maguire (IRL)            GK    # 25 Jul 2004, Leytonstone
+ 13,  Guglielmo Vicario (ITA),           GK,   b. 1996,   Empoli
+ 20,  Fraser Forster,                    GK,   b. 1988,   Southampton
+ 40,  Brandon Austin (USA),              GK,   b. 1999,
+ 41,  Alfie Whiteman,                    GK,   b. 1998,
+ 46,  Luca Gunter,                       GK,   b. 2005,
+ 61,  Aaron Maguire (IRL),               GK,   b. 2004,
 
- 6  Radu Drăgușin (ROU)            DF    # 03 Feb 2002, Bucharest  -- Genoa
-12  Emerson (BRA)                  DF    # 14 Jan 1999, São Paulo  -- Barcelona
-17  Cristian Romero (ARG)          DF    # 27 Apr 1998, Córdoba  -- Atalanta
-23  Pedro Porro (ESP)              DF    # 13 Sep 1999, Don Benito  -- Sporting CP
-33  Ben Davies (WAL)               DF    # 24 Apr 1993, Neath  -- Swansea C
-37  Micky van de Ven (NED)         DF    # 19 Apr 2001, Wormer  -- Wolfsburg
-38  Destiny Udogie (ITA)           DF    # 28 Nov 2002, Verona  -- Udinese
-56  Charlie Sayers (ENG)           DF    # 29 Mar 2004  -- Southend U
-60  Tyrell Ashcroft (ENG)          DF    # 07 Mar 2002  -- Reading
-65  Alfie Dorrington (ENG)         DF    # 20 Apr 2005, Enfield
-67  Maxwell McKnight (ENG)         DF    # 03 Oct 2004, Colchester
-72  William Andiyapan (WAL)        DF    # 25 Mar 2005, Watford  -- Arsenal
-76  Leo Black (ENG)                DF    # 09 Feb 2006, Hackney
+  6,  Radu Drăgușin (ROU),               DF,   b. 2002,   Genoa
+ 12,  Emerson (BRA),                     DF,   b. 1999,   Barcelona
+ 17,  Cristian Romero (ARG),             DF,   b. 1998,   Atalanta
+ 23,  Pedro Porro (ESP),                 DF,   b. 1999,   Sporting CP
+ 33,  Ben Davies (WAL),                  DF,   b. 1993,   Swansea C
+ 37,  Micky van de Ven (NED),            DF,   b. 2001,   Wolfsburg
+ 38,  Destiny Udogie (ITA),              DF,   b. 2002,   Udinese
+ 56,  Charlie Sayers,                    DF,   b. 2004,   Southend U
+ 60,  Tyrell Ashcroft,                   DF,   b. 2002,   Reading
+ 65,  Alfie Dorrington,                  DF,   b. 2005,
+ 67,  Maxwell McKnight,                  DF,   b. 2004,
+ 72,  William Andiyapan (WAL),           DF,   b. 2005,   Arsenal
+ 76,  Leo Black,                         DF,   b. 2006,
 
- 4  Oliver Skipp (ENG)             MF    # 16 Sep 2000, Hatfield
- 5  Pierre-Emile Højbjerg (DEN)    MF    # 05 Aug 1995, Copenhagen  -- Southampton
- 8  Yves Bissouma (MLI)            MF    # 30 Aug 1996, Issia  -- Brighton & HA
-10  James Maddison (ENG)           MF    # 23 Nov 1996, Coventry  -- Leicester C
-11  Bryan Gil (ESP)                MF    # 11 Feb 2001, Barbate  -- Sevilla B
-18  Giovani Lo Celso (ARG)         MF    # 09 Apr 1996, Rosario  -- Betis
-19  Ryan Sessegnon (ENG)           MF    # 18 May 2000, Roehampton  -- Fulham
-21  Dejan Kulusevski (SWE)         MF    # 25 Apr 2000, Stockholm  -- Juventus
-22  Brennan Johnson (WAL)          MF    # 23 May 2001, Nottingham  -- Nottingham F
-27  Manor Solomon (ISR)            MF    # 24 Jul 1999, Kfar Saba  -- Shakhtar Donetsk
-29  Pape Matar Sarr (SEN)          MF    # 14 Sep 2002, Thiaroye  -- Metz
-30  Rodrigo Bentancur (URU)        MF    # 25 Jun 1997, Nueva Helvecia  -- Juventus
-43  Nile John (ENG)                MF    # 06 Mar 2003, White City
-55  George Abbott (ENG)            MF    # 17 Aug 2005, Islington
-57  Max Robson (ENG)               MF    # 17 Oct 2002, Haywards Heath
-58  Yago Santiago (ESP)            MF    # 15 Apr 2003, Vigo  -- Celta Vigo
-66  Rio Kyerematen (ENG)           MF    # 09 Jun 2005, Westminster
-68  Dante Cassanova (JAM)          MF    # 21 Jun 2004
-73  Tyrese Hall (ENG)              MF    # 04 Sep 2005, Camden
-74  Damola Ajayi (ENG)             MF    # 27 Dec 2005, Lambeth
+  4,  Oliver Skipp,                      MF,   b. 2000,
+  5,  Pierre-Emile Højbjerg (DEN),       MF,   b. 1995,   Southampton
+  8,  Yves Bissouma (MLI),               MF,   b. 1996,   Brighton & HA
+ 10,  James Maddison,                    MF,   b. 1996,   Leicester C
+ 11,  Bryan Gil (ESP),                   MF,   b. 2001,   Sevilla B
+ 18,  Giovani Lo Celso (ARG),            MF,   b. 1996,   Betis
+ 19,  Ryan Sessegnon,                    MF,   b. 2000,   Fulham
+ 21,  Dejan Kulusevski (SWE),            MF,   b. 2000,   Juventus
+ 22,  Brennan Johnson (WAL),             MF,   b. 2001,   Nottingham F
+ 27,  Manor Solomon (ISR),               MF,   b. 1999,   Shakhtar Donetsk
+ 29,  Pape Matar Sarr (SEN),             MF,   b. 2002,   Metz
+ 30,  Rodrigo Bentancur (URU),           MF,   b. 1997,   Juventus
+ 43,  Nile John,                         MF,   b. 2003,
+ 55,  George Abbott,                     MF,   b. 2005,
+ 57,  Max Robson,                        MF,   b. 2002,
+ 58,  Yago Santiago (ESP),               MF,   b. 2003,   Celta Vigo
+ 66,  Rio Kyerematen,                    MF,   b. 2005,
+ 68,  Dante Cassanova (JAM),             MF,   b. 2004,
+ 73,  Tyrese Hall,                       MF,   b. 2005,
+ 74,  Damola Ajayi,                      MF,   b. 2005,
 
- 7  Son Heung-Min (KOR)            FW    # 08 Jul 1992, Chuncheon  -- Bayer Leverkusen
- 9  Richarlison (BRA)              FW    # 10 May 1997, Nova Venécia  -- Everton
-16  Timo Werner (GER)              FW    # 06 Mar 1996, Stuttgart  -- RB Leipzig
-44  Dane Scarlett (ENG)            FW    # 24 Mar 2004, Hillingdon
-52  Jude Soonsup-Bell (ENG)        FW    # 10 Jan 2004, Chippenham  -- Chelsea
-59  Mikey Moore (ENG)              FW    # 11 Aug 2007, Southwark
-62  Will Lankshear (ENG)           FW    # 20 Apr 2005, Hatfield  -- Sheffield U
-63  Jamie Donley (NIR)             FW    # 03 Jan 2005, Antrim
-70  Jaden Williams (ENG)           FW    # 06 Sep 2004, Harrow
+  7,  Son Heung-Min (KOR),               FW,   b. 1992,   Bayer Leverkusen
+  9,  Richarlison (BRA),                 FW,   b. 1997,   Everton
+ 16,  Timo Werner (GER),                 FW,   b. 1996,   RB Leipzig
+ 44,  Dane Scarlett,                     FW,   b. 2004,
+ 52,  Jude Soonsup-Bell,                 FW,   b. 2004,   Chelsea
+ 59,  Mikey Moore,                       FW,   b. 2007,
+ 62,  Will Lankshear,                    FW,   b. 2005,   Sheffield U
+ 63,  Jamie Donley (NIR),                FW,   b. 2005,
+ 70,  Jaden Williams,                    FW,   b. 2004,

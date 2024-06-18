@@ -1,67 +1,67 @@
-= Brighton & Hove Albion Football Club    # Brighton & Hove Albion
+=  Brighton & Hove Albion FC - English Premier League 2023/24
 
- 1  Bart Verbruggen (NED)          GK    # 18 Aug 2002, Breda  -- Anderlecht
-23  Jason Steele (ENG)             GK    # 18 Aug 1990, Newton Aycliffe  -- Sunderland
-38  Tom McGill (ENG)               GK    # 25 Mar 2000, Haywards Heath
-61  Killian Cahill (IRL)           GK    # 03 Nov 2003, Skryne  -- Shamrock R
-62  Tommy Reid (ENG)               GK    # 18 Jan 2005, Hastings
-63  Hugo Fisher (ENG)              GK    # 24 Sep 2004, Bojnice
-67  Steven Hall (AUS)              GK    # 16 Jan 2005  -- Adelaide U
+  1,  Bart Verbruggen (NED),             GK,   b. 2002,   Anderlecht
+ 23,  Jason Steele,                      GK,   b. 1990,   Sunderland
+ 38,  Tom McGill,                        GK,   b. 2000,
+ 61,  Killian Cahill (IRL),              GK,   b. 2003,   Shamrock R
+ 62,  Tommy Reid,                        GK,   b. 2005,
+ 63,  Hugo Fisher,                       GK,   b. 2004,
+ 67,  Steven Hall (AUS),                 GK,   b. 2005,   Adelaide U
 
- 2  Tariq Lamptey (GHA)            DF    # 30 Sep 2000, Hillingdon  -- Chelsea
- 3  Igor (BRA)                     DF    # 07 Feb 1998, Bom Sucesso  -- Fiorentina
- 4  Adam Webster (ENG)             DF    # 04 Jan 1995, West Wittering  -- Bristol C
- 5  Lewis Dunk (ENG)               DF    # 21 Nov 1991, Brighton
-19  Valentín Barco (ARG)           DF    # 23 Jul 2004, 25 de Mayo  -- Boca Juniors
-29  Jan Paul van Hecke (NED)       DF    # 08 Jun 2000, Arnemuiden  -- NAC Breda
-30  Pervis Estupiñán (ECU)         DF    # 21 Jan 1998, Esmeraldas  -- Villarreal
-34  Joël Veltman (NED)             DF    # 15 Jan 1992, IJmuiden  -- Ajax
-42  Odel Offiah (ENG)              DF    # 26 Oct 2002, Camden  -- Bromley
-50  Ben Jackson (ENG)              DF    # 03 Sep 2003, Hillingdon  -- Watford
-51  Casper Nilsson (SWE)           DF    # 26 Nov 2003  -- Malmö FF
-52  Leigh Kavanagh (IRL)           DF    # 27 Dec 2003  -- Bray W
-57  Ruairi McConville (NIR)        DF    # 01 May 2005  -- Linfield
-58  Kain Ryan (ENG)                DF    # 31 Dec 2004  -- Derby Co
-60  Jacob Slater (ENG)             DF    # 05 Oct 2004  -- Preston NE
-65  Noël Atom (GER)                DF    # 05 Jan 2005  -- RB Leipzig
-73  Charlie Tasker (ENG)           DF    # 24 Feb 2006
-74  Charlie Penman (ENG)           DF    # 25 Sep 2005  -- Blackpool
-94  Freddie Simmonds (ENG)         DF    # 09 Mar 2008
+  2,  Tariq Lamptey (GHA),               DF,   b. 2000,   Chelsea
+  3,  Igor (BRA),                        DF,   b. 1998,   Fiorentina
+  4,  Adam Webster,                      DF,   b. 1995,   Bristol C
+  5,  Lewis Dunk,                        DF,   b. 1991,
+ 19,  Valentín Barco (ARG),              DF,   b. 2004,   Boca Juniors
+ 29,  Jan Paul van Hecke (NED),          DF,   b. 2000,   NAC Breda
+ 30,  Pervis Estupiñán (ECU),            DF,   b. 1998,   Villarreal
+ 34,  Joël Veltman (NED),                DF,   b. 1992,   Ajax
+ 42,  Odel Offiah,                       DF,   b. 2002,   Bromley
+ 50,  Ben Jackson,                       DF,   b. 2003,   Watford
+ 51,  Casper Nilsson (SWE),              DF,   b. 2003,   Malmö FF
+ 52,  Leigh Kavanagh (IRL),              DF,   b. 2003,   Bray W
+ 57,  Ruairi McConville (NIR),           DF,   b. 2005,   Linfield
+ 58,  Kain Ryan,                         DF,   b. 2004,   Derby Co
+ 60,  Jacob Slater,                      DF,   b. 2004,   Preston NE
+ 65,  Noël Atom (GER),                   DF,   b. 2005,   RB Leipzig
+ 73,  Charlie Tasker,                    DF,   b. 2006,
+ 74,  Charlie Penman,                    DF,   b. 2005,   Blackpool
+ 94,  Freddie Simmonds,                  DF,   b. 2008,
 
- 6  James Milner (ENG)             MF    # 04 Jan 1986, Wortley  -- Liverpool
- 7  Solly March (ENG)              MF    # 26 Jul 1994, Eastbourne  -- Lewes
-11  Billy Gilmour (SCO)            MF    # 11 Jun 2001, Irvine  -- Chelsea
-13  Pascal Groß (GER)              MF    # 15 Jun 1991, Bad Salzungen  -- Ingolstadt
-14  Adam Lallana (ENG)             MF    # 10 May 1988, St Albans  -- Liverpool
-15  Jakub Moder (POL)              MF    # 07 Apr 1999, Szczecinek  -- Lech Poznań
-20  Carlos Baleba (CMR)            MF    # 03 Jan 2004, Douala  -- Lille
-22  Kaoru Mitoma (JPN)             MF    # 20 May 1997, Kawasaki  -- Kawasaki Frontale
-40  Facundo Buonanotte (ARG)       MF    # 23 Dec 2004, Pérez  -- Rosario Central
-41  Jack Hinshelwood (ENG)         MF    # 11 Apr 2005, Chichester
-44  Cameron Peupion (AUS)          MF    # 23 Sep 2002, Sydney  -- Sydney FC
-48  Samy Chouchane (TUN)           MF    # 05 Sep 2003, Paris  -- Boulogne-Billancourt
-49  Marcus Ifill (ENG)             MF    # 02 Nov 2003, Swindon  -- Swindon T
-54  Jamie Mullins (IRL)            MF    # 29 Sep 2004  -- Bohemians
-56  Joshua Duffus (ENG)            MF    # 15 Dec 2004, Lambeth
-68  Kamari Doyle (ENG)             MF    # 01 Aug 2005, Bristol  -- Southampton
-69  Josh Robertson (ENG)           MF    # 03 Oct 2005  -- Sunderland
-71  Joe Knight (ENG)               MF    # 21 Sep 2005
-72  Harry Mills (ENG)              MF    # 17 Mar 2006
-76  Zane Albarus (ENG)             MF    # 18 Dec 2005, Milton Keynes
-88  Ronnie Gorman (IRL)            MF    # 01 Feb 2007
+  6,  James Milner,                      MF,   b. 1986,   Liverpool
+  7,  Solly March,                       MF,   b. 1994,   Lewes
+ 11,  Billy Gilmour (SCO),               MF,   b. 2001,   Chelsea
+ 13,  Pascal Groß (GER),                 MF,   b. 1991,   Ingolstadt
+ 14,  Adam Lallana,                      MF,   b. 1988,   Liverpool
+ 15,  Jakub Moder (POL),                 MF,   b. 1999,   Lech Poznań
+ 20,  Carlos Baleba (CMR),               MF,   b. 2004,   Lille
+ 22,  Kaoru Mitoma (JPN),                MF,   b. 1997,   Kawasaki Frontale
+ 40,  Facundo Buonanotte (ARG),          MF,   b. 2004,   Rosario Central
+ 41,  Jack Hinshelwood,                  MF,   b. 2005,
+ 44,  Cameron Peupion (AUS),             MF,   b. 2002,   Sydney FC
+ 48,  Samy Chouchane (TUN),              MF,   b. 2003,   Boulogne-Billancourt
+ 49,  Marcus Ifill,                      MF,   b. 2003,   Swindon T
+ 54,  Jamie Mullins (IRL),               MF,   b. 2004,   Bohemians
+ 56,  Joshua Duffus,                     MF,   b. 2004,
+ 68,  Kamari Doyle,                      MF,   b. 2005,   Southampton
+ 69,  Josh Robertson,                    MF,   b. 2005,   Sunderland
+ 71,  Joe Knight,                        MF,   b. 2005,
+ 72,  Harry Mills,                       MF,   b. 2006,
+ 76,  Zane Albarus,                      MF,   b. 2005,
+ 88,  Ronnie Gorman (IRL),               MF,   b. 2007,
 
- 9  João Pedro (BRA)               FW    # 26 Sep 2001, Ribeirão Preto  -- Watford
-10  Julio Enciso (PAR)             FW    # 23 Jan 2004, Caaguazú  -- Libertad
-18  Danny Welbeck (ENG)            FW    # 26 Nov 1990, Manchester  -- Watford
-24  Simon Adingra (CIV)            FW    # 01 Jan 2002, Yamoussoukro  -- FC Nordsjælland
-28  Evan Ferguson (IRL)            FW    # 19 Oct 2004, Bettystown  -- Bohemians
-31  Ansu Fati (ESP)                FW    # 31 Oct 2002, Bissau  -- Barcelona
-47  Benicio Baker-Boaitey (ENG)    FW    # 09 Jan 2004, Hammersmith  -- FC Porto
-53  Luca Barrington (ENG)          FW    # 12 Dec 2004, Manchester  -- Manchester C
-55  Mark O'Mahony (IRL)            FW    # 14 Jan 2005, Cork  -- Cork C
-59  Bailey Smith (ENG)             FW    # 02 May 2005
-64  Brody Peart (ENG)              FW    # 26 Aug 2005  -- Basingstoke T
-66  Louis Flower (ENG)             FW    # 06 Oct 2004, Cambridge  -- Chelsea
-70  Caylan Vickers (ENG)           FW    # 22 Dec 2004  -- Reading
-80  Sahil Bashir (ENG)             FW    # 05 Sep 2005, Bradford  -- Bradford C
-95  Harry Howell (ENG)             FW    # 29 Sep 2008
+  9,  João Pedro (BRA),                  FW,   b. 2001,   Watford
+ 10,  Julio Enciso (PAR),                FW,   b. 2004,   Libertad
+ 18,  Danny Welbeck,                     FW,   b. 1990,   Watford
+ 24,  Simon Adingra (CIV),               FW,   b. 2002,   FC Nordsjælland
+ 28,  Evan Ferguson (IRL),               FW,   b. 2004,   Bohemians
+ 31,  Ansu Fati (ESP),                   FW,   b. 2002,   Barcelona
+ 47,  Benicio Baker-Boaitey,             FW,   b. 2004,   FC Porto
+ 53,  Luca Barrington,                   FW,   b. 2004,   Manchester C
+ 55,  Mark O'Mahony (IRL),               FW,   b. 2005,   Cork C
+ 59,  Bailey Smith,                      FW,   b. 2005,
+ 64,  Brody Peart,                       FW,   b. 2005,   Basingstoke T
+ 66,  Louis Flower,                      FW,   b. 2004,   Chelsea
+ 70,  Caylan Vickers,                    FW,   b. 2004,   Reading
+ 80,  Sahil Bashir,                      FW,   b. 2005,   Bradford C
+ 95,  Harry Howell,                      FW,   b. 2008,

@@ -1,58 +1,58 @@
-= Liverpool Football Club    # Liverpool
+=  Liverpool FC - English Premier League 2023/24
 
- 1  Alisson Becker (BRA)           GK    # 02 Oct 1992, Novo Hamburgo  -- Roma
-13  Adrián (ESP)                   GK    # 03 Jan 1987, Seville  -- West Ham U
-62  Caoimhin Kelleher (IRL)        GK    # 23 Nov 1998, Cork  -- Ringmahon Rangers
-74  Oscar Kelly (ENG)              GK    # 22 Nov 2002, Liverpool
-93  Fabian Mrozek (POL)            GK    # 28 Sep 2003, Wrocław  -- FC Wrocław Academy
+  1,  Alisson Becker (BRA),              GK,   b. 1992,   Roma
+ 13,  Adrián (ESP),                      GK,   b. 1987,   West Ham U
+ 62,  Caoimhin Kelleher (IRL),           GK,   b. 1998,   Ringmahon Rangers
+ 74,  Oscar Kelly,                       GK,   b. 2002,
+ 93,  Fabian Mrozek (POL),               GK,   b. 2003,   FC Wrocław Academy
 
- 2  Joe Gomez (ENG)                DF    # 23 May 1997, Catford  -- Charlton Ath
- 4  Virgil van Dijk (NED)          DF    # 08 Jul 1991, Breda  -- Southampton
- 5  Ibrahima Konaté (FRA)          DF    # 25 May 1999, Paris  -- RB Leipzig
-21  Kostas Tsimikas (GRE)          DF    # 12 May 1996, Thessaloniki  -- Olympiakos
-26  Andrew Robertson (SCO)         DF    # 11 Mar 1994, Glasgow  -- Hull C
-32  Joel Matip (CMR)               DF    # 08 Aug 1991, Bochum  -- Schalke
-46  Rhys Williams (ENG)            DF    # 03 Feb 2001, Preston
-48  Calum Scanlon (ENG)            DF    # 14 Feb 2005, Birmingham
-57  Carter Pinnington (ENG)        DF    # 21 Feb 2007
-59  Terence Miles (ENG)            DF    # 12 Sep 2004, Liverpool
-60  Luca Furnell-Gill (ENG)        DF    # 29 Dec 2006, Keighley
-65  Amara Nallo (ENG)              DF    # 18 Nov 2006, Enfield  -- West Ham U
-66  Trent Alexander-Arnold (ENG)   DF    # 07 Oct 1998, Liverpool
-69  Josh Davidson (ENG)            DF    # 23 Sep 2005, Liverpool
-78  Jarell Quansah (ENG)           DF    # 29 Jan 2003, Warrington
-84  Conor Bradley (NIR)            DF    # 09 Jul 2003, Tyrone  -- Dungannon Swifts
-88  Lucas Pitt (ENG)               DF    # 31 Oct 2006
-90  Lee Jonas (ENG)                DF    # 06 Jul 2004, Liverpool
+  2,  Joe Gomez,                         DF,   b. 1997,   Charlton Ath
+  4,  Virgil van Dijk (NED),             DF,   b. 1991,   Southampton
+  5,  Ibrahima Konaté (FRA),             DF,   b. 1999,   RB Leipzig
+ 21,  Kostas Tsimikas (GRE),             DF,   b. 1996,   Olympiakos
+ 26,  Andrew Robertson (SCO),            DF,   b. 1994,   Hull C
+ 32,  Joel Matip (CMR),                  DF,   b. 1991,   Schalke
+ 46,  Rhys Williams,                     DF,   b. 2001,
+ 48,  Calum Scanlon,                     DF,   b. 2005,
+ 57,  Carter Pinnington,                 DF,   b. 2007,
+ 59,  Terence Miles,                     DF,   b. 2004,
+ 60,  Luca Furnell-Gill,                 DF,   b. 2006,
+ 65,  Amara Nallo,                       DF,   b. 2006,   West Ham U
+ 66,  Trent Alexander-Arnold,            DF,   b. 1998,
+ 69,  Josh Davidson,                     DF,   b. 2005,
+ 78,  Jarell Quansah,                    DF,   b. 2003,
+ 84,  Conor Bradley (NIR),               DF,   b. 2003,   Dungannon Swifts
+ 88,  Lucas Pitt,                        DF,   b. 2006,
+ 90,  Lee Jonas,                         DF,   b. 2004,
 
- 3  Wataru Endo (JPN)              MF    # 09 Feb 1993, Yokohama  -- Stuttgart
- 6  Thiago Alcántara (ESP)         MF    # 11 Apr 1991, Bari  -- Bayern Munich
- 8  Dominik Szoboszlai (HUN)       MF    # 25 Oct 2000, Budapest  -- RB Leipzig
-10  Alexis Mac Allister (ARG)      MF    # 24 Dec 1998, La Pampa  -- Brighton & HA
-17  Curtis Jones (ENG)             MF    # 30 Jan 2001, Liverpool
-19  Harvey Elliott (ENG)           MF    # 04 Apr 2003, Chertsey  -- Fulham
-38  Ryan Gravenberch (NED)         MF    # 16 May 2002, Amsterdam  -- Bayern Munich
-43  Stefan Bajčetić (ESP)          MF    # 22 Oct 2004, Vigo  -- Celta Vigo
-50  Ben Doak (SCO)                 MF    # 11 Nov 2005  -- Celtic
-53  James McConnell (ENG)          MF    # 13 Sep 2004, Newcastle upon Tyne
-54  Cody Pennington (ENG)          MF    # 13 Jun 2006, Preston
-67  Lewis Koumas (ENG)             MF    # 19 Sep 2005, Chester
-68  Kieran Morrison (NIR)          MF    # 09 Nov 2006
-71  Jay Spearing (ENG)             MF    # 25 Nov 1988, Wirral  -- Tranmere R
-83  Thomas Hill (ENG)              MF    # 13 Oct 2002, Formby
-92  Mateusz Musiałowski (POL)      MF    # 16 Oct 2003, Katowice  -- UKS SMS Łódź
-94  Melkamu Frauendorf (GER)       MF    # 12 Jan 2004, Kembata  -- 1899 Hoffenheim
-98  Trey Nyoni (ENG)               MF    # 30 Jun 2007  -- Leicester C
-99  Fola Onanuga (ENG)             MF    # 01 Sep 2006
+  3,  Wataru Endo (JPN),                 MF,   b. 1993,   Stuttgart
+  6,  Thiago Alcántara (ESP),            MF,   b. 1991,   Bayern Munich
+  8,  Dominik Szoboszlai (HUN),          MF,   b. 2000,   RB Leipzig
+ 10,  Alexis Mac Allister (ARG),         MF,   b. 1998,   Brighton & HA
+ 17,  Curtis Jones,                      MF,   b. 2001,
+ 19,  Harvey Elliott,                    MF,   b. 2003,   Fulham
+ 38,  Ryan Gravenberch (NED),            MF,   b. 2002,   Bayern Munich
+ 43,  Stefan Bajčetić (ESP),             MF,   b. 2004,   Celta Vigo
+ 50,  Ben Doak (SCO),                    MF,   b. 2005,   Celtic
+ 53,  James McConnell,                   MF,   b. 2004,
+ 54,  Cody Pennington,                   MF,   b. 2006,
+ 67,  Lewis Koumas,                      MF,   b. 2005,
+ 68,  Kieran Morrison (NIR),             MF,   b. 2006,
+ 71,  Jay Spearing,                      MF,   b. 1988,   Tranmere R
+ 83,  Thomas Hill,                       MF,   b. 2002,
+ 92,  Mateusz Musiałowski (POL),         MF,   b. 2003,   UKS SMS Łódź
+ 94,  Melkamu Frauendorf (GER),          MF,   b. 2004,   1899 Hoffenheim
+ 98,  Trey Nyoni,                        MF,   b. 2007,   Leicester C
+ 99,  Fola Onanuga,                      MF,   b. 2006,
 
- 7  Luis Díaz (COL)                FW    # 13 Jan 1997, Barrancas  -- FC Porto
- 9  Darwin Núñez (URU)             FW    # 24 Jun 1999, Artigas  -- Benfica
-11  Mohamed Salah (EGY)            FW    # 15 Jun 1992, Basyoun  -- Roma
-18  Cody Gakpo (NED)               FW    # 07 May 1999, Eindhoven  -- PSV Eindhoven
-20  Diogo Jota (POR)               FW    # 04 Dec 1996, Massarelos  -- Wolverhampton W
-42  Bobby Clark (ENG)              FW    # 07 Feb 2005, Epsom  -- Newcastle U
-49  Kaide Gordon (ENG)             FW    # 05 Oct 2004, Burton upon Trent  -- Derby Co
-51  Trent Kone-Doherty (IRL)       FW    # 30 Jun 2006, Derry  -- Derry C
-70  Tommy Pilling (ENG)            FW    # 14 Sep 2004, St Helens
-76  Jayden Danns (ENG)             FW    # 16 Jan 2006, Liverpool
-86  Harvey Blair (ENG)             FW    # 14 Sep 2003, Huddersfield
+  7,  Luis Díaz (COL),                   FW,   b. 1997,   FC Porto
+  9,  Darwin Núñez (URU),                FW,   b. 1999,   Benfica
+ 11,  Mohamed Salah (EGY),               FW,   b. 1992,   Roma
+ 18,  Cody Gakpo (NED),                  FW,   b. 1999,   PSV Eindhoven
+ 20,  Diogo Jota (POR),                  FW,   b. 1996,   Wolverhampton W
+ 42,  Bobby Clark,                       FW,   b. 2005,   Newcastle U
+ 49,  Kaide Gordon,                      FW,   b. 2004,   Derby Co
+ 51,  Trent Kone-Doherty (IRL),          FW,   b. 2006,   Derry C
+ 70,  Tommy Pilling,                     FW,   b. 2004,
+ 76,  Jayden Danns,                      FW,   b. 2006,
+ 86,  Harvey Blair,                      FW,   b. 2003,

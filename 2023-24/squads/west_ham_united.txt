@@ -1,63 +1,63 @@
-= West Ham United Football Club    # West Ham United
+=  West Ham United FC - English Premier League 2023/24
 
- 1  Łukasz Fabiański (POL)         GK    # 18 Apr 1985, Kostrzyn nad Odrą  -- Swansea C
-23  Alphonse Areola (FRA)          GK    # 27 Feb 1993, Paris  -- Paris St-Germain
-46  Mason Terry (ENG)              GK    # 20 Sep 2004, Southend-on-Sea
-49  Joseph Anang (ENG)             GK    # 08 Jun 2000  -- Wa All Stars
-55  Jacob Knightbridge (ENG)       GK    # 25 Jan 2004, Romford
-67  Finlay Herrick (ENG)           GK    # 09 Jan 2006, Hatfield
-79  Dondre Abraham (ENG)           GK    # 24 May 2006, Enfield
+  1,  Łukasz Fabiański (POL),            GK,   b. 1985,   Swansea C
+ 23,  Alphonse Areola (FRA),             GK,   b. 1993,   Paris St-Germain
+ 46,  Mason Terry,                       GK,   b. 2004,
+ 49,  Joseph Anang,                      GK,   b. 2000,   Wa All Stars
+ 55,  Jacob Knightbridge,                GK,   b. 2004,
+ 67,  Finlay Herrick,                    GK,   b. 2006,
+ 79,  Dondre Abraham,                    GK,   b. 2006,
 
- 2  Ben Johnson (ENG)              DF    # 24 Jan 2000, Waltham Forest
- 3  Aaron Cresswell (ENG)          DF    # 15 Dec 1989, Liverpool  -- Ipswich T
- 4  Kurt Zouma (FRA)               DF    # 27 Oct 1994, Lyon  -- Chelsea
- 5  Vladimír Coufal (CZE)          DF    # 22 Aug 1992, Ludgeřovice  -- Slavia Prague
-15  Konstantinos Mavropanos (GRE)   DF    # 11 Dec 1997, Athens  -- Stuttgart
-19  Edson Álvarez (MEX)            DF    # 24 Oct 1997, Tlalnepantla de Baz  -- Ajax
-21  Angelo Ogbonna (ITA)           DF    # 23 May 1988, Cassino  -- Juventus
-27  Nayef Aguerd (MAR)             DF    # 30 Mar 1996, Kenitra  -- Rennes
-33  Emerson Palmieri (ITA)         DF    # 03 Aug 1994, Santos  -- Chelsea
-37  Luizão (BRA)                   DF    # 08 Mar 2002, São Paulo  -- São Paulo
-42  Kaelan Casey (ENG)             DF    # 28 Oct 2004, Brentwood
-43  Regan Clayton (ENG)            DF    # 11 Nov 2004, Havering
-44  Junior Robinson (ENG)          DF    # 06 Apr 2004, Bethnal Green
-48  Sean Tarima (ENG)              DF    # 12 Sep 2004, Newham
-53  Levi Laing (ENG)               DF    # 12 Apr 2003, Kingston upon Thames  -- Arsenal
-57  Oliver Scarles (ENG)           DF    # 12 Dec 2005, Bromley
-64  Ryan Battrum (ENG)             DF    # 08 Sep 2005, Havering
-65  Michael Forbes (NIR)           DF    # 29 Apr 2004  -- Dungannon Swifts
-71  Ezra Mayers (ENG)              DF   
-75  Emeka Adiele (ENG)             DF   
-76  Jethro Medine (ENG)            DF   
-77  Rayan Oyebade (ENG)            DF    # 30 Apr 2007
-84  Josh Briggs (NIR)              DF    # 14 Mar 2006, Belfast  -- Linfield
+  2,  Ben Johnson,                       DF,   b. 2000,
+  3,  Aaron Cresswell,                   DF,   b. 1989,   Ipswich T
+  4,  Kurt Zouma (FRA),                  DF,   b. 1994,   Chelsea
+  5,  Vladimír Coufal (CZE),             DF,   b. 1992,   Slavia Prague
+ 15,  Konstantinos Mavropanos (GRE),     DF,   b. 1997,   Stuttgart
+ 19,  Edson Álvarez (MEX),               DF,   b. 1997,   Ajax
+ 21,  Angelo Ogbonna (ITA),              DF,   b. 1988,   Juventus
+ 27,  Nayef Aguerd (MAR),                DF,   b. 1996,   Rennes
+ 33,  Emerson Palmieri (ITA),            DF,   b. 1994,   Chelsea
+ 37,  Luizão (BRA),                      DF,   b. 2002,   São Paulo
+ 42,  Kaelan Casey,                      DF,   b. 2004,
+ 43,  Regan Clayton,                     DF,   b. 2004,
+ 44,  Junior Robinson,                   DF,   b. 2004,
+ 48,  Sean Tarima,                       DF,   b. 2004,
+ 53,  Levi Laing,                        DF,   b. 2003,   Arsenal
+ 57,  Oliver Scarles,                    DF,   b. 2005,
+ 64,  Ryan Battrum,                      DF,   b. 2005,
+ 65,  Michael Forbes (NIR),              DF,   b. 2004,   Dungannon Swifts
+ 71,  Ezra Mayers,                       DF,   b. ????,
+ 75,  Emeka Adiele,                      DF,   b. ????,
+ 76,  Jethro Medine,                     DF,   b. ????,
+ 77,  Rayan Oyebade,                     DF,   b. 2007,
+ 84,  Josh Briggs (NIR),                 DF,   b. 2006,   Linfield
 
- 7  James Ward-Prowse (ENG)        MF    # 01 Nov 1994, Southampton  -- Southampton
-10  Lucas Paquetá (BRA)            MF    # 27 Aug 1997, Rio de Janeiro  -- Lyon
-11  Kalvin Phillips (ENG)          MF    # 02 Dec 1995, Leeds  -- Manchester C
-14  Mohammed Kudus (GHA)           MF    # 02 Aug 2000, Accra  -- Ajax
-17  Maxwel Cornet (CIV)            MF    # 27 Sep 1996, Bregbo  -- Burnley
-28  Tomáš Souček (CZE)             MF    # 27 Feb 1995, Havlíčkův Brod  -- Slavia Prague
-40  George Earthy (ENG)            MF    # 05 Sep 2004, Havering
-54  Patrick Kelly (NIR)            MF    # 02 Oct 2004, Portstewart  -- Coleraine
-58  Kamarai Simon-Swyer (ENG)      MF    # 04 Dec 2002, Redbridge
-61  Lewis Orford (ENG)             MF    # 18 Feb 2006, Havering
-66  Daniel Rigge (ENG)             MF    # 25 Mar 2006, Stockport  -- Manchester C
-69  Tyron Akpata (ENG)             MF    # 12 Aug 2006, Havering
-72  Gabriel Caliste (ENG)          MF    # 18 Nov 2006, Redbridge
-74  Preston Fearon (ENG)           MF    # 16 Jan 2007
-78  Elisha Sowunmi (ENG)           MF   
-80  Riley Hargan (ENG)             MF   
-81  Liam Jones (ENG)               MF    # 12 Sep 2005
-83  Seb Boothe (ENG)               MF    # 17 Jul 2006, Bedford
+  7,  James Ward-Prowse,                 MF,   b. 1994,   Southampton
+ 10,  Lucas Paquetá (BRA),               MF,   b. 1997,   Lyon
+ 11,  Kalvin Phillips,                   MF,   b. 1995,   Manchester C
+ 14,  Mohammed Kudus (GHA),              MF,   b. 2000,   Ajax
+ 17,  Maxwel Cornet (CIV),               MF,   b. 1996,   Burnley
+ 28,  Tomáš Souček (CZE),                MF,   b. 1995,   Slavia Prague
+ 40,  George Earthy,                     MF,   b. 2004,
+ 54,  Patrick Kelly (NIR),               MF,   b. 2004,   Coleraine
+ 58,  Kamarai Simon-Swyer,               MF,   b. 2002,
+ 61,  Lewis Orford,                      MF,   b. 2006,
+ 66,  Daniel Rigge,                      MF,   b. 2006,   Manchester C
+ 69,  Tyron Akpata,                      MF,   b. 2006,
+ 72,  Gabriel Caliste,                   MF,   b. 2006,
+ 74,  Preston Fearon,                    MF,   b. 2007,
+ 78,  Elisha Sowunmi,                    MF,   b. ????,
+ 80,  Riley Hargan,                      MF,   b. ????,
+ 81,  Liam Jones,                        MF,   b. 2005,
+ 83,  Seb Boothe,                        MF,   b. 2006,
 
- 9  Michail Antonio (JAM)          FW    # 28 Mar 1990, Wandsworth  -- Nottingham F
-18  Danny Ings (ENG)               FW    # 16 Mar 1992, Winchester  -- Aston Villa
-20  Jarrod Bowen (ENG)             FW    # 20 Dec 1996, Leominster  -- Hull C
-36  Sean Moore (IRL)               FW    # 13 Aug 2005  -- Cliftonville
-45  Divin Mubama (ENG)             FW    # 25 Oct 2004, Newham
-68  Favour Fawunmi (ENG)           FW    # 26 Apr 2006, Newham
-70  Blaise Uwandji (ENG)           FW    # 05 Oct 2005
-82  Jemiah Umolu (ENG)             FW    # 28 Oct 2005, Westminster
-85  Mehmet Halim (ENG)             FW   
-86  Joshua Ajala (ENG)             FW    # 13 Nov 2006, Redbridge  -- Chelsea
+  9,  Michail Antonio (JAM),             FW,   b. 1990,   Nottingham F
+ 18,  Danny Ings,                        FW,   b. 1992,   Aston Villa
+ 20,  Jarrod Bowen,                      FW,   b. 1996,   Hull C
+ 36,  Sean Moore (IRL),                  FW,   b. 2005,   Cliftonville
+ 45,  Divin Mubama,                      FW,   b. 2004,
+ 68,  Favour Fawunmi,                    FW,   b. 2006,
+ 70,  Blaise Uwandji,                    FW,   b. 2005,
+ 82,  Jemiah Umolu,                      FW,   b. 2005,
+ 85,  Mehmet Halim,                      FW,   b. ????,
+ 86,  Joshua Ajala,                      FW,   b. 2006,   Chelsea

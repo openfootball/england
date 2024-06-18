@@ -1,74 +1,74 @@
-= Chelsea Football Club    # Chelsea
+=  Chelsea FC - English Premier League 2023/24
 
- 1  Robert Sánchez (ESP)           GK    # 18 Nov 1997, Cartagena  -- Brighton & HA
-13  Marcus Bettinelli (ENG)        GK    # 24 May 1992, Camberwell  -- Fulham
-28  Djordje Petrović (SRB)         GK    # 08 Oct 1999, Požarevac  -- New England Revolution
-38  Teddy Sharman-Lowe (ENG)       GK    # 30 Mar 2003, Leicester  -- Burton Alb
-40  Ted Curd (ENG)                 GK    # 14 Feb 2006, Kingston upon Thames
-50  Eddie Beach (WAL)              GK    # 09 Oct 2003, Lymington  -- Southampton
-60  Max Merrick (ENG)              GK    # 10 Nov 2005, High Wycombe
-70  Luke Campbell (ENG)            GK    # 27 Nov 2005, Slough
-80  Kai Crampton (ENG)             GK    # 15 Jan 2007, Watford
+  1,  Robert Sánchez (ESP),              GK,   b. 1997,   Brighton & HA
+ 13,  Marcus Bettinelli,                 GK,   b. 1992,   Fulham
+ 28,  Djordje Petrović (SRB),            GK,   b. 1999,   New England Revolution
+ 38,  Teddy Sharman-Lowe,                GK,   b. 2003,   Burton Alb
+ 40,  Ted Curd,                          GK,   b. 2006,
+ 50,  Eddie Beach (WAL),                 GK,   b. 2003,   Southampton
+ 60,  Max Merrick,                       GK,   b. 2005,
+ 70,  Luke Campbell,                     GK,   b. 2005,
+ 80,  Kai Crampton,                      GK,   b. 2007,
 
- 2  Axel Disasi (FRA)              DF    # 11 Mar 1998, Gonesse  -- Monaco
- 3  Marc Cucurella (ESP)           DF    # 22 Jul 1998, Alella  -- Brighton & HA
- 5  Benoît Badiashile (FRA)        DF    # 06 Mar 2001, Limoges  -- Monaco
- 6  Thiago Silva (BRA)             DF    # 22 Sep 1984, Rio de Janeiro  -- Paris St-Germain
-21  Ben Chilwell (ENG)             DF    # 21 Dec 1996, Milton Keynes  -- Leicester C
-24  Reece James (ENG)              DF    # 08 Dec 1999, Redbridge
-26  Levi Colwill (ENG)             DF    # 26 Feb 2003, Southampton
-27  Malo Gusto (FRA)               DF    # 19 May 2003, Décines-Charpieu  -- Lyon
-33  Wesley Fofana (FRA)            DF    # 17 Dec 2000, Marseille  -- Leicester C
-42  Alfie Gilchrist (ENG)          DF    # 28 Nov 2003, Kingston upon Thames
-44  Josh Brooking (ENG)            DF    # 01 Sep 2002, Reading  -- Reading
-46  Zak Sturge (ENG)               DF    # 15 Jun 2004, Hillingdon  -- Brighton & HA
-51  Dylan Williams (ENG)           DF    # 03 Dec 2003  -- Derby Co
-53  Ishé Samuels-Smith (ENG)       DF    # 05 Jun 2006, Manchester  -- Everton
-57  Brodi Hughes (ENG)             DF    # 16 Oct 2004, Winchester
-58  Richard Olise (ENG)            DF    # 09 Sep 2004, Hillingdon
-63  Josh-Kofi Acheampong (ENG)     DF    # 05 May 2006, Waltham Forest
-64  Travis Akomeah (ENG)           DF    # 06 Jan 2006, Islington
-69  Noah Hay (ENG)                 DF    # 11 Jan 2006, Westminster
-73  Harrison Murray-Campbell (ENG)   DF    # 04 Aug 2006, Luton
-75  Kaiden Wilson (ENG)            DF    # 02 Sep 2005, Bristol
-76  Somto Boniface (ENG)           DF    # 11 Mar 2006, London
-81  Saheed Olagunju (ENG)          DF    # 07 Jan 2007, Greenwich
-84  Marcell Washington (ENG)       DF    # 21 Aug 2007, Cambridge
-85  Genesis Antwi (SWE)            DF    # 11 May 2007, Stockholm
+  2,  Axel Disasi (FRA),                 DF,   b. 1998,   Monaco
+  3,  Marc Cucurella (ESP),              DF,   b. 1998,   Brighton & HA
+  5,  Benoît Badiashile (FRA),           DF,   b. 2001,   Monaco
+  6,  Thiago Silva (BRA),                DF,   b. 1984,   Paris St-Germain
+ 21,  Ben Chilwell,                      DF,   b. 1996,   Leicester C
+ 24,  Reece James,                       DF,   b. 1999,
+ 26,  Levi Colwill,                      DF,   b. 2003,
+ 27,  Malo Gusto (FRA),                  DF,   b. 2003,   Lyon
+ 33,  Wesley Fofana (FRA),               DF,   b. 2000,   Leicester C
+ 42,  Alfie Gilchrist,                   DF,   b. 2003,
+ 44,  Josh Brooking,                     DF,   b. 2002,   Reading
+ 46,  Zak Sturge,                        DF,   b. 2004,   Brighton & HA
+ 51,  Dylan Williams,                    DF,   b. 2003,   Derby Co
+ 53,  Ishé Samuels-Smith,                DF,   b. 2006,   Everton
+ 57,  Brodi Hughes,                      DF,   b. 2004,
+ 58,  Richard Olise,                     DF,   b. 2004,
+ 63,  Josh-Kofi Acheampong,              DF,   b. 2006,
+ 64,  Travis Akomeah,                    DF,   b. 2006,
+ 69,  Noah Hay,                          DF,   b. 2006,
+ 73,  Harrison Murray-Campbell,          DF,   b. 2006,
+ 75,  Kaiden Wilson,                     DF,   b. 2005,
+ 76,  Somto Boniface,                    DF,   b. 2006,
+ 81,  Saheed Olagunju,                   DF,   b. 2007,
+ 84,  Marcell Washington,                DF,   b. 2007,
+ 85,  Genesis Antwi (SWE),               DF,   b. 2007,
 
- 8  Enzo Fernández (ARG)           MF    # 17 Jan 2001, San Martín  -- Benfica
-10  Mykhaylo Mudryk (UKR)          MF    # 05 Jan 2001, Krasnohrad  -- Shakhtar Donetsk
-11  Noni Madueke (ENG)             MF    # 10 Mar 2002, Barnet  -- PSV Eindhoven
-14  Trevoh Chalobah (ENG)          MF    # 05 Jul 1999, Freetown
-16  Lesley Ugochukwu (FRA)         MF    # 26 Mar 2004, Rennes  -- Rennes
-17  Carney Chukwuemeka (ENG)       MF    # 20 Oct 2003, Eisenstadt  -- Aston Villa
-23  Conor Gallagher (ENG)          MF    # 06 Feb 2000, Epsom
-25  Moisés Caicedo (ECU)           MF    # 02 Nov 2001, Santo Domingo  -- Brighton & HA
-31  Cesare Casadei (ITA)           MF    # 10 Jan 2003, Ravenna  -- Internazionale
-45  Romeo Lavia (BEL)              MF    # 06 Jan 2004, Brussels  -- Southampton
-54  Leo Castledine (ENG)           MF    # 20 Aug 2005, Kingston upon Thames  -- AFC Wimbledon
-59  Samuel Rak-Sakyi (ENG)         MF    # 27 Mar 2005, Lambeth
-68  Michael Golding (ENG)          MF    # 23 May 2006, Kingston upon Thames
-72  Harrison McMahon (ENG)         MF    # 29 Jan 2006, South Ockendon
-74  Reiss Denny (ENG)              MF    # 11 May 2006, Reading  -- Nonr
-77  Leo Cardoso (POR)              MF    # 18 Oct 2006, Aldama
-78  Kiano Dyer (ENG)               MF    # 21 Nov 2006, Birmingham  -- WBA
-79  Ollie Harrison (ENG)           MF    # 07 Aug 2007, Blaydon  -- Newcastle U
-82  Frankie Runham (ENG)           MF    # 09 Jan 2007, Eastbourne
+  8,  Enzo Fernández (ARG),              MF,   b. 2001,   Benfica
+ 10,  Mykhaylo Mudryk (UKR),             MF,   b. 2001,   Shakhtar Donetsk
+ 11,  Noni Madueke,                      MF,   b. 2002,   PSV Eindhoven
+ 14,  Trevoh Chalobah,                   MF,   b. 1999,
+ 16,  Lesley Ugochukwu (FRA),            MF,   b. 2004,   Rennes
+ 17,  Carney Chukwuemeka,                MF,   b. 2003,   Aston Villa
+ 23,  Conor Gallagher,                   MF,   b. 2000,
+ 25,  Moisés Caicedo (ECU),              MF,   b. 2001,   Brighton & HA
+ 31,  Cesare Casadei (ITA),              MF,   b. 2003,   Internazionale
+ 45,  Romeo Lavia (BEL),                 MF,   b. 2004,   Southampton
+ 54,  Leo Castledine,                    MF,   b. 2005,   AFC Wimbledon
+ 59,  Samuel Rak-Sakyi,                  MF,   b. 2005,
+ 68,  Michael Golding,                   MF,   b. 2006,
+ 72,  Harrison McMahon,                  MF,   b. 2006,
+ 74,  Reiss Denny,                       MF,   b. 2006,   Nonr
+ 77,  Leo Cardoso (POR),                 MF,   b. 2006,
+ 78,  Kiano Dyer,                        MF,   b. 2006,   WBA
+ 79,  Ollie Harrison,                    MF,   b. 2007,   Newcastle U
+ 82,  Frankie Runham,                    MF,   b. 2007,
 
- 7  Raheem Sterling (ENG)          FW    # 08 Dec 1994, Kingston  -- Manchester C
-15  Nicolas Jackson (SEN)          FW    # 20 Jun 2001, Dakar  -- Villarreal
-18  Christopher Nkunku (FRA)       FW    # 14 Nov 1997, Lagny-sur-Marne  -- RB Leipzig
-20  Cole Palmer (ENG)              FW    # 06 May 2002, Wythenshawe  -- Manchester C
-36  Deivid Washington (BRA)        FW    # 05 Jun 2005, Itumbiara  -- Santos
-43  Diego Moreira (POR)            FW    # 06 Aug 2004, Liège  -- Lyon (On Loan)
-49  Jimi Tauriainen (FIN)          FW    # 09 Mar 2004, Helsinki  -- HJK Helsinki
-55  Jimmy Jay-Morgan (ENG)         FW    # 21 Jan 2006, Poole  -- Southampton
-56  Billy Gee (ENG)                FW    # 30 Jul 2005, Tooting
-61  Zain Silcott Duberry (ENG)     FW    # 09 Jul 2005, Hackney
-62  Ronnie Stutter (ENG)           FW    # 06 Jan 2005, Hackney
-65  Ato Ampah (GHA)                FW    # 22 Apr 2006, Accra
-66  Chinonso Chibueze (ENG)        FW    # 28 Jan 2006, Lewisham
-67  Tyrique George (ENG)           FW    # 04 Feb 2006, Camden
-71  Donnell McNeilly (ENG)         FW    # 30 Oct 2005, Lewisham
-83  Shaun Wade (IRL)               FW    # 29 Sep 2006, Bristol  -- Bristol C
+  7,  Raheem Sterling,                   FW,   b. 1994,   Manchester C
+ 15,  Nicolas Jackson (SEN),             FW,   b. 2001,   Villarreal
+ 18,  Christopher Nkunku (FRA),          FW,   b. 1997,   RB Leipzig
+ 20,  Cole Palmer,                       FW,   b. 2002,   Manchester C
+ 36,  Deivid Washington (BRA),           FW,   b. 2005,   Santos
+ 43,  Diego Moreira (POR),               FW,   b. 2004,   Lyon (On Loan)
+ 49,  Jimi Tauriainen (FIN),             FW,   b. 2004,   HJK Helsinki
+ 55,  Jimmy Jay-Morgan,                  FW,   b. 2006,   Southampton
+ 56,  Billy Gee,                         FW,   b. 2005,
+ 61,  Zain Silcott Duberry,              FW,   b. 2005,
+ 62,  Ronnie Stutter,                    FW,   b. 2005,
+ 65,  Ato Ampah (GHA),                   FW,   b. 2006,
+ 66,  Chinonso Chibueze,                 FW,   b. 2006,
+ 67,  Tyrique George,                    FW,   b. 2006,
+ 71,  Donnell McNeilly,                  FW,   b. 2005,
+ 83,  Shaun Wade (IRL),                  FW,   b. 2006,   Bristol C

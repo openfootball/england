@@ -1,45 +1,45 @@
-= Sheffield United Football Club    # Sheffield United
+=  Sheffield United FC - English Premier League 2023/24
 
- 1  Adam Davies (WAL)              GK    # 17 Jul 1992, Rinteln  -- Stoke C
-13  Ivo Grbić (CRO)                GK    # 18 Jan 1996, Split  -- Atlético Madrid
-18  Wes Foderingham (ENG)          GK    # 14 Jan 1991, Hammersmith  -- Rangers
-37  Jordan Amissah (GER)           GK    # 02 Aug 2001, Herne  -- Borussia Dortmund
-41  Luke Faxon (ENG)               GK    # 15 Feb 2005, Sheffield
+  1,  Adam Davies (WAL),                 GK,   b. 1992,   Stoke C
+ 13,  Ivo Grbić (CRO),                   GK,   b. 1996,   Atlético Madrid
+ 18,  Wes Foderingham,                   GK,   b. 1991,   Rangers
+ 37,  Jordan Amissah (GER),              GK,   b. 2001,   Borussia Dortmund
+ 41,  Luke Faxon,                        GK,   b. 2005,
 
- 2  George Baldock (GRE)           DF    # 26 Jan 1993, Buckingham  -- MK Dons
- 3  Max Lowe (ENG)                 DF    # 11 May 1997, Birmingham  -- Derby Co
- 5  Auston Trusty (USA)            DF    # 12 Aug 1998, Media  -- Arsenal
-12  John Egan (IRL)                DF    # 20 Oct 1992, Cork  -- Brentford
-15  Anel Ahmedhodžić (BIH)         DF    # 26 Mar 1999, Sarajevo  -- Malmö FF
-19  Jack Robinson (ENG)            DF    # 01 Sep 1993, Warrington  -- Nottingham F
-20  Jayden Bogle (ENG)             DF    # 27 Jul 2000, Reading  -- Derby Co
-27  Yasser Larouci (ALG)           DF    # 01 Jan 2001, El Oued  -- Troyes
-29  Sam Curtis (IRL)               DF    # 01 Dec 2005, Navan  -- St Patrick's Ath
-30  Mason Holgate (ENG)            DF    # 22 Oct 1996, Doncaster  -- Everton
-33  Rhys Norrington-Davies (WAL)   DF    # 22 Apr 1999, Riyadh  -- Swansea C
-35  Andre Brooks (ENG)             DF    # 20 Aug 2003, Sheffield
-43  Evan Easton (SCO)              DF    # 14 Jan 2005  -- Celtic
-46  Dovydas Sasnauskas (LTU)       DF    # -- Chelsea
+  2,  George Baldock (GRE),              DF,   b. 1993,   MK Dons
+  3,  Max Lowe,                          DF,   b. 1997,   Derby Co
+  5,  Auston Trusty (USA),               DF,   b. 1998,   Arsenal
+ 12,  John Egan (IRL),                   DF,   b. 1992,   Brentford
+ 15,  Anel Ahmedhodžić (BIH),            DF,   b. 1999,   Malmö FF
+ 19,  Jack Robinson,                     DF,   b. 1993,   Nottingham F
+ 20,  Jayden Bogle,                      DF,   b. 2000,   Derby Co
+ 27,  Yasser Larouci (ALG),              DF,   b. 2001,   Troyes
+ 29,  Sam Curtis (IRL),                  DF,   b. 2005,   St Patrick's Ath
+ 30,  Mason Holgate,                     DF,   b. 1996,   Everton
+ 33,  Rhys Norrington-Davies (WAL),      DF,   b. 1999,   Swansea C
+ 35,  Andre Brooks,                      DF,   b. 2003,
+ 43,  Evan Easton (SCO),                 DF,   b. 2005,   Celtic
+ 46,  Dovydas Sasnauskas (LTU),          DF,   b. ????,   Chelsea
 
- 6  Chris Basham (ENG)             MF    # 20 Jul 1988, Hebburn  -- Blackpool
- 8  Gustavo Hamer (NED)            MF    # 24 Jun 1997, Itajai  -- Coventry C
-16  Oliver Norwood (NIR)           MF    # 12 Apr 1991, Burnley  -- Brighton & HA
-21  Vinicius Souza (BRA)           MF    # 17 Jun 1999, Rio de Janeiro  -- Lommel
-22  Tom Davies (ENG)               MF    # 30 Jun 1998, Liverpool  -- Everton
-23  Ben Osborn (ENG)               MF    # 05 Aug 1994, Derby  -- Nottingham F
-24  Oliver Arblaster (ENG)         MF    # 05 May 2004, Sheffield
-25  Anis Slimane (TUN)             MF    # 16 Mar 2001, Copenhagen  -- Brøndby
-28  James McAtee (ENG)             MF    # 18 Oct 2002, Salford  -- Manchester C
-40  Jili Buyabu (ENG)              MF    # 09 Aug 2003, Enfield  -- Hornchurch
-42  Sydie Peck (ENG)               MF    # 13 Sep 2004, Enfield  -- Arsenal
-44  Owen Hampson (WAL)             MF    # 17 Nov 2004  -- Manchester U
+  6,  Chris Basham,                      MF,   b. 1988,   Blackpool
+  8,  Gustavo Hamer (NED),               MF,   b. 1997,   Coventry C
+ 16,  Oliver Norwood (NIR),              MF,   b. 1991,   Brighton & HA
+ 21,  Vinicius Souza (BRA),              MF,   b. 1999,   Lommel
+ 22,  Tom Davies,                        MF,   b. 1998,   Everton
+ 23,  Ben Osborn,                        MF,   b. 1994,   Nottingham F
+ 24,  Oliver Arblaster,                  MF,   b. 2004,
+ 25,  Anis Slimane (TUN),                MF,   b. 2001,   Brøndby
+ 28,  James McAtee,                      MF,   b. 2002,   Manchester C
+ 40,  Jili Buyabu,                       MF,   b. 2003,   Hornchurch
+ 42,  Sydie Peck,                        MF,   b. 2004,   Arsenal
+ 44,  Owen Hampson (WAL),                MF,   b. 2004,   Manchester U
 
- 7  Rhian Brewster (ENG)           FW    # 01 Apr 2000, Redbridge  -- Liverpool
- 9  Oliver McBurnie (SCO)          FW    # 04 Jun 1996, Leeds  -- Swansea C
-10  Cameron Archer (ENG)           FW    # 09 Dec 2001, Walsall  -- Aston Villa
-11  Ben Brereton Díaz (CHI)        FW    # 18 Apr 1999, Stoke-on-Trent  -- Villarreal
-26  Ryan Oné (SCO)                 FW    # 26 Jun 2006, Coatbridge  -- Hamilton Academical
-32  William Osula (DEN)            FW    # 04 Aug 2003
-34  Louie Marsh (ENG)              FW    # 16 Oct 2003, Sheffield
-36  Daniel Jebbison (ENG)          FW    # 11 Jul 2003, Oakville
-45  Billy Blacker (ENG)            FW    # 25 May 2006
+  7,  Rhian Brewster,                    FW,   b. 2000,   Liverpool
+  9,  Oliver McBurnie (SCO),             FW,   b. 1996,   Swansea C
+ 10,  Cameron Archer,                    FW,   b. 2001,   Aston Villa
+ 11,  Ben Brereton Díaz (CHI),           FW,   b. 1999,   Villarreal
+ 26,  Ryan Oné (SCO),                    FW,   b. 2006,   Hamilton Academical
+ 32,  William Osula (DEN),               FW,   b. 2003,
+ 34,  Louie Marsh,                       FW,   b. 2003,
+ 36,  Daniel Jebbison,                   FW,   b. 2003,
+ 45,  Billy Blacker,                     FW,   b. 2006,

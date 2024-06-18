@@ -1,60 +1,60 @@
-= Aston Villa Football Club    # Aston Villa
+=  Aston Villa FC - English Premier League 2023/24
 
- 1  Emiliano Martínez (ARG)        GK    # 02 Sep 1992, Mar del Plata  -- Arsenal
-18  Joe Gauci (AUS)                GK    # 04 Jul 2000, Adelaide  -- Adelaide U
-25  Robin Olsen (SWE)              GK    # 08 Jan 1990, Malmö  -- Roma
-55  Lander Emery (ESP)             GK    # 29 Mar 2003  -- Roda B
-64  James Wright (ENG)             GK    # 02 Dec 2004  -- Manchester C
-78  Sam Proctor (ENG)              GK    # 21 Dec 2006, Boston  -- Peterborough U
+  1,  Emiliano Martínez (ARG),           GK,   b. 1992,   Arsenal
+ 18,  Joe Gauci (AUS),                   GK,   b. 2000,   Adelaide U
+ 25,  Robin Olsen (SWE),                 GK,   b. 1990,   Roma
+ 55,  Lander Emery (ESP),                GK,   b. 2003,   Roda B
+ 64,  James Wright,                      GK,   b. 2004,   Manchester C
+ 78,  Sam Proctor,                       GK,   b. 2006,   Peterborough U
 
- 2  Matty Cash (POL)               DF    # 07 Aug 1997, Slough  -- Nottingham F
- 3  Diego Carlos (BRA)             DF    # 15 Mar 1993, Barra Bonita  -- Sevilla
- 4  Ezri Konsa (ENG)               DF    # 23 Oct 1997, Newham  -- Brentford
- 5  Tyrone Mings (ENG)             DF    # 13 Mar 1993, Bath  -- Bournemouth
-12  Lucas Digne (FRA)              DF    # 20 Jul 1993, Meaux  -- Everton
-14  Pau Torres (ESP)               DF    # 16 Jan 1997, Villarreal  -- Villarreal
-15  Álex Moreno (ESP)              DF    # 06 Aug 1993, Sant Sadurní d'Anoia  -- Betis
-16  Calum Chambers (ENG)           DF    # 20 Jan 1995, Petersfield  -- Arsenal
-17  Clément Lenglet (FRA)          DF    # 17 Jun 1995, Beauvais  -- Barcelona
-29  Kaine Kesler Hayden (ENG)      DF    # 23 Oct 2002, Birmingham
-44  Boubacar Kamara (FRA)          DF    # 23 Nov 1999, Marseille  -- Marseille
-50  Sil Swinkels (NED)             DF    # 06 Jan 2004, Sint-Oedenrode  -- Vitesse
-52  Lamare Bogarde (NED)           DF    # 05 Jan 2004, Rotterdam  -- Feyenoord
-54  Jayden Barber (ENG)            DF    # 23 Jun 2005
-60  Aaron O'Reilly (IRL)           DF    # 29 Jun 2004  -- St Patrick's Ath
-61  Frankie Ealing (ENG)           DF    # 14 Jul 2004, Birmingham
-63  Kerr Smith (SCO)               DF    # 12 Dec 2004  -- Dundee U
-66  Travis Patterson (ENG)         DF    # 06 Oct 2005
-69  Finley Munroe (ENG)            DF    # 08 Feb 2005  -- Chelsea
-73  Triston Rowe (ENG)             DF    # -- WBA
-79  Thierry Katsukunya (WAL)       DF    # 30 Nov 2005  -- Coventry C
+  2,  Matty Cash (POL),                  DF,   b. 1997,   Nottingham F
+  3,  Diego Carlos (BRA),                DF,   b. 1993,   Sevilla
+  4,  Ezri Konsa,                        DF,   b. 1997,   Brentford
+  5,  Tyrone Mings,                      DF,   b. 1993,   Bournemouth
+ 12,  Lucas Digne (FRA),                 DF,   b. 1993,   Everton
+ 14,  Pau Torres (ESP),                  DF,   b. 1997,   Villarreal
+ 15,  Álex Moreno (ESP),                 DF,   b. 1993,   Betis
+ 16,  Calum Chambers,                    DF,   b. 1995,   Arsenal
+ 17,  Clément Lenglet (FRA),             DF,   b. 1995,   Barcelona
+ 29,  Kaine Kesler Hayden,               DF,   b. 2002,
+ 44,  Boubacar Kamara (FRA),             DF,   b. 1999,   Marseille
+ 50,  Sil Swinkels (NED),                DF,   b. 2004,   Vitesse
+ 52,  Lamare Bogarde (NED),              DF,   b. 2004,   Feyenoord
+ 54,  Jayden Barber,                     DF,   b. 2005,
+ 60,  Aaron O'Reilly (IRL),              DF,   b. 2004,   St Patrick's Ath
+ 61,  Frankie Ealing,                    DF,   b. 2004,
+ 63,  Kerr Smith (SCO),                  DF,   b. 2004,   Dundee U
+ 66,  Travis Patterson,                  DF,   b. 2005,
+ 69,  Finley Munroe,                     DF,   b. 2005,   Chelsea
+ 73,  Triston Rowe,                      DF,   b. ????,   WBA
+ 79,  Thierry Katsukunya (WAL),          DF,   b. 2005,   Coventry C
 
- 6  Douglas Luiz (BRA)             MF    # 09 May 1998, Rio de Janeiro  -- Manchester C
- 7  John McGinn (SCO)              MF    # 18 Oct 1994, Glasgow  -- Hibernian
- 8  Youri Tielemans (BEL)          MF    # 07 May 1997, Sint-Pieters-Leeuw  -- Leicester C
-10  Emi Buendía (ARG)              MF    # 25 Dec 1996, Mar del Plata  -- Norwich C
-22  Nicolò Zaniolo (ITA)           MF    # 02 Jul 1999, Massa  -- Galtasaray
-27  Morgan Rogers (ENG)            MF    # 26 Jul 2002, Halesowen  -- Middlesbrough
-41  Jacob Ramsey (ENG)             MF    # 28 May 2001, Birmingham
-47  Tim Iroegbunam (ENG)           MF    # 30 Jun 2003, West Bromwich  -- WBA
-51  Teddy Rowe (ENG)               MF    # 17 Oct 2003
-53  Taylor-Jay Hart (ENG)          MF    # 18 Dec 2003
-57  Ajani Burchall (BER)           MF    # 05 Nov 2004, Hamilton [BER]  -- Bournemouth
-62  Chisom Afoka (ENG)             MF    # 23 Sep 2003  -- WBA
-67  Mikell Barnes (ENG)            MF    # 30 Dec 2004
-70  Kyrie Pierre (ENG)             MF    # 17 Jun 2005, Bristol  -- Bristol R
-74  Todd Alcock (ENG)              MF    # 23 Nov 2004
-75  Ben Broggio (ENG)              MF    # 29 Jan 2007
-76  Charlie Pavey (ENG)            MF    # 23 Oct 2005
-77  Aidan Borland (SCO)            MF    # 25 Apr 2007  -- Celtic
-80  Luka Lynch (WAL)               MF    # 11 Jan 2007  -- WBA
+  6,  Douglas Luiz (BRA),                MF,   b. 1998,   Manchester C
+  7,  John McGinn (SCO),                 MF,   b. 1994,   Hibernian
+  8,  Youri Tielemans (BEL),             MF,   b. 1997,   Leicester C
+ 10,  Emi Buendía (ARG),                 MF,   b. 1996,   Norwich C
+ 22,  Nicolò Zaniolo (ITA),              MF,   b. 1999,   Galtasaray
+ 27,  Morgan Rogers,                     MF,   b. 2002,   Middlesbrough
+ 41,  Jacob Ramsey,                      MF,   b. 2001,
+ 47,  Tim Iroegbunam,                    MF,   b. 2003,   WBA
+ 51,  Teddy Rowe,                        MF,   b. 2003,
+ 53,  Taylor-Jay Hart,                   MF,   b. 2003,
+ 57,  Ajani Burchall (BER),              MF,   b. 2004,   Bournemouth
+ 62,  Chisom Afoka,                      MF,   b. 2003,   WBA
+ 67,  Mikell Barnes,                     MF,   b. 2004,
+ 70,  Kyrie Pierre,                      MF,   b. 2005,   Bristol R
+ 74,  Todd Alcock,                       MF,   b. 2004,
+ 75,  Ben Broggio,                       MF,   b. 2007,
+ 76,  Charlie Pavey,                     MF,   b. 2005,
+ 77,  Aidan Borland (SCO),               MF,   b. 2007,   Celtic
+ 80,  Luka Lynch (WAL),                  MF,   b. 2007,   WBA
 
-11  Ollie Watkins (ENG)            FW    # 30 Dec 1995, Torbay  -- Brentford
-19  Moussa Diaby (FRA)             FW    # 07 Jul 1999, Paris  -- Bayer Leverkusen
-24  Jhon Durán (COL)               FW    # 13 Dec 2003, Medellín  -- Chicago Fire
-31  Leon Bailey (JAM)              FW    # 09 Aug 1997, Kingston  -- Bayer Leverkusen
-49  Charlie Lutz (ENG)             FW    # 15 Oct 2004, Worcester
-65  Rory Wilson (SCO)              FW    # 05 Jan 2006, Girvan  -- Rangers
-68  Kobei Moore (ENG)              FW    # 30 Nov 2004, Birmingham
-71  Omari Kellyman (NIR)           FW    # 25 Sep 2005, Derby  -- Derby Co
-72  Kadan Young (ENG)              FW    # 19 Jan 2006, Worcester
+ 11,  Ollie Watkins,                     FW,   b. 1995,   Brentford
+ 19,  Moussa Diaby (FRA),                FW,   b. 1999,   Bayer Leverkusen
+ 24,  Jhon Durán (COL),                  FW,   b. 2003,   Chicago Fire
+ 31,  Leon Bailey (JAM),                 FW,   b. 1997,   Bayer Leverkusen
+ 49,  Charlie Lutz,                      FW,   b. 2004,
+ 65,  Rory Wilson (SCO),                 FW,   b. 2006,   Rangers
+ 68,  Kobei Moore,                       FW,   b. 2004,
+ 71,  Omari Kellyman (NIR),              FW,   b. 2005,   Derby Co
+ 72,  Kadan Young,                       FW,   b. 2006,

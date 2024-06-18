@@ -1,40 +1,40 @@
-= Luton Town Football Club    # Luton Town
+=  Luton Town FC - English Premier League 2023/24
 
- 1  James Shea (ENG)               GK    # 16 Jun 1991, Islington  -- AFC Wimbledon
-23  Tim Krul (NED)                 GK    # 03 Apr 1988, Den Haag  -- Norwich C
-24  Thomas Kaminski (BEL)          GK    # 23 Oct 1992, Dendermonde  -- Blackburn R
+  1,  James Shea,                        GK,   b. 1991,   AFC Wimbledon
+ 23,  Tim Krul (NED),                    GK,   b. 1988,   Norwich C
+ 24,  Thomas Kaminski (BEL),             GK,   b. 1992,   Blackburn R
 
- 2  Gabriel Osho (ENG)             DF    # 14 Aug 1998, Reading  -- Reading
- 3  Dan Potts (ENG)                DF    # 13 Apr 1994, Barking  -- West Ham U
- 4  Tom Lockyer (WAL)              DF    # 03 Dec 1994, Cardiff  -- Charlton Ath
- 5  Mads Juel Andersen (DEN)       DF    # 27 Dec 1997, Albertslund  -- Barnsley
-12  Issa Kaboré (BFA)              DF    # 12 May 2001, Bobo-Dioulasso  -- Manchester C
-15  Teden Mengi (ENG)              DF    # 30 Apr 2002, Manchester  -- Manchester U
-16  Reece Burke (ENG)              DF    # 02 Sep 1996, Newham  -- Hull C
-27  Daiki Hashioka (JPN)           DF    # 17 May 1999, Saitama  -- Sint-Truiden
-29  Amari'i Bell (JAM)             DF    # 05 May 1994, Burton upon Trent  -- Blackburn R
-38  Joe Johnson (ENG)              DF    # 09 Jan 2006
-40  Aidan Francis-Clarke (ENG)     DF    # 08 Nov 2003
-42  Christian Chigozie (ENG)       DF    # 01 Mar 2007, Luton
+  2,  Gabriel Osho,                      DF,   b. 1998,   Reading
+  3,  Dan Potts,                         DF,   b. 1994,   West Ham U
+  4,  Tom Lockyer (WAL),                 DF,   b. 1994,   Charlton Ath
+  5,  Mads Juel Andersen (DEN),          DF,   b. 1997,   Barnsley
+ 12,  Issa Kaboré (BFA),                 DF,   b. 2001,   Manchester C
+ 15,  Teden Mengi,                       DF,   b. 2002,   Manchester U
+ 16,  Reece Burke,                       DF,   b. 1996,   Hull C
+ 27,  Daiki Hashioka (JPN),              DF,   b. 1999,   Sint-Truiden
+ 29,  Amari'i Bell (JAM),                DF,   b. 1994,   Blackburn R
+ 38,  Joe Johnson,                       DF,   b. 2006,
+ 40,  Aidan Francis-Clarke,              DF,   b. 2003,
+ 42,  Christian Chigozie,                DF,   b. 2007,
 
- 6  Ross Barkley (ENG)             MF    # 05 Dec 1993, Liverpool  -- Nice
- 7  Chiedozie Ogbene (IRL)         MF    # 01 May 1997, Enugu  -- Rotherham U
- 8  Luke Berry (ENG)               MF    # 12 Jul 1992, Bassingbourn  -- Cambridge U
-13  Marvelous Nakamba (ZIM)        MF    # 19 Jan 1994, Hwange  -- Aston Villa
-17  Pelly Ruddock Mpanzu (COD)     MF    # 17 Jul 1993, Hendon  -- West Ham U
-18  Jordan Clark (ENG)             MF    # 22 Sep 1993, Barnsley  -- Accrington Stanley
-28  Albert Sambi Lokonga (BEL)     MF    # 22 Oct 1999, Verviers  -- Arsenal
-30  Andros Townsend (ENG)          MF    # 16 Jul 1991, Whipps Cross  -- Everton
-32  Fred Onyedinma (NGA)           MF    # 24 Nov 1996, Lagos  -- Wycombe W
-43  Zack Nelson (ENG)              MF    # 21 Apr 2005, Camden
-44  Axel Piesold (ENG)             MF    # 31 Mar 2005, Haringey  -- Tottenham H
-45  Alfie Doughty (ENG)            MF    # 21 Dec 1999, Hatfield  -- Stoke C
-46  Jake Burger (ENG)              MF    # 06 Oct 2004, Luton
-48  Dominic Martins (POR)          MF    # 13 Oct 2005
+  6,  Ross Barkley,                      MF,   b. 1993,   Nice
+  7,  Chiedozie Ogbene (IRL),            MF,   b. 1997,   Rotherham U
+  8,  Luke Berry,                        MF,   b. 1992,   Cambridge U
+ 13,  Marvelous Nakamba (ZIM),           MF,   b. 1994,   Aston Villa
+ 17,  Pelly Ruddock Mpanzu (COD),        MF,   b. 1993,   West Ham U
+ 18,  Jordan Clark,                      MF,   b. 1993,   Accrington Stanley
+ 28,  Albert Sambi Lokonga (BEL),        MF,   b. 1999,   Arsenal
+ 30,  Andros Townsend,                   MF,   b. 1991,   Everton
+ 32,  Fred Onyedinma (NGA),              MF,   b. 1996,   Wycombe W
+ 43,  Zack Nelson,                       MF,   b. 2005,
+ 44,  Axel Piesold,                      MF,   b. 2005,   Tottenham H
+ 45,  Alfie Doughty,                     MF,   b. 1999,   Stoke C
+ 46,  Jake Burger,                       MF,   b. 2004,
+ 48,  Dominic Martins (POR),             MF,   b. 2005,
 
- 9  Carlton Morris (ENG)           FW    # 16 Dec 1995, Cambridge  -- Barnsley
-10  Cauley Woodrow (ENG)           FW    # 02 Dec 1994, Hemel Hempstead  -- Barnsley
-11  Elijah Adebayo (ENG)           FW    # 07 Jan 1998, Brent  -- Walsall
-14  Tahith Chong (NED)             FW    # 04 Dec 1999, Willemstad  -- Birmingham C
-19  Jacob Brown (SCO)              FW    # 10 Apr 1998, Halifax  -- Stoke C
-41  Taylan Harris (ENG)            FW    # 30 Oct 2005  -- Reading
+  9,  Carlton Morris,                    FW,   b. 1995,   Barnsley
+ 10,  Cauley Woodrow,                    FW,   b. 1994,   Barnsley
+ 11,  Elijah Adebayo,                    FW,   b. 1998,   Walsall
+ 14,  Tahith Chong (NED),                FW,   b. 1999,   Birmingham C
+ 19,  Jacob Brown (SCO),                 FW,   b. 1998,   Stoke C
+ 41,  Taylan Harris,                     FW,   b. 2005,   Reading

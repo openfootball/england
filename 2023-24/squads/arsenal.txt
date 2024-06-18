@@ -1,73 +1,73 @@
-= Arsenal Football Club    # Arsenal
+=  Arsenal FC - English Premier League 2023/24
 
- 1  Aaron Ramsdale (ENG)           GK    # 14 May 1998, Stoke-on-Trent  -- Sheffield U
-22  David Raya (ESP)               GK    # 15 Sep 1995, Barcelona  -- Brentford
-31  Karl Hein (EST)                GK    # 13 Apr 2002, Põlva  -- Nõmme U
-48  Ovie Ejeheri (ENG)             GK    # 23 Apr 2003, Greenwich
-52  Hubert Graczyk (ENG)           GK    # 28 Feb 2003, Skwierzyna
-54  James Hillson (ENG)            GK    # 14 Jan 2001, Bedford  -- Reading
-82  Noah Cooper (ENG)              GK    # 02 Feb 2006, Bromley  -- Crystal Palace
-90  Brian Okonkwo (ENG)            GK    # 30 Dec 2005, Camden
-91  Alexei Rojas (COL)             GK    # 28 Sep 2005, Basildon
+  1,  Aaron Ramsdale,                    GK,   b. 1998,   Sheffield U
+ 22,  David Raya (ESP),                  GK,   b. 1995,   Brentford
+ 31,  Karl Hein (EST),                   GK,   b. 2002,   Nõmme U
+ 48,  Ovie Ejeheri,                      GK,   b. 2003,
+ 52,  Hubert Graczyk,                    GK,   b. 2003,
+ 54,  James Hillson,                     GK,   b. 2001,   Reading
+ 82,  Noah Cooper,                       GK,   b. 2006,   Crystal Palace
+ 90,  Brian Okonkwo,                     GK,   b. 2005,
+ 91,  Alexei Rojas (COL),                GK,   b. 2005,
 
- 2  William Saliba (FRA)           DF    # 24 Mar 2001, Bondy  -- St-Etienne
- 4  Ben White (ENG)                DF    # 08 Nov 1997, Poole  -- Brighton & HA
- 6  Gabriel (BRA)                  DF    # 19 Dec 1997, São Paulo  -- Lille
-12  Jurrien Timber (NED)           DF    # 17 Jun 2001, Utrecht  -- Ajax
-15  Jakub Kiwior (POL)             DF    # 15 Feb 2000, Tychy  -- Spezia
-17  Cédric Soares (POR)            DF    # 31 Aug 1991, Gelsenkirchen  -- Southampton
-18  Takehiro Tomiyasu (JPN)        DF    # 05 Nov 1998, Fukuoka  -- Bologna
-35  Oleksandr Zinchenko (UKR)      DF    # 15 Dec 1996, Illichivsk  -- Manchester C
-50  Taylor Foran (ENG)             DF    # 14 Oct 2003, Hillingdon
-60  Brayden Clarke (WAL)           DF    # 03 Jul 2007  -- Wolverhampton W
-68  Elián Quesada Thorn (CRC)      DF    # 19 Feb 2005, Barnet
-70  Josh Robinson (ENG)            DF    # 20 Dec 2004, London
-73  James Sweet (WAL)              DF    # 06 Sep 2003, Wandsworth
-76  Reuell Walters (ENG)           DF    # 16 Dec 2004, Lambeth
-78  Cam'ron Ismail (ENG)           DF    # 22 Nov 2006, Islington
-79  Ayden Heaven (ENG)             DF    # 22 Sep 2006, Islington
-81  Luis Brown (ENG)               DF    # 25 Sep 2005
-87  Maldini Kacurri (ALB)          DF    # 04 Oct 2005  -- Fulham
-89  Josh Nichols (ENG)             DF    # 26 Jul 2006, Newham
-92  Michał Rosiak (POL)            DF    # 12 Oct 2005, Białogard  -- Chelsea
-94  Coby Small (ENG)               DF    # 26 Jul 2006, Hackney
-98  Reece Clairmont (ENG)          DF    # 14 Dec 2006, Waltham Forest
+  2,  William Saliba (FRA),              DF,   b. 2001,   St-Etienne
+  4,  Ben White,                         DF,   b. 1997,   Brighton & HA
+  6,  Gabriel (BRA),                     DF,   b. 1997,   Lille
+ 12,  Jurrien Timber (NED),              DF,   b. 2001,   Ajax
+ 15,  Jakub Kiwior (POL),                DF,   b. 2000,   Spezia
+ 17,  Cédric Soares (POR),               DF,   b. 1991,   Southampton
+ 18,  Takehiro Tomiyasu (JPN),           DF,   b. 1998,   Bologna
+ 35,  Oleksandr Zinchenko (UKR),         DF,   b. 1996,   Manchester C
+ 50,  Taylor Foran,                      DF,   b. 2003,
+ 60,  Brayden Clarke (WAL),              DF,   b. 2007,   Wolverhampton W
+ 68,  Elián Quesada Thorn (CRC),         DF,   b. 2005,
+ 70,  Josh Robinson,                     DF,   b. 2004,
+ 73,  James Sweet (WAL),                 DF,   b. 2003,
+ 76,  Reuell Walters,                    DF,   b. 2004,
+ 78,  Cam'ron Ismail,                    DF,   b. 2006,
+ 79,  Ayden Heaven,                      DF,   b. 2006,
+ 81,  Luis Brown,                        DF,   b. 2005,
+ 87,  Maldini Kacurri (ALB),             DF,   b. 2005,   Fulham
+ 89,  Josh Nichols,                      DF,   b. 2006,
+ 92,  Michał Rosiak (POL),               DF,   b. 2005,   Chelsea
+ 94,  Coby Small,                        DF,   b. 2006,
+ 98,  Reece Clairmont,                   DF,   b. 2006,
 
- 5  Thomas Partey (GHA)            MF    # 13 Jun 1993, Odumase Krobo  -- Atlético Madrid
- 7  Bukayo Saka (ENG)              MF    # 05 Sep 2001, Ealing
- 8  Martin Ødegaard (NOR)          MF    # 17 Dec 1998, Drammen  -- Real Madrid
-10  Emile Smith Rowe (ENG)         MF    # 28 Jul 2000, Croydon
-19  Leandro Trossard (BEL)         MF    # 04 Dec 1994, Waterschei  -- Brighton & HA
-20  Jorginho (ITA)                 MF    # 21 Dec 1991, Imbituba  -- Chelsea
-21  Fábio Vieira (POR)             MF    # 30 May 2000, Santa Maria da Feira  -- FC Porto
-25  Mohamed Elneny (EGY)           MF    # 11 Jul 1992, Mahalla  -- Basel
-29  Kai Havertz (GER)              MF    # 11 Jun 1999, Aachen  -- Chelsea
-39  Miguel Azeez (ENG)             MF    # 20 Sep 2002, Camden
-40  Mauro Bandeira (POR)           MF    # 18 Nov 2003, Loures
-41  Declan Rice (ENG)              MF    # 14 Jan 1999, Kingston upon Thames  -- West Ham U
-51  Jimi Gower (ENG)               MF    # 01 Oct 2004, Havering
-53  Jack Henry-Francis (IRL)       MF    # 23 Sep 2003, Croydon
-59  Myles Lewis-Skelly (ENG)       MF    # 26 Sep 2006, Lambeth
-63  Ethan Nwaneri (ENG)            MF    # 21 Mar 2007
-66  Ismail Oulad M'Hand (MAR)      MF    # 11 Jan 2005, Den Haag  -- Feyenoord
-83  Harrison Dudziak (ENG)         MF    # 09 Jan 2006, Westminster
-93  Kamarni Ryan (ENG)             MF    # 29 Jan 2006, Hackney  -- Chelsea
-95  Bless Akolbire (ENG)           MF    # 25 Jan 2007
-97  Dan Casey (ENG)                MF    # 18 Nov 2006
-99  Louie Copley (ENG)             MF    # 20 Oct 2006, Southend-on-Sea
+  5,  Thomas Partey (GHA),               MF,   b. 1993,   Atlético Madrid
+  7,  Bukayo Saka,                       MF,   b. 2001,
+  8,  Martin Ødegaard (NOR),             MF,   b. 1998,   Real Madrid
+ 10,  Emile Smith Rowe,                  MF,   b. 2000,
+ 19,  Leandro Trossard (BEL),            MF,   b. 1994,   Brighton & HA
+ 20,  Jorginho (ITA),                    MF,   b. 1991,   Chelsea
+ 21,  Fábio Vieira (POR),                MF,   b. 2000,   FC Porto
+ 25,  Mohamed Elneny (EGY),              MF,   b. 1992,   Basel
+ 29,  Kai Havertz (GER),                 MF,   b. 1999,   Chelsea
+ 39,  Miguel Azeez,                      MF,   b. 2002,
+ 40,  Mauro Bandeira (POR),              MF,   b. 2003,
+ 41,  Declan Rice,                       MF,   b. 1999,   West Ham U
+ 51,  Jimi Gower,                        MF,   b. 2004,
+ 53,  Jack Henry-Francis (IRL),          MF,   b. 2003,
+ 59,  Myles Lewis-Skelly,                MF,   b. 2006,
+ 63,  Ethan Nwaneri,                     MF,   b. 2007,
+ 66,  Ismail Oulad M'Hand (MAR),         MF,   b. 2005,   Feyenoord
+ 83,  Harrison Dudziak,                  MF,   b. 2006,
+ 93,  Kamarni Ryan,                      MF,   b. 2006,   Chelsea
+ 95,  Bless Akolbire,                    MF,   b. 2007,
+ 97,  Dan Casey,                         MF,   b. 2006,
+ 99,  Louie Copley,                      MF,   b. 2006,
 
- 9  Gabriel Jesus (BRA)            FW    # 03 Apr 1997, São Paulo  -- Manchester C
-11  Gabriel Martinelli (BRA)       FW    # 18 Jun 2001, Guarulhos  -- Ituano
-14  Eddie Nketiah (ENG)            FW    # 30 May 1999, Lewisham
-24  Reiss Nelson (ENG)             FW    # 10 Dec 1999, Lambeth
-42  Nathan Butler-Oyedeji (ENG)    FW    # 04 Jan 2003, Waltham Forest
-45  Amario Cozier-Duberry (ENG)    FW    # 29 May 2005, Islington
-46  Henry Timi Davies (ENG)        FW    # 27 Nov 2004, Hackney
-75  Billy Vigar (ENG)              FW    # 22 Oct 2003, Worthing
-77  Daniel Oyetunde (ENG)          FW    # 26 Nov 2006, Enfield
-80  Omari Benjamin (WAL)           FW    # 04 Dec 2005, Watford
-84  Sebastian Ferdinand (ENG)      FW    # 12 Jan 2006, Watford
-85  Romari Forde (ENG)             FW    # 28 Mar 2006, Watford  -- Watford
-86  Ismeal Kabia (NED)             FW    # 10 Dec 2005
-88  Osman Kamara (ENG)             FW    # 06 Aug 2006, Tower Hamlets
-96  Jakai Bascoe-Fisher (ENG)      FW    # 27 Nov 2006, Waltham Forest
+  9,  Gabriel Jesus (BRA),               FW,   b. 1997,   Manchester C
+ 11,  Gabriel Martinelli (BRA),          FW,   b. 2001,   Ituano
+ 14,  Eddie Nketiah,                     FW,   b. 1999,
+ 24,  Reiss Nelson,                      FW,   b. 1999,
+ 42,  Nathan Butler-Oyedeji,             FW,   b. 2003,
+ 45,  Amario Cozier-Duberry,             FW,   b. 2005,
+ 46,  Henry Timi Davies,                 FW,   b. 2004,
+ 75,  Billy Vigar,                       FW,   b. 2003,
+ 77,  Daniel Oyetunde,                   FW,   b. 2006,
+ 80,  Omari Benjamin (WAL),              FW,   b. 2005,
+ 84,  Sebastian Ferdinand,               FW,   b. 2006,
+ 85,  Romari Forde,                      FW,   b. 2006,   Watford
+ 86,  Ismeal Kabia (NED),                FW,   b. 2005,
+ 88,  Osman Kamara,                      FW,   b. 2006,
+ 96,  Jakai Bascoe-Fisher,               FW,   b. 2006,

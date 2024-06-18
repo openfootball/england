@@ -1,70 +1,70 @@
-= Manchester United Football Club    # Manchester United
+=  Manchester United FC - English Premier League 2023/24
 
- 1  Altay Bayındır (TUR)           GK    # 14 Apr 1998, Osmangazi  -- Fenerbahçe
-22  Thomas Heaton (ENG)            GK    # 15 Apr 1986, Chester  -- Aston Villa
-24  André Onana (CMR)              GK    # 02 Apr 1996, Nkol Ngok  -- Internazionale
-45  Dermot Mee (NIR)               GK    # 20 Nov 2002, Birmingham
-50  Elyh Harrison (ENG)            GK    # 19 Feb 2006, Redbridge  -- Stevenage
-58  Kie Plumley (ENG)              GK    # 21 May 2003  -- Oxford U
-60  Cameron Byrne-Hughes (WAL)     GK    # 02 Nov 2007
-71  Tom Wooster (ENG)              GK    # 30 Mar 2005, Sheffield  -- Barnsley
-74  Thomas Myles (ENG)             GK    # 17 Nov 2005, Preston
-87  William Murdock (NIR)          GK    # 26 May 2007
+  1,  Altay Bayındır (TUR),              GK,   b. 1998,   Fenerbahçe
+ 22,  Thomas Heaton,                     GK,   b. 1986,   Aston Villa
+ 24,  André Onana (CMR),                 GK,   b. 1996,   Internazionale
+ 45,  Dermot Mee (NIR),                  GK,   b. 2002,
+ 50,  Elyh Harrison,                     GK,   b. 2006,   Stevenage
+ 58,  Kie Plumley,                       GK,   b. 2003,   Oxford U
+ 60,  Cameron Byrne-Hughes (WAL),        GK,   b. 2007,
+ 71,  Tom Wooster,                       GK,   b. 2005,   Barnsley
+ 74,  Thomas Myles,                      GK,   b. 2005,
+ 87,  William Murdock (NIR),             GK,   b. 2007,
 
- 2  Victor Lindelöf (SWE)          DF    # 17 Jul 1994, Västerås  -- Benfica
- 5  Harry Maguire (ENG)            DF    # 05 Mar 1993, Sheffield  -- Leicester C
- 6  Lisandro Martínez (ARG)        DF    # 18 Jan 1998, Gualeguay  -- Ajax
-12  Tyrell Malacia (NED)           DF    # 17 Aug 1999, Rotterdam  -- Feyenoord
-19  Raphaël Varane (FRA)           DF    # 25 Apr 1993, Lille  -- Real Madrid
-20  Diogo Dalot (POR)              DF    # 18 Mar 1999, Braga  -- FC Porto
-23  Luke Shaw (ENG)                DF    # 12 Jul 1995, Kingston upon Thames  -- Southampton
-29  Aaron Wan-Bissaka (ENG)        DF    # 26 Nov 1997, Croydon  -- Crystal Palace
-35  Jonny Evans (NIR)              DF    # 02 Jan 1988, Belfast  -- Leicester C
-53  Willy Kambwala (FRA)           DF    # 25 Aug 2004, Kinshasa  -- Sochaux
-55  Tyler Fredricson (ENG)         DF    # 23 Feb 2005, Stockport
-70  Harry Amass (ENG)              DF    # 16 May 2007  -- Watford
-75  Habeeb Ogunneye (ENG)          DF    # 12 Nov 2005, Hackney
-76  James Nolan (ENG)              DF    # 02 Oct 2005, Chorley
-77  Jack Kingdon (SCO)             DF    # 16 Nov 2005, Bolton  -- Morecambe
-78  Louis Jackson (SCO)            DF    # 18 Sep 2005, Oldham
-89  Reece Munro (ENG)              DF    # 21 Jul 2007
-90  Jaydan Kamason (ENG)           DF    # 08 Dec 2006, Lambeth
-95  Jacob Devaney (ENG)            DF    # 11 Jun 2007
+  2,  Victor Lindelöf (SWE),             DF,   b. 1994,   Benfica
+  5,  Harry Maguire,                     DF,   b. 1993,   Leicester C
+  6,  Lisandro Martínez (ARG),           DF,   b. 1998,   Ajax
+ 12,  Tyrell Malacia (NED),              DF,   b. 1999,   Feyenoord
+ 19,  Raphaël Varane (FRA),              DF,   b. 1993,   Real Madrid
+ 20,  Diogo Dalot (POR),                 DF,   b. 1999,   FC Porto
+ 23,  Luke Shaw,                         DF,   b. 1995,   Southampton
+ 29,  Aaron Wan-Bissaka,                 DF,   b. 1997,   Crystal Palace
+ 35,  Jonny Evans (NIR),                 DF,   b. 1988,   Leicester C
+ 53,  Willy Kambwala (FRA),              DF,   b. 2004,   Sochaux
+ 55,  Tyler Fredricson,                  DF,   b. 2005,
+ 70,  Harry Amass,                       DF,   b. 2007,   Watford
+ 75,  Habeeb Ogunneye,                   DF,   b. 2005,
+ 76,  James Nolan,                       DF,   b. 2005,
+ 77,  Jack Kingdon (SCO),                DF,   b. 2005,   Morecambe
+ 78,  Louis Jackson (SCO),               DF,   b. 2005,
+ 89,  Reece Munro,                       DF,   b. 2007,
+ 90,  Jaydan Kamason,                    DF,   b. 2006,
+ 95,  Jacob Devaney,                     DF,   b. 2007,
 
- 4  Sofyan Amrabat (MAR)           MF    # 21 Aug 1996, Huizen  -- Fiorentina
- 7  Mason Mount (ENG)              MF    # 10 Jan 1999, Portsmouth  -- Chelsea
- 8  Bruno Fernandes (POR)          MF    # 08 Sep 1994, Maia  -- Sporting CP
-14  Christian Eriksen (DEN)        MF    # 14 Feb 1992, Middelfart  -- Brentford
-16  Amad Diallo (CIV)              MF    # 11 Jul 2002, Abidjan  -- Atalanta
-18  Casemiro (BRA)                 MF    # 23 Feb 1992, São José dos Campos  -- Real Madrid
-36  Tom Huddlestone (ENG)          MF    # 28 Dec 1986, Nottingham  -- Hull C
-37  Kobbie Mainoo (ENG)            MF    # 19 Apr 2005, Stockport
-39  Scott McTominay (SCO)          MF    # 08 Dec 1996, Lancaster
-62  Omari Forson (ENG)             MF    # 20 Jul 2004  -- Tottenham H
-63  Ethan Ennis (ENG)              MF    # 11 Dec 2004  -- Liverpool
-64  Bendito Mantato (ENG)          MF    # 25 Jan 2008
-65  Toby Collyer (ENG)             MF    # 03 Jan 2004, Worthing  -- Brighton & HA
-73  Jack Moorhouse (ENG)           MF    # 29 Nov 2005, Manchester
-79  Fin McAllister (ENG)           MF    # 16 Jul 2006, Salford
-80  Ruben Curley (ENG)             MF    # 05 Sep 2005, Manchester
-82  Ethan Williams (ENG)           MF    # 14 Nov 2005, Manchester
-85  Jack Fletcher (ENG)            MF    # 19 Mar 2007, Manchester  -- Manchester C
-92  James Scanlon (GIB)            MF    # 28 Sep 2006  -- Derby Co
-93  Shea Lacey (ENG)               MF    # 14 Apr 2007
-94  Jayce Fitzgerald (ENG)         MF    # 09 May 2007
-96  Zachary Baumann (ENG)          MF    # 02 Jan 2007
-99  Tyler Fletcher (SCO)           MF    # 19 Mar 2007, Manchester  -- Manchester C
+  4,  Sofyan Amrabat (MAR),              MF,   b. 1996,   Fiorentina
+  7,  Mason Mount,                       MF,   b. 1999,   Chelsea
+  8,  Bruno Fernandes (POR),             MF,   b. 1994,   Sporting CP
+ 14,  Christian Eriksen (DEN),           MF,   b. 1992,   Brentford
+ 16,  Amad Diallo (CIV),                 MF,   b. 2002,   Atalanta
+ 18,  Casemiro (BRA),                    MF,   b. 1992,   Real Madrid
+ 36,  Tom Huddlestone,                   MF,   b. 1986,   Hull C
+ 37,  Kobbie Mainoo,                     MF,   b. 2005,
+ 39,  Scott McTominay (SCO),             MF,   b. 1996,
+ 62,  Omari Forson,                      MF,   b. 2004,   Tottenham H
+ 63,  Ethan Ennis,                       MF,   b. 2004,   Liverpool
+ 64,  Bendito Mantato,                   MF,   b. 2008,
+ 65,  Toby Collyer,                      MF,   b. 2004,   Brighton & HA
+ 73,  Jack Moorhouse,                    MF,   b. 2005,
+ 79,  Fin McAllister,                    MF,   b. 2006,
+ 80,  Ruben Curley,                      MF,   b. 2005,
+ 82,  Ethan Williams,                    MF,   b. 2005,
+ 85,  Jack Fletcher,                     MF,   b. 2007,   Manchester C
+ 92,  James Scanlon (GIB),               MF,   b. 2006,   Derby Co
+ 93,  Shea Lacey,                        MF,   b. 2007,
+ 94,  Jayce Fitzgerald,                  MF,   b. 2007,
+ 96,  Zachary Baumann,                   MF,   b. 2007,
+ 99,  Tyler Fletcher (SCO),              MF,   b. 2007,   Manchester C
 
- 9  Anthony Martial (FRA)          FW    # 05 Dec 1995, Massy  -- Monaco
-10  Marcus Rashford (ENG)          FW    # 31 Oct 1997, Manchester
-11  Rasmus Højlund (DEN)           FW    # 04 Feb 2003, Copenhagen  -- Atalanta
-17  Alejandro Garnacho (ARG)       FW    # 01 Jul 2004, Madrid  -- Atlético Madrid
-21  Antony (BRA)                   FW    # 24 Feb 2000, Osasco  -- Ajax
-47  Shola Shoretire (ENG)          FW    # 02 Feb 2004, Newcastle upon Tyne  -- Newcastle U
-56  Charlie McNeill (ENG)          FW    # 09 Sep 2003, Droylsden  -- Manchester C
-83  Malachi Sharpe (SCO)           FW    # 20 Nov 2005, Nottingham  -- Derby Co
-84  Ethan Wheatley (ENG)           FW    # 20 Jan 2006, Stockport
-86  Ashton Missin (ENG)            FW    # 15 Aug 2006, Halifax
-88  Victor Musa (ESP)              FW    # 05 Sep 2006, Tudela
-97  Sekou Kaba (ENG)               FW    # 28 Mar 2007  -- Derby Co
-98  Gabriele Biancheri (WAL)       FW    # 18 Sep 2006, Cardiff  -- Cardiff C
+  9,  Anthony Martial (FRA),             FW,   b. 1995,   Monaco
+ 10,  Marcus Rashford,                   FW,   b. 1997,
+ 11,  Rasmus Højlund (DEN),              FW,   b. 2003,   Atalanta
+ 17,  Alejandro Garnacho (ARG),          FW,   b. 2004,   Atlético Madrid
+ 21,  Antony (BRA),                      FW,   b. 2000,   Ajax
+ 47,  Shola Shoretire,                   FW,   b. 2004,   Newcastle U
+ 56,  Charlie McNeill,                   FW,   b. 2003,   Manchester C
+ 83,  Malachi Sharpe (SCO),              FW,   b. 2005,   Derby Co
+ 84,  Ethan Wheatley,                    FW,   b. 2006,
+ 86,  Ashton Missin,                     FW,   b. 2006,
+ 88,  Victor Musa (ESP),                 FW,   b. 2006,
+ 97,  Sekou Kaba,                        FW,   b. 2007,   Derby Co
+ 98,  Gabriele Biancheri (WAL),          FW,   b. 2006,   Cardiff C

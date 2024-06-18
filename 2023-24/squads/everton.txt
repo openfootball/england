@@ -1,72 +1,72 @@
-= Everton Football Club    # Everton
+=  Everton FC - English Premier League 2023/24
 
- 1  Jordan Pickford (ENG)          GK    # 07 Mar 1994, Washington  -- Sunderland
-12  João Virgínia (POR)            GK    # 10 Oct 1999, Faro  -- Arsenal
-31  Andy Lonergan (ENG)            GK    # 19 Oct 1983, Preston  -- WBA
-43  Billy Crellin (ENG)            GK    # 30 Jan 2000, Blackpool  -- Fleetwood T
-47  Fraser Barnsley (NIR)          GK    # 06 Oct 2004  -- Oxford U
-49  Sebastian Jensen (ENG)         GK   
-50  George Pickford (ENG)          GK   
-63  Žan Luk Leban (SVN)            GK    # 15 Dec 2002  -- Escola Varsovia
-71  Dylan Graham (NIR)             GK    # 31 Oct 2004, Belfast  -- Ballymena U
+  1,  Jordan Pickford,                   GK,   b. 1994,   Sunderland
+ 12,  João Virgínia (POR),               GK,   b. 1999,   Arsenal
+ 31,  Andy Lonergan,                     GK,   b. 1983,   WBA
+ 43,  Billy Crellin,                     GK,   b. 2000,   Fleetwood T
+ 47,  Fraser Barnsley (NIR),             GK,   b. 2004,   Oxford U
+ 49,  Sebastian Jensen,                  GK,   b. ????,
+ 50,  George Pickford,                   GK,   b. ????,
+ 63,  Žan Luk Leban (SVN),               GK,   b. 2002,   Escola Varsovia
+ 71,  Dylan Graham (NIR),                GK,   b. 2004,   Ballymena U
 
- 2  Nathan Patterson (SCO)         DF    # 16 Oct 2001, Glasgow  -- Rangers
- 5  Michael Keane (ENG)            DF    # 11 Jan 1993, Stockport  -- Burnley
- 6  James Tarkowski (ENG)          DF    # 19 Nov 1992, Manchester  -- Burnley
-18  Ashley Young (ENG)             DF    # 09 Jul 1985, Stevenage  -- Aston Villa
-19  Vitaliy Mykolenko (UKR)        DF    # 29 May 1999, Cherkasy  -- Dynamo Kyiv
-22  Ben Godfrey (ENG)              DF    # 15 Jan 1998, York  -- Norwich C
-23  Séamus Coleman (IRL)           DF    # 11 Oct 1988, Killybegs  -- Sligo R
-32  Jarrad Branthwaite (ENG)       DF    # 27 Jun 2002, Carlisle  -- Carlisle U
-48  Kyle John (ENG)                DF    # 13 Feb 2001, Chester
-55  George Finney (ENG)            DF   
-59  Luca Davis (ENG)               DF   
-60  Daniel Maher (ENG)             DF   
-64  Reece Welch (ENG)              DF    # 19 Sep 2003, Huddersfield
-68  Mathew Mallon (ENG)            DF    # 25 Feb 2004, Liverpool
-72  Bradley Moonan (ENG)           DF   
-74  Edward Jones (ENG)             DF    # 28 Mar 2005
-75  Roman Dixon (ENG)              DF    # 26 Dec 2004, Stafford
-76  Jack Tierney (ENG)             DF    # 17 Jan 2005, Liverpool
-77  Odin Samuels-Smith (ENG)       DF    # 05 Jun 2006, Manchester
-78  Joshua van Schoor (ENG)        DF    # 08 Oct 2006, Warrington
-90  Aled Thomas (WAL)              DF    # 27 Sep 2006, Wrexham
+  2,  Nathan Patterson (SCO),            DF,   b. 2001,   Rangers
+  5,  Michael Keane,                     DF,   b. 1993,   Burnley
+  6,  James Tarkowski,                   DF,   b. 1992,   Burnley
+ 18,  Ashley Young,                      DF,   b. 1985,   Aston Villa
+ 19,  Vitaliy Mykolenko (UKR),           DF,   b. 1999,   Dynamo Kyiv
+ 22,  Ben Godfrey,                       DF,   b. 1998,   Norwich C
+ 23,  Séamus Coleman (IRL),              DF,   b. 1988,   Sligo R
+ 32,  Jarrad Branthwaite,                DF,   b. 2002,   Carlisle U
+ 48,  Kyle John,                         DF,   b. 2001,
+ 55,  George Finney,                     DF,   b. ????,
+ 59,  Luca Davis,                        DF,   b. ????,
+ 60,  Daniel Maher,                      DF,   b. ????,
+ 64,  Reece Welch,                       DF,   b. 2003,
+ 68,  Mathew Mallon,                     DF,   b. 2004,
+ 72,  Bradley Moonan,                    DF,   b. ????,
+ 74,  Edward Jones,                      DF,   b. 2005,
+ 75,  Roman Dixon,                       DF,   b. 2004,
+ 76,  Jack Tierney,                      DF,   b. 2005,
+ 77,  Odin Samuels-Smith,                DF,   b. 2006,
+ 78,  Joshua van Schoor,                 DF,   b. 2006,
+ 90,  Aled Thomas (WAL),                 DF,   b. 2006,
 
- 7  Dwight McNeil (ENG)            MF    # 22 Nov 1999, Rochdale  -- Burnley
- 8  Amadou Onana (BEL)             MF    # 16 Aug 2001, Dakar  -- Lille
-11  Jack Harrison (ENG)            MF    # 20 Nov 1996, Stoke-on-Trent  -- Leeds U
-16  Abdoulaye Doucouré (MLI)       MF    # 01 Jan 1993, Meulan-en-Yvelines  -- Watford
-20  Dele Alli (ENG)                MF    # 11 Apr 1996, Milton Keynes  -- Tottenham H
-21  André Gomes (POR)              MF    # 30 Jul 1993, Vila Nova de Gaia  -- Barcelona
-27  Idrissa Gueye (SEN)            MF    # 26 Sep 1989, Dakar  -- Paris St-Germain
-37  James Garner (ENG)             MF    # 13 Mar 2001, Birkenhead  -- Manchester U
-51  Lewis Warrington (ENG)         MF    # 10 Oct 2002, Birkenhead
-54  Jack Butler (ENG)              MF    # 12 Nov 2005, Liverpool
-56  Stanley Mills (ENG)            MF    # 25 Oct 2003, Norwich  -- Leeds U
-57  Charlie Whitaker (ENG)         MF    # 16 Sep 2003
-58  MacKenzie Hunt (ENG)           MF    # 14 Nov 2001, Liverpool
-62  Tyler Onyango (ENG)            MF    # 04 Mar 2003, Luton
-65  Matthew Apter (SCO)            MF   
-66  Liam Higgins (WAL)             MF    # 15 Jan 2003, Wrexham
-69  Luke Butterfield (SCO)         MF    # 29 Sep 2003, Keighley
-79  Owen Barker (ENG)              MF    # 23 Feb 2005, Bolton
-81  Harvey Foster (ENG)            MF   
-82  Halid Djankpata (TOG)          MF    # 13 Apr 2005
-83  Isaac Heath (ENG)              MF    # 28 Oct 2004, Leeds
-85  Jack Patterson (NIR)           MF    # 16 Oct 2005, Ballyclare  -- Crusaders
-86  Jenson Metcalfe (ENG)          MF    # 06 Sep 2004, Wigan
-89  Harrison Armstrong (ENG)       MF    # 19 Jan 2007, Liverpool
-91  Jacob Beaumont-Clark (ENG)     MF    # 19 Sep 2005, Manchester
-92  Callum Bates (ENG)             MF    # 28 Sep 2005
+  7,  Dwight McNeil,                     MF,   b. 1999,   Burnley
+  8,  Amadou Onana (BEL),                MF,   b. 2001,   Lille
+ 11,  Jack Harrison,                     MF,   b. 1996,   Leeds U
+ 16,  Abdoulaye Doucouré (MLI),          MF,   b. 1993,   Watford
+ 20,  Dele Alli,                         MF,   b. 1996,   Tottenham H
+ 21,  André Gomes (POR),                 MF,   b. 1993,   Barcelona
+ 27,  Idrissa Gueye (SEN),               MF,   b. 1989,   Paris St-Germain
+ 37,  James Garner,                      MF,   b. 2001,   Manchester U
+ 51,  Lewis Warrington,                  MF,   b. 2002,
+ 54,  Jack Butler,                       MF,   b. 2005,
+ 56,  Stanley Mills,                     MF,   b. 2003,   Leeds U
+ 57,  Charlie Whitaker,                  MF,   b. 2003,
+ 58,  MacKenzie Hunt,                    MF,   b. 2001,
+ 62,  Tyler Onyango,                     MF,   b. 2003,
+ 65,  Matthew Apter (SCO),               MF,   b. ????,
+ 66,  Liam Higgins (WAL),                MF,   b. 2003,
+ 69,  Luke Butterfield (SCO),            MF,   b. 2003,
+ 79,  Owen Barker,                       MF,   b. 2005,
+ 81,  Harvey Foster,                     MF,   b. ????,
+ 82,  Halid Djankpata (TOG),             MF,   b. 2005,
+ 83,  Isaac Heath,                       MF,   b. 2004,
+ 85,  Jack Patterson (NIR),              MF,   b. 2005,   Crusaders
+ 86,  Jenson Metcalfe,                   MF,   b. 2004,
+ 89,  Harrison Armstrong,                MF,   b. 2007,
+ 91,  Jacob Beaumont-Clark,              MF,   b. 2005,
+ 92,  Callum Bates,                      MF,   b. 2005,
 
- 9  Dominic Calvert-Lewin (ENG)    FW    # 16 Mar 1997, Sheffield  -- Sheffield U
-10  Arnaut Danjuma (NED)           FW    # 31 Jan 1997, Oss  -- Villarreal
-14  Beto (POR)                     FW    # 31 Jan 1998, Lisbon  -- Udinese
-28  Youssef Chermiti (POR)         FW    # 24 May 2004, Santa Maria  -- Sporting CP
-61  Lewis Dobbin (ENG)             FW    # 03 Jan 2003, Stoke-on-Trent
-67  Martin Sherif (NED)            FW    # 10 Jun 2006  -- Almere C
-70  Katia Kouyate (ENG)            FW    # 09 Sep 2003, Manchester
-80  Joel Catesby (ENG)             FW   
-84  Coby Ebere (GER)               FW    # 17 Sep 2005
-87  George Morgan (WAL)            FW    # 08 Sep 2006, Milton Keynes
-88  Francis Okoronkwo (ENG)        FW    # 18 Sep 2004, Blyth  -- Sunderland
+  9,  Dominic Calvert-Lewin,             FW,   b. 1997,   Sheffield U
+ 10,  Arnaut Danjuma (NED),              FW,   b. 1997,   Villarreal
+ 14,  Beto (POR),                        FW,   b. 1998,   Udinese
+ 28,  Youssef Chermiti (POR),            FW,   b. 2004,   Sporting CP
+ 61,  Lewis Dobbin,                      FW,   b. 2003,
+ 67,  Martin Sherif (NED),               FW,   b. 2006,   Almere C
+ 70,  Katia Kouyate,                     FW,   b. 2003,
+ 80,  Joel Catesby,                      FW,   b. ????,
+ 84,  Coby Ebere (GER),                  FW,   b. 2005,
+ 87,  George Morgan (WAL),               FW,   b. 2006,
+ 88,  Francis Okoronkwo,                 FW,   b. 2004,   Sunderland
