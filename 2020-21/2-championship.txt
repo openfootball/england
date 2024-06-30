@@ -9,7 +9,7 @@ Matchday 1
          Birmingham City FC       1-0 (1-0)  Brentford FC
   15.00  Queens Park Rangers FC   2-0 (0-0)  Nottingham Forest FC
          Derby County FC          0-2 (0-2)  Reading FC
-         Preston North End FC     0-1 (0-0)  Swansea City FC
+         Preston North End FC     0-1 (0-0)  Swansea City AFC
          Bristol City FC          2-1 (1-1)  Coventry City FC
          Huddersfield Town AFC    0-1 (0-0)  Norwich City FC
          Cardiff City FC          0-2 (0-2)  Sheffield Wednesday FC
@@ -24,7 +24,7 @@ Matchday 2
 [Sat Sep/19]
   12.30  Nottingham Forest FC     0-2 (0-2)  Cardiff City FC
   15.00  Blackburn Rovers FC      5-0 (3-0)  Wycombe Wanderers FC
-         Swansea City FC          0-0  Birmingham City FC
+         Swansea City AFC         0-0  Birmingham City FC
          Norwich City FC          2-2 (1-2)  Preston North End FC
          Sheffield Wednesday FC   0-0  Watford FC
          Middlesbrough FC         1-1 (0-1)  AFC Bournemouth
@@ -40,7 +40,7 @@ Matchday 3
 [Fri Sep/25]
   19.45  Huddersfield Town AFC    1-0 (0-0)  Nottingham Forest FC
 [Sat Sep/26]
-  12.30  Wycombe Wanderers FC     0-2 (0-2)  Swansea City FC
+  12.30  Wycombe Wanderers FC     0-2 (0-2)  Swansea City AFC
          Watford FC               1-0 (1-0)  Luton Town FC
   15.00  Queens Park Rangers FC   1-1 (1-1)  Middlesbrough FC
          Birmingham City FC       1-1 (0-0)  Rotherham United FC
@@ -60,7 +60,7 @@ Matchday 4
 [Sat Oct/3]
   12.30  Norwich City FC          0-1 (0-0)  Derby County FC
   15.00  Blackburn Rovers FC      0-0  Cardiff City FC
-         Swansea City FC          2-1 (0-0)  Millwall FC
+         Swansea City AFC         2-1 (0-0)  Millwall FC
          Nottingham Forest FC     1-2 (1-2)  Bristol City FC
          Sheffield Wednesday FC   1-1 (0-0)  Queens Park Rangers FC
          Middlesbrough FC         2-1 (1-0)  Barnsley FC
@@ -77,7 +77,7 @@ Matchday 5
   19.45  Derby County FC          0-1 (0-0)  Watford FC
 [Sat Oct/17]
   15.00  Blackburn Rovers FC      0-1 (0-0)  Nottingham Forest FC
-         Swansea City FC          1-2 (1-1)  Huddersfield Town AFC
+         Swansea City AFC         1-2 (1-1)  Huddersfield Town AFC
          Birmingham City FC       0-1 (0-0)  Sheffield Wednesday FC
          Middlesbrough FC         0-0  Reading FC
          Brentford FC             2-0 (0-0)  Coventry City FC
@@ -97,7 +97,7 @@ Matchday 6
          Norwich City FC          1-0 (0-0)  Birmingham City FC
          Nottingham Forest FC     1-1 (0-0)  Rotherham United FC
          Bristol City FC          0-1 (0-0)  Middlesbrough FC
-         Coventry City FC         1-1 (1-1)  Swansea City FC
+         Coventry City FC         1-1 (1-1)  Swansea City AFC
   20.00  Reading FC               1-0 (0-0)  Wycombe Wanderers FC
 [Wed Oct/21]
   19.45  Queens Park Rangers FC   0-2 (0-1)  Preston North End FC
@@ -116,7 +116,7 @@ Matchday 7
          Stoke City FC            3-2 (2-0)  Brentford FC
          Norwich City FC          2-1 (1-1)  Wycombe Wanderers FC
          Sheffield Wednesday FC   0-1 (0-0)  Luton Town FC
-         Bristol City FC          1-1 (0-0)  Swansea City FC
+         Bristol City FC          1-1 (0-0)  Swansea City AFC
          Huddersfield Town AFC    1-2 (1-0)  Preston North End FC
          Cardiff City FC          1-1 (0-1)  Middlesbrough FC
          Coventry City FC         0-4 (0-1)  Blackburn Rovers FC
@@ -128,7 +128,7 @@ Matchday 8
 [Tue Oct/27]
   19.00  Barnsley FC              3-0 (2-0)  Queens Park Rangers FC
   19.45  Blackburn Rovers FC      2-4 (1-3)  Reading FC
-         Swansea City FC          2-0 (1-0)  Stoke City FC
+         Swansea City AFC         2-0 (1-0)  Stoke City FC
          Middlesbrough FC         2-0 (0-0)  Coventry City FC
          Brentford FC             1-1 (1-0)  Norwich City FC
          Wycombe Wanderers FC     1-1 (0-0)  Watford FC
@@ -146,7 +146,7 @@ Matchday 9
   19.45  Coventry City FC         3-2 (1-0)  Reading FC
 [Sat Oct/31]
   12.30  Bristol City FC          1-3 (1-3)  Norwich City FC
-  15.00  Swansea City FC          2-0 (1-0)  Blackburn Rovers FC
+  15.00  Swansea City AFC         2-0 (1-0)  Blackburn Rovers FC
          Queens Park Rangers FC   3-2 (2-0)  Cardiff City FC
          Stoke City FC            1-0 (1-0)  Rotherham United FC
          Middlesbrough FC         1-0 (0-0)  Nottingham Forest FC
@@ -162,7 +162,7 @@ Matchday 10
 [Tue Nov/3]
   19.00  Sheffield Wednesday FC   1-0 (0-0)  AFC Bournemouth
          Huddersfield Town AFC    1-2 (1-0)  Bristol City FC
-         Brentford FC             1-1 (1-0)  Swansea City FC
+         Brentford FC             1-1 (1-0)  Swansea City AFC
          Norwich City FC          0-0  Millwall FC
   19.45  Cardiff City FC          3-0 (2-0)  Barnsley FC
          Blackburn Rovers FC      0-0  Middlesbrough FC
@@ -181,7 +181,7 @@ Matchday 11
 [Sat Nov/7]
   12.30  Reading FC               0-3 (0-2)  Stoke City FC
   15.00  Blackburn Rovers FC      3-1 (0-0)  Queens Park Rangers FC
-         Norwich City FC          1-0 (0-0)  Swansea City FC
+         Norwich City FC          1-0 (0-0)  Swansea City AFC
          Birmingham City FC       1-3 (0-2)  AFC Bournemouth
          Nottingham Forest FC     2-0 (1-0)  Wycombe Wanderers FC
          Derby County FC          0-2 (0-1)  Barnsley FC
@@ -197,7 +197,7 @@ Matchday 12
   19.45  Coventry City FC         0-0  Birmingham City FC
 [Sat Nov/21]
   12.30  AFC Bournemouth          4-2 (0-2)  Reading FC
-  15.00  Swansea City FC          1-0 (1-0)  Rotherham United FC
+  15.00  Swansea City AFC         1-0 (1-0)  Rotherham United FC
          Queens Park Rangers FC   1-1 (0-1)  Watford FC
          Stoke City FC            4-3 (3-2)  Huddersfield Town AFC
          Middlesbrough FC         0-1 (0-0)  Norwich City FC
@@ -223,7 +223,7 @@ Matchday 13
          Millwall FC              1-1 (1-0)  Reading FC
   19.45  Bristol City FC          0-0  Watford FC
          Coventry City FC         1-0 (0-0)  Cardiff City FC
-         Swansea City FC          1-1 (0-1)  Sheffield Wednesday FC
+         Swansea City AFC         1-1 (0-1)  Sheffield Wednesday FC
 
 
 Matchday 14
@@ -241,7 +241,7 @@ Matchday 14
          Watford FC               4-1 (1-0)  Preston North End FC
          Rotherham United FC      2-2 (1-1)  AFC Bournemouth
 [Sun Nov/29]
-  12.00  Nottingham Forest FC     0-1 (0-1)  Swansea City FC
+  12.00  Nottingham Forest FC     0-1 (0-1)  Swansea City AFC
 
 
 Matchday 15
@@ -253,7 +253,7 @@ Matchday 15
          Queens Park Rangers FC   1-2 (1-1)  Bristol City FC
   20.00  Rotherham United FC      0-2 (0-0)  Brentford FC
 [Wed Dec/2]
-  19.00  Middlesbrough FC         2-1 (1-0)  Swansea City FC
+  19.00  Middlesbrough FC         2-1 (1-0)  Swansea City AFC
   19.45  Nottingham Forest FC     0-0  Watford FC
          Sheffield Wednesday FC   1-1 (1-1)  Reading FC
          Luton Town FC            3-1 (2-1)  Norwich City FC
@@ -266,7 +266,7 @@ Matchday 16
   17.30  Barnsley FC              0-4 (0-2)  AFC Bournemouth
 [Sat Dec/5]
   12.30  Reading FC               2-0 (1-0)  Nottingham Forest FC
-  15.00  Swansea City FC          2-0 (1-0)  Luton Town FC
+  15.00  Swansea City AFC         2-0 (1-0)  Luton Town FC
          Stoke City FC            1-0 (1-0)  Middlesbrough FC
          Norwich City FC          2-1 (0-0)  Sheffield Wednesday FC
          Preston North End FC     2-2 (1-0)  Wycombe Wanderers FC
@@ -285,7 +285,7 @@ Matchday 17
          Watford FC               2-0 (2-0)  Rotherham United FC
          Millwall FC              1-1 (0-0)  Queens Park Rangers FC
          Stoke City FC            1-2 (1-0)  Cardiff City FC
-         Swansea City FC          0-0  AFC Bournemouth
+         Swansea City AFC         0-0  AFC Bournemouth
 [Wed Dec/9]
   19.00  Preston North End FC     3-0 (0-0)  Middlesbrough FC
   19.45  Bristol City FC          1-0 (0-0)  Blackburn Rovers FC
@@ -297,7 +297,7 @@ Matchday 17
 
 Matchday 18
 [Sat Dec/12]
-  12.30  Cardiff City FC          0-2 (0-1)  Swansea City FC
+  12.30  Cardiff City FC          0-2 (0-1)  Swansea City AFC
   15.00  Blackburn Rovers FC      1-2 (0-1)  Norwich City FC
          Queens Park Rangers FC   0-1 (0-0)  Reading FC
          Birmingham City FC       0-1 (0-0)  Watford FC
@@ -320,7 +320,7 @@ Matchday 19
          Nottingham Forest FC     2-0 (1-0)  Sheffield Wednesday FC
   20.00  Watford FC               1-1 (0-0)  Brentford FC
 [Wed Dec/16]
-  17.30  Derby County FC          2-0 (2-0)  Swansea City FC
+  17.30  Derby County FC          2-0 (2-0)  Swansea City AFC
   19.00  Cardiff City FC          3-2 (1-1)  Birmingham City FC
          Middlesbrough FC         1-0 (0-0)  Luton Town FC
   19.45  Blackburn Rovers FC      2-1 (0-0)  Rotherham United FC
@@ -333,7 +333,7 @@ Matchday 20
   20.00  Preston North End FC     1-0 (1-0)  Bristol City FC
 [Sat Dec/19]
   12.30  Norwich City FC          2-0 (1-0)  Cardiff City FC
-  15.00  Swansea City FC          2-0 (1-0)  Barnsley FC
+  15.00  Swansea City AFC         2-0 (1-0)  Barnsley FC
          Stoke City FC            1-0 (1-0)  Blackburn Rovers FC
          Birmingham City FC       1-4 (1-2)  Middlesbrough FC
          Sheffield Wednesday FC   1-0 (0-0)  Coventry City FC
@@ -347,7 +347,7 @@ Matchday 20
 Matchday 21
 [Sat Dec/26]
   15.00  Blackburn Rovers FC      1-1 (0-1)  Sheffield Wednesday FC
-         Queens Park Rangers FC   0-2 (0-1)  Swansea City FC
+         Queens Park Rangers FC   0-2 (0-1)  Swansea City AFC
          Nottingham Forest FC     0-0  Birmingham City FC
          Derby County FC          0-1 (0-0)  Preston North End FC
          Bristol City FC          2-1 (1-0)  Wycombe Wanderers FC
@@ -371,14 +371,14 @@ Matchday 22
   20.00  Stoke City FC            1-1 (1-0)  Nottingham Forest FC
 [Wed Dec/30]
   17.30  Brentford FC             2-1 (1-1)  AFC Bournemouth
-  20.00  Swansea City FC          0-0  Reading FC
+  20.00  Swansea City AFC         0-0  Reading FC
 
 
 Matchday 23
 [Fri Jan/1]
   17.30  Sheffield Wednesday FC   1-0 (0-0)  Derby County FC
 [Sat Jan/2]
-  15.00  Swansea City FC          2-1 (1-1)  Watford FC
+  15.00  Swansea City AFC         2-1 (1-1)  Watford FC
          Norwich City FC          1-0 (0-0)  Barnsley FC
          Birmingham City FC       0-2 (0-1)  Blackburn Rovers FC
          Preston North End FC     0-1 (0-0)  Nottingham Forest FC
@@ -405,7 +405,7 @@ Matchday 24
          Cardiff City FC          1-2 (0-2)  Norwich City FC
          Watford FC               2-0 (0-0)  Huddersfield Town AFC
          AFC Bournemouth          0-1 (0-0)  Luton Town FC
-  19.45  Barnsley FC              0-2 (0-1)  Swansea City FC
+  19.45  Barnsley FC              0-2 (0-1)  Swansea City AFC
 
 
 Matchday 25
@@ -456,7 +456,7 @@ Matchday 24
 Matchday 26
 [Wed Jan/27]
   19.00  Barnsley FC              2-2 (1-0)  Cardiff City FC
-         Swansea City FC          1-1 (0-0)  Brentford FC
+         Swansea City AFC         1-1 (0-0)  Brentford FC
 
 
 Matchday 27
@@ -466,7 +466,7 @@ Matchday 27
   12.30  Norwich City FC          0-0  Middlesbrough FC
   15.00  Cardiff City FC          1-1 (0-1)  Millwall FC
          Brentford FC             7-2 (2-2)  Wycombe Wanderers FC
-         Rotherham United FC      1-3 (0-2)  Swansea City FC
+         Rotherham United FC      1-3 (0-2)  Swansea City AFC
          Blackburn Rovers FC      1-0 (0-0)  Luton Town FC
          Birmingham City FC       1-1 (1-1)  Coventry City FC
          Nottingham Forest FC     0-0  Barnsley FC
@@ -497,7 +497,7 @@ Matchday 23
 
 Matchday 28
 [Fri Feb/5]
-  20.15  Swansea City FC          2-0 (1-0)  Norwich City FC
+  20.15  Swansea City AFC         2-0 (1-0)  Norwich City FC
 [Sat Feb/6]
   12.30  Coventry City FC         0-0  Watford FC
   15.00  Queens Park Rangers FC   1-0 (0-0)  Blackburn Rovers FC
@@ -554,7 +554,7 @@ Matchday 30
   19.00  Queens Park Rangers FC   2-1 (0-1)  Brentford FC
          Coventry City FC         0-2 (0-2)  Norwich City FC
          Millwall FC              2-0 (1-0)  Birmingham City FC
-         Swansea City FC          1-0 (0-0)  Nottingham Forest FC
+         Swansea City AFC         1-0 (0-0)  Nottingham Forest FC
   19.45  Barnsley FC              2-1 (0-0)  Blackburn Rovers FC
   20.15  AFC Bournemouth          1-0 (1-0)  Rotherham United FC
 
@@ -570,7 +570,7 @@ Matchday 31
          Nottingham Forest FC     1-0 (1-0)  Blackburn Rovers FC
          Sheffield Wednesday FC   0-1 (0-0)  Birmingham City FC
          Bristol City FC          0-1 (0-0)  Barnsley FC
-         Huddersfield Town AFC    4-1 (1-1)  Swansea City FC
+         Huddersfield Town AFC    4-1 (1-1)  Swansea City AFC
          Cardiff City FC          4-0 (1-0)  Preston North End FC
          Millwall FC              0-0  Wycombe Wanderers FC
          Reading FC               0-2 (0-2)  Middlesbrough FC
@@ -585,7 +585,7 @@ Matchday 32
          Wycombe Wanderers FC     1-0 (0-0)  Reading FC
          Luton Town FC            1-1 (0-0)  Millwall FC
 [Wed Feb/24]
-  19.00  Swansea City FC          1-0 (0-0)  Coventry City FC
+  19.00  Swansea City AFC         1-0 (0-0)  Coventry City FC
          Brentford FC             3-0 (1-0)  Sheffield Wednesday FC
          Barnsley FC              2-0 (1-0)  Stoke City FC
   19.45  Preston North End FC     0-0  Queens Park Rangers FC
@@ -599,7 +599,7 @@ Matchday 33
 [Sat Feb/27]
   12.30  AFC Bournemouth          1-0 (0-0)  Watford FC
   15.00  Blackburn Rovers FC      1-1 (1-0)  Coventry City FC
-         Swansea City FC          1-3 (0-0)  Bristol City FC
+         Swansea City AFC         1-3 (0-0)  Bristol City FC
          Birmingham City FC       2-1 (0-1)  Queens Park Rangers FC
          Middlesbrough FC         1-1 (0-1)  Cardiff City FC
          Preston North End FC     3-0 (1-0)  Huddersfield Town AFC
@@ -625,7 +625,7 @@ Matchday 34
          Queens Park Rangers FC   1-3 (1-2)  Barnsley FC
   19.45  Bristol City FC          1-2 (1-1)  AFC Bournemouth
          Sheffield Wednesday FC   1-2 (0-1)  Rotherham United FC
-  20.15  Stoke City FC            1-2 (1-1)  Swansea City FC
+  20.15  Stoke City FC            1-2 (1-1)  Swansea City AFC
 
 
 Matchday 35
@@ -633,7 +633,7 @@ Matchday 35
   19.45  Huddersfield Town AFC    0-0  Cardiff City FC
 [Sat Mar/6]
   12.30  Watford FC               1-0 (1-0)  Nottingham Forest FC
-  15.00  Swansea City FC          2-1 (1-0)  Middlesbrough FC
+  15.00  Swansea City AFC         2-1 (1-0)  Middlesbrough FC
          Stoke City FC            2-0 (0-0)  Wycombe Wanderers FC
          Norwich City FC          3-0 (2-0)  Luton Town FC
          Preston North End FC     1-1 (0-1)  AFC Bournemouth
@@ -646,7 +646,7 @@ Matchday 35
 
 Matchday 25
 [Tue Mar/9]
-  18.00  Blackburn Rovers FC      1-1 (1-1)  Swansea City FC
+  18.00  Blackburn Rovers FC      1-1 (1-1)  Swansea City AFC
 
 
 Matchday 24
@@ -663,7 +663,7 @@ Matchday 36
 [Fri Mar/12]
   19.45  Blackburn Rovers FC      0-1 (0-1)  Brentford FC
 [Sat Mar/13]
-  12.15  Luton Town FC            0-1 (0-1)  Swansea City FC
+  12.15  Luton Town FC            0-1 (0-1)  Swansea City AFC
   15.00  Queens Park Rangers FC   0-1 (0-0)  Huddersfield Town AFC
          Birmingham City FC       0-3 (0-1)  Bristol City FC
          Nottingham Forest FC     1-1 (0-0)  Reading FC
@@ -683,7 +683,7 @@ Matchday 37
          Cardiff City FC          0-0  Stoke City FC
          Luton Town FC            2-0 (2-0)  Coventry City FC
          Rotherham United FC      1-4 (0-3)  Watford FC
-  19.45  AFC Bournemouth          3-0 (2-0)  Swansea City FC
+  19.45  AFC Bournemouth          3-0 (2-0)  Swansea City AFC
 [Wed Mar/17]
   19.00  Nottingham Forest FC     0-2 (0-2)  Norwich City FC
          Wycombe Wanderers FC     1-3 (0-1)  Barnsley FC
@@ -705,7 +705,7 @@ Matchday 38
          Millwall FC              1-0 (1-0)  Middlesbrough FC
          Barnsley FC              1-2 (0-1)  Sheffield Wednesday FC
          Reading FC               1-1 (0-1)  Queens Park Rangers FC
-  17.30  Swansea City FC          0-1 (0-1)  Cardiff City FC
+  17.30  Swansea City AFC         0-1 (0-1)  Cardiff City FC
 
 
 Matchday 39
@@ -720,7 +720,7 @@ Matchday 39
          AFC Bournemouth          3-1 (1-0)  Middlesbrough FC
          Wycombe Wanderers FC     1-0 (0-0)  Blackburn Rovers FC
   17.30  Barnsley FC              1-1 (0-1)  Reading FC
-  20.00  Birmingham City FC       1-0 (0-0)  Swansea City FC
+  20.00  Birmingham City FC       1-0 (0-0)  Swansea City AFC
 [Sat Apr/3]
   12.30  Huddersfield Town AFC    1-1 (1-0)  Brentford FC
 
@@ -729,7 +729,7 @@ Matchday 40
 [Mon Apr/5]
   12.30  Middlesbrough FC         1-1 (0-1)  Watford FC
   15.00  Blackburn Rovers FC      0-2 (0-1)  AFC Bournemouth
-         Swansea City FC          0-1 (0-0)  Preston North End FC
+         Swansea City AFC         0-1 (0-0)  Preston North End FC
          Stoke City FC            1-2 (1-1)  Millwall FC
          Nottingham Forest FC     3-1 (1-0)  Queens Park Rangers FC
          Luton Town FC            1-2 (0-1)  Barnsley FC
@@ -746,7 +746,7 @@ Matchday 41
 [Fri Apr/9]
   19.45  Watford FC               2-0 (2-0)  Reading FC
 [Sat Apr/10]
-  12.30  Millwall FC              0-3 (0-1)  Swansea City FC
+  12.30  Millwall FC              0-3 (0-1)  Swansea City AFC
   15.00  Queens Park Rangers FC   4-1 (1-1)  Sheffield Wednesday FC
          Birmingham City FC       2-0 (1-0)  Stoke City FC
          Derby County FC          0-1 (0-1)  Norwich City FC
@@ -766,7 +766,7 @@ Matchday 38
 
 Matchday 29
 [Tue Apr/13]
-  18.00  Sheffield Wednesday FC   0-2 (0-1)  Swansea City FC
+  18.00  Sheffield Wednesday FC   0-2 (0-1)  Swansea City AFC
   19.00  Rotherham United FC      3-1 (0-0)  Queens Park Rangers FC
 
 
@@ -780,7 +780,7 @@ Matchday 42
   18.00  Reading FC               1-1 (0-0)  Cardiff City FC
          Blackburn Rovers FC      2-1 (1-1)  Derby County FC
 [Sat Apr/17]
-  12.30  Swansea City FC          2-2 (0-0)  Wycombe Wanderers FC
+  12.30  Swansea City AFC         2-2 (0-0)  Wycombe Wanderers FC
          Stoke City FC            0-0  Preston North End FC
          Nottingham Forest FC     0-2 (0-1)  Huddersfield Town AFC
          Sheffield Wednesday FC   1-1 (1-0)  Bristol City FC
@@ -799,7 +799,7 @@ Matchday 43
          Norwich City FC          0-1 (0-0)  Watford FC
   19.00  Sheffield Wednesday FC   1-0 (1-0)  Blackburn Rovers FC
          Preston North End FC     3-0 (1-0)  Derby County FC
-         Swansea City FC          0-1 (0-0)  Queens Park Rangers FC
+         Swansea City AFC         0-1 (0-0)  Queens Park Rangers FC
 [Wed Apr/21]
   18.00  Millwall FC              1-4 (0-3)  AFC Bournemouth
          Rotherham United FC      1-2 (1-1)  Middlesbrough FC
@@ -823,7 +823,7 @@ Matchday 44
          Watford FC               1-0 (1-0)  Millwall FC
          Barnsley FC              1-0 (1-0)  Rotherham United FC
 [Sun Apr/25]
-  12.00  Reading FC               2-2 (1-0)  Swansea City FC
+  12.00  Reading FC               2-2 (1-0)  Swansea City AFC
   13.00  Bristol City FC          2-3 (2-0)  Luton Town FC
 
 
@@ -835,7 +835,7 @@ Matchday 35
 Matchday 45
 [Sat May/1]
   12.30  Sheffield Wednesday FC   0-0  Nottingham Forest FC
-  15.00  Swansea City FC          2-1 (0-0)  Derby County FC
+  15.00  Swansea City AFC         2-1 (0-0)  Derby County FC
          Stoke City FC            0-2 (0-1)  Queens Park Rangers FC
          Norwich City FC          4-1 (1-1)  Reading FC
          Birmingham City FC       0-4 (0-2)  Cardiff City FC
@@ -863,7 +863,7 @@ Matchday 46
          Bristol City FC          1-3 (0-0)  Brentford FC
          Cardiff City FC          1-1 (0-1)  Rotherham United FC
          Coventry City FC         6-1 (2-0)  Millwall FC
-         Watford FC               2-0 (0-0)  Swansea City FC
+         Watford FC               2-0 (0-0)  Swansea City AFC
          Barnsley FC              2-2 (2-1)  Norwich City FC
          Reading FC               2-2 (2-1)  Huddersfield Town AFC
          AFC Bournemouth          0-2 (0-1)  Stoke City FC
