@@ -1,6 +1,7 @@
 = English Premier League 2024/25
 
 
+
 Matchday 1
 [Fri Aug/16]
   20.00  Manchester United FC     1-0 (0-0)  Fulham FC
@@ -35,17 +36,17 @@ Matchday 2
 
 Matchday 3
 [Sat Aug/31]
-  12.30  Arsenal FC               -  Brighton & Hove Albion FC
-  15.00  Ipswich Town FC          -  Fulham FC
-         Leicester City FC        -  Aston Villa FC
-         Nottingham Forest FC     -  Wolverhampton Wanderers FC
-         Brentford FC             -  Southampton FC
-         Everton FC               -  AFC Bournemouth
-  17.30  West Ham United FC       -  Manchester City FC
+  12.30  Arsenal FC               1-1 (1-0)  Brighton & Hove Albion FC
+  15.00  Brentford FC             3-1 (1-0)  Southampton FC
+         Everton FC               2-3 (0-0)  AFC Bournemouth
+         Ipswich Town FC          1-1 (1-1)  Fulham FC
+         Leicester City FC        1-2 (0-1)  Aston Villa FC
+         Nottingham Forest FC     1-1 (1-1)  Wolverhampton Wanderers FC
+  17.30  West Ham United FC       1-3 (1-2)  Manchester City FC
 [Sun Sep/1]
-  13.30  Chelsea FC               -  Crystal Palace FC
-         Newcastle United FC      -  Tottenham Hotspur FC
-  16.00  Manchester United FC     -  Liverpool FC
+  13.30  Chelsea FC               1-1 (1-0)  Crystal Palace FC
+         Newcastle United FC      2-1 (1-0)  Tottenham Hotspur FC
+  16.00  Manchester United FC     0-3 (0-2)  Liverpool FC
 
 
 Matchday 4
@@ -99,13 +100,13 @@ Matchday 7
   12.30  Crystal Palace FC        -  Liverpool FC
   15.00  Arsenal FC               -  Southampton FC
          Brentford FC             -  Wolverhampton Wanderers FC
-         Chelsea FC               -  Nottingham Forest FC
          Leicester City FC        -  AFC Bournemouth
          Manchester City FC       -  Fulham FC
          West Ham United FC       -  Ipswich Town FC
   17.30  Everton FC               -  Newcastle United FC
 [Sun Oct/6]
   14.00  Aston Villa FC           -  Manchester United FC
+         Chelsea FC               -  Nottingham Forest FC
   16.30  Brighton & Hove Albion FC  -  Tottenham Hotspur FC
 
 
@@ -129,15 +130,15 @@ Matchday 9
 [Fri Oct/25]
   20.00  Leicester City FC        -  Nottingham Forest FC
 [Sat Oct/26]
-  15.00  Brighton & Hove Albion FC  -  Wolverhampton Wanderers FC
-         Manchester City FC       -  Southampton FC
-         Aston Villa FC           -  AFC Bournemouth
+  15.00  Aston Villa FC           -  AFC Bournemouth
          Brentford FC             -  Ipswich Town FC
+         Brighton & Hove Albion FC  -  Wolverhampton Wanderers FC
+         Manchester City FC       -  Southampton FC
   17.30  Everton FC               -  Fulham FC
 [Sun Oct/27]
-  14.00  West Ham United FC       -  Manchester United FC
-         Chelsea FC               -  Newcastle United FC
+  14.00  Chelsea FC               -  Newcastle United FC
          Crystal Palace FC        -  Tottenham Hotspur FC
+         West Ham United FC       -  Manchester United FC
   16.30  Arsenal FC               -  Liverpool FC
 
 
@@ -207,9 +208,9 @@ Matchday 14
   Ipswich Town FC          -  Crystal Palace FC
   Leicester City FC        -  West Ham United FC
 [Wed Dec/4]
-  Southampton FC           -  Chelsea FC
   Manchester City FC       -  Nottingham Forest FC
   Newcastle United FC      -  Liverpool FC
+  Southampton FC           -  Chelsea FC
 
 
 Matchday 15
@@ -306,9 +307,9 @@ Matchday 21
   Brentford FC             -  Manchester City FC
   Arsenal FC               -  Tottenham Hotspur FC
 [Wed Jan/15]
-  Newcastle United FC      -  Wolverhampton Wanderers FC
   Chelsea FC               -  AFC Bournemouth
   Manchester United FC     -  Southampton FC
+  Newcastle United FC      -  Wolverhampton Wanderers FC
 
 
 Matchday 22
@@ -391,9 +392,9 @@ Matchday 27
   Tottenham Hotspur FC     -  Manchester City FC
   West Ham United FC       -  Leicester City FC
 [Wed Feb/26]
-  Liverpool FC             -  Newcastle United FC
   Manchester United FC     -  Ipswich Town FC
   Chelsea FC               -  Southampton FC
+  Liverpool FC             -  Newcastle United FC
 
 
 Matchday 28
@@ -432,11 +433,11 @@ Matchday 30
   Nottingham Forest FC     -  Manchester United FC
   Wolverhampton Wanderers FC  -  West Ham United FC
 [Wed Apr/2]
+  Chelsea FC               -  Tottenham Hotspur FC
+  Manchester City FC       -  Leicester City FC
   Newcastle United FC      -  Brentford FC
   Southampton FC           -  Crystal Palace FC
   Liverpool FC             -  Everton FC
-  Chelsea FC               -  Tottenham Hotspur FC
-  Manchester City FC       -  Leicester City FC
 
 
 Matchday 31
