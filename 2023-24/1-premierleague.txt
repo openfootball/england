@@ -1,5 +1,10 @@
 = English Premier League 2023/24
 
+# Date       Fri Aug/11 2023 - Sun May/19 2024 (282d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Fri Aug/11]
@@ -22,9 +27,9 @@ Matchday 2
 [Fri Aug/18]
   19.45  Nottingham Forest FC     2-1 (1-0)  Sheffield United FC
 [Sat Aug/19]
-  15.00  Liverpool FC             3-1 (2-1)  AFC Bournemouth
+  15.00  Fulham FC                0-3 (0-1)  Brentford FC
+         Liverpool FC             3-1 (2-1)  AFC Bournemouth
          Wolverhampton Wanderers FC  1-4 (0-1)  Brighton & Hove Albion FC
-         Fulham FC                0-3 (0-1)  Brentford FC
   17.30  Tottenham Hotspur FC     2-0 (0-0)  Manchester United FC
   20.00  Manchester City FC       1-0 (1-0)  Newcastle United FC
 [Sun Aug/20]
@@ -45,8 +50,8 @@ Matchday 3
          Brentford FC             1-1 (1-0)  Crystal Palace FC
   17.30  Brighton & Hove Albion FC  1-3 (0-1)  West Ham United FC
 [Sun Aug/27]
-  14.00  Burnley FC               1-3 (0-2)  Aston Villa FC
-         Sheffield United FC      1-2 (0-0)  Manchester City FC
+  14.00  Sheffield United FC      1-2 (0-0)  Manchester City FC
+         Burnley FC               1-3 (0-2)  Aston Villa FC
   16.30  Newcastle United FC      1-2 (1-0)  Liverpool FC
 
 
@@ -55,10 +60,10 @@ Matchday 4
   20.00  Luton Town FC            1-2 (0-1)  West Ham United FC
 [Sat Sep/2]
   12.30  Sheffield United FC      2-2 (2-1)  Everton FC
-  15.00  Burnley FC               2-5 (1-2)  Tottenham Hotspur FC
+  15.00  Brentford FC             2-2 (1-1)  AFC Bournemouth
+         Burnley FC               2-5 (1-2)  Tottenham Hotspur FC
          Chelsea FC               0-1 (0-0)  Nottingham Forest FC
          Manchester City FC       5-1 (2-1)  Fulham FC
-         Brentford FC             2-2 (1-1)  AFC Bournemouth
   17.30  Brighton & Hove Albion FC  3-1 (1-0)  Newcastle United FC
 [Sun Sep/3]
   14.00  Crystal Palace FC        3-2 (0-0)  Wolverhampton Wanderers FC
@@ -84,16 +89,16 @@ Matchday 5
 
 Matchday 6
 [Sat Sep/23]
-  15.00  Luton Town FC            1-1 (0-0)  Wolverhampton Wanderers FC
+  15.00  Crystal Palace FC        0-0  Fulham FC
+         Luton Town FC            1-1 (0-0)  Wolverhampton Wanderers FC
          Manchester City FC       2-0 (2-0)  Nottingham Forest FC
-         Crystal Palace FC        0-0  Fulham FC
   17.30  Brentford FC             1-3 (1-1)  Everton FC
   20.00  Burnley FC               0-1 (0-1)  Manchester United FC
 [Sun Sep/24]
-  14.00  Brighton & Hove Albion FC  3-1 (1-1)  AFC Bournemouth
+  14.00  Arsenal FC               2-2 (1-1)  Tottenham Hotspur FC
+         Brighton & Hove Albion FC  3-1 (1-1)  AFC Bournemouth
          Chelsea FC               0-1 (0-0)  Aston Villa FC
          Liverpool FC             3-1 (1-1)  West Ham United FC
-         Arsenal FC               2-2 (1-1)  Tottenham Hotspur FC
   16.30  Sheffield United FC      0-8 (0-3)  Newcastle United FC
 
 
@@ -127,9 +132,9 @@ Matchday 8
          Manchester United FC     2-1 (0-1)  Brentford FC
   17.30  Crystal Palace FC        0-0  Nottingham Forest FC
 [Sun Oct/8]
-  14.00  West Ham United FC       2-2 (1-0)  Newcastle United FC
+  14.00  Brighton & Hove Albion FC  2-2 (1-2)  Liverpool FC
+         West Ham United FC       2-2 (1-0)  Newcastle United FC
          Wolverhampton Wanderers FC  1-1 (0-0)  Aston Villa FC
-         Brighton & Hove Albion FC  2-2 (1-2)  Liverpool FC
   16.30  Arsenal FC               1-0 (0-0)  Manchester City FC
 
 
@@ -154,14 +159,14 @@ Matchday 10
   20.00  Crystal Palace FC        1-2 (0-0)  Tottenham Hotspur FC
 [Sat Oct/28]
   12.30  Chelsea FC               0-2 (0-0)  Brentford FC
-  15.00  Arsenal FC               5-0 (1-0)  Sheffield United FC
-         AFC Bournemouth          2-1 (1-1)  Burnley FC
+  15.00  AFC Bournemouth          2-1 (1-1)  Burnley FC
+         Arsenal FC               5-0 (1-0)  Sheffield United FC
   17.30  Wolverhampton Wanderers FC  2-2 (1-2)  Newcastle United FC
 [Sun Oct/29]
   13.00  West Ham United FC       0-1 (0-0)  Everton FC
-  14.00  Brighton & Hove Albion FC  1-1 (1-0)  Fulham FC
+  14.00  Aston Villa FC           3-1 (1-0)  Luton Town FC
+         Brighton & Hove Albion FC  1-1 (1-0)  Fulham FC
          Liverpool FC             3-0 (2-0)  Nottingham Forest FC
-         Aston Villa FC           3-1 (1-0)  Luton Town FC
   15.30  Manchester United FC     0-3 (0-1)  Manchester City FC
 
 
@@ -184,9 +189,9 @@ Matchday 11
 Matchday 12
 [Sat Nov/11]
   12.30  Wolverhampton Wanderers FC  2-1 (0-1)  Tottenham Hotspur FC
-  15.00  Crystal Palace FC        2-3 (1-1)  Everton FC
+  15.00  Arsenal FC               3-1 (1-0)  Burnley FC
+         Crystal Palace FC        2-3 (1-1)  Everton FC
          Manchester United FC     1-0 (0-0)  Luton Town FC
-         Arsenal FC               3-1 (1-0)  Burnley FC
   17.30  AFC Bournemouth          2-0 (0-0)  Newcastle United FC
 [Sun Nov/12]
   14.00  Aston Villa FC           3-1 (2-0)  Fulham FC
@@ -236,8 +241,8 @@ Matchday 15
          Fulham FC                5-0 (2-0)  Nottingham Forest FC
          Sheffield United FC      0-2 (0-1)  Liverpool FC
          Crystal Palace FC        0-2 (0-1)  AFC Bournemouth
-  20.15  Manchester United FC     2-1 (1-1)  Chelsea FC
-         Aston Villa FC           1-0 (0-0)  Manchester City FC
+  20.15  Aston Villa FC           1-0 (0-0)  Manchester City FC
+         Manchester United FC     2-1 (1-1)  Chelsea FC
 [Thu Dec/7]
   19.30  Everton FC               3-0 (0-0)  Newcastle United FC
   20.15  Tottenham Hotspur FC     1-2 (1-0)  West Ham United FC
@@ -246,15 +251,15 @@ Matchday 15
 Matchday 16
 [Sat Dec/9]
   12.30  Crystal Palace FC        1-2 (0-0)  Liverpool FC
-  15.00  Manchester United FC     0-3 (0-1)  AFC Bournemouth
+  15.00  Brighton & Hove Albion FC  1-1 (0-1)  Burnley FC
+         Manchester United FC     0-3 (0-1)  AFC Bournemouth
          Sheffield United FC      1-0 (1-0)  Brentford FC
          Wolverhampton Wanderers FC  1-1 (1-1)  Nottingham Forest FC
-         Brighton & Hove Albion FC  1-1 (0-1)  Burnley FC
   17.30  Aston Villa FC           1-0 (1-0)  Arsenal FC
 [Sun Dec/10]
-  14.00  Fulham FC                5-0 (3-0)  West Ham United FC
+  14.00  Everton FC               2-0 (0-0)  Chelsea FC
+         Fulham FC                5-0 (3-0)  West Ham United FC
          Luton Town FC            1-2 (1-0)  Manchester City FC
-         Everton FC               2-0 (0-0)  Chelsea FC
   16.30  Tottenham Hotspur FC     4-1 (2-0)  Newcastle United FC
 
 
@@ -262,9 +267,9 @@ Matchday 17
 [Fri Dec/15]
   20.00  Nottingham Forest FC     0-2 (0-1)  Tottenham Hotspur FC
 [Sat Dec/16]
-  15.00  Manchester City FC       2-2 (1-0)  Crystal Palace FC
+  15.00  Chelsea FC               2-0 (0-0)  Sheffield United FC
+         Manchester City FC       2-2 (1-0)  Crystal Palace FC
          Newcastle United FC      3-0 (0-0)  Fulham FC
-         Chelsea FC               2-0 (0-0)  Sheffield United FC
   17.30  Burnley FC               0-2 (0-2)  Everton FC
 [Sun Dec/17]
   14.00  Arsenal FC               2-0 (0-0)  Brighton & Hove Albion FC
@@ -292,8 +297,8 @@ Matchday 18
 Matchday 19
 [Tue Dec/26]
   12.30  Newcastle United FC      1-3 (1-1)  Nottingham Forest FC
-  15.00  Sheffield United FC      2-3 (0-1)  Luton Town FC
-         AFC Bournemouth          3-0 (1-0)  Fulham FC
+  15.00  AFC Bournemouth          3-0 (1-0)  Fulham FC
+         Sheffield United FC      2-3 (0-1)  Luton Town FC
   17.30  Burnley FC               0-2 (0-1)  Liverpool FC
   20.00  Manchester United FC     3-2 (0-2)  Aston Villa FC
 [Wed Dec/27]
@@ -314,8 +319,8 @@ Matchday 20
          Wolverhampton Wanderers FC  3-0 (1-0)  Everton FC
   17.30  Nottingham Forest FC     2-1 (0-0)  Manchester United FC
 [Sun Dec/31]
-  14.00  Tottenham Hotspur FC     3-1 (1-0)  AFC Bournemouth
-         Fulham FC                2-1 (1-1)  Arsenal FC
+  14.00  Fulham FC                2-1 (1-1)  Arsenal FC
+         Tottenham Hotspur FC     3-1 (1-0)  AFC Bournemouth
 [Mon Jan/1]
   20.00  Liverpool FC             4-2 (0-0)  Newcastle United FC
 [Tue Jan/2]
@@ -349,8 +354,8 @@ Matchday 22
   20.00  Crystal Palace FC        3-2 (2-2)  Sheffield United FC
   20.15  Aston Villa FC           1-3 (0-2)  Newcastle United FC
 [Wed Jan/31]
-  19.30  Manchester City FC       3-1 (2-0)  Burnley FC
-         Tottenham Hotspur FC     3-2 (0-1)  Brentford FC
+  19.30  Tottenham Hotspur FC     3-2 (0-1)  Brentford FC
+         Manchester City FC       3-1 (2-0)  Burnley FC
   20.15  Liverpool FC             4-1 (2-0)  Chelsea FC
 [Thu Feb/1]
   19.30  West Ham United FC       1-1 (0-1)  AFC Bournemouth
@@ -365,9 +370,9 @@ Matchday 23
          Newcastle United FC      4-4 (2-2)  Luton Town FC
   17.30  Sheffield United FC      0-5 (0-4)  Aston Villa FC
 [Sun Feb/4]
-  14.00  Chelsea FC               2-4 (1-2)  Wolverhampton Wanderers FC
+  14.00  AFC Bournemouth          1-1 (1-1)  Nottingham Forest FC
+         Chelsea FC               2-4 (1-2)  Wolverhampton Wanderers FC
          Manchester United FC     3-0 (1-0)  West Ham United FC
-         AFC Bournemouth          1-1 (1-1)  Nottingham Forest FC
   16.30  Arsenal FC               3-1 (1-1)  Liverpool FC
 [Mon Feb/5]
   20.00  Brentford FC             1-3 (1-1)  Manchester City FC
@@ -465,8 +470,8 @@ Matchday 17
 
 Matchday 29
 [Sat Mar/16]
-  15.00  Luton Town FC            1-1 (0-1)  Nottingham Forest FC
-         Burnley FC               2-1 (1-0)  Brentford FC
+  15.00  Burnley FC               2-1 (1-0)  Brentford FC
+         Luton Town FC            1-1 (0-1)  Nottingham Forest FC
   17.30  Fulham FC                3-0 (1-0)  Tottenham Hotspur FC
 [Sun Mar/17]
   14.00  West Ham United FC       1-1 (1-0)  Aston Villa FC
@@ -491,8 +496,8 @@ Matchday 31
 [Tue Apr/2]
   19.30  Nottingham Forest FC     3-1 (3-0)  Fulham FC
          Newcastle United FC      1-1 (1-0)  Everton FC
-  19.45  Burnley FC               1-1 (1-1)  Wolverhampton Wanderers FC
-         AFC Bournemouth          1-0 (0-0)  Crystal Palace FC
+  19.45  AFC Bournemouth          1-0 (0-0)  Crystal Palace FC
+         Burnley FC               1-1 (1-1)  Wolverhampton Wanderers FC
   20.15  West Ham United FC       1-1 (1-1)  Tottenham Hotspur FC
 [Wed Apr/3]
   19.30  Arsenal FC               2-0 (2-0)  Luton Town FC
@@ -527,8 +532,8 @@ Matchday 33
          Nottingham Forest FC     2-2 (1-1)  Wolverhampton Wanderers FC
   17.30  AFC Bournemouth          2-2 (2-1)  Manchester United FC
 [Sun Apr/14]
-  14.00  West Ham United FC       0-2 (0-1)  Fulham FC
-         Liverpool FC             0-1 (0-1)  Crystal Palace FC
+  14.00  Liverpool FC             0-1 (0-1)  Crystal Palace FC
+         West Ham United FC       0-2 (0-1)  Fulham FC
   16.30  Arsenal FC               0-2 (0-0)  Aston Villa FC
 [Mon Apr/15]
   20.00  Chelsea FC               6-0 (4-0)  Everton FC
@@ -536,8 +541,8 @@ Matchday 33
 
 Matchday 34
 [Sat Apr/20]
-  15.00  Sheffield United FC      1-4 (0-2)  Burnley FC
-         Luton Town FC            1-5 (0-2)  Brentford FC
+  15.00  Luton Town FC            1-5 (0-2)  Brentford FC
+         Sheffield United FC      1-4 (0-2)  Burnley FC
   19.30  Wolverhampton Wanderers FC  0-2 (0-1)  Arsenal FC
 [Sun Apr/21]
   13.30  Everton FC               2-0 (1-0)  Nottingham Forest FC
@@ -568,8 +573,8 @@ Matchday 35
   17.30  Everton FC               1-0 (0-0)  Brentford FC
   20.00  Aston Villa FC           2-2 (2-0)  Chelsea FC
 [Sun Apr/28]
-  14.00  Tottenham Hotspur FC     2-3 (0-3)  Arsenal FC
-         AFC Bournemouth          3-0 (1-0)  Brighton & Hove Albion FC
+  14.00  AFC Bournemouth          3-0 (1-0)  Brighton & Hove Albion FC
+         Tottenham Hotspur FC     2-3 (0-3)  Arsenal FC
   16.30  Nottingham Forest FC     0-2 (0-1)  Manchester City FC
 
 
@@ -583,13 +588,13 @@ Matchday 36
   20.00  Luton Town FC            1-1 (1-1)  Everton FC
 [Sat May/4]
   12.30  Arsenal FC               3-0 (1-0)  AFC Bournemouth
-  15.00  Burnley FC               1-4 (0-3)  Newcastle United FC
+  15.00  Brentford FC             0-0  Fulham FC
+         Burnley FC               1-4 (0-3)  Newcastle United FC
          Sheffield United FC      1-3 (1-1)  Nottingham Forest FC
-         Brentford FC             0-0  Fulham FC
   17.30  Manchester City FC       5-1 (3-0)  Wolverhampton Wanderers FC
 [Sun May/5]
-  14.00  Chelsea FC               5-0 (3-0)  West Ham United FC
-         Brighton & Hove Albion FC  1-0 (0-0)  Aston Villa FC
+  14.00  Brighton & Hove Albion FC  1-0 (0-0)  Aston Villa FC
+         Chelsea FC               5-0 (3-0)  West Ham United FC
   16.30  Liverpool FC             4-2 (2-0)  Tottenham Hotspur FC
 [Mon May/6]
   20.00  Crystal Palace FC        4-0 (2-0)  Manchester United FC

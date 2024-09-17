@@ -1,5 +1,10 @@
 = English League Two 2023/24
 
+# Date       Sat Aug/5 2023 - Sat Apr/27 2024 (266d)
+# Teams      24
+# Matches    552
+
+
 
 Matchday 1
 [Sat Aug/5]
@@ -82,9 +87,9 @@ Matchday 5
 
 Matchday 6
 [Sat Sep/2]
-  12.30  Tranmere Rovers          0-1 (0-0)  Wrexham AFC
   15.00  Sutton United            0-1 (0-0)  Forest Green Rovers
-         Crewe Alexandra          3-1 (0-1)  Milton Keynes Dons
+  12.30  Tranmere Rovers          0-1 (0-0)  Wrexham AFC
+  15.00  Crewe Alexandra          3-1 (0-1)  Milton Keynes Dons
          Doncaster Rovers         0-0  Swindon Town
          Morecambe FC             1-0 (1-0)  Salford City
          Walsall FC               1-0 (0-0)  Colchester United
@@ -98,9 +103,9 @@ Matchday 6
 
 Matchday 7
 [Sat Sep/9]
-  12.30  Bradford City            1-1 (0-1)  Grimsby Town
   15.00  Milton Keynes Dons       1-1 (0-0)  Notts County
-         Accrington Stanley       0-3 (0-2)  Mansfield Town
+  12.30  Bradford City            1-1 (0-1)  Grimsby Town
+  15.00  Accrington Stanley       0-3 (0-2)  Mansfield Town
          Colchester United        2-0 (1-0)  Tranmere Rovers
          Crawley Town             4-1 (1-1)  Newport County
          Gillingham FC            1-0 (0-0)  Harrogate Town
@@ -194,10 +199,10 @@ Matchday 12
 
 Matchday 13
 [Sat Oct/14]
+  15.00  Wrexham AFC              3-2 (1-2)  Salford City
+         AFC Wimbledon            0-1 (0-0)  Bradford City
   12.30  Notts County             1-4 (1-1)  Mansfield Town
-  15.00  AFC Wimbledon            0-1 (0-0)  Bradford City
-         Wrexham AFC              3-2 (1-2)  Salford City
-         Crewe Alexandra          2-0 (1-0)  Tranmere Rovers
+  15.00  Crewe Alexandra          2-0 (1-0)  Tranmere Rovers
          Doncaster Rovers         4-1 (1-0)  Sutton United
          Walsall FC               4-1 (2-0)  Gillingham FC
          Forest Green Rovers      5-0 (1-0)  Colchester United
@@ -283,15 +288,15 @@ Matchday 17
 
 Matchday 18
 [Sat Nov/18]
-  12.30  Notts County             4-2 (4-0)  Bradford City
   15.00  Stockport County         2-0 (1-0)  Colchester United
-         Accrington Stanley       2-0 (0-0)  Wrexham AFC
+         Sutton United            1-1 (0-1)  Tranmere Rovers
+  12.30  Notts County             4-2 (4-0)  Bradford City
+  15.00  Accrington Stanley       2-0 (0-0)  Wrexham AFC
          Barrow AFC               1-0 (0-0)  Crawley Town
          Gillingham FC            3-1 (1-1)  Salford City
          Forest Green Rovers      2-2 (2-0)  Grimsby Town
          Harrogate Town           1-1 (0-1)  Swindon Town
          Mansfield Town           2-0 (1-0)  Newport County
-         Sutton United            1-1 (0-1)  Tranmere Rovers
 
 
 Matchday 19
@@ -328,13 +333,13 @@ Matchday 20
 
 Matchday 21
 [Sat Dec/9]
-  15.00  AFC Wimbledon            4-0 (1-0)  Swindon Town
+  15.00  Tranmere Rovers          2-1 (0-1)  Newport County
+         AFC Wimbledon            4-0 (1-0)  Swindon Town
          Grimsby Town             2-1 (2-0)  Crewe Alexandra
          Notts County             1-2 (1-0)  Walsall FC
          Morecambe FC             1-1 (0-0)  Stockport County
          Accrington Stanley       0-0  Doncaster Rovers
          Colchester United        1-2 (0-1)  Crawley Town
-         Tranmere Rovers          2-1 (0-1)  Newport County
 
 
 Matchday 22
@@ -355,12 +360,12 @@ Matchday 22
 
 Matchday 23
 [Fri Dec/22]
-  19.00  Forest Green Rovers      0-0  Gillingham FC
-  19.45  Stockport County         2-1 (1-0)  Notts County
+  19.45  Crewe Alexandra          1-3 (0-1)  Barrow AFC
          Doncaster Rovers         1-3 (1-2)  Bradford City
-         Crawley Town             1-2 (0-2)  AFC Wimbledon
+         Stockport County         2-1 (1-0)  Notts County
+  19.00  Forest Green Rovers      0-0  Gillingham FC
+  19.45  Crawley Town             1-2 (0-2)  AFC Wimbledon
          Colchester United        2-1 (1-0)  Salford City
-         Crewe Alexandra          1-3 (0-1)  Barrow AFC
 [Sat Dec/23]
   15.00  Tranmere Rovers          2-1 (0-1)  Swindon Town
          Sutton United            0-2 (0-1)  Mansfield Town
@@ -372,9 +377,9 @@ Matchday 23
 
 Matchday 24
 [Tue Dec/26]
-  12.30  Mansfield Town           2-0 (2-0)  Grimsby Town
-  13.00  Gillingham FC            0-2 (0-1)  Crawley Town
-  15.00  Walsall FC               2-0 (1-0)  Crewe Alexandra
+  15.00  Barrow AFC               2-2 (2-1)  Stockport County
+         Bradford City            2-2 (0-2)  Morecambe FC
+         Walsall FC               2-0 (1-0)  Crewe Alexandra
          Harrogate Town           2-1 (0-0)  Accrington Stanley
          Milton Keynes Dons       1-0 (0-0)  Colchester United
          Newport County           4-2 (0-2)  Forest Green Rovers
@@ -382,8 +387,8 @@ Matchday 24
          Salford City             1-5 (0-2)  Tranmere Rovers
          AFC Wimbledon            0-1 (0-0)  Sutton United
          Swindon Town             0-1 (0-1)  Wrexham AFC
-         Barrow AFC               2-2 (2-1)  Stockport County
-         Bradford City            2-2 (0-2)  Morecambe FC
+  12.30  Mansfield Town           2-0 (2-0)  Grimsby Town
+  13.00  Gillingham FC            0-2 (0-1)  Crawley Town
 
 
 Matchday 25
@@ -420,12 +425,12 @@ Matchday 26
 
 Matchday 27
 [Sat Jan/6]
-  13.00  Harrogate Town           3-1 (1-1)  Doncaster Rovers
-  15.00  Bradford City            2-4 (0-1)  Crawley Town
-         Barrow AFC               1-0 (0-0)  Tranmere Rovers
+  15.00  Swindon Town             2-2 (2-1)  Colchester United
          Mansfield Town           0-1 (0-1)  Crewe Alexandra
-         Salford City             2-2 (1-1)  Forest Green Rovers
-         Swindon Town             2-2 (2-1)  Colchester United
+         Bradford City            2-4 (0-1)  Crawley Town
+         Barrow AFC               1-0 (0-0)  Tranmere Rovers
+  13.00  Harrogate Town           3-1 (1-1)  Doncaster Rovers
+  15.00  Salford City             2-2 (1-1)  Forest Green Rovers
 
 
 Matchday 28
@@ -446,10 +451,12 @@ Matchday 28
 
 Matchday 29
 [Sat Jan/20]
-  15.00  Gillingham FC            1-1 (0-0)  Forest Green Rovers
+  15.00  Newport County           1-0 (1-0)  Wrexham AFC
+         Gillingham FC            1-1 (0-0)  Forest Green Rovers
          Milton Keynes Dons       1-2 (1-0)  Morecambe FC
          Barrow AFC               1-3 (1-1)  Crewe Alexandra
-         Newport County           1-0 (1-0)  Wrexham AFC
+[Tue Jan/23]
+  19.45  Mansfield Town           1-1 (1-1)  Sutton United
 
 
 Matchday 18
@@ -460,11 +467,6 @@ Matchday 18
 Matchday 21
 [Tue Jan/23]
   19.45  Bradford City            1-1 (1-1)  Salford City
-
-
-Matchday 29
-[Tue Jan/23]
-  19.45  Mansfield Town           1-1 (1-1)  Sutton United
 
 
 Matchday 30
@@ -488,18 +490,18 @@ Matchday 21
 
 Matchday 31
 [Sat Feb/3]
-  12.45  Newport County           2-1 (0-0)  Swindon Town
-  15.00  Sutton United            1-1 (0-0)  Doncaster Rovers
+  15.00  Tranmere Rovers          0-0  Crewe Alexandra
+         Sutton United            1-1 (0-0)  Doncaster Rovers
          Stockport County         1-1 (1-1)  Harrogate Town
          Mansfield Town           1-0 (1-0)  Notts County
          Gillingham FC            1-1 (0-0)  Walsall FC
-         Tranmere Rovers          0-0  Crewe Alexandra
+         Crawley Town             1-2 (1-1)  Morecambe FC
          Colchester United        3-3 (0-2)  Forest Green Rovers
          Bradford City            0-0  AFC Wimbledon
          Barrow AFC               1-0 (0-0)  Milton Keynes Dons
          Accrington Stanley       0-0  Grimsby Town
-         Crawley Town             1-2 (1-1)  Morecambe FC
-         Salford City             3-1 (2-1)  Wrexham AFC
+  12.45  Newport County           2-1 (0-0)  Swindon Town
+  15.00  Salford City             3-1 (2-1)  Wrexham AFC
 
 
 Matchday 32
@@ -552,14 +554,18 @@ Matchday 34
 
 Matchday 27
 [Tue Feb/20]
-  19.45  Milton Keynes Dons       1-1 (1-1)  Wrexham AFC
-         Walsall FC               3-0 (2-0)  Morecambe FC
-         Gillingham FC            0-0  Stockport County
+  19.45  Gillingham FC            0-0  Stockport County
 
 
 Matchday 29
 [Tue Feb/20]
   19.45  AFC Wimbledon            0-1 (0-0)  Crawley Town
+
+
+Matchday 27
+[Tue Feb/20]
+  19.45  Walsall FC               3-0 (2-0)  Morecambe FC
+         Milton Keynes Dons       1-1 (1-1)  Wrexham AFC
 
 
 Matchday 35
@@ -577,21 +583,10 @@ Matchday 35
          Doncaster Rovers         1-0 (1-0)  AFC Wimbledon
 
 
-Matchday 21
-[Tue Feb/27]
-  19.45  Forest Green Rovers      1-1 (1-0)  Wrexham AFC
-
-
-Matchday 27
-[Tue Feb/27]
-  19.45  Notts County             3-4 (2-2)  Sutton United
-
-
 Matchday 29
 [Tue Feb/27]
-  19.45  Salford City             1-1 (1-0)  Colchester United
+  19.45  Swindon Town             3-1 (2-1)  Tranmere Rovers
          Walsall FC               2-1 (0-0)  Accrington Stanley
-         Swindon Town             3-1 (2-1)  Tranmere Rovers
 
 
 Matchday 30
@@ -599,13 +594,28 @@ Matchday 30
   19.45  Harrogate Town           1-4 (0-2)  Newport County
 
 
+Matchday 29
+[Tue Feb/27]
+  19.45  Salford City             1-1 (1-0)  Colchester United
+
+
+Matchday 27
+[Tue Feb/27]
+  19.45  Notts County             3-4 (2-2)  Sutton United
+
+
+Matchday 21
+[Tue Feb/27]
+  19.45  Forest Green Rovers      1-1 (1-0)  Wrexham AFC
+
+
 Matchday 36
 [Sat Mar/2]
-  12.30  AFC Wimbledon            1-0 (0-0)  Milton Keynes Dons
-  15.00  Walsall FC               3-1 (1-0)  Doncaster Rovers
+  15.00  Grimsby Town             1-0 (1-0)  Forest Green Rovers
+         Walsall FC               3-1 (1-0)  Doncaster Rovers
          Salford City             0-2 (0-1)  Gillingham FC
-         Grimsby Town             1-0 (1-0)  Forest Green Rovers
-         Crewe Alexandra          2-3 (1-0)  Morecambe FC
+  12.30  AFC Wimbledon            1-0 (0-0)  Milton Keynes Dons
+  15.00  Crewe Alexandra          2-3 (1-0)  Morecambe FC
          Newport County           0-1 (0-0)  Mansfield Town
          Wrexham AFC              4-0 (4-0)  Accrington Stanley
          Swindon Town             1-1 (0-0)  Harrogate Town
@@ -617,10 +627,14 @@ Matchday 13
   19.45  Morecambe FC             1-0 (0-0)  Crawley Town
 
 
+Matchday 29
+[Tue Mar/5]
+  19.45  Bradford City            1-1 (0-1)  Doncaster Rovers
+
+
 Matchday 21
 [Tue Mar/5]
   19.45  Barrow AFC               2-0 (1-0)  Gillingham FC
-         Mansfield Town           1-2 (1-1)  Milton Keynes Dons
 
 
 Matchday 27
@@ -628,9 +642,9 @@ Matchday 27
   19.45  AFC Wimbledon            0-0  Grimsby Town
 
 
-Matchday 29
+Matchday 21
 [Tue Mar/5]
-  19.45  Bradford City            1-1 (0-1)  Doncaster Rovers
+  19.45  Mansfield Town           1-2 (1-1)  Milton Keynes Dons
 
 
 Matchday 37
@@ -690,17 +704,17 @@ Matchday 36
 
 Matchday 40
 [Sat Mar/23]
-  12.30  Mansfield Town           1-1 (0-1)  Colchester United
-  13.00  Harrogate Town           3-0 (1-0)  Bradford City
-  15.00  Barrow AFC               1-0 (1-0)  Newport County
+  15.00  Sutton United            3-1 (1-0)  Accrington Stanley
          Notts County             1-2 (0-1)  Salford City
-         Sutton United            3-1 (1-0)  Accrington Stanley
+         Barrow AFC               1-0 (1-0)  Newport County
+  17.15  Stockport County         5-0 (3-0)  Milton Keynes Dons
+  15.00  Grimsby Town             1-3 (0-3)  Wrexham AFC
          Morecambe FC             2-3 (1-1)  Gillingham FC
          Doncaster Rovers         2-0 (0-0)  Forest Green Rovers
          Crewe Alexandra          1-1 (1-1)  AFC Wimbledon
          Tranmere Rovers          1-3 (1-2)  Crawley Town
-         Grimsby Town             1-3 (0-3)  Wrexham AFC
-  17.15  Stockport County         5-0 (3-0)  Milton Keynes Dons
+  13.00  Harrogate Town           3-0 (1-0)  Bradford City
+  12.30  Mansfield Town           1-1 (0-1)  Colchester United
 
 
 Matchday 41
@@ -721,8 +735,8 @@ Matchday 41
 
 Matchday 42
 [Mon Apr/1]
-  13.00  Grimsby Town             1-1 (0-0)  Bradford City
-  15.00  Sutton United            3-1 (1-0)  Swindon Town
+  15.00  Tranmere Rovers          1-1 (1-1)  Colchester United
+         Sutton United            3-1 (1-0)  Swindon Town
          Stockport County         1-0 (0-0)  AFC Wimbledon
          Notts County             3-3 (1-1)  Milton Keynes Dons
          Newport County           0-4 (0-2)  Crawley Town
@@ -730,7 +744,7 @@ Matchday 42
          Walsall FC               2-1 (1-0)  Salford City
          Morecambe FC             2-1 (2-0)  Barrow AFC
          Crewe Alexandra          0-3 (0-3)  Forest Green Rovers
-         Tranmere Rovers          1-1 (1-1)  Colchester United
+  13.00  Grimsby Town             1-1 (0-0)  Bradford City
 [Tue Apr/2]
   19.45  Doncaster Rovers         1-0 (1-0)  Wrexham AFC
 
@@ -751,25 +765,14 @@ Matchday 43
          Accrington Stanley       0-0  Crewe Alexandra
 
 
-Matchday 14
+Matchday 36
 [Tue Apr/9]
-  19.45  Mansfield Town           1-0 (1-0)  Forest Green Rovers
+  19.45  Colchester United        1-2 (1-1)  Stockport County
 
 
 Matchday 18
 [Tue Apr/9]
   19.45  Doncaster Rovers         2-1 (1-0)  Walsall FC
-         Morecambe FC             0-1 (0-0)  Crewe Alexandra
-
-
-Matchday 27
-[Tue Apr/9]
-  19.45  Newport County           1-3 (1-1)  Accrington Stanley
-
-
-Matchday 29
-[Tue Apr/9]
-  19.45  Harrogate Town           1-0 (0-0)  Grimsby Town
 
 
 Matchday 30
@@ -777,9 +780,24 @@ Matchday 30
   19.45  Wrexham AFC              4-1 (2-0)  Crawley Town
 
 
-Matchday 36
+Matchday 14
 [Tue Apr/9]
-  19.45  Colchester United        1-2 (1-1)  Stockport County
+  19.45  Mansfield Town           1-0 (1-0)  Forest Green Rovers
+
+
+Matchday 29
+[Tue Apr/9]
+  19.45  Harrogate Town           1-0 (0-0)  Grimsby Town
+
+
+Matchday 27
+[Tue Apr/9]
+  19.45  Newport County           1-3 (1-1)  Accrington Stanley
+
+
+Matchday 18
+[Tue Apr/9]
+  19.45  Morecambe FC             0-1 (0-0)  Crewe Alexandra
 
 
 Matchday 44
@@ -803,14 +821,9 @@ Matchday 29
   19.45  Notts County             2-5 (0-3)  Stockport County
 
 
-Matchday 33
+Matchday 42
 [Tue Apr/16]
-  19.45  Colchester United        2-0 (1-0)  Grimsby Town
-
-
-Matchday 36
-[Tue Apr/16]
-  19.45  Crawley Town             1-1 (0-1)  Barrow AFC
+  19.45  Mansfield Town           2-1 (1-0)  Accrington Stanley
 
 
 Matchday 40
@@ -818,17 +831,22 @@ Matchday 40
   19.45  Walsall FC               2-1 (1-0)  Swindon Town
 
 
-Matchday 42
+Matchday 36
 [Tue Apr/16]
-  19.45  Mansfield Town           2-1 (1-0)  Accrington Stanley
+  19.45  Crawley Town             1-1 (0-1)  Barrow AFC
+
+
+Matchday 33
+[Tue Apr/16]
+  19.45  Colchester United        2-0 (1-0)  Grimsby Town
 
 
 Matchday 45
 [Sat Apr/20]
+  15.00  Harrogate Town           3-5 (2-2)  Milton Keynes Dons
+         Sutton United            2-2 (0-1)  Crawley Town
   12.30  Crewe Alexandra          0-3 (0-2)  Wrexham AFC
-  15.00  Sutton United            2-2 (0-1)  Crawley Town
-         Harrogate Town           3-5 (2-2)  Milton Keynes Dons
-         Doncaster Rovers         4-2 (0-2)  Barrow AFC
+  15.00  Doncaster Rovers         4-2 (0-2)  Barrow AFC
          Morecambe FC             1-2 (1-2)  Forest Green Rovers
          Walsall FC               2-3 (2-2)  Bradford City
          Grimsby Town             2-0 (0-0)  Swindon Town

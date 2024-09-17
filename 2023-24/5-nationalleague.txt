@@ -1,5 +1,10 @@
 = English National League 2023/24
 
+# Date       Sat Aug/5 2023 - Sat Apr/20 2024 (259d)
+# Teams      24
+# Matches    552
+
+
 
 Matchday 1
 [Sat Aug/5]
@@ -68,9 +73,9 @@ Matchday 4
 
 Matchday 5
 [Fri Aug/25]
-  19.45  Southend United          2-0 (2-0)  Eastleigh FC
+  19.45  Solihull Moors           1-1 (1-0)  Halifax Town
+         Southend United          2-0 (2-0)  Eastleigh FC
          Rochdale AFC             2-2 (1-1)  Bromley FC
-         Solihull Moors           1-1 (1-0)  Halifax Town
 [Sat Aug/26]
   15.00  Aldershot Town           3-1 (1-0)  Wealdstone FC
          Altrincham FC            2-1 (0-1)  Chesterfield FC
@@ -276,8 +281,8 @@ Matchday 17
 
 Matchday 18
 [Sat Oct/28]
-  15.00  Oxford City              0-2 (0-2)  Barnet FC
-         Solihull Moors           1-0 (0-0)  Wealdstone FC
+  17.30  York City                1-1 (0-0)  Halifax Town
+  15.00  Solihull Moors           1-0 (0-0)  Wealdstone FC
          Boreham Wood             1-1 (0-1)  Southend United
          Dorking Wanderers        2-1 (1-0)  Aldershot Town
          Ebbsfleet United         0-1 (0-0)  Dagenham & Redbridge
@@ -287,7 +292,7 @@ Matchday 18
          Kidderminster Harriers   1-3 (1-1)  Chesterfield FC
          Maidenhead United        3-2 (2-0)  Eastleigh FC
          Oldham Athletic          2-2 (1-2)  Altrincham FC
-  17.30  York City                1-1 (0-0)  Halifax Town
+         Oxford City              0-2 (0-2)  Barnet FC
 
 
 Matchday 21
@@ -344,11 +349,11 @@ Matchday 21
 
 Matchday 22
 [Sat Nov/25]
-  12.00  AFC Fylde                3-3 (3-1)  Dorking Wanderers
-  15.00  Oxford City              2-2 (2-1)  Kidderminster Harriers
+  15.00  Wealdstone FC            3-2 (1-2)  Barnet FC
          Oldham Athletic          1-4 (0-1)  Ebbsfleet United
-         Wealdstone FC            3-2 (1-2)  Barnet FC
-         Aldershot Town           1-0 (0-0)  Halifax Town
+         Oxford City              2-2 (2-1)  Kidderminster Harriers
+  12.00  AFC Fylde                3-3 (3-1)  Dorking Wanderers
+  15.00  Aldershot Town           1-0 (0-0)  Halifax Town
          Altrincham FC            6-1 (3-0)  Solihull Moors
          Boreham Wood             4-2 (1-2)  Woking FC
          Dagenham & Redbridge     1-2 (0-1)  Rochdale AFC
@@ -367,8 +372,8 @@ Matchday 23
 
 Matchday 24
 [Sat Dec/16]
-  12.30  Gateshead FC             0-2 (0-1)  Halifax Town
-  15.00  Solihull Moors           2-3 (1-0)  Oldham Athletic
+  15.00  Southend United          1-2 (0-1)  Bromley FC
+         Solihull Moors           2-3 (1-0)  Oldham Athletic
          Rochdale AFC             0-0  York City
          Maidenhead United        1-0 (0-0)  Kidderminster Harriers
          Hartlepool United        0-1 (0-1)  Chesterfield FC
@@ -378,7 +383,7 @@ Matchday 24
          Boreham Wood             2-1 (2-1)  Oxford City
          Altrincham FC            2-1 (0-1)  AFC Fylde
          Aldershot Town           3-5 (0-3)  Eastleigh FC
-         Southend United          1-2 (0-1)  Bromley FC
+  12.30  Gateshead FC             0-2 (0-1)  Halifax Town
 
 
 Matchday 25
@@ -420,13 +425,13 @@ Matchday 27
          Oldham Athletic          2-0 (1-0)  Hartlepool United
          Kidderminster Harriers   1-2 (1-2)  Boreham Wood
 [Mon Jan/1]
-  15.00  Eastleigh FC             4-4 (2-2)  Dagenham & Redbridge
+  15.00  AFC Fylde                2-0 (0-0)  Rochdale AFC
+         Eastleigh FC             4-4 (2-2)  Dagenham & Redbridge
          Woking FC                2-3 (1-2)  Aldershot Town
          York City                2-0 (1-0)  Gateshead FC
          Halifax Town             0-0  Altrincham FC
          Oxford City              1-2 (0-0)  Dorking Wanderers
          Chesterfield FC          3-2 (0-1)  Solihull Moors
-         AFC Fylde                2-0 (0-0)  Rochdale AFC
 
 
 Matchday 28
@@ -445,8 +450,8 @@ Matchday 28
 
 Matchday 23
 [Tue Jan/9]
-  19.45  Barnet FC                2-1 (1-1)  Dagenham & Redbridge
-         AFC Fylde                2-1 (2-0)  Hartlepool United
+  19.45  AFC Fylde                2-1 (2-0)  Hartlepool United
+         Barnet FC                2-1 (1-1)  Dagenham & Redbridge
 
 
 Matchday 16
@@ -463,10 +468,10 @@ Matchday 23
 
 Matchday 29
 [Sat Jan/20]
-  15.00  Ebbsfleet United         0-1 (0-0)  Hartlepool United
+  15.00  Kidderminster Harriers   4-2 (2-2)  Aldershot Town
+         Ebbsfleet United         0-1 (0-0)  Hartlepool United
          Dorking Wanderers        1-0 (1-0)  Gateshead FC
          Bromley FC               2-2 (1-1)  Boreham Wood
-         Kidderminster Harriers   4-2 (2-2)  Aldershot Town
 
 
 Matchday 30
@@ -499,14 +504,14 @@ Matchday 31
          Altrincham FC            4-0 (2-0)  Eastleigh FC
 
 
-Matchday 23
-[Tue Jan/30]
-  19.45  Wealdstone FC            3-3 (2-2)  Aldershot Town
-
-
 Matchday 29
 [Tue Jan/30]
   19.45  Solihull Moors           1-1 (0-0)  Dagenham & Redbridge
+
+
+Matchday 23
+[Tue Jan/30]
+  19.45  Wealdstone FC            3-3 (2-2)  Aldershot Town
 
 
 Matchday 32
@@ -516,18 +521,28 @@ Matchday 32
          Woking FC                0-1 (0-1)  Boreham Wood
          Halifax Town             1-2 (1-0)  Aldershot Town
          Eastleigh FC             1-3 (0-1)  Chesterfield FC
-         Solihull Moors           0-1 (0-1)  Altrincham FC
-         York City                1-1 (1-1)  Maidenhead United
+  17.30  Ebbsfleet United         0-0  Oldham Athletic
+  15.00  York City                1-1 (1-1)  Maidenhead United
          Southend United          0-1 (0-0)  Gateshead FC
          Kidderminster Harriers   3-2 (0-2)  Oxford City
          Rochdale AFC             1-2 (1-2)  Dagenham & Redbridge
          Bromley FC               1-2 (1-1)  Hartlepool United
-  17.30  Ebbsfleet United         0-0  Oldham Athletic
+         Solihull Moors           0-1 (0-1)  Altrincham FC
+
+
+Matchday 28
+[Tue Feb/6]
+  19.45  Dagenham & Redbridge     1-2 (0-1)  Chesterfield FC
 
 
 Matchday 23
 [Tue Feb/6]
   19.45  Halifax Town             1-3 (0-2)  Solihull Moors
+
+
+Matchday 29
+[Tue Feb/6]
+  19.45  Woking FC                2-0 (1-0)  Oxford City
 
 
 Matchday 27
@@ -538,12 +553,17 @@ Matchday 27
 Matchday 28
 [Tue Feb/6]
   19.45  Gateshead FC             1-1 (0-0)  Eastleigh FC
-         Dagenham & Redbridge     1-2 (0-1)  Chesterfield FC
 
 
-Matchday 29
-[Tue Feb/6]
-  19.45  Woking FC                2-0 (1-0)  Oxford City
+Matchday 33
+[Sat Feb/10]
+  15.00  Boreham Wood             1-0 (1-0)  Maidenhead United
+         Dagenham & Redbridge     7-1 (3-0)  Oxford City
+         Dorking Wanderers        1-3 (1-2)  Halifax Town
+         Eastleigh FC             1-2 (0-1)  AFC Fylde
+         Chesterfield FC          2-2 (2-1)  Ebbsfleet United
+         Southend United          0-1 (0-0)  York City
+  17.30  Woking FC                1-1 (0-1)  Hartlepool United
 
 
 Matchday 30
@@ -551,21 +571,10 @@ Matchday 30
   15.00  Altrincham FC            3-0 (1-0)  Rochdale AFC
 
 
-Matchday 33
-[Sat Feb/10]
-  15.00  Dorking Wanderers        1-3 (1-2)  Halifax Town
-         Eastleigh FC             1-2 (0-1)  AFC Fylde
-         Chesterfield FC          2-2 (2-1)  Ebbsfleet United
-         Southend United          0-1 (0-0)  York City
-         Dagenham & Redbridge     7-1 (3-0)  Oxford City
-         Boreham Wood             1-0 (1-0)  Maidenhead United
-  17.30  Woking FC                1-1 (0-1)  Hartlepool United
-
-
 Matchday 23
 [Tue Feb/13]
-  19.45  York City                0-1 (0-0)  Dorking Wanderers
-         Oldham Athletic          2-1 (0-1)  Boreham Wood
+  19.45  Oldham Athletic          2-1 (0-1)  Boreham Wood
+         York City                0-1 (0-0)  Dorking Wanderers
 
 
 Matchday 28
@@ -580,8 +589,8 @@ Matchday 29
 
 Matchday 34
 [Sat Feb/17]
-  15.00  Kidderminster Harriers   0-0  Dorking Wanderers
-         Hartlepool United        3-1 (1-1)  Boreham Wood
+  17.30  Aldershot Town           2-0 (2-0)  Altrincham FC
+  15.00  Hartlepool United        3-1 (1-1)  Boreham Wood
          Halifax Town             2-1 (2-0)  Woking FC
          Ebbsfleet United         3-0 (0-0)  Eastleigh FC
          Bromley FC               4-3 (0-1)  Chesterfield FC
@@ -591,7 +600,7 @@ Matchday 34
          Rochdale AFC             1-2 (1-1)  Solihull Moors
          Wealdstone FC            2-4 (1-3)  Gateshead FC
          York City                1-1 (1-1)  Dagenham & Redbridge
-  17.30  Aldershot Town           2-0 (2-0)  Altrincham FC
+         Kidderminster Harriers   0-0  Dorking Wanderers
 
 
 Matchday 35
@@ -609,8 +618,8 @@ Matchday 35
 
 Matchday 36
 [Sat Feb/24]
-  12.30  Eastleigh FC             2-0 (0-0)  Bromley FC
-  15.00  Dorking Wanderers        1-4 (1-2)  Ebbsfleet United
+  15.00  Dagenham & Redbridge     0-1 (0-0)  Halifax Town
+         Dorking Wanderers        1-4 (1-2)  Ebbsfleet United
          Barnet FC                2-0 (1-0)  York City
          Chesterfield FC          2-2 (0-0)  Rochdale AFC
          Altrincham FC            1-3 (1-2)  Maidenhead United
@@ -618,22 +627,16 @@ Matchday 36
          Woking FC                1-1 (0-0)  Wealdstone FC
          Oldham Athletic          1-2 (0-1)  Kidderminster Harriers
          Boreham Wood             4-0 (3-0)  AFC Fylde
-         Dagenham & Redbridge     0-1 (0-0)  Halifax Town
-         Southend United          4-1 (0-1)  Aldershot Town
+  12.30  Eastleigh FC             2-0 (0-0)  Bromley FC
+  15.00  Southend United          4-1 (0-1)  Aldershot Town
          Solihull Moors           2-1 (1-0)  Hartlepool United
-
-
-Matchday 23
-[Tue Feb/27]
-  19.45  Woking FC                3-2 (1-2)  Gateshead FC
 
 
 Matchday 29
 [Tue Feb/27]
-  19.45  Southend United          2-1 (2-1)  Altrincham FC
-         Eastleigh FC             1-2 (0-1)  Oldham Athletic
-         Rochdale AFC             3-0 (3-0)  Wealdstone FC
+  19.45  Eastleigh FC             1-2 (0-1)  Oldham Athletic
          Barnet FC                0-2 (0-1)  Chesterfield FC
+         Southend United          2-1 (2-1)  Altrincham FC
 
 
 Matchday 33
@@ -641,10 +644,20 @@ Matchday 33
   19.45  Solihull Moors           0-1 (0-0)  Kidderminster Harriers
 
 
+Matchday 29
+[Tue Feb/27]
+  19.45  Rochdale AFC             3-0 (3-0)  Wealdstone FC
+
+
+Matchday 23
+[Tue Feb/27]
+  19.45  Woking FC                3-2 (1-2)  Gateshead FC
+
+
 Matchday 37
 [Sat Mar/2]
-  12.30  Dorking Wanderers        4-1 (2-1)  Chesterfield FC
-  15.00  Oxford City              1-2 (1-2)  Aldershot Town
+  15.00  York City                2-3 (1-1)  Wealdstone FC
+         Oxford City              1-2 (1-2)  Aldershot Town
          Oldham Athletic          1-1 (0-0)  Southend United
          Hartlepool United        1-2 (0-2)  Barnet FC
          Ebbsfleet United         2-1 (1-1)  Rochdale AFC
@@ -653,17 +666,17 @@ Matchday 37
          Bromley FC               2-0 (1-0)  Halifax Town
          Boreham Wood             1-1 (1-0)  Gateshead FC
          AFC Fylde                4-1 (1-0)  Maidenhead United
-         York City                2-3 (1-1)  Wealdstone FC
-
-
-Matchday 16
-[Tue Mar/5]
-  19.45  Altrincham FC            2-1 (2-0)  Dorking Wanderers
+  12.30  Dorking Wanderers        4-1 (2-1)  Chesterfield FC
 
 
 Matchday 21
 [Tue Mar/5]
   19.45  Southend United          1-1 (0-1)  Wealdstone FC
+
+
+Matchday 16
+[Tue Mar/5]
+  19.45  Altrincham FC            2-1 (2-0)  Dorking Wanderers
 
 
 Matchday 29
@@ -678,8 +691,8 @@ Matchday 30
 
 Matchday 33
 [Tue Mar/5]
-  19.45  Barnet FC                2-0 (1-0)  Rochdale AFC
-         Oldham Athletic          0-0  Bromley FC
+  19.45  Oldham Athletic          0-0  Bromley FC
+         Barnet FC                2-0 (1-0)  Rochdale AFC
 
 
 Matchday 37
@@ -691,12 +704,12 @@ Matchday 38
 [Sat Mar/9]
   15.00  Kidderminster Harriers   0-0  York City
          Rochdale AFC             2-2 (1-2)  Oxford City
-         Altrincham FC            0-1 (0-0)  Woking FC
-         Maidenhead United        4-2 (3-1)  Dorking Wanderers
+  17.30  Southend United          1-1 (0-1)  Dagenham & Redbridge
+  15.00  Maidenhead United        4-2 (3-1)  Dorking Wanderers
          Halifax Town             2-1 (1-0)  Boreham Wood
          Chesterfield FC          4-1 (1-0)  AFC Fylde
          Aldershot Town           2-0 (1-0)  Oldham Athletic
-  17.30  Southend United          1-1 (0-1)  Dagenham & Redbridge
+         Altrincham FC            0-1 (0-0)  Woking FC
 
 
 Matchday 39
@@ -713,8 +726,8 @@ Matchday 39
 
 Matchday 40
 [Sat Mar/16]
-  12.30  Oldham Athletic          2-2 (2-1)  Chesterfield FC
-  15.00  AFC Fylde                1-2 (0-1)  Wealdstone FC
+  15.00  Bromley FC               0-0  Kidderminster Harriers
+         AFC Fylde                1-2 (0-1)  Wealdstone FC
          Dagenham & Redbridge     4-1 (2-0)  Maidenhead United
          Hartlepool United        0-0  Southend United
          Woking FC                1-0 (0-0)  Barnet FC
@@ -723,7 +736,7 @@ Matchday 40
          Eastleigh FC             1-4 (1-2)  Rochdale AFC
          Boreham Wood             0-1 (0-0)  Altrincham FC
          Dorking Wanderers        1-1 (0-0)  Solihull Moors
-         Bromley FC               0-0  Kidderminster Harriers
+  12.30  Oldham Athletic          2-2 (2-1)  Chesterfield FC
 [Sun Mar/17]
   12.15  Oxford City              0-2 (0-2)  Halifax Town
 
@@ -731,16 +744,13 @@ Matchday 40
 Matchday 39
 [Tue Mar/19]
   19.45  Barnet FC                2-1 (2-1)  Eastleigh FC
+[Wed Mar/20]
+  19.45  Wealdstone FC            0-1 (0-0)  Bromley FC
 
 
 Matchday 35
 [Wed Mar/20]
   19.45  Halifax Town             4-2 (3-1)  Chesterfield FC
-
-
-Matchday 39
-[Wed Mar/20]
-  19.45  Wealdstone FC            0-1 (0-0)  Bromley FC
 
 
 Matchday 41
@@ -758,9 +768,9 @@ Matchday 41
          Barnet FC                6-0 (4-0)  Dorking Wanderers
 
 
-Matchday 33
+Matchday 44
 [Tue Mar/26]
-  19.45  Altrincham FC            4-1 (1-1)  Wealdstone FC
+  19.45  Solihull Moors           0-3 (0-2)  Southend United
 
 
 Matchday 38
@@ -768,9 +778,9 @@ Matchday 38
   19.45  Gateshead FC             7-1 (1-1)  Hartlepool United
 
 
-Matchday 44
+Matchday 33
 [Tue Mar/26]
-  19.45  Solihull Moors           0-3 (0-2)  Southend United
+  19.45  Altrincham FC            4-1 (1-1)  Wealdstone FC
 
 
 Matchday 42
@@ -807,15 +817,25 @@ Matchday 43
 
 Matchday 44
 [Sat Apr/6]
-  12.30  Oldham Athletic          1-1 (1-1)  Rochdale AFC
-  15.00  Maidenhead United        2-2 (1-0)  Barnet FC
-         Hartlepool United        2-0 (1-0)  Aldershot Town
+  15.00  York City                0-1 (0-0)  Eastleigh FC
          Boreham Wood             4-0 (1-0)  Wealdstone FC
-         York City                0-1 (0-0)  Eastleigh FC
-         Dorking Wanderers        0-0  Altrincham FC
-         Ebbsfleet United         2-1 (1-0)  AFC Fylde
-         Woking FC                3-2 (1-1)  Dagenham & Redbridge
+         Maidenhead United        2-2 (1-0)  Barnet FC
+         Hartlepool United        2-0 (1-0)  Aldershot Town
+  12.30  Oldham Athletic          1-1 (1-1)  Rochdale AFC
+  15.00  Dorking Wanderers        0-0  Altrincham FC
   17.30  Kidderminster Harriers   0-2 (0-0)  Halifax Town
+  15.00  Woking FC                3-2 (1-1)  Dagenham & Redbridge
+         Ebbsfleet United         2-1 (1-0)  AFC Fylde
+
+
+Matchday 39
+[Tue Apr/9]
+  19.45  Maidenhead United        3-1 (1-0)  Hartlepool United
+
+
+Matchday 38
+[Tue Apr/9]
+  19.45  Barnet FC                1-1 (0-0)  Bromley FC
 
 
 Matchday 30
@@ -825,13 +845,7 @@ Matchday 30
 
 Matchday 38
 [Tue Apr/9]
-  19.45  Barnet FC                1-1 (0-0)  Bromley FC
-         Solihull Moors           3-0 (1-0)  Ebbsfleet United
-
-
-Matchday 39
-[Tue Apr/9]
-  19.45  Maidenhead United        3-1 (1-0)  Hartlepool United
+  19.45  Solihull Moors           3-0 (1-0)  Ebbsfleet United
 
 
 Matchday 35
@@ -848,8 +862,8 @@ Matchday 45
 [Sat Apr/13]
   15.00  Oxford City              0-0  Oldham Athletic
          York City                2-0 (0-0)  Woking FC
-         Wealdstone FC            1-0 (0-0)  Chesterfield FC
-         Maidenhead United        2-1 (0-0)  Gateshead FC
+  17.30  Aldershot Town           0-3 (0-2)  Boreham Wood
+  15.00  Maidenhead United        2-1 (0-0)  Gateshead FC
          Rochdale AFC             1-1 (0-0)  Dorking Wanderers
          Kidderminster Harriers   0-1 (0-1)  Eastleigh FC
          Hartlepool United        1-1 (0-1)  Dagenham & Redbridge
@@ -857,7 +871,7 @@ Matchday 45
          Bromley FC               3-0 (2-0)  Solihull Moors
          Ebbsfleet United         0-2 (0-2)  Altrincham FC
          Halifax Town             0-2 (0-2)  Barnet FC
-  17.30  Aldershot Town           0-3 (0-2)  Boreham Wood
+         Wealdstone FC            1-0 (0-0)  Chesterfield FC
 
 
 Matchday 44

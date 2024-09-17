@@ -1,5 +1,10 @@
 = English League One 2023/24
 
+# Date       Sat Aug/5 2023 - Sat Apr/27 2024 (266d)
+# Teams      24
+# Matches    552
+
+
 
 Matchday 1
 [Sat Aug/5]
@@ -45,8 +50,8 @@ Matchday 3
          Northampton Town         2-2 (0-1)  Lincoln City
          Shrewsbury Town          2-1 (2-0)  Burton Albion
          Wycombe Wanderers        3-2 (1-1)  Leyton Orient
-  20.00  Reading FC               1-0 (1-0)  Cheltenham Town
-         Portsmouth FC            1-0 (0-0)  Exeter City
+  20.00  Portsmouth FC            1-0 (0-0)  Exeter City
+         Reading FC               1-0 (1-0)  Cheltenham Town
 
 
 Matchday 4
@@ -100,8 +105,8 @@ Matchday 6
 
 Matchday 7
 [Sat Sep/9]
-  15.00  Exeter City              1-2 (0-0)  Leyton Orient
-         Stevenage FC             2-2 (1-1)  Carlisle United
+  15.00  Stevenage FC             2-2 (1-1)  Carlisle United
+         Exeter City              1-2 (0-0)  Leyton Orient
 
 
 Matchday 8
@@ -176,16 +181,16 @@ Matchday 11
 
 Matchday 12
 [Sat Oct/7]
-  12.30  Oxford United            2-1 (1-0)  Bristol Rovers
-  15.00  Peterborough United      2-0 (0-0)  Lincoln City
+  15.00  Portsmouth FC            2-0 (0-0)  Port Vale FC
+         Peterborough United      2-0 (0-0)  Lincoln City
          Leyton Orient            2-1 (1-1)  Reading FC
          Fleetwood Town           1-4 (0-3)  Wycombe Wanderers
          Stevenage FC             1-0 (1-0)  Wigan Athletic
          Exeter City              0-1 (0-0)  Barnsley FC
          Shrewsbury Town          1-0 (0-0)  Northampton Town
          Cheltenham Town          1-1 (1-1)  Derby County
-         Portsmouth FC            2-0 (0-0)  Port Vale FC
-         Bolton Wanderers         1-3 (1-1)  Carlisle United
+  12.30  Oxford United            2-1 (1-0)  Bristol Rovers
+  15.00  Bolton Wanderers         1-3 (1-1)  Carlisle United
          Charlton Athletic        2-2 (0-1)  Blackpool FC
 [Mon Oct/9]
   20.00  Burton Albion            2-1 (2-0)  Cambridge United
@@ -193,10 +198,10 @@ Matchday 12
 
 Matchday 13
 [Sat Oct/14]
-  15.00  Cambridge United         1-1 (0-0)  Shrewsbury Town
+  15.00  Blackpool FC             3-0 (1-0)  Stevenage FC
+         Cambridge United         1-1 (0-0)  Shrewsbury Town
          Lincoln City             0-1 (0-0)  Burton Albion
          Carlisle United          0-1 (0-1)  Leyton Orient
-         Blackpool FC             3-0 (1-0)  Stevenage FC
 
 
 Matchday 14
@@ -227,8 +232,8 @@ Matchday 15
          Port Vale FC             0-1 (0-1)  Peterborough United
          Wigan Athletic           2-0 (1-0)  Oxford United
          Wycombe Wanderers        2-4 (0-2)  Bolton Wanderers
-         Northampton Town         2-2 (0-1)  Leyton Orient
   20.00  Reading FC               1-2 (0-1)  Fleetwood Town
+  19.45  Northampton Town         2-2 (0-1)  Leyton Orient
 
 
 Matchday 16
@@ -249,12 +254,15 @@ Matchday 16
 
 Matchday 7
 [Tue Oct/31]
-  19.45  Wigan Athletic           2-3 (0-3)  Charlton Athletic
+  19.45  Lincoln City             0-2 (0-1)  Oxford United
+         Wigan Athletic           2-3 (0-3)  Charlton Athletic
          Wycombe Wanderers        0-0  Cambridge United
          Derby County             4-0 (3-0)  Northampton Town
-         Lincoln City             0-2 (0-1)  Oxford United
 [Wed Nov/1]
   19.45  Fleetwood Town           3-3 (2-0)  Blackpool FC
+[Tue Nov/7]
+  19.45  Shrewsbury Town          0-2 (0-0)  Bolton Wanderers
+  20.00  Reading FC               1-1 (1-0)  Bristol Rovers
 
 
 Matchday 13
@@ -262,24 +270,18 @@ Matchday 13
   19.45  Wigan Athletic           2-1 (1-0)  Peterborough United
 
 
-Matchday 7
-[Tue Nov/7]
-  19.45  Shrewsbury Town          0-2 (0-0)  Bolton Wanderers
-  20.00  Reading FC               1-1 (1-0)  Bristol Rovers
-
-
 Matchday 17
 [Sat Nov/11]
-  12.00  Peterborough United      5-0 (3-0)  Cambridge United
-  15.00  Derby County             3-0 (1-0)  Barnsley FC
+  15.00  Leyton Orient            2-3 (0-2)  Oxford United
+         Fleetwood Town           3-0 (3-0)  Exeter City
+         Derby County             3-0 (1-0)  Barnsley FC
          Wycombe Wanderers        0-1 (0-1)  Stevenage FC
-         Leyton Orient            2-3 (0-2)  Oxford United
+         Lincoln City             1-1 (0-1)  Port Vale FC
          Northampton Town         2-0 (0-0)  Burton Albion
          Portsmouth FC            2-2 (1-0)  Charlton Athletic
          Shrewsbury Town          3-2 (1-2)  Reading FC
-         Lincoln City             1-1 (0-1)  Port Vale FC
-         Fleetwood Town           3-0 (3-0)  Exeter City
-         Bolton Wanderers         1-0 (0-0)  Blackpool FC
+  12.00  Peterborough United      5-0 (3-0)  Cambridge United
+  15.00  Bolton Wanderers         1-0 (0-0)  Blackpool FC
          Carlisle United          0-1 (0-1)  Bristol Rovers
          Cheltenham Town          1-1 (1-1)  Wigan Athletic
 
@@ -323,8 +325,8 @@ Matchday 20
          Stevenage FC             2-2 (2-0)  Peterborough United
          Port Vale FC             0-1 (0-0)  Derby County
          Wigan Athletic           3-0 (2-0)  Fleetwood Town
-         Oxford United            0-0  Bolton Wanderers
   20.00  Reading FC               5-1 (3-1)  Carlisle United
+  19.45  Oxford United            0-0  Bolton Wanderers
 
 
 Matchday 13
@@ -406,8 +408,8 @@ Matchday 24
 
 Matchday 25
 [Fri Dec/29]
-  19.00  Wigan Athletic           2-0 (2-0)  Carlisle United
-  19.45  Port Vale FC             3-0 (1-0)  Blackpool FC
+  19.45  Oxford United            2-3 (2-1)  Derby County
+         Port Vale FC             3-0 (1-0)  Blackpool FC
          Peterborough United      2-2 (1-2)  Barnsley FC
          Lincoln City             1-2 (0-1)  Northampton Town
          Leyton Orient            0-0  Wycombe Wanderers
@@ -416,7 +418,7 @@ Matchday 25
          Cheltenham Town          2-2 (2-2)  Reading FC
          Burton Albion            1-0 (1-0)  Shrewsbury Town
          Bristol Rovers           2-1 (0-0)  Charlton Athletic
-         Oxford United            2-3 (2-1)  Derby County
+  19.00  Wigan Athletic           2-0 (2-0)  Carlisle United
 
 
 Matchday 26
@@ -437,9 +439,9 @@ Matchday 26
 
 Matchday 27
 [Sat Jan/6]
-  12.30  Fleetwood Town           1-3 (0-2)  Derby County
   15.00  Port Vale FC             3-3 (1-1)  Charlton Athletic
-         Burton Albion            1-1 (0-0)  Wycombe Wanderers
+  12.30  Fleetwood Town           1-3 (0-2)  Derby County
+  15.00  Burton Albion            1-1 (0-0)  Wycombe Wanderers
          Cheltenham Town          2-1 (0-0)  Portsmouth FC
          Exeter City              2-1 (0-0)  Carlisle United
 
@@ -476,20 +478,9 @@ Matchday 29
          Exeter City              0-0  Cambridge United
 
 
-Matchday 13
-[Tue Jan/23]
-  19.45  Bristol Rovers           0-1 (0-1)  Exeter City
-
-
 Matchday 18
 [Tue Jan/23]
-  19.45  Charlton Athletic        2-3 (2-2)  Northampton Town
-         Wigan Athletic           1-0 (0-0)  Wycombe Wanderers
-
-
-Matchday 27
-[Tue Jan/23]
-  19.45  Oxford United            0-1 (0-1)  Barnsley FC
+  20.00  Reading FC               1-0 (0-0)  Derby County
 
 
 Matchday 28
@@ -499,7 +490,22 @@ Matchday 28
 
 Matchday 18
 [Tue Jan/23]
-  20.00  Reading FC               1-0 (0-0)  Derby County
+  19.45  Charlton Athletic        2-3 (2-2)  Northampton Town
+
+
+Matchday 13
+[Tue Jan/23]
+  19.45  Bristol Rovers           0-1 (0-1)  Exeter City
+
+
+Matchday 27
+[Tue Jan/23]
+  19.45  Oxford United            0-1 (0-1)  Barnsley FC
+
+
+Matchday 18
+[Tue Jan/23]
+  19.45  Wigan Athletic           1-0 (0-0)  Wycombe Wanderers
 
 
 Matchday 30
@@ -525,13 +531,13 @@ Matchday 18
 
 Matchday 31
 [Sat Feb/3]
-  12.30  Oxford United            1-1 (1-0)  Reading FC
-  15.00  Charlton Athletic        0-1 (0-1)  Derby County
+  15.00  Stevenage FC             1-0 (0-0)  Blackpool FC
+         Cheltenham Town          1-3 (0-2)  Wycombe Wanderers
+         Charlton Athletic        0-1 (0-1)  Derby County
          Burton Albion            0-1 (0-0)  Lincoln City
          Bolton Wanderers         1-1 (0-1)  Barnsley FC
-         Cheltenham Town          1-3 (0-2)  Wycombe Wanderers
-         Stevenage FC             1-0 (0-0)  Blackpool FC
-         Fleetwood Town           3-0 (1-0)  Port Vale FC
+  12.30  Oxford United            1-1 (1-0)  Reading FC
+  15.00  Fleetwood Town           3-0 (1-0)  Port Vale FC
          Leyton Orient            3-2 (2-1)  Carlisle United
          Peterborough United      2-3 (0-1)  Wigan Athletic
          Portsmouth FC            4-1 (2-0)  Northampton Town
@@ -541,9 +547,9 @@ Matchday 31
 
 Matchday 18
 [Tue Feb/6]
-  19.45  Port Vale FC             0-1 (0-0)  Leyton Orient
+  19.45  Bristol Rovers           0-2 (0-1)  Fleetwood Town
+         Port Vale FC             0-1 (0-0)  Leyton Orient
          Exeter City              2-1 (0-1)  Peterborough United
-         Bristol Rovers           0-2 (0-1)  Fleetwood Town
 
 
 Matchday 27
@@ -597,6 +603,11 @@ Matchday 34
          Northampton Town         3-1 (2-0)  Bristol Rovers
 
 
+Matchday 28
+[Tue Feb/20]
+  20.00  Reading FC               2-0 (0-0)  Port Vale FC
+
+
 Matchday 18
 [Tue Feb/20]
   19.45  Cambridge United         1-2 (1-0)  Bolton Wanderers
@@ -607,32 +618,36 @@ Matchday 29
   19.45  Oxford United            2-2 (1-1)  Northampton Town
 
 
-Matchday 28
-[Tue Feb/20]
-  20.00  Reading FC               2-0 (0-0)  Port Vale FC
-
-
 Matchday 35
 [Fri Feb/23]
   19.45  Wigan Athletic           1-1 (0-1)  Cheltenham Town
 [Sat Feb/24]
-  12.00  Cambridge United         0-1 (0-0)  Peterborough United
-  15.00  Charlton Athletic        0-0  Portsmouth FC
+  15.00  Bristol Rovers           2-1 (1-1)  Carlisle United
+         Charlton Athletic        0-0  Portsmouth FC
          Exeter City              1-1 (1-0)  Fleetwood Town
-         Bristol Rovers           2-1 (1-1)  Carlisle United
+         Blackpool FC             4-1 (2-1)  Bolton Wanderers
          Reading FC               2-3 (2-3)  Shrewsbury Town
          Stevenage FC             1-0 (1-0)  Wycombe Wanderers
          Burton Albion            0-2 (0-2)  Northampton Town
          Oxford United            1-2 (1-0)  Leyton Orient
          Port Vale FC             0-2 (0-1)  Lincoln City
-         Blackpool FC             4-1 (2-1)  Bolton Wanderers
-         Barnsley FC              2-1 (1-1)  Derby County
+  12.00  Cambridge United         0-1 (0-0)  Peterborough United
+  15.00  Barnsley FC              2-1 (1-1)  Derby County
+
+
+Matchday 27
+[Tue Feb/27]
+  19.45  Wigan Athletic           1-0 (0-0)  Bolton Wanderers
+
+
+Matchday 33
+[Tue Feb/27]
+  19.45  Burton Albion            0-1 (0-1)  Carlisle United
 
 
 Matchday 13
 [Tue Feb/27]
-  19.45  Wycombe Wanderers        2-0 (0-0)  Cheltenham Town
-         Port Vale FC             2-2 (2-0)  Fleetwood Town
+  19.45  Port Vale FC             2-2 (2-0)  Fleetwood Town
          Derby County             1-2 (1-0)  Charlton Athletic
 
 
@@ -645,12 +660,11 @@ Matchday 27
 [Tue Feb/27]
   19.45  Leyton Orient            1-0 (0-0)  Blackpool FC
          Lincoln City             3-0 (1-0)  Shrewsbury Town
-         Wigan Athletic           1-0 (0-0)  Bolton Wanderers
 
 
-Matchday 33
+Matchday 13
 [Tue Feb/27]
-  19.45  Burton Albion            0-1 (0-1)  Carlisle United
+  19.45  Wycombe Wanderers        2-0 (0-0)  Cheltenham Town
 
 
 Matchday 36
@@ -674,14 +688,14 @@ Matchday 13
   19.45  Barnsley FC              2-2 (1-0)  Bolton Wanderers
 
 
-Matchday 27
-[Tue Mar/5]
-  19.45  Peterborough United      5-1 (3-1)  Northampton Town
-
-
 Matchday 38
 [Tue Mar/5]
   19.45  Cheltenham Town          1-3 (0-1)  Charlton Athletic
+
+
+Matchday 27
+[Tue Mar/5]
+  19.45  Peterborough United      5-1 (3-1)  Northampton Town
 
 
 Matchday 37
@@ -704,14 +718,14 @@ Matchday 38
 [Tue Mar/12]
   19.45  Wycombe Wanderers        1-0 (1-0)  Wigan Athletic
          Shrewsbury Town          0-3 (0-3)  Exeter City
-         Leyton Orient            0-0  Port Vale FC
-         Portsmouth FC            2-1 (1-0)  Burton Albion
+  20.00  Bolton Wanderers         5-0 (2-0)  Oxford United
+  19.45  Portsmouth FC            2-1 (1-0)  Burton Albion
          Northampton Town         0-1 (0-0)  Blackpool FC
          Lincoln City             6-0 (2-0)  Cambridge United
          Carlisle United          2-3 (1-1)  Barnsley FC
          Derby County             2-1 (0-0)  Reading FC
          Fleetwood Town           0-0  Bristol Rovers
-  20.00  Bolton Wanderers         5-0 (2-0)  Oxford United
+         Leyton Orient            0-0  Port Vale FC
 [Wed Mar/13]
   20.00  Peterborough United      3-1 (1-0)  Stevenage FC
 
@@ -734,9 +748,9 @@ Matchday 39
 
 Matchday 40
 [Sat Mar/23]
-  15.00  Burton Albion            0-1 (0-0)  Port Vale FC
+  15.00  Carlisle United          2-2 (1-0)  Stevenage FC
+         Burton Albion            0-1 (0-0)  Port Vale FC
          Northampton Town         1-0 (1-0)  Derby County
-         Carlisle United          2-2 (1-0)  Stevenage FC
 
 
 Matchday 41
@@ -786,28 +800,28 @@ Matchday 43
          Burton Albion            0-4 (0-1)  Oxford United
 
 
-Matchday 29
-[Tue Apr/9]
-  19.45  Cheltenham Town          0-1 (0-1)  Carlisle United
-         Stevenage FC             2-1 (1-1)  Barnsley FC
-
-
 Matchday 40
 [Tue Apr/9]
-  19.45  Leyton Orient            2-2 (1-0)  Exeter City
+  19.45  Charlton Athletic        2-2 (1-0)  Wigan Athletic
          Bristol Rovers           0-2 (0-2)  Reading FC
-         Charlton Athletic        2-2 (1-0)  Wigan Athletic
          Blackpool FC             1-0 (1-0)  Fleetwood Town
+         Leyton Orient            2-2 (1-0)  Exeter City
 
 
-Matchday 33
-[Wed Apr/10]
-  19.45  Peterborough United      3-0 (1-0)  Port Vale FC
+Matchday 29
+[Tue Apr/9]
+  19.45  Stevenage FC             2-1 (1-1)  Barnsley FC
+         Cheltenham Town          0-1 (0-1)  Carlisle United
 
 
 Matchday 43
 [Wed Apr/10]
   19.45  Wycombe Wanderers        0-0  Derby County
+
+
+Matchday 33
+[Wed Apr/10]
+  19.45  Peterborough United      3-0 (1-0)  Port Vale FC
 
 
 Matchday 44
@@ -826,26 +840,26 @@ Matchday 44
          Oxford United            5-0 (3-0)  Peterborough United
 
 
-Matchday 18
-[Tue Apr/16]
-  19.45  Burton Albion            1-2 (1-0)  Cheltenham Town
-
-
 Matchday 27
 [Tue Apr/16]
   19.45  Bristol Rovers           1-0 (0-0)  Cambridge United
 
 
-Matchday 29
+Matchday 18
 [Tue Apr/16]
-  19.45  Port Vale FC             1-2 (0-1)  Wycombe Wanderers
+  19.45  Burton Albion            1-2 (1-0)  Cheltenham Town
 
 
 Matchday 40
 [Tue Apr/16]
-  19.45  Portsmouth FC            3-2 (1-1)  Barnsley FC
+  19.45  Bolton Wanderers         2-2 (1-2)  Shrewsbury Town
          Oxford United            0-1 (0-0)  Lincoln City
-         Bolton Wanderers         2-2 (1-2)  Shrewsbury Town
+         Portsmouth FC            3-2 (1-1)  Barnsley FC
+
+
+Matchday 29
+[Tue Apr/16]
+  19.45  Port Vale FC             1-2 (0-1)  Wycombe Wanderers
 
 
 Matchday 43
@@ -857,10 +871,10 @@ Matchday 45
 [Fri Apr/19]
   20.00  Oxford United            1-1 (0-1)  Stevenage FC
 [Sat Apr/20]
+  15.00  Cheltenham Town          1-2 (1-1)  Lincoln City
+         Portsmouth FC            1-2 (0-1)  Wigan Athletic
   14.00  Northampton Town         1-2 (0-1)  Exeter City
-  15.00  Portsmouth FC            1-2 (0-1)  Wigan Athletic
-         Cheltenham Town          1-2 (1-1)  Lincoln City
-         Blackpool FC             3-2 (2-0)  Barnsley FC
+  15.00  Blackpool FC             3-2 (2-0)  Barnsley FC
          Bolton Wanderers         2-0 (0-0)  Port Vale FC
          Bristol Rovers           0-2 (0-1)  Peterborough United
          Burton Albion            3-2 (3-1)  Reading FC
@@ -872,8 +886,8 @@ Matchday 45
 
 Matchday 40
 [Tue Apr/23]
-  19.45  Cheltenham Town          2-0 (2-0)  Peterborough United
-         Cambridge United         1-1 (0-0)  Wycombe Wanderers
+  19.45  Cambridge United         1-1 (0-0)  Wycombe Wanderers
+         Cheltenham Town          2-0 (2-0)  Peterborough United
 
 
 Matchday 46

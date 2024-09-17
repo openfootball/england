@@ -1,975 +1,621 @@
 = English Premier League 2019/20
 
+# Date       Fri Aug/9 2019 - Sun Jul/26 2020 (352d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Fri Aug/9]
-  21.00  Liverpool FC              4-1 (4-0)  Norwich City FC
-           [Grant Hanley 7' (o.g.) Mohamed Salah 19' Virgil van Dijk 28' Divock Origi 42'; Teemu Pukki 64']
+  20.00  Liverpool FC             4-1 (4-0)  Norwich City
 [Sat Aug/10]
-  13.30  West Ham United FC        0-5 (0-1)  Manchester City FC
-           [Gabriel Jesus 25' Raheem Sterling 51', 75', 90' Kun Agüero 86' (pen.)]
-  16.00  Burnley FC                3-0 (0-0)  Southampton FC
-           [Ashley Barnes 63', 70' Jóhann Guðmundsson 75']
-         AFC Bournemouth           1-1 (0-0)  Sheffield United FC
-           [Chris Mepham 62'; Billy Sharp 88']
-         Crystal Palace FC         0-0  Everton FC
-         Watford FC                0-3 (0-1)  Brighton & Hove Albion FC
-           [Abdoulaye Doucouré 28' (o.g.) Florin Andone 65' Neal Maupay 77']
-  18.30  Tottenham Hotspur FC      3-1 (0-1)  Aston Villa FC
-           [Tanguy NDombèlé 73' Harry Kane 86', 90'; John McGinn 9']
+  12.30  West Ham United          0-5 (0-1)  Manchester City
+  15.00  AFC Bournemouth          1-1 (0-0)  Sheffield United
+         Burnley FC               3-0 (0-0)  Southampton FC
+         Crystal Palace           0-0  Everton FC
+         Watford FC               0-3 (0-1)  Brighton & Hove Albion
+  17.30  Tottenham Hotspur        3-1 (0-1)  Aston Villa
 [Sun Aug/11]
-  15.00  Leicester City FC         0-0  Wolverhampton Wanderers FC
-         Newcastle United FC       0-1 (0-0)  Arsenal FC
-           [Pierre-Emerick Aubameyang 58']
-  17.30  Manchester United         4-0 (1-0)  Chelsea FC
-           [Marcus Rashford 18' (pen.), 67' Anthony Martial 65' Daniel James 81']
+  14.00  Newcastle United         0-1 (0-0)  Arsenal FC
+  16.30  Manchester United        4-0 (1-0)  Chelsea FC
+  14.00  Leicester City           0-0  Wolverhampton Wanderers
 
 
 Matchday 2
 [Sat Aug/17]
-  13.30  Arsenal FC                2-1 (1-1)  Burnley FC
-           [Alexandre Lacazette 13' Pierre-Emerick Aubameyang 64'; Ashley Barnes 43']
-  16.00  Everton FC                1-0 (1-0)  Watford FC
-           [Bernard 10']
-         Brighton & Hove Albion FC   1-1 (0-0)  West Ham United FC
-           [Leandro Trossard 65'; Javier Hernández 61']
-         Aston Villa FC            1-2 (0-2)  AFC Bournemouth
-           [Douglas Luiz 71'; Joshua King 2' (pen.) Harry Wilson 12']
-         Norwich City FC           3-1 (1-0)  Newcastle United FC
-           [Teemu Pukki 32', 63', 75'; Jonjo Shelvey 90']
-         Southampton FC            1-2 (0-1)  Liverpool FC
-           [Danny Ings 83'; Sadio Mané 45' Roberto Firmino 71']
-  18.30  Manchester City FC        2-2 (2-1)  Tottenham Hotspur FC
-           [Raheem Sterling 20' Kun Agüero 35'; Érik Lamela 23' Lucas 56']
+  12.30  Arsenal FC               2-1 (1-1)  Burnley FC
+  15.00  Aston Villa              1-2 (0-2)  AFC Bournemouth
+         Brighton & Hove Albion   1-1 (0-0)  West Ham United
+         Everton FC               1-0 (1-0)  Watford FC
+         Norwich City             3-1 (1-0)  Newcastle United
+         Southampton FC           1-2 (0-1)  Liverpool FC
+  17.30  Manchester City          2-2 (2-1)  Tottenham Hotspur
 [Sun Aug/18]
-  15.00  Sheffield United FC       1-0 (0-0)  Crystal Palace FC
-           [John Lundstram 47']
-  17.30  Chelsea FC                1-1 (1-0)  Leicester City FC
-           [Mason Mount 7'; Wilfred Ndidi 67']
+  16.30  Chelsea FC               1-1 (1-0)  Leicester City
+  14.00  Sheffield United         1-0 (0-0)  Crystal Palace
 [Mon Aug/19]
-  21.00  Wolverhampton Wanderers FC   1-1 (0-1)  Manchester United
-           [Rúben Neves 55'; Anthony Martial 27']
+  20.00  Wolverhampton Wanderers  1-1 (0-1)  Manchester United
 
 
 Matchday 3
 [Fri Aug/23]
-  21.00  Aston Villa FC            2-0 (1-0)  Everton FC
-           [Wesley 21' Anwar El Ghazi 90']
+  20.00  Aston Villa              2-0 (1-0)  Everton FC
 [Sat Aug/24]
-  13.30  Norwich City FC           2-3 (2-2)  Chelsea FC
-           [Todd Cantwell 6' Teemu Pukki 30'; Tammy Abraham 3', 68' Mason Mount 17']
-  16.00  Brighton & Hove Albion FC   0-2 (0-0)  Southampton FC
-           [Moussa Djénépo 55' Nathan Redmond 90']
-         Manchester United         1-2 (0-1)  Crystal Palace FC
-           [Daniel James 89'; Jordan Ayew 32' Patrick van Aanholt 90']
-         Sheffield United FC       1-2 (0-1)  Leicester City FC
-           [Oliver McBurnie 62'; Jamie Vardy 38' Harvey Barnes 70']
-         Watford FC                1-3 (1-1)  West Ham United FC
-           [Andre Gray 17'; Mark Noble 3' (pen.) Sébastien Haller 64', 73']
-  18.30  Liverpool FC              3-1 (1-0)  Arsenal FC
-           [Joel Matip 41' Mohamed Salah 49' (pen.), 58'; Lucas Torreira 85']
+  12.30  Norwich City             2-3 (2-2)  Chelsea FC
+  15.00  Brighton & Hove Albion   0-2 (0-0)  Southampton FC
+         Manchester United        1-2 (0-1)  Crystal Palace
+         Sheffield United         1-2 (0-1)  Leicester City
+         Watford FC               1-3 (1-1)  West Ham United
+  17.30  Liverpool FC             3-1 (1-0)  Arsenal FC
 [Sun Aug/25]
-  15.00  AFC Bournemouth           1-3 (1-2)  Manchester City FC
-           [Harry Wilson 45'; Kun Agüero 15', 64' Raheem Sterling 43']
-  17.30  Tottenham Hotspur FC      0-1 (0-1)  Newcastle United FC
-           [Joelinton 27']
-         Wolverhampton Wanderers FC   1-1 (0-1)  Burnley FC
-           [Raúl Jiménez 90' (pen.); Ashley Barnes 13']
+  16.30  Tottenham Hotspur        0-1 (0-1)  Newcastle United
+         Wolverhampton Wanderers  1-1 (0-1)  Burnley FC
+  14.00  AFC Bournemouth          1-3 (1-2)  Manchester City
 
 
 Matchday 4
 [Sat Aug/31]
-  13.30  Southampton FC            1-1 (0-1)  Manchester United
-           [Jannik Vestergaard 58'; Daniel James 10']
-  16.00  Chelsea FC                2-2 (2-0)  Sheffield United FC
-           [Tammy Abraham 19', 43'; Callum Robinson 46' Kurt Zouma 89' (o.g.)]
-         Crystal Palace FC         1-0 (0-0)  Aston Villa FC
-           [Jordan Ayew 73']
-         Leicester City FC         3-1 (2-1)  AFC Bournemouth
-           [Jamie Vardy 12', 73' Youri Tielemans 41'; Callum Wilson 15']
-         Manchester City FC        4-0 (2-0)  Brighton & Hove Albion FC
-           [Kevin De Bruyne 2' Kun Agüero 42', 55' Bernardo Silva 79']
-         Newcastle United FC       1-1 (1-1)  Watford FC
-           [Fabian Schär 41'; Will Hughes 2']
-         West Ham United FC        2-0 (1-0)  Norwich City FC
-           [Sébastien Haller 24' Andrey Yarmolenko 56']
-  18.30  Burnley FC                0-3 (0-2)  Liverpool FC
-           [Chris Wood 33' (o.g.) Sadio Mané 37' Roberto Firmino 80']
+  12.30  Southampton FC           1-1 (0-1)  Manchester United
+  15.00  Chelsea FC               2-2 (2-0)  Sheffield United
+         Crystal Palace           1-0 (0-0)  Aston Villa
+         Leicester City           3-1 (2-1)  AFC Bournemouth
+         Manchester City          4-0 (2-0)  Brighton & Hove Albion
+         Newcastle United         1-1 (1-1)  Watford FC
+         West Ham United          2-0 (1-0)  Norwich City
+  17.30  Burnley FC               0-3 (0-2)  Liverpool FC
 [Sun Sep/1]
-  15.00  Everton FC                3-2 (2-1)  Wolverhampton Wanderers FC
-           [Richarlison 5', 80' Alex Iwobi 12'; Romain Saïss 9' Raúl Jiménez 75']
-  17.30  Arsenal FC                2-2 (1-2)  Tottenham Hotspur FC
-           [Alexandre Lacazette 45' Pierre-Emerick Aubameyang 71'; Christian Eriksen 10' Harry Kane 40' (pen.)]
+  16.30  Arsenal FC               2-2 (1-2)  Tottenham Hotspur
+  14.00  Everton FC               3-2 (2-1)  Wolverhampton Wanderers
 
 
 Matchday 5
 [Sat Sep/14]
-  13.30  Liverpool FC              3-1 (2-1)  Newcastle United FC
-           [Sadio Mané 28', 40' Mohamed Salah 72'; Jetro Willems 7']
-  16.00  Sheffield United FC       0-1 (0-0)  Southampton FC
-           [Moussa Djénépo 66']
-         Manchester United         1-0 (1-0)  Leicester City FC
-           [Marcus Rashford 8' (pen.)]
-         Brighton & Hove Albion FC   1-1 (0-0)  Burnley FC
-           [Neal Maupay 51'; Jeff Hendrick 90']
-         Tottenham Hotspur FC      4-0 (4-0)  Crystal Palace FC
-           [Heung-min Son 10', 23' Patrick van Aanholt 21' (o.g.) Érik Lamela 42']
-         Wolverhampton Wanderers FC   2-5 (0-3)  Chelsea FC
-           [Tammy Abraham 69' (o.g.) Patrick Cutrone 85'; Fikayo Tomori 31' Tammy Abraham 34', 41', 55' Mason Mount 90']
-  18.30  Norwich City FC           3-2 (2-1)  Manchester City FC
-           [Kenny McLean 18' Todd Cantwell 28' Teemu Pukki 50'; Kun Agüero 45' Rodri 88']
+  12.30  Liverpool FC             3-1 (2-1)  Newcastle United
+  15.00  Brighton & Hove Albion   1-1 (0-0)  Burnley FC
+         Manchester United        1-0 (1-0)  Leicester City
+         Sheffield United         0-1 (0-0)  Southampton FC
+         Tottenham Hotspur        4-0 (4-0)  Crystal Palace
+         Wolverhampton Wanderers  2-5 (0-3)  Chelsea FC
+  17.30  Norwich City             3-2 (2-1)  Manchester City
 [Sun Sep/15]
-  15.00  AFC Bournemouth           3-1 (1-1)  Everton FC
-           [Callum Wilson 23', 72' Ryan Fraser 67'; Dominic Calvert-Lewin 44']
-  17.30  Watford FC                2-2 (0-2)  Arsenal FC
-           [Tom Cleverley 53' Roberto Pereyra 81' (pen.); Pierre-Emerick Aubameyang 21', 32']
+  16.30  Watford FC               2-2 (0-2)  Arsenal FC
+  14.00  AFC Bournemouth          3-1 (1-1)  Everton FC
 [Mon Sep/16]
-  21.00  Aston Villa FC            0-0  West Ham United FC
+  20.00  Aston Villa              0-0  West Ham United
 
 
 Matchday 6
 [Fri Sep/20]
-  21.00  Southampton FC            1-3 (0-2)  AFC Bournemouth
-           [James Ward-Prowse 53' (pen.); Nathan Aké 10' Harry Wilson 35' Callum Wilson 90']
+  20.00  Southampton FC           1-3 (0-2)  AFC Bournemouth
 [Sat Sep/21]
-  13.30  Leicester City FC         2-1 (0-1)  Tottenham Hotspur FC
-           [Ricardo Pereira 69' James Maddison 85'; Harry Kane 29']
-  16.00  Burnley FC                2-0 (2-0)  Norwich City FC
-           [Chris Wood 10', 14']
-         Everton FC                0-2 (0-1)  Sheffield United FC
-           [Yerry Mina 40' (o.g.) Lys Mousset 79']
-         Manchester City FC        8-0 (5-0)  Watford FC
-           [David Silva 1' Kun Agüero 7' (pen.) Riyad Mahrez 12' Bernardo Silva 15', 48', 60' Nicolás Otamendi 18' Kevin De Bruyne 85']
-  18.30  Newcastle United FC       0-0  Brighton & Hove Albion FC
+  12.30  Leicester City           2-1 (0-1)  Tottenham Hotspur
+  15.00  Burnley FC               2-0 (2-0)  Norwich City
+         Everton FC               0-2 (0-1)  Sheffield United
+         Manchester City          8-0 (5-0)  Watford FC
+  17.30  Newcastle United         0-0  Brighton & Hove Albion
 [Sun Sep/22]
-  15.00  Crystal Palace FC         1-1 (0-0)  Wolverhampton Wanderers FC
-           [Leander Dendoncker 46' (o.g.); Diogo Jota 90']
-         West Ham United FC        2-0 (1-0)  Manchester United
-           [Andrey Yarmolenko 44' Aaron Cresswell 84']
-  17.30  Arsenal FC                3-2 (0-1)  Aston Villa FC
-           [Nicolas Pépé 59' (pen.) Calum Chambers 81' Pierre-Emerick Aubameyang 84'; John McGinn 20' Wesley 60']
-         Chelsea FC                1-2 (0-2)  Liverpool FC
-           [N'Golo Kanté 71'; Trent Alexander-Arnold 14' Roberto Firmino 30']
+  14.00  Crystal Palace           1-1 (0-0)  Wolverhampton Wanderers
+         West Ham United          2-0 (1-0)  Manchester United
+  16.30  Arsenal FC               3-2 (0-1)  Aston Villa
+         Chelsea FC               1-2 (0-2)  Liverpool FC
 
 
 Matchday 7
 [Sat Sep/28]
-  13.30  Sheffield United FC       0-1 (0-0)  Liverpool FC
-           [Georginio Wijnaldum 70']
-  16.00  Chelsea FC                2-0 (0-0)  Brighton & Hove Albion FC
-           [Jorginho 50' (pen.) Willian 76']
-         Aston Villa FC            2-2 (1-0)  Burnley FC
-           [Anwar El Ghazi 33' John McGinn 79'; Jay Rodriguez 68' Chris Wood 81']
-         AFC Bournemouth           2-2 (1-1)  West Ham United FC
-           [Joshua King 17' Callum Wilson 46'; Andrey Yarmolenko 10' Aaron Cresswell 74']
-         Crystal Palace FC         2-0 (1-0)  Norwich City FC
-           [Luka Milivojević 21' (pen.) Andros Townsend 90']
-         Tottenham Hotspur FC      2-1 (2-1)  Southampton FC
-           [Tanguy NDombèlé 24' Harry Kane 43'; Danny Ings 39']
-         Wolverhampton Wanderers FC   2-0 (1-0)  Watford FC
-           [Matt Doherty 18' Daryl Janmaat 61' (o.g.)]
-  18.30  Everton FC                1-3 (1-1)  Manchester City FC
-           [Dominic Calvert-Lewin 33'; Gabriel Jesus 24' Riyad Mahrez 71' Raheem Sterling 84']
+  12.30  Sheffield United         0-1 (0-0)  Liverpool FC
+  15.00  AFC Bournemouth          2-2 (1-1)  West Ham United
+         Aston Villa              2-2 (1-0)  Burnley FC
+         Chelsea FC               2-0 (0-0)  Brighton & Hove Albion
+         Crystal Palace           2-0 (1-0)  Norwich City
+         Tottenham Hotspur        2-1 (2-1)  Southampton FC
+         Wolverhampton Wanderers  2-0 (1-0)  Watford FC
+  17.30  Everton FC               1-3 (1-1)  Manchester City
 [Sun Sep/29]
-  17.30  Leicester City FC         5-0 (1-0)  Newcastle United FC
-           [Ricardo Pereira 16' Jamie Vardy 54', 64' Paul Dummett 57' (o.g.) Wilfred Ndidi 90']
+  16.30  Leicester City           5-0 (1-0)  Newcastle United
 [Mon Sep/30]
-  21.00  Manchester United         1-1 (1-0)  Arsenal FC
-           [Scott McTominay 45'; Pierre-Emerick Aubameyang 58']
+  20.00  Manchester United        1-1 (1-0)  Arsenal FC
 
 
 Matchday 8
 [Sat Oct/5]
-  13.30  Brighton & Hove Albion FC   3-0 (2-0)  Tottenham Hotspur FC
-           [Neal Maupay 3' Aaron Connolly 32', 65']
-  16.00  Burnley FC                1-0 (0-0)  Everton FC
-           [Jeff Hendrick 72']
-         Liverpool FC              2-1 (1-0)  Leicester City FC
-           [Sadio Mané 40' James Milner 90' (pen.); James Maddison 80']
-         Norwich City FC           1-5 (0-2)  Aston Villa FC
-           [Josip Drmić 87'; Wesley 14', 30' Jack Grealish 49' Conor Hourihane 61' Douglas Luiz 83']
-         Watford FC                0-0  Sheffield United FC
-  18.30  West Ham United FC        1-2 (0-0)  Crystal Palace FC
-           [Sébastien Haller 54'; Patrick van Aanholt 63' (pen.) Jordan Ayew 87']
+  12.30  Brighton & Hove Albion   3-0 (2-0)  Tottenham Hotspur
+  15.00  Burnley FC               1-0 (0-0)  Everton FC
+         Liverpool FC             2-1 (1-0)  Leicester City
+         Norwich City             1-5 (0-2)  Aston Villa
+         Watford FC               0-0  Sheffield United
+  17.30  West Ham United          1-2 (0-0)  Crystal Palace
 [Sun Oct/6]
-  15.00  Arsenal FC                1-0 (1-0)  AFC Bournemouth
-           [David Luiz 9']
-         Manchester City FC        0-2 (0-0)  Wolverhampton Wanderers FC
-           [Adama Traoré 80', 90']
-         Southampton FC            1-4 (1-3)  Chelsea FC
-           [Danny Ings 30'; Tammy Abraham 17' Mason Mount 24' N'Golo Kanté 40' Michy Batshuayi 89']
-  17.30  Newcastle United FC       1-0 (0-0)  Manchester United
-           [Matthew Longstaff 72']
+  14.00  Manchester City          0-2 (0-0)  Wolverhampton Wanderers
+         Southampton FC           1-4 (1-3)  Chelsea FC
+  16.30  Newcastle United         1-0 (0-0)  Manchester United
+  14.00  Arsenal FC               1-0 (1-0)  AFC Bournemouth
 
 
 Matchday 9
 [Sat Oct/19]
-  13.30  Everton FC                2-0 (1-0)  West Ham United FC
-           [Bernard 17' Gylfi Sigurðsson 90']
-  16.00  AFC Bournemouth           0-0  Norwich City FC
-         Aston Villa FC            2-1 (1-1)  Brighton & Hove Albion FC
-           [Jack Grealish 45' Matt Targett 90'; Adam Webster 21']
-         Chelsea FC                1-0 (0-0)  Newcastle United FC
-           [Marcos Alonso 73']
-         Leicester City FC         2-1 (1-1)  Burnley FC
-           [Jamie Vardy 45' Youri Tielemans 74'; Chris Wood 26']
-         Tottenham Hotspur FC      1-1 (0-1)  Watford FC
-           [Dele Alli 86'; Abdoulaye Doucouré 6']
-         Wolverhampton Wanderers FC   1-1 (0-0)  Southampton FC
-           [Raúl Jiménez 61' (pen.); Danny Ings 53']
-  18.30  Crystal Palace FC         0-2 (0-2)  Manchester City FC
-           [Gabriel Jesus 39' David Silva 41']
+  12.30  Everton FC               2-0 (1-0)  West Ham United
+  15.00  AFC Bournemouth          0-0  Norwich City
+         Aston Villa              2-1 (1-1)  Brighton & Hove Albion
+         Chelsea FC               1-0 (0-0)  Newcastle United
+         Leicester City           2-1 (1-1)  Burnley FC
+         Tottenham Hotspur        1-1 (0-1)  Watford FC
+         Wolverhampton Wanderers  1-1 (0-0)  Southampton FC
+  17.30  Crystal Palace           0-2 (0-2)  Manchester City
 [Sun Oct/20]
-  17.30  Manchester United         1-1 (1-0)  Liverpool FC
-           [Marcus Rashford 36'; Adam Lallana 85']
+  16.30  Manchester United        1-1 (1-0)  Liverpool FC
 [Mon Oct/21]
-  21.00  Sheffield United FC       1-0 (1-0)  Arsenal FC
-           [Lys Mousset 30']
+  20.00  Sheffield United         1-0 (1-0)  Arsenal FC
 
 
 Matchday 10
 [Fri Oct/25]
-  21.00  Southampton FC            0-9 (0-5)  Leicester City FC
-           [Ben Chilwell 10' Youri Tielemans 17' Ayoze Pérez 19', 39', 57' Jamie Vardy 45', 58', 90' (pen.) James Maddison 85']
+  20.00  Southampton FC           0-9 (0-5)  Leicester City
 [Sat Oct/26]
-  13.30  Manchester City FC        3-0 (0-0)  Aston Villa FC
-           [Raheem Sterling 46' David Silva 65' İlkay Gündoğan 70']
-  16.00  Brighton & Hove Albion FC   3-2 (1-1)  Everton FC
-           [Pascal Groß 15' Neal Maupay 80' (pen.) Lucas Digne 90' (o.g.); Adam Webster 20' (o.g.) Dominic Calvert-Lewin 74']
-         Watford FC                0-0  AFC Bournemouth
-         West Ham United FC        1-1 (1-0)  Sheffield United FC
-           [Robert Snodgrass 44'; Lys Mousset 69']
-  18.30  Burnley FC                2-4 (0-2)  Chelsea FC
-           [Jay Rodriguez 86' Dwight McNeil 89'; Christian Pulišić 21', 45', 56' Willian 58']
+  12.30  Manchester City          3-0 (0-0)  Aston Villa
+  15.00  Brighton & Hove Albion   3-2 (1-1)  Everton FC
+         Watford FC               0-0  AFC Bournemouth
+         West Ham United          1-1 (1-0)  Sheffield United
+  17.30  Burnley FC               2-4 (0-2)  Chelsea FC
 [Sun Oct/27]
-  15.00  Newcastle United FC       1-1 (1-0)  Wolverhampton Wanderers FC
-           [Jamaal Lascelles 37'; Jonny 73']
-  17.30  Arsenal FC                2-2 (2-1)  Crystal Palace FC
-           [Sokratis Papastathopoulos 7' David Luiz 9'; Luka Milivojević 32' (pen.) Jordan Ayew 52']
-         Liverpool FC              2-1 (0-1)  Tottenham Hotspur FC
-           [Jordan Henderson 52' Mohamed Salah 75' (pen.); Harry Kane 1']
-         Norwich City FC           1-3 (0-2)  Manchester United
-           [Onel Hernandez 88'; Scott McTominay 21' Marcus Rashford 30' Anthony Martial 73']
+  16.30  Arsenal FC               2-2 (2-1)  Crystal Palace
+         Liverpool FC             2-1 (0-1)  Tottenham Hotspur
+         Norwich City             1-3 (0-2)  Manchester United
+  14.00  Newcastle United         1-1 (1-0)  Wolverhampton Wanderers
 
 
 Matchday 11
 [Sat Nov/2]
-  13.30  AFC Bournemouth           1-0 (1-0)  Manchester United
-           [Joshua King 45']
-  16.00  Arsenal FC                1-1 (1-0)  Wolverhampton Wanderers FC
-           [Pierre-Emerick Aubameyang 21'; Raúl Jiménez 76']
-         Aston Villa FC            1-2 (1-0)  Liverpool FC
-           [Trezeguet 21'; Andrew Robertson 87' Sadio Mané 90']
-         Brighton & Hove Albion FC   2-0 (0-0)  Norwich City FC
-           [Leandro Trossard 68' Shane Duffy 84']
-         Manchester City FC        2-1 (0-1)  Southampton FC
-           [Kun Agüero 70' Kyle Walker 86'; James Ward-Prowse 13']
-         West Ham United FC        2-3 (0-2)  Newcastle United FC
-           [Fabián Balbuena 73' Robert Snodgrass 90'; Ciaran Clark 16' Federico Fernández 22' Jonjo Shelvey 51']
-         Sheffield United FC       3-0 (3-0)  Burnley FC
-           [John Lundstram 17', 43' John Fleck 44']
-  18.30  Watford FC                1-2 (0-1)  Chelsea FC
-           [Gerard Deulofeu 80' (pen.); Tammy Abraham 5' Christian Pulišić 55']
+  12.30  AFC Bournemouth          1-0 (1-0)  Manchester United
+  15.00  Arsenal FC               1-1 (1-0)  Wolverhampton Wanderers
+         Aston Villa              1-2 (1-0)  Liverpool FC
+         Brighton & Hove Albion   2-0 (0-0)  Norwich City
+         Manchester City          2-1 (0-1)  Southampton FC
+         Sheffield United         3-0 (3-0)  Burnley FC
+         West Ham United          2-3 (0-2)  Newcastle United
+  17.30  Watford FC               1-2 (0-1)  Chelsea FC
 [Sun Nov/3]
-  15.00  Crystal Palace FC         0-2 (0-0)  Leicester City FC
-           [Çağlar Söyüncü 57' Jamie Vardy 88']
-  17.30  Everton FC                1-1 (0-0)  Tottenham Hotspur FC
-           [Cenk Tosun 90'; Dele Alli 63']
+  16.30  Everton FC               1-1 (0-0)  Tottenham Hotspur
+  14.00  Crystal Palace           0-2 (0-0)  Leicester City
 
 
 Matchday 12
 [Fri Nov/8]
-  21.00  Norwich City FC           0-2 (0-1)  Watford FC
-           [Gerard Deulofeu 2' Andre Gray 52']
+  20.00  Norwich City             0-2 (0-1)  Watford FC
 [Sat Nov/9]
-  13.30  Chelsea FC                2-0 (0-0)  Crystal Palace FC
-           [Tammy Abraham 52' Christian Pulišić 79']
-  16.00  Burnley FC                3-0 (2-0)  West Ham United FC
-           [Ashley Barnes 11' Chris Wood 44' Roberto 54' (o.g.)]
-         Newcastle United FC       2-1 (1-1)  AFC Bournemouth
-           [DeAndre Yedlin 42' Ciaran Clark 52'; Harry Wilson 14']
-         Southampton FC            1-2 (0-1)  Everton FC
-           [Danny Ings 50'; Tom Davies 4' Richarlison 75']
-         Tottenham Hotspur FC      1-1 (0-0)  Sheffield United FC
-           [Heung-min Son 58'; George Baldock 78']
-  18.30  Leicester City FC         2-0 (0-0)  Arsenal FC
-           [Jamie Vardy 68' James Maddison 75']
+  12.30  Chelsea FC               2-0 (0-0)  Crystal Palace
+  15.00  Burnley FC               3-0 (2-0)  West Ham United
+         Newcastle United         2-1 (1-1)  AFC Bournemouth
+         Southampton FC           1-2 (0-1)  Everton FC
+         Tottenham Hotspur        1-1 (0-0)  Sheffield United
+  17.30  Leicester City           2-0 (0-0)  Arsenal FC
 [Sun Nov/10]
-  15.00  Manchester United         3-1 (2-0)  Brighton & Hove Albion FC
-           [Andreas Pereira 17' Davy Pröpper 19' (o.g.) Marcus Rashford 66'; Lewis Dunk 64']
-         Wolverhampton Wanderers FC   2-1 (1-0)  Aston Villa FC
-           [Rúben Neves 41' Raúl Jiménez 84'; Trezeguet 90']
-  17.30  Liverpool FC              3-1 (2-0)  Manchester City FC
-           [Fabinho 6' Mohamed Salah 13' Sadio Mané 51'; Bernardo Silva 78']
+  14.00  Manchester United        3-1 (2-0)  Brighton & Hove Albion
+         Wolverhampton Wanderers  2-1 (1-0)  Aston Villa
+  16.30  Liverpool FC             3-1 (2-0)  Manchester City
 
 
 Matchday 13
 [Sat Nov/23]
-  13.30  West Ham United FC        2-3 (0-2)  Tottenham Hotspur FC
-           [Michail Antonio 73' Angelo Ogbonna 90'; Heung-min Son 36' Lucas 43' Harry Kane 49']
-  16.00  Brighton & Hove Albion FC   0-2 (0-0)  Leicester City FC
-           [Ayoze Pérez 64' Jamie Vardy 82' (pen.)]
-         Arsenal FC                2-2 (1-1)  Southampton FC
-           [Alexandre Lacazette 18', 90'; Danny Ings 8' James Ward-Prowse 71']
-         AFC Bournemouth           1-2 (0-2)  Wolverhampton Wanderers FC
-           [Steve Cook 59'; João Moutinho 21' Raúl Jiménez 31']
-         Crystal Palace FC         1-2 (0-0)  Liverpool FC
-           [Wilfried Zaha 82'; Sadio Mané 49' Roberto Firmino 85']
-         Everton FC                0-2 (0-0)  Norwich City FC
-           [Todd Cantwell 54' Dennis Srbeny 90']
-         Watford FC                0-3 (0-0)  Burnley FC
-           [Chris Wood 53' Ashley Barnes 82' (pen.) James Tarkowski 88']
-  18.30  Manchester City FC        2-1 (2-1)  Chelsea FC
-           [Kevin De Bruyne 29' Riyad Mahrez 37'; N'Golo Kanté 21']
+  12.30  West Ham United          2-3 (0-2)  Tottenham Hotspur
+  15.00  AFC Bournemouth          1-2 (0-2)  Wolverhampton Wanderers
+         Arsenal FC               2-2 (1-1)  Southampton FC
+         Brighton & Hove Albion   0-2 (0-0)  Leicester City
+         Crystal Palace           1-2 (0-0)  Liverpool FC
+         Everton FC               0-2 (0-0)  Norwich City
+         Watford FC               0-3 (0-0)  Burnley FC
+  17.30  Manchester City          2-1 (2-1)  Chelsea FC
 [Sun Nov/24]
-  17.30  Sheffield United FC       3-3 (1-0)  Manchester United
-           [John Fleck 19' Lys Mousset 52' Oliver McBurnie 90'; Brandon Williams 72' Mason Greenwood 77' Marcus Rashford 79']
+  16.30  Sheffield United         3-3 (1-0)  Manchester United
 [Mon Nov/25]
-  21.00  Aston Villa FC            2-0 (2-0)  Newcastle United FC
-           [Conor Hourihane 32' Anwar El Ghazi 36']
+  20.00  Aston Villa              2-0 (2-0)  Newcastle United
 
 
 Matchday 14
 [Sat Nov/30]
-  13.30  Newcastle United FC       2-2 (1-1)  Manchester City FC
-           [Jetro Willems 25' Jonjo Shelvey 88'; Raheem Sterling 22' Kevin De Bruyne 82']
-  16.00  Burnley FC                0-2 (0-1)  Crystal Palace FC
-           [Wilfried Zaha 45' Jeffrey Schlupp 78']
-         Chelsea FC                0-1 (0-0)  West Ham United FC
-           [Aaron Cresswell 48']
-         Liverpool FC              2-1 (2-0)  Brighton & Hove Albion FC
-           [Virgil van Dijk 18', 24'; Lewis Dunk 79']
-         Tottenham Hotspur FC      3-2 (1-0)  AFC Bournemouth
-           [Dele Alli 21', 50' Moussa Sissoko 69'; Harry Wilson 73', 90']
-  18.30  Southampton FC            2-1 (0-1)  Watford FC
-           [Danny Ings 78' James Ward-Prowse 83'; Ismaïla Sarr 24']
+  12.30  Newcastle United         2-2 (1-1)  Manchester City
+  15.00  Burnley FC               0-2 (0-1)  Crystal Palace
+         Chelsea FC               0-1 (0-0)  West Ham United
+         Liverpool FC             2-1 (2-0)  Brighton & Hove Albion
+         Tottenham Hotspur        3-2 (1-0)  AFC Bournemouth
+  17.30  Southampton FC           2-1 (0-1)  Watford FC
 [Sun Dec/1]
-  15.00  Norwich City FC           2-2 (2-1)  Arsenal FC
-           [Teemu Pukki 21' Todd Cantwell 45'; Pierre-Emerick Aubameyang 29' (pen.), 57']
-         Wolverhampton Wanderers FC   1-1 (0-1)  Sheffield United FC
-           [Matt Doherty 64'; Lys Mousset 2']
-  17.30  Leicester City FC         2-1 (0-1)  Everton FC
-           [Jamie Vardy 68' Kelechi Iheanacho 90'; Richarlison 23']
-         Manchester United         2-2 (1-1)  Aston Villa FC
-           [Tom Heaton 42' (o.g.) Victor Lindelöf 64'; Jack Grealish 11' Tyrone Mings 66']
+  14.00  Wolverhampton Wanderers  1-1 (0-1)  Sheffield United
+  16.30  Leicester City           2-1 (0-1)  Everton FC
+         Manchester United        2-2 (1-1)  Aston Villa
+  14.00  Norwich City             2-2 (2-1)  Arsenal FC
 
 
 Matchday 15
 [Tue Dec/3]
-  20.30  Crystal Palace FC         1-0 (0-0)  AFC Bournemouth
-           [Jeffrey Schlupp 76']
-  21.15  Burnley FC                1-4 (0-1)  Manchester City FC
-           [Robbie Brady 89'; Gabriel Jesus 24', 50' Rodri 68' Riyad Mahrez 87']
+  20.15  Burnley FC               1-4 (0-1)  Manchester City
+  19.30  Crystal Palace           1-0 (0-0)  AFC Bournemouth
 [Wed Dec/4]
-  20.30  Leicester City FC         2-0 (0-0)  Watford FC
-           [Jamie Vardy 55' (pen.) James Maddison 90']
-         Wolverhampton Wanderers FC   2-0 (1-0)  West Ham United FC
-           [Leander Dendoncker 23' Patrick Cutrone 86']
-         Manchester United         2-1 (1-1)  Tottenham Hotspur FC
-           [Marcus Rashford 6', 49' (pen.); Dele Alli 39']
-         Chelsea FC                2-1 (1-1)  Aston Villa FC
-           [Tammy Abraham 24' Mason Mount 48'; Trezeguet 41']
-         Southampton FC            2-1 (2-0)  Norwich City FC
-           [Danny Ings 22' Ryan Bertrand 43'; Teemu Pukki 65']
-  21.15  Liverpool FC              5-2 (4-2)  Everton FC
-           [Divock Origi 6', 31' Xherdan Shaqiri 17' Sadio Mané 45' Georginio Wijnaldum 90'; Michael Keane 21' Richarlison 45']
+  19.30  Leicester City           2-0 (0-0)  Watford FC
+         Wolverhampton Wanderers  2-0 (1-0)  West Ham United
+         Manchester United        2-1 (1-1)  Tottenham Hotspur
+         Chelsea FC               2-1 (1-1)  Aston Villa
+         Southampton FC           2-1 (2-0)  Norwich City
+  20.15  Liverpool FC             5-2 (4-2)  Everton FC
 [Thu Dec/5]
-  20.30  Sheffield United FC       0-2 (0-1)  Newcastle United FC
-           [Allan Saint-Maximin 15' Jonjo Shelvey 70']
-  21.15  Arsenal FC                1-2 (0-1)  Brighton & Hove Albion FC
-           [Alexandre Lacazette 50'; Adam Webster 36' Neal Maupay 80']
+  20.15  Arsenal FC               1-2 (0-1)  Brighton & Hove Albion
+  19.30  Sheffield United         0-2 (0-1)  Newcastle United
 
 
 Matchday 16
 [Sat Dec/7]
-  13.30  Everton FC                3-1 (1-0)  Chelsea FC
-           [Richarlison 5' Dominic Calvert-Lewin 49', 84'; Mateo Kovačić 52']
-  16.00  AFC Bournemouth           0-3 (0-2)  Liverpool FC
-           [Alex Oxlade-Chamberlain 35' Naby Keïta 44' Mohamed Salah 54']
-         Tottenham Hotspur FC      5-0 (3-0)  Burnley FC
-           [Harry Kane 4', 54' Lucas 9' Heung-min Son 32' Moussa Sissoko 74']
-         Watford FC                0-0  Crystal Palace FC
-  18.30  Manchester City FC        1-2 (0-2)  Manchester United
-           [Nicolás Otamendi 85'; Marcus Rashford 23' (pen.) Anthony Martial 29']
+  15.00  AFC Bournemouth          0-3 (0-2)  Liverpool FC
+         Tottenham Hotspur        5-0 (3-0)  Burnley FC
+         Watford FC               0-0  Crystal Palace
+  17.30  Manchester City          1-2 (0-2)  Manchester United
+  12.30  Everton FC               3-1 (1-0)  Chelsea FC
 [Sun Dec/8]
-  15.00  Aston Villa FC            1-4 (1-2)  Leicester City FC
-           [Jack Grealish 45'; Jamie Vardy 20', 75' Kelechi Iheanacho 41' Jonny Evans 49']
-         Newcastle United FC       2-1 (0-0)  Southampton FC
-           [Jonjo Shelvey 68' Federico Fernández 87'; Danny Ings 52']
-         Norwich City FC           1-2 (1-0)  Sheffield United FC
-           [Alexander Tettey 27'; Enda Stevens 49' George Baldock 52']
-  17.30  Brighton & Hove Albion FC   2-2 (2-2)  Wolverhampton Wanderers FC
-           [Neal Maupay 34' Davy Pröpper 36'; Diogo Jota 28', 44']
+  14.00  Aston Villa              1-4 (1-2)  Leicester City
+         Newcastle United         2-1 (0-0)  Southampton FC
+         Norwich City             1-2 (1-0)  Sheffield United
+  16.30  Brighton & Hove Albion   2-2 (2-2)  Wolverhampton Wanderers
 [Mon Dec/9]
-  21.00  West Ham United FC        1-3 (1-0)  Arsenal FC
-           [Angelo Ogbonna 38'; Gabriel Martinelli 60' Nicolas Pépé 66' Pierre-Emerick Aubameyang 69']
+  20.00  West Ham United          1-3 (1-0)  Arsenal FC
 
 
 Matchday 17
 [Sat Dec/14]
-  13.30  Liverpool FC              2-0 (1-0)  Watford FC
-           [Mohamed Salah 38', 90']
-  16.00  Chelsea FC                0-1 (0-0)  AFC Bournemouth
-           [Dan Gosling 84']
-         Burnley FC                1-0 (0-0)  Newcastle United FC
-           [Chris Wood 58']
-         Leicester City FC         1-1 (1-1)  Norwich City FC
-           [Tim Krul 38' (o.g.); Teemu Pukki 26']
-         Sheffield United FC       2-0 (0-0)  Aston Villa FC
-           [John Fleck 50', 73']
-  18.30  Southampton FC            0-1 (0-1)  West Ham United FC
-           [Sébastien Haller 37']
+  12.30  Liverpool FC             2-0 (1-0)  Watford FC
+  15.00  Burnley FC               1-0 (0-0)  Newcastle United
+         Chelsea FC               0-1 (0-0)  AFC Bournemouth
+         Leicester City           1-1 (1-1)  Norwich City
+         Sheffield United         2-0 (0-0)  Aston Villa
+  17.30  Southampton FC           0-1 (0-1)  West Ham United
 [Sun Dec/15]
-  15.00  Manchester United         1-1 (0-1)  Everton FC
-           [Mason Greenwood 77'; Victor Lindelöf 36' (o.g.)]
-         Wolverhampton Wanderers FC   1-2 (0-1)  Tottenham Hotspur FC
-           [Adama Traoré 67'; Lucas 8' Jan Vertonghen 90']
-  17.30  Arsenal FC                0-3 (0-3)  Manchester City FC
-           [Kevin De Bruyne 2', 40' Raheem Sterling 15']
+  14.00  Wolverhampton Wanderers  1-2 (0-1)  Tottenham Hotspur
+  16.30  Arsenal FC               0-3 (0-3)  Manchester City
+  14.00  Manchester United        1-1 (0-1)  Everton FC
 [Mon Dec/16]
-  20.45  Crystal Palace FC         1-1 (0-0)  Brighton & Hove Albion FC
-           [Wilfried Zaha 76'; Neal Maupay 54']
+  19.45  Crystal Palace           1-1 (0-0)  Brighton & Hove Albion
 
 
 Matchday 18
 [Sat Dec/21]
-  13.30  Everton FC                0-0  Arsenal FC
-  16.00  Newcastle United FC       1-0 (0-0)  Crystal Palace FC
-           [Miguel Almirón 83']
-         Aston Villa FC            1-3 (0-2)  Southampton FC
-           [Jack Grealish 75'; Danny Ings 21', 51' Jack Stephens 31']
-         Brighton & Hove Albion FC   0-1 (0-1)  Sheffield United FC
-           [Oliver McBurnie 23']
-         AFC Bournemouth           0-1 (0-0)  Burnley FC
-           [Jay Rodriguez 89']
-         Norwich City FC           1-2 (1-0)  Wolverhampton Wanderers FC
-           [Todd Cantwell 17'; Romain Saïss 60' Raúl Jiménez 81']
-  18.30  Manchester City FC        3-1 (2-1)  Leicester City FC
-           [Riyad Mahrez 30' İlkay Gündoğan 43' (pen.) Gabriel Jesus 69'; Jamie Vardy 22']
+  12.30  Everton FC               0-0  Arsenal FC
+  15.00  AFC Bournemouth          0-1 (0-0)  Burnley FC
+         Aston Villa              1-3 (0-2)  Southampton FC
+         Brighton & Hove Albion   0-1 (0-1)  Sheffield United
+         Newcastle United         1-0 (0-0)  Crystal Palace
+         Norwich City             1-2 (1-0)  Wolverhampton Wanderers
+  17.30  Manchester City          3-1 (2-1)  Leicester City
 [Sun Dec/22]
-  15.00  Watford FC                2-0 (0-0)  Manchester United
-           [Ismaïla Sarr 50' Troy Deeney 54' (pen.)]
-  17.30  Tottenham Hotspur FC      0-2 (0-2)  Chelsea FC
-           [Willian 12', 45' (pen.)]
+  16.30  Tottenham Hotspur        0-2 (0-2)  Chelsea FC
+  14.00  Watford FC               2-0 (0-0)  Manchester United
 
 
 Matchday 19
 [Thu Dec/26]
-  13.30  Tottenham Hotspur FC      2-1 (0-1)  Brighton & Hove Albion FC
-           [Harry Kane 53' Dele Alli 72'; Adam Webster 37']
-  16.00  Sheffield United FC       1-1 (1-1)  Watford FC
-           [Oliver Norwood 36' (pen.); Gerard Deulofeu 27']
-         AFC Bournemouth           1-1 (1-0)  Arsenal FC
-           [Dan Gosling 35'; Pierre-Emerick Aubameyang 63']
-         Everton FC                1-0 (0-0)  Burnley FC
-           [Dominic Calvert-Lewin 80']
-         Chelsea FC                0-2 (0-1)  Southampton FC
-           [Michael Obafemi 31' Nathan Redmond 73']
-         Crystal Palace FC         2-1 (0-0)  West Ham United FC
-           [Cheikhou Kouyaté 68' Jordan Ayew 90'; Robert Snodgrass 57']
-         Aston Villa FC            1-0 (0-0)  Norwich City FC
-           [Conor Hourihane 64']
-  18.30  Manchester United         4-1 (3-1)  Newcastle United FC
-           [Anthony Martial 24', 51' Mason Greenwood 36' Marcus Rashford 41'; Matthew Longstaff 17']
-  21.00  Leicester City FC         0-4 (0-1)  Liverpool FC
-           [Roberto Firmino 31', 74' James Milner 71' (pen.) Trent Alexander-Arnold 78']
+  20.00  Leicester City           0-4 (0-1)  Liverpool FC
+  12.30  Tottenham Hotspur        2-1 (0-1)  Brighton & Hove Albion
+  15.00  AFC Bournemouth          1-1 (1-0)  Arsenal FC
+         Aston Villa              1-0 (0-0)  Norwich City
+         Chelsea FC               0-2 (0-1)  Southampton FC
+         Crystal Palace           2-1 (0-0)  West Ham United
+         Everton FC               1-0 (0-0)  Burnley FC
+         Sheffield United         1-1 (1-1)  Watford FC
+  17.30  Manchester United        4-1 (3-1)  Newcastle United
 [Fri Dec/27]
-  20.45  Wolverhampton Wanderers FC   3-2 (0-1)  Manchester City FC
-           [Adama Traoré 55' Raúl Jiménez 82' Matt Doherty 89'; Raheem Sterling 25', 50']
+  19.45  Wolverhampton Wanderers  3-2 (0-1)  Manchester City
 
 
 Matchday 20
 [Sat Dec/28]
-  13.30  Brighton & Hove Albion FC   2-0 (1-0)  AFC Bournemouth
-           [Alireza Jahanbakhsh 3' Aaron Mooy 79']
-  16.00  Watford FC                3-0 (1-0)  Aston Villa FC
-           [Troy Deeney 42', 67' (pen.) Ismaïla Sarr 71']
-         Newcastle United FC       1-2 (0-1)  Everton FC
-           [Fabian Schär 56'; Dominic Calvert-Lewin 13', 64']
-         Southampton FC            1-1 (0-0)  Crystal Palace FC
-           [Danny Ings 74'; James Tomkins 50']
-  18.30  Norwich City FC           2-2 (1-0)  Tottenham Hotspur FC
-           [Mario Vrančić 18' Serge Aurier 61' (o.g.); Christian Eriksen 55' Harry Kane 83' (pen.)]
-         West Ham United FC        1-2 (1-1)  Leicester City FC
-           [Pablo Fornals 45'; Kelechi Iheanacho 40' Demarai Gray 56']
-  20.45  Burnley FC                0-2 (0-1)  Manchester United
-           [Anthony Martial 44' Marcus Rashford 90']
+  19.45  Burnley FC               0-2 (0-1)  Manchester United
+  12.30  Brighton & Hove Albion   2-0 (1-0)  AFC Bournemouth
+  15.00  Newcastle United         1-2 (0-1)  Everton FC
+         Southampton FC           1-1 (0-0)  Crystal Palace
+         Watford FC               3-0 (1-0)  Aston Villa
+  17.30  Norwich City             2-2 (1-0)  Tottenham Hotspur
+         West Ham United          1-2 (1-1)  Leicester City
 [Sun Dec/29]
-  15.00  Arsenal FC                1-2 (1-0)  Chelsea FC
-           [Pierre-Emerick Aubameyang 13'; Jorginho 83' Tammy Abraham 87']
-  17.30  Liverpool FC              1-0 (1-0)  Wolverhampton Wanderers FC
-           [Sadio Mané 42']
-  19.00  Manchester City FC        2-0 (0-0)  Sheffield United FC
-           [Kun Agüero 52' Kevin De Bruyne 82']
+  14.00  Arsenal FC               1-2 (1-0)  Chelsea FC
+  16.30  Liverpool FC             1-0 (1-0)  Wolverhampton Wanderers
+  18.00  Manchester City          2-0 (0-0)  Sheffield United
 
 
 Matchday 21
 [Wed Jan/1]
-  13.30  Burnley FC                1-2 (0-2)  Aston Villa FC
-           [Chris Wood 80'; Wesley 27' Jack Grealish 41']
-         Brighton & Hove Albion FC   1-1 (0-1)  Chelsea FC
-           [Alireza Jahanbakhsh 84'; Azpilicueta 10']
-  16.00  Southampton FC            1-0 (1-0)  Tottenham Hotspur FC
-           [Danny Ings 17']
-         Newcastle United FC       0-3 (0-2)  Leicester City FC
-           [Ayoze Pérez 36' James Maddison 39' Hamza Choudhury 87']
-         Watford FC                2-1 (1-0)  Wolverhampton Wanderers FC
-           [Gerard Deulofeu 30' Abdoulaye Doucouré 49'; Pedro Neto 60']
-  18.30  West Ham United FC        4-0 (3-0)  AFC Bournemouth
-           [Mark Noble 17', 35' (pen.) Sébastien Haller 25' Felipe Anderson 66']
-         Norwich City FC           1-1 (1-0)  Crystal Palace FC
-           [Todd Cantwell 4'; Connor Wickham 85']
-         Manchester City FC        2-1 (0-0)  Everton FC
-           [Gabriel Jesus 51', 58'; Richarlison 71']
-  21.00  Arsenal FC                2-0 (2-0)  Manchester United
-           [Nicolas Pépé 8' Sokratis Papastathopoulos 42']
+  17.30  Norwich City             1-1 (1-0)  Crystal Palace
+  12.30  Brighton & Hove Albion   1-1 (0-1)  Chelsea FC
+         Burnley FC               1-2 (0-2)  Aston Villa
+  15.00  Newcastle United         0-3 (0-2)  Leicester City
+         Southampton FC           1-0 (1-0)  Tottenham Hotspur
+         Watford FC               2-1 (1-0)  Wolverhampton Wanderers
+  17.30  Manchester City          2-1 (0-0)  Everton FC
+  20.00  Arsenal FC               2-0 (2-0)  Manchester United
+  17.30  West Ham United          4-0 (3-0)  AFC Bournemouth
 [Thu Jan/2]
-  21.00  Liverpool FC              2-0 (1-0)  Sheffield United FC
-           [Mohamed Salah 4' Sadio Mané 64']
+  20.00  Liverpool FC             2-0 (1-0)  Sheffield United
 
 
 Matchday 22
 [Fri Jan/10]
-  21.00  Sheffield United FC       1-0 (0-0)  West Ham United FC
-           [Oliver McBurnie 53']
+  20.00  Sheffield United         1-0 (0-0)  West Ham United
 [Sat Jan/11]
-  13.30  Crystal Palace FC         1-1 (0-1)  Arsenal FC
-           [Jordan Ayew 54'; Pierre-Emerick Aubameyang 12']
-  16.00  Manchester United         4-0 (1-0)  Norwich City FC
-           [Marcus Rashford 27', 52' (pen.) Anthony Martial 54' Mason Greenwood 76']
-         Chelsea FC                3-0 (2-0)  Burnley FC
-           [Jorginho 27' (pen.) Tammy Abraham 38' Callum Hudson-Odoi 49']
-         Everton FC                1-0 (1-0)  Brighton & Hove Albion FC
-           [Richarlison 38']
-         Leicester City FC         1-2 (1-1)  Southampton FC
-           [Dennis Praet 14'; Stuart Armstrong 19' Danny Ings 81']
-         Wolverhampton Wanderers FC   1-1 (1-1)  Newcastle United FC
-           [Leander Dendoncker 14'; Miguel Almirón 7']
-  18.30  Tottenham Hotspur FC      0-1 (0-1)  Liverpool FC
-           [Roberto Firmino 37']
+  17.30  Tottenham Hotspur        0-1 (0-1)  Liverpool FC
+  12.30  Crystal Palace           1-1 (0-1)  Arsenal FC
+  15.00  Chelsea FC               3-0 (2-0)  Burnley FC
+         Everton FC               1-0 (1-0)  Brighton & Hove Albion
+         Leicester City           1-2 (1-1)  Southampton FC
+         Manchester United        4-0 (1-0)  Norwich City
+         Wolverhampton Wanderers  1-1 (1-1)  Newcastle United
 [Sun Jan/12]
-  15.00  AFC Bournemouth           0-3 (0-1)  Watford FC
-           [Abdoulaye Doucouré 42' Troy Deeney 65' Roberto Pereyra 90']
-  17.30  Aston Villa FC            1-6 (0-4)  Manchester City FC
-           [Anwar El Ghazi 90' (pen.); Riyad Mahrez 18', 24' Kun Agüero 28', 57', 81' Gabriel Jesus 45']
+  14.00  AFC Bournemouth          0-3 (0-1)  Watford FC
+  16.30  Aston Villa              1-6 (0-4)  Manchester City
 
 
 Matchday 23
 [Sat Jan/18]
-  13.30  Watford FC                0-0  Tottenham Hotspur FC
-  16.00  Norwich City FC           1-0 (1-0)  AFC Bournemouth
-           [Teemu Pukki 33' (pen.)]
-         Arsenal FC                1-1 (1-0)  Sheffield United FC
-           [Gabriel Martinelli 45'; John Fleck 83']
-         Brighton & Hove Albion FC   1-1 (1-0)  Aston Villa FC
-           [Leandro Trossard 38'; Jack Grealish 75']
-         Manchester City FC        2-2 (0-1)  Crystal Palace FC
-           [Kun Agüero 82', 87'; Cenk Tosun 39' Fernandinho 90' (o.g.)]
-         West Ham United FC        1-1 (1-1)  Everton FC
-           [Issa Diop 40'; Dominic Calvert-Lewin 44']
-         Southampton FC            2-3 (2-0)  Wolverhampton Wanderers FC
-           [Jan Bednarek 15' Shane Long 35'; Pedro Neto 53' Raúl Jiménez 65' (pen.), 76']
-  18.30  Newcastle United FC       1-0 (0-0)  Chelsea FC
-           [Isaac Hayden 90']
+  12.30  Watford FC               0-0  Tottenham Hotspur
+  15.00  Arsenal FC               1-1 (1-0)  Sheffield United
+         Brighton & Hove Albion   1-1 (1-0)  Aston Villa
+         Manchester City          2-2 (0-1)  Crystal Palace
+         Norwich City             1-0 (1-0)  AFC Bournemouth
+         Southampton FC           2-3 (2-0)  Wolverhampton Wanderers
+         West Ham United          1-1 (1-1)  Everton FC
+  17.30  Newcastle United         1-0 (0-0)  Chelsea FC
 [Sun Jan/19]
-  15.00  Burnley FC                2-1 (0-1)  Leicester City FC
-           [Chris Wood 56' Ashley Westwood 79'; Harvey Barnes 33']
-  17.30  Liverpool FC              2-0 (1-0)  Manchester United
-           [Virgil van Dijk 14' Mohamed Salah 90']
+  16.30  Liverpool FC             2-0 (1-0)  Manchester United
+  14.00  Burnley FC               2-1 (0-1)  Leicester City
 
 
 Matchday 24
 [Tue Jan/21]
-  20.30  AFC Bournemouth           3-1 (2-0)  Brighton & Hove Albion FC
-           [Harry Wilson 36' Pascal Groß 41' (o.g.) Callum Wilson 74'; Aaron Mooy 81']
-         Crystal Palace FC         0-2 (0-1)  Southampton FC
-           [Nathan Redmond 22' Stuart Armstrong 48']
-         Aston Villa FC            2-1 (0-1)  Watford FC
-           [Douglas Luiz 68' Tyrone Mings 90'; Troy Deeney 38']
-         Sheffield United FC       0-1 (0-0)  Manchester City FC
-           [Kun Agüero 73']
-         Everton FC                2-2 (1-0)  Newcastle United FC
-           [Moise Kean 30' Dominic Calvert-Lewin 54'; Florian Lejeune 90', 90']
-  21.15  Chelsea FC                2-2 (1-0)  Arsenal FC
-           [Jorginho 28' (pen.) Azpilicueta 84'; Gabriel Martinelli 63' Héctor Bellerín 87']
+  19.30  AFC Bournemouth          3-1 (2-0)  Brighton & Hove Albion
+         Aston Villa              2-1 (0-1)  Watford FC
+         Everton FC               2-2 (1-0)  Newcastle United
+         Sheffield United         0-1 (0-0)  Manchester City
+         Crystal Palace           0-2 (0-1)  Southampton FC
+  20.15  Chelsea FC               2-2 (1-0)  Arsenal FC
 [Wed Jan/22]
-  20.30  Tottenham Hotspur FC      2-1 (1-0)  Norwich City FC
-           [Dele Alli 38' Heung-min Son 79'; Teemu Pukki 70' (pen.)]
-         Leicester City FC         4-1 (2-0)  West Ham United FC
-           [Harvey Barnes 24' Ricardo Pereira 45' Ayoze Pérez 81' (pen.), 88'; Mark Noble 50' (pen.)]
-  21.15  Manchester United         0-2 (0-1)  Burnley FC
-           [Chris Wood 39' Jay Rodriguez 56']
+  20.15  Manchester United        0-2 (0-1)  Burnley FC
+  19.30  Leicester City           4-1 (2-0)  West Ham United
+         Tottenham Hotspur        2-1 (1-0)  Norwich City
 [Thu Jan/23]
-  21.00  Wolverhampton Wanderers FC   1-2 (0-1)  Liverpool FC
-           [Raúl Jiménez 51'; Jordan Henderson 8' Roberto Firmino 84']
+  20.00  Wolverhampton Wanderers  1-2 (0-1)  Liverpool FC
 
 
 Matchday 18
 [Wed Jan/29]
-  20.45  West Ham United FC        0-2 (0-1)  Liverpool FC
-           [Mohamed Salah 35' (pen.) Alex Oxlade-Chamberlain 52']
+  19.45  West Ham United          0-2 (0-1)  Liverpool FC
 
 
 Matchday 25
 [Sat Feb/1]
-  13.30  Leicester City FC         2-2 (0-0)  Chelsea FC
-           [Harvey Barnes 54' Ben Chilwell 64'; Antonio Rüdiger 46', 71']
-  16.00  Crystal Palace FC         0-1 (0-0)  Sheffield United FC
-           [Guaita 58' (o.g.)]
-         AFC Bournemouth           2-1 (2-0)  Aston Villa FC
-           [Philip Billing 37' Nathan Aké 44'; Mbwana Samatta 70']
-         Liverpool FC              4-0 (0-0)  Southampton FC
-           [Alex Oxlade-Chamberlain 47' Jordan Henderson 60' Mohamed Salah 71', 90']
-         Newcastle United FC       0-0  Norwich City FC
-         Watford FC                2-3 (2-2)  Everton FC
-           [Adam Masina 10' Roberto Pereyra 42'; Yerry Mina 45', 45' Theo Walcott 90']
-         West Ham United FC        3-3 (2-0)  Brighton & Hove Albion FC
-           [Issa Diop 30' Robert Snodgrass 45', 57'; Angelo Ogbonna 47' (o.g.) Pascal Groß 75' Glenn Murray 79']
-  18.30  Manchester United         0-0  Wolverhampton Wanderers FC
+  12.30  Leicester City           2-2 (0-0)  Chelsea FC
+  15.00  AFC Bournemouth          2-1 (2-0)  Aston Villa
+         Crystal Palace           0-1 (0-0)  Sheffield United
+         Liverpool FC             4-0 (0-0)  Southampton FC
+         Newcastle United         0-0  Norwich City
+         Watford FC               2-3 (2-2)  Everton FC
+         West Ham United          3-3 (2-0)  Brighton & Hove Albion
+  17.30  Manchester United        0-0  Wolverhampton Wanderers
 [Sun Feb/2]
-  15.00  Burnley FC                0-0  Arsenal FC
-  17.30  Tottenham Hotspur FC      2-0 (0-0)  Manchester City FC
-           [Steven Bergwijn 63' Heung-min Son 71']
+  16.30  Tottenham Hotspur        2-0 (0-0)  Manchester City
+  14.00  Burnley FC               0-0  Arsenal FC
 
 
 Matchday 26
 [Sat Feb/8]
-  13.30  Everton FC                3-1 (1-0)  Crystal Palace FC
-           [Bernard 18' Richarlison 58' Dominic Calvert-Lewin 88'; Christian Benteke 51']
-  18.30  Brighton & Hove Albion FC   1-1 (0-1)  Watford FC
-           [Adrian Mariappa 78' (o.g.); Abdoulaye Doucouré 19']
+  17.30  Brighton & Hove Albion   1-1 (0-1)  Watford FC
+  12.30  Everton FC               3-1 (1-0)  Crystal Palace
 [Sun Feb/9]
-  15.00  Sheffield United FC       2-1 (1-1)  AFC Bournemouth
-           [Billy Sharp 45' John Lundstram 84'; Callum Wilson 13']
+  14.00  Sheffield United         2-1 (1-1)  AFC Bournemouth
 [Fri Feb/14]
-  21.00  Wolverhampton Wanderers FC   0-0  Leicester City FC
+  20.00  Wolverhampton Wanderers  0-0  Leicester City
 [Sat Feb/15]
-  13.30  Southampton FC            1-2 (1-1)  Burnley FC
-           [Danny Ings 18'; Ashley Westwood 2' Matěj Vydra 60']
-  18.30  Norwich City FC           0-1 (0-0)  Liverpool FC
-           [Sadio Mané 78']
+  17.30  Norwich City             0-1 (0-0)  Liverpool FC
+  12.30  Southampton FC           1-2 (1-1)  Burnley FC
 [Sun Feb/16]
-  15.00  Aston Villa FC            2-3 (1-2)  Tottenham Hotspur FC
-           [Toby Alderweireld 9' (o.g.) Björn Engels 53'; Toby Alderweireld 27' Heung-min Son 45', 90']
-  17.30  Arsenal FC                4-0 (0-0)  Newcastle United FC
-           [Pierre-Emerick Aubameyang 54' Nicolas Pépé 57' Mesut Özil 90' Alexandre Lacazette 90']
+  14.00  Aston Villa              2-3 (1-2)  Tottenham Hotspur
+  16.30  Arsenal FC               4-0 (0-0)  Newcastle United
 [Mon Feb/17]
-  21.00  Chelsea FC                0-2 (0-1)  Manchester United
-           [Anthony Martial 45' Harry Maguire 66']
+  20.00  Chelsea FC               0-2 (0-1)  Manchester United
 [Wed Feb/19]
-  20.30  Manchester City FC        2-0 (1-0)  West Ham United FC
-           [Rodri 30' Kevin De Bruyne 62']
+  19.30  Manchester City          2-0 (1-0)  West Ham United
 
 
 Matchday 27
 [Sat Feb/22]
-  13.30  Chelsea FC                2-1 (1-0)  Tottenham Hotspur FC
-           [Olivier Giroud 15' Marcos Alonso 48'; Antonio Rüdiger 89' (o.g.)]
-  16.00  Crystal Palace FC         1-0 (1-0)  Newcastle United FC
-           [Patrick van Aanholt 44']
-         Burnley FC                3-0 (0-0)  AFC Bournemouth
-           [Matěj Vydra 53' Jay Rodriguez 61' (pen.) Dwight McNeil 87']
-         Sheffield United FC       1-1 (1-1)  Brighton & Hove Albion FC
-           [Enda Stevens 26'; Neal Maupay 30']
-         Southampton FC            2-0 (1-0)  Aston Villa FC
-           [Shane Long 8' Stuart Armstrong 90']
-  18.30  Leicester City FC         0-1 (0-0)  Manchester City FC
-           [Gabriel Jesus 80']
+  15.00  Burnley FC               3-0 (0-0)  AFC Bournemouth
+         Crystal Palace           1-0 (1-0)  Newcastle United
+         Sheffield United         1-1 (1-1)  Brighton & Hove Albion
+         Southampton FC           2-0 (1-0)  Aston Villa
+  17.30  Leicester City           0-1 (0-0)  Manchester City
+  12.30  Chelsea FC               2-1 (1-0)  Tottenham Hotspur
 [Sun Feb/23]
-  15.00  Manchester United         3-0 (1-0)  Watford FC
-           [Bruno Fernandes 42' (pen.) Anthony Martial 58' Mason Greenwood 75']
-         Wolverhampton Wanderers FC   3-0 (2-0)  Norwich City FC
-           [Diogo Jota 19', 30' Raúl Jiménez 50']
-  17.30  Arsenal FC                3-2 (2-2)  Everton FC
-           [Eddie Nketiah 27' Pierre-Emerick Aubameyang 33', 46'; Dominic Calvert-Lewin 1' Richarlison 45']
+  14.00  Manchester United        3-0 (1-0)  Watford FC
+         Wolverhampton Wanderers  3-0 (2-0)  Norwich City
+  16.30  Arsenal FC               3-2 (2-2)  Everton FC
 [Mon Feb/24]
-  21.00  Liverpool FC              3-2 (1-1)  West Ham United FC
-           [Georginio Wijnaldum 9' Mohamed Salah 68' Sadio Mané 81'; Issa Diop 12' Pablo Fornals 54']
+  20.00  Liverpool FC             3-2 (1-1)  West Ham United
 
 
 Matchday 28
 [Fri Feb/28]
-  21.00  Norwich City FC           1-0 (0-0)  Leicester City FC
-           [Jamal Lewis 70']
+  20.00  Norwich City             1-0 (0-0)  Leicester City
 [Sat Feb/29]
-  13.30  Brighton & Hove Albion FC   0-1 (0-0)  Crystal Palace FC
-           [Jordan Ayew 70']
-  16.00  AFC Bournemouth           2-2 (0-1)  Chelsea FC
-           [Jefferson Lerma 54' Joshua King 57'; Marcos Alonso 33', 85']
-         Newcastle United FC       0-0  Burnley FC
-         West Ham United FC        3-1 (2-1)  Southampton FC
-           [Jarrod Bowen 15' Sébastien Haller 40' Michail Antonio 54'; Michael Obafemi 31']
-  18.30  Watford FC                3-0 (0-0)  Liverpool FC
-           [Ismaïla Sarr 54', 60' Troy Deeney 72']
+  12.30  Brighton & Hove Albion   0-1 (0-0)  Crystal Palace
+  15.00  AFC Bournemouth          2-2 (0-1)  Chelsea FC
+         Newcastle United         0-0  Burnley FC
+         West Ham United          3-1 (2-1)  Southampton FC
+  17.30  Watford FC               3-0 (0-0)  Liverpool FC
 [Sun Mar/1]
-  15.00  Tottenham Hotspur FC      2-3 (2-1)  Wolverhampton Wanderers FC
-           [Steven Bergwijn 13' Serge Aurier 45'; Matt Doherty 27' Diogo Jota 57' Raúl Jiménez 73']
-         Everton FC                1-1 (1-1)  Manchester United
-           [Dominic Calvert-Lewin 3'; Bruno Fernandes 31']
+  14.00  Tottenham Hotspur        2-3 (2-1)  Wolverhampton Wanderers
+         Everton FC               1-1 (1-1)  Manchester United
 
 
 Matchday 29
 [Sat Mar/7]
-  13.30  Liverpool FC              2-1 (2-1)  AFC Bournemouth
-           [Mohamed Salah 25' Sadio Mané 33'; Callum Wilson 9']
-  16.00  Arsenal FC                1-0 (0-0)  West Ham United FC
-           [Alexandre Lacazette 78']
-         Crystal Palace FC         1-0 (1-0)  Watford FC
-           [Jordan Ayew 28']
-         Wolverhampton Wanderers FC   0-0  Brighton & Hove Albion FC
-         Southampton FC            0-1 (0-0)  Newcastle United FC
-           [Allan Saint-Maximin 79']
-         Sheffield United FC       1-0 (1-0)  Norwich City FC
-           [Billy Sharp 36']
-  18.30  Burnley FC                1-1 (1-0)  Tottenham Hotspur FC
-           [Chris Wood 13'; Dele Alli 50' (pen.)]
+  17.30  Burnley FC               1-1 (1-0)  Tottenham Hotspur
+  15.00  Wolverhampton Wanderers  0-0  Brighton & Hove Albion
+  12.30  Liverpool FC             2-1 (2-1)  AFC Bournemouth
+  15.00  Arsenal FC               1-0 (0-0)  West Ham United
+         Crystal Palace           1-0 (1-0)  Watford FC
+         Sheffield United         1-0 (1-0)  Norwich City
+         Southampton FC           0-1 (0-0)  Newcastle United
 [Sun Mar/8]
-  15.00  Chelsea FC                4-0 (2-0)  Everton FC
-           [Mason Mount 14' Pedro 21' Willian 51' Olivier Giroud 54']
-  17.30  Manchester United         2-0 (1-0)  Manchester City FC
-           [Anthony Martial 30' Scott McTominay 90']
+  16.30  Manchester United        2-0 (1-0)  Manchester City
+  14.00  Chelsea FC               4-0 (2-0)  Everton FC
 [Mon Mar/9]
-  21.00  Leicester City FC         4-0 (1-0)  Aston Villa FC
-           [Harvey Barnes 40', 85' Jamie Vardy 63' (pen.), 79']
+  20.00  Leicester City           4-0 (1-0)  Aston Villa
 
 
 Matchday 28
 [Wed Jun/17]
-  19.00  Aston Villa FC            0-0  Sheffield United FC
-  21.15  Manchester City FC        3-0 (1-0)  Arsenal FC
-           [Raheem Sterling 45' Kevin De Bruyne 51' (pen.) Phil Foden 90']
+  18.00  Aston Villa              0-0  Sheffield United
+  20.15  Manchester City          3-0 (1-0)  Arsenal FC
 
 
 Matchday 30
 [Fri Jun/19]
-  19.00  Norwich City FC           0-3 (0-0)  Southampton FC
-           [Danny Ings 49' Stuart Armstrong 54' Nathan Redmond 79']
-  21.15  Tottenham Hotspur FC      1-1 (1-0)  Manchester United
-           [Steven Bergwijn 27'; Bruno Fernandes 81' (pen.)]
+  18.00  Norwich City             0-3 (0-0)  Southampton FC
+  20.15  Tottenham Hotspur        1-1 (1-0)  Manchester United
 [Sat Jun/20]
-  13.30  Watford FC                1-1 (0-0)  Leicester City FC
-           [Craig Dawson 90'; Ben Chilwell 90']
-  16.00  Brighton & Hove Albion FC   2-1 (0-0)  Arsenal FC
-           [Lewis Dunk 75' Neal Maupay 90'; Nicolas Pépé 68']
-  18.30  West Ham United FC        0-2 (0-0)  Wolverhampton Wanderers FC
-           [Raúl Jiménez 73' Pedro Neto 84']
-  20.45  AFC Bournemouth           0-2 (0-2)  Crystal Palace FC
-           [Luka Milivojević 12' Jordan Ayew 23']
+  15.00  Brighton & Hove Albion   2-1 (0-0)  Arsenal FC
+  17.30  West Ham United          0-2 (0-0)  Wolverhampton Wanderers
+  19.45  AFC Bournemouth          0-2 (0-2)  Crystal Palace
+  12.30  Watford FC               1-1 (0-0)  Leicester City
 [Sun Jun/21]
-  15.00  Newcastle United FC       3-0 (0-0)  Sheffield United FC
-           [Allan Saint-Maximin 55' Matt Ritchie 69' Joelinton 78']
-  17.15  Aston Villa FC            1-2 (1-0)  Chelsea FC
-           [Kortney Hause 43'; Christian Pulišić 60' Olivier Giroud 62']
-  20.00  Everton FC                0-0  Liverpool FC
+  14.00  Newcastle United         3-0 (0-0)  Sheffield United
+  16.15  Aston Villa              1-2 (1-0)  Chelsea FC
+  19.00  Everton FC               0-0  Liverpool FC
 [Mon Jun/22]
-  21.00  Manchester City FC        5-0 (3-0)  Burnley FC
-           [Phil Foden 22', 63' Riyad Mahrez 43', 45' (pen.) David Silva 51']
+  20.00  Manchester City          5-0 (3-0)  Burnley FC
 
 
 Matchday 31
 [Tue Jun/23]
-  19.00  Leicester City FC         0-0  Brighton & Hove Albion FC
-  21.15  Tottenham Hotspur FC      2-0 (0-0)  West Ham United FC
-           [Tomáš Souček 64' (o.g.) Harry Kane 82']
+  20.15  Tottenham Hotspur        2-0 (0-0)  West Ham United
+  18.00  Leicester City           0-0  Brighton & Hove Albion
 [Wed Jun/24]
-  19.00  Manchester United         3-0 (2-0)  Sheffield United FC
-           [Anthony Martial 7', 44', 74']
-         Newcastle United FC       1-1 (0-0)  Aston Villa FC
-           [Dwight Gayle 68'; Ahmed Elmohamady 83']
-         Norwich City FC           0-1 (0-0)  Everton FC
-           [Michael Keane 55']
-         Wolverhampton Wanderers FC   1-0 (0-0)  AFC Bournemouth
-           [Raúl Jiménez 60']
-  21.15  Liverpool FC              4-0 (2-0)  Crystal Palace FC
-           [Trent Alexander-Arnold 23' Mohamed Salah 44' Fabinho 55' Sadio Mané 69']
+  18.00  Manchester United        3-0 (2-0)  Sheffield United
+         Newcastle United         1-1 (0-0)  Aston Villa
+         Norwich City             0-1 (0-0)  Everton FC
+         Wolverhampton Wanderers  1-0 (0-0)  AFC Bournemouth
+  20.15  Liverpool FC             4-0 (2-0)  Crystal Palace
 [Thu Jun/25]
-  19.00  Burnley FC                1-0 (0-0)  Watford FC
-           [Jay Rodriguez 73']
-         Southampton FC            0-2 (0-1)  Arsenal FC
-           [Eddie Nketiah 20' Joe Willock 86']
-  21.15  Chelsea FC                2-1 (1-0)  Manchester City FC
-           [Christian Pulišić 36' Willian 78' (pen.); Kevin De Bruyne 55']
+  18.00  Southampton FC           0-2 (0-1)  Arsenal FC
+  20.15  Chelsea FC               2-1 (1-0)  Manchester City
+  18.00  Burnley FC               1-0 (0-0)  Watford FC
 
 
 Matchday 32
 [Sat Jun/27]
-  13.30  Aston Villa FC            0-1 (0-0)  Wolverhampton Wanderers FC
-           [Leander Dendoncker 62']
+  12.30  Aston Villa              0-1 (0-0)  Wolverhampton Wanderers
 [Sun Jun/28]
-  17.30  Watford FC                1-3 (0-1)  Southampton FC
-           [Jan Bednarek 79' (o.g.); Danny Ings 16', 70' James Ward-Prowse 82']
+  16.30  Watford FC               1-3 (0-1)  Southampton FC
 [Mon Jun/29]
-  21.00  Crystal Palace FC         0-1 (0-0)  Burnley FC
-           [Ben Mee 62']
+  20.00  Crystal Palace           0-1 (0-0)  Burnley FC
 [Tue Jun/30]
-  21.15  Brighton & Hove Albion FC   0-3 (0-2)  Manchester United
-           [Mason Greenwood 16' Bruno Fernandes 29', 50']
+  20.15  Brighton & Hove Albion   0-3 (0-2)  Manchester United
 [Wed Jul/1]
-  19.00  AFC Bournemouth           1-4 (0-2)  Newcastle United FC
-           [Dan Gosling 90'; Dwight Gayle 5' Sean Longstaff 30' Miguel Almirón 57' Valentino Lazaro 77']
-         Everton FC                2-1 (2-0)  Leicester City FC
-           [Richarlison 10' Gylfi Sigurðsson 16' (pen.); Kelechi Iheanacho 51']
-         Arsenal FC                4-0 (2-0)  Norwich City FC
-           [Pierre-Emerick Aubameyang 33', 67' Granit Xhaka 37' Cédric Soares 81']
-  21.15  West Ham United FC        3-2 (1-1)  Chelsea FC
-           [Tomáš Souček 45' Michail Antonio 51' Andrey Yarmolenko 89'; Willian 42' (pen.), 72']
+  18.00  AFC Bournemouth          1-4 (0-2)  Newcastle United
+         Arsenal FC               4-0 (2-0)  Norwich City
+         Everton FC               2-1 (2-0)  Leicester City
+  20.15  West Ham United          3-2 (1-1)  Chelsea FC
 [Thu Jul/2]
-  19.00  Sheffield United FC       3-1 (1-0)  Tottenham Hotspur FC
-           [Sander Berge 31' Lys Mousset 69' Oliver McBurnie 84'; Harry Kane 90']
-  21.15  Manchester City FC        4-0 (3-0)  Liverpool FC
-           [Kevin De Bruyne 25' (pen.) Raheem Sterling 35' Phil Foden 45' Alex Oxlade-Chamberlain 66' (o.g.)]
+  20.15  Manchester City          4-0 (3-0)  Liverpool FC
+  18.00  Sheffield United         3-1 (1-0)  Tottenham Hotspur
 
 
 Matchday 33
 [Sat Jul/4]
-  13.30  Norwich City FC           0-1 (0-1)  Brighton & Hove Albion FC
-           [Leandro Trossard 25']
-  16.00  Leicester City FC         3-0 (0-0)  Crystal Palace FC
-           [Kelechi Iheanacho 49' Jamie Vardy 77', 90']
-         Manchester United         5-2 (3-1)  AFC Bournemouth
-           [Mason Greenwood 29', 54' Marcus Rashford 35' (pen.) Anthony Martial 45' Bruno Fernandes 59'; Junior Stanislas 15' Joshua King 49' (pen.)]
-  18.30  Wolverhampton Wanderers FC   0-2 (0-1)  Arsenal FC
-           [Bukayo Saka 43' Alexandre Lacazette 86']
-  21.00  Chelsea FC                3-0 (2-0)  Watford FC
-           [Olivier Giroud 28' Willian 43' (pen.) Ross Barkley 90']
+  12.30  Norwich City             0-1 (0-1)  Brighton & Hove Albion
+  15.00  Leicester City           3-0 (0-0)  Crystal Palace
+         Manchester United        5-2 (3-1)  AFC Bournemouth
+  17.30  Wolverhampton Wanderers  0-2 (0-1)  Arsenal FC
+  20.00  Chelsea FC               3-0 (2-0)  Watford FC
 [Sun Jul/5]
-  13.00  Burnley FC                1-1 (1-0)  Sheffield United FC
-           [James Tarkowski 43'; John Egan 80']
-  15.15  Newcastle United FC       2-2 (1-1)  West Ham United FC
-           [Miguel Almirón 17' Jonjo Shelvey 67'; Michail Antonio 4' Tomáš Souček 65']
-  17.30  Liverpool FC              2-0 (0-0)  Aston Villa FC
-           [Sadio Mané 71' Curtis Jones 89']
-  20.00  Southampton FC            1-0 (1-0)  Manchester City FC
-           [Che Adams 16']
+  14.15  Newcastle United         2-2 (1-1)  West Ham United
+  16.30  Liverpool FC             2-0 (0-0)  Aston Villa
+  19.00  Southampton FC           1-0 (1-0)  Manchester City
+  12.00  Burnley FC               1-1 (1-0)  Sheffield United
 [Mon Jul/6]
-  21.00  Tottenham Hotspur FC      1-0 (1-0)  Everton FC
-           [Michael Keane 24' (o.g.)]
+  20.00  Tottenham Hotspur        1-0 (1-0)  Everton FC
 
 
 Matchday 34
 [Tue Jul/7]
-  19.00  Crystal Palace FC         2-3 (1-2)  Chelsea FC
-           [Wilfried Zaha 34' Christian Benteke 72'; Olivier Giroud 6' Christian Pulišić 27' Tammy Abraham 71']
-         Watford FC                2-1 (1-1)  Norwich City FC
-           [Craig Dawson 10' Danny Welbeck 55'; Emiliano Buendia 4']
-  21.15  Arsenal FC                1-1 (1-0)  Leicester City FC
-           [Pierre-Emerick Aubameyang 21'; Jamie Vardy 84']
+  18.00  Watford FC               2-1 (1-1)  Norwich City
+  20.15  Arsenal FC               1-1 (1-0)  Leicester City
+  18.00  Crystal Palace           2-3 (1-2)  Chelsea FC
 [Wed Jul/8]
-  19.00  Manchester City FC        5-0 (2-0)  Newcastle United FC
-           [Gabriel Jesus 10' Riyad Mahrez 21' Federico Fernández 58' (o.g.) David Silva 65' Raheem Sterling 90']
-         West Ham United FC        0-1 (0-1)  Burnley FC
-           [Jay Rodriguez 38']
-         Sheffield United FC       1-0 (0-0)  Wolverhampton Wanderers FC
-           [John Egan 90']
-  21.15  Brighton & Hove Albion FC   1-3 (1-2)  Liverpool FC
-           [Leandro Trossard 45'; Mohamed Salah 6', 76' Jordan Henderson 8']
+  18.00  Manchester City          5-0 (2-0)  Newcastle United
+         Sheffield United         1-0 (0-0)  Wolverhampton Wanderers
+         West Ham United          0-1 (0-1)  Burnley FC
+  20.15  Brighton & Hove Albion   1-3 (1-2)  Liverpool FC
 [Thu Jul/9]
-  19.00  AFC Bournemouth           0-0  Tottenham Hotspur FC
-         Everton FC                1-1 (1-1)  Southampton FC
-           [Richarlison 43'; Danny Ings 31']
-  21.15  Aston Villa FC            0-3 (0-2)  Manchester United
-           [Bruno Fernandes 27' (pen.) Mason Greenwood 45' Paul Pogba 58']
+  18.00  Everton FC               1-1 (1-1)  Southampton FC
+  20.15  Aston Villa              0-3 (0-2)  Manchester United
+  18.00  AFC Bournemouth          0-0  Tottenham Hotspur
 
 
 Matchday 35
 [Sat Jul/11]
-  13.30  Watford FC                2-1 (0-1)  Newcastle United FC
-           [Troy Deeney 52' (pen.), 82' (pen.); Dwight Gayle 23']
-         Norwich City FC           0-4 (0-2)  West Ham United FC
-           [Michail Antonio 11', 45', 54', 74']
-  16.00  Liverpool FC              1-1 (1-0)  Burnley FC
-           [Andrew Robertson 34'; Jay Rodriguez 69']
-  18.30  Sheffield United FC       3-0 (2-0)  Chelsea FC
-           [David McGoldrick 18', 77' Oliver McBurnie 33']
-  21.00  Brighton & Hove Albion FC   0-5 (0-2)  Manchester City FC
-           [Raheem Sterling 21', 53', 81' Gabriel Jesus 44' Bernardo Silva 56']
+  12.30  Watford FC               2-1 (0-1)  Newcastle United
+  15.00  Liverpool FC             1-1 (1-0)  Burnley FC
+  17.30  Sheffield United         3-0 (2-0)  Chelsea FC
+  20.00  Brighton & Hove Albion   0-5 (0-2)  Manchester City
+  12.30  Norwich City             0-4 (0-2)  West Ham United
 [Sun Jul/12]
-  13.00  Wolverhampton Wanderers FC   3-0 (1-0)  Everton FC
-           [Raúl Jiménez 45' (pen.) Leander Dendoncker 46' Diogo Jota 74']
-  15.15  Aston Villa FC            2-0 (1-0)  Crystal Palace FC
-           [Trezeguet 45', 59']
-  17.30  Tottenham Hotspur FC      2-1 (1-1)  Arsenal FC
-           [Heung-min Son 19' Toby Alderweireld 81'; Alexandre Lacazette 16']
-  20.00  AFC Bournemouth           4-1 (0-1)  Leicester City FC
-           [Junior Stanislas 66' (pen.) Dominic Solanke 67', 87' Jonny Evans 83' (o.g.); Jamie Vardy 23']
+  12.00  Wolverhampton Wanderers  3-0 (1-0)  Everton FC
+  14.15  Aston Villa              2-0 (1-0)  Crystal Palace
+  16.30  Tottenham Hotspur        2-1 (1-1)  Arsenal FC
+  19.00  AFC Bournemouth          4-1 (0-1)  Leicester City
 [Mon Jul/13]
-  21.00  Manchester United         2-2 (2-1)  Southampton FC
-           [Marcus Rashford 20' Anthony Martial 23'; Stuart Armstrong 12' Michael Obafemi 90']
+  20.00  Manchester United        2-2 (2-1)  Southampton FC
 
 
 Matchday 36
 [Tue Jul/14]
-  21.15  Chelsea FC                1-0 (1-0)  Norwich City FC
-           [Olivier Giroud 45']
+  20.15  Chelsea FC               1-0 (1-0)  Norwich City
 [Wed Jul/15]
-  19.00  Burnley FC                1-1 (0-0)  Wolverhampton Wanderers FC
-           [Chris Wood 90' (pen.); Raúl Jiménez 76']
-         Manchester City FC        2-1 (2-0)  AFC Bournemouth
-           [David Silva 6' Gabriel Jesus 39'; David Brooks 88']
-         Newcastle United FC       1-3 (0-1)  Tottenham Hotspur FC
-           [Matt Ritchie 56'; Heung-min Son 27' Harry Kane 60', 90']
-  21.15  Arsenal FC                2-1 (2-1)  Liverpool FC
-           [Alexandre Lacazette 32' Reiss Nelson 44'; Sadio Mané 20']
+  18.00  Manchester City          2-1 (2-0)  AFC Bournemouth
+         Newcastle United         1-3 (0-1)  Tottenham Hotspur
+  20.15  Arsenal FC               2-1 (2-1)  Liverpool FC
+  18.00  Burnley FC               1-1 (0-0)  Wolverhampton Wanderers
 [Thu Jul/16]
-  19.00  Everton FC                1-1 (0-0)  Aston Villa FC
-           [Theo Walcott 87'; Ezri Konsa 72']
-         Leicester City FC         2-0 (1-0)  Sheffield United FC
-           [Ayoze Pérez 29' Demarai Gray 79']
-  21.15  Crystal Palace FC         0-2 (0-1)  Manchester United
-           [Marcus Rashford 45' Anthony Martial 78']
-         Southampton FC            1-1 (0-1)  Brighton & Hove Albion FC
-           [Danny Ings 66'; Neal Maupay 17']
+  18.00  Everton FC               1-1 (0-0)  Aston Villa
+         Leicester City           2-0 (1-0)  Sheffield United
+  20.15  Crystal Palace           0-2 (0-1)  Manchester United
+         Southampton FC           1-1 (0-1)  Brighton & Hove Albion
 [Fri Jul/17]
-  21.00  West Ham United FC        3-1 (3-0)  Watford FC
-           [Michail Antonio 6' Tomáš Souček 10' Declan Rice 36'; Troy Deeney 49']
+  20.00  West Ham United          3-1 (3-0)  Watford FC
 
 
 Matchday 37
 [Sat Jul/18]
-  18.30  Norwich City FC           0-2 (0-1)  Burnley FC
-           [Chris Wood 45' Ben Godfrey 80' (o.g.)]
+  17.30  Norwich City             0-2 (0-1)  Burnley FC
 [Sun Jul/19]
-  15.00  AFC Bournemouth           0-2 (0-1)  Southampton FC
-           [Danny Ings 41' Che Adams 90']
-  17.00  Tottenham Hotspur FC      3-0 (3-0)  Leicester City FC
-           [James Justin 6' (o.g.) Harry Kane 37', 40']
+  16.00  Tottenham Hotspur        3-0 (3-0)  Leicester City
+  14.00  AFC Bournemouth          0-2 (0-1)  Southampton FC
 [Mon Jul/20]
-  19.00  Brighton & Hove Albion FC   0-0  Newcastle United FC
-         Sheffield United FC       0-1 (0-0)  Everton FC
-           [Richarlison 46']
-  21.15  Wolverhampton Wanderers FC   2-0 (1-0)  Crystal Palace FC
-           [Daniel Podence 41' Jonny 68']
+  18.00  Brighton & Hove Albion   0-0  Newcastle United
+         Sheffield United         0-1 (0-0)  Everton FC
+  20.15  Wolverhampton Wanderers  2-0 (1-0)  Crystal Palace
 [Tue Jul/21]
-  19.00  Watford FC                0-4 (0-2)  Manchester City FC
-           [Raheem Sterling 31', 40' Phil Foden 63' Aymeric Laporte 66']
-  21.15  Aston Villa FC            1-0 (1-0)  Arsenal FC
-           [Trezeguet 27']
+  20.15  Aston Villa              1-0 (1-0)  Arsenal FC
+  18.00  Watford FC               0-4 (0-2)  Manchester City
 [Wed Jul/22]
-  19.00  Manchester United         1-1 (0-1)  West Ham United FC
-           [Mason Greenwood 51'; Michail Antonio 45' (pen.)]
-  21.15  Liverpool FC              5-3 (3-1)  Chelsea FC
-           [Naby Keïta 23' Trent Alexander-Arnold 38' Georginio Wijnaldum 43' Roberto Firmino 55' Alex Oxlade-Chamberlain 84'; Olivier Giroud 45' Tammy Abraham 61' Christian Pulišić 73']
+  18.00  Manchester United        1-1 (0-1)  West Ham United
+  20.15  Liverpool FC             5-3 (3-1)  Chelsea FC
 
 
 Matchday 38
 [Sun Jul/26]
-  17.00  Arsenal FC                3-2 (3-1)  Watford FC
-           [Pierre-Emerick Aubameyang 5' (pen.), 33' Kieran Tierney 24'; Troy Deeney 43' (pen.) Danny Welbeck 66']
-         Burnley FC                1-2 (1-1)  Brighton & Hove Albion FC
-           [Chris Wood 44'; Yves Bissouma 20' Aaron Connolly 50']
-         Chelsea FC                2-0 (2-0)  Wolverhampton Wanderers FC
-           [Mason Mount 45' Olivier Giroud 45']
-         Crystal Palace FC         1-1 (0-1)  Tottenham Hotspur FC
-           [Jeffrey Schlupp 53'; Harry Kane 13']
-         Everton FC                1-3 (1-2)  AFC Bournemouth
-           [Moise Kean 41'; Joshua King 13' (pen.) Dominic Solanke 45' Junior Stanislas 80']
-         Leicester City FC         0-2 (0-0)  Manchester United
-           [Bruno Fernandes 71' (pen.) Jesse Lingard 90']
-         Manchester City FC        5-0 (2-0)  Norwich City FC
-           [Gabriel Jesus 11' Kevin De Bruyne 45', 90' Raheem Sterling 79' Riyad Mahrez 83']
-         Newcastle United FC       1-3 (1-1)  Liverpool FC
-           [Dwight Gayle 1'; Virgil van Dijk 38' Divock Origi 59' Sadio Mané 89']
-         Southampton FC            3-1 (0-1)  Sheffield United FC
-           [Che Adams 50', 71' Danny Ings 84' (pen.); John Lundstram 26']
-         West Ham United FC        1-1 (0-0)  Aston Villa FC
-           [Andrey Yarmolenko 85'; Jack Grealish 84']
+  16.00  Arsenal FC               3-2 (3-1)  Watford FC
+         Burnley FC               1-2 (1-1)  Brighton & Hove Albion
+         Chelsea FC               2-0 (2-0)  Wolverhampton Wanderers
+         Crystal Palace           1-1 (0-1)  Tottenham Hotspur
+         Everton FC               1-3 (1-2)  AFC Bournemouth
+         Leicester City           0-2 (0-0)  Manchester United
+         Manchester City          5-0 (2-0)  Norwich City
+         Newcastle United         1-3 (1-1)  Liverpool FC
+         Southampton FC           3-1 (0-1)  Sheffield United
+         West Ham United          1-1 (0-0)  Aston Villa

@@ -1,817 +1,830 @@
 = English League One 2019/20
 
+# Date       Sat Aug/3 2019 - Sun May/3 2020 (274d)
+# Teams      23
+# Matches    506
+
+
 
 Matchday 1
 [Sat Aug/3]
-  AFC Wimbledon            1-2  Rotherham United FC
-  Blackpool FC             2-0  Bristol Rovers FC
-  Burton Albion FC         0-1  Ipswich Town FC
-  Coventry City FC         1-0  Southend United FC
-  Doncaster Rovers FC      1-1  Gillingham FC
-  Lincoln City FC          2-0  Accrington Stanley FC
-  Peterborough United FC   1-3  Fleetwood Town FC
-  Shrewsbury Town FC       1-0  Portsmouth FC
-  Sunderland AFC           1-1  Oxford United FC
-  Tranmere Rovers FC       2-3  Rochdale AFC
-  Wycombe Wanderers FC     2-0  Bolton Wanderers FC
+  15.00  AFC Wimbledon            1-2 (0-1)  Rotherham United
+         Blackpool FC             2-0 (1-0)  Bristol Rovers
+         Burton Albion            0-1 (0-1)  Ipswich Town
+         Coventry City            1-0 (0-0)  Southend United
+         Doncaster Rovers         1-1 (1-1)  Gillingham FC
+         Lincoln City             2-0 (1-0)  Accrington Stanley
+         Peterborough United      1-3 (0-2)  Fleetwood Town
+         Shrewsbury Town          1-0 (0-0)  Portsmouth FC
+         Sunderland AFC           1-1 (0-1)  Oxford United
+         Tranmere Rovers          2-3 (0-1)  Rochdale AFC
+         Wycombe Wanderers        2-0 (0-0)  Bolton Wanderers
 
 
 Matchday 2
 [Sat Aug/10]
-  Bolton Wanderers FC      0-0  Coventry City FC
-  Bristol Rovers FC        0-0  Wycombe Wanderers FC
-  Fleetwood Town FC        2-1  AFC Wimbledon
-  Gillingham FC            1-2  Burton Albion FC
-  Ipswich Town FC          1-1  Sunderland AFC
-  Southend United FC       1-3  Blackpool FC
-  Oxford United FC         1-0  Peterborough United FC
-  Portsmouth FC            2-0  Tranmere Rovers FC
-  Rochdale AFC             1-1  Doncaster Rovers FC
-  Rotherham United FC      0-2  Lincoln City FC
-  Milton Keynes Dons FC    1-0  Shrewsbury Town FC
+  15.00  Bolton Wanderers         0-0  Coventry City
+         Bristol Rovers           0-0  Wycombe Wanderers
+         Fleetwood Town           2-1 (0-1)  AFC Wimbledon
+         Gillingham FC            1-2 (1-2)  Burton Albion
+         Ipswich Town             1-1 (1-0)  Sunderland AFC
+         Milton Keynes Dons       1-0 (0-0)  Shrewsbury Town
+         Oxford United            1-0 (1-0)  Peterborough United
+         Portsmouth FC            2-0 (1-0)  Tranmere Rovers
+         Rochdale AFC             1-1 (0-0)  Doncaster Rovers
+         Rotherham United         0-2 (0-1)  Lincoln City
+         Southend United          1-3 (0-3)  Blackpool FC
 
 
 Matchday 3
 [Sat Aug/17]
-  Sunderland AFC           2-1  Portsmouth FC
-  AFC Wimbledon            1-1  Accrington Stanley FC
-  Blackpool FC             2-1  Oxford United FC
-  Burton Albion FC         0-1  Rotherham United FC
-  Coventry City FC         2-0  Bristol Rovers FC
-  Doncaster Rovers FC      3-2  Fleetwood Town FC
-  Lincoln City FC          4-0  Southend United FC
-  Peterborough United FC   2-2  Ipswich Town FC
-  Shrewsbury Town FC       0-0  Rochdale AFC
-  Wycombe Wanderers FC     3-2  Milton Keynes Dons FC
-  Tranmere Rovers FC       5-0  Bolton Wanderers FC
+  12.30  Sunderland AFC           2-1 (2-1)  Portsmouth FC
+  15.00  AFC Wimbledon            1-1 (1-0)  Accrington Stanley
+         Blackpool FC             2-1 (2-1)  Oxford United
+         Burton Albion            0-1 (0-1)  Rotherham United
+         Coventry City            2-0 (1-0)  Bristol Rovers
+         Doncaster Rovers         3-2 (2-1)  Fleetwood Town
+         Lincoln City             4-0 (2-0)  Southend United
+         Peterborough United      2-2 (1-1)  Ipswich Town
+         Shrewsbury Town          0-0  Rochdale AFC
+         Tranmere Rovers          5-0 (2-0)  Bolton Wanderers
+         Wycombe Wanderers        3-2 (2-1)  Milton Keynes Dons
 
 
 Matchday 4
 [Tue Aug/20]
-  Accrington Stanley FC    2-3  Shrewsbury Town FC
-  Bristol Rovers FC        2-0  Tranmere Rovers FC
-  Southend United FC       0-2  Peterborough United FC
-  Gillingham FC            2-2  Blackpool FC
-  Ipswich Town FC          2-1  AFC Wimbledon
-  Milton Keynes Dons FC    2-1  Lincoln City FC
-  Oxford United FC         2-4  Burton Albion FC
-  Portsmouth FC            3-3  Coventry City FC
-  Rochdale AFC             1-2  Sunderland AFC
-  Fleetwood Town FC        1-1  Wycombe Wanderers FC
+  19.45  Accrington Stanley       2-3 (0-0)  Shrewsbury Town
+         Bristol Rovers           2-0 (1-0)  Tranmere Rovers
+         Fleetwood Town           1-1 (0-0)  Wycombe Wanderers
+         Gillingham FC            2-2 (2-2)  Blackpool FC
+         Ipswich Town             2-1 (0-1)  AFC Wimbledon
+         Milton Keynes Dons       2-1 (2-1)  Lincoln City
+         Oxford United            2-4 (0-1)  Burton Albion
+         Portsmouth FC            3-3 (2-1)  Coventry City
+         Rochdale AFC             1-2 (1-1)  Sunderland AFC
+         Southend United          0-2 (0-0)  Peterborough United
 
 
 Matchday 5
 [Sat Aug/24]
-  Wycombe Wanderers FC     4-3  Southend United FC
-  Doncaster Rovers FC      2-1  Lincoln City FC
-  Bolton Wanderers FC      0-5  Ipswich Town FC
-  Bristol Rovers FC        3-1  Oxford United FC
-  Coventry City FC         1-0  Gillingham FC
-  Sunderland AFC           3-1  AFC Wimbledon
-  Milton Keynes Dons FC    0-4  Peterborough United FC
-  Rochdale AFC             0-0  Blackpool FC
-  Shrewsbury Town FC       0-0  Burton Albion FC
-  Fleetwood Town FC        2-0  Accrington Stanley FC
+  15.00  Wycombe Wanderers        4-3 (1-2)  Southend United
+  12.30  Doncaster Rovers         2-1 (1-0)  Lincoln City
+  15.00  Bolton Wanderers         0-5 (0-1)  Ipswich Town
+         Bristol Rovers           3-1 (2-1)  Oxford United
+         Coventry City            1-0 (1-0)  Gillingham FC
+         Fleetwood Town           2-0 (1-0)  Accrington Stanley
+         Milton Keynes Dons       0-4 (0-3)  Peterborough United
+         Rochdale AFC             0-0  Blackpool FC
+         Shrewsbury Town          0-0  Burton Albion
+         Sunderland AFC           3-1 (1-1)  AFC Wimbledon
 
 
 Matchday 6
 [Sat Aug/31]
-  Southend United FC       0-3  Rochdale AFC
-  Rotherham United FC      1-1  Tranmere Rovers FC
-  AFC Wimbledon            0-0  Wycombe Wanderers FC
-  Oxford United FC         3-3  Coventry City FC
-  Blackpool FC             1-1  Portsmouth FC
-  Burton Albion FC         2-0  Bristol Rovers FC
-  Gillingham FC            5-0  Bolton Wanderers FC
-  Ipswich Town FC          3-0  Shrewsbury Town FC
-  Lincoln City FC          2-0  Fleetwood Town FC
-  Peterborough United FC   3-0  Sunderland AFC
-  Accrington Stanley FC    2-1  Milton Keynes Dons FC
+  15.00  Southend United          0-3 (0-2)  Rochdale AFC
+         Rotherham United         1-1 (0-0)  Tranmere Rovers
+         AFC Wimbledon            0-0  Wycombe Wanderers
+         Accrington Stanley       2-1 (0-1)  Milton Keynes Dons
+         Blackpool FC             1-1 (0-1)  Portsmouth FC
+         Burton Albion            2-0 (0-0)  Bristol Rovers
+         Gillingham FC            5-0 (2-0)  Bolton Wanderers
+         Ipswich Town             3-0 (2-0)  Shrewsbury Town
+         Lincoln City             2-0 (2-0)  Fleetwood Town
+         Oxford United            3-3 (0-1)  Coventry City
+         Peterborough United      3-0 (1-0)  Sunderland AFC
 
 
 Matchday 7
 [Sat Sep/7]
-  Milton Keynes Dons FC    2-1  AFC Wimbledon
-  Wycombe Wanderers FC     3-1  Lincoln City FC
-  Fleetwood Town FC        2-1  Oxford United FC
-  Doncaster Rovers FC      2-1  Rotherham United FC
-  Bristol Rovers FC        3-3  Accrington Stanley FC
-  Coventry City FC         3-2  Blackpool FC
-  Tranmere Rovers FC       2-2  Gillingham FC
+  15.00  Bristol Rovers           3-3 (2-2)  Accrington Stanley
+         Tranmere Rovers          2-2 (0-2)  Gillingham FC
+  12.00  Milton Keynes Dons       2-1 (2-0)  AFC Wimbledon
+  12.30  Doncaster Rovers         2-1 (0-1)  Rotherham United
+  15.00  Wycombe Wanderers        3-1 (2-0)  Lincoln City
+         Coventry City            3-2 (2-2)  Blackpool FC
+         Fleetwood Town           2-1 (1-1)  Oxford United
 
 
 Matchday 8
 [Sat Sep/14]
-  Rotherham United FC      6-1  Bolton Wanderers FC
-  Southend United FC       3-3  Fleetwood Town FC
-  Accrington Stanley FC    1-3  Sunderland AFC
-  Peterborough United FC   6-0  Rochdale AFC
-  Oxford United FC         3-0  Tranmere Rovers FC
-  Lincoln City FC          0-1  Bristol Rovers FC
-  AFC Wimbledon            1-1  Shrewsbury Town FC
-  Ipswich Town FC          0-0  Doncaster Rovers FC
-  Blackpool FC             0-3  Milton Keynes Dons FC
-  Burton Albion FC         0-0  Coventry City FC
-  Gillingham FC            2-0  Wycombe Wanderers FC
+  15.00  Southend United          3-3 (1-2)  Fleetwood Town
+         Peterborough United      6-0 (3-0)  Rochdale AFC
+         Oxford United            3-0 (1-0)  Tranmere Rovers
+         Lincoln City             0-1 (0-0)  Bristol Rovers
+         Rotherham United         6-1 (3-1)  Bolton Wanderers
+         Ipswich Town             0-0  Doncaster Rovers
+         AFC Wimbledon            1-1 (1-0)  Shrewsbury Town
+         Accrington Stanley       1-3 (1-3)  Sunderland AFC
+         Blackpool FC             0-3 (0-1)  Milton Keynes Dons
+         Burton Albion            0-0  Coventry City
+         Gillingham FC            2-0 (0-0)  Wycombe Wanderers
 
 
 Matchday 9
 [Tue Sep/17]
-  Shrewsbury Town FC       4-3  Southend United FC
-  Rochdale AFC             1-1  Lincoln City FC
-  Sunderland AFC           1-1  Rotherham United FC
-  Tranmere Rovers FC       2-2  Peterborough United FC
-  Wycombe Wanderers FC     1-1  Accrington Stanley FC
-  Coventry City FC         2-1  AFC Wimbledon
-  Bristol Rovers FC        1-1  Gillingham FC
-  Portsmouth FC            2-2  Burton Albion FC
-  Doncaster Rovers FC      0-1  Blackpool FC
-  Milton Keynes Dons FC    0-1  Ipswich Town FC
-  Bolton Wanderers FC      0-0  Oxford United FC
+  19.45  Tranmere Rovers          2-2 (0-0)  Peterborough United
+         Wycombe Wanderers        1-1 (0-1)  Accrington Stanley
+  20.00  Bolton Wanderers         0-0  Oxford United
+  19.45  Sunderland AFC           1-1 (1-0)  Rotherham United
+         Shrewsbury Town          4-3 (2-1)  Southend United
+         Portsmouth FC            2-2 (1-2)  Burton Albion
+         Bristol Rovers           1-1 (1-0)  Gillingham FC
+         Coventry City            2-1 (1-1)  AFC Wimbledon
+         Doncaster Rovers         0-1 (0-0)  Blackpool FC
+         Milton Keynes Dons       0-1 (0-1)  Ipswich Town
+         Rochdale AFC             1-1 (1-0)  Lincoln City
 
 
 Matchday 10
 [Sat Sep/21]
-  Gillingham FC            0-1  Ipswich Town FC
-  Lincoln City FC          0-6  Oxford United FC
-  Wycombe Wanderers FC     1-0  Portsmouth FC
-  Tranmere Rovers FC       2-1  Burton Albion FC
-  Rotherham United FC      0-0  Shrewsbury Town FC
-  Milton Keynes Dons FC    0-1  Southend United FC
-  Fleetwood Town FC        2-1  Rochdale AFC
-  Accrington Stanley FC    1-1  Blackpool FC
-  AFC Wimbledon            1-3  Bristol Rovers FC
-  Doncaster Rovers FC      2-0  Peterborough United FC
-  Bolton Wanderers FC      1-1  Sunderland AFC
+  15.00  Doncaster Rovers         2-0 (2-0)  Peterborough United
+         Wycombe Wanderers        1-0 (0-0)  Portsmouth FC
+         Tranmere Rovers          2-1 (0-0)  Burton Albion
+         Rotherham United         0-0  Shrewsbury Town
+         Milton Keynes Dons       0-1 (0-1)  Southend United
+         Lincoln City             0-6 (0-2)  Oxford United
+         AFC Wimbledon            1-3 (1-1)  Bristol Rovers
+         Accrington Stanley       1-1 (1-0)  Blackpool FC
+         Bolton Wanderers         1-1 (0-0)  Sunderland AFC
+         Fleetwood Town           2-1 (1-1)  Rochdale AFC
+         Gillingham FC            0-1 (0-1)  Ipswich Town
 
 
 Matchday 11
 [Fri Sep/27]
-  Blackpool FC             2-1  Lincoln City FC
+  19.45  Blackpool FC             2-1 (2-1)  Lincoln City
 [Sat Sep/28]
-  Portsmouth FC            1-0  Bolton Wanderers FC
-  Sunderland AFC           2-1  Milton Keynes Dons FC
-  Southend United FC       0-1  Accrington Stanley FC
-  Shrewsbury Town FC       0-3  Fleetwood Town FC
-  Rochdale AFC             0-3  Wycombe Wanderers FC
-  Peterborough United FC   3-2  AFC Wimbledon
-  Bristol Rovers FC        1-0  Rotherham United FC
-  Coventry City FC         1-1  Doncaster Rovers FC
-  Ipswich Town FC          4-1  Tranmere Rovers FC
-  Oxford United FC         3-0  Gillingham FC
+  15.00  Shrewsbury Town          0-3 (0-1)  Fleetwood Town
+         Rochdale AFC             0-3 (0-2)  Wycombe Wanderers
+         Portsmouth FC            1-0 (0-0)  Bolton Wanderers
+         Peterborough United      3-2 (2-0)  AFC Wimbledon
+         Sunderland AFC           2-1 (2-0)  Milton Keynes Dons
+         Southend United          0-1 (0-0)  Accrington Stanley
+         Bristol Rovers           1-0 (0-0)  Rotherham United
+         Coventry City            1-1 (0-1)  Doncaster Rovers
+         Ipswich Town             4-1 (1-1)  Tranmere Rovers
+         Oxford United            3-0 (3-0)  Gillingham FC
 
 
 Matchday 12
 [Sat Oct/5]
-  Tranmere Rovers FC       0-1  Shrewsbury Town FC
-  Gillingham FC            3-1  Southend United FC
-  Lincoln City FC          2-0  Sunderland AFC
-  Milton Keynes Dons FC    0-3  Burton Albion FC
-  Rotherham United FC      4-0  Coventry City FC
-  Wycombe Wanderers FC     3-3  Peterborough United FC
-  AFC Wimbledon            3-2  Rochdale AFC
-  Accrington Stanley FC    2-2  Oxford United FC
-  Doncaster Rovers FC      1-2  Portsmouth FC
-  Fleetwood Town FC        0-1  Ipswich Town FC
+  15.00  Lincoln City             2-0 (1-0)  Sunderland AFC
+         Milton Keynes Dons       0-3 (0-1)  Burton Albion
+         Rotherham United         4-0 (2-0)  Coventry City
+         Wycombe Wanderers        3-3 (0-2)  Peterborough United
+         Tranmere Rovers          0-1 (0-1)  Shrewsbury Town
+         Gillingham FC            3-1 (1-0)  Southend United
+         AFC Wimbledon            3-2 (3-0)  Rochdale AFC
+         Accrington Stanley       2-2 (0-1)  Oxford United
+         Doncaster Rovers         1-2 (0-0)  Portsmouth FC
+         Fleetwood Town           0-1 (0-0)  Ipswich Town
 [Mon Oct/7]
-  Bolton Wanderers FC      0-0  Blackpool FC
+  20.00  Bolton Wanderers         0-0  Blackpool FC
 
 
 Matchday 13
 [Sat Oct/12]
-  Peterborough United FC   2-0  Lincoln City FC
-  Portsmouth FC            0-0  Gillingham FC
-  Southend United FC       1-4  AFC Wimbledon
-  Rochdale AFC             2-1  Accrington Stanley FC
-  Blackpool FC             1-2  Rotherham United FC
-  Oxford United FC         3-0  Doncaster Rovers FC
-  Bristol Rovers FC        1-0  Milton Keynes Dons FC
+  15.00  Portsmouth FC            0-0  Gillingham FC
+         Peterborough United      2-0 (0-0)  Lincoln City
+         Oxford United            3-0 (1-0)  Doncaster Rovers
+         Bristol Rovers           1-0 (0-0)  Milton Keynes Dons
+         Rochdale AFC             2-1 (1-0)  Accrington Stanley
+         Southend United          1-4 (1-2)  AFC Wimbledon
+         Blackpool FC             1-2 (0-0)  Rotherham United
 [Sun Oct/13]
-  Coventry City FC         0-1  Tranmere Rovers FC
+  12.00  Coventry City            0-1 (0-0)  Tranmere Rovers
 
 
 Matchday 14
 [Fri Oct/18]
-  Lincoln City FC          0-0  Shrewsbury Town FC
-  Tranmere Rovers FC       1-1  Southend United FC
+  19.45  Lincoln City             0-0  Shrewsbury Town
+         Tranmere Rovers          1-1 (0-1)  Southend United
 [Sat Oct/19]
-  Gillingham FC            1-2  Peterborough United FC
-  Fleetwood Town FC        4-1  Burton Albion FC
-  Doncaster Rovers FC      2-0  Bristol Rovers FC
-  Milton Keynes Dons FC    0-0  Coventry City FC
-  Bolton Wanderers FC      1-3  Rochdale AFC
-  Rotherham United FC      1-2  Oxford United FC
-  AFC Wimbledon            1-0  Portsmouth FC
-  Wycombe Wanderers FC     1-0  Sunderland AFC
+  15.00  Milton Keynes Dons       0-0  Coventry City
+         Gillingham FC            1-2 (0-1)  Peterborough United
+         Fleetwood Town           4-1 (1-1)  Burton Albion
+         Bolton Wanderers         1-3 (0-0)  Rochdale AFC
+         AFC Wimbledon            1-0 (0-0)  Portsmouth FC
+         Rotherham United         1-2 (1-1)  Oxford United
+         Wycombe Wanderers        1-0 (1-0)  Sunderland AFC
+         Doncaster Rovers         2-0 (1-0)  Bristol Rovers
 [Sun Oct/20]
-  Accrington Stanley FC    2-0  Ipswich Town FC
+  12.00  Accrington Stanley       2-0 (2-0)  Ipswich Town
 
 
 Matchday 15
 [Tue Oct/22]
-  Shrewsbury Town FC       1-1  Gillingham FC
-  Blackpool FC             1-1  Wycombe Wanderers FC
-  Sunderland AFC           5-0  Tranmere Rovers FC
-  Southend United FC       1-7  Doncaster Rovers FC
-  Burton Albion FC         1-0  AFC Wimbledon
-  Rochdale AFC             2-0  Milton Keynes Dons FC
-  Portsmouth FC            1-0  Lincoln City FC
-  Bristol Rovers FC        0-2  Bolton Wanderers FC
+  19.45  Rochdale AFC             2-0 (1-0)  Milton Keynes Dons
+         Shrewsbury Town          1-1 (0-1)  Gillingham FC
+         Southend United          1-7 (1-2)  Doncaster Rovers
+         Sunderland AFC           5-0 (3-0)  Tranmere Rovers
+         Portsmouth FC            1-0 (1-0)  Lincoln City
+         Blackpool FC             1-1 (0-1)  Wycombe Wanderers
+         Burton Albion            1-0 (1-0)  AFC Wimbledon
+         Bristol Rovers           0-2 (0-1)  Bolton Wanderers
 [Wed Oct/23]
-  Ipswich Town FC          0-2  Rotherham United FC
-  Peterborough United FC   4-0  Accrington Stanley FC
-  Coventry City FC         2-1  Fleetwood Town FC
+  19.45  Ipswich Town             0-2 (0-1)  Rotherham United
+         Coventry City            2-1 (0-1)  Fleetwood Town
+         Peterborough United      4-0 (0-0)  Accrington Stanley
 
 
 Matchday 16
 [Sat Oct/26]
-  Shrewsbury Town FC       1-0  Sunderland AFC
-  Southend United FC       1-3  Ipswich Town FC
-  Accrington Stanley FC    0-1  Gillingham FC
-  Rotherham United FC      0-1  Wycombe Wanderers FC
-  Peterborough United FC   2-2  Coventry City FC
-  Oxford United FC         3-0  Rochdale AFC
-  Fleetwood Town FC        1-0  Milton Keynes Dons FC
-  Burton Albion FC         0-0  Blackpool FC
-  Bristol Rovers FC        2-2  Portsmouth FC
+  15.00  Peterborough United      2-2 (0-1)  Coventry City
+         Shrewsbury Town          1-0 (1-0)  Sunderland AFC
+         Rotherham United         0-1 (0-1)  Wycombe Wanderers
+         Oxford United            3-0 (2-0)  Rochdale AFC
+         Fleetwood Town           1-0 (0-0)  Milton Keynes Dons
+         Burton Albion            0-0  Blackpool FC
+         Bristol Rovers           2-2 (0-1)  Portsmouth FC
+         Accrington Stanley       0-1 (0-0)  Gillingham FC
+         Southend United          1-3 (0-1)  Ipswich Town
 
 
 Matchday 17
 [Sat Nov/2]
-  Blackpool FC             4-3  Peterborough United FC
-  Milton Keynes Dons FC    1-3  Tranmere Rovers FC
-  Portsmouth FC            1-1  Oxford United FC
-  Sunderland AFC           1-0  Southend United FC
-  Wycombe Wanderers FC     1-0  Shrewsbury Town FC
-  Rochdale AFC             1-2  Bristol Rovers FC
-  Coventry City FC         0-0  Accrington Stanley FC
-  Doncaster Rovers FC      2-2  Burton Albion FC
-  AFC Wimbledon            1-1  Lincoln City FC
-  Bolton Wanderers FC      2-1  Fleetwood Town FC
-  Gillingham FC            0-3  Rotherham United FC
+  15.00  AFC Wimbledon            1-1 (0-1)  Lincoln City
+         Blackpool FC             4-3 (2-2)  Peterborough United
+         Bolton Wanderers         2-1 (2-0)  Fleetwood Town
+         Coventry City            0-0  Accrington Stanley
+         Doncaster Rovers         2-2 (1-1)  Burton Albion
+         Rochdale AFC             1-2 (1-2)  Bristol Rovers
+         Gillingham FC            0-3 (0-2)  Rotherham United
+         Milton Keynes Dons       1-3 (1-1)  Tranmere Rovers
+         Sunderland AFC           1-0 (1-0)  Southend United
+         Wycombe Wanderers        1-0 (0-0)  Shrewsbury Town
+         Portsmouth FC            1-1 (0-0)  Oxford United
 
 
 Matchday 7
 [Tue Nov/5]
-  Shrewsbury Town FC       1-0  Peterborough United FC
-  Portsmouth FC            4-1  Southend United FC
-  Rochdale AFC             0-1  Ipswich Town FC
+  19.45  Rochdale AFC             0-1 (0-0)  Ipswich Town
+         Shrewsbury Town          1-0 (1-0)  Peterborough United
+         Portsmouth FC            4-1 (1-0)  Southend United
 
 
 Matchday 18
 [Sat Nov/16]
-  Coventry City FC         2-1  Rochdale AFC
-  Rotherham United FC      1-0  Accrington Stanley FC
-  Blackpool FC             2-0  AFC Wimbledon
-  Gillingham FC            1-0  Lincoln City FC
-  Bolton Wanderers FC      1-0  Milton Keynes Dons FC
+  15.00  Gillingham FC            1-0 (1-0)  Lincoln City
+         Bolton Wanderers         1-0 (0-0)  Milton Keynes Dons
+         Blackpool FC             2-0 (0-0)  AFC Wimbledon
+         Rotherham United         1-0 (1-0)  Accrington Stanley
+         Coventry City            2-1 (1-1)  Rochdale AFC
 [Sun Nov/17]
-  Tranmere Rovers FC       0-2  Wycombe Wanderers FC
+  12.00  Tranmere Rovers          0-2 (0-2)  Wycombe Wanderers
 
 
 Matchday 19
 [Sat Nov/23]
-  Ipswich Town FC          2-2  Blackpool FC
-  Wycombe Wanderers FC     1-0  Doncaster Rovers FC
-  Southend United FC       0-4  Oxford United FC
-  Sunderland AFC           1-1  Coventry City FC
-  Milton Keynes Dons FC    2-3  Rotherham United FC
-  Shrewsbury Town FC       3-4  Bristol Rovers FC
-  Rochdale AFC             0-3  Portsmouth FC
-  Peterborough United FC   1-0  Burton Albion FC
-  AFC Wimbledon            1-0  Gillingham FC
-  Accrington Stanley FC    7-1  Bolton Wanderers FC
-  Fleetwood Town FC        2-1  Tranmere Rovers FC
+  15.00  Shrewsbury Town          3-4 (1-2)  Bristol Rovers
+         Southend United          0-4 (0-2)  Oxford United
+         Sunderland AFC           1-1 (0-1)  Coventry City
+         Accrington Stanley       7-1 (3-1)  Bolton Wanderers
+         Fleetwood Town           2-1 (1-0)  Tranmere Rovers
+         Wycombe Wanderers        1-0 (0-0)  Doncaster Rovers
+         AFC Wimbledon            1-0 (1-0)  Gillingham FC
+         Rochdale AFC             0-3 (0-1)  Portsmouth FC
+         Peterborough United      1-0 (0-0)  Burton Albion
+         Milton Keynes Dons       2-3 (2-0)  Rotherham United
+         Ipswich Town             2-2 (1-1)  Blackpool FC
+
+
+Matchday 13
+[Tue Nov/26]
+  19.45  Ipswich Town             0-0  Wycombe Wanderers
 
 
 Matchday 5
 [Tue Nov/26]
-  Portsmouth FC            3-2  Rotherham United FC
+  19.45  Portsmouth FC            3-2 (2-1)  Rotherham United
 
 
 Matchday 7
 [Tue Nov/26]
-  Sunderland AFC           1-2  Burton Albion FC
-
-
-Matchday 13
-[Tue Nov/26]
-  Ipswich Town FC          0-0  Wycombe Wanderers FC
+  19.45  Sunderland AFC           1-2 (1-1)  Burton Albion
 
 
 Matchday 18
 [Tue Dec/3]
-  Burton Albion FC         1-1  Southend United FC
+  19.45  Burton Albion            1-1 (0-1)  Southend United
 
 
 Matchday 20
 [Sat Dec/7]
-  Gillingham FC            1-0  Sunderland AFC
-  Portsmouth FC            2-2  Peterborough United FC
-  Oxford United FC         0-0  Shrewsbury Town FC
-  Doncaster Rovers FC      1-1  Milton Keynes Dons FC
-  Blackpool FC             3-1  Fleetwood Town FC
-  Coventry City FC         1-1  Ipswich Town FC
-  Rotherham United FC      0-1  Rochdale AFC
-  Burton Albion FC         0-2  Lincoln City FC
-  Bolton Wanderers FC      2-2  AFC Wimbledon
-  Bristol Rovers FC        4-2  Southend United FC
-  Tranmere Rovers FC       1-1  Accrington Stanley FC
+  15.00  Portsmouth FC            2-2 (1-1)  Peterborough United
+         Oxford United            0-0  Shrewsbury Town
+         Rotherham United         0-1 (0-1)  Rochdale AFC
+         Blackpool FC             3-1 (1-0)  Fleetwood Town
+         Gillingham FC            1-0 (0-0)  Sunderland AFC
+         Doncaster Rovers         1-1 (0-0)  Milton Keynes Dons
+         Coventry City            1-1 (0-1)  Ipswich Town
+         Burton Albion            0-2 (0-1)  Lincoln City
+         Bristol Rovers           4-2 (0-2)  Southend United
+         Tranmere Rovers          1-1 (1-1)  Accrington Stanley
+         Bolton Wanderers         2-2 (0-1)  AFC Wimbledon
 
 
 Matchday 21
 [Sat Dec/14]
-  Milton Keynes Dons FC    1-0  Oxford United FC
-  Fleetwood Town FC        1-1  Gillingham FC
-  Ipswich Town FC          1-2  Bristol Rovers FC
-  AFC Wimbledon            2-1  Doncaster Rovers FC
-  Peterborough United FC   1-0  Bolton Wanderers FC
-  Shrewsbury Town FC       2-1  Coventry City FC
-  Southend United FC       2-2  Rotherham United FC
-  Sunderland AFC           1-1  Blackpool FC
-  Wycombe Wanderers FC     2-0  Burton Albion FC
-  Accrington Stanley FC    4-1  Portsmouth FC
-  Lincoln City FC          1-0  Tranmere Rovers FC
+  15.00  Fleetwood Town           1-1 (0-0)  Gillingham FC
+         Ipswich Town             1-2 (1-2)  Bristol Rovers
+         Lincoln City             1-0 (0-0)  Tranmere Rovers
+         Milton Keynes Dons       1-0 (0-0)  Oxford United
+         Shrewsbury Town          2-1 (0-1)  Coventry City
+         Southend United          2-2 (0-1)  Rotherham United
+         Sunderland AFC           1-1 (1-1)  Blackpool FC
+         Wycombe Wanderers        2-0 (1-0)  Burton Albion
+         Peterborough United      1-0 (1-0)  Bolton Wanderers
+         AFC Wimbledon            2-1 (0-1)  Doncaster Rovers
+         Accrington Stanley       4-1 (1-1)  Portsmouth FC
 
 
 Matchday 22
 [Sat Dec/21]
-  Bolton Wanderers FC      3-2  Southend United FC
-  Tranmere Rovers FC       1-0  AFC Wimbledon
-  Rotherham United FC      2-2  Fleetwood Town FC
-  Blackpool FC             0-1  Shrewsbury Town FC
-  Oxford United FC         1-0  Wycombe Wanderers FC
-  Doncaster Rovers FC      1-1  Accrington Stanley FC
-  Coventry City FC         1-0  Lincoln City FC
-  Burton Albion FC         3-1  Rochdale AFC
-  Bristol Rovers FC        0-0  Peterborough United FC
-  Gillingham FC            3-1  Milton Keynes Dons FC
-  Portsmouth FC            1-0  Ipswich Town FC
+  15.00  Blackpool FC             0-1 (0-0)  Shrewsbury Town
+         Rotherham United         2-2 (0-1)  Fleetwood Town
+         Portsmouth FC            1-0 (0-0)  Ipswich Town
+         Oxford United            1-0 (1-0)  Wycombe Wanderers
+         Doncaster Rovers         1-1 (0-0)  Accrington Stanley
+         Coventry City            1-0 (1-0)  Lincoln City
+         Burton Albion            3-1 (2-1)  Rochdale AFC
+         Bristol Rovers           0-0  Peterborough United
+         Bolton Wanderers         3-2 (2-1)  Southend United
+  13.00  Gillingham FC            3-1 (2-0)  Milton Keynes Dons
+  15.00  Tranmere Rovers          1-0 (1-0)  AFC Wimbledon
 
 
 Matchday 23
 [Thu Dec/26]
-  Ipswich Town FC          0-0  Gillingham FC
-  Sunderland AFC           0-0  Bolton Wanderers FC
-  Southend United FC       2-2  Milton Keynes Dons FC
-  Shrewsbury Town FC       1-2  Rotherham United FC
-  Rochdale AFC             2-3  Fleetwood Town FC
-  Portsmouth FC            2-0  Wycombe Wanderers FC
-  Burton Albion FC         4-2  Tranmere Rovers FC
-  Peterborough United FC   0-3  Doncaster Rovers FC
-  Oxford United FC         1-0  Lincoln City FC
-  Blackpool FC             0-1  Accrington Stanley FC
-  Bristol Rovers FC        1-2  AFC Wimbledon
+  15.00  Southend United          2-2 (1-1)  Milton Keynes Dons
+         Shrewsbury Town          1-2 (0-0)  Rotherham United
+         Rochdale AFC             2-3 (1-0)  Fleetwood Town
+         Portsmouth FC            2-0 (0-0)  Wycombe Wanderers
+         Sunderland AFC           0-0  Bolton Wanderers
+         Peterborough United      0-3 (0-1)  Doncaster Rovers
+         Oxford United            1-0 (1-0)  Lincoln City
+         Ipswich Town             0-0  Gillingham FC
+         Burton Albion            4-2 (1-1)  Tranmere Rovers
+         Blackpool FC             0-1 (0-0)  Accrington Stanley
+         Bristol Rovers           1-2 (1-0)  AFC Wimbledon
 
 
 Matchday 24
 [Sun Dec/29]
-  Accrington Stanley FC    2-0  Burton Albion FC
-  Wycombe Wanderers FC     1-4  Coventry City FC
-  Tranmere Rovers FC       1-1  Blackpool FC
-  Rotherham United FC      4-0  Peterborough United FC
-  Milton Keynes Dons FC    3-1  Portsmouth FC
-  Lincoln City FC          5-3  Ipswich Town FC
-  Bolton Wanderers FC      1-1  Shrewsbury Town FC
-  Fleetwood Town FC        0-0  Bristol Rovers FC
-  Doncaster Rovers FC      1-2  Sunderland AFC
-  Gillingham FC            1-0  Rochdale AFC
-  AFC Wimbledon            1-2  Oxford United FC
+  15.00  Wycombe Wanderers        1-4 (1-3)  Coventry City
+         Tranmere Rovers          1-1 (1-1)  Blackpool FC
+         Rotherham United         4-0 (0-0)  Peterborough United
+         Milton Keynes Dons       3-1 (2-0)  Portsmouth FC
+         Lincoln City             5-3 (2-1)  Ipswich Town
+         Fleetwood Town           0-0  Bristol Rovers
+         Doncaster Rovers         1-2 (1-1)  Sunderland AFC
+         Bolton Wanderers         1-1 (1-0)  Shrewsbury Town
+         Accrington Stanley       2-0 (1-0)  Burton Albion
+  13.00  Gillingham FC            1-0 (0-0)  Rochdale AFC
+  15.00  AFC Wimbledon            1-2 (0-1)  Oxford United
 
 
 Matchday 25
 [Wed Jan/1]
-  Tranmere Rovers FC       1-4  Coventry City FC
-  Doncaster Rovers FC      1-0  Oxford United FC
-  Wycombe Wanderers FC     1-1  Ipswich Town FC
-  Bolton Wanderers FC      3-4  Burton Albion FC
-  Rotherham United FC      2-1  Blackpool FC
-  Milton Keynes Dons FC    3-0  Bristol Rovers FC
-  Accrington Stanley FC    1-2  Rochdale AFC
-  Gillingham FC            1-1  Portsmouth FC
-  Fleetwood Town FC        1-1  Sunderland AFC
-  AFC Wimbledon            1-1  Southend United FC
-  Lincoln City FC          2-1  Peterborough United FC
+  15.00  Wycombe Wanderers        1-1 (0-0)  Ipswich Town
+         Tranmere Rovers          1-4 (1-2)  Coventry City
+         Rotherham United         2-1 (1-1)  Blackpool FC
+         Milton Keynes Dons       3-0 (1-0)  Bristol Rovers
+         Lincoln City             2-1 (0-1)  Peterborough United
+         Gillingham FC            1-1 (0-1)  Portsmouth FC
+         Fleetwood Town           1-1 (1-0)  Sunderland AFC
+         Doncaster Rovers         1-0 (1-0)  Oxford United
+         Bolton Wanderers         3-4 (2-3)  Burton Albion
+         AFC Wimbledon            1-1 (1-0)  Southend United
+         Accrington Stanley       1-2 (0-1)  Rochdale AFC
 
 
 Matchday 26
 [Sat Jan/4]
-  Sunderland AFC           3-1  Lincoln City FC
+  15.00  Sunderland AFC           3-1 (3-0)  Lincoln City
 
 
 Matchday 18
 [Tue Jan/7]
-  Doncaster Rovers FC      2-0  Shrewsbury Town FC
+  19.45  Doncaster Rovers         2-0 (1-0)  Shrewsbury Town
 
 
 Matchday 27
 [Sat Jan/11]
-  Ipswich Town FC          4-1  Accrington Stanley FC
-  Southend United FC       0-0  Tranmere Rovers FC
-  Sunderland AFC           4-0  Wycombe Wanderers FC
-  Oxford United FC         1-3  Rotherham United FC
-  Coventry City FC         1-1  Milton Keynes Dons FC
-  Peterborough United FC   0-0  Gillingham FC
-  Burton Albion FC         1-0  Fleetwood Town FC
-  Bristol Rovers FC        0-2  Doncaster Rovers FC
-  Rochdale AFC             2-0  Bolton Wanderers FC
-  Portsmouth FC            2-1  AFC Wimbledon
-  Shrewsbury Town FC       1-1  Lincoln City FC
-
-
-Matchday 16
-[Tue Jan/14]
-  Lincoln City FC          5-1  Bolton Wanderers FC
-
-
-Matchday 18
-[Tue Jan/14]
-  Oxford United FC         0-0  Ipswich Town FC
+  15.00  Ipswich Town             4-1 (3-0)  Accrington Stanley
+         Oxford United            1-3 (0-3)  Rotherham United
+         Burton Albion            1-0 (0-0)  Fleetwood Town
+         Peterborough United      0-0  Gillingham FC
+         Portsmouth FC            2-1 (1-0)  AFC Wimbledon
+         Rochdale AFC             2-0 (1-0)  Bolton Wanderers
+         Bristol Rovers           0-2 (0-0)  Doncaster Rovers
+         Coventry City            1-1 (1-0)  Milton Keynes Dons
+         Shrewsbury Town          1-1 (1-0)  Lincoln City
+         Southend United          0-0  Tranmere Rovers
+         Sunderland AFC           4-0 (3-0)  Wycombe Wanderers
 
 
 Matchday 26
 [Tue Jan/14]
-  Burton Albion FC         1-0  Milton Keynes Dons FC
+  19.45  Burton Albion            1-0 (1-0)  Milton Keynes Dons
+
+
+Matchday 16
+[Tue Jan/14]
+  19.45  Lincoln City             5-1 (1-0)  Bolton Wanderers
+
+
+Matchday 18
+[Tue Jan/14]
+  19.45  Oxford United            0-0  Ipswich Town
 
 
 Matchday 28
 [Sat Jan/18]
-  Milton Keynes Dons FC    0-1  Sunderland AFC
-  Lincoln City FC          1-0  Blackpool FC
-  Gillingham FC            1-1  Oxford United FC
-  Fleetwood Town FC        2-2  Shrewsbury Town FC
-  Accrington Stanley FC    1-2  Southend United FC
-  Rotherham United FC      3-0  Bristol Rovers FC
-  Bolton Wanderers FC      0-1  Portsmouth FC
-  AFC Wimbledon            1-0  Peterborough United FC
-  Wycombe Wanderers FC     2-1  Rochdale AFC
-  Tranmere Rovers FC       1-2  Ipswich Town FC
-  Doncaster Rovers FC      0-1  Coventry City FC
+  15.00  Gillingham FC            1-1 (0-1)  Oxford United
+         Bolton Wanderers         0-1 (0-1)  Portsmouth FC
+         Wycombe Wanderers        2-1 (1-1)  Rochdale AFC
+         AFC Wimbledon            1-0 (0-0)  Peterborough United
+         Lincoln City             1-0 (0-0)  Blackpool FC
+         Milton Keynes Dons       0-1 (0-0)  Sunderland AFC
+         Rotherham United         3-0 (0-0)  Bristol Rovers
+         Doncaster Rovers         0-1 (0-1)  Coventry City
+         Tranmere Rovers          1-2 (1-0)  Ipswich Town
+         Fleetwood Town           2-2 (0-1)  Shrewsbury Town
+         Accrington Stanley       1-2 (1-1)  Southend United
 
 
 Matchday 26
 [Tue Jan/21]
-  Peterborough United FC   4-0  Wycombe Wanderers FC
+  19.45  Peterborough United      4-0 (2-0)  Wycombe Wanderers
 
 
 Matchday 29
 [Fri Jan/24]
-  Sunderland AFC           0-0  Doncaster Rovers FC
+  19.45  Sunderland AFC           0-0  Doncaster Rovers
 [Sat Jan/25]
-  Bristol Rovers FC        0-0  Fleetwood Town FC
-  Burton Albion FC         1-1  Accrington Stanley FC
-  Peterborough United FC   2-1  Rotherham United FC
-  Rochdale AFC             2-2  Gillingham FC
-  Ipswich Town FC          1-0  Lincoln City FC
+  15.00  Peterborough United      2-1 (2-1)  Rotherham United
+         Rochdale AFC             2-2 (1-1)  Gillingham FC
+         Burton Albion            1-1 (1-1)  Accrington Stanley
+         Bristol Rovers           0-0  Fleetwood Town
+         Ipswich Town             1-0 (1-0)  Lincoln City
 
 
 Matchday 30
 [Tue Jan/28]
-  Rotherham United FC      1-0  Ipswich Town FC
-  Accrington Stanley FC    0-2  Peterborough United FC
-  Wycombe Wanderers FC     2-1  Blackpool FC
-  AFC Wimbledon            2-2  Burton Albion FC
-  Doncaster Rovers FC      3-1  Southend United FC
-  Bolton Wanderers FC      1-1  Bristol Rovers FC
-  Lincoln City FC          0-2  Portsmouth FC
-  Fleetwood Town FC        0-0  Coventry City FC
-  Milton Keynes Dons FC    2-1  Rochdale AFC
+  19.45  AFC Wimbledon            2-2 (1-2)  Burton Albion
+         Accrington Stanley       0-2 (0-1)  Peterborough United
+         Doncaster Rovers         3-1 (2-0)  Southend United
+         Fleetwood Town           0-0  Coventry City
+         Lincoln City             0-2 (0-1)  Portsmouth FC
+         Milton Keynes Dons       2-1 (0-1)  Rochdale AFC
+         Rotherham United         1-0 (1-0)  Ipswich Town
+  20.00  Bolton Wanderers         1-1 (0-0)  Bristol Rovers
+  20.50  Wycombe Wanderers        2-1 (2-0)  Blackpool FC
 [Wed Jan/29]
-  Tranmere Rovers FC       0-1  Sunderland AFC
-  Gillingham FC            2-0  Shrewsbury Town FC
+  19.45  Gillingham FC            2-0 (2-0)  Shrewsbury Town
+         Tranmere Rovers          0-1 (0-0)  Sunderland AFC
 
 
 Matchday 31
 [Sat Feb/1]
-  Milton Keynes Dons FC    2-0  Wycombe Wanderers FC
-  Rotherham United FC      3-2  Burton Albion FC
-  Southend United FC       2-1  Lincoln City FC
-  Oxford United FC         2-1  Blackpool FC
-  Portsmouth FC            2-0  Sunderland AFC
-  Ipswich Town FC          1-4  Peterborough United FC
-  Fleetwood Town FC        2-1  Doncaster Rovers FC
-  Bolton Wanderers FC      2-0  Tranmere Rovers FC
-  Accrington Stanley FC    2-1  AFC Wimbledon
-  Rochdale AFC             1-0  Shrewsbury Town FC
-  Bristol Rovers FC        1-2  Coventry City FC
+  15.00  Rotherham United         3-2 (1-1)  Burton Albion
+         Portsmouth FC            2-0 (1-0)  Sunderland AFC
+         Oxford United            2-1 (2-1)  Blackpool FC
+         Milton Keynes Dons       2-0 (0-0)  Wycombe Wanderers
+         Southend United          2-1 (0-0)  Lincoln City
+         Fleetwood Town           2-1 (1-0)  Doncaster Rovers
+         Bristol Rovers           1-2 (1-2)  Coventry City
+         Bolton Wanderers         2-0 (1-0)  Tranmere Rovers
+         Accrington Stanley       2-1 (2-0)  AFC Wimbledon
+         Ipswich Town             1-4 (0-2)  Peterborough United
+         Rochdale AFC             1-0 (0-0)  Shrewsbury Town
 
 
 Matchday 16
 [Tue Feb/4]
-  Tranmere Rovers FC       0-3  Doncaster Rovers FC
+  19.45  Tranmere Rovers          0-3 (0-0)  Doncaster Rovers
 
 
 Matchday 32
 [Fri Feb/7]
-  Lincoln City FC          0-1  Rotherham United FC
+  19.45  Lincoln City             0-1 (0-0)  Rotherham United
 [Sat Feb/8]
-  Peterborough United FC   4-0  Oxford United FC
-  Sunderland AFC           1-0  Ipswich Town FC
-  Shrewsbury Town FC       1-1  Milton Keynes Dons FC
-  Tranmere Rovers FC       0-2  Portsmouth FC
-  Wycombe Wanderers FC     3-1  Bristol Rovers FC
-  Coventry City FC         2-1  Bolton Wanderers FC
-  Burton Albion FC         0-0  Gillingham FC
-  Blackpool FC             2-1  Southend United FC
-  AFC Wimbledon            1-2  Fleetwood Town FC
-  Doncaster Rovers FC      1-1  Rochdale AFC
+  15.00  AFC Wimbledon            1-2 (1-1)  Fleetwood Town
+         Blackpool FC             2-1 (1-0)  Southend United
+         Tranmere Rovers          0-2 (0-1)  Portsmouth FC
+         Coventry City            2-1 (1-0)  Bolton Wanderers
+         Doncaster Rovers         1-1 (1-0)  Rochdale AFC
+         Peterborough United      4-0 (1-0)  Oxford United
+         Shrewsbury Town          1-1 (0-0)  Milton Keynes Dons
+         Sunderland AFC           1-0 (0-0)  Ipswich Town
+         Wycombe Wanderers        3-1 (3-1)  Bristol Rovers
+         Burton Albion            0-0  Gillingham FC
 
 
 Matchday 33
 [Tue Feb/11]
-  Peterborough United FC   4-0  Southend United FC
-  Doncaster Rovers FC      2-1  Bolton Wanderers FC
-  Coventry City FC         1-0  Portsmouth FC
-  Burton Albion FC         2-2  Oxford United FC
-  Wycombe Wanderers FC     0-1  Fleetwood Town FC
-  AFC Wimbledon            0-0  Ipswich Town FC
-  Shrewsbury Town FC       0-2  Accrington Stanley FC
-  Sunderland AFC           3-0  Rochdale AFC
-  Lincoln City FC          1-1  Milton Keynes Dons FC
-  Tranmere Rovers FC       0-0  Bristol Rovers FC
-  Blackpool FC             2-3  Gillingham FC
+  19.45  AFC Wimbledon            0-0  Ipswich Town
+         Wycombe Wanderers        0-1 (0-0)  Fleetwood Town
+         Tranmere Rovers          0-0  Bristol Rovers
+         Sunderland AFC           3-0 (3-0)  Rochdale AFC
+         Blackpool FC             2-3 (1-0)  Gillingham FC
+         Shrewsbury Town          0-2 (0-1)  Accrington Stanley
+         Burton Albion            2-2 (1-0)  Oxford United
+         Coventry City            1-0 (0-0)  Portsmouth FC
+         Doncaster Rovers         2-1 (1-0)  Bolton Wanderers
+         Lincoln City             1-1 (1-1)  Milton Keynes Dons
+         Peterborough United      4-0 (0-0)  Southend United
 
 
 Matchday 34
 [Sat Feb/15]
-  Accrington Stanley FC    4-3  Lincoln City FC
-  Bolton Wanderers FC      0-2  Wycombe Wanderers FC
-  Oxford United FC         0-1  Sunderland AFC
-  Bristol Rovers FC        2-1  Blackpool FC
-  Fleetwood Town FC        2-1  Peterborough United FC
-  Gillingham FC            2-1  Doncaster Rovers FC
-  Portsmouth FC            2-0  Shrewsbury Town FC
-  Southend United FC       0-2  Coventry City FC
-  Rotherham United FC      2-2  AFC Wimbledon
-  Ipswich Town FC          4-1  Burton Albion FC
+  15.00  Fleetwood Town           2-1 (1-0)  Peterborough United
+         Bristol Rovers           2-1 (0-1)  Blackpool FC
+         Bolton Wanderers         0-2 (0-1)  Wycombe Wanderers
+         Accrington Stanley       4-3 (1-1)  Lincoln City
+         Rotherham United         2-2 (0-1)  AFC Wimbledon
+         Portsmouth FC            2-0 (0-0)  Shrewsbury Town
+         Oxford United            0-1 (0-1)  Sunderland AFC
+         Ipswich Town             4-1 (2-1)  Burton Albion
+         Southend United          0-2 (0-0)  Coventry City
+         Gillingham FC            2-1 (1-1)  Doncaster Rovers
 
 
 Matchday 26
 [Tue Feb/18]
-  Southend United FC       0-1  Gillingham FC
+  19.45  Southend United          0-1 (0-0)  Gillingham FC
 
 
 Matchday 29
 [Tue Feb/18]
-  Oxford United FC         5-0  AFC Wimbledon
+  19.45  Oxford United            5-0 (2-0)  AFC Wimbledon
 
 
 Matchday 35
 [Sat Feb/22]
-  Shrewsbury Town FC       1-0  Doncaster Rovers FC
-  Ipswich Town FC          0-1  Oxford United FC
-  Sunderland AFC           3-0  Bristol Rovers FC
-  Southend United FC       2-3  Burton Albion FC
-  Rochdale AFC             1-2  Coventry City FC
-  Milton Keynes Dons FC    1-0  Bolton Wanderers FC
-  Wycombe Wanderers FC     3-1  Tranmere Rovers FC
-  Fleetwood Town FC        1-0  Portsmouth FC
-  Accrington Stanley FC    1-2  Rotherham United FC
-  AFC Wimbledon            0-0  Blackpool FC
-  Lincoln City FC          0-0  Gillingham FC
+  15.00  Sunderland AFC           3-0 (0-0)  Bristol Rovers
+         Wycombe Wanderers        3-1 (1-0)  Tranmere Rovers
+         Milton Keynes Dons       1-0 (0-0)  Bolton Wanderers
+         Lincoln City             0-0  Gillingham FC
+         Shrewsbury Town          1-0 (0-0)  Doncaster Rovers
+         Southend United          2-3 (1-1)  Burton Albion
+         Ipswich Town             0-1 (0-1)  Oxford United
+         Fleetwood Town           1-0 (1-0)  Portsmouth FC
+         Accrington Stanley       1-2 (0-0)  Rotherham United
+         AFC Wimbledon            0-0  Blackpool FC
+         Rochdale AFC             1-2 (0-1)  Coventry City
 
 
 Matchday 13
 [Tue Feb/25]
-  Sunderland AFC           1-1  Fleetwood Town FC
+  19.45  Sunderland AFC           1-1 (0-1)  Fleetwood Town
 
 
 Matchday 26
 [Tue Feb/25]
-  Oxford United FC         3-0  Accrington Stanley FC
-  Shrewsbury Town FC       2-3  Tranmere Rovers FC
-  Coventry City FC         1-1  Rotherham United FC
-  Blackpool FC             2-1  Bolton Wanderers FC
+  19.45  Blackpool FC             2-1 (1-0)  Bolton Wanderers
 
 
 Matchday 29
 [Tue Feb/25]
-  Portsmouth FC            3-1  Milton Keynes Dons FC
+  19.45  Portsmouth FC            3-1 (1-1)  Milton Keynes Dons
+
+
+Matchday 26
+[Tue Feb/25]
+  19.45  Coventry City            1-1 (0-1)  Rotherham United
+         Oxford United            3-0 (1-0)  Accrington Stanley
+         Shrewsbury Town          2-3 (0-2)  Tranmere Rovers
 
 
 Matchday 36
 [Fri Feb/28]
-  Portsmouth FC            3-0  Rochdale AFC
+  19.45  Portsmouth FC            3-0 (1-0)  Rochdale AFC
 [Sat Feb/29]
-  Blackpool FC             2-1  Ipswich Town FC
-  Rotherham United FC      1-1  Milton Keynes Dons FC
-  Gillingham FC            1-2  AFC Wimbledon
-  Bristol Rovers FC        0-1  Shrewsbury Town FC
-  Oxford United FC         2-1  Southend United FC
-  Burton Albion FC         1-1  Peterborough United FC
-  Doncaster Rovers FC      3-1  Wycombe Wanderers FC
-  Bolton Wanderers FC      0-0  Accrington Stanley FC
+  15.00  Bolton Wanderers         0-0  Accrington Stanley
+         Bristol Rovers           0-1 (0-0)  Shrewsbury Town
+         Burton Albion            1-1 (0-0)  Peterborough United
+         Doncaster Rovers         3-1 (1-0)  Wycombe Wanderers
+         Gillingham FC            1-2 (0-0)  AFC Wimbledon
+         Blackpool FC             2-1 (1-0)  Ipswich Town
+         Oxford United            2-1 (1-1)  Southend United
+         Rotherham United         1-1 (1-1)  Milton Keynes Dons
 [Sun Mar/1]
-  Coventry City FC         1-0  Sunderland AFC
+  12.00  Coventry City            1-0 (1-0)  Sunderland AFC
 
 
 Matchday 26
 [Tue Mar/3]
-  Ipswich Town FC          0-1  Fleetwood Town FC
+  19.45  Ipswich Town             0-1 (0-1)  Fleetwood Town
 
 
 Matchday 37
 [Sat Mar/7]
-  Southend United FC       3-1  Bristol Rovers FC
-  Accrington Stanley FC    1-2  Tranmere Rovers FC
-  Fleetwood Town FC        0-0  Blackpool FC
-  Sunderland AFC           2-2  Gillingham FC
-  Ipswich Town FC          0-1  Coventry City FC
-  AFC Wimbledon            0-0  Bolton Wanderers FC
-  Rochdale AFC             3-1  Rotherham United FC
-  Peterborough United FC   2-0  Portsmouth FC
-  Milton Keynes Dons FC    0-1  Doncaster Rovers FC
-  Lincoln City FC          3-2  Burton Albion FC
-  Shrewsbury Town FC       2-3  Oxford United FC
-
-
-Matchday 13
-[Tue Mar/10]
-  Burton Albion FC         2-2  Bolton Wanderers FC
+  15.00  Accrington Stanley       1-2 (0-1)  Tranmere Rovers
+         AFC Wimbledon            0-0  Bolton Wanderers
+         Ipswich Town             0-1 (0-1)  Coventry City
+         Southend United          3-1 (1-0)  Bristol Rovers
+         Milton Keynes Dons       0-1 (0-0)  Doncaster Rovers
+         Shrewsbury Town          2-3 (2-1)  Oxford United
+         Fleetwood Town           0-0  Blackpool FC
+         Rochdale AFC             3-1 (1-0)  Rotherham United
+         Sunderland AFC           2-2 (0-0)  Gillingham FC
+         Peterborough United      2-0 (1-0)  Portsmouth FC
+         Lincoln City             3-2 (2-2)  Burton Albion
 
 
 Matchday 18
 [Tue Mar/10]
-  Bristol Rovers FC        2-0  Sunderland AFC
-  Portsmouth FC            2-2  Fleetwood Town FC
+  19.45  Portsmouth FC            2-2 (1-1)  Fleetwood Town
 
 
 Matchday 29
 [Tue Mar/10]
-  Blackpool FC             1-2  Tranmere Rovers FC
+  19.45  Blackpool FC             1-2 (0-2)  Tranmere Rovers
+
+
+Matchday 18
+[Tue Mar/10]
+  19.45  Bristol Rovers           2-0 (1-0)  Sunderland AFC
+
+
+Matchday 13
+[Tue Mar/10]
+  19.45  Burton Albion            2-2 (1-2)  Bolton Wanderers
 
 
 Matchday 38
 [Sat Mar/14]
-  Gillingham FC            -  Fleetwood Town FC
-  Tranmere Rovers FC       -  Lincoln City FC
-  Oxford United FC         -  Milton Keynes Dons FC
-  Blackpool FC             -  Sunderland AFC
-  Rotherham United FC      -  Southend United FC
-  Portsmouth FC            -  Accrington Stanley FC
-  Coventry City FC         -  Shrewsbury Town FC
-  Burton Albion FC         -  Wycombe Wanderers FC
-  Bolton Wanderers FC      -  Peterborough United FC
-  Bristol Rovers FC        -  Ipswich Town FC
-  Doncaster Rovers FC      -  AFC Wimbledon
+  Bristol Rovers           -  Ipswich Town             [cancelled]
+  Rotherham United         -  Southend United          [cancelled]
+  Portsmouth FC            -  Accrington Stanley       [cancelled]
+  Oxford United            -  Milton Keynes Dons       [cancelled]
+  Gillingham FC            -  Fleetwood Town           [cancelled]
+  Doncaster Rovers         -  AFC Wimbledon            [cancelled]
+  Coventry City            -  Shrewsbury Town          [cancelled]
+  Blackpool FC             -  Sunderland AFC           [cancelled]
+  Bolton Wanderers         -  Peterborough United      [cancelled]
+  Tranmere Rovers          -  Lincoln City             [cancelled]
+  Burton Albion            -  Wycombe Wanderers        [cancelled]
 
 
 Matchday 26
 [Tue Mar/17]
-  Portsmouth FC            -  Doncaster Rovers FC
+  Portsmouth FC            -  Doncaster Rovers         [cancelled]
 
 
 Matchday 34
 [Tue Mar/17]
-  Rochdale AFC             -  Tranmere Rovers FC
+  Rochdale AFC             -  Tranmere Rovers          [cancelled]
 
 
 Matchday 39
 [Sat Mar/21]
-  Shrewsbury Town FC       -  Blackpool FC
-  Rochdale AFC             -  Burton Albion FC
-  Milton Keynes Dons FC    -  Gillingham FC
-  Southend United FC       -  Bolton Wanderers FC
-  Lincoln City FC          -  Coventry City FC
-  AFC Wimbledon            -  Tranmere Rovers FC
-  Accrington Stanley FC    -  Doncaster Rovers FC
-  Fleetwood Town FC        -  Rotherham United FC
-  Ipswich Town FC          -  Portsmouth FC
-  Peterborough United FC   -  Bristol Rovers FC
-  Wycombe Wanderers FC     -  Oxford United FC
+  Southend United          -  Bolton Wanderers         [cancelled]
+  Wycombe Wanderers        -  Oxford United            [cancelled]
+  Shrewsbury Town          -  Blackpool FC             [cancelled]
+  Rochdale AFC             -  Burton Albion            [cancelled]
+  Peterborough United      -  Bristol Rovers           [cancelled]
+  AFC Wimbledon            -  Tranmere Rovers          [cancelled]
+  Accrington Stanley       -  Doncaster Rovers         [cancelled]
+  Fleetwood Town           -  Rotherham United         [cancelled]
+  Ipswich Town             -  Portsmouth FC            [cancelled]
+  Lincoln City             -  Coventry City            [cancelled]
+  Milton Keynes Dons       -  Gillingham FC            [cancelled]
 
 
-Matchday 4
+Matchday 29
 [Tue Mar/24]
-  Bolton Wanderers FC      -  Doncaster Rovers FC
+  Coventry City            -  Wycombe Wanderers        [cancelled]
 
 
 Matchday 26
 [Tue Mar/24]
-  Rochdale AFC             -  AFC Wimbledon
+  Rochdale AFC             -  AFC Wimbledon            [cancelled]
 
 
-Matchday 29
+Matchday 4
 [Tue Mar/24]
-  Coventry City FC         -  Wycombe Wanderers FC
+  Bolton Wanderers         -  Doncaster Rovers         [cancelled]
 
 
 Matchday 40
 [Sat Mar/28]
-  Accrington Stanley FC    -  Coventry City FC
-  Tranmere Rovers FC       -  Milton Keynes Dons FC
-  Bristol Rovers FC        -  Rochdale AFC
-  Southend United FC       -  Sunderland AFC
-  Burton Albion FC         -  Doncaster Rovers FC
-  Fleetwood Town FC        -  Bolton Wanderers FC
-  Lincoln City FC          -  AFC Wimbledon
-  Oxford United FC         -  Portsmouth FC
-  Shrewsbury Town FC       -  Wycombe Wanderers FC
+  Tranmere Rovers          -  Milton Keynes Dons       [cancelled]
+  Southend United          -  Sunderland AFC           [cancelled]
+  Accrington Stanley       -  Coventry City            [cancelled]
+  Bristol Rovers           -  Rochdale AFC             [cancelled]
+  Burton Albion            -  Doncaster Rovers         [cancelled]
+  Fleetwood Town           -  Bolton Wanderers         [cancelled]
+  Lincoln City             -  AFC Wimbledon            [cancelled]
+  Oxford United            -  Portsmouth FC            [cancelled]
+  Shrewsbury Town          -  Wycombe Wanderers        [cancelled]
 [Sun Mar/29]
-  Rotherham United FC      -  Gillingham FC
-  Peterborough United FC   -  Blackpool FC
+  Peterborough United      -  Blackpool FC             [cancelled]
+  Rotherham United         -  Gillingham FC            [cancelled]
 
 
 Matchday 41
 [Sat Apr/4]
-  Bolton Wanderers FC      -  Lincoln City FC
-  Sunderland AFC           -  Shrewsbury Town FC
-  Blackpool FC             -  Burton Albion FC
-  Coventry City FC         -  Peterborough United FC
-  Wycombe Wanderers FC     -  Rotherham United FC
-  Doncaster Rovers FC      -  Tranmere Rovers FC
-  Rochdale AFC             -  Oxford United FC
-  Ipswich Town FC          -  Southend United FC
-  Milton Keynes Dons FC    -  Fleetwood Town FC
-  Gillingham FC            -  Accrington Stanley FC
+  Coventry City            -  Peterborough United      [cancelled]
+  Sunderland AFC           -  Shrewsbury Town          [cancelled]
+  Blackpool FC             -  Burton Albion            [cancelled]
+  Bolton Wanderers         -  Lincoln City             [cancelled]
+  Rochdale AFC             -  Oxford United            [cancelled]
+  Doncaster Rovers         -  Tranmere Rovers          [cancelled]
+  Gillingham FC            -  Accrington Stanley       [cancelled]
+  Ipswich Town             -  Southend United          [cancelled]
+  Milton Keynes Dons       -  Fleetwood Town           [cancelled]
+  Wycombe Wanderers        -  Rotherham United         [cancelled]
 
 
 Matchday 42
 [Fri Apr/10]
-  AFC Wimbledon            -  Sunderland AFC
-  Peterborough United FC   -  Milton Keynes Dons FC
-  Southend United FC       -  Wycombe Wanderers FC
-  Rotherham United FC      -  Portsmouth FC
-  Accrington Stanley FC    -  Fleetwood Town FC
-  Blackpool FC             -  Rochdale AFC
-  Burton Albion FC         -  Shrewsbury Town FC
-  Gillingham FC            -  Coventry City FC
-  Ipswich Town FC          -  Bolton Wanderers FC
-  Lincoln City FC          -  Doncaster Rovers FC
-  Oxford United FC         -  Bristol Rovers FC
+  Southend United          -  Wycombe Wanderers        [cancelled]
+  Blackpool FC             -  Rochdale AFC             [cancelled]
+  Rotherham United         -  Portsmouth FC            [cancelled]
+  AFC Wimbledon            -  Sunderland AFC           [cancelled]
+  Accrington Stanley       -  Fleetwood Town           [cancelled]
+  Peterborough United      -  Milton Keynes Dons       [cancelled]
+  Burton Albion            -  Shrewsbury Town          [cancelled]
+  Gillingham FC            -  Coventry City            [cancelled]
+  Ipswich Town             -  Bolton Wanderers         [cancelled]
+  Lincoln City             -  Doncaster Rovers         [cancelled]
+  Oxford United            -  Bristol Rovers           [cancelled]
 
 
 Matchday 43
 [Mon Apr/13]
-  Milton Keynes Dons FC    -  Accrington Stanley FC
-  Wycombe Wanderers FC     -  AFC Wimbledon
-  Sunderland AFC           -  Peterborough United FC
-  Bristol Rovers FC        -  Burton Albion FC
-  Coventry City FC         -  Oxford United FC
-  Tranmere Rovers FC       -  Rotherham United FC
-  Shrewsbury Town FC       -  Ipswich Town FC
-  Portsmouth FC            -  Blackpool FC
-  Rochdale AFC             -  Southend United FC
-  Fleetwood Town FC        -  Lincoln City FC
+  Wycombe Wanderers        -  AFC Wimbledon            [cancelled]
+  Tranmere Rovers          -  Rotherham United         [cancelled]
+  Sunderland AFC           -  Peterborough United      [cancelled]
+  Bristol Rovers           -  Burton Albion            [cancelled]
+  Coventry City            -  Oxford United            [cancelled]
+  Fleetwood Town           -  Lincoln City             [cancelled]
+  Milton Keynes Dons       -  Accrington Stanley       [cancelled]
+  Portsmouth FC            -  Blackpool FC             [cancelled]
+  Rochdale AFC             -  Southend United          [cancelled]
+  Shrewsbury Town          -  Ipswich Town             [cancelled]
 [Tue Apr/14]
-  Bolton Wanderers FC      -  Gillingham FC
+  Bolton Wanderers         -  Gillingham FC            [cancelled]
 
 
 Matchday 44
 [Sat Apr/18]
-  Accrington Stanley FC    -  Bristol Rovers FC
-  Peterborough United FC   -  Shrewsbury Town FC
-  Rotherham United FC      -  Doncaster Rovers FC
-  AFC Wimbledon            -  Milton Keynes Dons FC
-  Southend United FC       -  Portsmouth FC
-  Blackpool FC             -  Coventry City FC
-  Burton Albion FC         -  Sunderland AFC
-  Oxford United FC         -  Fleetwood Town FC
-  Ipswich Town FC          -  Rochdale AFC
-  Lincoln City FC          -  Wycombe Wanderers FC
-  Gillingham FC            -  Tranmere Rovers FC
-
-
-Matchday 29
-[Tue Apr/21]
-  Shrewsbury Town FC       -  Bolton Wanderers FC
-
-
-Matchday 36
-[Tue Apr/21]
-  Tranmere Rovers FC       -  Fleetwood Town FC
+  Southend United          -  Portsmouth FC            [cancelled]
+  Rotherham United         -  Doncaster Rovers         [cancelled]
+  Peterborough United      -  Shrewsbury Town          [cancelled]
+  AFC Wimbledon            -  Milton Keynes Dons       [cancelled]
+  Accrington Stanley       -  Bristol Rovers           [cancelled]
+  Blackpool FC             -  Coventry City            [cancelled]
+  Burton Albion            -  Sunderland AFC           [cancelled]
+  Gillingham FC            -  Tranmere Rovers          [cancelled]
+  Ipswich Town             -  Rochdale AFC             [cancelled]
+  Lincoln City             -  Wycombe Wanderers        [cancelled]
+  Oxford United            -  Fleetwood Town           [cancelled]
 
 
 Matchday 41
 [Tue Apr/21]
-  Portsmouth FC            -  Bristol Rovers FC
+  Portsmouth FC            -  Bristol Rovers           [cancelled]
+
+
+Matchday 36
+[Tue Apr/21]
+  Tranmere Rovers          -  Fleetwood Town           [cancelled]
+
+
+Matchday 29
+[Tue Apr/21]
+  Shrewsbury Town          -  Bolton Wanderers         [cancelled]
 
 
 Matchday 45
 [Sat Apr/25]
-  Doncaster Rovers FC      -  Ipswich Town FC
-  Bristol Rovers FC        -  Lincoln City FC
-  Coventry City FC         -  Burton Albion FC
-  Fleetwood Town FC        -  Southend United FC
-  Bolton Wanderers FC      -  Rotherham United FC
-  Milton Keynes Dons FC    -  Blackpool FC
-  Rochdale AFC             -  Peterborough United FC
-  Shrewsbury Town FC       -  AFC Wimbledon
-  Sunderland AFC           -  Accrington Stanley FC
-  Wycombe Wanderers FC     -  Gillingham FC
-  Tranmere Rovers FC       -  Oxford United FC
+  Bolton Wanderers         -  Rotherham United         [cancelled]
+  Bristol Rovers           -  Lincoln City             [cancelled]
+  Coventry City            -  Burton Albion            [cancelled]
+  Doncaster Rovers         -  Ipswich Town             [cancelled]
+  Fleetwood Town           -  Southend United          [cancelled]
+  Milton Keynes Dons       -  Blackpool FC             [cancelled]
+  Rochdale AFC             -  Peterborough United      [cancelled]
+  Shrewsbury Town          -  AFC Wimbledon            [cancelled]
+  Sunderland AFC           -  Accrington Stanley       [cancelled]
+  Tranmere Rovers          -  Oxford United            [cancelled]
+  Wycombe Wanderers        -  Gillingham FC            [cancelled]
 
 
 Matchday 46
 [Sun May/3]
-  AFC Wimbledon            -  Coventry City FC
-  Accrington Stanley FC    -  Wycombe Wanderers FC
-  Blackpool FC             -  Doncaster Rovers FC
-  Burton Albion FC         -  Portsmouth FC
-  Gillingham FC            -  Bristol Rovers FC
-  Ipswich Town FC          -  Milton Keynes Dons FC
-  Lincoln City FC          -  Rochdale AFC
-  Oxford United FC         -  Bolton Wanderers FC
-  Peterborough United FC   -  Tranmere Rovers FC
-  Rotherham United FC      -  Sunderland AFC
-  Southend United FC       -  Shrewsbury Town FC
+  AFC Wimbledon            -  Coventry City            [cancelled]
+  Accrington Stanley       -  Wycombe Wanderers        [cancelled]
+  Blackpool FC             -  Doncaster Rovers         [cancelled]
+  Burton Albion            -  Portsmouth FC            [cancelled]
+  Gillingham FC            -  Bristol Rovers           [cancelled]
+  Ipswich Town             -  Milton Keynes Dons       [cancelled]
+  Lincoln City             -  Rochdale AFC             [cancelled]
+  Oxford United            -  Bolton Wanderers         [cancelled]
+  Peterborough United      -  Tranmere Rovers          [cancelled]
+  Rotherham United         -  Sunderland AFC           [cancelled]
+  Southend United          -  Shrewsbury Town          [cancelled]
