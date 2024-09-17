@@ -90,7 +90,7 @@ Matchday 1
 ## Build Your Own `england.db` Copy
 
 Use the `sportdb` command line tool to build your own `england.db` copy
-from the datasets in plain text. 
+from the datasets in plain text.
 
 Note:  The English Premier League includes teams from Wales
 (e.g. Swansea City or Cardiff City).
@@ -158,7 +158,7 @@ $ football-to-sqlite premier.db 2020-21/1-premierleague.txt  \
                                 2016-17/1-premierleague.txt
 ```
 
-Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist, 
+Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist,
 they get auto-created on the first run.
 
 [More »](https://github.com/sportdb/football.db/tree/master/football-to-sqlite)
@@ -168,13 +168,11 @@ they get auto-created on the first run.
 
 ## License
 
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
 The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
+
