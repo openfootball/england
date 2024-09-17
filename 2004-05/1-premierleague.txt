@@ -1,623 +1,628 @@
 = English Premier League 2004/05
 
+# Date       Sat Aug/14 2004 - Sun May/15 2005 (274d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Sat Aug/14]
-  Tottenham                1-1  Liverpool
-  Portsmouth               1-1  Birmingham
-  Norwich                  1-1  Crystal Palace
-  Manchester City          1-1  Fulham
-  Middlesbrough            2-2  Newcastle Utd
-  Blackburn                1-1  West Brom
-  Aston Villa              2-0  Southampton
-  Bolton                   4-1  Charlton
+  12.45  Tottenham Hotspur        1-1 (1-1)  Liverpool FC
+  15.00  Aston Villa              2-0 (2-0)  Southampton FC
+         Blackburn Rovers         1-1 (1-1)  West Bromwich Albion
+         Bolton Wanderers         4-1 (4-1)  Charlton Athletic
+         Manchester City          1-1 (1-1)  Fulham FC
+         Norwich City             1-1 (1-1)  Crystal Palace
+         Portsmouth FC            1-1 (1-1)  Birmingham City
+  17.15  Middlesbrough FC         2-2 (2-2)  Newcastle United
 [Sun Aug/15]
-  Chelsea                  1-0  Manchester United
-  Everton                  1-4  Arsenal
+  16.05  Chelsea FC               1-0 (1-0)  Manchester United
+  14.00  Everton FC               1-4 (1-4)  Arsenal FC
 
 
 Matchday 2
 [Sat Aug/21]
-  Southampton              3-2  Blackburn
-  Newcastle Utd            0-1  Tottenham
-  Liverpool                2-1  Manchester City
-  Manchester United        2-1  Norwich
-  Crystal Palace           1-3  Everton
-  Charlton                 2-1  Portsmouth
-  Birmingham               0-1  Chelsea
-  Fulham                   2-0  Bolton
+  12.45  Southampton FC           3-2 (3-2)  Blackburn Rovers
+  15.00  Birmingham City          0-1 (0-1)  Chelsea FC
+         Charlton Athletic        2-1 (2-1)  Portsmouth FC
+         Crystal Palace           1-3 (1-3)  Everton FC
+         Fulham FC                2-0 (2-0)  Bolton Wanderers
+         Liverpool FC             2-1 (2-1)  Manchester City
+         Newcastle United         0-1 (0-1)  Tottenham Hotspur
+  17.15  Manchester United        2-1 (2-1)  Norwich City
 [Sun Aug/22]
-  West Brom                1-1  Aston Villa
-  Arsenal                  5-3  Middlesbrough
+  16.05  Arsenal FC               5-3 (5-3)  Middlesbrough FC
+  13.00  West Bromwich Albion     1-1 (1-1)  Aston Villa
 
 
 Matchday 3
 [Tue Aug/24]
-  Birmingham               1-0  Manchester City
-  Crystal Palace           0-2  Chelsea
+  19.45  Birmingham City          1-0 (1-0)  Manchester City
+  20.00  Crystal Palace           0-2 (0-2)  Chelsea FC
 [Wed Aug/25]
-  West Brom                1-1  Tottenham
-  Charlton                 3-0  Aston Villa
-  Fulham                   0-2  Middlesbrough
-  Arsenal                  3-0  Blackburn
-  Newcastle Utd            2-2  Norwich
-  Southampton              1-2  Bolton
+  19.45  West Bromwich Albion     1-1 (1-1)  Tottenham Hotspur
+         Fulham FC                0-2 (0-2)  Middlesbrough FC
+         Southampton FC           1-2 (1-2)  Bolton Wanderers
+  20.00  Charlton Athletic        3-0 (3-0)  Aston Villa
+         Newcastle United         2-2 (2-2)  Norwich City
+  19.45  Arsenal FC               3-0 (3-0)  Blackburn Rovers
 
 
 Matchday 4
 [Sat Aug/28]
-  Blackburn                1-1  Manchester United
-  Tottenham                1-0  Birmingham
-  Middlesbrough            2-1  Crystal Palace
-  Manchester City          4-0  Charlton
-  Norwich                  1-4  Arsenal
-  Chelsea                  2-1  Southampton
-  Aston Villa              4-2  Newcastle Utd
-  Everton                  2-1  West Brom
+  17.15  Norwich City             1-4 (1-4)  Arsenal FC
+  15.00  Tottenham Hotspur        1-0 (1-0)  Birmingham City
+  12.45  Blackburn Rovers         1-1 (1-1)  Manchester United
+  15.00  Aston Villa              4-2 (4-2)  Newcastle United
+         Chelsea FC               2-1 (2-1)  Southampton FC
+         Everton FC               2-1 (2-1)  West Bromwich Albion
+         Manchester City          4-0 (4-0)  Charlton Athletic
+         Middlesbrough FC         2-1 (2-1)  Crystal Palace
 [Sun Aug/29]
-  Bolton                   1-0  Liverpool
+  16.05  Bolton Wanderers         1-0 (1-0)  Liverpool FC
 
 
 Matchday 3
 [Mon Aug/30]
-  Manchester United        0-0  Everton
+  12.00  Manchester United        0-0  Everton FC
 
 
 Matchday 4
 [Mon Aug/30]
-  Portsmouth               4-3  Fulham
+  20.00  Portsmouth FC            4-3 (4-3)  Fulham FC
 
 
 Matchday 5
 [Sat Sep/11]
-  Manchester City          0-1  Everton
-  Newcastle Utd            3-0  Blackburn
-  Middlesbrough            2-1  Birmingham
-  Aston Villa              0-0  Chelsea
-  Liverpool                3-0  West Brom
-  Fulham                   0-3  Arsenal
-  Bolton                   2-2  Manchester United
-  Portsmouth               3-1  Crystal Palace
+  17.15  Portsmouth FC            3-1 (3-1)  Crystal Palace
+  12.45  Aston Villa              0-0  Chelsea FC
+  15.00  Bolton Wanderers         2-2 (2-2)  Manchester United
+         Fulham FC                0-3 (0-3)  Arsenal FC
+         Liverpool FC             3-0 (3-0)  West Bromwich Albion
+         Manchester City          0-1 (0-1)  Everton FC
+         Middlesbrough FC         2-1 (2-1)  Birmingham City
+         Newcastle United         3-0 (3-0)  Blackburn Rovers
 [Sun Sep/12]
-  Tottenham                0-0  Norwich
+  16.05  Tottenham Hotspur        0-0  Norwich City
 [Mon Sep/13]
-  Charlton                 0-0  Southampton
+  20.00  Charlton Athletic        0-0  Southampton FC
 
 
 Matchday 6
 [Sat Sep/18]
-  Arsenal                  2-2  Bolton
-  West Brom                1-1  Fulham
-  Norwich                  0-0  Aston Villa
-  Birmingham               1-1  Charlton
-  Blackburn                1-0  Portsmouth
-  Crystal Palace           1-2  Manchester City
+  15.00  Crystal Palace           1-2 (1-2)  Manchester City
+  12.45  Arsenal FC               2-2 (2-2)  Bolton Wanderers
+  15.00  Birmingham City          1-1 (1-1)  Charlton Athletic
+         Blackburn Rovers         1-0 (1-0)  Portsmouth FC
+         Norwich City             0-0  Aston Villa
+         West Bromwich Albion     1-1 (1-1)  Fulham FC
 [Sun Sep/19]
-  Southampton              1-2  Newcastle Utd
-  Everton                  1-0  Middlesbrough
-  Chelsea                  0-0  Tottenham
+  15.00  Everton FC               1-0 (1-0)  Middlesbrough FC
+  14.00  Southampton FC           1-2 (1-2)  Newcastle United
+  16.05  Chelsea FC               0-0  Tottenham Hotspur
 [Mon Sep/20]
-  Manchester United        2-1  Liverpool
+  20.00  Manchester United        2-1 (2-1)  Liverpool FC
 
 
 Matchday 7
 [Sat Sep/25]
-  Manchester City          0-1  Arsenal
-  Tottenham                0-1  Manchester United
-  Bolton                   1-1  Birmingham
-  Middlesbrough            0-1  Chelsea
-  Liverpool                3-0  Norwich
-  Fulham                   1-0  Southampton
-  Aston Villa              1-1  Crystal Palace
-  Newcastle Utd            3-1  West Brom
+  17.15  Bolton Wanderers         1-1 (1-1)  Birmingham City
+  12.45  Middlesbrough FC         0-1 (0-1)  Chelsea FC
+  15.00  Aston Villa              1-1 (1-1)  Crystal Palace
+         Fulham FC                1-0 (1-0)  Southampton FC
+         Liverpool FC             3-0 (3-0)  Norwich City
+         Manchester City          0-1 (0-1)  Arsenal FC
+         Newcastle United         3-1 (3-1)  West Bromwich Albion
+         Tottenham Hotspur        0-1 (0-1)  Manchester United
 [Sun Sep/26]
-  Portsmouth               0-1  Everton
+  16.05  Portsmouth FC            0-1 (0-1)  Everton FC
 [Mon Sep/27]
-  Charlton                 1-0  Blackburn
+  20.00  Charlton Athletic        1-0 (1-0)  Blackburn Rovers
 
 
 Matchday 8
 [Sat Oct/2]
-  Norwich                  2-2  Portsmouth
-  Southampton              0-0  Manchester City
-  West Brom                2-1  Bolton
-  Blackburn                2-2  Aston Villa
-  Arsenal                  4-0  Charlton
-  Everton                  0-1  Tottenham
+  12.45  Southampton FC           0-0  Manchester City
+  15.00  Arsenal FC               4-0 (4-0)  Charlton Athletic
+         Blackburn Rovers         2-2 (2-2)  Aston Villa
+         Everton FC               0-1 (0-1)  Tottenham Hotspur
+  17.15  West Bromwich Albion     2-1 (2-1)  Bolton Wanderers
+  15.00  Norwich City             2-2 (2-2)  Portsmouth FC
 [Sun Oct/3]
-  Manchester United        1-1  Middlesbrough
-  Birmingham               2-2  Newcastle Utd
-  Chelsea                  1-0  Liverpool
+  16.05  Chelsea FC               1-0 (1-0)  Liverpool FC
+  15.00  Birmingham City          2-2 (2-2)  Newcastle United
+         Manchester United        1-1 (1-1)  Middlesbrough FC
 [Mon Oct/4]
-  Crystal Palace           2-0  Fulham
+  20.00  Crystal Palace           2-0 (2-0)  Fulham FC
 
 
 Matchday 9
 [Sat Oct/16]
-  West Brom                0-0  Norwich
-  Birmingham               0-0  Manchester United
-  Fulham                   2-4  Liverpool
-  Everton                  1-0  Southampton
-  Bolton                   1-0  Crystal Palace
-  Manchester City          1-0  Chelsea
-  Arsenal                  3-1  Aston Villa
-  Blackburn                0-4  Middlesbrough
+  17.15  Manchester City          1-0 (1-0)  Chelsea FC
+  12.45  Birmingham City          0-0  Manchester United
+  15.00  Arsenal FC               3-1 (3-1)  Aston Villa
+         Blackburn Rovers         0-4 (0-4)  Middlesbrough FC
+         Bolton Wanderers         1-0 (1-0)  Crystal Palace
+         Everton FC               1-0 (1-0)  Southampton FC
+         Fulham FC                2-4 (2-4)  Liverpool FC
+         West Bromwich Albion     0-0  Norwich City
 [Sun Oct/17]
-  Charlton                 1-1  Newcastle Utd
+  16.05  Charlton Athletic        1-1 (1-1)  Newcastle United
 [Mon Oct/18]
-  Portsmouth               1-0  Tottenham
+  20.00  Portsmouth FC            1-0 (1-0)  Tottenham Hotspur
 
 
 Matchday 10
 [Sat Oct/23]
-  Tottenham                1-2  Bolton
-  Norwich                  2-3  Everton
-  Crystal Palace           3-0  West Brom
-  Chelsea                  4-0  Blackburn
-  Aston Villa              2-0  Fulham
-  Liverpool                2-0  Charlton
+  17.15  Liverpool FC             2-0 (2-0)  Charlton Athletic
+  12.45  Norwich City             2-3 (2-3)  Everton FC
+  15.00  Aston Villa              2-0 (2-0)  Fulham FC
+         Chelsea FC               4-0 (4-0)  Blackburn Rovers
+         Crystal Palace           3-0 (3-0)  West Bromwich Albion
+         Tottenham Hotspur        1-2 (1-2)  Bolton Wanderers
 [Sun Oct/24]
-  Southampton              0-0  Birmingham
-  Newcastle Utd            4-3  Manchester City
-  Middlesbrough            1-1  Portsmouth
-  Manchester United        2-0  Arsenal
+  14.00  Southampton FC           0-0  Birmingham City
+  15.00  Middlesbrough FC         1-1 (1-1)  Portsmouth FC
+         Newcastle United         4-3 (4-3)  Manchester City
+  16.05  Manchester United        2-0 (2-0)  Arsenal FC
 
 
 Matchday 11
 [Sat Oct/30]
-  West Brom                1-4  Chelsea
-  Birmingham               0-1  Crystal Palace
-  Portsmouth               2-0  Manchester United
-  Fulham                   2-0  Tottenham
-  Everton                  1-1  Aston Villa
-  Charlton                 1-2  Middlesbrough
-  Blackburn                2-2  Liverpool
-  Arsenal                  2-2  Southampton
+  15.00  West Bromwich Albion     1-4 (1-4)  Chelsea FC
+  12.45  Birmingham City          0-1 (0-1)  Crystal Palace
+  15.00  Arsenal FC               2-2 (2-2)  Southampton FC
+         Charlton Athletic        1-2 (1-2)  Middlesbrough FC
+         Everton FC               1-1 (1-1)  Aston Villa
+         Fulham FC                2-0 (2-0)  Tottenham Hotspur
+         Portsmouth FC            2-0 (2-0)  Manchester United
+  17.15  Blackburn Rovers         2-2 (2-2)  Liverpool FC
 [Sun Oct/31]
-  Bolton                   2-1  Newcastle Utd
+  16.05  Bolton Wanderers         2-1 (2-1)  Newcastle United
 [Mon Nov/1]
-  Manchester City          1-1  Norwich
+  20.00  Manchester City          1-1 (1-1)  Norwich City
 
 
 Matchday 12
 [Sat Nov/6]
-  Southampton              2-2  West Brom
-  Crystal Palace           1-1  Arsenal
-  Aston Villa              3-0  Portsmouth
-  Norwich                  1-1  Blackburn
-  Liverpool                0-1  Birmingham
-  Chelsea                  1-0  Everton
-  Tottenham                2-3  Charlton
+  15.00  Liverpool FC             0-1 (0-1)  Birmingham City
+  12.45  Aston Villa              3-0 (3-0)  Portsmouth FC
+  15.00  Chelsea FC               1-0 (1-0)  Everton FC
+         Tottenham Hotspur        2-3 (2-3)  Charlton Athletic
+         Norwich City             1-1 (1-1)  Blackburn Rovers
+         Southampton FC           2-2 (2-2)  West Bromwich Albion
+  17.15  Crystal Palace           1-1 (1-1)  Arsenal FC
 [Sun Nov/7]
-  Middlesbrough            1-1  Bolton
-  Newcastle Utd            1-4  Fulham
-  Manchester United        0-0  Manchester City
+  14.00  Middlesbrough FC         1-1 (1-1)  Bolton Wanderers
+  16.05  Manchester United        0-0  Manchester City
+  15.00  Newcastle United         1-4 (1-4)  Fulham FC
 
 
 Matchday 13
 [Sat Nov/13]
-  Manchester City          1-1  Blackburn
-  Birmingham               0-1  Everton
-  Tottenham                4-5  Arsenal
-  Liverpool                3-2  Crystal Palace
-  Fulham                   1-4  Chelsea
-  Charlton                 4-0  Norwich
-  Bolton                   1-2  Aston Villa
-  Southampton              2-1  Portsmouth
+  15.00  Fulham FC                1-4 (1-4)  Chelsea FC
+  12.00  Southampton FC           2-1 (2-1)  Portsmouth FC
+         Tottenham Hotspur        4-5 (4-5)  Arsenal FC
+  15.00  Bolton Wanderers         1-2 (1-2)  Aston Villa
+         Charlton Athletic        4-0 (4-0)  Norwich City
+         Manchester City          1-1 (1-1)  Blackburn Rovers
+         Liverpool FC             3-2 (3-2)  Crystal Palace
+  17.15  Birmingham City          0-1 (0-1)  Everton FC
 [Sun Nov/14]
-  West Brom                1-2  Middlesbrough
-  Newcastle Utd            1-3  Manchester United
+  16.05  Newcastle United         1-3 (1-3)  Manchester United
+  14.00  West Bromwich Albion     1-2 (1-2)  Middlesbrough FC
 
 
 Matchday 14
 [Sat Nov/20]
-  Middlesbrough            2-0  Liverpool
-  Norwich                  2-1  Southampton
-  Manchester United        2-0  Charlton
-  Everton                  1-0  Fulham
-  Crystal Palace           0-2  Newcastle Utd
-  Arsenal                  1-1  West Brom
-  Chelsea                  2-2  Bolton
-  Portsmouth               1-3  Manchester City
+  15.00  Chelsea FC               2-2 (2-2)  Bolton Wanderers
+  12.45  Manchester United        2-0 (2-0)  Charlton Athletic
+  15.00  Arsenal FC               1-1 (1-1)  West Bromwich Albion
+  17.15  Portsmouth FC            1-3 (1-3)  Manchester City
+  15.00  Crystal Palace           0-2 (0-2)  Newcastle United
+         Everton FC               1-0 (1-0)  Fulham FC
+         Middlesbrough FC         2-0 (2-0)  Liverpool FC
+         Norwich City             2-1 (2-1)  Southampton FC
 [Sun Nov/21]
-  Blackburn                3-3  Birmingham
+  16.05  Blackburn Rovers         3-3 (3-3)  Birmingham City
 [Mon Nov/22]
-  Aston Villa              1-0  Tottenham
+  20.00  Aston Villa              1-0 (1-0)  Tottenham Hotspur
 
 
 Matchday 15
 [Sat Nov/27]
-  Southampton              2-2  Crystal Palace
-  West Brom                0-3  Manchester United
-  Fulham                   0-2  Blackburn
-  Manchester City          2-0  Aston Villa
-  Bolton                   0-1  Portsmouth
-  Birmingham               1-1  Norwich
-  Charlton                 0-4  Chelsea
+  15.00  Bolton Wanderers         0-1 (0-1)  Portsmouth FC
+  12.45  Fulham FC                0-2 (0-2)  Blackburn Rovers
+  15.00  Birmingham City          1-1 (1-1)  Norwich City
+  17.15  Manchester City          2-0 (2-0)  Aston Villa
+  15.00  Charlton Athletic        0-4 (0-4)  Chelsea FC
+         Southampton FC           2-2 (2-2)  Crystal Palace
+         West Bromwich Albion     0-3 (0-3)  Manchester United
 [Sun Nov/28]
-  Newcastle Utd            1-1  Everton
-  Tottenham                2-0  Middlesbrough
-  Liverpool                2-1  Arsenal
+  14.00  Newcastle United         1-1 (1-1)  Everton FC
+  15.00  Tottenham Hotspur        2-0 (2-0)  Middlesbrough FC
+  16.05  Liverpool FC             2-1 (2-1)  Arsenal FC
 
 
 Matchday 16
 [Sat Dec/4]
-  Norwich                  0-1  Fulham
-  Portsmouth               3-2  West Brom
-  Chelsea                  4-0  Newcastle Utd
-  Manchester United        3-0  Southampton
-  Everton                  3-2  Bolton
-  Aston Villa              1-1  Liverpool
-  Arsenal                  3-0  Birmingham
-  Blackburn                0-1  Tottenham
+  17.15  Blackburn Rovers         0-1 (0-1)  Tottenham Hotspur
+  12.45  Chelsea FC               4-0 (4-0)  Newcastle United
+  15.00  Arsenal FC               3-0 (3-0)  Birmingham City
+         Aston Villa              1-1 (1-1)  Liverpool FC
+         Everton FC               3-2 (3-2)  Bolton Wanderers
+         Manchester United        3-0 (3-0)  Southampton FC
+         Norwich City             0-1 (0-1)  Fulham FC
+         Portsmouth FC            3-2 (3-2)  West Bromwich Albion
 [Sun Dec/5]
-  Crystal Palace           0-1  Charlton
+  16.05  Crystal Palace           0-1 (0-1)  Charlton Athletic
 [Mon Dec/6]
-  Middlesbrough            3-2  Manchester City
+  20.00  Middlesbrough FC         3-2 (3-2)  Manchester City
 
 
 Matchday 17
 [Sat Dec/11]
-  Southampton              2-2  Middlesbrough
-  West Brom                0-1  Charlton
-  Everton                  1-0  Liverpool
-  Crystal Palace           0-0  Blackburn
-  Newcastle Utd            1-1  Portsmouth
-  Manchester City          0-1  Tottenham
-  Norwich                  3-2  Bolton
+  15.00  Newcastle United         1-1 (1-1)  Portsmouth FC
+  12.45  Everton FC               1-0 (1-0)  Liverpool FC
+  15.00  Crystal Palace           0-0  Blackburn Rovers
+         Manchester City          0-1 (0-1)  Tottenham Hotspur
+         Southampton FC           2-2 (2-2)  Middlesbrough FC
+         Norwich City             3-2 (3-2)  Bolton Wanderers
+         West Bromwich Albion     0-1 (0-1)  Charlton Athletic
 [Sun Dec/12]
-  Aston Villa              1-2  Birmingham
-  Arsenal                  2-2  Chelsea
+  16.05  Arsenal FC               2-2 (2-2)  Chelsea FC
+  13.00  Aston Villa              1-2 (1-2)  Birmingham City
 [Mon Dec/13]
-  Fulham                   1-1  Manchester United
+  20.00  Fulham FC                1-1 (1-1)  Manchester United
 
 
 Matchday 3
 [Tue Dec/14]
-  Liverpool                1-1  Portsmouth
+  19.45  Liverpool FC             1-1 (1-1)  Portsmouth FC
 
 
 Matchday 18
 [Sat Dec/18]
-  Middlesbrough            3-0  Aston Villa
-  Tottenham                5-1  Southampton
-  Birmingham               4-0  West Brom
-  Manchester United        5-2  Crystal Palace
-  Bolton                   0-1  Manchester City
-  Blackburn                0-0  Everton
-  Chelsea                  4-0  Norwich
+  12.00  Birmingham City          4-0 (4-0)  West Bromwich Albion
+  15.00  Blackburn Rovers         0-0  Everton FC
+         Bolton Wanderers         0-1 (0-1)  Manchester City
+         Chelsea FC               4-0 (4-0)  Norwich City
+         Middlesbrough FC         3-0 (3-0)  Aston Villa
+         Tottenham Hotspur        5-1 (5-1)  Southampton FC
+  17.15  Manchester United        5-2 (5-2)  Crystal Palace
 [Sun Dec/19]
-  Liverpool                3-1  Newcastle Utd
-  Portsmouth               0-1  Arsenal
+  16.05  Portsmouth FC            0-1 (0-1)  Arsenal FC
+  13.30  Liverpool FC             3-1 (3-1)  Newcastle United
 [Mon Dec/20]
-  Charlton                 2-1  Fulham
+  20.00  Charlton Athletic        2-1 (2-1)  Fulham FC
 
 
 Matchday 19
 [Sun Dec/26]
-  Norwich                  0-2  Tottenham
-  Chelsea                  1-0  Aston Villa
-  Arsenal                  2-0  Fulham
-  Crystal Palace           0-1  Portsmouth
-  Southampton              0-0  Charlton
-  Manchester United        2-0  Bolton
-  Everton                  2-1  Manchester City
-  Blackburn                2-2  Newcastle Utd
-  Birmingham               2-0  Middlesbrough
-  West Brom                0-5  Liverpool
+  12.30  Southampton FC           0-0  Charlton Athletic
+  13.00  Arsenal FC               2-0 (2-0)  Fulham FC
+         Chelsea FC               1-0 (1-0)  Aston Villa
+         Crystal Palace           0-1 (0-1)  Portsmouth FC
+  15.00  Blackburn Rovers         2-2 (2-2)  Newcastle United
+         Everton FC               2-1 (2-1)  Manchester City
+         Manchester United        2-0 (2-0)  Bolton Wanderers
+         Norwich City             0-2 (0-2)  Tottenham Hotspur
+  15.30  Birmingham City          2-0 (2-0)  Middlesbrough FC
+  18.00  West Bromwich Albion     0-5 (0-5)  Liverpool FC
 
 
 Matchday 20
 [Tue Dec/28]
-  Tottenham                1-1  Crystal Palace
-  Portsmouth               0-2  Chelsea
-  Middlesbrough            2-0  Norwich
-  Manchester City          1-1  West Brom
-  Fulham                   2-3  Birmingham
-  Charlton                 2-0  Everton
-  Bolton                   0-1  Blackburn
-  Liverpool                1-0  Southampton
-  Aston Villa              0-1  Manchester United
+  15.00  Bolton Wanderers         0-1 (0-1)  Blackburn Rovers
+         Charlton Athletic        2-0 (2-0)  Everton FC
+         Fulham FC                2-3 (2-3)  Birmingham City
+         Manchester City          1-1 (1-1)  West Bromwich Albion
+         Middlesbrough FC         2-0 (2-0)  Norwich City
+         Portsmouth FC            0-2 (0-2)  Chelsea FC
+         Tottenham Hotspur        1-1 (1-1)  Crystal Palace
+  16.30  Liverpool FC             1-0 (1-0)  Southampton FC
+  20.00  Aston Villa              0-1 (0-1)  Manchester United
 [Wed Dec/29]
-  Newcastle Utd            0-1  Arsenal
+  20.00  Newcastle United         0-1 (0-1)  Arsenal FC
 
 
 Matchday 21
 [Sat Jan/1]
-  Liverpool                0-1  Chelsea
-  Middlesbrough            0-2  Manchester United
-  Tottenham                5-2  Everton
-  Portsmouth               1-1  Norwich
-  Newcastle Utd            2-1  Birmingham
-  Manchester City          2-1  Southampton
-  Charlton                 1-3  Arsenal
-  Bolton                   1-1  West Brom
-  Aston Villa              1-0  Blackburn
-  Fulham                   3-1  Crystal Palace
+  12.45  Liverpool FC             0-1 (0-1)  Chelsea FC
+  14.00  Fulham FC                3-1 (3-1)  Crystal Palace
+  15.00  Aston Villa              1-0 (1-0)  Blackburn Rovers
+         Bolton Wanderers         1-1 (1-1)  West Bromwich Albion
+         Charlton Athletic        1-3 (1-3)  Arsenal FC
+         Manchester City          2-1 (2-1)  Southampton FC
+         Newcastle United         2-1 (2-1)  Birmingham City
+         Portsmouth FC            1-1 (1-1)  Norwich City
+         Tottenham Hotspur        5-2 (5-2)  Everton FC
+  17.30  Middlesbrough FC         0-2 (0-2)  Manchester United
 
 
 Matchday 22
 [Mon Jan/3]
-  Norwich                  1-2  Liverpool
-  Crystal Palace           2-0  Aston Villa
-  Blackburn                1-0  Charlton
-  West Brom                0-0  Newcastle Utd
+  15.00  Blackburn Rovers         1-0 (1-0)  Charlton Athletic
+         Crystal Palace           2-0 (2-0)  Aston Villa
+  20.00  West Bromwich Albion     0-0  Newcastle United
+  12.45  Norwich City             1-2 (1-2)  Liverpool FC
 [Tue Jan/4]
-  Chelsea                  2-0  Middlesbrough
-  Birmingham               1-2  Bolton
-  Arsenal                  1-1  Manchester City
-  Everton                  2-1  Portsmouth
-  Manchester United        0-0  Tottenham
+  19.45  Arsenal FC               1-1 (1-1)  Manchester City
+         Birmingham City          1-2 (1-2)  Bolton Wanderers
+         Chelsea FC               2-0 (2-0)  Middlesbrough FC
+  20.00  Everton FC               2-1 (2-1)  Portsmouth FC
+         Manchester United        0-0  Tottenham Hotspur
 [Wed Jan/5]
-  Southampton              3-3  Fulham
+  20.00  Southampton FC           3-3 (3-3)  Fulham FC
 
 
 Matchday 23
 [Sat Jan/15]
-  Liverpool                0-1  Manchester United
-  Tottenham                0-2  Chelsea
-  Portsmouth               0-1  Blackburn
-  Newcastle Utd            2-1  Southampton
-  Manchester City          3-1  Crystal Palace
-  Bolton                   1-0  Arsenal
-  Aston Villa              3-0  Norwich
-  Charlton                 3-1  Birmingham
+  12.30  Liverpool FC             0-1 (0-1)  Manchester United
+  15.00  Aston Villa              3-0 (3-0)  Norwich City
+         Charlton Athletic        3-1 (3-1)  Birmingham City
+         Manchester City          3-1 (3-1)  Crystal Palace
+         Newcastle United         2-1 (2-1)  Southampton FC
+         Portsmouth FC            0-1 (0-1)  Blackburn Rovers
+         Tottenham Hotspur        0-2 (0-2)  Chelsea FC
+  17.15  Bolton Wanderers         1-0 (1-0)  Arsenal FC
 [Sun Jan/16]
-  Middlesbrough            1-1  Everton
-  Fulham                   1-0  West Brom
+  16.05  Fulham FC                1-0 (1-0)  West Bromwich Albion
+  14.00  Middlesbrough FC         1-1 (1-1)  Everton FC
 
 
 Matchday 24
 [Sat Jan/22]
-  Manchester United        3-1  Aston Villa
-  Norwich                  4-4  Middlesbrough
-  Southampton              2-0  Liverpool
-  Everton                  0-1  Charlton
-  Crystal Palace           3-0  Tottenham
-  Chelsea                  3-0  Portsmouth
-  Birmingham               1-2  Fulham
-  West Brom                2-0  Manchester City
+  12.45  Southampton FC           2-0 (2-0)  Liverpool FC
+  15.00  Birmingham City          1-2 (1-2)  Fulham FC
+         Chelsea FC               3-0 (3-0)  Portsmouth FC
+         Crystal Palace           3-0 (3-0)  Tottenham Hotspur
+         Everton FC               0-1 (0-1)  Charlton Athletic
+         Manchester United        3-1 (3-1)  Aston Villa
+         Norwich City             4-4 (4-4)  Middlesbrough FC
+  17.15  West Bromwich Albion     2-0 (2-0)  Manchester City
 [Sun Jan/23]
-  Arsenal                  1-0  Newcastle Utd
+  16.05  Arsenal FC               1-0 (1-0)  Newcastle United
 [Mon Jan/24]
-  Blackburn                0-1  Bolton
+  20.00  Blackburn Rovers         0-1 (0-1)  Bolton Wanderers
 
 
 Matchday 25
 [Tue Feb/1]
-  Portsmouth               2-1  Middlesbrough
-  West Brom                2-2  Crystal Palace
-  Charlton                 1-2  Liverpool
-  Arsenal                  2-4  Manchester United
-  Bolton                   3-1  Tottenham
+  19.45  Portsmouth FC            2-1 (2-1)  Middlesbrough FC
+         West Bromwich Albion     2-2 (2-2)  Crystal Palace
+  20.00  Arsenal FC               2-4 (2-4)  Manchester United
+         Bolton Wanderers         3-1 (3-1)  Tottenham Hotspur
+         Charlton Athletic        1-2 (1-2)  Liverpool FC
 [Wed Feb/2]
-  Manchester City          1-1  Newcastle Utd
-  Fulham                   1-1  Aston Villa
-  Blackburn                0-1  Chelsea
-  Everton                  1-0  Norwich
-  Birmingham               2-1  Southampton
+  19.45  Fulham FC                1-1 (1-1)  Aston Villa
+         Manchester City          1-1 (1-1)  Newcastle United
+  20.00  Blackburn Rovers         0-1 (0-1)  Chelsea FC
+         Everton FC               1-0 (1-0)  Norwich City
+  19.45  Birmingham City          2-1 (2-1)  Southampton FC
 
 
 Matchday 26
 [Sat Feb/5]
-  Crystal Palace           0-1  Bolton
-  Aston Villa              1-3  Arsenal
-  Norwich                  3-2  West Brom
-  Newcastle Utd            1-1  Charlton
-  Middlesbrough            1-0  Blackburn
-  Manchester United        2-0  Birmingham
-  Liverpool                3-1  Fulham
-  Tottenham                3-1  Portsmouth
+  12.45  Crystal Palace           0-1 (0-1)  Bolton Wanderers
+  15.00  Liverpool FC             3-1 (3-1)  Fulham FC
+         Manchester United        2-0 (2-0)  Birmingham City
+         Middlesbrough FC         1-0 (1-0)  Blackburn Rovers
+         Newcastle United         1-1 (1-1)  Charlton Athletic
+         Norwich City             3-2 (3-2)  West Bromwich Albion
+         Tottenham Hotspur        3-1 (3-1)  Portsmouth FC
+  17.15  Aston Villa              1-3 (1-3)  Arsenal FC
 [Sun Feb/6]
-  Southampton              2-2  Everton
-  Chelsea                  0-0  Manchester City
+  16.05  Chelsea FC               0-0  Manchester City
+  14.00  Southampton FC           2-2 (2-2)  Everton FC
 
 
 Matchday 27
 [Sat Feb/12]
-  Bolton                   0-0  Middlesbrough
-  Everton                  0-1  Chelsea
-  Blackburn                3-0  Norwich
-  Birmingham               2-0  Liverpool
-  Portsmouth               1-2  Aston Villa
+  15.00  Birmingham City          2-0 (2-0)  Liverpool FC
+         Blackburn Rovers         3-0 (3-0)  Norwich City
+         Portsmouth FC            1-2 (1-2)  Aston Villa
+  17.15  Bolton Wanderers         0-0  Middlesbrough FC
+  12.45  Everton FC               0-1 (0-1)  Chelsea FC
 [Sun Feb/13]
-  Manchester City          0-2  Manchester United
+  13.00  Manchester City          0-2 (0-2)  Manchester United
 [Mon Feb/14]
-  Arsenal                  5-1  Crystal Palace
+  20.00  Arsenal FC               5-1 (5-1)  Crystal Palace
 [Tue Feb/22]
-  West Brom                0-0  Southampton
+  19.45  West Bromwich Albion     0-0  Southampton FC
 
 
 Matchday 28
 [Sat Feb/26]
-  Southampton              1-1  Arsenal
-  Tottenham                2-0  Fulham
-  Manchester United        2-1  Portsmouth
-  Aston Villa              1-3  Everton
-  Crystal Palace           2-0  Birmingham
+  15.00  Tottenham Hotspur        2-0 (2-0)  Fulham FC
+         Crystal Palace           2-0 (2-0)  Birmingham City
+  12.45  Southampton FC           1-1 (1-1)  Arsenal FC
+  15.00  Aston Villa              1-3 (1-3)  Everton FC
+  17.15  Manchester United        2-1 (2-1)  Portsmouth FC
 [Sun Feb/27]
-  Newcastle Utd            2-1  Bolton
-  Middlesbrough            2-2  Charlton
+  15.00  Middlesbrough FC         2-2 (2-2)  Charlton Athletic
+  13.00  Newcastle United         2-1 (2-1)  Bolton Wanderers
 [Mon Feb/28]
-  Norwich                  2-3  Manchester City
+  20.00  Norwich City             2-3 (2-3)  Manchester City
 
 
 Matchday 29
 [Sat Mar/5]
-  Aston Villa              2-0  Middlesbrough
-  Southampton              1-0  Tottenham
-  Newcastle Utd            1-0  Liverpool
-  Fulham                   0-0  Charlton
-  Norwich                  1-3  Chelsea
-  Arsenal                  3-0  Portsmouth
-  Crystal Palace           0-0  Manchester United
+  15.00  Newcastle United         1-0 (1-0)  Liverpool FC
+  12.45  Aston Villa              2-0 (2-0)  Middlesbrough FC
+  15.00  Fulham FC                0-0  Charlton Athletic
+  17.15  Norwich City             1-3 (1-3)  Chelsea FC
+  15.00  Southampton FC           1-0 (1-0)  Tottenham Hotspur
+         Arsenal FC               3-0 (3-0)  Portsmouth FC
+         Crystal Palace           0-0  Manchester United
 [Sun Mar/6]
-  West Brom                2-0  Birmingham
-  Everton                  0-1  Blackburn
+  16.05  Everton FC               0-1 (0-1)  Blackburn Rovers
+  12.00  West Bromwich Albion     2-0 (2-0)  Birmingham City
 [Mon Mar/7]
-  Manchester City          0-1  Bolton
+  20.00  Manchester City          0-1 (0-1)  Bolton Wanderers
 
 
 Matchday 28
 [Tue Mar/15]
-  Chelsea                  1-0  West Brom
+  19.45  Chelsea FC               1-0 (1-0)  West Bromwich Albion
 
 
 Matchday 27
 [Wed Mar/16]
-  Charlton                 2-0  Tottenham
+  20.00  Charlton Athletic        2-0 (2-0)  Tottenham Hotspur
 
 
 Matchday 28
 [Wed Mar/16]
-  Liverpool                0-0  Blackburn
+  20.00  Liverpool FC             0-0  Blackburn Rovers
 
 
 Matchday 30
 [Sat Mar/19]
-  Tottenham                2-1  Manchester City
-  Blackburn                0-1  Arsenal
-  Portsmouth               1-1  Newcastle Utd
-  Bolton                   1-0  Norwich
-  Chelsea                  4-1  Crystal Palace
-  Charlton                 1-4  West Brom
-  Manchester United        1-0  Fulham
+  15.00  Tottenham Hotspur        2-1 (2-1)  Manchester City
+  12.45  Blackburn Rovers         0-1 (0-1)  Arsenal FC
+  15.00  Charlton Athletic        1-4 (1-4)  West Bromwich Albion
+         Chelsea FC               4-1 (4-1)  Crystal Palace
+         Manchester United        1-0 (1-0)  Fulham FC
+         Portsmouth FC            1-1 (1-1)  Newcastle United
+  17.15  Bolton Wanderers         1-0 (1-0)  Norwich City
 [Sun Mar/20]
-  Liverpool                2-1  Everton
-  Middlesbrough            1-3  Southampton
-  Birmingham               2-0  Aston Villa
+  16.05  Liverpool FC             2-1 (2-1)  Everton FC
+  12.00  Birmingham City          2-0 (2-0)  Aston Villa
+  15.00  Middlesbrough FC         1-3 (1-3)  Southampton FC
 
 
 Matchday 31
 [Sat Apr/2]
-  Charlton                 2-2  Manchester City
-  Southampton              1-3  Chelsea
-  Manchester United        0-0  Blackburn
-  Liverpool                1-0  Bolton
-  Crystal Palace           0-1  Middlesbrough
-  Birmingham               1-1  Tottenham
-  Arsenal                  4-1  Norwich
-  Newcastle Utd            0-3  Aston Villa
+  15.00  Crystal Palace           0-1 (0-1)  Middlesbrough FC
+  12.45  Charlton Athletic        2-2 (2-2)  Manchester City
+  15.00  Arsenal FC               4-1 (4-1)  Norwich City
+         Birmingham City          1-1 (1-1)  Tottenham Hotspur
+  17.15  Southampton FC           1-3 (1-3)  Chelsea FC
+  15.00  Liverpool FC             1-0 (1-0)  Bolton Wanderers
+         Manchester United        0-0  Blackburn Rovers
+         Newcastle United         0-3 (0-3)  Aston Villa
 [Sun Apr/3]
-  Fulham                   3-1  Portsmouth
-  West Brom                1-0  Everton
+  16.05  West Bromwich Albion     1-0 (1-0)  Everton FC
+  13.30  Fulham FC                3-1 (3-1)  Portsmouth FC
 
 
 Matchday 32
 [Sat Apr/9]
-  Manchester City          1-0  Liverpool
-  Norwich                  2-0  Manchester United
-  Portsmouth               4-2  Charlton
-  Chelsea                  1-1  Birmingham
-  Bolton                   3-1  Fulham
-  Blackburn                3-0  Southampton
-  Middlesbrough            0-1  Arsenal
+  15.00  Blackburn Rovers         3-0 (3-0)  Southampton FC
+         Bolton Wanderers         3-1 (3-1)  Fulham FC
+         Chelsea FC               1-1 (1-1)  Birmingham City
+         Manchester City          1-0 (1-0)  Liverpool FC
+  17.15  Norwich City             2-0 (2-0)  Manchester United
+  15.00  Portsmouth FC            4-2 (4-2)  Charlton Athletic
+         Middlesbrough FC         0-1 (0-1)  Arsenal FC
 [Sun Apr/10]
-  Aston Villa              1-1  West Brom
-  Everton                  4-0  Crystal Palace
-  Tottenham                1-0  Newcastle Utd
+  12.00  Aston Villa              1-1 (1-1)  West Bromwich Albion
+  15.00  Everton FC               4-0 (4-0)  Crystal Palace
+  16.05  Tottenham Hotspur        1-0 (1-0)  Newcastle United
 
 
 Matchday 33
 [Sat Apr/16]
-  Liverpool                2-2  Tottenham
-  Southampton              2-3  Aston Villa
-  Birmingham               0-0  Portsmouth
-  Crystal Palace           3-3  Norwich
-  Charlton                 1-2  Bolton
-  Fulham                   1-1  Manchester City
+  15.00  Charlton Athletic        1-2 (1-2)  Bolton Wanderers
+         Southampton FC           2-3 (2-3)  Aston Villa
+         Crystal Palace           3-3 (3-3)  Norwich City
+         Fulham FC                1-1 (1-1)  Manchester City
+         Liverpool FC             2-2 (2-2)  Tottenham Hotspur
+  17.15  Birmingham City          0-0  Portsmouth FC
 
 
 Matchday 34
 [Tue Apr/19]
-  Bolton                   1-1  Southampton
-  Middlesbrough            1-1  Fulham
+  20.00  Middlesbrough FC         1-1 (1-1)  Fulham FC
+         Bolton Wanderers         1-1 (1-1)  Southampton FC
 [Wed Apr/20]
-  Tottenham                1-1  West Brom
-  Portsmouth               1-2  Liverpool
-  Norwich                  2-1  Newcastle Utd
-  Manchester City          3-0  Birmingham
-  Aston Villa              0-0  Charlton
-  Everton                  1-0  Manchester United
-  Blackburn                1-0  Crystal Palace
-  Chelsea                  0-0  Arsenal
+  19.45  Tottenham Hotspur        1-1 (1-1)  West Bromwich Albion
+         Manchester City          3-0 (3-0)  Birmingham City
+  20.00  Chelsea FC               0-0  Arsenal FC
+         Everton FC               1-0 (1-0)  Manchester United
+         Blackburn Rovers         1-0 (1-0)  Crystal Palace
+  19.45  Norwich City             2-1 (2-1)  Newcastle United
+         Portsmouth FC            1-2 (1-2)  Liverpool FC
+         Aston Villa              0-0  Charlton Athletic
 
 
 Matchday 35
 [Sat Apr/23]
-  Everton                  1-1  Birmingham
-  Chelsea                  3-1  Fulham
-  Norwich                  1-0  Charlton
-  Middlesbrough            4-0  West Brom
-  Crystal Palace           1-0  Liverpool
-  Aston Villa              1-1  Bolton
-  Blackburn                0-0  Manchester City
+  15.00  Middlesbrough FC         4-0 (4-0)  West Bromwich Albion
+         Norwich City             1-0 (1-0)  Charlton Athletic
+         Crystal Palace           1-0 (1-0)  Liverpool FC
+         Blackburn Rovers         0-0  Manchester City
+         Aston Villa              1-1 (1-1)  Bolton Wanderers
+  12.30  Everton FC               1-1 (1-1)  Birmingham City
+  12.45  Chelsea FC               3-1 (3-1)  Fulham FC
 [Sun Apr/24]
-  Portsmouth               4-1  Southampton
-  Manchester United        2-1  Newcastle Utd
+  16.05  Manchester United        2-1 (2-1)  Newcastle United
+  12.00  Portsmouth FC            4-1 (4-1)  Southampton FC
 [Mon Apr/25]
-  Arsenal                  1-0  Tottenham
+  20.00  Arsenal FC               1-0 (1-0)  Tottenham Hotspur
 
 
 Matchday 33
 [Tue Apr/26]
-  West Brom                1-1  Blackburn
+  19.45  West Bromwich Albion     1-1 (1-1)  Blackburn Rovers
 [Wed Apr/27]
-  Newcastle Utd            0-0  Middlesbrough
+  19.45  Newcastle United         0-0  Middlesbrough FC
 
 
 Matchday 36
 [Sat Apr/30]
-  Southampton              4-3  Norwich
-  Newcastle Utd            0-0  Crystal Palace
-  Manchester City          2-0  Portsmouth
-  Liverpool                1-1  Middlesbrough
-  Fulham                   2-0  Everton
-  Bolton                   0-2  Chelsea
-  Birmingham               2-1  Blackburn
+  15.00  Newcastle United         0-0  Crystal Palace
+         Liverpool FC             1-1 (1-1)  Middlesbrough FC
+  17.15  Bolton Wanderers         0-2 (0-2)  Chelsea FC
+  15.00  Birmingham City          2-1 (2-1)  Blackburn Rovers
+         Fulham FC                2-0 (2-0)  Everton FC
+         Manchester City          2-0 (2-0)  Portsmouth FC
+         Southampton FC           4-3 (4-3)  Norwich City
 [Sun May/1]
-  Tottenham                5-1  Aston Villa
-  Charlton                 0-4  Manchester United
+  16.05  Charlton Athletic        0-4 (0-4)  Manchester United
+  13.00  Tottenham Hotspur        5-1 (5-1)  Aston Villa
 [Mon May/2]
-  West Brom                0-2  Arsenal
+  20.00  West Bromwich Albion     0-2 (0-2)  Arsenal FC
 
 
 Matchday 27
 [Wed May/4]
-  Fulham                   1-3  Newcastle Utd
+  19.45  Fulham FC                1-3 (1-3)  Newcastle United
 
 
 Matchday 37
 [Sat May/7]
-  Portsmouth               1-1  Bolton
-  Norwich                  1-0  Birmingham
-  Middlesbrough            1-0  Tottenham
-  Everton                  2-0  Newcastle Utd
-  Crystal Palace           2-2  Southampton
-  Manchester United        1-1  West Brom
-  Blackburn                1-3  Fulham
-  Aston Villa              1-2  Manchester City
-  Chelsea                  1-0  Charlton
+  15.00  Portsmouth FC            1-1 (1-1)  Bolton Wanderers
+  17.15  Manchester United        1-1 (1-1)  West Bromwich Albion
+  12.30  Chelsea FC               1-0 (1-0)  Charlton Athletic
+  15.00  Aston Villa              1-2 (1-2)  Manchester City
+         Blackburn Rovers         1-3 (1-3)  Fulham FC
+         Crystal Palace           2-2 (2-2)  Southampton FC
+         Everton FC               2-0 (2-0)  Newcastle United
+         Middlesbrough FC         1-0 (1-0)  Tottenham Hotspur
+         Norwich City             1-0 (1-0)  Birmingham City
 [Sun May/8]
-  Arsenal                  3-1  Liverpool
+  16.05  Arsenal FC               3-1 (3-1)  Liverpool FC
 
 
 Matchday 33
 [Tue May/10]
-  Manchester United        1-3  Chelsea
+  20.00  Manchester United        1-3 (1-3)  Chelsea FC
 [Wed May/11]
-  Arsenal                  7-0  Everton
+  20.00  Arsenal FC               7-0 (7-0)  Everton FC
 
 
 Matchday 38
 [Sun May/15]
-  West Brom                2-0  Portsmouth
-  Tottenham                0-0  Blackburn
-  Southampton              1-2  Manchester United
-  Newcastle Utd            1-1  Chelsea
-  Manchester City          1-1  Middlesbrough
-  Liverpool                2-1  Aston Villa
-  Fulham                   6-0  Norwich
-  Charlton                 2-2  Crystal Palace
-  Bolton                   3-2  Everton
-  Birmingham               2-1  Arsenal
+  15.00  Birmingham City          2-1 (2-1)  Arsenal FC
+         Bolton Wanderers         3-2 (3-2)  Everton FC
+         Charlton Athletic        2-2 (2-2)  Crystal Palace
+         Fulham FC                6-0 (6-0)  Norwich City
+         Liverpool FC             2-1 (2-1)  Aston Villa
+         Manchester City          1-1 (1-1)  Middlesbrough FC
+         Newcastle United         1-1 (1-1)  Chelsea FC
+         Southampton FC           1-2 (1-2)  Manchester United
+         Tottenham Hotspur        0-0  Blackburn Rovers
+         West Bromwich Albion     2-0 (2-0)  Portsmouth FC

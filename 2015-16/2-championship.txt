@@ -1,802 +1,835 @@
 = English Championship 2015/16
 
+# Date       Fri Aug/7 2015 - Sat May/7 2016 (274d)
+# Teams      24
+# Matches    552
+
+
 
 Matchday 1
 [Fri Aug/7]
-  Brighton                 1-0  Nottingham Forest
+  19.45  Brighton & Hove Albion   1-0 (0-0)  Nottingham Forest
 [Sat Aug/8]
-  Cardiff                  1-1  Fulham
-  Leeds                    1-1  Burnley
-  Sheffield Wed            2-0  Bristol City
-  Rotherham                1-4  Milton Keynes Dons
-  Hull City                2-0  Huddersfield
-  Charlton                 2-0  QPR
-  Brentford                2-2  Ipswich
-  Bolton                   0-0  Derby
-  Blackburn                1-2  Wolves
-  Birmingham               2-1  Reading
+  12.00  Cardiff City             1-1 (0-0)  Fulham FC
+  12.30  Leeds United             1-1 (0-0)  Burnley FC
+  15.00  Birmingham City          2-1 (1-0)  Reading FC
+         Blackburn Rovers         1-2 (1-2)  Wolverhampton Wanderers
+         Bolton Wanderers         0-0  Derby County
+         Brentford FC             2-2 (0-1)  Ipswich Town
+         Charlton Athletic        2-0 (0-0)  Queens Park Rangers
+         Hull City                2-0 (1-0)  Huddersfield Town
+         Rotherham United         1-4 (1-3)  Milton Keynes Dons
+         Sheffield Wednesday      2-0 (0-0)  Bristol City
 [Sun Aug/9]
-  Preston                  0-0  Middlesbrough
+  12.00  Preston North End        0-0  Middlesbrough FC
 
 
 Matchday 2
 [Sat Aug/15]
-  Burnley                  2-2  Birmingham
-  Nottingham Forest        2-1  Rotherham
-  Milton Keynes Dons       0-1  Preston
-  Middlesbrough            3-0  Bolton
-  Ipswich                  2-1  Sheffield Wed
-  Huddersfield             1-1  Blackburn
-  Fulham                   1-2  Brighton
-  Derby                    1-1  Charlton
-  Bristol City             2-4  Brentford
-  QPR                      2-2  Cardiff
+  12.30  Burnley FC               2-2 (0-1)  Birmingham City
+  15.00  Bristol City             2-4 (2-2)  Brentford FC
+         Derby County             1-1 (0-0)  Charlton Athletic
+         Fulham FC                1-2 (1-1)  Brighton & Hove Albion
+         Huddersfield Town        1-1 (1-0)  Blackburn Rovers
+         Ipswich Town             2-1 (1-1)  Sheffield Wednesday
+         Milton Keynes Dons       0-1 (0-1)  Preston North End
+         Nottingham Forest        2-1 (1-1)  Rotherham United
+         Middlesbrough FC         3-0 (3-0)  Bolton Wanderers
+  17.15  Queens Park Rangers      2-2 (1-0)  Cardiff City
 [Sun Aug/16]
-  Wolves                   1-1  Hull City
-  Reading                  0-0  Leeds
+  15.00  Reading FC               0-0  Leeds United
+  12.00  Wolverhampton Wanderers  1-1 (0-1)  Hull City
 
 
 Matchday 3
 [Tue Aug/18]
-  Rotherham                0-0  Preston
-  Nottingham Forest        0-0  Charlton
-  Milton Keynes Dons       1-0  Bolton
-  Ipswich                  2-0  Burnley
-  Huddersfield             1-1  Brighton
-  Derby                    1-1  Middlesbrough
-  Blackburn                1-1  Cardiff
+  19.45  Blackburn Rovers         1-1 (0-1)  Cardiff City
+         Derby County             1-1 (0-1)  Middlesbrough FC
+         Huddersfield Town        1-1 (0-1)  Brighton & Hove Albion
+         Ipswich Town             2-0 (0-0)  Burnley FC
+         Milton Keynes Dons       1-0 (0-0)  Bolton Wanderers
+         Nottingham Forest        0-0  Charlton Athletic
+         Rotherham United         0-0  Preston North End
 [Wed Aug/19]
-  Wolves                   2-3  QPR
-  Sheffield Wed            1-1  Reading
-  Hull City                2-1  Fulham
-  Bristol City             2-2  Leeds
+  19.45  Hull City                2-1 (1-0)  Fulham FC
+         Sheffield Wednesday      1-1 (0-0)  Reading FC
+         Wolverhampton Wanderers  2-3 (2-1)  Queens Park Rangers
+         Bristol City             2-2 (0-1)  Leeds United
 
 
 Matchday 4
 [Fri Aug/21]
-  Birmingham               1-1  Derby
+  19.45  Birmingham City          1-1 (1-0)  Derby County
 [Sat Aug/22]
-  Leeds                    1-1  Sheffield Wed
-  Reading                  0-0  Milton Keynes Dons
-  QPR                      4-2  Rotherham
-  Preston                  1-2  Ipswich
-  Middlesbrough            0-1  Bristol City
-  Fulham                   1-1  Huddersfield
-  Charlton                 2-1  Hull City
-  Burnley                  1-0  Brentford
-  Brighton                 1-0  Blackburn
-  Bolton                   1-1  Nottingham Forest
-  Cardiff                  2-0  Wolves
+  17.15  Cardiff City             2-0 (1-0)  Wolverhampton Wanderers
+  12.30  Leeds United             1-1 (0-1)  Sheffield Wednesday
+  15.00  Bolton Wanderers         1-1 (0-0)  Nottingham Forest
+         Burnley FC               1-0 (1-0)  Brentford FC
+         Charlton Athletic        2-1 (0-0)  Hull City
+         Fulham FC                1-1 (0-0)  Huddersfield Town
+         Middlesbrough FC         0-1 (0-1)  Bristol City
+         Preston North End        1-2 (1-1)  Ipswich Town
+         Queens Park Rangers      4-2 (1-0)  Rotherham United
+         Reading FC               0-0  Milton Keynes Dons
+  15.15  Brighton & Hove Albion   1-0 (1-0)  Blackburn Rovers
 
 
 Matchday 5
 [Fri Aug/28]
-  Blackburn                0-0  Bolton
+  19.45  Blackburn Rovers         0-0  Bolton Wanderers
 [Sat Aug/29]
-  Derby                    1-2  Leeds
-  Wolves                   2-1  Charlton
-  Sheffield Wed            1-3  Middlesbrough
-  Rotherham                1-3  Fulham
-  Nottingham Forest        1-2  Cardiff
-  Milton Keynes Dons       0-2  Birmingham
-  Ipswich                  2-3  Brighton
-  Hull City                2-0  Preston
-  Huddersfield             0-1  QPR
-  Bristol City             1-2  Burnley
-  Brentford                1-3  Reading
+  15.00  Ipswich Town             2-3 (0-2)  Brighton & Hove Albion
+  12.05  Derby County             1-2 (0-1)  Leeds United
+  15.00  Brentford FC             1-3 (0-2)  Reading FC
+         Bristol City             1-2 (0-2)  Burnley FC
+         Huddersfield Town        0-1 (0-0)  Queens Park Rangers
+         Hull City                2-0 (1-0)  Preston North End
+         Sheffield Wednesday      1-3 (0-1)  Middlesbrough FC
+         Milton Keynes Dons       0-2 (0-0)  Birmingham City
+         Nottingham Forest        1-2 (0-1)  Cardiff City
+         Rotherham United         1-3 (0-2)  Fulham FC
+         Wolverhampton Wanderers  2-1 (0-0)  Charlton Athletic
 
 
 Matchday 6
 [Fri Sep/11]
-  Reading                  5-1  Ipswich
+  20.00  Reading FC               5-1 (2-1)  Ipswich Town
 [Sat Sep/12]
-  QPR                      1-2  Nottingham Forest
-  Preston                  1-2  Derby
-  Middlesbrough            2-0  Milton Keynes Dons
-  Leeds                    1-1  Brentford
-  Charlton                 1-1  Rotherham
-  Cardiff                  2-0  Huddersfield
-  Burnley                  3-1  Sheffield Wed
-  Brighton                 1-0  Hull City
-  Bolton                   2-1  Wolves
-  Birmingham               4-2  Bristol City
+  15.00  Preston North End        1-2 (0-2)  Derby County
+  12.30  Queens Park Rangers      1-2 (0-0)  Nottingham Forest
+  15.00  Birmingham City          4-2 (3-1)  Bristol City
+         Bolton Wanderers         2-1 (2-0)  Wolverhampton Wanderers
+         Brighton & Hove Albion   1-0 (1-0)  Hull City
+         Burnley FC               3-1 (1-1)  Sheffield Wednesday
+         Cardiff City             2-0 (0-0)  Huddersfield Town
+         Charlton Athletic        1-1 (0-1)  Rotherham United
+         Leeds United             1-1 (0-1)  Brentford FC
+         Middlesbrough FC         2-0 (0-0)  Milton Keynes Dons
 [Sun Sep/13]
-  Fulham                   2-1  Blackburn
+  12.00  Fulham FC                2-1 (2-0)  Blackburn Rovers
 
 
 Matchday 7
 [Tue Sep/15]
-  Preston                  1-1  Bristol City
-  Middlesbrough            3-1  Brentford
-  Leeds                    0-1  Ipswich
-  Charlton                 1-2  Huddersfield
-  Cardiff                  0-2  Hull City
-  Burnley                  2-1  Milton Keynes Dons
-  Brighton                 2-1  Rotherham
-  Birmingham               0-1  Nottingham Forest
-  Reading                  0-1  Derby
-  Bolton                   0-0  Sheffield Wed
+  19.45  Charlton Athletic        1-2 (1-2)  Huddersfield Town
+         Birmingham City          0-1 (0-0)  Nottingham Forest
+         Brighton & Hove Albion   2-1 (1-0)  Rotherham United
+         Burnley FC               2-1 (1-1)  Milton Keynes Dons
+         Cardiff City             0-2 (0-1)  Hull City
+  20.00  Reading FC               0-1 (0-0)  Derby County
+  19.45  Leeds United             0-1 (0-1)  Ipswich Town
+         Middlesbrough FC         3-1 (1-0)  Brentford FC
+         Preston North End        1-1 (0-0)  Bristol City
+  20.00  Bolton Wanderers         0-0  Sheffield Wednesday
 [Wed Sep/16]
-  QPR                      2-2  Blackburn
+  19.45  Queens Park Rangers      2-2 (0-1)  Blackburn Rovers
 
 
 Matchday 8
 [Fri Sep/18]
-  Ipswich                  1-1  Birmingham
+  19.45  Ipswich Town             1-1 (1-1)  Birmingham City
 [Sat Sep/19]
-  Nottingham Forest        1-2  Middlesbrough
-  Wolves                   0-0  Brighton
-  Sheffield Wed            3-2  Fulham
-  Rotherham                2-1  Cardiff
-  Milton Keynes Dons       1-2  Leeds
-  Hull City                1-1  QPR
-  Huddersfield             4-1  Bolton
-  Bristol City             0-2  Reading
-  Brentford                2-1  Preston
-  Blackburn                3-0  Charlton
+  15.00  Wolverhampton Wanderers  0-0  Brighton & Hove Albion
+         Huddersfield Town        4-1 (1-1)  Bolton Wanderers
+  12.30  Nottingham Forest        1-2 (1-2)  Middlesbrough FC
+  15.00  Blackburn Rovers         3-0 (1-0)  Charlton Athletic
+         Brentford FC             2-1 (0-1)  Preston North End
+         Bristol City             0-2 (0-2)  Reading FC
+         Sheffield Wednesday      3-2 (2-1)  Fulham FC
+         Hull City                1-1 (1-1)  Queens Park Rangers
+         Milton Keynes Dons       1-2 (0-2)  Leeds United
+         Rotherham United         2-1 (1-1)  Cardiff City
 [Mon Sep/21]
-  Derby                    0-0  Burnley
+  19.45  Derby County             0-0  Burnley FC
 
 
 Matchday 9
 [Thu Sep/24]
-  Huddersfield             1-1  Nottingham Forest
+  19.45  Huddersfield Town        1-1 (0-1)  Nottingham Forest
 [Fri Sep/25]
-  Fulham                   4-0  QPR
+  19.45  Fulham FC                4-0 (3-0)  Queens Park Rangers
 [Sat Sep/26]
-  Milton Keynes Dons       1-3  Derby
-  Preston                  1-1  Wolves
-  Ipswich                  2-2  Bristol City
-  Hull City                1-1  Blackburn
-  Cardiff                  2-1  Charlton
-  Burnley                  1-2  Reading
-  Brentford                1-2  Sheffield Wed
-  Bolton                   2-2  Brighton
-  Birmingham               0-2  Rotherham
+  15.00  Preston North End        1-1 (1-0)  Wolverhampton Wanderers
+         Brentford FC             1-2 (0-1)  Sheffield Wednesday
+  12.30  Milton Keynes Dons       1-3 (0-0)  Derby County
+  15.00  Birmingham City          0-2 (0-1)  Rotherham United
+         Bolton Wanderers         2-2 (1-2)  Brighton & Hove Albion
+         Ipswich Town             2-2 (0-0)  Bristol City
+         Burnley FC               1-2 (0-2)  Reading FC
+         Cardiff City             2-1 (0-0)  Charlton Athletic
+         Hull City                1-1 (0-0)  Blackburn Rovers
 [Sun Sep/27]
-  Middlesbrough            3-0  Leeds
+  13.15  Middlesbrough FC         3-0 (2-0)  Leeds United
+
+
+Matchday 7
+[Tue Sep/29]
+  19.45  Fulham FC                0-3 (0-0)  Wolverhampton Wanderers
+
+
+Matchday 3
+[Tue Sep/29]
+  19.45  Brentford FC             0-2 (0-0)  Birmingham City
 
 
 Matchday 10
-[Tue Sep/29]
-  Fulham                   0-3  Wolves
-  Brentford                0-2  Birmingham
 [Fri Oct/2]
-  Rotherham                1-2  Burnley
+  19.45  Rotherham United         1-2 (0-1)  Burnley FC
 [Sat Oct/3]
-  Wolves                   3-0  Huddersfield
-  Sheffield Wed            3-1  Preston
-  Reading                  2-0  Middlesbrough
-  QPR                      4-3  Bolton
-  Nottingham Forest        0-1  Hull City
-  Leeds                    0-2  Birmingham
-  Derby                    2-0  Brentford
-  Bristol City             1-1  Milton Keynes Dons
-  Brighton                 1-1  Cardiff
-  Blackburn                2-0  Ipswich
+  12.30  Wolverhampton Wanderers  3-0 (1-0)  Huddersfield Town
+  15.00  Blackburn Rovers         2-0 (2-0)  Ipswich Town
+         Brighton & Hove Albion   1-1 (1-1)  Cardiff City
+         Bristol City             1-1 (1-0)  Milton Keynes Dons
+         Derby County             2-0 (2-0)  Brentford FC
+         Leeds United             0-2 (0-1)  Birmingham City
+         Nottingham Forest        0-1 (0-1)  Hull City
+         Queens Park Rangers      4-3 (2-2)  Bolton Wanderers
+         Reading FC               2-0 (1-0)  Middlesbrough FC
+         Sheffield Wednesday      3-1 (1-0)  Preston North End
 [Sun Oct/4]
-  Charlton                 2-2  Fulham
+  12.00  Charlton Athletic        2-2 (0-1)  Fulham FC
 
 
 Matchday 11
 [Fri Oct/16]
-  Bristol City             2-0  Nottingham Forest
+  19.45  Bristol City             2-0 (2-0)  Nottingham Forest
 [Sat Oct/17]
-  Sheffield Wed            1-1  Hull City
-  Reading                  1-0  Charlton
-  Preston                  0-0  Cardiff
-  Milton Keynes Dons       3-0  Blackburn
-  Middlesbrough            0-0  Fulham
-  Leeds                    1-2  Brighton
-  Ipswich                  0-0  Huddersfield
-  Burnley                  2-0  Bolton
-  Brentford                2-1  Rotherham
-  Birmingham               2-1  QPR
+  12.30  Sheffield Wednesday      1-1 (1-0)  Hull City
+  15.00  Birmingham City          2-1 (1-1)  Queens Park Rangers
+         Brentford FC             2-1 (1-0)  Rotherham United
+         Burnley FC               2-0 (0-0)  Bolton Wanderers
+         Ipswich Town             0-0  Huddersfield Town
+         Leeds United             1-2 (1-1)  Brighton & Hove Albion
+         Milton Keynes Dons       3-0 (1-0)  Blackburn Rovers
+         Middlesbrough FC         0-0  Fulham FC
+         Preston North End        0-0  Cardiff City
+         Reading FC               1-0 (0-0)  Charlton Athletic
 [Sun Oct/18]
-  Derby                    4-2  Wolves
+  13.15  Derby County             4-2 (3-1)  Wolverhampton Wanderers
 
 
 Matchday 12
 [Tue Oct/20]
-  Rotherham                1-1  Reading
-  QPR                      0-0  Sheffield Wed
-  Nottingham Forest        1-1  Burnley
-  Hull City                3-0  Ipswich
-  Huddersfield             2-0  Milton Keynes Dons
-  Charlton                 0-3  Preston
-  Cardiff                  1-0  Middlesbrough
-  Brighton                 2-1  Bristol City
-  Bolton                   0-1  Birmingham
+  19.45  Brighton & Hove Albion   2-1 (0-1)  Bristol City
+         Cardiff City             1-0 (0-0)  Middlesbrough FC
+         Charlton Athletic        0-3 (0-2)  Preston North End
+         Huddersfield Town        2-0 (0-0)  Milton Keynes Dons
+         Hull City                3-0 (2-0)  Ipswich Town
+         Nottingham Forest        1-1 (0-0)  Burnley FC
+         Queens Park Rangers      0-0  Sheffield Wednesday
+         Rotherham United         1-1 (0-1)  Reading FC
+  20.00  Bolton Wanderers         0-1 (0-1)  Birmingham City
 [Wed Oct/21]
-  Wolves                   0-2  Brentford
-  Fulham                   1-1  Leeds
-  Blackburn                0-0  Derby
+  19.45  Fulham FC                1-1 (1-0)  Leeds United
+         Wolverhampton Wanderers  0-2 (0-1)  Brentford FC
+         Blackburn Rovers         0-0  Derby County
 
 
 Matchday 13
 [Fri Oct/23]
-  Rotherham                1-2  Sheffield Wed
+  19.45  Rotherham United         1-2 (0-0)  Sheffield Wednesday
 [Sat Oct/24]
-  Blackburn                0-1  Burnley
-  Fulham                   4-2  Reading
-  Wolves                   1-3  Middlesbrough
-  QPR                      3-0  Milton Keynes Dons
-  Nottingham Forest        1-1  Ipswich
-  Hull City                2-0  Birmingham
-  Huddersfield             1-2  Derby
-  Charlton                 0-3  Brentford
-  Brighton                 0-0  Preston
-  Bolton                   1-1  Leeds
+  12.30  Blackburn Rovers         0-1 (0-0)  Burnley FC
+  13.30  Fulham FC                4-2 (0-1)  Reading FC
+  15.00  Bolton Wanderers         1-1 (1-0)  Leeds United
+         Brighton & Hove Albion   0-0  Preston North End
+         Charlton Athletic        0-3 (0-1)  Brentford FC
+         Huddersfield Town        1-2 (1-1)  Derby County
+         Hull City                2-0 (2-0)  Birmingham City
+         Nottingham Forest        1-1 (0-0)  Ipswich Town
+         Queens Park Rangers      3-0 (0-0)  Milton Keynes Dons
+         Wolverhampton Wanderers  1-3 (1-0)  Middlesbrough FC
 [Mon Oct/26]
-  Cardiff                  0-0  Bristol City
+  19.45  Cardiff City             0-0  Bristol City
 
 
 Matchday 14
 [Thu Oct/29]
-  Leeds                    0-2  Blackburn
+  19.45  Leeds United             0-2 (0-2)  Blackburn Rovers
 [Fri Oct/30]
-  Brentford                1-0  QPR
+  19.45  Brentford FC             1-0 (0-0)  Queens Park Rangers
 [Sat Oct/31]
-  Birmingham               0-2  Wolves
-  Sheffield Wed            1-0  Nottingham Forest
-  Reading                  1-1  Brighton
-  Milton Keynes Dons       0-2  Hull City
-  Middlesbrough            3-0  Charlton
-  Ipswich                  0-0  Cardiff
-  Derby                    3-0  Rotherham
-  Burnley                  2-1  Huddersfield
-  Bristol City             1-4  Fulham
-  Preston                  0-0  Bolton
+  12.30  Birmingham City          0-2 (0-1)  Wolverhampton Wanderers
+  15.00  Bristol City             1-4 (0-4)  Fulham FC
+         Burnley FC               2-1 (2-0)  Huddersfield Town
+         Derby County             3-0 (2-0)  Rotherham United
+         Ipswich Town             0-0  Cardiff City
+         Milton Keynes Dons       0-2 (0-1)  Hull City
+         Middlesbrough FC         3-0 (0-0)  Charlton Athletic
+         Reading FC               1-1 (0-0)  Brighton & Hove Albion
+         Sheffield Wednesday      1-0 (0-0)  Nottingham Forest
+  18.00  Preston North End        0-0  Bolton Wanderers
 
 
 Matchday 15
 [Tue Nov/3]
-  Sheffield Wed            0-0  Brighton
-  Preston                  1-0  Nottingham Forest
-  Milton Keynes Dons       1-0  Charlton
-  Middlesbrough            1-0  Rotherham
-  Leeds                    1-0  Cardiff
-  Ipswich                  2-0  Bolton
-  Derby                    1-0  QPR
-  Burnley                  3-1  Fulham
-  Bristol City             1-0  Wolves
-  Brentford                0-2  Hull City
-  Birmingham               0-0  Blackburn
-  Reading                  2-2  Huddersfield
+  19.45  Birmingham City          0-0  Blackburn Rovers
+         Brentford FC             0-2 (0-0)  Hull City
+         Bristol City             1-0 (1-0)  Wolverhampton Wanderers
+         Burnley FC               3-1 (2-0)  Fulham FC
+         Derby County             1-0 (0-0)  Queens Park Rangers
+         Ipswich Town             2-0 (1-0)  Bolton Wanderers
+         Leeds United             1-0 (0-0)  Cardiff City
+         Milton Keynes Dons       1-0 (1-0)  Charlton Athletic
+         Middlesbrough FC         1-0 (1-0)  Rotherham United
+         Preston North End        1-0 (1-0)  Nottingham Forest
+         Sheffield Wednesday      0-0  Brighton & Hove Albion
+  20.00  Reading FC               2-2 (1-2)  Huddersfield Town
 
 
 Matchday 16
 [Fri Nov/6]
-  Nottingham Forest        1-0  Derby
+  19.30  Nottingham Forest        1-0 (1-0)  Derby County
 [Sat Nov/7]
-  Huddersfield             0-3  Leeds
-  Wolves                   0-0  Burnley
-  Rotherham                2-5  Ipswich
-  QPR                      0-0  Preston
-  Hull City                3-0  Middlesbrough
-  Fulham                   2-5  Birmingham
-  Charlton                 3-1  Sheffield Wed
-  Cardiff                  2-0  Reading
-  Brighton                 2-1  Milton Keynes Dons
-  Bolton                   0-0  Bristol City
-  Blackburn                1-1  Brentford
+  12.30  Huddersfield Town        0-3 (0-2)  Leeds United
+  15.00  Blackburn Rovers         1-1 (1-1)  Brentford FC
+         Bolton Wanderers         0-0  Bristol City
+         Brighton & Hove Albion   2-1 (2-1)  Milton Keynes Dons
+         Cardiff City             2-0 (1-0)  Reading FC
+         Charlton Athletic        3-1 (2-0)  Sheffield Wednesday
+         Fulham FC                2-5 (0-3)  Birmingham City
+         Hull City                3-0 (1-0)  Middlesbrough FC
+         Queens Park Rangers      0-0  Preston North End
+         Rotherham United         2-5 (0-3)  Ipswich Town
+         Wolverhampton Wanderers  0-0  Burnley FC
 
 
 Matchday 17
 [Fri Nov/20]
-  Middlesbrough            1-0  QPR
+  19.45  Middlesbrough FC         1-0 (0-0)  Queens Park Rangers
 [Sat Nov/21]
-  Bristol City             1-1  Hull City
-  Sheffield Wed            3-1  Huddersfield
-  Reading                  2-1  Bolton
-  Preston                  1-2  Blackburn
-  Milton Keynes Dons       1-1  Fulham
-  Leeds                    0-1  Rotherham
-  Ipswich                  2-2  Wolves
-  Derby                    2-0  Cardiff
-  Brentford                2-1  Nottingham Forest
-  Birmingham               0-1  Charlton
+  12.30  Bristol City             1-1 (1-0)  Hull City
+  15.00  Birmingham City          0-1 (0-0)  Charlton Athletic
+         Brentford FC             2-1 (0-0)  Nottingham Forest
+         Derby County             2-0 (0-0)  Cardiff City
+         Ipswich Town             2-2 (1-1)  Wolverhampton Wanderers
+         Leeds United             0-1 (0-0)  Rotherham United
+         Milton Keynes Dons       1-1 (1-1)  Fulham FC
+         Preston North End        1-2 (0-1)  Blackburn Rovers
+         Reading FC               2-1 (2-0)  Bolton Wanderers
+         Sheffield Wednesday      3-1 (0-0)  Huddersfield Town
 [Sun Nov/22]
-  Burnley                  1-1  Brighton
+  13.15  Burnley FC               1-1 (1-1)  Brighton & Hove Albion
 
 
 Matchday 18
 [Fri Nov/27]
-  Hull City                0-2  Derby
+  19.45  Hull City                0-2 (0-2)  Derby County
 [Sat Nov/28]
-  Charlton                 0-3  Ipswich
-  Wolves                   0-0  Milton Keynes Dons
-  Rotherham                3-0  Bristol City
-  QPR                      1-0  Leeds
-  Nottingham Forest        3-1  Reading
-  Huddersfield             0-2  Middlesbrough
-  Fulham                   1-1  Preston
-  Cardiff                  2-2  Burnley
-  Brighton                 2-1  Birmingham
-  Blackburn                2-2  Sheffield Wed
+  12.30  Charlton Athletic        0-3 (0-2)  Ipswich Town
+  15.00  Blackburn Rovers         2-2 (2-1)  Sheffield Wednesday
+         Brighton & Hove Albion   2-1 (1-1)  Birmingham City
+         Cardiff City             2-2 (1-0)  Burnley FC
+         Fulham FC                1-1 (0-1)  Preston North End
+         Huddersfield Town        0-2 (0-1)  Middlesbrough FC
+         Nottingham Forest        3-1 (2-1)  Reading FC
+         Queens Park Rangers      1-0 (0-0)  Leeds United
+         Rotherham United         3-0 (2-0)  Bristol City
+         Wolverhampton Wanderers  0-0  Milton Keynes Dons
 [Mon Nov/30]
-  Bolton                   1-1  Brentford
+  19.45  Bolton Wanderers         1-1 (0-1)  Brentford FC
 
 
 Matchday 19
 [Thu Dec/3]
-  Reading                  0-1  QPR
+  20.00  Reading FC               0-1 (0-0)  Queens Park Rangers
 [Fri Dec/4]
-  Ipswich                  0-2  Middlesbrough
+  19.45  Ipswich Town             0-2 (0-0)  Middlesbrough FC
 [Sat Dec/5]
-  Rotherham                1-2  Wolves
-  Nottingham Forest        3-0  Fulham
-  Leeds                    2-1  Hull City
-  Burnley                  0-2  Preston
-  Bristol City             0-2  Blackburn
-  Brighton                 3-2  Charlton
-  Brentford                2-0  Milton Keynes Dons
-  Bolton                   2-3  Cardiff
-  Birmingham               0-2  Huddersfield
+  15.00  Birmingham City          0-2 (0-1)  Huddersfield Town
+         Bolton Wanderers         2-3 (1-1)  Cardiff City
+         Brentford FC             2-0 (1-0)  Milton Keynes Dons
+         Brighton & Hove Albion   3-2 (0-2)  Charlton Athletic
+         Bristol City             0-2 (0-0)  Blackburn Rovers
+         Burnley FC               0-2 (0-0)  Preston North End
+         Leeds United             2-1 (2-0)  Hull City
+         Nottingham Forest        3-0 (1-0)  Fulham FC
+         Rotherham United         1-2 (1-2)  Wolverhampton Wanderers
 [Sun Dec/6]
-  Sheffield Wed            0-0  Derby
+  13.15  Sheffield Wednesday      0-0  Derby County
 
 
 Matchday 20
 [Fri Dec/11]
-  Wolves                   1-1  Nottingham Forest
-  Blackburn                1-0  Rotherham
+  19.45  Blackburn Rovers         1-0 (1-0)  Rotherham United
+         Wolverhampton Wanderers  1-1 (1-0)  Nottingham Forest
 [Sat Dec/12]
-  Milton Keynes Dons       0-1  Ipswich
-  QPR                      0-0  Burnley
-  Preston                  1-0  Reading
-  Middlesbrough            0-0  Birmingham
-  Hull City                1-0  Bolton
-  Huddersfield             1-2  Bristol City
-  Fulham                   2-2  Brentford
-  Derby                    2-2  Brighton
-  Charlton                 0-0  Leeds
-  Cardiff                  2-2  Sheffield Wed
+  12.30  Milton Keynes Dons       0-1 (0-1)  Ipswich Town
+  15.00  Cardiff City             2-2 (2-0)  Sheffield Wednesday
+         Charlton Athletic        0-0  Leeds United
+         Derby County             2-2 (1-1)  Brighton & Hove Albion
+         Fulham FC                2-2 (1-1)  Brentford FC
+         Huddersfield Town        1-2 (0-2)  Bristol City
+         Hull City                1-0 (1-0)  Bolton Wanderers
+         Preston North End        1-0 (0-0)  Reading FC
+         Queens Park Rangers      0-0  Burnley FC
+         Middlesbrough FC         0-0  Birmingham City
 
 
 Matchday 21
 [Mon Dec/14]
-  Blackburn                0-0  Nottingham Forest
+  19.45  Blackburn Rovers         0-0  Nottingham Forest
 [Tue Dec/15]
-  QPR                      2-2  Brighton
-  Preston                  1-1  Birmingham
-  Milton Keynes Dons       2-1  Sheffield Wed
-  Middlesbrough            1-0  Burnley
-  Huddersfield             2-0  Rotherham
-  Fulham                   1-2  Ipswich
-  Derby                    4-0  Bristol City
-  Charlton                 2-2  Bolton
-  Cardiff                  3-2  Brentford
+  19.45  Cardiff City             3-2 (2-0)  Brentford FC
+         Charlton Athletic        2-2 (2-2)  Bolton Wanderers
+         Derby County             4-0 (1-0)  Bristol City
+         Fulham FC                1-2 (1-1)  Ipswich Town
+         Huddersfield Town        2-0 (1-0)  Rotherham United
+         Milton Keynes Dons       2-1 (1-0)  Sheffield Wednesday
+         Middlesbrough FC         1-0 (0-0)  Burnley FC
+         Preston North End        1-1 (1-0)  Birmingham City
+         Queens Park Rangers      2-2 (0-0)  Brighton & Hove Albion
 [Wed Dec/16]
-  Hull City                2-1  Reading
+  19.45  Hull City                2-1 (0-1)  Reading FC
 [Thu Dec/17]
-  Wolves                   2-3  Leeds
+  19.45  Wolverhampton Wanderers  2-3 (0-1)  Leeds United
 
 
 Matchday 22
 [Fri Dec/18]
-  Birmingham               1-0  Cardiff
+  19.45  Birmingham City          1-0 (1-0)  Cardiff City
 [Sat Dec/19]
-  Brighton                 0-3  Middlesbrough
-  Rotherham                2-0  Hull City
-  Nottingham Forest        2-1  Milton Keynes Dons
-  Ipswich                  0-1  Derby
-  Burnley                  4-0  Charlton
-  Bristol City             1-1  QPR
-  Brentford                4-2  Huddersfield
-  Bolton                   2-2  Fulham
+  12.30  Brighton & Hove Albion   0-3 (0-2)  Middlesbrough FC
+  15.00  Bolton Wanderers         2-2 (0-1)  Fulham FC
+         Brentford FC             4-2 (3-0)  Huddersfield Town
+         Bristol City             1-1 (0-0)  Queens Park Rangers
+         Burnley FC               4-0 (1-0)  Charlton Athletic
+         Ipswich Town             0-1 (0-1)  Derby County
+         Nottingham Forest        2-1 (2-0)  Milton Keynes Dons
+         Rotherham United         2-0 (1-0)  Hull City
 [Sun Dec/20]
-  Sheffield Wed            4-1  Wolves
-  Reading                  1-0  Blackburn
-  Leeds                    1-0  Preston
+  14.00  Sheffield Wednesday      4-1 (2-1)  Wolverhampton Wanderers
+  15.00  Leeds United             1-0 (0-0)  Preston North End
+         Reading FC               1-0 (1-0)  Blackburn Rovers
 
 
 Matchday 23
 [Sat Dec/26]
-  Brentford                0-0  Brighton
-  Sheffield Wed            3-0  Birmingham
-  Rotherham                4-0  Bolton
-  Milton Keynes Dons       2-1  Cardiff
-  Ipswich                  2-1  QPR
-  Hull City                3-0  Burnley
-  Huddersfield             3-1  Preston
-  Derby                    2-0  Fulham
-  Bristol City             1-1  Charlton
-  Wolves                   1-0  Reading
+  13.00  Brentford FC             0-0  Brighton & Hove Albion
+  15.00  Bristol City             1-1 (1-0)  Charlton Athletic
+         Derby County             2-0 (0-0)  Fulham FC
+         Huddersfield Town        3-1 (1-0)  Preston North End
+         Hull City                3-0 (0-0)  Burnley FC
+         Ipswich Town             2-1 (0-1)  Queens Park Rangers
+         Milton Keynes Dons       2-1 (0-0)  Cardiff City
+         Rotherham United         4-0 (0-0)  Bolton Wanderers
+         Sheffield Wednesday      3-0 (2-0)  Birmingham City
+  17.15  Wolverhampton Wanderers  1-0 (1-0)  Reading FC
 [Sun Dec/27]
-  Nottingham Forest        1-1  Leeds
+  16.30  Nottingham Forest        1-1 (1-0)  Leeds United
 
 
 Matchday 24
 [Mon Dec/28]
-  Bolton                   1-0  Blackburn
-  Reading                  1-2  Brentford
-  QPR                      1-1  Huddersfield
-  Preston                  1-0  Hull City
-  Charlton                 0-2  Wolves
-  Burnley                  4-0  Bristol City
-  Birmingham               1-0  Milton Keynes Dons
-  Middlesbrough            1-0  Sheffield Wed
+  17.15  Middlesbrough FC         1-0 (1-0)  Sheffield Wednesday
+  12.45  Bolton Wanderers         1-0 (0-0)  Blackburn Rovers
+  15.00  Reading FC               1-2 (0-1)  Brentford FC
+         Burnley FC               4-0 (2-0)  Bristol City
+         Queens Park Rangers      1-1 (0-0)  Huddersfield Town
+         Preston North End        1-0 (0-0)  Hull City
+         Birmingham City          1-0 (0-0)  Milton Keynes Dons
+         Charlton Athletic        0-2 (0-0)  Wolverhampton Wanderers
 [Tue Dec/29]
-  Leeds                    2-2  Derby
-  Fulham                   4-1  Rotherham
-  Cardiff                  1-1  Nottingham Forest
-  Brighton                 0-1  Ipswich
+  19.45  Leeds United             2-2 (1-1)  Derby County
+         Brighton & Hove Albion   0-1 (0-1)  Ipswich Town
+         Cardiff City             1-1 (1-1)  Nottingham Forest
+         Fulham FC                4-1 (2-1)  Rotherham United
 
 
 Matchday 25
 [Fri Jan/1]
-  Brighton                 0-1  Wolves
-  QPR                      1-2  Hull City
+  15.00  Brighton & Hove Albion   0-1 (0-1)  Wolverhampton Wanderers
+  17.15  Queens Park Rangers      1-2 (0-0)  Hull City
 [Sat Jan/2]
-  Reading                  1-0  Bristol City
-  Preston                  2-1  Rotherham
-  Middlesbrough            2-0  Derby
-  Leeds                    1-1  Milton Keynes Dons
-  Fulham                   0-1  Sheffield Wed
-  Charlton                 1-1  Nottingham Forest
-  Cardiff                  1-0  Blackburn
-  Burnley                  0-0  Ipswich
-  Bolton                   0-2  Huddersfield
-  Birmingham               2-1  Brentford
+  15.00  Bolton Wanderers         0-2 (0-0)  Huddersfield Town
+         Cardiff City             1-0 (0-0)  Blackburn Rovers
+         Birmingham City          2-1 (0-0)  Brentford FC
+         Middlesbrough FC         2-0 (0-0)  Derby County
+         Burnley FC               0-0  Ipswich Town
+         Charlton Athletic        1-1 (0-1)  Nottingham Forest
+         Preston North End        2-1 (0-1)  Rotherham United
+         Reading FC               1-0 (0-0)  Bristol City
+         Leeds United             1-1 (1-0)  Milton Keynes Dons
+         Fulham FC                0-1 (0-1)  Sheffield Wednesday
 
 
 Matchday 26
 [Tue Jan/12]
-  Wolves                   3-2  Fulham
-  Sheffield Wed            3-2  Bolton
-  Rotherham                2-0  Brighton
-  Nottingham Forest        1-1  Birmingham
-  Milton Keynes Dons       0-5  Burnley
-  Ipswich                  2-1  Leeds
-  Huddersfield             5-0  Charlton
-  Derby                    1-1  Reading
-  Bristol City             1-2  Preston
-  Brentford                0-1  Middlesbrough
-  Blackburn                1-1  QPR
+  19.45  Huddersfield Town        5-0 (2-0)  Charlton Athletic
+         Nottingham Forest        1-1 (1-1)  Birmingham City
+         Rotherham United         2-0 (1-0)  Brighton & Hove Albion
+         Milton Keynes Dons       0-5 (0-1)  Burnley FC
+  20.00  Wolverhampton Wanderers  3-2 (2-1)  Fulham FC
+  19.45  Ipswich Town             2-1 (0-1)  Leeds United
+         Brentford FC             0-1 (0-0)  Middlesbrough FC
+         Bristol City             1-2 (0-0)  Preston North End
+         Blackburn Rovers         1-1 (0-1)  Queens Park Rangers
+         Sheffield Wednesday      3-2 (1-1)  Bolton Wanderers
+         Derby County             1-1 (1-1)  Reading FC
 [Wed Jan/13]
-  Hull City                2-0  Cardiff
+  19.45  Hull City                2-0 (1-0)  Cardiff City
 
 
 Matchday 27
 [Fri Jan/15]
-  Brentford                1-3  Burnley
+  19.45  Brentford FC             1-3 (0-3)  Burnley FC
 [Sat Jan/16]
-  Sheffield Wed            2-0  Leeds
-  Wolves                   1-3  Cardiff
-  Rotherham                0-3  QPR
-  Nottingham Forest        3-0  Bolton
-  Milton Keynes Dons       1-0  Reading
-  Ipswich                  1-1  Preston
-  Hull City                6-0  Charlton
-  Huddersfield             1-1  Fulham
-  Derby                    0-3  Birmingham
-  Bristol City             1-0  Middlesbrough
-  Blackburn                0-1  Brighton
+  15.00  Hull City                6-0 (4-0)  Charlton Athletic
+  12.30  Sheffield Wednesday      2-0 (0-0)  Leeds United
+  15.00  Derby County             0-3 (0-0)  Birmingham City
+         Nottingham Forest        3-0 (2-0)  Bolton Wanderers
+         Blackburn Rovers         0-1 (0-1)  Brighton & Hove Albion
+         Wolverhampton Wanderers  1-3 (1-2)  Cardiff City
+         Milton Keynes Dons       1-0 (0-0)  Reading FC
+         Huddersfield Town        1-1 (1-1)  Fulham FC
+         Bristol City             1-0 (0-0)  Middlesbrough FC
+         Ipswich Town             1-1 (1-1)  Preston North End
+         Rotherham United         0-3 (0-0)  Queens Park Rangers
 
 
 Matchday 28
 [Sat Jan/23]
-  QPR                      1-1  Wolves
-  Reading                  1-1  Sheffield Wed
-  Preston                  1-3  Brentford
-  Middlesbrough            0-1  Nottingham Forest
-  Leeds                    1-0  Bristol City
-  Fulham                   0-1  Hull City
-  Charlton                 1-1  Blackburn
-  Cardiff                  2-2  Rotherham
-  Brighton                 2-1  Huddersfield
-  Bolton                   3-1  Milton Keynes Dons
-  Birmingham               3-0  Ipswich
+  15.00  Fulham FC                0-1 (0-0)  Hull City
+  12.30  Queens Park Rangers      1-1 (1-0)  Wolverhampton Wanderers
+  15.00  Leeds United             1-0 (0-0)  Bristol City
+         Brighton & Hove Albion   2-1 (1-1)  Huddersfield Town
+         Cardiff City             2-2 (1-1)  Rotherham United
+         Bolton Wanderers         3-1 (2-0)  Milton Keynes Dons
+         Reading FC               1-1 (0-1)  Sheffield Wednesday
+         Charlton Athletic        1-1 (1-1)  Blackburn Rovers
+         Preston North End        1-3 (1-2)  Brentford FC
+         Birmingham City          3-0 (1-0)  Ipswich Town
+         Middlesbrough FC         0-1 (0-0)  Nottingham Forest
 [Mon Jan/25]
-  Burnley                  4-1  Derby
+  19.45  Burnley FC               4-1 (1-1)  Derby County
 
 
 Matchday 29
 [Tue Jan/26]
-  Nottingham Forest        0-0  QPR
-  Brentford                1-1  Leeds
+  19.45  Brentford FC             1-1 (1-0)  Leeds United
+         Nottingham Forest        0-0  Queens Park Rangers
 [Sat Jan/30]
-  Rotherham                1-4  Charlton
-  Huddersfield             2-3  Cardiff
-  Bristol City             0-0  Birmingham
+  15.00  Bristol City             0-0  Birmingham City
+         Huddersfield Town        2-3 (1-1)  Cardiff City
+         Rotherham United         1-4 (1-2)  Charlton Athletic
 [Tue Feb/2]
-  Wolves                   2-2  Bolton
-  Sheffield Wed            1-1  Burnley
-  Ipswich                  2-1  Reading
-  Derby                    0-0  Preston
+  19.45  Derby County             0-0  Preston North End
+         Wolverhampton Wanderers  2-2 (1-0)  Bolton Wanderers
+         Sheffield Wednesday      1-1 (0-1)  Burnley FC
+         Ipswich Town             2-1 (0-0)  Reading FC
 
 
 Matchday 30
 [Fri Feb/5]
-  Brighton                 3-0  Brentford
+  19.45  Brighton & Hove Albion   3-0 (2-0)  Brentford FC
 [Sat Feb/6]
-  Reading                  0-0  Wolves
-  QPR                      1-0  Ipswich
-  Preston                  2-1  Huddersfield
-  Middlesbrough            1-1  Blackburn
-  Leeds                    0-1  Nottingham Forest
-  Fulham                   1-1  Derby
-  Charlton                 0-1  Bristol City
-  Cardiff                  0-0  Milton Keynes Dons
-  Burnley                  1-0  Hull City
-  Bolton                   2-1  Rotherham
-  Birmingham               1-2  Sheffield Wed
+  15.00  Leeds United             0-1 (0-0)  Nottingham Forest
+         Cardiff City             0-0  Milton Keynes Dons
+         Birmingham City          1-2 (1-0)  Sheffield Wednesday
+         Bolton Wanderers         2-1 (1-1)  Rotherham United
+         Middlesbrough FC         1-1 (0-0)  Blackburn Rovers
+         Charlton Athletic        0-1 (0-1)  Bristol City
+         Fulham FC                1-1 (1-1)  Derby County
+         Preston North End        2-1 (0-0)  Huddersfield Town
+         Burnley FC               1-0 (0-0)  Hull City
+         Queens Park Rangers      1-0 (0-0)  Ipswich Town
+         Reading FC               0-0  Wolverhampton Wanderers
+
+
+Matchday 29
+[Tue Feb/9]
+  19.45  Milton Keynes Dons       1-1 (1-0)  Middlesbrough FC
 
 
 Matchday 31
-[Tue Feb/9]
-  Milton Keynes Dons       1-1  Middlesbrough
 [Sat Feb/13]
-  QPR                      1-3  Fulham
-  Wolves                   1-2  Preston
-  Sheffield Wed            4-0  Brentford
-  Rotherham                0-0  Birmingham
-  Reading                  0-0  Burnley
-  Nottingham Forest        0-2  Huddersfield
-  Derby                    0-1  Milton Keynes Dons
-  Charlton                 0-0  Cardiff
-  Bristol City             2-1  Ipswich
-  Brighton                 3-2  Bolton
-  Blackburn                0-2  Hull City
+  15.00  Wolverhampton Wanderers  1-2 (0-1)  Preston North End
+         Derby County             0-1 (0-0)  Milton Keynes Dons
+         Bristol City             2-1 (2-0)  Ipswich Town
+  12.30  Queens Park Rangers      1-3 (0-3)  Fulham FC
+  15.00  Rotherham United         0-0  Birmingham City
+         Brighton & Hove Albion   3-2 (2-1)  Bolton Wanderers
+         Sheffield Wednesday      4-0 (3-0)  Brentford FC
+         Reading FC               0-0  Burnley FC
+         Charlton Athletic        0-0  Cardiff City
+         Nottingham Forest        0-2 (0-1)  Huddersfield Town
+         Blackburn Rovers         0-2 (0-0)  Hull City
 [Mon Feb/15]
-  Leeds                    0-0  Middlesbrough
+  19.45  Leeds United             0-0  Middlesbrough FC
+
+
+Matchday 29
+[Tue Feb/16]
+  19.45  Hull City                0-0  Brighton & Hove Albion
+         Blackburn Rovers         3-0 (1-0)  Fulham FC
 
 
 Matchday 32
-[Tue Feb/16]
-  Hull City                0-0  Brighton
-  Blackburn                3-0  Fulham
 [Sat Feb/20]
-  Cardiff                  4-1  Brighton
-  Preston                  1-0  Sheffield Wed
-  Milton Keynes Dons       0-2  Bristol City
-  Huddersfield             1-0  Wolves
-  Fulham                   3-0  Charlton
-  Burnley                  2-0  Rotherham
-  Brentford                1-3  Derby
-  Bolton                   1-1  QPR
+  15.00  Brentford FC             1-3 (0-0)  Derby County
+  12.30  Cardiff City             4-1 (3-0)  Brighton & Hove Albion
+  15.00  Milton Keynes Dons       0-2 (0-1)  Bristol City
+         Fulham FC                3-0 (1-0)  Charlton Athletic
+         Huddersfield Town        1-0 (0-0)  Wolverhampton Wanderers
+         Bolton Wanderers         1-1 (0-0)  Queens Park Rangers
+         Burnley FC               2-0 (1-0)  Rotherham United
+         Preston North End        1-0 (0-0)  Sheffield Wednesday
 
 
 Matchday 33
 [Tue Feb/23]
-  Sheffield Wed            1-1  QPR
-  Preston                  2-1  Charlton
-  Milton Keynes Dons       1-1  Huddersfield
-  Middlesbrough            3-1  Cardiff
-  Leeds                    1-1  Fulham
-  Ipswich                  0-1  Hull City
-  Burnley                  1-0  Nottingham Forest
-  Bristol City             0-4  Brighton
-  Brentford                3-0  Wolves
-  Birmingham               1-0  Bolton
-  Reading                  1-0  Rotherham
+  19.45  Leeds United             1-1 (1-1)  Fulham FC
+  20.00  Reading FC               1-0 (0-0)  Rotherham United
+  19.45  Birmingham City          1-0 (1-0)  Bolton Wanderers
+         Brentford FC             3-0 (1-0)  Wolverhampton Wanderers
+         Sheffield Wednesday      1-1 (0-0)  Queens Park Rangers
+         Bristol City             0-4 (0-2)  Brighton & Hove Albion
+         Middlesbrough FC         3-1 (1-1)  Cardiff City
+         Preston North End        2-1 (1-1)  Charlton Athletic
+         Burnley FC               1-0 (0-0)  Nottingham Forest
+         Milton Keynes Dons       1-1 (1-0)  Huddersfield Town
+         Ipswich Town             0-1 (0-0)  Hull City
 [Wed Feb/24]
-  Derby                    1-0  Blackburn
+  19.45  Derby County             1-0 (1-0)  Blackburn Rovers
 
 
 Matchday 34
 [Fri Feb/26]
-  Hull City                0-0  Sheffield Wed
+  19.45  Hull City                0-0  Sheffield Wednesday
 [Sat Feb/27]
-  Wolves                   2-1  Derby
-  Rotherham                2-1  Brentford
-  QPR                      2-0  Birmingham
-  Nottingham Forest        1-2  Bristol City
-  Huddersfield             0-1  Ipswich
-  Fulham                   0-2  Middlesbrough
-  Charlton                 3-4  Reading
-  Cardiff                  2-1  Preston
-  Bolton                   1-2  Burnley
-  Blackburn                3-2  Milton Keynes Dons
+  15.00  Charlton Athletic        3-4 (1-3)  Reading FC
+         Huddersfield Town        0-1 (0-1)  Ipswich Town
+         Cardiff City             2-1 (1-0)  Preston North End
+         Fulham FC                0-2 (0-2)  Middlesbrough FC
+         Blackburn Rovers         3-2 (0-1)  Milton Keynes Dons
+  12.30  Wolverhampton Wanderers  2-1 (1-1)  Derby County
+  15.00  Queens Park Rangers      2-0 (2-0)  Birmingham City
+         Rotherham United         2-1 (1-1)  Brentford FC
+         Nottingham Forest        1-2 (1-1)  Bristol City
+         Bolton Wanderers         1-2 (0-0)  Burnley FC
 [Mon Feb/29]
-  Brighton                 4-0  Leeds
+  19.45  Brighton & Hove Albion   4-0 (4-0)  Leeds United
+
+
+Matchday 23
+[Tue Mar/1]
+  19.45  Blackburn Rovers         2-1 (0-0)  Middlesbrough FC
 
 
 Matchday 35
-[Tue Mar/1]
-  Blackburn                2-1  Middlesbrough
 [Thu Mar/3]
-  Birmingham               1-0  Hull City
+  19.45  Birmingham City          1-0 (1-0)  Hull City
 [Fri Mar/4]
-  Middlesbrough            2-1  Wolves
+  19.45  Middlesbrough FC         2-1 (1-0)  Wolverhampton Wanderers
 [Sat Mar/5]
-  Bristol City             0-2  Cardiff
-  Burnley                  1-0  Blackburn
-  Sheffield Wed            0-1  Rotherham
-  Reading                  2-2  Fulham
-  Preston                  0-0  Brighton
-  Milton Keynes Dons       2-0  QPR
-  Leeds                    2-1  Bolton
-  Ipswich                  1-0  Nottingham Forest
-  Derby                    2-0  Huddersfield
-  Brentford                1-2  Charlton
+  15.00  Sheffield Wednesday      0-1 (0-1)  Rotherham United
+         Milton Keynes Dons       2-0 (0-0)  Queens Park Rangers
+         Ipswich Town             1-0 (0-0)  Nottingham Forest
+         Derby County             2-0 (1-0)  Huddersfield Town
+  12.00  Bristol City             0-2 (0-1)  Cardiff City
+  12.30  Burnley FC               1-0 (1-0)  Blackburn Rovers
+  15.00  Leeds United             2-1 (1-0)  Bolton Wanderers
+         Preston North End        0-0  Brighton & Hove Albion
+         Brentford FC             1-2 (1-1)  Charlton Athletic
+         Reading FC               2-2 (2-1)  Fulham FC
 
 
 Matchday 36
 [Tue Mar/8]
-  Wolves                   2-1  Bristol City
-  Rotherham                1-0  Middlesbrough
-  QPR                      2-0  Derby
-  Nottingham Forest        1-0  Preston
-  Huddersfield             3-1  Reading
-  Fulham                   2-3  Burnley
-  Charlton                 0-0  Milton Keynes Dons
-  Cardiff                  0-2  Leeds
-  Blackburn                2-0  Birmingham
-  Brighton                 0-0  Sheffield Wed
-  Bolton                   2-2  Ipswich
+  20.00  Brighton & Hove Albion   0-0  Sheffield Wednesday
+         Bolton Wanderers         2-2 (0-1)  Ipswich Town
+  19.45  Huddersfield Town        3-1 (0-0)  Reading FC
+         Nottingham Forest        1-0 (1-0)  Preston North End
+         Blackburn Rovers         2-0 (2-0)  Birmingham City
+         Wolverhampton Wanderers  2-1 (0-0)  Bristol City
+         Fulham FC                2-3 (2-1)  Burnley FC
+         Queens Park Rangers      2-0 (1-0)  Derby County
+         Cardiff City             0-2 (0-1)  Leeds United
+         Charlton Athletic        0-0  Milton Keynes Dons
+         Rotherham United         1-0 (0-0)  Middlesbrough FC
 
 
 Matchday 37
 [Sat Mar/12]
-  Blackburn                1-2  Leeds
-  Rotherham                3-3  Derby
-  QPR                      3-0  Brentford
-  Nottingham Forest        0-3  Sheffield Wed
-  Hull City                1-1  Milton Keynes Dons
-  Huddersfield             1-3  Burnley
-  Fulham                   1-2  Bristol City
-  Cardiff                  1-0  Ipswich
-  Bolton                   1-2  Preston
+  15.00  Fulham FC                1-2 (1-0)  Bristol City
+         Nottingham Forest        0-3 (0-1)  Sheffield Wednesday
+         Bolton Wanderers         1-2 (1-0)  Preston North End
+         Hull City                1-1 (0-0)  Milton Keynes Dons
+         Rotherham United         3-3 (0-0)  Derby County
+  12.30  Blackburn Rovers         1-2 (0-1)  Leeds United
+  15.00  Queens Park Rangers      3-0 (1-0)  Brentford FC
+         Huddersfield Town        1-3 (1-3)  Burnley FC
+         Cardiff City             1-0 (1-0)  Ipswich Town
 [Sun Mar/13]
-  Wolves                   0-0  Birmingham
-  Charlton                 2-0  Middlesbrough
+  15.30  Charlton Athletic        2-0 (0-0)  Middlesbrough FC
+  13.15  Wolverhampton Wanderers  0-0  Birmingham City
 [Tue Mar/15]
-  Brighton                 1-0  Reading
+  19.45  Brighton & Hove Albion   1-0 (1-0)  Reading FC
+
+
+Matchday 32
+[Tue Mar/15]
+  19.45  Hull City                1-1 (0-1)  Nottingham Forest
+         Ipswich Town             2-0 (0-0)  Blackburn Rovers
 
 
 Matchday 38
 [Fri Mar/18]
-  Middlesbrough            1-0  Hull City
+  19.45  Middlesbrough FC         1-0 (0-0)  Hull City
 [Sat Mar/19]
-  Derby                    1-0  Nottingham Forest
-  Sheffield Wed            3-0  Charlton
-  Reading                  1-1  Cardiff
-  Preston                  1-1  QPR
-  Milton Keynes Dons       1-2  Brighton
-  Leeds                    1-4  Huddersfield
-  Ipswich                  0-1  Rotherham
-  Burnley                  1-1  Wolves
-  Bristol City             6-0  Bolton
-  Brentford                0-1  Blackburn
-  Birmingham               1-1  Fulham
+  15.00  Burnley FC               1-1 (0-0)  Wolverhampton Wanderers
+         Preston North End        1-1 (0-1)  Queens Park Rangers
+         Ipswich Town             0-1 (0-1)  Rotherham United
+  12.30  Derby County             1-0 (0-0)  Nottingham Forest
+  15.00  Brentford FC             0-1 (0-0)  Blackburn Rovers
+         Bristol City             6-0 (2-0)  Bolton Wanderers
+         Milton Keynes Dons       1-2 (0-0)  Brighton & Hove Albion
+         Reading FC               1-1 (1-0)  Cardiff City
+         Sheffield Wednesday      3-0 (0-0)  Charlton Athletic
+         Birmingham City          1-1 (0-1)  Fulham FC
+         Leeds United             1-4 (1-1)  Huddersfield Town
 
 
 Matchday 39
 [Fri Apr/1]
-  QPR                      2-3  Middlesbrough
+  19.45  Queens Park Rangers      2-3 (1-1)  Middlesbrough FC
 [Sat Apr/2]
-  Brighton                 2-2  Burnley
-  Blackburn                1-2  Preston
-  Wolves                   0-0  Ipswich
-  Rotherham                2-1  Leeds
-  Nottingham Forest        0-3  Brentford
-  Hull City                4-0  Bristol City
-  Huddersfield             0-1  Sheffield Wed
-  Fulham                   2-1  Milton Keynes Dons
-  Charlton                 2-1  Birmingham
-  Cardiff                  2-1  Derby
-  Bolton                   0-1  Reading
+  15.00  Rotherham United         2-1 (1-0)  Leeds United
+         Fulham FC                2-1 (0-0)  Milton Keynes Dons
+         Bolton Wanderers         0-1 (0-0)  Reading FC
+  12.30  Brighton & Hove Albion   2-2 (2-1)  Burnley FC
+         Blackburn Rovers         1-2 (1-2)  Preston North End
+  15.00  Charlton Athletic        2-1 (1-1)  Birmingham City
+         Nottingham Forest        0-3 (0-0)  Brentford FC
+         Hull City                4-0 (2-0)  Bristol City
+         Cardiff City             2-1 (1-0)  Derby County
+         Wolverhampton Wanderers  0-0  Ipswich Town
+         Huddersfield Town        0-1 (0-0)  Sheffield Wednesday
 
 
 Matchday 40
 [Tue Apr/5]
-  Sheffield Wed            2-1  Blackburn
-  Preston                  1-2  Fulham
-  Milton Keynes Dons       1-2  Wolves
-  Middlesbrough            3-0  Huddersfield
-  Leeds                    1-1  QPR
-  Ipswich                  0-0  Charlton
-  Derby                    4-0  Hull City
-  Burnley                  0-0  Cardiff
-  Bristol City             1-1  Rotherham
-  Brentford                3-1  Bolton
-  Birmingham               1-2  Brighton
-  Reading                  2-1  Nottingham Forest
+  20.00  Reading FC               2-1 (0-1)  Nottingham Forest
+  19.45  Milton Keynes Dons       1-2 (1-0)  Wolverhampton Wanderers
+         Bristol City             1-1 (0-1)  Rotherham United
+         Sheffield Wednesday      2-1 (0-0)  Blackburn Rovers
+         Brentford FC             3-1 (3-0)  Bolton Wanderers
+         Birmingham City          1-2 (1-1)  Brighton & Hove Albion
+         Burnley FC               0-0  Cardiff City
+         Ipswich Town             0-0  Charlton Athletic
+         Preston North End        1-2 (0-1)  Fulham FC
+         Middlesbrough FC         3-0 (2-0)  Huddersfield Town
+         Derby County             4-0 (2-0)  Hull City
+         Leeds United             1-1 (0-0)  Queens Park Rangers
 
 
 Matchday 41
 [Sat Apr/9]
-  Burnley                  1-0  Leeds
-  Wolves                   0-0  Blackburn
-  Reading                  0-2  Birmingham
-  QPR                      2-1  Charlton
-  Milton Keynes Dons       0-4  Rotherham
-  Middlesbrough            1-0  Preston
-  Ipswich                  1-3  Brentford
-  Huddersfield             2-2  Hull City
-  Fulham                   2-1  Cardiff
-  Derby                    4-1  Bolton
-  Bristol City             4-1  Sheffield Wed
+  15.00  Middlesbrough FC         1-0 (1-0)  Preston North End
+         Ipswich Town             1-3 (0-1)  Brentford FC
+         Milton Keynes Dons       0-4 (0-2)  Rotherham United
+  12.30  Burnley FC               1-0 (1-0)  Leeds United
+  15.00  Reading FC               0-2 (0-2)  Birmingham City
+         Wolverhampton Wanderers  0-0  Blackburn Rovers
+         Derby County             4-1 (2-0)  Bolton Wanderers
+         Huddersfield Town        2-2 (1-0)  Hull City
+         Fulham FC                2-1 (0-1)  Cardiff City
+         Queens Park Rangers      2-1 (1-0)  Charlton Athletic
+         Bristol City             4-1 (3-0)  Sheffield Wednesday
 [Mon Apr/11]
-  Nottingham Forest        1-2  Brighton
+  19.45  Nottingham Forest        1-2 (0-1)  Brighton & Hove Albion
+
+
+Matchday 32
+[Tue Apr/12]
+  19.45  Birmingham City          1-2 (0-1)  Leeds United
+         Middlesbrough FC         2-1 (1-0)  Reading FC
 
 
 Matchday 42
-[Tue Apr/12]
-  Middlesbrough            2-1  Reading
-  Birmingham               1-2  Leeds
 [Fri Apr/15]
-  Hull City                2-1  Wolves
-  Brighton                 5-0  Fulham
+  19.45  Brighton & Hove Albion   5-0 (2-0)  Fulham FC
+         Hull City                2-1 (1-1)  Wolverhampton Wanderers
 [Sat Apr/16]
-  Bolton                   1-2  Middlesbrough
-  Sheffield Wed            1-1  Ipswich
-  Rotherham                0-0  Nottingham Forest
-  Preston                  1-1  Milton Keynes Dons
-  Leeds                    3-2  Reading
-  Charlton                 0-1  Derby
-  Cardiff                  0-0  QPR
-  Brentford                1-1  Bristol City
-  Blackburn                0-2  Huddersfield
-  Birmingham               1-2  Burnley
+  15.00  Charlton Athletic        0-1 (0-0)  Derby County
+  12.30  Bolton Wanderers         1-2 (0-0)  Middlesbrough FC
+  15.00  Brentford FC             1-1 (0-1)  Bristol City
+         Birmingham City          1-2 (0-1)  Burnley FC
+         Leeds United             3-2 (0-1)  Reading FC
+         Blackburn Rovers         0-2 (0-1)  Huddersfield Town
+         Sheffield Wednesday      1-1 (1-0)  Ipswich Town
+         Preston North End        1-1 (1-0)  Milton Keynes Dons
+         Rotherham United         0-0  Nottingham Forest
+         Cardiff City             0-0  Queens Park Rangers
 
 
 Matchday 43
 [Tue Apr/19]
-  Sheffield Wed            0-0  Milton Keynes Dons
-  Rotherham                1-1  Huddersfield
-  Nottingham Forest        1-1  Blackburn
-  Leeds                    2-1  Wolves
-  Ipswich                  1-1  Fulham
-  Burnley                  1-1  Middlesbrough
-  Bristol City             2-3  Derby
-  Brighton                 4-0  QPR
-  Brentford                2-1  Cardiff
-  Birmingham               2-2  Preston
-  Reading                  1-2  Hull City
-  Bolton                   0-0  Charlton
+  19.45  Sheffield Wednesday      0-0  Milton Keynes Dons
+         Nottingham Forest        1-1 (1-1)  Blackburn Rovers
+         Brentford FC             2-1 (0-0)  Cardiff City
+         Bristol City             2-3 (2-1)  Derby County
+         Ipswich Town             1-1 (0-0)  Fulham FC
+         Rotherham United         1-1 (1-1)  Huddersfield Town
+  20.00  Reading FC               1-2 (1-1)  Hull City
+  19.45  Burnley FC               1-1 (0-0)  Middlesbrough FC
+         Birmingham City          2-2 (1-0)  Preston North End
+         Brighton & Hove Albion   4-0 (1-0)  Queens Park Rangers
+         Leeds United             2-1 (0-0)  Wolverhampton Wanderers
+  20.00  Bolton Wanderers         0-0  Charlton Athletic
 
 
 Matchday 44
 [Fri Apr/22]
-  Preston                  0-1  Burnley
+  19.45  Preston North End        0-1 (0-1)  Burnley FC
 [Sat Apr/23]
-  Derby                    1-1  Sheffield Wed
-  Wolves                   0-0  Rotherham
-  QPR                      1-1  Reading
-  Milton Keynes Dons       1-4  Brentford
-  Middlesbrough            0-0  Ipswich
-  Hull City                2-2  Leeds
-  Huddersfield             1-1  Birmingham
-  Fulham                   1-3  Nottingham Forest
-  Charlton                 1-3  Brighton
-  Cardiff                  2-1  Bolton
-  Blackburn                2-2  Bristol City
+  15.00  Charlton Athletic        1-3 (0-1)  Brighton & Hove Albion
+  12.30  Derby County             1-1 (0-0)  Sheffield Wednesday
+  15.00  Huddersfield Town        1-1 (0-0)  Birmingham City
+         Cardiff City             2-1 (0-1)  Bolton Wanderers
+         Milton Keynes Dons       1-4 (1-1)  Brentford FC
+         Queens Park Rangers      1-1 (1-1)  Reading FC
+         Blackburn Rovers         2-2 (1-0)  Bristol City
+         Middlesbrough FC         0-0  Ipswich Town
+         Hull City                2-2 (2-1)  Leeds United
+         Fulham FC                1-3 (0-2)  Nottingham Forest
+         Wolverhampton Wanderers  0-0  Rotherham United
+
+
+Matchday 36
+[Tue Apr/26]
+  19.45  Hull City                2-0 (2-0)  Brentford FC
 
 
 Matchday 45
-[Tue Apr/26]
-  Hull City                2-0  Brentford
 [Fri Apr/29]
-  Birmingham               2-2  Middlesbrough
+  19.45  Birmingham City          2-2 (1-1)  Middlesbrough FC
 [Sat Apr/30]
-  Bolton                   1-0  Hull City
-  Sheffield Wed            3-0  Cardiff
-  Rotherham                0-1  Blackburn
-  Reading                  1-2  Preston
-  Nottingham Forest        1-1  Wolves
-  Leeds                    1-2  Charlton
-  Ipswich                  3-2  Milton Keynes Dons
-  Bristol City             4-0  Huddersfield
-  Brentford                3-0  Fulham
+  12.30  Bolton Wanderers         1-0 (0-0)  Hull City
+  15.00  Rotherham United         0-1 (0-1)  Blackburn Rovers
+         Sheffield Wednesday      3-0 (0-0)  Cardiff City
+         Leeds United             1-2 (0-1)  Charlton Athletic
+         Brentford FC             3-0 (3-0)  Fulham FC
+         Bristol City             4-0 (1-0)  Huddersfield Town
+         Ipswich Town             3-2 (1-1)  Milton Keynes Dons
+         Reading FC               1-2 (0-0)  Preston North End
+         Nottingham Forest        1-1 (0-0)  Wolverhampton Wanderers
 [Mon May/2]
-  Brighton                 1-1  Derby
-  Burnley                  1-0  QPR
+  16.45  Burnley FC               1-0 (0-0)  Queens Park Rangers
+  14.30  Brighton & Hove Albion   1-1 (0-0)  Derby County
 
 
 Matchday 46
 [Sat May/7]
-  Wolves                   2-1  Sheffield Wed
-  QPR                      1-0  Bristol City
-  Preston                  1-1  Leeds
-  Milton Keynes Dons       1-2  Nottingham Forest
-  Middlesbrough            1-1  Brighton
-  Hull City                5-1  Rotherham
-  Huddersfield             1-5  Brentford
-  Fulham                   1-0  Bolton
-  Derby                    0-1  Ipswich
-  Charlton                 0-3  Burnley
-  Cardiff                  1-1  Birmingham
-  Blackburn                3-1  Reading
+  12.30  Cardiff City             1-1 (1-1)  Birmingham City
+         Fulham FC                1-0 (0-0)  Bolton Wanderers
+         Huddersfield Town        1-5 (0-1)  Brentford FC
+         Middlesbrough FC         1-1 (1-0)  Brighton & Hove Albion
+         Queens Park Rangers      1-0 (0-0)  Bristol City
+         Charlton Athletic        0-3 (0-1)  Burnley FC
+         Derby County             0-1 (0-1)  Ipswich Town
+         Preston North End        1-1 (0-0)  Leeds United
+         Milton Keynes Dons       1-2 (1-1)  Nottingham Forest
+         Blackburn Rovers         3-1 (2-1)  Reading FC
+         Hull City                5-1 (4-1)  Rotherham United
+         Wolverhampton Wanderers  2-1 (2-0)  Sheffield Wednesday

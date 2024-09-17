@@ -1,633 +1,641 @@
 = English Premier League 2006/07
 
+# Date       Sat Aug/19 2006 - Sun May/13 2007 (267d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Sat Aug/19]
-  Sheffield Utd            1-1  Liverpool
-  West Ham                 3-1  Charlton
-  Reading                  3-2  Middlesbrough
-  Portsmouth               3-0  Blackburn
-  Newcastle Utd            2-1  Wigan
-  Everton                  2-1  Watford
-  Arsenal                  1-1  Aston Villa
-  Bolton                   2-0  Tottenham
+  15.00  Arsenal FC               1-1 (0-0)  Aston Villa
+         Everton FC               2-1 (1-0)  Watford FC
+         Newcastle United         2-1 (1-0)  Wigan Athletic
+         Portsmouth FC            3-0 (1-0)  Blackburn Rovers
+         Reading FC               3-2 (2-2)  Middlesbrough FC
+         West Ham United          3-1 (0-1)  Charlton Athletic
+  17.15  Bolton Wanderers         2-0 (2-0)  Tottenham Hotspur
+  12.45  Sheffield United         1-1 (0-0)  Liverpool FC
 [Sun Aug/20]
-  Manchester United        5-1  Fulham
-  Chelsea                  3-0  Manchester City
+  13.30  Manchester United        5-1 (4-1)  Fulham FC
+  16.00  Chelsea FC               3-0 (2-0)  Manchester City
 
 
 Matchday 2
 [Tue Aug/22]
-  Watford                  1-1  West Ham
-  Tottenham                2-0  Sheffield Utd
+  20.00  Tottenham Hotspur        2-0 (2-0)  Sheffield United
+  19.45  Watford FC               1-1 (0-0)  West Ham United
 [Wed Aug/23]
-  Manchester City          0-0  Portsmouth
-  Blackburn                1-1  Everton
-  Aston Villa              2-1  Reading
-  Middlesbrough            2-1  Chelsea
-  Fulham                   1-1  Bolton
-  Charlton                 0-3  Manchester United
+  19.45  Blackburn Rovers         1-1 (0-0)  Everton FC
+         Manchester City          0-0  Portsmouth FC
+  20.00  Charlton Athletic        0-3 (0-0)  Manchester United
+         Middlesbrough FC         2-1 (0-1)  Chelsea FC
+         Fulham FC                1-1 (0-0)  Bolton Wanderers
+  19.45  Aston Villa              2-1 (1-1)  Reading FC
 
 
 Matchday 3
 [Sat Aug/26]
-  Liverpool                2-1  West Ham
-  Wigan                    1-0  Reading
-  Watford                  1-2  Manchester United
-  Tottenham                0-2  Everton
-  Fulham                   1-0  Sheffield Utd
-  Charlton                 2-0  Bolton
-  Manchester City          1-0  Arsenal
+  17.15  Manchester City          1-0 (1-0)  Arsenal FC
+  15.00  Fulham FC                1-0 (1-0)  Sheffield United
+  12.45  Liverpool FC             2-1 (2-1)  West Ham United
+  15.00  Charlton Athletic        2-0 (0-0)  Bolton Wanderers
+         Wigan Athletic           1-0 (1-0)  Reading FC
+         Watford FC               1-2 (1-1)  Manchester United
+         Tottenham Hotspur        0-2 (0-0)  Everton FC
 [Sun Aug/27]
-  Aston Villa              2-0  Newcastle Utd
-  Blackburn                0-2  Chelsea
+  16.00  Blackburn Rovers         0-2 (0-0)  Chelsea FC
+  14.00  Aston Villa              2-0 (2-0)  Newcastle United
 [Mon Aug/28]
-  Middlesbrough            0-4  Portsmouth
+  20.00  Middlesbrough FC         0-4 (0-1)  Portsmouth FC
 
 
 Matchday 4
 [Sat Sep/9]
-  Everton                  3-0  Liverpool
-  Sheffield Utd            0-0  Blackburn
-  Portsmouth               1-0  Wigan
-  Newcastle Utd            1-2  Fulham
-  Chelsea                  2-1  Charlton
-  Bolton                   1-0  Watford
-  Arsenal                  1-1  Middlesbrough
-  Manchester United        1-0  Tottenham
+  17.15  Manchester United        1-0 (1-0)  Tottenham Hotspur
+  15.00  Sheffield United         0-0  Blackburn Rovers
+  12.45  Everton FC               3-0 (2-0)  Liverpool FC
+  15.00  Chelsea FC               2-1 (1-0)  Charlton Athletic
+         Arsenal FC               1-1 (0-1)  Middlesbrough FC
+         Bolton Wanderers         1-0 (0-0)  Watford FC
+         Portsmouth FC            1-0 (0-0)  Wigan Athletic
+         Newcastle United         1-2 (0-0)  Fulham FC
 [Sun Sep/10]
-  West Ham                 1-1  Aston Villa
+  16.00  West Ham United          1-1 (0-1)  Aston Villa
 [Mon Sep/11]
-  Reading                  1-0  Manchester City
+  20.00  Reading FC               1-0 (1-0)  Manchester City
 
 
 Matchday 5
 [Sat Sep/16]
-  Charlton                 0-1  Portsmouth
-  Sheffield Utd            1-2  Reading
-  Everton                  2-2  Wigan
-  Bolton                   0-0  Middlesbrough
-  Watford                  0-0  Aston Villa
+  15.00  Everton FC               2-2 (0-0)  Wigan Athletic
+  17.15  Watford FC               0-0  Aston Villa
+  12.45  Charlton Athletic        0-1 (0-0)  Portsmouth FC
+  15.00  Sheffield United         1-2 (0-2)  Reading FC
+         Bolton Wanderers         0-0  Middlesbrough FC
 [Sun Sep/17]
-  Chelsea                  1-0  Liverpool
-  West Ham                 0-2  Newcastle Utd
-  Tottenham                0-0  Fulham
-  Blackburn                4-2  Manchester City
-  Manchester United        0-1  Arsenal
+  15.00  Tottenham Hotspur        0-0  Fulham FC
+  16.00  Manchester United        0-1 (0-0)  Arsenal FC
+  13.30  Chelsea FC               1-0 (1-0)  Liverpool FC
+  15.00  Blackburn Rovers         4-2 (2-2)  Manchester City
+         West Ham United          0-2 (0-0)  Newcastle United
 
 
 Matchday 2
 [Wed Sep/20]
-  Liverpool                2-0  Newcastle Utd
+  20.00  Liverpool FC             2-0 (1-0)  Newcastle United
 
 
 Matchday 6
 [Sat Sep/23]
-  Liverpool                3-0  Tottenham
-  Wigan                    1-1  Watford
-  Middlesbrough            0-1  Blackburn
-  Manchester City          2-0  West Ham
-  Fulham                   0-2  Chelsea
-  Aston Villa              2-0  Charlton
-  Arsenal                  3-0  Sheffield Utd
-  Reading                  1-1  Manchester United
+  15.00  Fulham FC                0-2 (0-0)  Chelsea FC
+  12.45  Liverpool FC             3-0 (0-0)  Tottenham Hotspur
+  15.00  Aston Villa              2-0 (1-0)  Charlton Athletic
+         Wigan Athletic           1-1 (1-0)  Watford FC
+         Arsenal FC               3-0 (0-0)  Sheffield United
+         Middlesbrough FC         0-1 (0-1)  Blackburn Rovers
+         Manchester City          2-0 (0-0)  West Ham United
+  17.15  Reading FC               1-1 (0-0)  Manchester United
 [Sun Sep/24]
-  Newcastle Utd            1-1  Everton
+  16.00  Newcastle United         1-1 (1-1)  Everton FC
 [Mon Sep/25]
-  Portsmouth               0-1  Bolton
+  20.00  Portsmouth FC            0-1 (0-1)  Bolton Wanderers
 
 
 Matchday 7
 [Sat Sep/30]
-  Bolton                   2-0  Liverpool
-  Everton                  1-1  Manchester City
-  Chelsea                  1-1  Aston Villa
-  Charlton                 1-2  Arsenal
-  Sheffield Utd            2-1  Middlesbrough
+  12.45  Bolton Wanderers         2-0 (1-0)  Liverpool FC
+  15.00  Charlton Athletic        1-2 (1-1)  Arsenal FC
+         Chelsea FC               1-1 (1-1)  Aston Villa
+         Everton FC               1-1 (1-0)  Manchester City
+  17.15  Sheffield United         2-1 (1-0)  Middlesbrough FC
 [Sun Oct/1]
-  West Ham                 0-1  Reading
-  Manchester United        2-0  Newcastle Utd
-  Blackburn                2-1  Wigan
-  Tottenham                2-1  Portsmouth
+  15.00  Blackburn Rovers         2-1 (1-1)  Wigan Athletic
+  14.00  West Ham United          0-1 (0-1)  Reading FC
+  15.00  Manchester United        2-0 (1-0)  Newcastle United
+  16.00  Tottenham Hotspur        2-1 (2-1)  Portsmouth FC
 [Mon Oct/2]
-  Watford                  3-3  Fulham
+  20.00  Watford FC               3-3 (1-0)  Fulham FC
 
 
 Matchday 8
 [Sat Oct/14]
-  Wigan                    1-3  Manchester United
-  Portsmouth               2-0  West Ham
-  Middlesbrough            2-1  Everton
-  Manchester City          0-0  Sheffield Utd
-  Liverpool                1-1  Blackburn
-  Aston Villa              1-1  Tottenham
-  Arsenal                  3-0  Watford
-  Reading                  0-1  Chelsea
+  17.15  Reading FC               0-1 (0-1)  Chelsea FC
+  12.45  Wigan Athletic           1-3 (1-0)  Manchester United
+  15.00  Aston Villa              1-1 (0-0)  Tottenham Hotspur
+         Arsenal FC               3-0 (2-0)  Watford FC
+         Middlesbrough FC         2-1 (1-0)  Everton FC
+         Portsmouth FC            2-0 (1-0)  West Ham United
+         Manchester City          0-0  Sheffield United
+         Liverpool FC             1-1 (0-1)  Blackburn Rovers
 [Sun Oct/15]
-  Newcastle Utd            1-2  Bolton
+  16.00  Newcastle United         1-2 (1-0)  Bolton Wanderers
 [Mon Oct/16]
-  Fulham                   2-1  Charlton
+  20.00  Fulham FC                2-1 (0-0)  Charlton Athletic
 
 
 Matchday 9
 [Sat Oct/21]
-  Wigan                    4-0  Manchester City
-  Everton                  2-0  Sheffield Utd
-  Chelsea                  2-1  Portsmouth
-  Charlton                 0-0  Watford
-  Aston Villa              1-1  Fulham
+  17.15  Aston Villa              1-1 (1-1)  Fulham FC
+  12.45  Wigan Athletic           4-0 (2-0)  Manchester City
+  15.00  Charlton Athletic        0-0  Watford FC
+         Chelsea FC               2-1 (0-0)  Portsmouth FC
+         Everton FC               2-0 (2-0)  Sheffield United
 [Sun Oct/22]
-  Manchester United        2-0  Liverpool
-  Tottenham                1-0  West Ham
-  Middlesbrough            1-0  Newcastle Utd
-  Blackburn                0-1  Bolton
-  Reading                  0-4  Arsenal
+  16.00  Reading FC               0-4 (0-2)  Arsenal FC
+  13.00  Manchester United        2-0 (1-0)  Liverpool FC
+  15.00  Blackburn Rovers         0-1 (0-0)  Bolton Wanderers
+         Middlesbrough FC         1-0 (0-0)  Newcastle United
+         Tottenham Hotspur        1-0 (1-0)  West Ham United
 
 
 Matchday 10
 [Sat Oct/28]
-  Sheffield Utd            0-2  Chelsea
-  Watford                  0-0  Tottenham
-  Portsmouth               3-1  Reading
-  Liverpool                3-1  Aston Villa
-  Fulham                   0-1  Wigan
-  Bolton                   0-4  Manchester United
-  Arsenal                  1-1  Everton
-  Newcastle Utd            0-0  Charlton
+  17.15  Newcastle United         0-0  Charlton Athletic
+  12.45  Sheffield United         0-2 (0-1)  Chelsea FC
+  15.00  Arsenal FC               1-1 (0-1)  Everton FC
+         Bolton Wanderers         0-4 (0-2)  Manchester United
+         Fulham FC                0-1 (0-0)  Wigan Athletic
+         Liverpool FC             3-1 (3-0)  Aston Villa
+         Portsmouth FC            3-1 (1-0)  Reading FC
+         Watford FC               0-0  Tottenham Hotspur
 [Sun Oct/29]
-  West Ham                 2-1  Blackburn
+  16.00  West Ham United          2-1 (1-0)  Blackburn Rovers
 [Mon Oct/30]
-  Manchester City          1-0  Middlesbrough
+  20.00  Manchester City          1-0 (1-0)  Middlesbrough FC
 
 
 Matchday 11
 [Sat Nov/4]
-  Fulham                   1-0  Everton
-  Watford                  2-0  Middlesbrough
-  Manchester United        3-0  Portsmouth
-  Liverpool                2-0  Reading
-  Charlton                 1-0  Manchester City
-  Bolton                   0-1  Wigan
-  Newcastle Utd            0-1  Sheffield Utd
+  15.00  Liverpool FC             2-0 (1-0)  Reading FC
+  12.45  Fulham FC                1-0 (0-0)  Everton FC
+  15.00  Bolton Wanderers         0-1 (0-0)  Wigan Athletic
+         Charlton Athletic        1-0 (1-0)  Manchester City
+         Watford FC               2-0 (1-0)  Middlesbrough FC
+         Manchester United        3-0 (2-0)  Portsmouth FC
+  17.15  Newcastle United         0-1 (0-0)  Sheffield United
 [Sun Nov/5]
-  West Ham                 1-0  Arsenal
-  Aston Villa              2-0  Blackburn
-  Tottenham                2-1  Chelsea
+  13.30  West Ham United          1-0 (0-0)  Arsenal FC
+  14.00  Aston Villa              2-0 (1-0)  Blackburn Rovers
+  16.00  Tottenham Hotspur        2-1 (1-1)  Chelsea FC
 
 
 Matchday 12
 [Sat Nov/11]
-  Manchester City          0-0  Newcastle Utd
-  Wigan                    3-2  Charlton
-  Sheffield Utd            2-2  Bolton
-  Portsmouth               1-1  Fulham
-  Middlesbrough            1-0  West Ham
-  Everton                  0-1  Aston Villa
-  Chelsea                  4-0  Watford
-  Blackburn                0-1  Manchester United
+  15.00  Wigan Athletic           3-2 (2-0)  Charlton Athletic
+  12.45  Manchester City          0-0  Newcastle United
+  15.00  Everton FC               0-1 (0-1)  Aston Villa
+         Sheffield United         2-2 (0-1)  Bolton Wanderers
+         Middlesbrough FC         1-0 (0-0)  West Ham United
+         Portsmouth FC            1-1 (0-0)  Fulham FC
+         Chelsea FC               4-0 (2-0)  Watford FC
+  17.15  Blackburn Rovers         0-1 (0-0)  Manchester United
 [Sun Nov/12]
-  Reading                  3-1  Tottenham
-  Arsenal                  3-0  Liverpool
+  16.00  Arsenal FC               3-0 (1-0)  Liverpool FC
+  13.30  Reading FC               3-1 (2-1)  Tottenham Hotspur
 
 
 Matchday 13
 [Sat Nov/18]
-  Manchester City          3-1  Fulham
-  Sheffield Utd            1-2  Manchester United
-  Reading                  2-0  Charlton
-  Portsmouth               2-1  Watford
-  Everton                  1-0  Bolton
-  Chelsea                  1-0  West Ham
-  Arsenal                  1-1  Newcastle Utd
-  Middlesbrough            0-0  Liverpool
+  15.00  Arsenal FC               1-1 (0-1)  Newcastle United
+  12.45  Manchester City          3-1 (3-0)  Fulham FC
+  15.00  Everton FC               1-0 (0-0)  Bolton Wanderers
+         Reading FC               2-0 (1-0)  Charlton Athletic
+         Sheffield United         1-2 (1-1)  Manchester United
+         Chelsea FC               1-0 (1-0)  West Ham United
+         Portsmouth FC            2-1 (1-1)  Watford FC
+  17.15  Middlesbrough FC         0-0  Liverpool FC
 [Sun Nov/19]
-  Wigan                    0-0  Aston Villa
-  Blackburn                1-1  Tottenham
+  16.00  Blackburn Rovers         1-1 (1-0)  Tottenham Hotspur
+  13.30  Wigan Athletic           0-0  Aston Villa
 
 
 Matchday 14
 [Sat Nov/25]
-  Charlton                 1-1  Everton
-  West Ham                 1-0  Sheffield Utd
-  Liverpool                1-0  Manchester City
-  Fulham                   0-1  Reading
-  Aston Villa              1-1  Middlesbrough
-  Bolton                   3-1  Arsenal
+  15.00  Fulham FC                0-1 (0-1)  Reading FC
+  12.45  Charlton Athletic        1-1 (0-0)  Everton FC
+  15.00  Liverpool FC             1-0 (0-0)  Manchester City
+         Aston Villa              1-1 (1-1)  Middlesbrough FC
+  17.15  Bolton Wanderers         3-1 (2-1)  Arsenal FC
+  15.00  West Ham United          1-0 (1-0)  Sheffield United
 [Sun Nov/26]
-  Newcastle Utd            1-0  Portsmouth
-  Tottenham                3-1  Wigan
-  Manchester United        1-1  Chelsea
+  13.30  Newcastle United         1-0 (0-0)  Portsmouth FC
+  15.00  Tottenham Hotspur        3-1 (2-1)  Wigan Athletic
+  16.00  Manchester United        1-1 (1-0)  Chelsea FC
 
 
 Matchday 15
 [Tue Nov/28]
-  Watford                  0-1  Sheffield Utd
+  20.00  Watford FC               0-1 (0-0)  Sheffield United
 [Wed Nov/29]
-  Fulham                   2-1  Arsenal
-  Aston Villa              1-3  Manchester City
-  Manchester United        3-0  Everton
-  Liverpool                0-0  Portsmouth
-  Bolton                   0-1  Chelsea
+  20.00  Manchester United        3-0 (1-0)  Everton FC
+         Bolton Wanderers         0-1 (0-1)  Chelsea FC
+  19.45  Aston Villa              1-3 (0-2)  Manchester City
+         Fulham FC                2-1 (2-1)  Arsenal FC
+  20.00  Liverpool FC             0-0  Portsmouth FC
 
 
 Matchday 16
 [Sat Dec/2]
-  Arsenal                  3-0  Tottenham
-  Wigan                    0-4  Liverpool
-  Sheffield Utd            2-1  Charlton
-  Reading                  1-0  Bolton
-  Portsmouth               2-2  Aston Villa
-  Blackburn                2-0  Fulham
-  Middlesbrough            1-2  Manchester United
+  17.15  Middlesbrough FC         1-2 (0-1)  Manchester United
+  15.00  Wigan Athletic           0-4 (0-4)  Liverpool FC
+         Blackburn Rovers         2-0 (2-0)  Fulham FC
+         Portsmouth FC            2-2 (0-1)  Aston Villa
+         Sheffield United         2-1 (0-1)  Charlton Athletic
+         Reading FC               1-0 (1-0)  Bolton Wanderers
+  12.45  Arsenal FC               3-0 (2-0)  Tottenham Hotspur
 [Sun Dec/3]
-  Everton                  2-0  West Ham
+  16.00  Everton FC               2-0 (0-0)  West Ham United
 [Mon Dec/4]
-  Manchester City          0-0  Watford
+  20.00  Manchester City          0-0  Watford FC
 
 
 Matchday 15
 [Tue Dec/5]
-  Tottenham                2-1  Middlesbrough
-  Charlton                 1-0  Blackburn
+  20.00  Charlton Athletic        1-0 (0-0)  Blackburn Rovers
+         Tottenham Hotspur        2-1 (0-0)  Middlesbrough FC
 [Wed Dec/6]
-  West Ham                 0-2  Wigan
-  Newcastle Utd            3-2  Reading
+  19.45  West Ham United          0-2 (0-0)  Wigan Athletic
+         Newcastle United         3-2 (1-2)  Reading FC
 
 
 Matchday 17
 [Sat Dec/9]
-  Manchester United        3-1  Manchester City
-  Watford                  0-0  Reading
-  Tottenham                5-1  Charlton
-  Portsmouth               2-0  Everton
-  Middlesbrough            1-1  Wigan
-  Liverpool                4-0  Fulham
-  Blackburn                1-3  Newcastle Utd
-  Bolton                   4-0  West Ham
+  15.00  Tottenham Hotspur        5-1 (2-1)  Charlton Athletic
+  17.15  Bolton Wanderers         4-0 (1-0)  West Ham United
+  15.00  Middlesbrough FC         1-1 (0-1)  Wigan Athletic
+  12.45  Manchester United        3-1 (2-0)  Manchester City
+  15.00  Watford FC               0-0  Reading FC
+         Portsmouth FC            2-0 (2-0)  Everton FC
+         Liverpool FC             4-0 (0-0)  Fulham FC
+         Blackburn Rovers         1-3 (0-2)  Newcastle United
 [Sun Dec/10]
-  Chelsea                  1-1  Arsenal
+  16.00  Chelsea FC               1-1 (0-0)  Arsenal FC
 [Mon Dec/11]
-  Sheffield Utd            2-2  Aston Villa
+  20.00  Sheffield United         2-2 (0-1)  Aston Villa
 
 
 Matchday 2
 [Wed Dec/13]
-  Wigan                    0-1  Arsenal
+  19.45  Wigan Athletic           0-1 (0-0)  Arsenal FC
 
 
 Matchday 16
 [Wed Dec/13]
-  Chelsea                  1-0  Newcastle Utd
+  19.45  Chelsea FC               1-0 (0-0)  Newcastle United
 
 
 Matchday 18
 [Sat Dec/16]
-  Charlton                 0-3  Liverpool
-  Wigan                    0-1  Sheffield Utd
-  Reading                  1-2  Blackburn
-  Newcastle Utd            2-1  Watford
-  Arsenal                  2-2  Portsmouth
-  Aston Villa              0-1  Bolton
+  12.45  Charlton Athletic        0-3 (0-1)  Liverpool FC
+  15.00  Reading FC               1-2 (1-0)  Blackburn Rovers
+         Arsenal FC               2-2 (0-1)  Portsmouth FC
+         Wigan Athletic           0-1 (0-1)  Sheffield United
+  17.15  Aston Villa              0-1 (0-0)  Bolton Wanderers
+  15.00  Newcastle United         2-1 (0-0)  Watford FC
 [Sun Dec/17]
-  Everton                  2-3  Chelsea
-  Manchester City          1-2  Tottenham
-  West Ham                 1-0  Manchester United
+  16.00  West Ham United          1-0 (0-0)  Manchester United
+  13.45  Everton FC               2-3 (1-0)  Chelsea FC
+  15.00  Manchester City          1-2 (0-2)  Tottenham Hotspur
 [Mon Dec/18]
-  Fulham                   2-1  Middlesbrough
+  20.00  Fulham FC                2-1 (2-0)  Middlesbrough FC
 
 
 Matchday 19
 [Sat Dec/23]
-  Fulham                   0-0  West Ham
-  Reading                  0-2  Everton
-  Portsmouth               3-1  Sheffield Utd
-  Newcastle Utd            3-1  Tottenham
-  Middlesbrough            2-0  Charlton
-  Manchester City          0-2  Bolton
-  Liverpool                2-0  Watford
-  Aston Villa              0-3  Manchester United
-  Arsenal                  6-2  Blackburn
-  Wigan                    2-3  Chelsea
+  17.15  Wigan Athletic           2-3 (1-2)  Chelsea FC
+  12.45  Fulham FC                0-0  West Ham United
+  15.00  Arsenal FC               6-2 (3-1)  Blackburn Rovers
+         Aston Villa              0-3 (0-0)  Manchester United
+         Liverpool FC             2-0 (0-0)  Watford FC
+         Manchester City          0-2 (0-2)  Bolton Wanderers
+         Middlesbrough FC         2-0 (1-0)  Charlton Athletic
+         Newcastle United         3-1 (3-1)  Tottenham Hotspur
+         Portsmouth FC            3-1 (0-1)  Sheffield United
+         Reading FC               0-2 (0-1)  Everton FC
 
 
 Matchday 20
 [Tue Dec/26]
-  West Ham                 1-2  Portsmouth
-  Tottenham                2-1  Aston Villa
-  Chelsea                  2-2  Reading
-  Sheffield Utd            0-1  Manchester City
-  Manchester United        3-1  Wigan
-  Everton                  0-0  Middlesbrough
-  Bolton                   2-1  Newcastle Utd
-  Blackburn                1-0  Liverpool
-  Watford                  1-2  Arsenal
+  17.30  Watford FC               1-2 (1-1)  Arsenal FC
+  13.00  Tottenham Hotspur        2-1 (0-0)  Aston Villa
+         Chelsea FC               2-2 (1-0)  Reading FC
+         West Ham United          1-2 (0-2)  Portsmouth FC
+  15.00  Manchester United        3-1 (0-0)  Wigan Athletic
+         Everton FC               0-0  Middlesbrough FC
+         Sheffield United         0-1 (0-0)  Manchester City
+         Blackburn Rovers         1-0 (0-0)  Liverpool FC
+         Bolton Wanderers         2-1 (1-1)  Newcastle United
 [Wed Dec/27]
-  Charlton                 2-2  Fulham
+  20.00  Charlton Athletic        2-2 (2-1)  Fulham FC
 
 
 Matchday 21
 [Sat Dec/30]
-  Charlton                 2-1  Aston Villa
-  West Ham                 0-1  Manchester City
-  Tottenham                0-1  Liverpool
-  Manchester United        3-2  Reading
-  Everton                  3-0  Newcastle Utd
-  Chelsea                  2-2  Fulham
-  Bolton                   3-2  Portsmouth
-  Blackburn                2-1  Middlesbrough
-  Sheffield Utd            1-0  Arsenal
+  17.15  Sheffield United         1-0 (1-0)  Arsenal FC
+  12.45  Charlton Athletic        2-1 (0-1)  Aston Villa
+  15.00  Manchester United        3-2 (1-1)  Reading FC
+         Blackburn Rovers         2-1 (1-0)  Middlesbrough FC
+         Bolton Wanderers         3-2 (2-1)  Portsmouth FC
+         West Ham United          0-1 (0-0)  Manchester City
+         Tottenham Hotspur        0-1 (0-1)  Liverpool FC
+         Everton FC               3-0 (1-0)  Newcastle United
+         Chelsea FC               2-2 (1-1)  Fulham FC
 
 
 Matchday 22
 [Mon Jan/1]
-  Liverpool                3-0  Bolton
-  Wigan                    0-3  Blackburn
-  Reading                  6-0  West Ham
-  Portsmouth               1-1  Tottenham
-  Middlesbrough            3-1  Sheffield Utd
-  Manchester City          2-1  Everton
-  Fulham                   0-0  Watford
-  Newcastle Utd            2-2  Manchester United
+  17.15  Newcastle United         2-2 (1-1)  Manchester United
+  15.00  Reading FC               6-0 (4-0)  West Ham United
+  12.45  Liverpool FC             3-0 (0-0)  Bolton Wanderers
+  15.00  Wigan Athletic           0-3 (0-1)  Blackburn Rovers
+         Manchester City          2-1 (0-0)  Everton FC
+         Middlesbrough FC         3-1 (1-1)  Sheffield United
+         Portsmouth FC            1-1 (1-0)  Tottenham Hotspur
+         Fulham FC                0-0  Watford FC
 [Tue Jan/2]
-  Arsenal                  4-0  Charlton
-  Aston Villa              0-0  Chelsea
+  20.00  Aston Villa              0-0  Chelsea FC
+  19.45  Arsenal FC               4-0 (2-0)  Charlton Athletic
 
 
 Matchday 23
 [Sat Jan/13]
-  Watford                  0-3  Liverpool
-  West Ham                 3-3  Fulham
-  Sheffield Utd            1-1  Portsmouth
-  Manchester United        3-1  Aston Villa
-  Chelsea                  4-0  Wigan
-  Charlton                 1-3  Middlesbrough
-  Bolton                   0-0  Manchester City
-  Blackburn                0-2  Arsenal
+  15.00  Charlton Athletic        1-3 (1-1)  Middlesbrough FC
+  17.15  Blackburn Rovers         0-2 (0-1)  Arsenal FC
+  12.45  Watford FC               0-3 (0-2)  Liverpool FC
+  15.00  Manchester United        3-1 (3-0)  Aston Villa
+         West Ham United          3-3 (1-1)  Fulham FC
+         Bolton Wanderers         0-0  Manchester City
+         Sheffield United         1-1 (1-0)  Portsmouth FC
+         Chelsea FC               4-0 (1-0)  Wigan Athletic
 [Sun Jan/14]
-  Everton                  1-1  Reading
-  Tottenham                2-3  Newcastle Utd
+  13.45  Everton FC               1-1 (0-1)  Reading FC
+  16.00  Tottenham Hotspur        2-3 (1-1)  Newcastle United
 
 
 Matchday 24
 [Sat Jan/20]
-  Liverpool                2-0  Chelsea
-  Reading                  3-1  Sheffield Utd
-  Portsmouth               0-1  Charlton
-  Newcastle Utd            2-2  West Ham
-  Middlesbrough            5-1  Bolton
-  Fulham                   1-1  Tottenham
-  Aston Villa              2-0  Watford
-  Manchester City          0-3  Blackburn
+  17.15  Manchester City          0-3 (0-1)  Blackburn Rovers
+  15.00  Fulham FC                1-1 (0-0)  Tottenham Hotspur
+  12.45  Liverpool FC             2-0 (2-0)  Chelsea FC
+  15.00  Reading FC               3-1 (1-0)  Sheffield United
+         Middlesbrough FC         5-1 (4-1)  Bolton Wanderers
+         Newcastle United         2-2 (1-2)  West Ham United
+         Aston Villa              2-0 (0-0)  Watford FC
+         Portsmouth FC            0-1 (0-0)  Charlton Athletic
 [Sun Jan/21]
-  Wigan                    0-2  Everton
-  Arsenal                  2-1  Manchester United
+  13.30  Wigan Athletic           0-2 (0-0)  Everton FC
+  16.00  Arsenal FC               2-1 (0-0)  Manchester United
 
 
 Matchday 14
 [Tue Jan/23]
-  Watford                  2-1  Blackburn
+  19.45  Watford FC               2-1 (1-1)  Blackburn Rovers
 
 
 Matchday 25
 [Tue Jan/30]
-  West Ham                 1-2  Liverpool
-  Sheffield Utd            2-0  Fulham
-  Portsmouth               0-0  Middlesbrough
-  Reading                  3-2  Wigan
+  20.00  Reading FC               3-2 (1-1)  Wigan Athletic
+  19.45  Portsmouth FC            0-0  Middlesbrough FC
+         West Ham United          1-2 (0-0)  Liverpool FC
+         Sheffield United         2-0 (2-0)  Fulham FC
 [Wed Jan/31]
-  Chelsea                  3-0  Blackburn
-  Newcastle Utd            3-1  Aston Villa
-  Manchester United        4-0  Watford
-  Bolton                   1-1  Charlton
+  19.45  Chelsea FC               3-0 (1-0)  Blackburn Rovers
+  20.00  Bolton Wanderers         1-1 (1-1)  Charlton Athletic
+         Newcastle United         3-1 (2-1)  Aston Villa
+         Manchester United        4-0 (1-0)  Watford FC
 
 
 Matchday 26
 [Sat Feb/3]
-  Liverpool                0-0  Everton
-  Wigan                    1-0  Portsmouth
-  Watford                  0-1  Bolton
-  Manchester City          0-2  Reading
-  Fulham                   2-1  Newcastle Utd
-  Charlton                 0-1  Chelsea
-  Blackburn                2-1  Sheffield Utd
-  Aston Villa              1-0  West Ham
-  Middlesbrough            1-1  Arsenal
+  15.00  Blackburn Rovers         2-1 (1-1)  Sheffield United
+  17.15  Middlesbrough FC         1-1 (0-0)  Arsenal FC
+  15.00  Fulham FC                2-1 (0-0)  Newcastle United
+  12.45  Liverpool FC             0-0  Everton FC
+  15.00  Charlton Athletic        0-1 (0-1)  Chelsea FC
+         Manchester City          0-2 (0-0)  Reading FC
+         Watford FC               0-1 (0-0)  Bolton Wanderers
+         Aston Villa              1-0 (1-0)  West Ham United
+         Wigan Athletic           1-0 (0-0)  Portsmouth FC
 [Sun Feb/4]
-  Tottenham                0-4  Manchester United
+  16.00  Tottenham Hotspur        0-4 (0-1)  Manchester United
 
 
 Matchday 27
 [Sat Feb/10]
-  Reading                  2-0  Aston Villa
-  West Ham                 0-1  Watford
-  Sheffield Utd            2-1  Tottenham
-  Newcastle Utd            2-1  Liverpool
-  Manchester United        2-0  Charlton
-  Everton                  1-0  Blackburn
-  Chelsea                  3-0  Middlesbrough
-  Portsmouth               2-1  Manchester City
+  17.15  Portsmouth FC            2-1 (1-0)  Manchester City
+  15.00  Newcastle United         2-1 (1-1)  Liverpool FC
+         Everton FC               1-0 (1-0)  Blackburn Rovers
+  12.45  Reading FC               2-0 (1-0)  Aston Villa
+  15.00  Manchester United        2-0 (1-0)  Charlton Athletic
+         Chelsea FC               3-0 (1-0)  Middlesbrough FC
+         Sheffield United         2-1 (1-1)  Tottenham Hotspur
+         West Ham United          0-1 (0-1)  Watford FC
 [Sun Feb/11]
-  Bolton                   2-1  Fulham
-  Arsenal                  2-1  Wigan
+  16.00  Arsenal FC               2-1 (0-1)  Wigan Athletic
+  13.30  Bolton Wanderers         2-1 (1-0)  Fulham FC
+
+
+Matchday 25
+[Wed Feb/21]
+  20.00  Everton FC               1-2 (1-1)  Tottenham Hotspur
 
 
 Matchday 21
 [Wed Feb/21]
-  Watford                  1-1  Wigan
-
-
-Matchday 25
-[Wed Feb/21]
-  Everton                  1-2  Tottenham
+  19.45  Watford FC               1-1 (1-1)  Wigan Athletic
 
 
 Matchday 28
 [Sat Feb/24]
-  Fulham                   1-2  Manchester United
-  Middlesbrough            2-1  Reading
-  Liverpool                4-0  Sheffield Utd
-  Charlton                 4-0  West Ham
-  Watford                  0-3  Everton
+  12.45  Fulham FC                1-2 (1-1)  Manchester United
+  15.00  Charlton Athletic        4-0 (3-0)  West Ham United
+         Middlesbrough FC         2-1 (1-0)  Reading FC
+         Liverpool FC             4-0 (2-0)  Sheffield United
+  17.15  Watford FC               0-3 (0-2)  Everton FC
 [Sun Feb/25]
-  Wigan                    1-0  Newcastle Utd
-  Tottenham                4-1  Bolton
-  Blackburn                3-0  Portsmouth
+  13.00  Wigan Athletic           1-0 (1-0)  Newcastle United
+  15.00  Blackburn Rovers         3-0 (2-0)  Portsmouth FC
+         Tottenham Hotspur        4-1 (3-1)  Bolton Wanderers
 
 
 Matchday 29
 [Sat Mar/3]
-  Liverpool                0-1  Manchester United
-  Watford                  2-2  Charlton
-  Sheffield Utd            1-1  Everton
-  Newcastle Utd            0-0  Middlesbrough
-  Manchester City          0-1  Wigan
-  Fulham                   1-1  Aston Villa
-  Arsenal                  2-1  Reading
-  Portsmouth               0-2  Chelsea
+  15.00  Manchester City          0-1 (0-1)  Wigan Athletic
+         Newcastle United         0-0  Middlesbrough FC
+  17.15  Portsmouth FC            0-2 (0-1)  Chelsea FC
+  12.45  Liverpool FC             0-1 (0-0)  Manchester United
+  15.00  Fulham FC                1-1 (1-1)  Aston Villa
+         Watford FC               2-2 (2-0)  Charlton Athletic
+         Sheffield United         1-1 (0-0)  Everton FC
+         Arsenal FC               2-1 (0-0)  Reading FC
 [Sun Mar/4]
-  Bolton                   1-2  Blackburn
-  West Ham                 3-4  Tottenham
+  13.35  Bolton Wanderers         1-2 (0-0)  Blackburn Rovers
+  16.00  West Ham United          3-4 (2-0)  Tottenham Hotspur
 
 
 Matchday 28
 [Wed Mar/14]
-  Aston Villa              0-1  Arsenal
-  Manchester City          0-1  Chelsea
+  19.45  Aston Villa              0-1 (0-1)  Arsenal FC
+  20.00  Manchester City          0-1 (0-1)  Chelsea FC
 
 
 Matchday 30
 [Sat Mar/17]
-  Manchester United        4-1  Bolton
-  Wigan                    0-0  Fulham
-  Tottenham                3-1  Watford
-  Reading                  0-0  Portsmouth
-  Middlesbrough            0-2  Manchester City
-  Chelsea                  3-0  Sheffield Utd
-  Blackburn                1-2  West Ham
+  17.15  Blackburn Rovers         1-2 (0-0)  West Ham United
+  12.45  Manchester United        4-1 (3-0)  Bolton Wanderers
+  15.00  Wigan Athletic           0-0  Fulham FC
+         Middlesbrough FC         0-2 (0-0)  Manchester City
+         Reading FC               0-0  Portsmouth FC
+         Chelsea FC               3-0 (2-0)  Sheffield United
+         Tottenham Hotspur        3-1 (1-0)  Watford FC
 [Sun Mar/18]
-  Charlton                 2-0  Newcastle Utd
-  Aston Villa              0-0  Liverpool
-  Everton                  1-0  Arsenal
+  13.30  Charlton Athletic        2-0 (0-0)  Newcastle United
+  13.35  Aston Villa              0-0  Liverpool FC
+  16.00  Everton FC               1-0 (0-0)  Arsenal FC
 
 
 Matchday 31
 [Sat Mar/31]
-  Liverpool                4-1  Arsenal
-  West Ham                 2-0  Middlesbrough
-  Newcastle Utd            0-1  Manchester City
-  Manchester United        4-1  Blackburn
-  Fulham                   1-1  Portsmouth
-  Charlton                 1-0  Wigan
-  Bolton                   1-0  Sheffield Utd
-  Watford                  0-1  Chelsea
+  17.15  Watford FC               0-1 (0-0)  Chelsea FC
+  12.45  Liverpool FC             4-1 (2-0)  Arsenal FC
+  15.00  Bolton Wanderers         1-0 (0-0)  Sheffield United
+         Charlton Athletic        1-0 (0-0)  Wigan Athletic
+         Fulham FC                1-1 (0-1)  Portsmouth FC
+         Manchester United        4-1 (0-1)  Blackburn Rovers
+         Newcastle United         0-1 (0-0)  Manchester City
+         West Ham United          2-0 (2-0)  Middlesbrough FC
 [Sun Apr/1]
-  Tottenham                1-0  Reading
+  16.00  Tottenham Hotspur        1-0 (1-0)  Reading FC
 [Mon Apr/2]
-  Aston Villa              1-1  Everton
+  20.00  Aston Villa              1-1 (0-1)  Everton FC
 
 
 Matchday 32
 [Fri Apr/6]
-  Manchester City          0-0  Charlton
-  Everton                  4-1  Fulham
+  17.15  Manchester City          0-0  Charlton Athletic
+  19.30  Everton FC               4-1 (3-1)  Fulham FC
 [Sat Apr/7]
-  Chelsea                  1-0  Tottenham
-  Wigan                    1-3  Bolton
-  Sheffield Utd            1-2  Newcastle Utd
-  Reading                  1-2  Liverpool
-  Middlesbrough            4-1  Watford
-  Blackburn                1-2  Aston Villa
-  Arsenal                  0-1  West Ham
-  Portsmouth               2-1  Manchester United
+  15.00  Sheffield United         1-2 (0-1)  Newcastle United
+  12.45  Chelsea FC               1-0 (0-0)  Tottenham Hotspur
+  15.00  Blackburn Rovers         1-2 (1-1)  Aston Villa
+         Wigan Athletic           1-3 (1-1)  Bolton Wanderers
+         Reading FC               1-2 (0-1)  Liverpool FC
+         Arsenal FC               0-1 (0-1)  West Ham United
+         Middlesbrough FC         4-1 (2-1)  Watford FC
+  17.15  Portsmouth FC            2-1 (1-0)  Manchester United
 
 
 Matchday 33
 [Mon Apr/9]
-  Watford                  4-2  Portsmouth
-  Newcastle Utd            0-0  Arsenal
-  Fulham                   1-3  Manchester City
-  Bolton                   1-1  Everton
-  Aston Villa              1-1  Wigan
-  Charlton                 0-0  Reading
+  20.00  Charlton Athletic        0-0  Reading FC
+  12.45  Watford FC               4-2 (2-1)  Portsmouth FC
+  15.00  Aston Villa              1-1 (0-1)  Wigan Athletic
+         Bolton Wanderers         1-1 (1-1)  Everton FC
+         Fulham FC                1-3 (0-2)  Manchester City
+         Newcastle United         0-0  Arsenal FC
 
 
 Matchday 34
 [Sat Apr/14]
-  Sheffield Utd            3-0  West Ham
-  Reading                  1-0  Fulham
-  Portsmouth               2-1  Newcastle Utd
-  Middlesbrough            1-3  Aston Villa
-  Manchester City          0-0  Liverpool
-  Arsenal                  2-1  Bolton
+  15.00  Sheffield United         3-0 (1-0)  West Ham United
+         Reading FC               1-0 (1-0)  Fulham FC
+         Portsmouth FC            2-1 (1-0)  Newcastle United
+         Middlesbrough FC         1-3 (1-1)  Aston Villa
+         Manchester City          0-0  Liverpool FC
+         Arsenal FC               2-1 (1-1)  Bolton Wanderers
 [Sun Apr/15]
-  Wigan                    3-3  Tottenham
-  Everton                  2-1  Charlton
+  13.30  Wigan Athletic           3-3 (2-2)  Tottenham Hotspur
+  15.00  Everton FC               2-1 (0-0)  Charlton Athletic
+
+
+Matchday 33
+[Tue Apr/17]
+  20.00  Manchester United        2-0 (1-0)  Sheffield United
 
 
 Matchday 25
 [Tue Apr/17]
-  Arsenal                  3-1  Manchester City
+  19.45  Arsenal FC               3-1 (1-1)  Manchester City
 
 
 Matchday 33
-[Tue Apr/17]
-  Manchester United        2-0  Sheffield Utd
 [Wed Apr/18]
-  West Ham                 1-4  Chelsea
-  Liverpool                2-0  Middlesbrough
+  20.00  Liverpool FC             2-0 (0-0)  Middlesbrough FC
+         West Ham United          1-4 (1-2)  Chelsea FC
 
 
 Matchday 34
 [Wed Apr/18]
-  Blackburn                3-1  Watford
+  20.00  Blackburn Rovers         3-1 (3-1)  Watford FC
 
 
 Matchday 35
 [Sat Apr/21]
-  Tottenham                2-2  Arsenal
-  West Ham                 1-0  Everton
-  Watford                  1-1  Manchester City
-  Liverpool                2-0  Wigan
-  Fulham                   1-1  Blackburn
-  Charlton                 1-1  Sheffield Utd
-  Bolton                   1-3  Reading
-  Manchester United        1-1  Middlesbrough
+  12.45  Tottenham Hotspur        2-2 (1-0)  Arsenal FC
+  17.15  Manchester United        1-1 (1-1)  Middlesbrough FC
+  15.00  Liverpool FC             2-0 (1-0)  Wigan Athletic
+         Bolton Wanderers         1-3 (0-0)  Reading FC
+         Watford FC               1-1 (0-0)  Manchester City
+         Charlton Athletic        1-1 (0-0)  Sheffield United
+         West Ham United          1-0 (1-0)  Everton FC
+         Fulham FC                1-1 (1-0)  Blackburn Rovers
 [Sun Apr/22]
-  Newcastle Utd            0-0  Chelsea
-  Aston Villa              0-0  Portsmouth
+  13.30  Newcastle United         0-0  Chelsea FC
+  16.00  Aston Villa              0-0  Portsmouth FC
 
 
 Matchday 36
 [Sat Apr/28]
-  Everton                  2-4  Manchester United
-  Chelsea                  2-2  Bolton
-  Wigan                    0-3  West Ham
-  Sheffield Utd            1-0  Watford
-  Portsmouth               2-1  Liverpool
-  Middlesbrough            2-3  Tottenham
-  Manchester City          0-2  Aston Villa
-  Blackburn                4-1  Charlton
+  15.00  Blackburn Rovers         4-1 (0-0)  Charlton Athletic
+         Wigan Athletic           0-3 (0-1)  West Ham United
+  12.45  Chelsea FC               2-2 (2-1)  Bolton Wanderers
+         Everton FC               2-4 (1-0)  Manchester United
+  15.00  Sheffield United         1-0 (1-0)  Watford FC
+         Manchester City          0-2 (0-1)  Aston Villa
+         Portsmouth FC            2-1 (2-0)  Liverpool FC
+         Middlesbrough FC         2-3 (0-1)  Tottenham Hotspur
 [Sun Apr/29]
-  Arsenal                  3-1  Fulham
+  16.00  Arsenal FC               3-1 (1-0)  Fulham FC
 [Mon Apr/30]
-  Reading                  1-0  Newcastle Utd
+  20.00  Reading FC               1-0 (0-0)  Newcastle United
 
 
 Matchday 37
 [Sat May/5]
-  Manchester City          0-1  Manchester United
-  Wigan                    0-1  Middlesbrough
-  West Ham                 3-1  Bolton
-  Reading                  0-2  Watford
-  Newcastle Utd            0-2  Blackburn
-  Fulham                   1-0  Liverpool
-  Everton                  3-0  Portsmouth
-  Aston Villa              3-0  Sheffield Utd
+  15.00  Wigan Athletic           0-1 (0-0)  Middlesbrough FC
+         Newcastle United         0-2 (0-1)  Blackburn Rovers
+  12.45  Manchester City          0-1 (0-1)  Manchester United
+  15.00  Everton FC               3-0 (0-0)  Portsmouth FC
+         Fulham FC                1-0 (0-0)  Liverpool FC
+         West Ham United          3-1 (3-0)  Bolton Wanderers
+         Reading FC               0-2 (0-0)  Watford FC
+  17.15  Aston Villa              3-0 (2-0)  Sheffield United
 [Sun May/6]
-  Arsenal                  1-1  Chelsea
+  16.00  Arsenal FC               1-1 (1-0)  Chelsea FC
 [Mon May/7]
-  Charlton                 0-2  Tottenham
+  20.00  Charlton Athletic        0-2 (0-1)  Tottenham Hotspur
 
 
 Matchday 34
 [Wed May/9]
-  Chelsea                  0-0  Manchester United
+  20.00  Chelsea FC               0-0  Manchester United
 
 
 Matchday 33
 [Thu May/10]
-  Tottenham                1-1  Blackburn
+  20.00  Tottenham Hotspur        1-1 (0-1)  Blackburn Rovers
 
 
 Matchday 38
 [Sun May/13]
-  Watford                  1-1  Newcastle Utd
-  Tottenham                2-1  Manchester City
-  Sheffield Utd            1-2  Wigan
-  Portsmouth               0-0  Arsenal
-  Middlesbrough            3-1  Fulham
-  Manchester United        0-1  West Ham
-  Liverpool                2-2  Charlton
-  Chelsea                  1-1  Everton
-  Bolton                   2-2  Aston Villa
-  Blackburn                3-3  Reading
+  15.00  Blackburn Rovers         3-3 (1-1)  Reading FC
+         Bolton Wanderers         2-2 (1-1)  Aston Villa
+         Chelsea FC               1-1 (0-0)  Everton FC
+         Liverpool FC             2-2 (0-1)  Charlton Athletic
+         Manchester United        0-1 (0-1)  West Ham United
+         Middlesbrough FC         3-1 (2-1)  Fulham FC
+         Portsmouth FC            0-0  Arsenal FC
+         Sheffield United         1-2 (1-2)  Wigan Athletic
+         Tottenham Hotspur        2-1 (2-1)  Manchester City
+         Watford FC               1-1 (0-1)  Newcastle United

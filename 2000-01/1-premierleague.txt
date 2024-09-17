@@ -1,625 +1,631 @@
 = English Premier League 2000/01
 
+# Date       Sat Aug/19 2000 - Sat May/19 2001 (273d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Sat Aug/19]
-  Leeds United FC          2-0  Everton FC
-  Derby County FC          2-2  Southampton FC
-  Tottenham Hotspur FC     3-1  Ipswich Town FC
-  Sunderland AFC           1-0  Arsenal FC
-  Coventry City FC         1-3  Middlesbrough FC
-  Leicester City FC        0-0  Aston Villa FC
-  Charlton Athletic FC     4-0  Manchester City FC
-  Chelsea FC               4-2  West Ham United FC
-  Liverpool FC             1-0  Bradford City AFC
+  15.00  Charlton Athletic        4-0 (2-0)  Manchester City
+         Chelsea FC               4-2 (1-0)  West Ham United
+         Coventry City            1-3 (1-1)  Middlesbrough FC
+         Derby County             2-2 (1-2)  Southampton FC
+         Leeds United             2-0 (2-0)  Everton FC
+         Leicester City           0-0  Aston Villa
+         Liverpool FC             1-0 (0-0)  Bradford City
+         Sunderland AFC           1-0 (0-0)  Arsenal FC
+         Tottenham Hotspur        3-1 (2-1)  Ipswich Town
 [Sun Aug/20]
-  Manchester United FC     2-0  Newcastle United FC
+  16.00  Manchester United        2-0 (1-0)  Newcastle United
 
 
 Matchday 2
 [Mon Aug/21]
-  Arsenal FC               2-0  Liverpool FC
+  20.00  Arsenal FC               2-0 (1-0)  Liverpool FC
 [Tue Aug/22]
-  Ipswich Town FC          1-1  Manchester United FC
-  Middlesbrough FC         1-1  Tottenham Hotspur FC
-  Bradford City AFC        2-0  Chelsea FC
+  19.45  Ipswich Town             1-1 (1-1)  Manchester United
+         Middlesbrough FC         1-1 (0-1)  Tottenham Hotspur
+         Bradford City            2-0 (1-0)  Chelsea FC
 [Wed Aug/23]
-  Manchester City FC       4-2  Sunderland AFC
-  West Ham United FC       0-1  Leicester City FC
-  Everton FC               3-0  Charlton Athletic FC
-  Southampton FC           1-2  Coventry City FC
-  Newcastle United FC      3-2  Derby County FC
+  16.00  Everton FC               3-0 (0-0)  Charlton Athletic
+         Southampton FC           1-2 (0-1)  Coventry City
+  19.45  West Ham United          0-1 (0-0)  Leicester City
+         Manchester City          4-2 (2-0)  Sunderland AFC
+         Newcastle United         3-2 (1-1)  Derby County
 
 
 Matchday 3
 [Sat Aug/26]
-  Bradford City AFC        0-0  Leicester City FC
-  Manchester City FC       1-2  Coventry City FC
-  Middlesbrough FC         1-2  Leeds United FC
-  Southampton FC           3-3  Liverpool FC
-  West Ham United FC       2-2  Manchester United FC
-  Ipswich Town FC          1-0  Sunderland AFC
-  Newcastle United FC      2-0  Tottenham Hotspur FC
-  Everton FC               2-2  Derby County FC
-  Arsenal FC               5-3  Charlton Athletic FC
+  15.00  Arsenal FC               5-3 (1-2)  Charlton Athletic
+         Bradford City            0-0  Leicester City
+         Everton FC               2-2 (2-0)  Derby County
+         Ipswich Town             1-0 (0-0)  Sunderland AFC
+         Manchester City          1-2 (0-2)  Coventry City
+         Middlesbrough FC         1-2 (0-2)  Leeds United
+         Newcastle United         2-0 (1-0)  Tottenham Hotspur
+         Southampton FC           3-3 (0-1)  Liverpool FC
+         West Ham United          2-2 (0-1)  Manchester United
 [Sun Aug/27]
-  Aston Villa FC           1-1  Chelsea FC
+  16.00  Aston Villa              1-1 (1-1)  Chelsea FC
 
 
 Matchday 4
 [Tue Sep/5]
-  Sunderland AFC           1-1  West Ham United FC
-  Leeds United FC          1-2  Manchester City FC
-  Tottenham Hotspur FC     3-2  Everton FC
-  Manchester United FC     6-0  Bradford City AFC
+  19.45  Leeds United             1-2 (0-2)  Manchester City
+         Sunderland AFC           1-1 (1-1)  West Ham United
+         Tottenham Hotspur        3-2 (1-2)  Everton FC
+  20.00  Manchester United        6-0 (2-0)  Bradford City
 [Wed Sep/6]
-  Charlton Athletic FC     1-1  Southampton FC
-  Derby County FC          3-3  Middlesbrough FC
-  Chelsea FC               2-2  Arsenal FC
-  Leicester City FC        2-1  Ipswich Town FC
-  Liverpool FC             3-1  Aston Villa FC
-  Coventry City FC         0-2  Newcastle United FC
+  19.45  Coventry City            0-2 (0-1)  Newcastle United
+  20.00  Charlton Athletic        1-1 (0-0)  Southampton FC
+  19.45  Derby County             3-3 (0-1)  Middlesbrough FC
+         Leicester City           2-1 (0-0)  Ipswich Town
+  20.00  Liverpool FC             3-1 (3-0)  Aston Villa
+         Chelsea FC               2-2 (1-0)  Arsenal FC
 
 
 Matchday 5
 [Sat Sep/9]
-  Manchester United FC     3-0  Sunderland AFC
-  Leicester City FC        1-0  Southampton FC
-  Liverpool FC             3-2  Manchester City FC
-  Bradford City AFC        1-1  Arsenal FC
-  Newcastle United FC      0-0  Chelsea FC
-  Middlesbrough FC         1-2  Everton FC
-  Ipswich Town FC          1-2  Aston Villa FC
-  Coventry City FC         0-0  Leeds United FC
+  15.00  Coventry City            0-0  Leeds United
+         Ipswich Town             1-2 (0-1)  Aston Villa
+         Leicester City           1-0 (0-0)  Southampton FC
+         Liverpool FC             3-2 (1-0)  Manchester City
+         Manchester United        3-0 (1-0)  Sunderland AFC
+         Middlesbrough FC         1-2 (1-0)  Everton FC
+         Newcastle United         0-0  Chelsea FC
+         Bradford City            1-1 (1-0)  Arsenal FC
 [Sun Sep/10]
-  Derby County FC          2-2  Charlton Athletic FC
+  16.00  Derby County             2-2 (2-0)  Charlton Athletic
 [Mon Sep/11]
-  Tottenham Hotspur FC     1-0  West Ham United FC
+  20.00  Tottenham Hotspur        1-0 (0-0)  West Ham United
 
 
 Matchday 6
 [Sat Sep/16]
-  Everton FC               1-3  Manchester United FC
-  Aston Villa FC           2-0  Bradford City AFC
-  Leeds United FC          1-2  Ipswich Town FC
-  Sunderland AFC           2-1  Derby County FC
-  Southampton FC           2-0  Newcastle United FC
-  Charlton Athletic FC     1-0  Tottenham Hotspur FC
-  Arsenal FC               2-1  Coventry City FC
+  15.00  Everton FC               1-3 (0-3)  Manchester United
+         Arsenal FC               2-1 (1-0)  Coventry City
+         Aston Villa              2-0 (1-0)  Bradford City
+         Charlton Athletic        1-0 (1-0)  Tottenham Hotspur
+         Southampton FC           2-0 (0-0)  Newcastle United
+         Leeds United             1-2 (1-1)  Ipswich Town
+         Sunderland AFC           2-1 (1-0)  Derby County
 [Sun Sep/17]
-  West Ham United FC       1-1  Liverpool FC
-  Chelsea FC               0-2  Leicester City FC
-  Manchester City FC       1-1  Middlesbrough FC
+  16.00  Manchester City          1-1 (0-0)  Middlesbrough FC
+  15.00  West Ham United          1-1 (0-1)  Liverpool FC
+         Chelsea FC               0-2 (0-1)  Leicester City
 
 
 Matchday 7
 [Sat Sep/23]
-  Derby County FC          1-1  Leeds United FC
-  Ipswich Town FC          1-1  Arsenal FC
-  Newcastle United FC      0-1  Charlton Athletic FC
-  Liverpool FC             1-1  Sunderland AFC
-  Manchester United FC     3-3  Chelsea FC
-  Tottenham Hotspur FC     0-0  Manchester City FC
-  Coventry City FC         0-3  West Ham United FC
-  Middlesbrough FC         1-1  Aston Villa FC
-  Bradford City AFC        0-1  Southampton FC
+  15.00  Liverpool FC             1-1 (1-1)  Sunderland AFC
+  11.30  Manchester United        3-3 (3-2)  Chelsea FC
+  15.00  Middlesbrough FC         1-1 (0-0)  Aston Villa
+         Newcastle United         0-1 (0-1)  Charlton Athletic
+         Tottenham Hotspur        0-0  Manchester City
+         Bradford City            0-1 (0-1)  Southampton FC
+         Coventry City            0-3 (0-2)  West Ham United
+         Derby County             1-1 (0-1)  Leeds United
+         Ipswich Town             1-1 (0-0)  Arsenal FC
 [Sun Sep/24]
-  Leicester City FC        1-1  Everton FC
+  16.00  Leicester City           1-1 (1-0)  Everton FC
 
 
 Matchday 8
 [Sat Sep/30]
-  West Ham United FC       1-1  Bradford City AFC
-  Everton FC               0-3  Ipswich Town FC
-  Aston Villa FC           4-1  Derby County FC
-  Leeds United FC          4-3  Tottenham Hotspur FC
-  Charlton Athletic FC     2-2  Coventry City FC
-  Southampton FC           1-3  Middlesbrough FC
-  Manchester City FC       0-1  Newcastle United FC
+  15.00  Aston Villa              4-1 (2-0)  Derby County
+         Everton FC               0-3 (0-1)  Ipswich Town
+         Leeds United             4-3 (0-1)  Tottenham Hotspur
+         Manchester City          0-1 (0-0)  Newcastle United
+         Southampton FC           1-3 (0-2)  Middlesbrough FC
+         Charlton Athletic        2-2 (0-1)  Coventry City
+         West Ham United          1-1 (1-0)  Bradford City
 [Sun Oct/1]
-  Chelsea FC               3-0  Liverpool FC
-  Arsenal FC               1-0  Manchester United FC
-  Sunderland AFC           0-0  Leicester City FC
+  16.00  Arsenal FC               1-0 (1-0)  Manchester United
+  15.00  Sunderland AFC           0-0  Leicester City
+  16.00  Chelsea FC               3-0 (2-0)  Liverpool FC
 
 
 Matchday 9
 [Sat Oct/14]
-  Arsenal FC               1-0  Aston Villa FC
-  Coventry City FC         2-1  Tottenham Hotspur FC
-  Manchester City FC       2-0  Bradford City AFC
-  Leicester City FC        0-3  Manchester United FC
-  Ipswich Town FC          1-1  West Ham United FC
-  Everton FC               1-1  Southampton FC
-  Sunderland AFC           1-0  Chelsea FC
-  Leeds United FC          3-1  Charlton Athletic FC
+  15.00  Sunderland AFC           1-0 (0-0)  Chelsea FC
+         Everton FC               1-1 (0-0)  Southampton FC
+         Ipswich Town             1-1 (1-0)  West Ham United
+         Leeds United             3-1 (1-0)  Charlton Athletic
+         Leicester City           0-3 (0-1)  Manchester United
+         Manchester City          2-0 (2-0)  Bradford City
+         Arsenal FC               1-0 (0-0)  Aston Villa
+         Coventry City            2-1 (2-0)  Tottenham Hotspur
 [Sun Oct/15]
-  Derby County FC          0-4  Liverpool FC
+  16.00  Derby County             0-4 (0-1)  Liverpool FC
 [Mon Oct/16]
-  Middlesbrough FC         1-3  Newcastle United FC
+  20.00  Middlesbrough FC         1-3 (0-1)  Newcastle United
 
 
 Matchday 10
 [Sat Oct/21]
-  Manchester United FC     3-0  Leeds United FC
-  Chelsea FC               6-1  Coventry City FC
-  Liverpool FC             1-0  Leicester City FC
-  West Ham United FC       1-2  Arsenal FC
-  Tottenham Hotspur FC     3-1  Derby County FC
-  Charlton Athletic FC     1-0  Middlesbrough FC
-  Bradford City AFC        0-2  Ipswich Town FC
-  Newcastle United FC      0-1  Everton FC
+  15.00  Liverpool FC             1-0 (0-0)  Leicester City
+  11.30  Manchester United        3-0 (1-0)  Leeds United
+  15.00  Newcastle United         0-1 (0-0)  Everton FC
+         Tottenham Hotspur        3-1 (2-1)  Derby County
+         West Ham United          1-2 (0-2)  Arsenal FC
+         Bradford City            0-2 (0-1)  Ipswich Town
+         Charlton Athletic        1-0 (0-0)  Middlesbrough FC
+         Chelsea FC               6-1 (2-0)  Coventry City
 [Sun Oct/22]
-  Aston Villa FC           0-0  Sunderland AFC
+  16.00  Aston Villa              0-0  Sunderland AFC
 [Mon Oct/23]
-  Southampton FC           0-2  Manchester City FC
+  20.00  Southampton FC           0-2 (0-1)  Manchester City
 
 
 Matchday 11
 [Sat Oct/28]
-  Sunderland AFC           1-0  Coventry City FC
-  Manchester United FC     5-0  Southampton FC
-  Leicester City FC        2-1  Derby County FC
-  West Ham United FC       1-0  Newcastle United FC
-  Aston Villa FC           2-1  Charlton Athletic FC
-  Arsenal FC               5-0  Manchester City FC
-  Chelsea FC               3-0  Tottenham Hotspur FC
-  Ipswich Town FC          2-1  Middlesbrough FC
+  15.00  West Ham United          1-0 (0-0)  Newcastle United
+         Chelsea FC               3-0 (2-0)  Tottenham Hotspur
+         Ipswich Town             2-1 (2-0)  Middlesbrough FC
+         Leicester City           2-1 (1-1)  Derby County
+         Arsenal FC               5-0 (1-0)  Manchester City
+         Aston Villa              2-1 (2-0)  Charlton Athletic
+         Manchester United        5-0 (2-0)  Southampton FC
+         Sunderland AFC           1-0 (0-0)  Coventry City
 [Sun Oct/29]
-  Bradford City AFC        1-1  Leeds United FC
-  Liverpool FC             3-1  Everton FC
+  15.00  Liverpool FC             3-1 (1-1)  Everton FC
+  16.00  Bradford City            1-1 (1-0)  Leeds United
 
 
 Matchday 12
 [Sat Nov/4]
-  Middlesbrough FC         0-1  Arsenal FC
-  Coventry City FC         1-2  Manchester United FC
-  Manchester City FC       0-1  Leicester City FC
-  Tottenham Hotspur FC     2-1  Sunderland AFC
-  Southampton FC           3-2  Chelsea FC
-  Charlton Athletic FC     2-0  Bradford City AFC
-  Leeds United FC          4-3  Liverpool FC
-  Newcastle United FC      2-1  Ipswich Town FC
+  15.00  Coventry City            1-2 (0-2)  Manchester United
+  11.30  Leeds United             4-3 (1-2)  Liverpool FC
+  15.00  Manchester City          0-1 (0-0)  Leicester City
+         Middlesbrough FC         0-1 (0-1)  Arsenal FC
+         Newcastle United         2-1 (1-1)  Ipswich Town
+         Southampton FC           3-2 (2-0)  Chelsea FC
+         Tottenham Hotspur        2-1 (1-0)  Sunderland AFC
+         Charlton Athletic        2-0 (2-0)  Bradford City
 [Sun Nov/5]
-  Everton FC               0-1  Aston Villa FC
+  16.00  Everton FC               0-1 (0-0)  Aston Villa
 [Mon Nov/6]
-  Derby County FC          0-0  West Ham United FC
+  20.00  Derby County             0-0  West Ham United
 
 
 Matchday 13
 [Sat Nov/11]
-  Arsenal FC               0-0  Derby County FC
-  Sunderland AFC           2-2  Southampton FC
-  Manchester United FC     2-1  Middlesbrough FC
-  Ipswich Town FC          2-0  Charlton Athletic FC
-  Leicester City FC        1-1  Newcastle United FC
-  Aston Villa FC           2-0  Tottenham Hotspur FC
-  West Ham United FC       4-1  Manchester City FC
-  Bradford City AFC        0-1  Everton FC
+  15.00  Leicester City           1-1 (0-0)  Newcastle United
+         Arsenal FC               0-0  Derby County
+         Aston Villa              2-0 (1-0)  Tottenham Hotspur
+         Bradford City            0-1 (0-0)  Everton FC
+         Ipswich Town             2-0 (0-0)  Charlton Athletic
+         Sunderland AFC           2-2 (1-1)  Southampton FC
+         Manchester United        2-1 (0-1)  Middlesbrough FC
+         West Ham United          4-1 (0-1)  Manchester City
 [Sun Nov/12]
-  Liverpool FC             4-1  Coventry City FC
-  Chelsea FC               1-1  Leeds United FC
+  15.00  Liverpool FC             4-1 (1-0)  Coventry City
+  16.00  Chelsea FC               1-1 (0-0)  Leeds United
 
 
 Matchday 14
 [Sat Nov/18]
-  Newcastle United FC      1-2  Sunderland AFC
-  Leeds United FC          0-1  West Ham United FC
-  Derby County FC          2-0  Bradford City AFC
-  Everton FC               2-0  Arsenal FC
-  Charlton Athletic FC     2-0  Chelsea FC
-  Southampton FC           2-0  Aston Villa FC
-  Manchester City FC       0-1  Manchester United FC
-  Middlesbrough FC         0-3  Leicester City FC
+  15.00  Leeds United             0-1 (0-1)  West Ham United
+  11.30  Manchester City          0-1 (0-1)  Manchester United
+  15.00  Middlesbrough FC         0-3 (0-2)  Leicester City
+         Newcastle United         1-2 (1-0)  Sunderland AFC
+         Southampton FC           2-0 (2-0)  Aston Villa
+         Charlton Athletic        2-0 (1-0)  Chelsea FC
+         Derby County             2-0 (0-0)  Bradford City
+         Everton FC               2-0 (0-0)  Arsenal FC
 [Sun Nov/19]
-  Tottenham Hotspur FC     2-1  Liverpool FC
+  16.00  Tottenham Hotspur        2-1 (2-1)  Liverpool FC
 [Mon Nov/20]
-  Coventry City FC         0-1  Ipswich Town FC
+  20.00  Coventry City            0-1 (0-0)  Ipswich Town
 
 
 Matchday 15
 [Sat Nov/25]
-  Coventry City FC         1-1  Aston Villa FC
-  Southampton FC           2-3  West Ham United FC
-  Manchester City FC       2-3  Ipswich Town FC
-  Everton FC               2-1  Chelsea FC
-  Derby County FC          0-3  Manchester United FC
-  Middlesbrough FC         2-2  Bradford City AFC
-  Tottenham Hotspur FC     3-0  Leicester City FC
-  Charlton Athletic FC     0-1  Sunderland AFC
+  15.00  Everton FC               2-1 (0-1)  Chelsea FC
+         Charlton Athletic        0-1 (0-0)  Sunderland AFC
+         Coventry City            1-1 (0-1)  Aston Villa
+         Derby County             0-3 (0-0)  Manchester United
+         Tottenham Hotspur        3-0 (2-0)  Leicester City
+         Manchester City          2-3 (0-2)  Ipswich Town
+         Middlesbrough FC         2-2 (0-2)  Bradford City
+         Southampton FC           2-3 (1-2)  West Ham United
 [Sun Nov/26]
-  Newcastle United FC      2-1  Liverpool FC
-  Leeds United FC          1-0  Arsenal FC
+  15.00  Newcastle United         2-1 (1-0)  Liverpool FC
+  16.00  Leeds United             1-0 (0-0)  Arsenal FC
 
 
 Matchday 16
 [Sat Dec/2]
-  Liverpool FC             3-0  Charlton Athletic FC
-  Manchester United FC     2-0  Tottenham Hotspur FC
-  Arsenal FC               1-0  Southampton FC
-  Bradford City AFC        2-1  Coventry City FC
-  Leicester City FC        3-1  Leeds United FC
-  Aston Villa FC           1-1  Newcastle United FC
-  Ipswich Town FC          0-1  Derby County FC
-  West Ham United FC       1-0  Middlesbrough FC
+  15.00  Ipswich Town             0-1 (0-1)  Derby County
+         Arsenal FC               1-0 (0-0)  Southampton FC
+         Aston Villa              1-1 (1-0)  Newcastle United
+         Bradford City            2-1 (0-0)  Coventry City
+         Manchester United        2-0 (1-0)  Tottenham Hotspur
+         Leicester City           3-1 (3-0)  Leeds United
+         Liverpool FC             3-0 (1-0)  Charlton Athletic
+         West Ham United          1-0 (1-0)  Middlesbrough FC
 [Sun Dec/3]
-  Chelsea FC               2-1  Manchester City FC
+  16.00  Chelsea FC               2-1 (2-0)  Manchester City
 [Mon Dec/4]
-  Sunderland AFC           2-0  Everton FC
+  20.00  Sunderland AFC           2-0 (1-0)  Everton FC
 
 
 Matchday 17
 [Sat Dec/9]
-  Sunderland AFC           1-0  Middlesbrough FC
-  Chelsea FC               4-1  Derby County FC
-  Southampton FC           1-0  Leeds United FC
-  Bradford City AFC        3-3  Tottenham Hotspur FC
-  Manchester City FC       5-0  Everton FC
-  West Ham United FC       1-1  Aston Villa FC
-  Charlton Athletic FC     3-3  Manchester United FC
-  Arsenal FC               5-0  Newcastle United FC
+  15.00  Manchester City          5-0 (3-0)  Everton FC
+         Arsenal FC               5-0 (2-0)  Newcastle United
+         Bradford City            3-3 (1-2)  Tottenham Hotspur
+         Charlton Athletic        3-3 (1-2)  Manchester United
+         Chelsea FC               4-1 (3-0)  Derby County
+         West Ham United          1-1 (1-1)  Aston Villa
+         Southampton FC           1-0 (1-0)  Leeds United
+         Sunderland AFC           1-0 (0-0)  Middlesbrough FC
 [Sun Dec/10]
-  Liverpool FC             0-1  Ipswich Town FC
-  Coventry City FC         1-0  Leicester City FC
+  15.00  Liverpool FC             0-1 (0-1)  Ipswich Town
+  16.00  Coventry City            1-0 (1-0)  Leicester City
 
 
 Matchday 18
 [Sat Dec/16]
-  Middlesbrough FC         1-0  Chelsea FC
-  Leeds United FC          2-0  Sunderland AFC
-  Derby County FC          1-0  Coventry City FC
-  Ipswich Town FC          3-1  Southampton FC
-  Aston Villa FC           2-2  Manchester City FC
-  Everton FC               1-1  West Ham United FC
-  Leicester City FC        3-1  Charlton Athletic FC
-  Newcastle United FC      2-1  Bradford City AFC
+  15.00  Ipswich Town             3-1 (0-1)  Southampton FC
+         Aston Villa              2-2 (0-0)  Manchester City
+         Derby County             1-0 (1-0)  Coventry City
+         Everton FC               1-1 (0-0)  West Ham United
+         Middlesbrough FC         1-0 (0-0)  Chelsea FC
+         Leeds United             2-0 (1-0)  Sunderland AFC
+         Leicester City           3-1 (1-1)  Charlton Athletic
+         Newcastle United         2-1 (1-0)  Bradford City
 [Sun Dec/17]
-  Manchester United FC     0-1  Liverpool FC
+  12.00  Manchester United        0-1 (0-1)  Liverpool FC
 [Mon Dec/18]
-  Tottenham Hotspur FC     1-1  Arsenal FC
+  20.00  Tottenham Hotspur        1-1 (1-0)  Arsenal FC
 
 
 Matchday 19
 [Fri Dec/22]
-  Coventry City FC         1-1  Southampton FC
+  19.45  Coventry City            1-1 (1-0)  Southampton FC
 [Sat Dec/23]
-  Manchester United FC     2-0  Ipswich Town FC
-  Liverpool FC             4-0  Arsenal FC
-  Derby County FC          2-0  Newcastle United FC
-  Tottenham Hotspur FC     0-0  Middlesbrough FC
-  Chelsea FC               3-0  Bradford City AFC
-  Charlton Athletic FC     1-0  Everton FC
-  Leeds United FC          1-2  Aston Villa FC
-  Sunderland AFC           1-0  Manchester City FC
-  Leicester City FC        2-1  West Ham United FC
+  15.00  Chelsea FC               3-0 (1-0)  Bradford City
+  11.30  Liverpool FC             4-0 (1-0)  Arsenal FC
+  15.00  Manchester United        2-0 (2-0)  Ipswich Town
+         Sunderland AFC           1-0 (1-0)  Manchester City
+         Tottenham Hotspur        0-0  Middlesbrough FC
+         Derby County             2-0 (1-0)  Newcastle United
+         Leeds United             1-2 (0-1)  Aston Villa
+         Leicester City           2-1 (1-1)  West Ham United
+         Charlton Athletic        1-0 (1-0)  Everton FC
 
 
 Matchday 20
 [Tue Dec/26]
-  Bradford City AFC        1-4  Sunderland AFC
-  Everton FC               1-2  Coventry City FC
-  Ipswich Town FC          2-2  Chelsea FC
-  Middlesbrough FC         1-0  Liverpool FC
-  Aston Villa FC           0-1  Manchester United FC
-  Manchester City FC       0-0  Derby County FC
-  West Ham United FC       5-0  Charlton Athletic FC
-  Arsenal FC               6-1  Leicester City FC
-  Newcastle United FC      2-1  Leeds United FC
+  15.00  Newcastle United         2-1 (2-1)  Leeds United
+  12.00  Arsenal FC               6-1 (1-0)  Leicester City
+         West Ham United          5-0 (3-0)  Charlton Athletic
+  13.00  Aston Villa              0-1 (0-0)  Manchester United
+  15.00  Bradford City            1-4 (0-1)  Sunderland AFC
+         Everton FC               1-2 (0-0)  Coventry City
+         Ipswich Town             2-2 (1-2)  Chelsea FC
+         Manchester City          0-0  Derby County
+         Middlesbrough FC         1-0 (1-0)  Liverpool FC
 [Wed Dec/27]
-  Southampton FC           2-0  Tottenham Hotspur FC
+  20.00  Southampton FC           2-0 (2-0)  Tottenham Hotspur
 
 
 Matchday 21
 [Sat Dec/30]
-  Middlesbrough FC         1-1  Coventry City FC
-  Arsenal FC               2-2  Sunderland AFC
-  Newcastle United FC      1-1  Manchester United FC
-  Manchester City FC       1-4  Charlton Athletic FC
-  Ipswich Town FC          3-0  Tottenham Hotspur FC
-  Southampton FC           1-0  Derby County FC
+  12.00  Ipswich Town             3-0 (1-0)  Tottenham Hotspur
+  15.00  Manchester City          1-4 (0-2)  Charlton Athletic
+         Middlesbrough FC         1-1 (0-1)  Coventry City
+         Newcastle United         1-1 (0-1)  Manchester United
+         Southampton FC           1-0 (0-0)  Derby County
+         Arsenal FC               2-2 (2-0)  Sunderland AFC
 
 
 Matchday 22
 [Mon Jan/1]
-  Liverpool FC             2-1  Southampton FC
-  Leicester City FC        1-2  Bradford City AFC
-  Derby County FC          1-0  Everton FC
-  Leeds United FC          1-1  Middlesbrough FC
-  Coventry City FC         1-1  Manchester City FC
-  Charlton Athletic FC     1-0  Arsenal FC
-  Sunderland AFC           4-1  Ipswich Town FC
-  Chelsea FC               1-0  Aston Villa FC
-  Manchester United FC     3-1  West Ham United FC
+  20.00  Manchester United        3-1 (2-0)  West Ham United
+  15.00  Sunderland AFC           4-1 (1-1)  Ipswich Town
+         Liverpool FC             2-1 (1-1)  Southampton FC
+         Leicester City           1-2 (1-2)  Bradford City
+         Leeds United             1-1 (0-1)  Middlesbrough FC
+         Charlton Athletic        1-0 (1-0)  Arsenal FC
+         Chelsea FC               1-0 (1-0)  Aston Villa
+         Coventry City            1-1 (0-0)  Manchester City
+         Derby County             1-0 (1-0)  Everton FC
 [Tue Jan/2]
-  Tottenham Hotspur FC     4-2  Newcastle United FC
+  19.45  Tottenham Hotspur        4-2 (3-1)  Newcastle United
 
 
 Matchday 23
 [Sat Jan/13]
-  West Ham United FC       0-2  Sunderland AFC
-  Arsenal FC               1-1  Chelsea FC
-  Newcastle United FC      3-1  Coventry City FC
-  Bradford City AFC        0-3  Manchester United FC
-  Everton FC               0-0  Tottenham Hotspur FC
-  Middlesbrough FC         4-0  Derby County FC
-  Aston Villa FC           0-3  Liverpool FC
-  Manchester City FC       0-4  Leeds United FC
-  Southampton FC           0-0  Charlton Athletic FC
+  15.00  West Ham United          0-2 (0-1)  Sunderland AFC
+         Southampton FC           0-0  Charlton Athletic
+         Newcastle United         3-1 (1-0)  Coventry City
+         Middlesbrough FC         4-0 (1-0)  Derby County
+         Bradford City            0-3 (0-0)  Manchester United
+         Arsenal FC               1-1 (1-0)  Chelsea FC
+         Aston Villa              0-3 (0-2)  Liverpool FC
+         Everton FC               0-0  Tottenham Hotspur
+         Manchester City          0-4 (0-1)  Leeds United
 [Sun Jan/14]
-  Ipswich Town FC          2-0  Leicester City FC
+  16.00  Ipswich Town             2-0 (0-0)  Leicester City
 
 
 Matchday 24
 [Sat Jan/20]
-  Leeds United FC          1-3  Newcastle United FC
-  Coventry City FC         1-3  Everton FC
-  Derby County FC          1-1  Manchester City FC
-  Leicester City FC        0-0  Arsenal FC
-  Liverpool FC             0-0  Middlesbrough FC
-  Tottenham Hotspur FC     0-0  Southampton FC
-  Manchester United FC     2-0  Aston Villa FC
-  Chelsea FC               4-1  Ipswich Town FC
+  15.00  Manchester United        2-0 (0-0)  Aston Villa
+         Liverpool FC             0-0  Middlesbrough FC
+         Leicester City           0-0  Arsenal FC
+         Leeds United             1-3 (1-2)  Newcastle United
+         Tottenham Hotspur        0-0  Southampton FC
+         Chelsea FC               4-1 (1-1)  Ipswich Town
+         Coventry City            1-3 (0-3)  Everton FC
+         Derby County             1-1 (0-0)  Manchester City
 [Sun Jan/21]
-  Sunderland AFC           0-0  Bradford City AFC
+  16.00  Sunderland AFC           0-0  Bradford City
 [Mon Jan/22]
-  Charlton Athletic FC     1-1  West Ham United FC
+  20.00  Charlton Athletic        1-1 (1-0)  West Ham United
 
 
 Matchday 2
 [Wed Jan/24]
-  Aston Villa FC           1-2  Leeds United FC
+  19.45  Aston Villa              1-2 (1-1)  Leeds United
 
 
 Matchday 25
 [Tue Jan/30]
-  Arsenal FC               2-0  Bradford City AFC
-  Charlton Athletic FC     2-1  Derby County FC
+  20.00  Charlton Athletic        2-1 (1-1)  Derby County
+  19.45  Arsenal FC               2-0 (2-0)  Bradford City
 [Wed Jan/31]
-  West Ham United FC       0-0  Tottenham Hotspur FC
-  Manchester City FC       1-1  Liverpool FC
-  Southampton FC           1-0  Leicester City FC
-  Everton FC               2-2  Middlesbrough FC
-  Leeds United FC          1-0  Coventry City FC
-  Sunderland AFC           0-1  Manchester United FC
-  Chelsea FC               3-1  Newcastle United FC
+  20.00  Everton FC               2-2 (0-1)  Middlesbrough FC
+  19.45  Southampton FC           1-0 (0-0)  Leicester City
+         Manchester City          1-1 (0-1)  Liverpool FC
+         Chelsea FC               3-1 (1-1)  Newcastle United
+         Leeds United             1-0 (0-0)  Coventry City
+         Sunderland AFC           0-1 (0-0)  Manchester United
+         West Ham United          0-0  Tottenham Hotspur
 
 
 Matchday 26
 [Sat Feb/3]
-  Leicester City FC        2-1  Chelsea FC
-  Middlesbrough FC         1-1  Manchester City FC
-  Tottenham Hotspur FC     0-0  Charlton Athletic FC
-  Derby County FC          1-0  Sunderland AFC
-  Ipswich Town FC          1-2  Leeds United FC
-  Bradford City AFC        0-3  Aston Villa FC
-  Liverpool FC             3-0  West Ham United FC
-  Coventry City FC         0-1  Arsenal FC
-  Manchester United FC     1-0  Everton FC
+  15.00  Manchester United        1-0 (0-0)  Everton FC
+         Liverpool FC             3-0 (2-0)  West Ham United
+         Leicester City           2-1 (1-0)  Chelsea FC
+         Tottenham Hotspur        0-0  Charlton Athletic
+         Ipswich Town             1-2 (0-2)  Leeds United
+         Bradford City            0-3 (0-0)  Aston Villa
+         Coventry City            0-1 (0-0)  Arsenal FC
+         Derby County             1-0 (1-0)  Sunderland AFC
+         Middlesbrough FC         1-1 (0-1)  Manchester City
 
 
 Matchday 21
 [Wed Feb/7]
-  Everton FC               2-2  Leeds United FC
+  20.00  Everton FC               2-2 (1-0)  Leeds United
 
 
 Matchday 27
 [Sat Feb/10]
-  Southampton FC           2-0  Bradford City AFC
-  Aston Villa FC           1-1  Middlesbrough FC
-  Everton FC               2-1  Leicester City FC
-  Manchester City FC       0-1  Tottenham Hotspur FC
-  Arsenal FC               1-0  Ipswich Town FC
-  Sunderland AFC           1-1  Liverpool FC
-  Leeds United FC          0-0  Derby County FC
-  Chelsea FC               1-1  Manchester United FC
+  15.00  Sunderland AFC           1-1 (0-0)  Liverpool FC
+         Southampton FC           2-0 (0-0)  Bradford City
+         Manchester City          0-1 (0-0)  Tottenham Hotspur
+         Aston Villa              1-1 (1-0)  Middlesbrough FC
+         Leeds United             0-0  Derby County
+         Arsenal FC               1-0 (0-0)  Ipswich Town
+         Everton FC               2-1 (2-0)  Leicester City
+         Chelsea FC               1-1 (1-0)  Manchester United
 [Sun Feb/11]
-  Charlton Athletic FC     2-0  Newcastle United FC
+  16.00  Charlton Athletic        2-0 (2-0)  Newcastle United
 [Mon Feb/12]
-  West Ham United FC       1-1  Coventry City FC
+  20.00  West Ham United          1-1 (0-0)  Coventry City
 
 
 Matchday 28
 [Sat Feb/24]
-  Derby County FC          1-0  Aston Villa FC
-  Leicester City FC        2-0  Sunderland AFC
-  Middlesbrough FC         0-1  Southampton FC
-  Tottenham Hotspur FC     1-2  Leeds United FC
-  Newcastle United FC      0-1  Manchester City FC
-  Bradford City AFC        1-2  West Ham United FC
-  Coventry City FC         2-2  Charlton Athletic FC
-  Ipswich Town FC          2-0  Everton FC
+  15.00  Middlesbrough FC         0-1 (0-0)  Southampton FC
+         Leicester City           2-0 (1-0)  Sunderland AFC
+         Coventry City            2-2 (1-1)  Charlton Athletic
+         Newcastle United         0-1 (0-0)  Manchester City
+         Tottenham Hotspur        1-2 (1-1)  Leeds United
+         Bradford City            1-2 (0-1)  West Ham United
+         Derby County             1-0 (1-0)  Aston Villa
+         Ipswich Town             2-0 (0-0)  Everton FC
 [Sun Feb/25]
-  Manchester United FC     6-1  Arsenal FC
+  13.00  Manchester United        6-1 (5-1)  Arsenal FC
 
 
 Matchday 29
 [Sat Mar/3]
-  Derby County FC          2-1  Tottenham Hotspur FC
-  Leeds United FC          1-1  Manchester United FC
-  Leicester City FC        2-0  Liverpool FC
-  Everton FC               1-1  Newcastle United FC
-  Manchester City FC       0-1  Southampton FC
-  Middlesbrough FC         0-0  Charlton Athletic FC
-  Arsenal FC               3-0  West Ham United FC
-  Coventry City FC         0-0  Chelsea FC
+  15.00  Leicester City           2-0 (0-0)  Liverpool FC
+         Derby County             2-1 (2-0)  Tottenham Hotspur
+         Coventry City            0-0  Chelsea FC
+         Everton FC               1-1 (0-0)  Newcastle United
+         Manchester City          0-1 (0-0)  Southampton FC
+         Arsenal FC               3-0 (3-0)  West Ham United
+  11.30  Leeds United             1-1 (0-0)  Manchester United
+  15.00  Middlesbrough FC         0-0  Charlton Athletic
 [Sun Mar/4]
-  Ipswich Town FC          3-1  Bradford City AFC
+  16.00  Ipswich Town             3-1 (0-1)  Bradford City
 [Mon Mar/5]
-  Sunderland AFC           1-1  Aston Villa FC
+  20.00  Sunderland AFC           1-1 (0-0)  Aston Villa
 
 
 Matchday 21
 [Wed Mar/7]
-  West Ham United FC       0-2  Chelsea FC
+  19.45  West Ham United          0-2 (0-2)  Chelsea FC
 
 
 Matchday 25
 [Sat Mar/10]
-  Aston Villa FC           2-1  Ipswich Town FC
+  15.00  Aston Villa              2-1 (0-1)  Ipswich Town
 
 
 Matchday 30
 [Sat Mar/17]
-  Chelsea FC               2-4  Sunderland AFC
-  Bradford City AFC        2-2  Manchester City FC
-  Newcastle United FC      1-2  Middlesbrough FC
-  West Ham United FC       0-1  Ipswich Town FC
-  Tottenham Hotspur FC     3-0  Coventry City FC
-  Charlton Athletic FC     1-2  Leeds United FC
-  Manchester United FC     2-0  Leicester City FC
-  Southampton FC           1-0  Everton FC
+  15.00  West Ham United          0-1 (0-0)  Ipswich Town
+         Tottenham Hotspur        3-0 (2-0)  Coventry City
+         Newcastle United         1-2 (0-2)  Middlesbrough FC
+         Chelsea FC               2-4 (2-1)  Sunderland AFC
+         Bradford City            2-2 (0-1)  Manchester City
+         Charlton Athletic        1-2 (1-1)  Leeds United
+         Manchester United        2-0 (0-0)  Leicester City
+         Southampton FC           1-0 (0-0)  Everton FC
 [Sun Mar/18]
-  Liverpool FC             1-1  Derby County FC
-  Aston Villa FC           0-0  Arsenal FC
+  15.00  Liverpool FC             1-1 (0-1)  Derby County
+  16.00  Aston Villa              0-0  Arsenal FC
 
 
 Matchday 31
 [Sat Mar/31]
-  Sunderland AFC           0-2  Leeds United FC
-  Manchester City FC       1-3  Aston Villa FC
-  Arsenal FC               2-0  Tottenham Hotspur FC
-  Chelsea FC               2-1  Middlesbrough FC
-  West Ham United FC       0-2  Everton FC
-  Coventry City FC         2-0  Derby County FC
-  Bradford City AFC        2-2  Newcastle United FC
-  Liverpool FC             2-0  Manchester United FC
+  15.00  Bradford City            2-2 (2-1)  Newcastle United
+         Chelsea FC               2-1 (1-0)  Middlesbrough FC
+         Coventry City            2-0 (1-0)  Derby County
+         Arsenal FC               2-0 (0-0)  Tottenham Hotspur
+  12.00  Liverpool FC             2-0 (2-0)  Manchester United
+  15.00  Manchester City          1-3 (1-2)  Aston Villa
+         Sunderland AFC           0-2 (0-1)  Leeds United
+         West Ham United          0-2 (0-1)  Everton FC
 [Sun Apr/1]
-  Charlton Athletic FC     2-0  Leicester City FC
+  16.00  Charlton Athletic        2-0 (1-0)  Leicester City
 [Mon Apr/2]
-  Southampton FC           0-3  Ipswich Town FC
+  20.00  Southampton FC           0-3 (0-1)  Ipswich Town
 
 
 Matchday 21
 [Wed Apr/4]
-  Aston Villa FC           2-1  Leicester City FC
+  19.45  Aston Villa              2-1 (1-1)  Leicester City
 
 
 Matchday 32
 [Sat Apr/7]
-  Derby County FC          0-4  Chelsea FC
-  Leicester City FC        1-3  Coventry City FC
-  Leeds United FC          2-0  Southampton FC
-  Aston Villa FC           2-2  West Ham United FC
+  15.00  Derby County             0-4 (0-0)  Chelsea FC
+         Leeds United             2-0 (1-0)  Southampton FC
+         Leicester City           1-3 (1-2)  Coventry City
+         Aston Villa              2-2 (0-0)  West Ham United
 [Sun Apr/8]
-  Everton FC               3-1  Manchester City FC
+  15.00  Everton FC               3-1 (2-1)  Manchester City
 [Mon Apr/9]
-  Middlesbrough FC         0-0  Sunderland AFC
+  20.00  Middlesbrough FC         0-0  Sunderland AFC
 [Tue Apr/10]
-  Tottenham Hotspur FC     2-1  Bradford City AFC
-  Ipswich Town FC          1-1  Liverpool FC
-  Manchester United FC     2-1  Charlton Athletic FC
+  19.45  Tottenham Hotspur        2-1 (1-1)  Bradford City
+  20.00  Manchester United        2-1 (1-0)  Charlton Athletic
+  19.45  Ipswich Town             1-1 (0-0)  Liverpool FC
 
 
 Matchday 34
 [Wed Apr/11]
-  Manchester City FC       0-4  Arsenal FC
+  19.45  Manchester City          0-4 (0-4)  Arsenal FC
 
 
 Matchday 33
 [Fri Apr/13]
-  Bradford City AFC        2-0  Charlton Athletic FC
-  Liverpool FC             1-2  Leeds United FC
+  11.30  Liverpool FC             1-2 (0-2)  Leeds United
+  16.00  Bradford City            2-0 (0-0)  Charlton Athletic
 [Sat Apr/14]
-  Arsenal FC               0-3  Middlesbrough FC
-  Manchester United FC     4-2  Coventry City FC
-  Chelsea FC               1-0  Southampton FC
-  Leicester City FC        1-2  Manchester City FC
-  Ipswich Town FC          1-0  Newcastle United FC
-  Aston Villa FC           2-1  Everton FC
-  West Ham United FC       3-1  Derby County FC
-  Sunderland AFC           2-3  Tottenham Hotspur FC
+  15.00  Arsenal FC               0-3 (0-2)  Middlesbrough FC
+         Aston Villa              2-1 (1-1)  Everton FC
+         West Ham United          3-1 (3-0)  Derby County
+  12.00  Manchester United        4-2 (2-2)  Coventry City
+  15.00  Sunderland AFC           2-3 (2-0)  Tottenham Hotspur
+         Chelsea FC               1-0 (1-0)  Southampton FC
+         Leicester City           1-2 (1-1)  Manchester City
+         Ipswich Town             1-0 (0-0)  Newcastle United
 
 
 Matchday 34
 [Mon Apr/16]
-  Newcastle United FC      2-1  West Ham United FC
-  Middlesbrough FC         1-2  Ipswich Town FC
-  Coventry City FC         1-0  Sunderland AFC
-  Everton FC               2-3  Liverpool FC
-  Derby County FC          2-0  Leicester City FC
+  15.00  Coventry City            1-0 (1-0)  Sunderland AFC
+  18.00  Everton FC               2-3 (1-1)  Liverpool FC
+  15.00  Derby County             2-0 (1-0)  Leicester City
+         Newcastle United         2-1 (1-0)  West Ham United
+         Middlesbrough FC         1-2 (1-0)  Ipswich Town
 [Tue Apr/17]
-  Charlton Athletic FC     3-3  Aston Villa FC
-  Tottenham Hotspur FC     0-3  Chelsea FC
+  19.45  Tottenham Hotspur        0-3 (0-1)  Chelsea FC
+  20.00  Charlton Athletic        3-3 (2-0)  Aston Villa
 
 
 Matchday 35
 [Sat Apr/21]
-  Bradford City AFC        2-0  Derby County FC
-  Chelsea FC               0-1  Charlton Athletic FC
-  Arsenal FC               4-1  Everton FC
-  Sunderland AFC           1-1  Newcastle United FC
-  Leicester City FC        0-3  Middlesbrough FC
-  Ipswich Town FC          2-0  Coventry City FC
-  West Ham United FC       0-2  Leeds United FC
-  Aston Villa FC           0-0  Southampton FC
-  Manchester United FC     1-1  Manchester City FC
+  15.00  Arsenal FC               4-1 (1-1)  Everton FC
+         Leicester City           0-3 (0-1)  Middlesbrough FC
+  17.15  Sunderland AFC           1-1 (0-0)  Newcastle United
+  15.00  Ipswich Town             2-0 (1-0)  Coventry City
+         Chelsea FC               0-1 (0-1)  Charlton Athletic
+         Bradford City            2-0 (1-0)  Derby County
+  12.00  Manchester United        1-1 (0-0)  Manchester City
+  15.00  West Ham United          0-2 (0-1)  Leeds United
+         Aston Villa              0-0  Southampton FC
 [Sun Apr/22]
-  Liverpool FC             3-1  Tottenham Hotspur FC
+  15.00  Liverpool FC             3-1 (1-1)  Tottenham Hotspur
 
 
 Matchday 36
 [Sat Apr/28]
-  Leeds United FC          2-0  Chelsea FC
-  Everton FC               2-1  Bradford City AFC
-  Charlton Athletic FC     2-1  Ipswich Town FC
-  Coventry City FC         0-2  Liverpool FC
-  Derby County FC          1-2  Arsenal FC
-  Tottenham Hotspur FC     0-0  Aston Villa FC
-  Manchester City FC       1-0  West Ham United FC
-  Newcastle United FC      1-0  Leicester City FC
-  Southampton FC           0-1  Sunderland AFC
-  Middlesbrough FC         0-2  Manchester United FC
+  15.00  Middlesbrough FC         0-2 (0-1)  Manchester United
+         Everton FC               2-1 (0-1)  Bradford City
+         Derby County             1-2 (1-1)  Arsenal FC
+         Coventry City            0-2 (0-0)  Liverpool FC
+         Tottenham Hotspur        0-0  Aston Villa
+         Southampton FC           0-1 (0-0)  Sunderland AFC
+  12.00  Leeds United             2-0 (0-0)  Chelsea FC
+  15.00  Manchester City          1-0 (1-0)  West Ham United
+         Newcastle United         1-0 (0-0)  Leicester City
+[Mon Apr/30]
+  20.00  Charlton Athletic        2-1 (1-1)  Ipswich Town
 
 
 Matchday 21
 [Tue May/1]
-  Bradford City AFC        0-2  Liverpool FC
+  19.45  Bradford City            0-2 (0-0)  Liverpool FC
 
 
 Matchday 26
 [Tue May/1]
-  Newcastle United FC      1-1  Southampton FC
+  20.00  Newcastle United         1-1 (1-0)  Southampton FC
 
 
 Matchday 37
 [Sat May/5]
-  Aston Villa FC           3-2  Coventry City FC
-  Chelsea FC               2-1  Everton FC
-  Arsenal FC               2-1  Leeds United FC
-  Manchester United FC     0-1  Derby County FC
-  Liverpool FC             3-0  Newcastle United FC
-  Bradford City AFC        1-1  Middlesbrough FC
-  Leicester City FC        4-2  Tottenham Hotspur FC
-  West Ham United FC       3-0  Southampton FC
-  Sunderland AFC           3-2  Charlton Athletic FC
+  15.00  Liverpool FC             3-0 (1-0)  Newcastle United
+         West Ham United          3-0 (0-0)  Southampton FC
+         Sunderland AFC           3-2 (2-1)  Charlton Athletic
+         Manchester United        0-1 (0-1)  Derby County
+         Arsenal FC               2-1 (1-0)  Leeds United
+         Aston Villa              3-2 (0-2)  Coventry City
+         Bradford City            1-1 (1-0)  Middlesbrough FC
+         Chelsea FC               2-1 (2-1)  Everton FC
+         Leicester City           4-2 (1-0)  Tottenham Hotspur
 [Mon May/7]
-  Ipswich Town FC          2-1  Manchester City FC
+  20.00  Ipswich Town             2-1 (0-0)  Manchester City
 
 
 Matchday 28
 [Tue May/8]
-  Liverpool FC             2-2  Chelsea FC
+  20.00  Liverpool FC             2-2 (1-1)  Chelsea FC
 
 
 Matchday 34
 [Sun May/13]
-  Southampton FC           2-1  Manchester United FC
-  Leeds United FC          6-1  Bradford City AFC
+  15.00  Leeds United             6-1 (5-1)  Bradford City
+         Southampton FC           2-1 (2-0)  Manchester United
 
 
 Matchday 32
 [Tue May/15]
-  Newcastle United FC      0-0  Arsenal FC
+  19.45  Newcastle United         0-0  Arsenal FC
 
 
 Matchday 38
 [Sat May/19]
-  Coventry City FC         0-0  Bradford City AFC
-  Derby County FC          1-1  Ipswich Town FC
-  Everton FC               2-2  Sunderland AFC
-  Newcastle United FC      3-0  Aston Villa FC
-  Southampton FC           3-2  Arsenal FC
-  Middlesbrough FC         2-1  West Ham United FC
-  Manchester City FC       1-2  Chelsea FC
-  Tottenham Hotspur FC     3-1  Manchester United FC
-  Charlton Athletic FC     0-4  Liverpool FC
-  Leeds United FC          3-1  Leicester City FC
+  15.00  Charlton Athletic        0-4 (0-0)  Liverpool FC
+         Coventry City            0-0  Bradford City
+         Derby County             1-1 (1-0)  Ipswich Town
+         Everton FC               2-2 (1-1)  Sunderland AFC
+         Leeds United             3-1 (1-1)  Leicester City
+         Manchester City          1-2 (1-1)  Chelsea FC
+         Middlesbrough FC         2-1 (2-1)  West Ham United
+         Newcastle United         3-0 (2-0)  Aston Villa
+         Southampton FC           3-2 (0-1)  Arsenal FC
+         Tottenham Hotspur        3-1 (1-1)  Manchester United

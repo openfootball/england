@@ -1,659 +1,668 @@
 = English Premier League 2009/10
 
+# Date       Sat Aug/15 2009 - Sun May/9 2010 (267d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Sat Aug/15]
-  Chelsea                  2-1  Hull City
-  Wolves                   0-2  West Ham
-  Stoke City               2-0  Burnley
-  Portsmouth               0-1  Fulham
-  Bolton                   0-1  Sunderland
-  Blackburn                0-2  Manchester City
-  Aston Villa              0-2  Wigan
-  Everton                  1-6  Arsenal
+  15.00  Aston Villa              0-2 (0-1)  Wigan Athletic
+         Blackburn Rovers         0-2 (0-1)  Manchester City
+         Bolton Wanderers         0-1 (0-1)  Sunderland AFC
+         Portsmouth FC            0-1 (0-1)  Fulham FC
+         Stoke City               2-0 (2-0)  Burnley FC
+         Wolverhampton Wanderers  0-2 (0-1)  West Ham United
+  17.30  Everton FC               1-6 (0-3)  Arsenal FC
+  12.45  Chelsea FC               2-1 (1-1)  Hull City
 [Sun Aug/16]
-  Manchester United        1-0  Birmingham
-  Tottenham                2-1  Liverpool
+  13.30  Manchester United        1-0 (1-0)  Birmingham City
+  16.00  Tottenham Hotspur        2-1 (1-0)  Liverpool FC
 
 
 Matchday 2
 [Tue Aug/18]
-  Wigan                    0-1  Wolves
-  Sunderland               1-3  Chelsea
+  19.45  Wigan Athletic           0-1 (0-1)  Wolverhampton Wanderers
+         Sunderland AFC           1-3 (1-0)  Chelsea FC
 [Wed Aug/19]
-  Liverpool                4-0  Stoke City
-  Burnley                  1-0  Manchester United
-  Birmingham               1-0  Portsmouth
-  Hull City                1-5  Tottenham
+  19.45  Burnley FC               1-0 (1-0)  Manchester United
+         Hull City                1-5 (1-3)  Tottenham Hotspur
+  20.00  Liverpool FC             4-0 (2-0)  Stoke City
+  19.45  Birmingham City          1-0 (0-0)  Portsmouth FC
 
 
 Matchday 3
 [Sat Aug/22]
-  Wigan                    0-5  Manchester United
-  Sunderland               2-1  Blackburn
-  Manchester City          1-0  Wolves
-  Hull City                1-0  Bolton
-  Arsenal                  4-1  Portsmouth
-  Birmingham               0-0  Stoke City
+  15.00  Wigan Athletic           0-5 (0-0)  Manchester United
+         Sunderland AFC           2-1 (1-1)  Blackburn Rovers
+         Manchester City          1-0 (1-0)  Wolverhampton Wanderers
+         Hull City                1-0 (0-0)  Bolton Wanderers
+         Arsenal FC               4-1 (2-1)  Portsmouth FC
+         Birmingham City          0-0  Stoke City
 [Sun Aug/23]
-  West Ham                 1-2  Tottenham
-  Burnley                  1-0  Everton
-  Fulham                   0-2  Chelsea
+  16.00  Fulham FC                0-2 (0-1)  Chelsea FC
+  15.00  Burnley FC               1-0 (1-0)  Everton FC
+  13.30  West Ham United          1-2 (0-0)  Tottenham Hotspur
 [Mon Aug/24]
-  Liverpool                1-3  Aston Villa
+  20.00  Liverpool FC             1-3 (0-2)  Aston Villa
 
 
 Matchday 4
 [Sat Aug/29]
-  Chelsea                  3-0  Burnley
-  Wolves                   1-1  Hull City
-  Tottenham                2-1  Birmingham
-  Stoke City               1-0  Sunderland
-  Manchester United        2-1  Arsenal
-  Blackburn                0-0  West Ham
-  Bolton                   2-3  Liverpool
+  17.15  Manchester United        2-1 (0-1)  Arsenal FC
+  15.00  Stoke City               1-0 (1-0)  Sunderland AFC
+         Tottenham Hotspur        2-1 (0-0)  Birmingham City
+         Blackburn Rovers         0-0  West Ham United
+  12.45  Chelsea FC               3-0 (1-0)  Burnley FC
+  15.00  Bolton Wanderers         2-3 (1-1)  Liverpool FC
+         Wolverhampton Wanderers  1-1 (0-1)  Hull City
 [Sun Aug/30]
-  Portsmouth               0-1  Manchester City
-  Aston Villa              2-0  Fulham
-  Everton                  2-1  Wigan
+  15.00  Everton FC               2-1 (0-0)  Wigan Athletic
+  13.30  Portsmouth FC            0-1 (0-1)  Manchester City
+  16.00  Aston Villa              2-0 (1-0)  Fulham FC
 
 
 Matchday 5
 [Sat Sep/12]
-  Wigan                    1-0  West Ham
-  Sunderland               4-1  Hull City
-  Tottenham                1-3  Manchester United
-  Portsmouth               2-3  Bolton
-  Manchester City          4-2  Arsenal
-  Liverpool                4-0  Burnley
-  Blackburn                3-1  Wolves
-  Stoke City               1-2  Chelsea
+  15.00  Wigan Athletic           1-0 (0-0)  West Ham United
+         Sunderland AFC           4-1 (1-1)  Hull City
+         Stoke City               1-2 (1-1)  Chelsea FC
+  17.30  Tottenham Hotspur        1-3 (1-2)  Manchester United
+  15.00  Blackburn Rovers         3-1 (1-0)  Wolverhampton Wanderers
+         Liverpool FC             4-0 (2-0)  Burnley FC
+         Manchester City          4-2 (1-0)  Arsenal FC
+         Portsmouth FC            2-3 (1-2)  Bolton Wanderers
 [Sun Sep/13]
-  Birmingham               0-1  Aston Villa
-  Fulham                   2-1  Everton
+  12.00  Birmingham City          0-1 (0-0)  Aston Villa
+  16.15  Fulham FC                2-1 (0-1)  Everton FC
 
 
 Matchday 6
 [Sat Sep/19]
-  West Ham                 2-3  Liverpool
-  Burnley                  3-1  Sunderland
-  Bolton                   1-1  Stoke City
-  Aston Villa              2-0  Portsmouth
-  Arsenal                  4-0  Wigan
-  Hull City                0-1  Birmingham
+  15.00  Arsenal FC               4-0 (1-0)  Wigan Athletic
+         Bolton Wanderers         1-1 (0-0)  Stoke City
+         Hull City                0-1 (0-0)  Birmingham City
+         Aston Villa              2-0 (2-0)  Portsmouth FC
+  12.45  Burnley FC               3-1 (1-1)  Sunderland AFC
+  17.30  West Ham United          2-3 (2-2)  Liverpool FC
 [Sun Sep/20]
-  Manchester United        4-3  Manchester City
-  Wolves                   2-1  Fulham
-  Everton                  3-0  Blackburn
-  Chelsea                  3-0  Tottenham
+  14.00  Wolverhampton Wanderers  2-1 (1-0)  Fulham FC
+  15.00  Everton FC               3-0 (1-0)  Blackburn Rovers
+  16.00  Chelsea FC               3-0 (1-0)  Tottenham Hotspur
+  13.30  Manchester United        4-3 (1-1)  Manchester City
 
 
 Matchday 7
 [Sat Sep/26]
-  Wigan                    3-1  Chelsea
-  Portsmouth               0-1  Everton
-  Tottenham                5-0  Burnley
-  Stoke City               0-2  Manchester United
-  Liverpool                6-1  Hull City
-  Blackburn                2-1  Aston Villa
-  Birmingham               1-2  Bolton
-  Fulham                   0-1  Arsenal
+  15.00  Tottenham Hotspur        5-0 (2-0)  Burnley FC
+         Wigan Athletic           3-1 (1-0)  Chelsea FC
+  17.30  Fulham FC                0-1 (0-0)  Arsenal FC
+  15.00  Stoke City               0-2 (0-0)  Manchester United
+  12.45  Portsmouth FC            0-1 (0-1)  Everton FC
+  15.00  Birmingham City          1-2 (0-1)  Bolton Wanderers
+         Blackburn Rovers         2-1 (1-1)  Aston Villa
+         Liverpool FC             6-1 (2-1)  Hull City
 [Sun Sep/27]
-  Sunderland               5-2  Wolves
+  16.00  Sunderland AFC           5-2 (1-0)  Wolverhampton Wanderers
 [Mon Sep/28]
-  Manchester City          3-1  West Ham
+  20.00  Manchester City          3-1 (2-1)  West Ham United
 
 
 Matchday 8
 [Sat Oct/3]
-  Hull City                2-1  Wigan
-  Wolves                   0-1  Portsmouth
-  Burnley                  2-1  Birmingham
-  Manchester United        2-2  Sunderland
-  Bolton                   2-2  Tottenham
+  15.00  Bolton Wanderers         2-2 (1-1)  Tottenham Hotspur
+         Burnley FC               2-1 (0-0)  Birmingham City
+         Wolverhampton Wanderers  0-1 (0-1)  Portsmouth FC
+         Hull City                2-1 (0-0)  Wigan Athletic
+  17.30  Manchester United        2-2 (0-1)  Sunderland AFC
 [Sun Oct/4]
-  Arsenal                  6-2  Blackburn
-  West Ham                 2-2  Fulham
-  Chelsea                  2-0  Liverpool
-  Everton                  1-1  Stoke City
+  13.30  Arsenal FC               6-2 (3-2)  Blackburn Rovers
+  16.00  Chelsea FC               2-0 (0-0)  Liverpool FC
+  15.00  West Ham United          2-2 (1-0)  Fulham FC
+         Everton FC               1-1 (0-0)  Stoke City
 [Mon Oct/5]
-  Aston Villa              1-1  Manchester City
+  20.00  Aston Villa              1-1 (1-0)  Manchester City
 
 
 Matchday 9
 [Sat Oct/17]
-  Aston Villa              2-1  Chelsea
-  Sunderland               1-0  Liverpool
-  Stoke City               2-1  West Ham
-  Portsmouth               1-2  Tottenham
-  Arsenal                  3-1  Birmingham
-  Everton                  1-1  Wolves
-  Manchester United        2-1  Bolton
+  15.00  Manchester United        2-1 (2-0)  Bolton Wanderers
+         Portsmouth FC            1-2 (0-2)  Tottenham Hotspur
+         Everton FC               1-1 (0-0)  Wolverhampton Wanderers
+         Sunderland AFC           1-0 (1-0)  Liverpool FC
+  12.50  Aston Villa              2-1 (1-1)  Chelsea FC
+  15.00  Arsenal FC               3-1 (2-1)  Birmingham City
+         Stoke City               2-1 (1-1)  West Ham United
 [Sun Oct/18]
-  Blackburn                3-2  Burnley
-  Wigan                    1-1  Manchester City
+  13.00  Blackburn Rovers         3-2 (3-1)  Burnley FC
+  16.00  Wigan Athletic           1-1 (1-0)  Manchester City
 [Mon Oct/19]
-  Fulham                   2-0  Hull City
+  20.00  Fulham FC                2-0 (1-0)  Hull City
 
 
 Matchday 10
 [Sat Oct/24]
-  Wolves                   1-1  Aston Villa
-  Tottenham                0-1  Stoke City
-  Hull City                0-0  Portsmouth
-  Burnley                  1-3  Wigan
-  Chelsea                  5-0  Blackburn
-  Birmingham               2-1  Sunderland
+  15.00  Tottenham Hotspur        0-1 (0-0)  Stoke City
+         Hull City                0-0  Portsmouth FC
+         Burnley FC               1-3 (1-1)  Wigan Athletic
+  17.30  Chelsea FC               5-0 (1-0)  Blackburn Rovers
+  12.45  Wolverhampton Wanderers  1-1 (0-0)  Aston Villa
+  15.00  Birmingham City          2-1 (1-0)  Sunderland AFC
 [Sun Oct/25]
-  Bolton                   3-2  Everton
-  Liverpool                2-0  Manchester United
-  Manchester City          2-2  Fulham
-  West Ham                 2-2  Arsenal
+  15.00  Manchester City          2-2 (0-0)  Fulham FC
+  14.00  Liverpool FC             2-0 (0-0)  Manchester United
+  13.30  Bolton Wanderers         3-2 (2-1)  Everton FC
+  16.15  West Ham United          2-2 (0-2)  Arsenal FC
 
 
 Matchday 11
 [Sat Oct/31]
-  Arsenal                  3-0  Tottenham
-  Sunderland               2-2  West Ham
-  Stoke City               2-2  Wolves
-  Portsmouth               4-0  Wigan
-  Fulham                   3-1  Liverpool
-  Everton                  1-1  Aston Villa
-  Burnley                  2-0  Hull City
-  Manchester United        2-0  Blackburn
-  Bolton                   0-4  Chelsea
+  15.00  Stoke City               2-2 (2-0)  Wolverhampton Wanderers
+         Sunderland AFC           2-2 (1-2)  West Ham United
+  17.30  Manchester United        2-0 (0-0)  Blackburn Rovers
+  15.00  Everton FC               1-1 (1-0)  Aston Villa
+  12.45  Arsenal FC               3-0 (2-0)  Tottenham Hotspur
+  15.00  Bolton Wanderers         0-4 (0-1)  Chelsea FC
+         Burnley FC               2-0 (1-0)  Hull City
+         Portsmouth FC            4-0 (2-0)  Wigan Athletic
+         Fulham FC                3-1 (1-1)  Liverpool FC
 [Sun Nov/1]
-  Birmingham               0-0  Manchester City
+  16.00  Birmingham City          0-0  Manchester City
 
 
 Matchday 2
 [Wed Nov/4]
-  West Ham                 2-1  Aston Villa
+  19.45  West Ham United          2-1 (1-0)  Aston Villa
 
 
 Matchday 12
 [Sat Nov/7]
-  Manchester City          3-3  Burnley
-  Tottenham                2-0  Sunderland
-  Wolves                   1-4  Arsenal
-  Aston Villa              5-1  Bolton
-  Blackburn                3-1  Portsmouth
+  15.00  Manchester City          3-3 (1-2)  Burnley FC
+         Blackburn Rovers         3-1 (0-1)  Portsmouth FC
+  17.30  Wolverhampton Wanderers  1-4 (0-3)  Arsenal FC
+  15.00  Aston Villa              5-1 (2-1)  Bolton Wanderers
+         Tottenham Hotspur        2-0 (1-0)  Sunderland AFC
 [Sun Nov/8]
-  Hull City                2-1  Stoke City
-  Wigan                    1-1  Fulham
-  Chelsea                  1-0  Manchester United
-  West Ham                 1-2  Everton
+  16.00  Chelsea FC               1-0 (0-0)  Manchester United
+  15.00  Wigan Athletic           1-1 (1-1)  Fulham FC
+  13.30  Hull City                2-1 (0-1)  Stoke City
+  15.00  West Ham United          1-2 (0-1)  Everton FC
 [Mon Nov/9]
-  Liverpool                2-2  Birmingham
+  20.00  Liverpool FC             2-2 (1-2)  Birmingham City
 
 
 Matchday 13
 [Sat Nov/21]
-  Liverpool                2-2  Manchester City
-  Sunderland               1-0  Arsenal
-  Hull City                3-3  West Ham
-  Chelsea                  4-0  Wolves
-  Manchester United        3-0  Everton
-  Birmingham               1-0  Fulham
-  Burnley                  1-1  Aston Villa
+  15.00  Hull City                3-3 (3-2)  West Ham United
+         Sunderland AFC           1-0 (0-0)  Arsenal FC
+  17.30  Manchester United        3-0 (1-0)  Everton FC
+  12.45  Liverpool FC             2-2 (0-0)  Manchester City
+  15.00  Birmingham City          1-0 (1-0)  Fulham FC
+         Burnley FC               1-1 (1-0)  Aston Villa
+         Chelsea FC               4-0 (3-0)  Wolverhampton Wanderers
 [Sun Nov/22]
-  Bolton                   0-2  Blackburn
-  Tottenham                9-1  Wigan
-  Stoke City               1-0  Portsmouth
+  13.30  Bolton Wanderers         0-2 (0-1)  Blackburn Rovers
+  16.00  Stoke City               1-0 (0-0)  Portsmouth FC
+  15.00  Tottenham Hotspur        9-1 (1-0)  Wigan Athletic
 
 
 Matchday 2
 [Wed Nov/25]
-  Fulham                   3-0  Blackburn
+  20.00  Fulham FC                3-0 (1-0)  Blackburn Rovers
 
 
 Matchday 17
 [Wed Nov/25]
-  Hull City                3-2  Everton
+  19.45  Hull City                3-2 (3-0)  Everton FC
 
 
 Matchday 14
 [Sat Nov/28]
-  Wigan                    1-0  Sunderland
-  West Ham                 5-3  Burnley
-  Portsmouth               1-4  Manchester United
-  Manchester City          1-1  Hull City
-  Fulham                   1-1  Bolton
-  Blackburn                0-0  Stoke City
-  Aston Villa              1-1  Tottenham
+  17.30  Aston Villa              1-1 (1-0)  Tottenham Hotspur
+  15.00  Blackburn Rovers         0-0  Stoke City
+         Fulham FC                1-1 (0-1)  Bolton Wanderers
+         Manchester City          1-1 (1-0)  Hull City
+         Portsmouth FC            1-4 (1-1)  Manchester United
+         West Ham United          5-3 (3-0)  Burnley FC
+         Wigan Athletic           1-0 (0-0)  Sunderland AFC
 [Sun Nov/29]
-  Wolves                   0-1  Birmingham
-  Everton                  0-2  Liverpool
-  Arsenal                  0-3  Chelsea
+  16.00  Arsenal FC               0-3 (0-2)  Chelsea FC
+  12.00  Wolverhampton Wanderers  0-1 (0-1)  Birmingham City
+  13.30  Everton FC               0-2 (0-1)  Liverpool FC
 
 
 Matchday 15
 [Sat Dec/5]
-  Wigan                    2-3  Birmingham
-  Wolves                   2-1  Bolton
-  Portsmouth               2-0  Burnley
-  West Ham                 0-4  Manchester United
-  Manchester City          2-1  Chelsea
-  Aston Villa              3-0  Hull City
-  Arsenal                  2-0  Stoke City
-  Blackburn                0-0  Liverpool
+  15.00  Arsenal FC               2-0 (1-0)  Stoke City
+  12.45  Portsmouth FC            2-0 (0-0)  Burnley FC
+  17.30  Manchester City          2-1 (1-1)  Chelsea FC
+  15.00  Aston Villa              3-0 (2-0)  Hull City
+         Blackburn Rovers         0-0  Liverpool FC
+         West Ham United          0-4 (0-1)  Manchester United
+         Wigan Athletic           2-3 (1-0)  Birmingham City
+         Wolverhampton Wanderers  2-1 (1-0)  Bolton Wanderers
 [Sun Dec/6]
-  Fulham                   1-0  Sunderland
-  Everton                  2-2  Tottenham
+  15.00  Fulham FC                1-0 (1-0)  Sunderland AFC
+  16.00  Everton FC               2-2 (0-0)  Tottenham Hotspur
 
 
 Matchday 16
 [Sat Dec/12]
-  Hull City                0-0  Blackburn
-  Tottenham                0-1  Wolves
-  Sunderland               1-1  Portsmouth
-  Stoke City               2-2  Wigan
-  Chelsea                  3-3  Everton
-  Manchester United        0-1  Aston Villa
-  Bolton                   3-3  Manchester City
-  Birmingham               1-0  West Ham
-  Burnley                  1-1  Fulham
+  15.00  Sunderland AFC           1-1 (1-0)  Portsmouth FC
+  12.45  Stoke City               2-2 (1-1)  Wigan Athletic
+  15.00  Birmingham City          1-0 (0-0)  West Ham United
+         Bolton Wanderers         3-3 (2-2)  Manchester City
+         Burnley FC               1-1 (0-0)  Fulham FC
+         Chelsea FC               3-3 (2-2)  Everton FC
+         Hull City                0-0  Blackburn Rovers
+  17.30  Manchester United        0-1 (0-1)  Aston Villa
+  15.00  Tottenham Hotspur        0-1 (0-1)  Wolverhampton Wanderers
 [Sun Dec/13]
-  Liverpool                1-2  Arsenal
+  16.00  Liverpool FC             1-2 (1-0)  Arsenal FC
 
 
 Matchday 17
 [Tue Dec/15]
-  Manchester United        3-0  Wolves
-  Birmingham               2-1  Blackburn
-  Bolton                   3-1  West Ham
-  Sunderland               0-2  Aston Villa
+  20.00  Bolton Wanderers         3-1 (0-0)  West Ham United
+         Birmingham City          2-1 (1-0)  Blackburn Rovers
+  19.45  Sunderland AFC           0-2 (0-1)  Aston Villa
+  20.00  Manchester United        3-0 (2-0)  Wolverhampton Wanderers
 [Wed Dec/16]
-  Chelsea                  2-1  Portsmouth
-  Burnley                  1-1  Arsenal
-  Tottenham                3-0  Manchester City
-  Liverpool                2-1  Wigan
+  19.45  Chelsea FC               2-1 (1-0)  Portsmouth FC
+  20.00  Liverpool FC             2-1 (1-0)  Wigan Athletic
+  19.45  Burnley FC               1-1 (1-1)  Arsenal FC
+  20.00  Tottenham Hotspur        3-0 (1-0)  Manchester City
 
 
 Matchday 18
 [Sat Dec/19]
-  Portsmouth               2-0  Liverpool
-  Manchester City          4-3  Sunderland
-  Arsenal                  3-0  Hull City
-  Blackburn                0-2  Tottenham
-  Aston Villa              1-0  Stoke City
-  Fulham                   3-0  Manchester United
+  15.00  Fulham FC                3-0 (1-0)  Manchester United
+         Manchester City          4-3 (3-2)  Sunderland AFC
+         Blackburn Rovers         0-2 (0-1)  Tottenham Hotspur
+  12.45  Portsmouth FC            2-0 (1-0)  Liverpool FC
+  15.00  Aston Villa              1-0 (0-0)  Stoke City
+  17.30  Arsenal FC               3-0 (1-0)  Hull City
 [Sun Dec/20]
-  Wolves                   2-0  Burnley
-  Everton                  1-1  Birmingham
-  West Ham                 1-1  Chelsea
+  15.00  Everton FC               1-1 (1-1)  Birmingham City
+  16.00  West Ham United          1-1 (1-0)  Chelsea FC
+  13.30  Wolverhampton Wanderers  2-0 (1-0)  Burnley FC
 
 
 Matchday 19
 [Sat Dec/26]
-  Fulham                   0-0  Tottenham
-  West Ham                 2-0  Portsmouth
-  Birmingham               0-0  Chelsea
-  Burnley                  1-1  Bolton
-  Wigan                    1-1  Blackburn
-  Sunderland               1-1  Everton
-  Liverpool                2-0  Wolves
-  Manchester City          2-0  Stoke City
+  15.00  Manchester City          2-0 (2-0)  Stoke City
+         Sunderland AFC           1-1 (1-0)  Everton FC
+  17.30  Liverpool FC             2-0 (0-0)  Wolverhampton Wanderers
+  15.00  Wigan Athletic           1-1 (0-1)  Blackburn Rovers
+  12.45  Birmingham City          0-0  Chelsea FC
+  13.00  Fulham FC                0-0  Tottenham Hotspur
+         West Ham United          2-0 (1-0)  Portsmouth FC
+  14.00  Burnley FC               1-1 (0-1)  Bolton Wanderers
 [Sun Dec/27]
-  Arsenal                  3-0  Aston Villa
-  Hull City                1-3  Manchester United
+  16.00  Hull City                1-3 (0-1)  Manchester United
+  13.30  Arsenal FC               3-0 (0-0)  Aston Villa
 
 
 Matchday 20
 [Mon Dec/28]
-  Stoke City               0-1  Birmingham
-  Tottenham                2-0  West Ham
-  Wolves                   0-3  Manchester City
-  Blackburn                2-2  Sunderland
-  Everton                  2-0  Burnley
-  Chelsea                  2-1  Fulham
+  15.00  Everton FC               2-0 (0-0)  Burnley FC
+  19.45  Wolverhampton Wanderers  0-3 (0-1)  Manchester City
+  15.00  Stoke City               0-1 (0-0)  Birmingham City
+         Chelsea FC               2-1 (0-1)  Fulham FC
+  12.45  Tottenham Hotspur        2-0 (1-0)  West Ham United
+  15.00  Blackburn Rovers         2-2 (0-0)  Sunderland AFC
 [Tue Dec/29]
-  Aston Villa              0-1  Liverpool
-  Bolton                   2-2  Hull City
+  19.45  Aston Villa              0-1 (0-0)  Liverpool FC
+  20.00  Bolton Wanderers         2-2 (1-0)  Hull City
 [Wed Dec/30]
-  Portsmouth               1-4  Arsenal
-  Manchester United        5-0  Wigan
+  20.00  Manchester United        5-0 (3-0)  Wigan Athletic
+  19.45  Portsmouth FC            1-4 (0-2)  Arsenal FC
 
 
 Matchday 17
 [Tue Jan/5]
-  Stoke City               3-2  Fulham
+  19.45  Stoke City               3-2 (3-0)  Fulham FC
 
 
 Matchday 21
 [Sat Jan/9]
-  Arsenal                  2-2  Everton
-  Birmingham               1-1  Manchester United
+  17.30  Birmingham City          1-1 (1-0)  Manchester United
+  15.00  Arsenal FC               2-2 (1-1)  Everton FC
 [Mon Jan/11]
-  Manchester City          4-1  Blackburn
+  20.00  Manchester City          4-1 (2-0)  Blackburn Rovers
 
 
 Matchday 22
 [Sat Jan/16]
-  Tottenham                0-0  Hull City
-  Wolves                   0-2  Wigan
-  Stoke City               1-1  Liverpool
-  Everton                  2-0  Manchester City
-  Chelsea                  7-2  Sunderland
-  Manchester United        3-0  Burnley
+  17.30  Everton FC               2-0 (2-0)  Manchester City
+  15.00  Wolverhampton Wanderers  0-2 (0-0)  Wigan Athletic
+         Tottenham Hotspur        0-0  Hull City
+         Manchester United        3-0 (0-0)  Burnley FC
+         Chelsea FC               7-2 (4-0)  Sunderland AFC
+  12.45  Stoke City               1-1 (0-0)  Liverpool FC
 [Sun Jan/17]
-  Aston Villa              0-0  West Ham
-  Blackburn                2-0  Fulham
-  Bolton                   0-2  Arsenal
-
-
-Matchday 2
-[Wed Jan/20]
-  Arsenal                  4-2  Bolton
+  15.00  Blackburn Rovers         2-0 (1-0)  Fulham FC
+  16.00  Bolton Wanderers         0-2 (0-1)  Arsenal FC
+  13.30  Aston Villa              0-0  West Ham United
 
 
 Matchday 21
 [Wed Jan/20]
-  Liverpool                2-0  Tottenham
+  20.00  Liverpool FC             2-0 (1-0)  Tottenham Hotspur
+
+
+Matchday 2
+[Wed Jan/20]
+  19.45  Arsenal FC               4-2 (1-2)  Bolton Wanderers
 
 
 Matchday 23
 [Sat Jan/23]
-  Manchester United        4-0  Hull City
+  15.00  Manchester United        4-0 (1-0)  Hull City
 [Tue Jan/26]
-  Portsmouth               1-1  West Ham
-  Wolves                   0-0  Liverpool
-  Tottenham                2-0  Fulham
-  Bolton                   1-0  Burnley
+  19.45  Portsmouth FC            1-1 (0-0)  West Ham United
+  20.00  Tottenham Hotspur        2-0 (1-0)  Fulham FC
+  19.45  Wolverhampton Wanderers  0-0  Liverpool FC
+  20.00  Bolton Wanderers         1-0 (1-0)  Burnley FC
 [Wed Jan/27]
-  Chelsea                  3-0  Birmingham
-  Aston Villa              0-0  Arsenal
-  Everton                  2-0  Sunderland
-  Blackburn                2-1  Wigan
+  20.00  Blackburn Rovers         2-1 (1-0)  Wigan Athletic
+  19.45  Chelsea FC               3-0 (2-0)  Birmingham City
+         Aston Villa              0-0  Arsenal FC
+  20.00  Everton FC               2-0 (2-0)  Sunderland AFC
 
 
 Matchday 24
 [Sat Jan/30]
-  West Ham                 0-0  Blackburn
-  Wigan                    0-1  Everton
-  Burnley                  1-2  Chelsea
-  Hull City                2-2  Wolves
-  Fulham                   0-2  Aston Villa
-  Birmingham               1-1  Tottenham
-  Liverpool                2-0  Bolton
+  15.00  West Ham United          0-0  Blackburn Rovers
+         Liverpool FC             2-0 (1-0)  Bolton Wanderers
+         Wigan Athletic           0-1 (0-0)  Everton FC
+         Fulham FC                0-2 (0-2)  Aston Villa
+         Birmingham City          1-1 (0-0)  Tottenham Hotspur
+  17.30  Burnley FC               1-2 (0-1)  Chelsea FC
+  15.00  Hull City                2-2 (1-0)  Wolverhampton Wanderers
 [Sun Jan/31]
-  Arsenal                  1-3  Manchester United
-  Manchester City          2-0  Portsmouth
+  16.00  Arsenal FC               1-3 (0-2)  Manchester United
+  13.30  Manchester City          2-0 (2-0)  Portsmouth FC
 [Mon Feb/1]
-  Sunderland               0-0  Stoke City
+  20.00  Sunderland AFC           0-0  Stoke City
 
 
 Matchday 21
 [Tue Feb/2]
-  Hull City                1-1  Chelsea
+  19.45  Hull City                1-1 (1-1)  Chelsea FC
 [Wed Feb/3]
-  Fulham                   1-0  Portsmouth
+  20.00  Fulham FC                1-0 (0-0)  Portsmouth FC
 
 
 Matchday 25
 [Sat Feb/6]
-  Stoke City               3-0  Blackburn
-  Sunderland               1-1  Wigan
-  Liverpool                1-0  Everton
-  Manchester United        5-0  Portsmouth
-  Hull City                2-1  Manchester City
-  Burnley                  2-1  West Ham
-  Bolton                   0-0  Fulham
-  Tottenham                0-0  Aston Villa
+  12.45  Liverpool FC             1-0 (0-0)  Everton FC
+  15.00  Burnley FC               2-1 (1-0)  West Ham United
+  17.30  Tottenham Hotspur        0-0  Aston Villa
+  15.00  Hull City                2-1 (1-0)  Manchester City
+         Sunderland AFC           1-1 (0-1)  Wigan Athletic
+         Stoke City               3-0 (2-0)  Blackburn Rovers
+         Manchester United        5-0 (2-0)  Portsmouth FC
+         Bolton Wanderers         0-0  Fulham FC
 [Sun Feb/7]
-  Birmingham               2-1  Wolves
-  Chelsea                  2-0  Arsenal
+  16.00  Chelsea FC               2-0 (2-0)  Arsenal FC
+  13.30  Birmingham City          2-1 (0-1)  Wolverhampton Wanderers
 
 
 Matchday 26
 [Tue Feb/9]
-  Wigan                    1-1  Stoke City
-  Portsmouth               1-1  Sunderland
-  Manchester City          2-0  Bolton
-  Fulham                   3-0  Burnley
+  20.00  Fulham FC                3-0 (2-0)  Burnley FC
+  19.45  Portsmouth FC            1-1 (0-1)  Sunderland AFC
+         Manchester City          2-0 (1-0)  Bolton Wanderers
+         Wigan Athletic           1-1 (1-0)  Stoke City
 [Wed Feb/10]
-  Wolves                   1-0  Tottenham
-  West Ham                 2-0  Birmingham
-  Aston Villa              1-1  Manchester United
-  Arsenal                  1-0  Liverpool
-  Everton                  2-1  Chelsea
-  Blackburn                1-0  Hull City
+  19.45  Wolverhampton Wanderers  1-0 (1-0)  Tottenham Hotspur
+  20.00  Everton FC               2-1 (1-1)  Chelsea FC
+  19.45  West Ham United          2-0 (1-0)  Birmingham City
+         Arsenal FC               1-0 (0-0)  Liverpool FC
+  20.00  Blackburn Rovers         1-0 (1-0)  Hull City
+  19.45  Aston Villa              1-1 (1-1)  Manchester United
 
 
 Matchday 23
 [Tue Feb/16]
-  Stoke City               1-1  Manchester City
+  19.45  Stoke City               1-1 (0-0)  Manchester City
 
 
 Matchday 18
 [Wed Feb/17]
-  Wigan                    0-0  Bolton
+  20.00  Wigan Athletic           0-0  Bolton Wanderers
 
 
 Matchday 27
 [Sat Feb/20]
-  Wolves                   0-2  Chelsea
-  Everton                  3-1  Manchester United
-  West Ham                 3-0  Hull City
-  Portsmouth               1-2  Stoke City
-  Arsenal                  2-0  Sunderland
+  15.00  Wolverhampton Wanderers  0-2 (0-1)  Chelsea FC
+         Arsenal FC               2-0 (1-0)  Sunderland AFC
+  12.45  Everton FC               3-1 (1-1)  Manchester United
+  17.30  Portsmouth FC            1-2 (1-0)  Stoke City
+  15.00  West Ham United          3-0 (1-0)  Hull City
 [Sun Feb/21]
-  Blackburn                3-0  Bolton
-  Aston Villa              5-2  Burnley
-  Manchester City          0-0  Liverpool
-  Fulham                   2-1  Birmingham
-  Wigan                    0-3  Tottenham
+  15.00  Manchester City          0-0  Liverpool FC
+  16.15  Wigan Athletic           0-3 (0-1)  Tottenham Hotspur
+  12.00  Blackburn Rovers         3-0 (1-0)  Bolton Wanderers
+  15.00  Fulham FC                2-1 (0-1)  Birmingham City
+  14.00  Aston Villa              5-2 (1-1)  Burnley FC
 
 
 Matchday 28
 [Tue Feb/23]
-  Manchester United        3-0  West Ham
+  20.00  Manchester United        3-0 (1-0)  West Ham United
 [Sat Feb/27]
-  Chelsea                  2-4  Manchester City
-  Burnley                  1-2  Portsmouth
-  Bolton                   1-0  Wolves
-  Birmingham               1-0  Wigan
-  Stoke City               1-3  Arsenal
+  12.45  Chelsea FC               2-4 (1-1)  Manchester City
+  17.30  Stoke City               1-3 (1-1)  Arsenal FC
+  15.00  Birmingham City          1-0 (1-0)  Wigan Athletic
+         Burnley FC               1-2 (1-1)  Portsmouth FC
+         Bolton Wanderers         1-0 (1-0)  Wolverhampton Wanderers
 [Sun Feb/28]
-  Tottenham                2-1  Everton
-  Sunderland               0-0  Fulham
-  Liverpool                2-1  Blackburn
+  15.00  Sunderland AFC           0-0  Fulham FC
+  13.00  Tottenham Hotspur        2-1 (2-0)  Everton FC
+  15.00  Liverpool FC             2-1 (2-1)  Blackburn Rovers
 
 
 Matchday 29
 [Sat Mar/6]
-  West Ham                 1-2  Bolton
-  Arsenal                  3-1  Burnley
-  Wolves                   0-1  Manchester United
+  15.00  Arsenal FC               3-1 (1-0)  Burnley FC
+  17.30  Wolverhampton Wanderers  0-1 (0-0)  Manchester United
+  15.00  West Ham United          1-2 (0-2)  Bolton Wanderers
 [Sun Mar/7]
-  Everton                  5-1  Hull City
+  16.00  Everton FC               5-1 (2-1)  Hull City
 [Mon Mar/8]
-  Wigan                    1-0  Liverpool
+  20.00  Wigan Athletic           1-0 (1-0)  Liverpool FC
 
 
 Matchday 21
 [Tue Mar/9]
-  Sunderland               4-0  Bolton
+  19.45  Sunderland AFC           4-0 (1-0)  Bolton Wanderers
 
 
 Matchday 22
 [Tue Mar/9]
-  Portsmouth               1-2  Birmingham
+  19.45  Portsmouth FC            1-2 (0-2)  Birmingham City
 
 
 Matchday 21
 [Wed Mar/10]
-  Burnley                  1-1  Stoke City
+  19.45  Burnley FC               1-1 (0-1)  Stoke City
 
 
 Matchday 30
 [Sat Mar/13]
-  Tottenham                3-1  Blackburn
-  Stoke City               0-0  Aston Villa
-  Chelsea                  4-1  West Ham
-  Burnley                  1-2  Wolves
-  Bolton                   4-0  Wigan
-  Hull City                1-2  Arsenal
-  Birmingham               2-2  Everton
+  15.00  Birmingham City          2-2 (1-2)  Everton FC
+         Burnley FC               1-2 (0-1)  Wolverhampton Wanderers
+  17.30  Hull City                1-2 (1-1)  Arsenal FC
+  15.00  Stoke City               0-0  Aston Villa
+         Chelsea FC               4-1 (1-1)  West Ham United
+         Bolton Wanderers         4-0 (1-0)  Wigan Athletic
+  12.45  Tottenham Hotspur        3-1 (1-0)  Blackburn Rovers
 [Sun Mar/14]
-  Manchester United        3-0  Fulham
-  Sunderland               1-1  Manchester City
+  13.30  Manchester United        3-0 (0-0)  Fulham FC
+  16.00  Sunderland AFC           1-1 (1-0)  Manchester City
 [Mon Mar/15]
-  Liverpool                4-1  Portsmouth
+  20.00  Liverpool FC             4-1 (3-0)  Portsmouth FC
 
 
 Matchday 21
 [Tue Mar/16]
-  Wigan                    1-2  Aston Villa
+  19.45  Wigan Athletic           1-2 (1-1)  Aston Villa
 
 
 Matchday 31
 [Sat Mar/20]
-  Wigan                    1-0  Burnley
-  Aston Villa              2-2  Wolves
-  Arsenal                  2-0  West Ham
-  Stoke City               1-2  Tottenham
-  Portsmouth               3-2  Hull City
-  Everton                  2-0  Bolton
-  Sunderland               3-1  Birmingham
+  17.30  Arsenal FC               2-0 (1-0)  West Ham United
+  15.00  Stoke City               1-2 (0-0)  Tottenham Hotspur
+         Sunderland AFC           3-1 (2-0)  Birmingham City
+         Portsmouth FC            3-2 (1-1)  Hull City
+         Everton FC               2-0 (0-0)  Bolton Wanderers
+         Wigan Athletic           1-0 (0-0)  Burnley FC
+  12.45  Aston Villa              2-2 (1-2)  Wolverhampton Wanderers
 [Sun Mar/21]
-  Manchester United        2-1  Liverpool
-  Blackburn                1-1  Chelsea
-  Fulham                   1-2  Manchester City
+  15.00  Fulham FC                1-2 (0-2)  Manchester City
+  16.00  Blackburn Rovers         1-1 (0-1)  Chelsea FC
+  13.30  Manchester United        2-1 (1-1)  Liverpool FC
 
 
 Matchday 21
 [Tue Mar/23]
-  West Ham                 1-3  Wolves
+  20.00  West Ham United          1-3 (0-1)  Wolverhampton Wanderers
+
+
+Matchday 29
+[Wed Mar/24]
+  19.45  Aston Villa              1-1 (1-1)  Sunderland AFC
 
 
 Matchday 2
 [Wed Mar/24]
-  Manchester City          0-2  Everton
+  19.45  Manchester City          0-2 (0-1)  Everton FC
 
 
 Matchday 29
 [Wed Mar/24]
-  Portsmouth               0-5  Chelsea
-  Aston Villa              1-1  Sunderland
-  Blackburn                2-1  Birmingham
+  19.45  Portsmouth FC            0-5 (0-1)  Chelsea FC
+  20.00  Blackburn Rovers         2-1 (1-0)  Birmingham City
 
 
 Matchday 32
 [Sat Mar/27]
-  Wolves                   0-0  Everton
-  West Ham                 0-1  Stoke City
-  Tottenham                2-0  Portsmouth
-  Hull City                2-0  Fulham
-  Chelsea                  7-1  Aston Villa
-  Bolton                   0-4  Manchester United
-  Birmingham               1-1  Arsenal
+  15.00  Tottenham Hotspur        2-0 (2-0)  Portsmouth FC
+         Wolverhampton Wanderers  0-0  Everton FC
+         West Ham United          0-1 (0-0)  Stoke City
+         Birmingham City          1-1 (0-0)  Arsenal FC
+         Chelsea FC               7-1 (2-1)  Aston Villa
+         Hull City                2-0 (1-0)  Fulham FC
+  17.30  Bolton Wanderers         0-4 (0-1)  Manchester United
 [Sun Mar/28]
-  Burnley                  0-1  Blackburn
-  Liverpool                3-0  Sunderland
+  16.00  Liverpool FC             3-0 (2-0)  Sunderland AFC
+  12.00  Burnley FC               0-1 (0-1)  Blackburn Rovers
 [Mon Mar/29]
-  Manchester City          3-0  Wigan
+  20.00  Manchester City          3-0 (0-0)  Wigan Athletic
 
 
 Matchday 33
 [Sat Apr/3]
-  Sunderland               3-1  Tottenham
-  Manchester United        1-2  Chelsea
-  Stoke City               2-0  Hull City
-  Burnley                  1-6  Manchester City
-  Bolton                   0-1  Aston Villa
-  Arsenal                  1-0  Wolves
-  Portsmouth               0-0  Blackburn
+  17.30  Burnley FC               1-6 (0-5)  Manchester City
+  15.00  Portsmouth FC            0-0  Blackburn Rovers
+         Sunderland AFC           3-1 (2-0)  Tottenham Hotspur
+  12.45  Manchester United        1-2 (0-1)  Chelsea FC
+  15.00  Arsenal FC               1-0 (0-0)  Wolverhampton Wanderers
+         Bolton Wanderers         0-1 (0-1)  Aston Villa
+         Stoke City               2-0 (1-0)  Hull City
 [Sun Apr/4]
-  Fulham                   2-1  Wigan
-  Everton                  2-2  West Ham
-  Birmingham               1-1  Liverpool
+  15.00  Birmingham City          1-1 (0-0)  Liverpool FC
+  16.00  Everton FC               2-2 (1-0)  West Ham United
+  15.00  Fulham FC                2-1 (0-1)  Wigan Athletic
 
 
 Matchday 34
 [Sat Apr/10]
-  West Ham                 1-0  Sunderland
-  Hull City                1-4  Burnley
+  15.00  West Ham United          1-0 (0-0)  Sunderland AFC
+         Hull City                1-4 (1-1)  Burnley FC
 [Sun Apr/11]
-  Wolves                   0-0  Stoke City
-  Blackburn                0-0  Manchester United
-  Manchester City          5-1  Birmingham
-  Liverpool                0-0  Fulham
+  16.00  Manchester City          5-1 (3-1)  Birmingham City
+  13.30  Blackburn Rovers         0-0  Manchester United
+  15.00  Liverpool FC             0-0  Fulham FC
+  12.00  Wolverhampton Wanderers  0-0  Stoke City
 [Tue Apr/13]
-  Chelsea                  1-0  Bolton
+  20.00  Chelsea FC               1-0 (1-0)  Bolton Wanderers
 [Wed Apr/14]
-  Tottenham                2-1  Arsenal
-  Aston Villa              2-2  Everton
-  Wigan                    0-0  Portsmouth
+  19.45  Wigan Athletic           0-0  Portsmouth FC
+         Aston Villa              2-2 (0-1)  Everton FC
+  20.00  Tottenham Hotspur        2-1 (1-0)  Arsenal FC
 
 
 Matchday 35
 [Sat Apr/17]
-  Manchester City          0-1  Manchester United
-  Sunderland               2-1  Burnley
-  Stoke City               1-2  Bolton
-  Fulham                   0-0  Wolves
-  Tottenham                2-1  Chelsea
-  Birmingham               0-0  Hull City
-  Blackburn                2-3  Everton
+  15.00  Fulham FC                0-0  Wolverhampton Wanderers
+  17.30  Tottenham Hotspur        2-1 (2-0)  Chelsea FC
+  15.00  Sunderland AFC           2-1 (2-0)  Burnley FC
+  12.45  Manchester City          0-1 (0-0)  Manchester United
+  15.00  Birmingham City          0-0  Hull City
+         Blackburn Rovers         2-3 (0-1)  Everton FC
+         Stoke City               1-2 (1-0)  Bolton Wanderers
 [Sun Apr/18]
-  Wigan                    3-2  Arsenal
-  Portsmouth               1-2  Aston Villa
+  13.30  Wigan Athletic           3-2 (0-1)  Arsenal FC
+  16.00  Portsmouth FC            1-2 (1-1)  Aston Villa
 [Mon Apr/19]
-  Liverpool                3-0  West Ham
+  20.00  Liverpool FC             3-0 (2-0)  West Ham United
 
 
 Matchday 28
 [Wed Apr/21]
-  Hull City                0-2  Aston Villa
+  19.45  Hull City                0-2 (0-1)  Aston Villa
 
 
 Matchday 36
 [Sat Apr/24]
-  Arsenal                  0-0  Manchester City
-  Manchester United        3-1  Tottenham
-  West Ham                 3-2  Wigan
-  Hull City                0-1  Sunderland
-  Bolton                   2-2  Portsmouth
-  Wolves                   1-1  Blackburn
+  15.00  Wolverhampton Wanderers  1-1 (0-1)  Blackburn Rovers
+  12.45  Manchester United        3-1 (0-0)  Tottenham Hotspur
+  17.30  Arsenal FC               0-0  Manchester City
+  15.00  Bolton Wanderers         2-2 (2-0)  Portsmouth FC
+         Hull City                0-1 (0-1)  Sunderland AFC
+         West Ham United          3-2 (2-1)  Wigan Athletic
 [Sun Apr/25]
-  Aston Villa              1-0  Birmingham
-  Everton                  2-1  Fulham
-  Burnley                  0-4  Liverpool
-  Chelsea                  7-0  Stoke City
+  15.00  Burnley FC               0-4 (0-0)  Liverpool FC
+  16.00  Chelsea FC               7-0 (3-0)  Stoke City
+  12.00  Aston Villa              1-0 (0-0)  Birmingham City
+  15.00  Everton FC               2-1 (0-1)  Fulham FC
 
 
 Matchday 37
 [Sat May/1]
-  Manchester City          3-1  Aston Villa
-  Tottenham                1-0  Bolton
-  Stoke City               0-0  Everton
-  Portsmouth               3-1  Wolves
-  Birmingham               2-1  Burnley
+  15.00  Tottenham Hotspur        1-0 (1-0)  Bolton Wanderers
+  12.45  Birmingham City          2-1 (2-0)  Burnley FC
+  15.00  Manchester City          3-1 (2-1)  Aston Villa
+         Portsmouth FC            3-1 (2-1)  Wolverhampton Wanderers
+         Stoke City               0-0  Everton FC
 [Sun May/2]
-  Liverpool                0-2  Chelsea
-  Fulham                   3-2  West Ham
-  Sunderland               0-1  Manchester United
+  16.00  Sunderland AFC           0-1 (0-1)  Manchester United
+  15.00  Fulham FC                3-2 (1-0)  West Ham United
+  13.30  Liverpool FC             0-2 (0-1)  Chelsea FC
 [Mon May/3]
-  Blackburn                2-1  Arsenal
-  Wigan                    2-2  Hull City
+  17.00  Blackburn Rovers         2-1 (1-1)  Arsenal FC
+  13.30  Wigan Athletic           2-2 (1-1)  Hull City
 
 
 Matchday 29
 [Wed May/5]
-  Manchester City          0-1  Tottenham
-  Fulham                   0-1  Stoke City
+  20.00  Manchester City          0-1 (0-0)  Tottenham Hotspur
+         Fulham FC                0-1 (0-0)  Stoke City
 
 
 Matchday 38
 [Sun May/9]
-  West Ham                 1-1  Manchester City
-  Wolves                   2-1  Sunderland
-  Manchester United        4-0  Stoke City
-  Hull City                0-0  Liverpool
-  Everton                  1-0  Portsmouth
-  Chelsea                  8-0  Wigan
-  Burnley                  4-2  Tottenham
-  Bolton                   2-1  Birmingham
-  Aston Villa              0-1  Blackburn
-  Arsenal                  4-0  Fulham
+  16.00  Arsenal FC               4-0 (3-0)  Fulham FC
+         Aston Villa              0-1 (0-0)  Blackburn Rovers
+         Bolton Wanderers         2-1 (1-0)  Birmingham City
+         Burnley FC               4-2 (1-2)  Tottenham Hotspur
+         Chelsea FC               8-0 (2-0)  Wigan Athletic
+         Everton FC               1-0 (0-0)  Portsmouth FC
+         Hull City                0-0  Liverpool FC
+         Manchester United        4-0 (2-0)  Stoke City
+         West Ham United          1-1 (1-1)  Manchester City
+         Wolverhampton Wanderers  2-1 (1-1)  Sunderland AFC
