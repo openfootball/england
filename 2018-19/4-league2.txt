@@ -1,830 +1,839 @@
 = English League Two 2018/19
 
+# Date       Sat Aug/4 2018 - Sat May/4 2019 (273d)
+# Teams      24
+# Matches    552
+
+
 
 Matchday 1
 [Sat Aug/4]
-  Bury FC                  1-0  Yeovil Town FC
-  Cheltenham Town FC       0-1  Crawley Town FC
-  Crewe Alexandra FC       6-0  Morecambe FC
-  Exeter City FC           3-1  Carlisle United FC
-  Grimsby Town FC          1-4  Forest Green Rovers FC
-  Mansfield Town FC        3-0  Newport County AFC
-  Northampton Town FC      0-1  Lincoln City FC
-  Notts County FC          0-0  Colchester United FC
-  Oldham Athletic AFC      1-2  Milton Keynes Dons FC
-  Port Vale FC             3-0  Cambridge United FC
-  Stevenage FC             2-2  Tranmere Rovers FC
-  Swindon Town FC          3-2  Macclesfield Town FC
+  15.00  Bury FC                  1-0 (0-0)  Yeovil Town
+         Cheltenham Town          0-1 (0-0)  Crawley Town
+         Crewe Alexandra          6-0 (2-0)  Morecambe FC
+         Exeter City              3-1 (2-1)  Carlisle United
+         Grimsby Town             1-4 (1-0)  Forest Green Rovers
+         Mansfield Town           3-0 (1-0)  Newport County
+         Northampton Town         0-1 (0-0)  Lincoln City
+         Notts County             0-0  Colchester United
+         Oldham Athletic          1-2 (1-2)  Milton Keynes Dons
+         Port Vale FC             3-0 (1-0)  Cambridge United
+         Stevenage FC             2-2 (2-1)  Tranmere Rovers
+         Swindon Town             3-2 (0-0)  Macclesfield Town
 
 
 Matchday 2
 [Sat Aug/11]
-  Cambridge United FC      3-2  Notts County FC
-  Carlisle United FC       2-2  Northampton Town FC
-  Colchester United FC     2-0  Port Vale FC
-  Crawley Town FC          1-3  Stevenage FC
-  Forest Green Rovers FC   1-1  Oldham Athletic AFC
-  Lincoln City FC          4-1  Swindon Town FC
-  Macclesfield Town FC     0-2  Grimsby Town FC
-  Milton Keynes Dons FC    1-0  Bury FC
-  Morecambe FC             0-2  Exeter City FC
-  Newport County AFC       1-0  Crewe Alexandra FC
-  Tranmere Rovers FC       1-0  Cheltenham Town FC
-  Yeovil Town FC           2-2  Mansfield Town FC
+  15.00  Cambridge United         3-2 (0-1)  Notts County
+         Carlisle United          2-2 (1-1)  Northampton Town
+         Colchester United        2-0 (2-0)  Port Vale FC
+         Crawley Town             1-3 (0-0)  Stevenage FC
+         Forest Green Rovers      1-1 (1-0)  Oldham Athletic
+         Lincoln City             4-1 (2-1)  Swindon Town
+         Macclesfield Town        0-2 (0-1)  Grimsby Town
+         Milton Keynes Dons       1-0 (0-0)  Bury FC
+         Morecambe FC             0-2 (0-1)  Exeter City
+         Newport County           1-0 (1-0)  Crewe Alexandra
+         Tranmere Rovers          1-0 (1-0)  Cheltenham Town
+         Yeovil Town              2-2 (2-2)  Mansfield Town
 
 
 Matchday 3
 [Fri Aug/17]
-  Notts County FC          0-4  Yeovil Town FC
+  19.45  Notts County             0-4 (0-2)  Yeovil Town
 [Sat Aug/18]
-  Grimsby Town FC          1-1  Lincoln City FC
-  Bury FC                  1-1  Forest Green Rovers FC
-  Cheltenham Town FC       0-1  Carlisle United FC
-  Crewe Alexandra FC       0-0  Milton Keynes Dons FC
-  Exeter City FC           1-1  Newport County AFC
-  Mansfield Town FC        1-1  Colchester United FC
-  Northampton Town FC      2-2  Cambridge United FC
-  Oldham Athletic AFC      3-1  Macclesfield Town FC
-  Port Vale FC             1-0  Crawley Town FC
-  Stevenage FC             1-0  Morecambe FC
-  Swindon Town FC          3-2  Tranmere Rovers FC
+  13.00  Grimsby Town             1-1 (1-0)  Lincoln City
+  15.00  Bury FC                  1-1 (0-1)  Forest Green Rovers
+         Cheltenham Town          0-1 (0-1)  Carlisle United
+         Crewe Alexandra          0-0  Milton Keynes Dons
+         Exeter City              1-1 (1-0)  Newport County
+         Mansfield Town           1-1 (0-0)  Colchester United
+         Northampton Town         2-2 (0-0)  Cambridge United
+         Oldham Athletic          3-1 (1-0)  Macclesfield Town
+         Port Vale FC             1-0 (1-0)  Crawley Town
+         Stevenage FC             1-0 (1-0)  Morecambe FC
+         Swindon Town             3-2 (1-2)  Tranmere Rovers
 
 
 Matchday 4
 [Tue Aug/21]
-  Cambridge United FC      0-2  Exeter City FC
-  Carlisle United FC       2-1  Port Vale FC
-  Colchester United FC     6-0  Crewe Alexandra FC
-  Crawley Town FC          2-2  Swindon Town FC
-  Forest Green Rovers FC   0-0  Stevenage FC
-  Lincoln City FC          2-1  Bury FC
-  Macclesfield Town FC     1-1  Cheltenham Town FC
-  Milton Keynes Dons FC    1-1  Grimsby Town FC
-  Morecambe FC             1-0  Northampton Town FC
-  Newport County AFC       3-2  Notts County FC
-  Tranmere Rovers FC       0-0  Mansfield Town FC
-  Yeovil Town FC           0-0  Oldham Athletic AFC
+  19.45  Cambridge United         0-2 (0-2)  Exeter City
+         Carlisle United          2-1 (1-0)  Port Vale FC
+         Colchester United        6-0 (3-0)  Crewe Alexandra
+         Crawley Town             2-2 (0-2)  Swindon Town
+         Forest Green Rovers      0-0  Stevenage FC
+         Lincoln City             2-1 (0-1)  Bury FC
+         Macclesfield Town        1-1 (1-0)  Cheltenham Town
+         Milton Keynes Dons       1-1 (0-1)  Grimsby Town
+         Morecambe FC             1-0 (1-0)  Northampton Town
+         Newport County           3-2 (2-1)  Notts County
+         Tranmere Rovers          0-0  Mansfield Town
+         Yeovil Town              0-0  Oldham Athletic
 
 
 Matchday 5
 [Sat Aug/25]
-  Cambridge United FC      0-1  Cheltenham Town FC
-  Carlisle United FC       1-0  Crewe Alexandra FC
-  Colchester United FC     1-2  Northampton Town FC
-  Crawley Town FC          3-2  Bury FC
-  Forest Green Rovers FC   1-1  Swindon Town FC
-  Lincoln City FC          3-1  Notts County FC
-  Macclesfield Town FC     1-1  Mansfield Town FC
-  Milton Keynes Dons FC    1-0  Exeter City FC
-  Morecambe FC             0-2  Oldham Athletic AFC
-  Newport County AFC       1-0  Grimsby Town FC
-  Tranmere Rovers FC       1-0  Port Vale FC
-  Yeovil Town FC           2-0  Stevenage FC
+  15.00  Cambridge United         0-1 (0-0)  Cheltenham Town
+         Carlisle United          1-0 (0-0)  Crewe Alexandra
+         Colchester United        1-2 (0-0)  Northampton Town
+         Crawley Town             3-2 (1-0)  Bury FC
+         Forest Green Rovers      1-1 (1-1)  Swindon Town
+         Lincoln City             3-1 (2-1)  Notts County
+         Macclesfield Town        1-1 (0-1)  Mansfield Town
+         Milton Keynes Dons       1-0 (0-0)  Exeter City
+         Morecambe FC             0-2 (0-2)  Oldham Athletic
+         Newport County           1-0 (1-0)  Grimsby Town
+         Tranmere Rovers          1-0 (0-0)  Port Vale FC
+         Yeovil Town              2-0 (2-0)  Stevenage FC
 
 
 Matchday 6
 [Sat Sep/1]
-  Bury FC                  3-2  Morecambe FC
-  Cheltenham Town FC       1-3  Colchester United FC
-  Crewe Alexandra FC       3-0  Macclesfield Town FC
-  Exeter City FC           0-3  Lincoln City FC
-  Grimsby Town FC          0-1  Yeovil Town FC
-  Mansfield Town FC        1-0  Carlisle United FC
-  Northampton Town FC      1-1  Tranmere Rovers FC
-  Notts County FC          1-3  Forest Green Rovers FC
-  Oldham Athletic AFC      2-1  Crawley Town FC
-  Port Vale FC             1-2  Newport County AFC
-  Stevenage FC             0-1  Cambridge United FC
-  Swindon Town FC          1-1  Milton Keynes Dons FC
+  15.00  Bury FC                  3-2 (2-1)  Morecambe FC
+         Cheltenham Town          1-3 (0-2)  Colchester United
+         Crewe Alexandra          3-0 (2-0)  Macclesfield Town
+         Exeter City              0-3 (0-2)  Lincoln City
+         Grimsby Town             0-1 (0-0)  Yeovil Town
+         Mansfield Town           1-0 (0-0)  Carlisle United
+         Northampton Town         1-1 (0-0)  Tranmere Rovers
+         Notts County             1-3 (0-1)  Forest Green Rovers
+         Oldham Athletic          2-1 (1-1)  Crawley Town
+         Port Vale FC             1-2 (1-1)  Newport County
+         Stevenage FC             0-1 (0-1)  Cambridge United
+         Swindon Town             1-1 (0-1)  Milton Keynes Dons
 
 
 Matchday 7
 [Sat Sep/8]
-  Bury FC                  4-0  Grimsby Town FC
-  Cambridge United FC      1-2  Carlisle United FC
-  Exeter City FC           5-1  Notts County FC
-  Forest Green Rovers FC   1-1  Port Vale FC
-  Lincoln City FC          0-1  Crawley Town FC
-  Morecambe FC             0-1  Swindon Town FC
-  Northampton Town FC      1-3  Cheltenham Town FC
-  Oldham Athletic AFC      0-1  Newport County AFC
-  Stevenage FC             1-0  Macclesfield Town FC
-  Tranmere Rovers FC       1-1  Colchester United FC
+  15.00  Bury FC                  4-0 (2-0)  Grimsby Town
+         Cambridge United         1-2 (1-1)  Carlisle United
+         Exeter City              5-1 (2-1)  Notts County
+         Forest Green Rovers      1-1 (1-0)  Port Vale FC
+         Lincoln City             0-1 (0-1)  Crawley Town
+         Morecambe FC             0-1 (0-1)  Swindon Town
+         Northampton Town         1-3 (0-1)  Cheltenham Town
+         Oldham Athletic          0-1 (0-0)  Newport County
+         Stevenage FC             1-0 (1-0)  Macclesfield Town
+         Tranmere Rovers          1-1 (1-0)  Colchester United
 
 
 Matchday 8
 [Sat Sep/15]
-  Swindon Town FC          1-2  Bury FC
-  Port Vale FC             2-0  Northampton Town FC
-  Carlisle United FC       0-2  Tranmere Rovers FC
-  Cheltenham Town FC       0-0  Crewe Alexandra FC
-  Colchester United FC     3-0  Cambridge United FC
-  Crawley Town FC          2-0  Morecambe FC
-  Grimsby Town FC          0-3  Oldham Athletic AFC
-  Macclesfield Town FC     1-2  Lincoln City FC
-  Mansfield Town FC        1-2  Exeter City FC
-  Milton Keynes Dons FC    1-1  Forest Green Rovers FC
-  Newport County AFC       0-6  Yeovil Town FC
-  Notts County FC          3-3  Stevenage FC
+  15.00  Port Vale FC             2-0 (1-0)  Northampton Town
+         Notts County             3-3 (2-2)  Stevenage FC
+         Carlisle United          0-2 (0-0)  Tranmere Rovers
+         Cheltenham Town          0-0  Crewe Alexandra
+         Colchester United        3-0 (2-0)  Cambridge United
+         Crawley Town             2-0 (0-0)  Morecambe FC
+         Grimsby Town             0-3 (0-0)  Oldham Athletic
+         Macclesfield Town        1-2 (0-1)  Lincoln City
+         Mansfield Town           1-2 (0-1)  Exeter City
+         Milton Keynes Dons       1-1 (1-0)  Forest Green Rovers
+         Newport County           0-6 (0-3)  Yeovil Town
+         Swindon Town             1-2 (0-1)  Bury FC
 
 
 Matchday 9
 [Sat Sep/22]
-  Tranmere Rovers FC       0-1  Newport County AFC
-  Yeovil Town FC           0-3  Swindon Town FC
-  Bury FC                  0-1  Carlisle United FC
-  Cambridge United FC      1-1  Mansfield Town FC
-  Crewe Alexandra FC       0-1  Port Vale FC
-  Exeter City FC           3-1  Cheltenham Town FC
-  Forest Green Rovers FC   1-0  Crawley Town FC
-  Lincoln City FC          2-1  Milton Keynes Dons FC
-  Morecambe FC             2-1  Macclesfield Town FC
-  Northampton Town FC      0-0  Notts County FC
-  Oldham Athletic AFC      3-3  Colchester United FC
-  Stevenage FC             1-0  Grimsby Town FC
+  15.00  Yeovil Town              0-3 (0-0)  Swindon Town
+         Tranmere Rovers          0-1 (0-1)  Newport County
+         Bury FC                  0-1 (0-0)  Carlisle United
+         Cambridge United         1-1 (0-1)  Mansfield Town
+         Crewe Alexandra          0-1 (0-0)  Port Vale FC
+         Exeter City              3-1 (0-1)  Cheltenham Town
+         Forest Green Rovers      1-0 (0-0)  Crawley Town
+         Lincoln City             2-1 (0-0)  Milton Keynes Dons
+         Morecambe FC             2-1 (0-0)  Macclesfield Town
+         Northampton Town         0-0  Notts County
+         Oldham Athletic          3-3 (0-1)  Colchester United
+         Stevenage FC             1-0 (0-0)  Grimsby Town
 
 
 Matchday 7
 [Tue Sep/25]
-  Yeovil Town FC           1-1  Milton Keynes Dons FC
+  19.45  Yeovil Town              1-1 (0-1)  Milton Keynes Dons
 
 
 Matchday 10
 [Sat Sep/29]
-  Port Vale FC             1-1  Exeter City FC
-  Carlisle United FC       0-1  Stevenage FC
-  Cheltenham Town FC       0-2  Lincoln City FC
-  Colchester United FC     1-2  Bury FC
-  Crawley Town FC          3-1  Yeovil Town FC
-  Swindon Town FC          0-0  Oldham Athletic AFC
-  Macclesfield Town FC     1-1  Forest Green Rovers FC
-  Mansfield Town FC        4-0  Northampton Town FC
-  Milton Keynes Dons FC    1-1  Tranmere Rovers FC
-  Newport County AFC       4-2  Cambridge United FC
-  Notts County FC          2-1  Crewe Alexandra FC
-  Grimsby Town FC          1-2  Morecambe FC
+  15.00  Swindon Town             0-0  Oldham Athletic
+         Carlisle United          0-1 (0-0)  Stevenage FC
+         Cheltenham Town          0-2 (0-0)  Lincoln City
+         Colchester United        1-2 (0-1)  Bury FC
+         Crawley Town             3-1 (1-1)  Yeovil Town
+         Grimsby Town             1-2 (1-0)  Morecambe FC
+         Macclesfield Town        1-1 (0-0)  Forest Green Rovers
+         Mansfield Town           4-0 (1-0)  Northampton Town
+         Milton Keynes Dons       1-1 (1-1)  Tranmere Rovers
+         Newport County           4-2 (1-2)  Cambridge United
+         Notts County             2-1 (1-1)  Crewe Alexandra
+         Port Vale FC             1-1 (0-0)  Exeter City
 
 
 Matchday 11
 [Tue Oct/2]
-  Crewe Alexandra FC       1-0  Swindon Town FC
-  Cambridge United FC      1-3  Forest Green Rovers FC
-  Carlisle United FC       0-1  Grimsby Town FC
-  Cheltenham Town FC       2-2  Morecambe FC
-  Colchester United FC     3-1  Yeovil Town FC
-  Tranmere Rovers FC       1-0  Lincoln City FC
-  Exeter City FC           1-0  Stevenage FC
-  Mansfield Town FC        0-0  Oldham Athletic AFC
-  Newport County AFC       3-3  Macclesfield Town FC
-  Northampton Town FC      0-0  Bury FC
-  Notts County FC          3-1  Crawley Town FC
-  Port Vale FC             0-2  Milton Keynes Dons FC
+  19.45  Tranmere Rovers          1-0 (0-0)  Lincoln City
+         Cambridge United         1-3 (1-1)  Forest Green Rovers
+         Carlisle United          0-1 (0-1)  Grimsby Town
+         Cheltenham Town          2-2 (1-1)  Morecambe FC
+         Colchester United        3-1 (1-0)  Yeovil Town
+         Crewe Alexandra          1-0 (1-0)  Swindon Town
+         Exeter City              1-0 (1-0)  Stevenage FC
+         Mansfield Town           0-0  Oldham Athletic
+         Newport County           3-3 (1-2)  Macclesfield Town
+         Northampton Town         0-0  Bury FC
+         Notts County             3-1 (2-0)  Crawley Town
+         Port Vale FC             0-2 (0-2)  Milton Keynes Dons
 
 
 Matchday 12
 [Sat Oct/6]
-  Yeovil Town FC           2-2  Exeter City FC
-  Bury FC                  2-2  Mansfield Town FC
-  Crawley Town FC          2-0  Cambridge United FC
-  Forest Green Rovers FC   1-1  Newport County AFC
-  Grimsby Town FC          2-0  Port Vale FC
-  Lincoln City FC          1-0  Crewe Alexandra FC
-  Macclesfield Town FC     0-1  Notts County FC
-  Milton Keynes Dons FC    3-0  Cheltenham Town FC
-  Morecambe FC             3-4  Tranmere Rovers FC
-  Oldham Athletic AFC      1-3  Carlisle United FC
-  Stevenage FC             3-1  Colchester United FC
-  Swindon Town FC          1-1  Northampton Town FC
+  15.00  Yeovil Town              2-2 (0-1)  Exeter City
+         Bury FC                  2-2 (0-1)  Mansfield Town
+         Crawley Town             2-0 (0-0)  Cambridge United
+         Forest Green Rovers      1-1 (1-1)  Newport County
+         Grimsby Town             2-0 (1-0)  Port Vale FC
+         Lincoln City             1-0 (0-0)  Crewe Alexandra
+         Macclesfield Town        0-1 (0-0)  Notts County
+         Milton Keynes Dons       3-0 (1-0)  Cheltenham Town
+         Morecambe FC             3-4 (1-2)  Tranmere Rovers
+         Oldham Athletic          1-3 (0-1)  Carlisle United
+         Stevenage FC             3-1 (1-1)  Colchester United
+         Swindon Town             1-1 (0-0)  Northampton Town
 
 
 Matchday 13
 [Fri Oct/12]
-  Tranmere Rovers FC       1-0  Macclesfield Town FC
+  19.45  Tranmere Rovers          1-0 (0-0)  Macclesfield Town
 [Sat Oct/13]
-  Port Vale FC             2-6  Lincoln City FC
-  Northampton Town FC      2-1  Forest Green Rovers FC
-  Cambridge United FC      0-1  Milton Keynes Dons FC
-  Carlisle United FC       0-2  Morecambe FC
-  Colchester United FC     3-1  Crawley Town FC
-  Crewe Alexandra FC       1-1  Bury FC
-  Exeter City FC           2-0  Swindon Town FC
-  Newport County AFC       2-1  Stevenage FC
+  15.00  Colchester United        3-1 (1-1)  Crawley Town
+  14.00  Northampton Town         2-1 (0-1)  Forest Green Rovers
+  15.00  Cambridge United         0-1 (0-1)  Milton Keynes Dons
+         Carlisle United          0-2 (0-2)  Morecambe FC
+         Port Vale FC             2-6 (0-3)  Lincoln City
+         Crewe Alexandra          1-1 (1-0)  Bury FC
+         Exeter City              2-0 (1-0)  Swindon Town
+         Newport County           2-1 (1-1)  Stevenage FC
 
 
 Matchday 14
 [Sat Oct/20]
-  Stevenage FC             0-1  Crewe Alexandra FC
-  Yeovil Town FC           0-0  Tranmere Rovers FC
-  Swindon Town FC          0-0  Mansfield Town FC
-  Oldham Athletic AFC      0-1  Port Vale FC
-  Bury FC                  4-0  Notts County FC
-  Crawley Town FC          4-1  Newport County AFC
-  Forest Green Rovers FC   1-1  Cheltenham Town FC
-  Morecambe FC             0-1  Colchester United FC
-  Lincoln City FC          1-1  Cambridge United FC
-  Macclesfield Town FC     2-1  Carlisle United FC
-  Milton Keynes Dons FC    1-0  Northampton Town FC
-  Grimsby Town FC          0-0  Exeter City FC
+  15.00  Swindon Town             0-0  Mansfield Town
+         Stevenage FC             0-1 (0-0)  Crewe Alexandra
+         Oldham Athletic          0-1 (0-1)  Port Vale FC
+         Yeovil Town              0-0  Tranmere Rovers
+         Bury FC                  4-0 (2-0)  Notts County
+         Crawley Town             4-1 (1-0)  Newport County
+         Forest Green Rovers      1-1 (0-1)  Cheltenham Town
+         Grimsby Town             0-0  Exeter City
+         Lincoln City             1-1 (1-1)  Cambridge United
+         Macclesfield Town        2-1 (0-0)  Carlisle United
+         Milton Keynes Dons       1-0 (1-0)  Northampton Town
+         Morecambe FC             0-1 (0-1)  Colchester United
 
 
 Matchday 15
 [Tue Oct/23]
-  Swindon Town FC          0-2  Cambridge United FC
-  Morecambe FC             0-1  Mansfield Town FC
-  Yeovil Town FC           1-1  Crewe Alexandra FC
-  Stevenage FC             0-0  Port Vale FC
-  Bury FC                  1-1  Newport County AFC
-  Crawley Town FC          1-1  Exeter City FC
-  Forest Green Rovers FC   3-1  Tranmere Rovers FC
-  Grimsby Town FC          1-0  Colchester United FC
-  Lincoln City FC          2-2  Carlisle United FC
-  Macclesfield Town FC     0-5  Northampton Town FC
-  Milton Keynes Dons FC    2-1  Notts County FC
-  Oldham Athletic AFC      2-0  Cheltenham Town FC
+  19.45  Yeovil Town              1-1 (1-1)  Crewe Alexandra
+         Macclesfield Town        0-5 (0-4)  Northampton Town
+         Stevenage FC             0-0  Port Vale FC
+         Swindon Town             0-2 (0-2)  Cambridge United
+         Bury FC                  1-1 (1-0)  Newport County
+         Crawley Town             1-1 (0-0)  Exeter City
+         Forest Green Rovers      3-1 (2-0)  Tranmere Rovers
+         Grimsby Town             1-0 (0-0)  Colchester United
+         Lincoln City             2-2 (2-2)  Carlisle United
+         Oldham Athletic          2-0 (0-0)  Cheltenham Town
+         Milton Keynes Dons       2-1 (0-1)  Notts County
+         Morecambe FC             0-1 (0-1)  Mansfield Town
 
 
 Matchday 16
 [Sat Oct/27]
-  Notts County FC          1-2  Swindon Town FC
-  Tranmere Rovers FC       5-1  Crawley Town FC
-  Newport County AFC       1-1  Morecambe FC
-  Port Vale FC             1-0  Bury FC
-  Cambridge United FC      1-0  Macclesfield Town FC
-  Carlisle United FC       0-1  Yeovil Town FC
-  Cheltenham Town FC       0-2  Stevenage FC
-  Colchester United FC     1-0  Lincoln City FC
-  Crewe Alexandra FC       2-0  Grimsby Town FC
-  Exeter City FC           1-2  Forest Green Rovers FC
-  Mansfield Town FC        1-1  Milton Keynes Dons FC
-  Northampton Town FC      2-1  Oldham Athletic AFC
+  15.00  Cheltenham Town          0-2 (0-2)  Stevenage FC
+         Notts County             1-2 (1-0)  Swindon Town
+         Port Vale FC             1-0 (0-0)  Bury FC
+         Tranmere Rovers          5-1 (2-0)  Crawley Town
+         Cambridge United         1-0 (0-0)  Macclesfield Town
+         Carlisle United          0-1 (0-0)  Yeovil Town
+         Northampton Town         2-1 (2-0)  Oldham Athletic
+         Colchester United        1-0 (1-0)  Lincoln City
+         Crewe Alexandra          2-0 (0-0)  Grimsby Town
+         Exeter City              1-2 (0-0)  Forest Green Rovers
+         Mansfield Town           1-1 (1-1)  Milton Keynes Dons
+         Newport County           1-1 (1-0)  Morecambe FC
 
 
 Matchday 7
 [Tue Oct/30]
-  Crewe Alexandra FC       0-3  Mansfield Town FC
+  19.45  Crewe Alexandra          0-3 (0-2)  Mansfield Town
 
 
 Matchday 17
 [Sat Nov/3]
-  Port Vale FC             2-2  Notts County FC
-  Stevenage FC             3-2  Oldham Athletic AFC
-  Tranmere Rovers FC       2-0  Exeter City FC
-  Cambridge United FC      1-0  Grimsby Town FC
-  Carlisle United FC       3-2  Newport County AFC
-  Cheltenham Town FC       2-2  Mansfield Town FC
-  Colchester United FC     1-0  Swindon Town FC
-  Northampton Town FC      2-0  Crewe Alexandra FC
-  Lincoln City FC          2-1  Forest Green Rovers FC
-  Macclesfield Town FC     1-4  Bury FC
-  Morecambe FC             2-1  Yeovil Town FC
-  Crawley Town FC          0-4  Milton Keynes Dons FC
+  15.00  Crawley Town             0-4 (0-3)  Milton Keynes Dons
+         Stevenage FC             3-2 (1-1)  Oldham Athletic
+         Port Vale FC             2-2 (1-1)  Notts County
+         Cambridge United         1-0 (0-0)  Grimsby Town
+         Carlisle United          3-2 (2-1)  Newport County
+         Cheltenham Town          2-2 (2-1)  Mansfield Town
+         Colchester United        1-0 (1-0)  Swindon Town
+         Tranmere Rovers          2-0 (1-0)  Exeter City
+         Lincoln City             2-1 (1-1)  Forest Green Rovers
+         Macclesfield Town        1-4 (1-3)  Bury FC
+         Morecambe FC             2-1 (1-0)  Yeovil Town
+         Northampton Town         2-0 (1-0)  Crewe Alexandra
 
 
 Matchday 13
 [Tue Nov/6]
-  Mansfield Town FC        2-1  Grimsby Town FC
-  Notts County FC          0-0  Oldham Athletic AFC
+  19.45  Notts County             0-0  Oldham Athletic
+         Mansfield Town           2-1 (0-1)  Grimsby Town
 
 
 Matchday 18
 [Sat Nov/17]
-  Forest Green Rovers FC   0-1  Morecambe FC
-  Bury FC                  4-0  Stevenage FC
-  Crewe Alexandra FC       3-2  Tranmere Rovers FC
-  Exeter City FC           2-2  Northampton Town FC
-  Swindon Town FC          0-4  Carlisle United FC
-  Grimsby Town FC          1-0  Crawley Town FC
-  Mansfield Town FC        1-0  Port Vale FC
-  Milton Keynes Dons FC    2-0  Macclesfield Town FC
-  Newport County AFC       2-0  Colchester United FC
-  Notts County FC          0-3  Cheltenham Town FC
-  Oldham Athletic AFC      3-1  Cambridge United FC
+  15.00  Swindon Town             0-4 (0-1)  Carlisle United
+         Bury FC                  4-0 (0-0)  Stevenage FC
+         Crewe Alexandra          3-2 (1-1)  Tranmere Rovers
+         Exeter City              2-2 (2-1)  Northampton Town
+         Forest Green Rovers      0-1 (0-0)  Morecambe FC
+         Grimsby Town             1-0 (0-0)  Crawley Town
+         Mansfield Town           1-0 (1-0)  Port Vale FC
+         Milton Keynes Dons       2-0 (0-0)  Macclesfield Town
+         Newport County           2-0 (0-0)  Colchester United
+         Notts County             0-3 (0-1)  Cheltenham Town
+         Oldham Athletic          3-1 (0-1)  Cambridge United
 
 
 Matchday 19
 [Sat Nov/24]
-  Port Vale FC             0-1  Swindon Town FC
-  Tranmere Rovers FC       1-1  Oldham Athletic AFC
-  Lincoln City FC          1-1  Mansfield Town FC
-  Cambridge United FC      2-2  Bury FC
-  Carlisle United FC       1-2  Forest Green Rovers FC
-  Cheltenham Town FC       2-1  Newport County AFC
-  Colchester United FC     1-1  Exeter City FC
-  Crawley Town FC          3-0  Crewe Alexandra FC
-  Macclesfield Town FC     1-0  Yeovil Town FC
-  Morecambe FC             1-1  Notts County FC
-  Northampton Town FC      2-2  Grimsby Town FC
-  Stevenage FC             3-2  Milton Keynes Dons FC
+  15.00  Stevenage FC             3-2 (1-1)  Milton Keynes Dons
+         Port Vale FC             0-1 (0-1)  Swindon Town
+  13.00  Lincoln City             1-1 (0-0)  Mansfield Town
+  15.00  Cambridge United         2-2 (1-2)  Bury FC
+         Carlisle United          1-2 (0-1)  Forest Green Rovers
+         Cheltenham Town          2-1 (2-0)  Newport County
+         Colchester United        1-1 (0-0)  Exeter City
+         Crawley Town             3-0 (1-0)  Crewe Alexandra
+         Macclesfield Town        1-0 (0-0)  Yeovil Town
+         Morecambe FC             1-1 (0-0)  Notts County
+         Northampton Town         2-2 (1-1)  Grimsby Town
+         Tranmere Rovers          1-1 (0-1)  Oldham Athletic
 
 
 Matchday 20
 [Tue Nov/27]
-  Forest Green Rovers FC   0-1  Colchester United FC
-  Yeovil Town FC           0-3  Port Vale FC
-  Bury FC                  4-1  Cheltenham Town FC
-  Crewe Alexandra FC       2-0  Cambridge United FC
-  Exeter City FC           0-1  Macclesfield Town FC
-  Oldham Athletic AFC      1-1  Lincoln City FC
-  Grimsby Town FC          5-2  Tranmere Rovers FC
-  Milton Keynes Dons FC    2-0  Morecambe FC
-  Newport County AFC       3-1  Northampton Town FC
-  Notts County FC          1-1  Carlisle United FC
-  Swindon Town FC          3-2  Stevenage FC
+  19.45  Yeovil Town              0-3 (0-2)  Port Vale FC
+         Oldham Athletic          1-1 (0-0)  Lincoln City
+         Bury FC                  4-1 (2-1)  Cheltenham Town
+         Crewe Alexandra          2-0 (1-0)  Cambridge United
+         Exeter City              0-1 (0-0)  Macclesfield Town
+         Forest Green Rovers      0-1 (0-1)  Colchester United
+         Grimsby Town             5-2 (2-1)  Tranmere Rovers
+         Milton Keynes Dons       2-0 (0-0)  Morecambe FC
+         Newport County           3-1 (3-1)  Northampton Town
+         Notts County             1-1 (0-0)  Carlisle United
+         Swindon Town             3-2 (3-1)  Stevenage FC
 
 
 Matchday 21
 [Sat Dec/8]
-  Stevenage FC             0-1  Lincoln City FC
-  Yeovil Town FC           1-2  Forest Green Rovers FC
-  Tranmere Rovers FC       1-0  Cambridge United FC
-  Mansfield Town FC        2-0  Notts County FC
-  Bury FC                  2-0  Exeter City FC
-  Swindon Town FC          2-1  Newport County AFC
-  Colchester United FC     1-0  Macclesfield Town FC
-  Crawley Town FC          0-1  Northampton Town FC
-  Crewe Alexandra FC       0-2  Oldham Athletic AFC
-  Milton Keynes Dons FC    2-0  Carlisle United FC
-  Morecambe FC             2-2  Port Vale FC
-  Cheltenham Town FC       2-1  Grimsby Town FC
+  15.00  Yeovil Town              1-2 (0-0)  Forest Green Rovers
+         Crewe Alexandra          0-2 (0-2)  Oldham Athletic
+         Tranmere Rovers          1-0 (0-0)  Cambridge United
+  13.00  Mansfield Town           2-0 (1-0)  Notts County
+  15.00  Bury FC                  2-0 (1-0)  Exeter City
+         Cheltenham Town          2-1 (1-0)  Grimsby Town
+         Colchester United        1-0 (1-0)  Macclesfield Town
+         Crawley Town             0-1 (0-0)  Northampton Town
+         Swindon Town             2-1 (1-0)  Newport County
+         Milton Keynes Dons       2-0 (0-0)  Carlisle United
+         Morecambe FC             2-2 (2-0)  Port Vale FC
+         Stevenage FC             0-1 (0-1)  Lincoln City
 
 
 Matchday 22
 [Sat Dec/15]
-  Oldham Athletic AFC      4-2  Bury FC
-  Port Vale FC             2-2  Cheltenham Town FC
-  Notts County FC          3-2  Tranmere Rovers FC
-  Cambridge United FC      0-0  Yeovil Town FC
-  Carlisle United FC       4-0  Colchester United FC
-  Exeter City FC           1-0  Crewe Alexandra FC
-  Grimsby Town FC          2-1  Swindon Town FC
-  Lincoln City FC          3-1  Morecambe FC
-  Macclesfield Town FC     2-0  Crawley Town FC
-  Northampton Town FC      1-1  Stevenage FC
+  15.00  Grimsby Town             2-1 (1-1)  Swindon Town
+         Oldham Athletic          4-2 (3-0)  Bury FC
+         Notts County             3-2 (2-1)  Tranmere Rovers
+         Cambridge United         0-0  Yeovil Town
+         Carlisle United          4-0 (1-0)  Colchester United
+         Exeter City              1-0 (1-0)  Crewe Alexandra
+         Port Vale FC             2-2 (1-1)  Cheltenham Town
+         Lincoln City             3-1 (3-0)  Morecambe FC
+         Macclesfield Town        2-0 (1-0)  Crawley Town
+         Northampton Town         1-1 (1-0)  Stevenage FC
 
 
 Matchday 23
 [Sat Dec/22]
-  Stevenage FC             1-3  Mansfield Town FC
-  Yeovil Town FC           1-1  Northampton Town FC
-  Swindon Town FC          0-0  Cheltenham Town FC
-  Oldham Athletic AFC      2-3  Exeter City FC
-  Morecambe FC             3-0  Cambridge United FC
-  Bury FC                  2-1  Tranmere Rovers FC
-  Milton Keynes Dons FC    0-1  Colchester United FC
-  Forest Green Rovers FC   1-0  Crewe Alexandra FC
-  Grimsby Town FC          4-0  Notts County FC
-  Lincoln City FC          3-2  Newport County AFC
-  Macclesfield Town FC     0-0  Port Vale FC
-  Crawley Town FC          2-3  Carlisle United FC
+  15.00  Stevenage FC             1-3 (1-0)  Mansfield Town
+         Yeovil Town              1-1 (0-0)  Northampton Town
+         Swindon Town             0-0  Cheltenham Town
+         Oldham Athletic          2-3 (1-1)  Exeter City
+         Morecambe FC             3-0 (0-0)  Cambridge United
+         Bury FC                  2-1 (0-0)  Tranmere Rovers
+         Crawley Town             2-3 (2-2)  Carlisle United
+         Forest Green Rovers      1-0 (1-0)  Crewe Alexandra
+         Grimsby Town             4-0 (2-0)  Notts County
+         Lincoln City             3-2 (2-1)  Newport County
+         Macclesfield Town        0-0  Port Vale FC
+         Milton Keynes Dons       0-1 (0-1)  Colchester United
 
 
 Matchday 24
 [Wed Dec/26]
-  Colchester United FC     1-2  Stevenage FC
-  Notts County FC          1-2  Macclesfield Town FC
-  Northampton Town FC      1-1  Swindon Town FC
-  Port Vale FC             0-1  Grimsby Town FC
-  Tranmere Rovers FC       3-1  Morecambe FC
-  Cambridge United FC      2-1  Crawley Town FC
-  Exeter City FC           2-1  Yeovil Town FC
-  Carlisle United FC       6-0  Oldham Athletic AFC
-  Cheltenham Town FC       3-1  Milton Keynes Dons FC
-  Crewe Alexandra FC       2-1  Lincoln City FC
-  Mansfield Town FC        2-1  Bury FC
-  Newport County AFC       1-4  Forest Green Rovers FC
+  15.00  Notts County             1-2 (0-1)  Macclesfield Town
+         Port Vale FC             0-1 (0-0)  Grimsby Town
+         Tranmere Rovers          3-1 (3-0)  Morecambe FC
+  15.15  Colchester United        1-2 (0-2)  Stevenage FC
+  15.00  Northampton Town         1-1 (1-0)  Swindon Town
+  13.00  Cambridge United         2-1 (1-1)  Crawley Town
+         Exeter City              2-1 (1-0)  Yeovil Town
+  15.00  Carlisle United          6-0 (2-0)  Oldham Athletic
+         Cheltenham Town          3-1 (2-1)  Milton Keynes Dons
+         Crewe Alexandra          2-1 (0-0)  Lincoln City
+         Mansfield Town           2-1 (0-0)  Bury FC
+         Newport County           1-4 (1-2)  Forest Green Rovers
 
 
 Matchday 25
 [Sat Dec/29]
-  Port Vale FC             1-4  Oldham Athletic AFC
-  Tranmere Rovers FC       0-0  Yeovil Town FC
-  Notts County FC          0-0  Bury FC
-  Northampton Town FC      2-2  Milton Keynes Dons FC
-  Mansfield Town FC        0-0  Swindon Town FC
-  Cambridge United FC      1-2  Lincoln City FC
-  Carlisle United FC       2-1  Macclesfield Town FC
-  Cheltenham Town FC       2-2  Forest Green Rovers FC
-  Colchester United FC     0-0  Morecambe FC
-  Crewe Alexandra FC       1-0  Stevenage FC
-  Exeter City FC           1-2  Grimsby Town FC
-  Newport County AFC       0-0  Crawley Town FC
+  15.00  Colchester United        0-0  Morecambe FC
+         Port Vale FC             1-4 (1-1)  Oldham Athletic
+         Notts County             0-0  Bury FC
+         Northampton Town         2-2 (0-1)  Milton Keynes Dons
+         Newport County           0-0  Crawley Town
+         Cambridge United         1-2 (1-0)  Lincoln City
+         Carlisle United          2-1 (1-1)  Macclesfield Town
+         Cheltenham Town          2-2 (0-0)  Forest Green Rovers
+         Tranmere Rovers          0-0  Yeovil Town
+         Crewe Alexandra          1-0 (1-0)  Stevenage FC
+         Exeter City              1-2 (0-1)  Grimsby Town
+         Mansfield Town           0-0  Swindon Town
 
 
 Matchday 26
 [Tue Jan/1]
-  Oldham Athletic AFC      2-0  Notts County FC
-  Stevenage FC             1-0  Newport County AFC
-  Swindon Town FC          0-2  Exeter City FC
-  Morecambe FC             0-2  Carlisle United FC
-  Yeovil Town FC           1-4  Cheltenham Town FC
-  Grimsby Town FC          0-1  Mansfield Town FC
-  Bury FC                  3-1  Crewe Alexandra FC
-  Crawley Town FC          2-0  Colchester United FC
-  Forest Green Rovers FC   2-1  Northampton Town FC
-  Milton Keynes Dons FC    6-0  Cambridge United FC
-  Macclesfield Town FC     1-1  Tranmere Rovers FC
-  Lincoln City FC          1-1  Port Vale FC
+  15.00  Oldham Athletic          2-0 (1-0)  Notts County
+         Swindon Town             0-2 (0-1)  Exeter City
+         Yeovil Town              1-4 (0-2)  Cheltenham Town
+         Stevenage FC             1-0 (0-0)  Newport County
+         Morecambe FC             0-2 (0-1)  Carlisle United
+  13.00  Grimsby Town             0-1 (0-1)  Mansfield Town
+  15.00  Bury FC                  3-1 (0-1)  Crewe Alexandra
+         Crawley Town             2-0 (0-0)  Colchester United
+         Forest Green Rovers      2-1 (1-0)  Northampton Town
+         Lincoln City             1-1 (0-0)  Port Vale FC
+         Macclesfield Town        1-1 (1-1)  Tranmere Rovers
+         Milton Keynes Dons       6-0 (3-0)  Cambridge United
 
 
 Matchday 27
 [Sat Jan/5]
-  Cambridge United FC      2-0  Stevenage FC
-  Crawley Town FC          1-0  Cheltenham Town FC
-  Macclesfield Town FC     1-2  Swindon Town FC
-  Morecambe FC             2-2  Crewe Alexandra FC
-  Yeovil Town FC           0-1  Bury FC
-  Colchester United FC     3-3  Notts County FC
-  Carlisle United FC       3-2  Mansfield Town FC
+  15.00  Carlisle United          3-2 (2-0)  Mansfield Town
+         Morecambe FC             2-2 (0-1)  Crewe Alexandra
+         Macclesfield Town        1-2 (1-1)  Swindon Town
+         Crawley Town             1-0 (1-0)  Cheltenham Town
+         Colchester United        3-3 (2-3)  Notts County
+         Cambridge United         2-0 (2-0)  Stevenage FC
+         Yeovil Town              0-1 (0-1)  Bury FC
 
 
 Matchday 28
 [Sat Jan/12]
-  Notts County FC          0-1  Cambridge United FC
-  Grimsby Town FC          0-2  Macclesfield Town FC
-  Mansfield Town FC        0-1  Yeovil Town FC
-  Crewe Alexandra FC       3-2  Newport County AFC
-  Stevenage FC             2-1  Crawley Town FC
-  Port Vale FC             0-3  Colchester United FC
-  Oldham Athletic AFC      0-0  Forest Green Rovers FC
-  Cheltenham Town FC       1-3  Tranmere Rovers FC
-  Northampton Town FC      3-0  Carlisle United FC
-  Exeter City FC           0-0  Morecambe FC
-  Bury FC                  4-3  Milton Keynes Dons FC
-  Swindon Town FC          2-2  Lincoln City FC
+  15.00  Port Vale FC             0-3 (0-2)  Colchester United
+         Notts County             0-1 (0-1)  Cambridge United
+         Oldham Athletic          0-0  Forest Green Rovers
+         Northampton Town         3-0 (0-0)  Carlisle United
+         Stevenage FC             2-1 (2-1)  Crawley Town
+         Mansfield Town           0-1 (0-1)  Yeovil Town
+         Grimsby Town             0-2 (0-2)  Macclesfield Town
+         Exeter City              0-0  Morecambe FC
+         Crewe Alexandra          3-2 (1-0)  Newport County
+         Cheltenham Town          1-3 (1-0)  Tranmere Rovers
+         Bury FC                  4-3 (1-2)  Milton Keynes Dons
+         Swindon Town             2-2 (0-2)  Lincoln City
 
 
 Matchday 20
 [Tue Jan/15]
-  Mansfield Town FC        1-0  Crawley Town FC
+  19.45  Mansfield Town           1-0 (0-0)  Crawley Town
 
 
 Matchday 29
 [Sat Jan/19]
-  Tranmere Rovers FC       1-2  Swindon Town FC
-  Macclesfield Town FC     2-1  Oldham Athletic AFC
-  Forest Green Rovers FC   1-2  Bury FC
-  Milton Keynes Dons FC    0-1  Crewe Alexandra FC
-  Morecambe FC             1-2  Stevenage FC
-  Newport County AFC       1-0  Exeter City FC
-  Crawley Town FC          0-1  Port Vale FC
-  Carlisle United FC       2-0  Cheltenham Town FC
-  Colchester United FC     2-3  Mansfield Town FC
-  Lincoln City FC          1-0  Grimsby Town FC
-  Cambridge United FC      3-2  Northampton Town FC
-  Yeovil Town FC           2-0  Notts County FC
+  15.00  Macclesfield Town        2-1 (1-1)  Oldham Athletic
+         Crawley Town             0-1 (0-1)  Port Vale FC
+         Morecambe FC             1-2 (0-1)  Stevenage FC
+         Newport County           1-0 (0-0)  Exeter City
+         Tranmere Rovers          1-2 (0-2)  Swindon Town
+         Milton Keynes Dons       0-1 (0-1)  Crewe Alexandra
+         Forest Green Rovers      1-2 (1-0)  Bury FC
+         Yeovil Town              2-0 (1-0)  Notts County
+         Colchester United        2-3 (2-0)  Mansfield Town
+  13.00  Lincoln City             1-0 (1-0)  Grimsby Town
+  15.00  Cambridge United         3-2 (1-1)  Northampton Town
+         Carlisle United          2-0 (0-0)  Cheltenham Town
+
+
+Matchday 27
+[Tue Jan/22]
+  19.45  Forest Green Rovers      3-0 (2-0)  Grimsby Town
 
 
 Matchday 18
 [Tue Jan/22]
-  Yeovil Town FC           0-2  Lincoln City FC
-
-
-Matchday 27
-[Tue Jan/22]
-  Forest Green Rovers FC   3-0  Grimsby Town FC
+  19.45  Yeovil Town              0-2 (0-2)  Lincoln City
 
 
 Matchday 30
 [Sat Jan/26]
-  Swindon Town FC          0-1  Crawley Town FC
-  Grimsby Town FC          1-0  Milton Keynes Dons FC
-  Bury FC                  3-3  Lincoln City FC
-  Crewe Alexandra FC       2-1  Colchester United FC
-  Stevenage FC             0-2  Forest Green Rovers FC
-  Port Vale FC             0-1  Carlisle United FC
-  Mansfield Town FC        3-0  Tranmere Rovers FC
-  Northampton Town FC      1-1  Morecambe FC
-  Cheltenham Town FC       3-2  Macclesfield Town FC
-  Exeter City FC           1-0  Cambridge United FC
-
-
-Matchday 22
-[Tue Jan/29]
-  Forest Green Rovers FC   1-1  Mansfield Town FC
+  15.00  Port Vale FC             0-1 (0-0)  Carlisle United
+         Stevenage FC             0-2 (0-1)  Forest Green Rovers
+         Grimsby Town             1-0 (1-0)  Milton Keynes Dons
+         Exeter City              1-0 (0-0)  Cambridge United
+         Swindon Town             0-1 (0-1)  Crawley Town
+         Mansfield Town           3-0 (1-0)  Tranmere Rovers
+         Crewe Alexandra          2-1 (0-1)  Colchester United
+  14.00  Northampton Town         1-1 (1-0)  Morecambe FC
+  15.00  Cheltenham Town          3-2 (0-2)  Macclesfield Town
+  17.30  Bury FC                  3-3 (2-2)  Lincoln City
 
 
 Matchday 27
 [Tue Jan/29]
-  Newport County AFC       0-0  Port Vale FC
-  Milton Keynes Dons FC    2-1  Oldham Athletic AFC
+  19.45  Newport County           0-0  Port Vale FC
+         Milton Keynes Dons       2-1 (1-0)  Oldham Athletic
+
+
+Matchday 22
+[Tue Jan/29]
+  19.45  Forest Green Rovers      1-1 (0-1)  Mansfield Town
 
 
 Matchday 31
 [Sat Feb/2]
-  Exeter City FC           3-1  Milton Keynes Dons FC
-  Notts County FC          1-1  Lincoln City FC
-  Grimsby Town FC          3-0  Newport County AFC
-  Stevenage FC             1-0  Yeovil Town FC
-  Northampton Town FC      0-4  Colchester United FC
-  Mansfield Town FC        3-1  Macclesfield Town FC
-  Bury FC                  1-1  Crawley Town FC
+  15.00  Stevenage FC             1-0 (0-0)  Yeovil Town
+         Notts County             1-1 (1-1)  Lincoln City
+         Northampton Town         0-4 (0-1)  Colchester United
+         Mansfield Town           3-1 (1-1)  Macclesfield Town
+         Grimsby Town             3-0 (1-0)  Newport County
+         Exeter City              3-1 (2-0)  Milton Keynes Dons
+         Bury FC                  1-1 (0-0)  Crawley Town
 
 
 Matchday 13
 [Tue Feb/5]
-  Cheltenham Town FC       1-0  Yeovil Town FC
+  19.45  Cheltenham Town          1-0 (0-0)  Yeovil Town
 
 
 Matchday 27
 [Tue Feb/5]
-  Tranmere Rovers FC       1-2  Northampton Town FC
+  19.45  Tranmere Rovers          1-2 (1-2)  Northampton Town
 
 
 Matchday 32
 [Sat Feb/9]
-  Newport County AFC       1-0  Mansfield Town FC
-  Morecambe FC             2-3  Bury FC
-  Tranmere Rovers FC       2-0  Stevenage FC
-  Yeovil Town FC           1-3  Grimsby Town FC
-  Milton Keynes Dons FC    2-3  Swindon Town FC
-  Macclesfield Town FC     3-3  Crewe Alexandra FC
-  Lincoln City FC          1-1  Northampton Town FC
-  Colchester United FC     3-0  Cheltenham Town FC
-  Crawley Town FC          0-3  Oldham Athletic AFC
-  Cambridge United FC      1-0  Port Vale FC
-  Carlisle United FC       1-1  Exeter City FC
-  Forest Green Rovers FC   1-2  Notts County FC
+  15.00  Lincoln City             1-1 (1-1)  Northampton Town
+         Forest Green Rovers      1-2 (0-0)  Notts County
+         Yeovil Town              1-3 (0-2)  Grimsby Town
+         Tranmere Rovers          2-0 (1-0)  Stevenage FC
+         Crawley Town             0-3 (0-0)  Oldham Athletic
+         Colchester United        3-0 (2-0)  Cheltenham Town
+         Newport County           1-0 (1-0)  Mansfield Town
+         Morecambe FC             2-3 (0-2)  Bury FC
+         Milton Keynes Dons       2-3 (0-1)  Swindon Town
+         Cambridge United         1-0 (1-0)  Port Vale FC
+         Carlisle United          1-1 (0-1)  Exeter City
+         Macclesfield Town        3-3 (1-2)  Crewe Alexandra
+
+
+Matchday 30
+[Tue Feb/12]
+  19.45  Oldham Athletic          4-1 (1-0)  Yeovil Town
 
 
 Matchday 22
 [Tue Feb/12]
-  Newport County AFC       0-1  Milton Keynes Dons FC
-
-
-Matchday 30
-[Tue Feb/12]
-  Oldham Athletic AFC      4-1  Yeovil Town FC
+  19.45  Newport County           0-1 (0-0)  Milton Keynes Dons
 
 
 Matchday 31
 [Tue Feb/12]
-  Swindon Town FC          2-0  Forest Green Rovers FC
-  Crewe Alexandra FC       2-1  Carlisle United FC
+  19.45  Crewe Alexandra          2-1 (1-1)  Carlisle United
+         Swindon Town             2-0 (2-0)  Forest Green Rovers
 
 
 Matchday 33
 [Sat Feb/16]
-  Northampton Town FC      0-0  Crawley Town FC
-  Oldham Athletic AFC      1-1  Crewe Alexandra FC
-  Port Vale FC             0-1  Morecambe FC
-  Macclesfield Town FC     1-1  Colchester United FC
-  Lincoln City FC          2-2  Stevenage FC
-  Grimsby Town FC          1-0  Cheltenham Town FC
-  Cambridge United FC      0-0  Tranmere Rovers FC
-  Carlisle United FC       2-3  Milton Keynes Dons FC
-  Exeter City FC           0-1  Bury FC
-  Forest Green Rovers FC   3-0  Yeovil Town FC
-  Notts County FC          1-0  Mansfield Town FC
-
-
-Matchday 30
-[Tue Feb/19]
-  Notts County FC          1-4  Newport County AFC
+  15.00  Oldham Athletic          1-1 (1-0)  Crewe Alexandra
+         Macclesfield Town        1-1 (1-0)  Colchester United
+         Lincoln City             2-2 (0-0)  Stevenage FC
+         Grimsby Town             1-0 (1-0)  Cheltenham Town
+         Port Vale FC             0-1 (0-0)  Morecambe FC
+  13.00  Notts County             1-0 (1-0)  Mansfield Town
+  15.00  Cambridge United         0-0  Tranmere Rovers
+         Carlisle United          2-3 (1-1)  Milton Keynes Dons
+         Exeter City              0-1 (0-0)  Bury FC
+         Forest Green Rovers      3-0 (2-0)  Yeovil Town
+         Northampton Town         0-0  Crawley Town
 
 
 Matchday 31
 [Tue Feb/19]
-  Cheltenham Town FC       2-0  Cambridge United FC
-  Port Vale FC             1-2  Tranmere Rovers FC
-  Oldham Athletic AFC      1-2  Morecambe FC
+  19.45  Oldham Athletic          1-2 (0-1)  Morecambe FC
+         Cheltenham Town          2-0 (1-0)  Cambridge United
+
+
+Matchday 30
+[Tue Feb/19]
+  19.45  Notts County             1-4 (1-3)  Newport County
+
+
+Matchday 31
+[Tue Feb/19]
+  19.45  Port Vale FC             1-2 (0-1)  Tranmere Rovers
 
 
 Matchday 34
 [Sat Feb/23]
-  Swindon Town FC          1-1  Grimsby Town FC
-  Tranmere Rovers FC       1-0  Notts County FC
-  Bury FC                  3-1  Oldham Athletic AFC
-  Colchester United FC     1-1  Carlisle United FC
-  Yeovil Town FC           1-0  Cambridge United FC
-  Crawley Town FC          1-1  Macclesfield Town FC
-  Crewe Alexandra FC       1-2  Exeter City FC
-  Mansfield Town FC        1-0  Forest Green Rovers FC
-  Milton Keynes Dons FC    2-0  Newport County AFC
-  Morecambe FC             0-2  Lincoln City FC
-  Cheltenham Town FC       1-0  Port Vale FC
-  Stevenage FC             1-2  Northampton Town FC
+  15.00  Mansfield Town           1-0 (0-0)  Forest Green Rovers
+         Tranmere Rovers          1-0 (0-0)  Notts County
+         Bury FC                  3-1 (0-1)  Oldham Athletic
+         Cheltenham Town          1-0 (1-0)  Port Vale FC
+         Colchester United        1-1 (0-0)  Carlisle United
+         Crawley Town             1-1 (0-1)  Macclesfield Town
+         Crewe Alexandra          1-2 (0-1)  Exeter City
+         Yeovil Town              1-0 (1-0)  Cambridge United
+         Milton Keynes Dons       2-0 (0-0)  Newport County
+         Morecambe FC             0-2 (0-1)  Lincoln City
+         Stevenage FC             1-2 (0-1)  Northampton Town
+         Swindon Town             1-1 (0-0)  Grimsby Town
 
 
 Matchday 27
 [Tue Feb/26]
-  Lincoln City FC          1-1  Exeter City FC
+  19.45  Lincoln City             1-1 (0-1)  Exeter City
 
 
 Matchday 35
 [Sat Mar/2]
-  Yeovil Town FC           3-2  Morecambe FC
-  Bury FC                  3-0  Macclesfield Town FC
-  Crewe Alexandra FC       0-2  Northampton Town FC
-  Exeter City FC           0-1  Tranmere Rovers FC
-  Forest Green Rovers FC   1-2  Lincoln City FC
-  Grimsby Town FC          0-2  Cambridge United FC
-  Mansfield Town FC        4-2  Cheltenham Town FC
-  Milton Keynes Dons FC    1-0  Crawley Town FC
-  Newport County AFC       2-0  Carlisle United FC
-  Notts County FC          0-0  Port Vale FC
-  Oldham Athletic AFC      1-1  Stevenage FC
-  Swindon Town FC          3-0  Colchester United FC
+  15.00  Yeovil Town              3-2 (0-1)  Morecambe FC
+         Bury FC                  3-0 (1-0)  Macclesfield Town
+         Crewe Alexandra          0-2 (0-2)  Northampton Town
+         Exeter City              0-1 (0-1)  Tranmere Rovers
+         Forest Green Rovers      1-2 (1-1)  Lincoln City
+         Grimsby Town             0-2 (0-1)  Cambridge United
+         Mansfield Town           4-2 (2-0)  Cheltenham Town
+         Milton Keynes Dons       1-0 (1-0)  Crawley Town
+         Newport County           2-0 (1-0)  Carlisle United
+         Notts County             0-0  Port Vale FC
+         Oldham Athletic          1-1 (0-0)  Stevenage FC
+         Swindon Town             3-0 (2-0)  Colchester United
 
 
 Matchday 37
 [Tue Mar/5]
-  Cheltenham Town FC       1-1  Bury FC
+  19.45  Cheltenham Town          1-1 (1-1)  Bury FC
 
 
 Matchday 36
 [Fri Mar/8]
-  Lincoln City FC          1-0  Yeovil Town FC
-  Tranmere Rovers FC       1-0  Crewe Alexandra FC
+  19.45  Tranmere Rovers          1-0 (0-0)  Crewe Alexandra
+         Lincoln City             1-0 (0-0)  Yeovil Town
 [Sat Mar/9]
-  Northampton Town FC      2-1  Exeter City FC
-  Cambridge United FC      1-1  Oldham Athletic AFC
-  Carlisle United FC       2-1  Swindon Town FC
-  Cheltenham Town FC       4-1  Notts County FC
-  Colchester United FC     3-0  Newport County AFC
-  Crawley Town FC          2-1  Grimsby Town FC
-  Macclesfield Town FC     1-3  Milton Keynes Dons FC
-  Morecambe FC             3-0  Forest Green Rovers FC
-  Stevenage FC             0-1  Bury FC
-  Port Vale FC             2-1  Mansfield Town FC
+  14.00  Northampton Town         2-1 (1-0)  Exeter City
+  15.00  Cambridge United         1-1 (0-1)  Oldham Athletic
+         Carlisle United          2-1 (1-1)  Swindon Town
+         Cheltenham Town          4-1 (2-0)  Notts County
+         Colchester United        3-0 (2-0)  Newport County
+         Crawley Town             2-1 (2-1)  Grimsby Town
+         Macclesfield Town        1-3 (1-1)  Milton Keynes Dons
+         Morecambe FC             3-0 (2-0)  Forest Green Rovers
+         Port Vale FC             2-1 (0-0)  Mansfield Town
+         Stevenage FC             0-1 (0-0)  Bury FC
 
 
 Matchday 37
 [Tue Mar/12]
-  Stevenage FC             2-0  Swindon Town FC
-  Cambridge United FC      0-0  Crewe Alexandra FC
-  Carlisle United FC       1-3  Notts County FC
-  Colchester United FC     0-3  Forest Green Rovers FC
-  Crawley Town FC          0-0  Mansfield Town FC
-  Lincoln City FC          2-0  Oldham Athletic AFC
-  Tranmere Rovers FC       4-1  Grimsby Town FC
-  Northampton Town FC      1-0  Newport County AFC
-  Morecambe FC             4-2  Milton Keynes Dons FC
-  Port Vale FC             3-0  Yeovil Town FC
+  19.45  Crawley Town             0-0  Mansfield Town
+         Cambridge United         0-0  Crewe Alexandra
+         Carlisle United          1-3 (0-1)  Notts County
+         Colchester United        0-3 (0-2)  Forest Green Rovers
+         Tranmere Rovers          4-1 (4-1)  Grimsby Town
+         Lincoln City             2-0 (1-0)  Oldham Athletic
+         Morecambe FC             4-2 (2-0)  Milton Keynes Dons
+         Northampton Town         1-0 (0-0)  Newport County
+         Port Vale FC             3-0 (1-0)  Yeovil Town
+         Stevenage FC             2-0 (1-0)  Swindon Town
 
 
 Matchday 38
 [Fri Mar/15]
-  Newport County AFC       1-0  Cheltenham Town FC
+  19.45  Newport County           1-0 (0-0)  Cheltenham Town
 [Sat Mar/16]
-  Grimsby Town FC          0-0  Northampton Town FC
-  Swindon Town FC          0-0  Port Vale FC
-  Crewe Alexandra FC       6-1  Crawley Town FC
-  Exeter City FC           3-0  Colchester United FC
-  Yeovil Town FC           0-2  Macclesfield Town FC
-  Notts County FC          0-0  Morecambe FC
-  Milton Keynes Dons FC    1-1  Stevenage FC
-  Forest Green Rovers FC   1-1  Carlisle United FC
+  15.00  Yeovil Town              0-2 (0-2)  Macclesfield Town
+         Milton Keynes Dons       1-1 (0-1)  Stevenage FC
+         Crewe Alexandra          6-1 (4-1)  Crawley Town
+         Exeter City              3-0 (1-0)  Colchester United
+         Forest Green Rovers      1-1 (1-0)  Carlisle United
+         Grimsby Town             0-0  Northampton Town
+         Swindon Town             0-0  Port Vale FC
+         Notts County             0-0  Morecambe FC
 [Mon Mar/18]
-  Mansfield Town FC        1-1  Lincoln City FC
+  19.45  Mansfield Town           1-1 (1-0)  Lincoln City
 
 
 Matchday 39
 [Sat Mar/23]
-  Swindon Town FC          4-0  Morecambe FC
-  Mansfield Town FC        1-2  Crewe Alexandra FC
-  Notts County FC          0-1  Exeter City FC
-  Milton Keynes Dons FC    2-0  Yeovil Town FC
-  Carlisle United FC       2-2  Cambridge United FC
-  Cheltenham Town FC       3-1  Northampton Town FC
-  Colchester United FC     0-2  Tranmere Rovers FC
-  Crawley Town FC          0-3  Lincoln City FC
-  Grimsby Town FC          0-0  Bury FC
-  Macclesfield Town FC     2-2  Stevenage FC
-  Port Vale FC             0-2  Forest Green Rovers FC
+  15.00  Swindon Town             4-0 (2-0)  Morecambe FC
+         Port Vale FC             0-2 (0-0)  Forest Green Rovers
+         Notts County             0-1 (0-0)  Exeter City
+         Milton Keynes Dons       2-0 (1-0)  Yeovil Town
+         Carlisle United          2-2 (2-1)  Cambridge United
+         Cheltenham Town          3-1 (2-0)  Northampton Town
+         Colchester United        0-2 (0-1)  Tranmere Rovers
+         Crawley Town             0-3 (0-1)  Lincoln City
+         Grimsby Town             0-0  Bury FC
+         Macclesfield Town        2-2 (1-1)  Stevenage FC
+         Mansfield Town           1-2 (0-0)  Crewe Alexandra
 
 
 Matchday 40
 [Sat Mar/30]
-  Exeter City FC           1-4  Mansfield Town FC
-  Oldham Athletic AFC      2-0  Grimsby Town FC
-  Northampton Town FC      1-2  Port Vale FC
-  Yeovil Town FC           1-3  Newport County AFC
-  Tranmere Rovers FC       3-0  Carlisle United FC
-  Bury FC                  1-3  Swindon Town FC
-  Crewe Alexandra FC       1-3  Cheltenham Town FC
-  Morecambe FC             1-0  Crawley Town FC
-  Stevenage FC             0-3  Notts County FC
-  Forest Green Rovers FC   1-2  Milton Keynes Dons FC
-  Lincoln City FC          1-1  Macclesfield Town FC
-  Cambridge United FC      0-1  Colchester United FC
+  15.00  Stevenage FC             0-3 (0-3)  Notts County
+         Yeovil Town              1-3 (0-0)  Newport County
+         Tranmere Rovers          3-0 (1-0)  Carlisle United
+         Oldham Athletic          2-0 (1-0)  Grimsby Town
+         Northampton Town         1-2 (1-1)  Port Vale FC
+         Bury FC                  1-3 (1-1)  Swindon Town
+         Cambridge United         0-1 (0-0)  Colchester United
+         Crewe Alexandra          1-3 (1-1)  Cheltenham Town
+         Exeter City              1-4 (1-2)  Mansfield Town
+         Forest Green Rovers      1-2 (0-1)  Milton Keynes Dons
+         Lincoln City             1-1 (1-1)  Macclesfield Town
+         Morecambe FC             1-0 (0-0)  Crawley Town
 
 
 Matchday 38
 [Tue Apr/2]
-  Bury FC                  0-3  Cambridge United FC
-  Oldham Athletic AFC      2-0  Tranmere Rovers FC
+  19.45  Bury FC                  0-3 (0-2)  Cambridge United
+         Oldham Athletic          2-0 (1-0)  Tranmere Rovers
 
 
 Matchday 41
 [Sat Apr/6]
-  Macclesfield Town FC     1-1  Morecambe FC
-  Port Vale FC             1-0  Crewe Alexandra FC
-  Swindon Town FC          1-1  Yeovil Town FC
-  Carlisle United FC       3-2  Bury FC
-  Cheltenham Town FC       1-1  Exeter City FC
-  Colchester United FC     0-2  Oldham Athletic AFC
-  Crawley Town FC          1-2  Forest Green Rovers FC
-  Grimsby Town FC          0-2  Stevenage FC
-  Newport County AFC       0-0  Tranmere Rovers FC
-  Mansfield Town FC        1-0  Cambridge United FC
-  Milton Keynes Dons FC    0-2  Lincoln City FC
-  Notts County FC          2-2  Northampton Town FC
-
-
-Matchday 33
-[Tue Apr/9]
-  Newport County AFC       0-0  Swindon Town FC
+  15.00  Notts County             2-2 (1-1)  Northampton Town
+         Macclesfield Town        1-1 (1-1)  Morecambe FC
+         Swindon Town             1-1 (1-0)  Yeovil Town
+         Carlisle United          3-2 (1-2)  Bury FC
+         Cheltenham Town          1-1 (0-1)  Exeter City
+         Colchester United        0-2 (0-2)  Oldham Athletic
+         Crawley Town             1-2 (1-1)  Forest Green Rovers
+         Grimsby Town             0-2 (0-1)  Stevenage FC
+         Newport County           0-0  Tranmere Rovers
+         Mansfield Town           1-0 (0-0)  Cambridge United
+         Milton Keynes Dons       0-2 (0-1)  Lincoln City
+         Port Vale FC             1-0 (0-0)  Crewe Alexandra
 
 
 Matchday 37
 [Tue Apr/9]
-  Macclesfield Town FC     3-2  Exeter City FC
+  19.45  Macclesfield Town        3-2 (2-2)  Exeter City
+
+
+Matchday 33
+[Tue Apr/9]
+  19.45  Newport County           0-0  Swindon Town
 
 
 Matchday 42
 [Sat Apr/13]
-  Exeter City FC           2-0  Port Vale FC
-  Bury FC                  2-0  Colchester United FC
-  Cambridge United FC      0-3  Newport County AFC
-  Crewe Alexandra FC       3-0  Notts County FC
-  Forest Green Rovers FC   2-0  Macclesfield Town FC
-  Tranmere Rovers FC       2-1  Milton Keynes Dons FC
-  Lincoln City FC          1-1  Cheltenham Town FC
-  Morecambe FC             1-1  Grimsby Town FC
-  Northampton Town FC      1-1  Mansfield Town FC
-  Oldham Athletic AFC      2-2  Swindon Town FC
-  Yeovil Town FC           0-1  Crawley Town FC
-  Stevenage FC             3-0  Carlisle United FC
+  15.00  Yeovil Town              0-1 (0-0)  Crawley Town
+         Bury FC                  2-0 (0-0)  Colchester United
+         Cambridge United         0-3 (0-2)  Newport County
+         Crewe Alexandra          3-0 (1-0)  Notts County
+         Exeter City              2-0 (1-0)  Port Vale FC
+         Forest Green Rovers      2-0 (0-0)  Macclesfield Town
+         Lincoln City             1-1 (1-0)  Cheltenham Town
+         Morecambe FC             1-1 (0-0)  Grimsby Town
+         Northampton Town         1-1 (0-1)  Mansfield Town
+         Oldham Athletic          2-2 (1-1)  Swindon Town
+         Stevenage FC             3-0 (1-0)  Carlisle United
+         Tranmere Rovers          2-1 (1-1)  Milton Keynes Dons
 
 
 Matchday 43
 [Fri Apr/19]
-  Port Vale FC             1-4  Stevenage FC
-  Exeter City FC           1-3  Crawley Town FC
-  Cambridge United FC      0-0  Swindon Town FC
-  Carlisle United FC       1-0  Lincoln City FC
-  Tranmere Rovers FC       0-1  Forest Green Rovers FC
-  Colchester United FC     1-0  Grimsby Town FC
-  Crewe Alexandra FC       2-0  Yeovil Town FC
-  Mansfield Town FC        4-0  Morecambe FC
-  Newport County AFC       3-1  Bury FC
-  Northampton Town FC      3-1  Macclesfield Town FC
-  Notts County FC          1-2  Milton Keynes Dons FC
-  Cheltenham Town FC       0-0  Oldham Athletic AFC
+  15.00  Tranmere Rovers          0-1 (0-0)  Forest Green Rovers
+  13.00  Exeter City              1-3 (0-2)  Crawley Town
+  15.00  Cambridge United         0-0  Swindon Town
+         Carlisle United          1-0 (0-0)  Lincoln City
+         Cheltenham Town          0-0  Oldham Athletic
+         Colchester United        1-0 (1-0)  Grimsby Town
+         Crewe Alexandra          2-0 (1-0)  Yeovil Town
+         Mansfield Town           4-0 (1-0)  Morecambe FC
+         Newport County           3-1 (2-1)  Bury FC
+         Northampton Town         3-1 (1-1)  Macclesfield Town
+         Notts County             1-2 (0-0)  Milton Keynes Dons
+         Port Vale FC             1-4 (0-1)  Stevenage FC
 
 
 Matchday 44
 [Mon Apr/22]
-  Macclesfield Town FC     0-0  Newport County AFC
-  Bury FC                  3-1  Northampton Town FC
-  Crawley Town FC          1-1  Notts County FC
-  Forest Green Rovers FC   2-1  Cambridge United FC
-  Grimsby Town FC          1-0  Carlisle United FC
-  Yeovil Town FC           1-1  Colchester United FC
-  Swindon Town FC          1-2  Crewe Alexandra FC
-  Milton Keynes Dons FC    1-1  Port Vale FC
-  Morecambe FC             4-0  Cheltenham Town FC
-  Oldham Athletic AFC      3-2  Mansfield Town FC
-  Stevenage FC             1-1  Exeter City FC
-  Lincoln City FC          0-0  Tranmere Rovers FC
+  15.00  Macclesfield Town        0-0  Newport County
+         Bury FC                  3-1 (1-1)  Northampton Town
+         Crawley Town             1-1 (1-1)  Notts County
+         Forest Green Rovers      2-1 (1-0)  Cambridge United
+         Grimsby Town             1-0 (0-0)  Carlisle United
+         Lincoln City             0-0  Tranmere Rovers
+         Yeovil Town              1-1 (0-0)  Colchester United
+         Milton Keynes Dons       1-1 (0-0)  Port Vale FC
+         Morecambe FC             4-0 (0-0)  Cheltenham Town
+         Oldham Athletic          3-2 (1-0)  Mansfield Town
+         Stevenage FC             1-1 (1-1)  Exeter City
+         Swindon Town             1-2 (0-2)  Crewe Alexandra
 
 
 Matchday 45
 [Sat Apr/27]
-  Port Vale FC             0-1  Macclesfield Town FC
-  Cambridge United FC      1-2  Morecambe FC
-  Carlisle United FC       4-2  Crawley Town FC
-  Cheltenham Town FC       3-2  Swindon Town FC
-  Colchester United FC     2-0  Milton Keynes Dons FC
-  Crewe Alexandra FC       4-3  Forest Green Rovers FC
-  Notts County FC          2-1  Grimsby Town FC
-  Mansfield Town FC        1-2  Stevenage FC
-  Newport County AFC       1-0  Lincoln City FC
-  Northampton Town FC      2-2  Yeovil Town FC
-  Exeter City FC           1-0  Oldham Athletic AFC
+  15.00  Exeter City              1-0 (0-0)  Oldham Athletic
+         Cambridge United         1-2 (0-1)  Morecambe FC
+         Carlisle United          4-2 (4-1)  Crawley Town
+         Cheltenham Town          3-2 (3-0)  Swindon Town
+         Colchester United        2-0 (1-0)  Milton Keynes Dons
+         Crewe Alexandra          4-3 (1-1)  Forest Green Rovers
+         Port Vale FC             0-1 (0-0)  Macclesfield Town
+         Mansfield Town           1-2 (0-0)  Stevenage FC
+         Newport County           1-0 (1-0)  Lincoln City
+         Northampton Town         2-2 (0-2)  Yeovil Town
+         Notts County             2-1 (0-0)  Grimsby Town
 
 
 Matchday 39
 [Tue Apr/30]
-  Newport County AFC       2-0  Oldham Athletic AFC
+  19.45  Newport County           2-0 (0-0)  Oldham Athletic
 
 
 Matchday 45
 [Tue Apr/30]
-  Tranmere Rovers FC       1-1  Bury FC
+  19.45  Tranmere Rovers          1-1 (1-0)  Bury FC
 
 
 Matchday 46
 [Sat May/4]
-  Macclesfield Town FC     1-1  Cambridge United FC
-  Crawley Town FC          3-1  Tranmere Rovers FC
-  Forest Green Rovers FC   0-0  Exeter City FC
-  Grimsby Town FC          2-0  Crewe Alexandra FC
-  Lincoln City FC          0-3  Colchester United FC
-  Bury FC                  1-1  Port Vale FC
-  Milton Keynes Dons FC    1-0  Mansfield Town FC
-  Morecambe FC             1-1  Newport County AFC
-  Oldham Athletic AFC      2-5  Northampton Town FC
-  Stevenage FC             2-0  Cheltenham Town FC
-  Swindon Town FC          3-1  Notts County FC
-  Yeovil Town FC           0-0  Carlisle United FC
+  15.00  Bury FC                  1-1 (1-1)  Port Vale FC
+         Crawley Town             3-1 (2-0)  Tranmere Rovers
+         Forest Green Rovers      0-0  Exeter City
+         Grimsby Town             2-0 (2-0)  Crewe Alexandra
+         Lincoln City             0-3 (0-3)  Colchester United
+         Macclesfield Town        1-1 (0-1)  Cambridge United
+         Milton Keynes Dons       1-0 (1-0)  Mansfield Town
+         Morecambe FC             1-1 (1-0)  Newport County
+         Oldham Athletic          2-5 (1-3)  Northampton Town
+         Stevenage FC             2-0 (0-0)  Cheltenham Town
+         Swindon Town             3-1 (0-0)  Notts County
+         Yeovil Town              0-0  Carlisle United

@@ -1,620 +1,626 @@
 = English Premier League 2017/18
 
+# Date       Fri Aug/11 2017 - Sun May/13 2018 (275d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Fri Aug/11]
-  Arsenal FC               4-3  Leicester City FC
+  19.45  Arsenal FC               4-3 (2-2)  Leicester City
 [Sat Aug/12]
-  Watford FC               3-3  Liverpool FC
-  West Bromwich Albion FC  1-0  AFC Bournemouth
-  Chelsea FC               2-3  Burnley FC
-  Brighton & Hove Albion FC  0-2  Manchester City FC
-  Southampton FC           0-0  Swansea City FC
-  Everton FC               1-0  Stoke City FC
-  Crystal Palace FC        0-3  Huddersfield Town AFC
+  12.30  Watford FC               3-3 (2-1)  Liverpool FC
+  15.00  Chelsea FC               2-3 (0-3)  Burnley FC
+         Crystal Palace           0-3 (0-2)  Huddersfield Town
+         Everton FC               1-0 (1-0)  Stoke City
+         Southampton FC           0-0  Swansea City
+         West Bromwich Albion     1-0 (1-0)  AFC Bournemouth
+  17.30  Brighton & Hove Albion   0-2 (0-0)  Manchester City
 [Sun Aug/13]
-  Manchester United FC     4-0  West Ham United FC
-  Newcastle United FC      0-2  Tottenham Hotspur FC
+  16.00  Manchester United        4-0 (1-0)  West Ham United
+  13.30  Newcastle United         0-2 (0-0)  Tottenham Hotspur
 
 
 Matchday 2
 [Sat Aug/19]
-  Swansea City FC          0-4  Manchester United FC
-  Southampton FC           3-2  West Ham United FC
-  Stoke City FC            1-0  Arsenal FC
-  Burnley FC               0-1  West Bromwich Albion FC
-  AFC Bournemouth          0-2  Watford FC
-  Liverpool FC             1-0  Crystal Palace FC
-  Leicester City FC        2-0  Brighton & Hove Albion FC
+  12.30  Swansea City             0-4 (0-1)  Manchester United
+  15.00  AFC Bournemouth          0-2 (0-0)  Watford FC
+         Burnley FC               0-1 (0-0)  West Bromwich Albion
+         Leicester City           2-0 (1-0)  Brighton & Hove Albion
+         Liverpool FC             1-0 (0-0)  Crystal Palace
+         Southampton FC           3-2 (2-1)  West Ham United
+  17.30  Stoke City               1-0 (0-0)  Arsenal FC
 [Sun Aug/20]
-  Huddersfield Town AFC    1-0  Newcastle United FC
-  Tottenham Hotspur FC     1-2  Chelsea FC
+  16.00  Tottenham Hotspur        1-2 (0-1)  Chelsea FC
+  13.30  Huddersfield Town        1-0 (0-0)  Newcastle United
 [Mon Aug/21]
-  Manchester City FC       1-1  Everton FC
+  20.00  Manchester City          1-1 (0-1)  Everton FC
 
 
 Matchday 3
 [Sat Aug/26]
-  Huddersfield Town AFC    0-0  Southampton FC
-  AFC Bournemouth          1-2  Manchester City FC
-  Crystal Palace FC        0-2  Swansea City FC
-  Watford FC               0-0  Brighton & Hove Albion FC
-  Manchester United FC     2-0  Leicester City FC
-  Newcastle United FC      3-0  West Ham United FC
+  12.30  AFC Bournemouth          1-2 (1-1)  Manchester City
+  15.00  Crystal Palace           0-2 (0-1)  Swansea City
+         Huddersfield Town        0-0  Southampton FC
+         Newcastle United         3-0 (1-0)  West Ham United
+         Watford FC               0-0  Brighton & Hove Albion
+  17.30  Manchester United        2-0 (0-0)  Leicester City
 [Sun Aug/27]
-  West Bromwich Albion FC  1-1  Stoke City FC
-  Chelsea FC               2-0  Everton FC
-  Liverpool FC             4-0  Arsenal FC
-  Tottenham Hotspur FC     1-1  Burnley FC
+  13.30  West Bromwich Albion     1-1 (0-0)  Stoke City
+  16.00  Liverpool FC             4-0 (2-0)  Arsenal FC
+         Tottenham Hotspur        1-1 (0-0)  Burnley FC
+  13.30  Chelsea FC               2-0 (2-0)  Everton FC
 
 
 Matchday 4
 [Sat Sep/9]
-  Brighton & Hove Albion FC  3-1  West Bromwich Albion FC
-  Manchester City FC       5-0  Liverpool FC
-  Stoke City FC            2-2  Manchester United FC
-  Arsenal FC               3-0  AFC Bournemouth
-  Everton FC               0-3  Tottenham Hotspur FC
-  Southampton FC           0-2  Watford FC
-  Leicester City FC        1-2  Chelsea FC
+  12.30  Manchester City          5-0 (2-0)  Liverpool FC
+  15.00  Arsenal FC               3-0 (2-0)  AFC Bournemouth
+         Brighton & Hove Albion   3-1 (1-0)  West Bromwich Albion
+         Everton FC               0-3 (0-2)  Tottenham Hotspur
+         Leicester City           1-2 (0-1)  Chelsea FC
+         Southampton FC           0-2 (0-1)  Watford FC
+  17.30  Stoke City               2-2 (1-1)  Manchester United
 [Sun Sep/10]
-  Swansea City FC          0-1  Newcastle United FC
-  Burnley FC               1-0  Crystal Palace FC
+  16.00  Swansea City             0-1 (0-0)  Newcastle United
+  13.30  Burnley FC               1-0 (1-0)  Crystal Palace
 [Mon Sep/11]
-  West Ham United FC       2-0  Huddersfield Town AFC
+  20.00  West Ham United          2-0 (0-0)  Huddersfield Town
 
 
 Matchday 5
 [Fri Sep/15]
-  AFC Bournemouth          2-1  Brighton & Hove Albion FC
+  20.00  AFC Bournemouth          2-1 (0-0)  Brighton & Hove Albion
 [Sat Sep/16]
-  Liverpool FC             1-1  Burnley FC
-  Newcastle United FC      2-1  Stoke City FC
-  Crystal Palace FC        0-1  Southampton FC
-  Tottenham Hotspur FC     0-0  Swansea City FC
-  Watford FC               0-6  Manchester City FC
-  West Bromwich Albion FC  0-0  West Ham United FC
-  Huddersfield Town AFC    1-1  Leicester City FC
+  12.30  Crystal Palace           0-1 (0-1)  Southampton FC
+  15.00  Huddersfield Town        1-1 (0-0)  Leicester City
+         Liverpool FC             1-1 (1-1)  Burnley FC
+         Newcastle United         2-1 (1-0)  Stoke City
+         Watford FC               0-6 (0-3)  Manchester City
+         West Bromwich Albion     0-0  West Ham United
+  17.30  Tottenham Hotspur        0-0  Swansea City
 [Sun Sep/17]
-  Chelsea FC               0-0  Arsenal FC
-  Manchester United FC     4-0  Everton FC
+  16.00  Manchester United        4-0 (1-0)  Everton FC
+  13.30  Chelsea FC               0-0  Arsenal FC
 
 
 Matchday 6
 [Sat Sep/23]
-  West Ham United FC       2-3  Tottenham Hotspur FC
-  Southampton FC           0-1  Manchester United FC
-  Swansea City FC          1-2  Watford FC
-  Everton FC               2-1  AFC Bournemouth
-  Manchester City FC       5-0  Crystal Palace FC
-  Stoke City FC            0-4  Chelsea FC
-  Burnley FC               0-0  Huddersfield Town AFC
-  Leicester City FC        2-3  Liverpool FC
+  12.30  West Ham United          2-3 (0-2)  Tottenham Hotspur
+  15.00  Burnley FC               0-0  Huddersfield Town
+         Everton FC               2-1 (0-0)  AFC Bournemouth
+         Manchester City          5-0 (1-0)  Crystal Palace
+         Southampton FC           0-1 (0-1)  Manchester United
+         Stoke City               0-4 (0-2)  Chelsea FC
+         Swansea City             1-2 (0-1)  Watford FC
+  17.30  Leicester City           2-3 (1-2)  Liverpool FC
 [Sun Sep/24]
-  Brighton & Hove Albion FC  1-0  Newcastle United FC
+  16.00  Brighton & Hove Albion   1-0 (0-0)  Newcastle United
 [Mon Sep/25]
-  Arsenal FC               2-0  West Bromwich Albion FC
+  20.00  Arsenal FC               2-0 (1-0)  West Bromwich Albion
 
 
 Matchday 7
 [Sat Sep/30]
-  West Bromwich Albion FC  2-2  Watford FC
-  Manchester United FC     4-0  Crystal Palace FC
-  Huddersfield Town AFC    0-4  Tottenham Hotspur FC
-  Chelsea FC               0-1  Manchester City FC
-  AFC Bournemouth          0-0  Leicester City FC
-  West Ham United FC       1-0  Swansea City FC
-  Stoke City FC            2-1  Southampton FC
+  12.30  Huddersfield Town        0-4 (0-3)  Tottenham Hotspur
+  15.00  AFC Bournemouth          0-0  Leicester City
+         Manchester United        4-0 (2-0)  Crystal Palace
+         Stoke City               2-1 (1-0)  Southampton FC
+         West Bromwich Albion     2-2 (2-1)  Watford FC
+         West Ham United          1-0 (0-0)  Swansea City
+  17.30  Chelsea FC               0-1 (0-0)  Manchester City
 [Sun Oct/1]
-  Arsenal FC               2-0  Brighton & Hove Albion FC
-  Everton FC               0-1  Burnley FC
-  Newcastle United FC      1-1  Liverpool FC
+  12.00  Arsenal FC               2-0 (1-0)  Brighton & Hove Albion
+  14.15  Everton FC               0-1 (0-1)  Burnley FC
+  16.30  Newcastle United         1-1 (1-1)  Liverpool FC
 
 
 Matchday 8
 [Sat Oct/14]
-  Crystal Palace FC        2-1  Chelsea FC
-  Liverpool FC             0-0  Manchester United FC
-  Manchester City FC       7-2  Stoke City FC
-  Tottenham Hotspur FC     1-0  AFC Bournemouth
-  Watford FC               2-1  Arsenal FC
-  Swansea City FC          2-0  Huddersfield Town AFC
-  Burnley FC               1-1  West Ham United FC
+  12.30  Liverpool FC             0-0  Manchester United
+  15.00  Burnley FC               1-1 (0-1)  West Ham United
+         Crystal Palace           2-1 (2-1)  Chelsea FC
+         Manchester City          7-2 (3-1)  Stoke City
+         Swansea City             2-0 (1-0)  Huddersfield Town
+         Tottenham Hotspur        1-0 (0-0)  AFC Bournemouth
+  17.30  Watford FC               2-1 (0-1)  Arsenal FC
 [Sun Oct/15]
-  Brighton & Hove Albion FC  1-1  Everton FC
-  Southampton FC           2-2  Newcastle United FC
+  16.00  Southampton FC           2-2 (0-1)  Newcastle United
+  13.30  Brighton & Hove Albion   1-1 (0-0)  Everton FC
 [Mon Oct/16]
-  Leicester City FC        1-1  West Bromwich Albion FC
+  20.00  Leicester City           1-1 (0-0)  West Bromwich Albion
 
 
 Matchday 9
 [Fri Oct/20]
-  West Ham United FC       0-3  Brighton & Hove Albion FC
+  20.00  West Ham United          0-3 (0-2)  Brighton & Hove Albion
 [Sat Oct/21]
-  Manchester City FC       3-0  Burnley FC
-  Chelsea FC               4-2  Watford FC
-  Huddersfield Town AFC    2-1  Manchester United FC
-  Newcastle United FC      1-0  Crystal Palace FC
-  Swansea City FC          1-2  Leicester City FC
-  Stoke City FC            1-2  AFC Bournemouth
-  Southampton FC           1-0  West Bromwich Albion FC
+  12.30  Chelsea FC               4-2 (1-1)  Watford FC
+  15.00  Huddersfield Town        2-1 (2-0)  Manchester United
+         Manchester City          3-0 (1-0)  Burnley FC
+         Newcastle United         1-0 (0-0)  Crystal Palace
+         Stoke City               1-2 (0-2)  AFC Bournemouth
+         Swansea City             1-2 (0-1)  Leicester City
+  17.30  Southampton FC           1-0 (0-0)  West Bromwich Albion
 [Sun Oct/22]
-  Everton FC               2-5  Arsenal FC
-  Tottenham Hotspur FC     4-1  Liverpool FC
+  16.00  Tottenham Hotspur        4-1 (3-1)  Liverpool FC
+  13.30  Everton FC               2-5 (1-1)  Arsenal FC
 
 
 Matchday 10
 [Sat Oct/28]
-  Arsenal FC               2-1  Swansea City FC
-  Liverpool FC             3-0  Huddersfield Town AFC
-  Manchester United FC     1-0  Tottenham Hotspur FC
-  AFC Bournemouth          0-1  Chelsea FC
-  Crystal Palace FC        2-2  West Ham United FC
-  West Bromwich Albion FC  2-3  Manchester City FC
-  Watford FC               0-1  Stoke City FC
+  12.30  Manchester United        1-0 (0-0)  Tottenham Hotspur
+  15.00  Arsenal FC               2-1 (0-1)  Swansea City
+         Crystal Palace           2-2 (0-2)  West Ham United
+         Liverpool FC             3-0 (0-0)  Huddersfield Town
+         Watford FC               0-1 (0-1)  Stoke City
+         West Bromwich Albion     2-3 (1-2)  Manchester City
+  17.30  AFC Bournemouth          0-1 (0-0)  Chelsea FC
 [Sun Oct/29]
-  Brighton & Hove Albion FC  1-1  Southampton FC
-  Leicester City FC        2-0  Everton FC
+  16.00  Leicester City           2-0 (2-0)  Everton FC
+  13.30  Brighton & Hove Albion   1-1 (0-1)  Southampton FC
 [Mon Oct/30]
-  Burnley FC               1-0  Newcastle United FC
+  20.00  Burnley FC               1-0 (0-0)  Newcastle United
 
 
 Matchday 11
 [Sat Nov/4]
-  Stoke City FC            2-2  Leicester City FC
-  Newcastle United FC      0-1  AFC Bournemouth
-  Swansea City FC          0-1  Brighton & Hove Albion FC
-  Huddersfield Town AFC    1-0  West Bromwich Albion FC
-  West Ham United FC       1-4  Liverpool FC
-  Southampton FC           0-1  Burnley FC
+  12.30  Stoke City               2-2 (1-1)  Leicester City
+  15.00  Huddersfield Town        1-0 (1-0)  West Bromwich Albion
+         Newcastle United         0-1 (0-0)  AFC Bournemouth
+         Southampton FC           0-1 (0-0)  Burnley FC
+         Swansea City             0-1 (0-1)  Brighton & Hove Albion
+  17.30  West Ham United          1-4 (0-2)  Liverpool FC
 [Sun Nov/5]
-  Tottenham Hotspur FC     1-0  Crystal Palace FC
-  Manchester City FC       3-1  Arsenal FC
-  Chelsea FC               1-0  Manchester United FC
-  Everton FC               3-2  Watford FC
+  12.00  Tottenham Hotspur        1-0 (0-0)  Crystal Palace
+  14.15  Manchester City          3-1 (1-0)  Arsenal FC
+  16.30  Chelsea FC               1-0 (0-0)  Manchester United
+         Everton FC               3-2 (0-0)  Watford FC
 
 
 Matchday 12
 [Sat Nov/18]
-  Arsenal FC               2-0  Tottenham Hotspur FC
-  Crystal Palace FC        2-2  Everton FC
-  Manchester United FC     4-1  Newcastle United FC
-  Leicester City FC        0-2  Manchester City FC
-  Burnley FC               2-0  Swansea City FC
-  AFC Bournemouth          4-0  Huddersfield Town AFC
-  West Bromwich Albion FC  0-4  Chelsea FC
-  Liverpool FC             3-0  Southampton FC
+  15.00  AFC Bournemouth          4-0 (2-0)  Huddersfield Town
+         Burnley FC               2-0 (2-0)  Swansea City
+         Crystal Palace           2-2 (2-2)  Everton FC
+         Leicester City           0-2 (0-1)  Manchester City
+         Liverpool FC             3-0 (2-0)  Southampton FC
+         West Bromwich Albion     0-4 (0-3)  Chelsea FC
+  17.30  Manchester United        4-1 (2-1)  Newcastle United
+  12.30  Arsenal FC               2-0 (2-0)  Tottenham Hotspur
 [Sun Nov/19]
-  Watford FC               2-0  West Ham United FC
+  16.00  Watford FC               2-0 (1-0)  West Ham United
 [Mon Nov/20]
-  Brighton & Hove Albion FC  2-2  Stoke City FC
+  20.00  Brighton & Hove Albion   2-2 (1-2)  Stoke City
 
 
 Matchday 13
 [Fri Nov/24]
-  West Ham United FC       1-1  Leicester City FC
+  20.00  West Ham United          1-1 (1-1)  Leicester City
 [Sat Nov/25]
-  Tottenham Hotspur FC     1-1  West Bromwich Albion FC
-  Newcastle United FC      0-3  Watford FC
-  Crystal Palace FC        2-1  Stoke City FC
-  Liverpool FC             1-1  Chelsea FC
-  Manchester United FC     1-0  Brighton & Hove Albion FC
-  Swansea City FC          0-0  AFC Bournemouth
+  15.00  Manchester United        1-0 (0-0)  Brighton & Hove Albion
+         Newcastle United         0-3 (0-2)  Watford FC
+         Swansea City             0-0  AFC Bournemouth
+         Tottenham Hotspur        1-1 (0-1)  West Bromwich Albion
+  17.30  Liverpool FC             1-1 (0-0)  Chelsea FC
+  15.00  Crystal Palace           2-1 (0-0)  Stoke City
 [Sun Nov/26]
-  Southampton FC           4-1  Everton FC
-  Burnley FC               0-1  Arsenal FC
-  Huddersfield Town AFC    1-2  Manchester City FC
+  13.30  Southampton FC           4-1 (1-1)  Everton FC
+  14.00  Burnley FC               0-1 (0-0)  Arsenal FC
+  16.00  Huddersfield Town        1-2 (1-0)  Manchester City
 
 
 Matchday 14
 [Tue Nov/28]
-  Leicester City FC        2-1  Tottenham Hotspur FC
-  Brighton & Hove Albion FC  0-0  Crystal Palace FC
-  West Bromwich Albion FC  2-2  Newcastle United FC
-  Watford FC               2-4  Manchester United FC
+  19.45  Leicester City           2-1 (2-0)  Tottenham Hotspur
+  20.00  Watford FC               2-4 (0-3)  Manchester United
+         West Bromwich Albion     2-2 (1-0)  Newcastle United
+  19.45  Brighton & Hove Albion   0-0  Crystal Palace
 [Wed Nov/29]
-  Chelsea FC               1-0  Swansea City FC
-  AFC Bournemouth          1-2  Burnley FC
-  Arsenal FC               5-0  Huddersfield Town AFC
-  Everton FC               4-0  West Ham United FC
-  Manchester City FC       2-1  Southampton FC
-  Stoke City FC            0-3  Liverpool FC
+  19.45  AFC Bournemouth          1-2 (0-1)  Burnley FC
+         Arsenal FC               5-0 (1-0)  Huddersfield Town
+         Chelsea FC               1-0 (0-0)  Swansea City
+  20.00  Everton FC               4-0 (2-0)  West Ham United
+         Manchester City          2-1 (0-0)  Southampton FC
+         Stoke City               0-3 (0-1)  Liverpool FC
 
 
 Matchday 15
 [Sat Dec/2]
-  Chelsea FC               3-1  Newcastle United FC
-  Stoke City FC            2-1  Swansea City FC
-  West Bromwich Albion FC  0-0  Crystal Palace FC
-  Brighton & Hove Albion FC  1-5  Liverpool FC
-  Arsenal FC               1-3  Manchester United FC
-  Watford FC               1-1  Tottenham Hotspur FC
-  Leicester City FC        1-0  Burnley FC
-  Everton FC               2-0  Huddersfield Town AFC
+  12.30  Chelsea FC               3-1 (2-1)  Newcastle United
+  15.00  Brighton & Hove Albion   1-5 (0-2)  Liverpool FC
+         Everton FC               2-0 (0-0)  Huddersfield Town
+         Leicester City           1-0 (1-0)  Burnley FC
+         Stoke City               2-1 (2-1)  Swansea City
+         Watford FC               1-1 (1-1)  Tottenham Hotspur
+         West Bromwich Albion     0-0  Crystal Palace
+  17.30  Arsenal FC               1-3 (0-2)  Manchester United
 [Sun Dec/3]
-  Manchester City FC       2-1  West Ham United FC
-  AFC Bournemouth          1-1  Southampton FC
+  16.00  Manchester City          2-1 (0-1)  West Ham United
+  13.30  AFC Bournemouth          1-1 (1-0)  Southampton FC
 
 
 Matchday 16
 [Sat Dec/9]
-  West Ham United FC       1-0  Chelsea FC
-  Swansea City FC          1-0  West Bromwich Albion FC
-  Crystal Palace FC        2-2  AFC Bournemouth
-  Huddersfield Town AFC    2-0  Brighton & Hove Albion FC
-  Newcastle United FC      2-3  Leicester City FC
-  Tottenham Hotspur FC     5-1  Stoke City FC
-  Burnley FC               1-0  Watford FC
+  12.30  West Ham United          1-0 (1-0)  Chelsea FC
+  15.00  Burnley FC               1-0 (1-0)  Watford FC
+         Crystal Palace           2-2 (2-2)  AFC Bournemouth
+         Huddersfield Town        2-0 (2-0)  Brighton & Hove Albion
+         Swansea City             1-0 (0-0)  West Bromwich Albion
+         Tottenham Hotspur        5-1 (1-0)  Stoke City
+  17.30  Newcastle United         2-3 (1-1)  Leicester City
 [Sun Dec/10]
-  Southampton FC           1-1  Arsenal FC
-  Liverpool FC             1-1  Everton FC
-  Manchester United FC     1-2  Manchester City FC
+  14.15  Liverpool FC             1-1 (1-0)  Everton FC
+  16.30  Manchester United        1-2 (1-1)  Manchester City
+  12.00  Southampton FC           1-1 (1-0)  Arsenal FC
 
 
 Matchday 17
 [Tue Dec/12]
-  Burnley FC               1-0  Stoke City FC
-  Crystal Palace FC        2-1  Watford FC
-  Huddersfield Town AFC    1-3  Chelsea FC
+  20.00  Crystal Palace           2-1 (0-1)  Watford FC
+         Huddersfield Town        1-3 (0-2)  Chelsea FC
+  19.45  Burnley FC               1-0 (0-0)  Stoke City
 [Wed Dec/13]
-  Southampton FC           1-4  Leicester City FC
-  Manchester United FC     1-0  AFC Bournemouth
-  Swansea City FC          0-4  Manchester City FC
-  Liverpool FC             0-0  West Bromwich Albion FC
-  West Ham United FC       0-0  Arsenal FC
-  Tottenham Hotspur FC     2-0  Brighton & Hove Albion FC
-  Newcastle United FC      0-1  Everton FC
+  19.45  Swansea City             0-4 (0-2)  Manchester City
+         Newcastle United         0-1 (0-1)  Everton FC
+         Southampton FC           1-4 (0-3)  Leicester City
+  20.00  Manchester United        1-0 (1-0)  AFC Bournemouth
+         West Ham United          0-0  Arsenal FC
+         Liverpool FC             0-0  West Bromwich Albion
+         Tottenham Hotspur        2-0 (1-0)  Brighton & Hove Albion
 
 
 Matchday 18
 [Sat Dec/16]
-  Leicester City FC        0-3  Crystal Palace FC
-  Brighton & Hove Albion FC  0-0  Burnley FC
-  Watford FC               1-4  Huddersfield Town AFC
-  Manchester City FC       4-1  Tottenham Hotspur FC
-  Arsenal FC               1-0  Newcastle United FC
-  Stoke City FC            0-3  West Ham United FC
-  Chelsea FC               1-0  Southampton FC
+  12.30  Leicester City           0-3 (0-2)  Crystal Palace
+  15.00  Arsenal FC               1-0 (1-0)  Newcastle United
+         Brighton & Hove Albion   0-0  Burnley FC
+         Chelsea FC               1-0 (1-0)  Southampton FC
+         Watford FC               1-4 (0-2)  Huddersfield Town
+  16.00  Stoke City               0-3 (0-1)  West Ham United
+  17.30  Manchester City          4-1 (1-0)  Tottenham Hotspur
 [Sun Dec/17]
-  West Bromwich Albion FC  1-2  Manchester United FC
-  AFC Bournemouth          0-4  Liverpool FC
+  16.30  AFC Bournemouth          0-4 (0-3)  Liverpool FC
+  14.15  West Bromwich Albion     1-2 (0-2)  Manchester United
 [Mon Dec/18]
-  Everton FC               3-1  Swansea City FC
+  20.00  Everton FC               3-1 (1-1)  Swansea City
 
 
 Matchday 19
 [Fri Dec/22]
-  Arsenal FC               3-3  Liverpool FC
+  19.45  Arsenal FC               3-3 (0-1)  Liverpool FC
 [Sat Dec/23]
-  West Ham United FC       2-3  Newcastle United FC
-  Stoke City FC            3-1  West Bromwich Albion FC
-  Everton FC               0-0  Chelsea FC
-  Swansea City FC          1-1  Crystal Palace FC
-  Brighton & Hove Albion FC  1-0  Watford FC
-  Manchester City FC       4-0  AFC Bournemouth
-  Leicester City FC        2-2  Manchester United FC
-  Burnley FC               0-3  Tottenham Hotspur FC
-  Southampton FC           1-1  Huddersfield Town AFC
+  12.30  Everton FC               0-0  Chelsea FC
+  15.00  Brighton & Hove Albion   1-0 (0-0)  Watford FC
+         Manchester City          4-0 (1-0)  AFC Bournemouth
+         Southampton FC           1-1 (1-0)  Huddersfield Town
+         Stoke City               3-1 (2-0)  West Bromwich Albion
+         Swansea City             1-1 (0-0)  Crystal Palace
+         West Ham United          2-3 (1-1)  Newcastle United
+  17.30  Burnley FC               0-3 (0-1)  Tottenham Hotspur
+  19.45  Leicester City           2-2 (1-1)  Manchester United
 
 
 Matchday 20
 [Tue Dec/26]
-  Liverpool FC             5-0  Swansea City FC
-  Huddersfield Town AFC    1-1  Stoke City FC
-  AFC Bournemouth          3-3  West Ham United FC
-  Chelsea FC               2-0  Brighton & Hove Albion FC
-  Manchester United FC     2-2  Burnley FC
-  Watford FC               2-1  Leicester City FC
-  West Bromwich Albion FC  0-0  Everton FC
-  Tottenham Hotspur FC     5-2  Southampton FC
+  12.30  Tottenham Hotspur        5-2 (2-0)  Southampton FC
+  15.00  AFC Bournemouth          3-3 (1-1)  West Ham United
+         Chelsea FC               2-0 (0-0)  Brighton & Hove Albion
+         Huddersfield Town        1-1 (1-0)  Stoke City
+         Manchester United        2-2 (0-2)  Burnley FC
+         Watford FC               2-1 (1-1)  Leicester City
+         West Bromwich Albion     0-0  Everton FC
+  17.30  Liverpool FC             5-0 (1-0)  Swansea City
 [Wed Dec/27]
-  Newcastle United FC      0-1  Manchester City FC
+  19.45  Newcastle United         0-1 (0-1)  Manchester City
 [Thu Dec/28]
-  Crystal Palace FC        2-3  Arsenal FC
+  20.00  Crystal Palace           2-3 (0-1)  Arsenal FC
 
 
 Matchday 21
 [Sat Dec/30]
-  Newcastle United FC      0-0  Brighton & Hove Albion FC
-  Chelsea FC               5-0  Stoke City FC
-  AFC Bournemouth          2-1  Everton FC
-  Watford FC               1-2  Swansea City FC
-  Huddersfield Town AFC    0-0  Burnley FC
-  Manchester United FC     0-0  Southampton FC
-  Liverpool FC             2-1  Leicester City FC
+  15.00  AFC Bournemouth          2-1 (1-0)  Everton FC
+         Chelsea FC               5-0 (3-0)  Stoke City
+         Huddersfield Town        0-0  Burnley FC
+         Liverpool FC             2-1 (0-1)  Leicester City
+         Newcastle United         0-0  Brighton & Hove Albion
+         Watford FC               1-2 (1-0)  Swansea City
+  17.30  Manchester United        0-0  Southampton FC
 [Sun Dec/31]
-  Crystal Palace FC        0-0  Manchester City FC
-  West Bromwich Albion FC  1-1  Arsenal FC
+  12.00  Crystal Palace           0-0  Manchester City
+  16.30  West Bromwich Albion     1-1 (0-0)  Arsenal FC
 
 
 Matchday 22
 [Mon Jan/1]
-  Burnley FC               1-2  Liverpool FC
-  Brighton & Hove Albion FC  2-2  AFC Bournemouth
-  Leicester City FC        3-0  Huddersfield Town AFC
-  Everton FC               0-2  Manchester United FC
-  Stoke City FC            0-1  Newcastle United FC
+  12.30  Brighton & Hove Albion   2-2 (1-1)  AFC Bournemouth
+  15.00  Burnley FC               1-2 (0-0)  Liverpool FC
+         Leicester City           3-0 (0-0)  Huddersfield Town
+         Stoke City               0-1 (0-0)  Newcastle United
+  17.30  Everton FC               0-2 (0-0)  Manchester United
 [Tue Jan/2]
-  Swansea City FC          0-2  Tottenham Hotspur FC
-  West Ham United FC       2-1  West Bromwich Albion FC
-  Southampton FC           1-2  Crystal Palace FC
-  Manchester City FC       3-1  Watford FC
+  20.00  Manchester City          3-1 (2-0)  Watford FC
+  19.45  Southampton FC           1-2 (1-0)  Crystal Palace
+         Swansea City             0-2 (0-1)  Tottenham Hotspur
+         West Ham United          2-1 (0-1)  West Bromwich Albion
 [Wed Jan/3]
-  Arsenal FC               2-2  Chelsea FC
+  19.45  Arsenal FC               2-2 (0-0)  Chelsea FC
 
 
 Matchday 21
 [Thu Jan/4]
-  Tottenham Hotspur FC     1-1  West Ham United FC
+  20.00  Tottenham Hotspur        1-1 (0-0)  West Ham United
 
 
 Matchday 23
 [Sat Jan/13]
-  West Bromwich Albion FC  2-0  Brighton & Hove Albion FC
-  Crystal Palace FC        1-0  Burnley FC
-  Huddersfield Town AFC    1-4  West Ham United FC
-  Tottenham Hotspur FC     4-0  Everton FC
-  Newcastle United FC      1-1  Swansea City FC
-  Watford FC               2-2  Southampton FC
-  Chelsea FC               0-0  Leicester City FC
+  15.00  Chelsea FC               0-0  Leicester City
+         Crystal Palace           1-0 (1-0)  Burnley FC
+         Huddersfield Town        1-4 (1-1)  West Ham United
+         Newcastle United         1-1 (0-0)  Swansea City
+         Watford FC               2-2 (0-2)  Southampton FC
+         West Bromwich Albion     2-0 (1-0)  Brighton & Hove Albion
+  17.30  Tottenham Hotspur        4-0 (1-0)  Everton FC
 [Sun Jan/14]
-  AFC Bournemouth          2-1  Arsenal FC
-  Liverpool FC             4-3  Manchester City FC
+  16.00  Liverpool FC             4-3 (1-1)  Manchester City
+  13.30  AFC Bournemouth          2-1 (0-0)  Arsenal FC
 [Mon Jan/15]
-  Manchester United FC     3-0  Stoke City FC
+  20.00  Manchester United        3-0 (2-0)  Stoke City
 
 
 Matchday 24
 [Sat Jan/20]
-  Leicester City FC        2-0  Watford FC
-  Stoke City FC            2-0  Huddersfield Town AFC
-  Brighton & Hove Albion FC  0-4  Chelsea FC
-  Burnley FC               0-1  Manchester United FC
-  West Ham United FC       1-1  AFC Bournemouth
-  Everton FC               1-1  West Bromwich Albion FC
-  Arsenal FC               4-1  Crystal Palace FC
-  Manchester City FC       3-1  Newcastle United FC
+  12.30  Brighton & Hove Albion   0-4 (0-2)  Chelsea FC
+  15.00  Arsenal FC               4-1 (4-0)  Crystal Palace
+         Burnley FC               0-1 (0-0)  Manchester United
+         Everton FC               1-1 (0-1)  West Bromwich Albion
+         Leicester City           2-0 (1-0)  Watford FC
+         Stoke City               2-0 (0-0)  Huddersfield Town
+         West Ham United          1-1 (0-0)  AFC Bournemouth
+  17.30  Manchester City          3-1 (1-0)  Newcastle United
 [Sun Jan/21]
-  Southampton FC           1-1  Tottenham Hotspur FC
+  16.00  Southampton FC           1-1 (1-1)  Tottenham Hotspur
 [Mon Jan/22]
-  Swansea City FC          1-0  Liverpool FC
+  20.00  Swansea City             1-0 (1-0)  Liverpool FC
 
 
 Matchday 25
 [Tue Jan/30]
-  West Ham United FC       1-1  Crystal Palace FC
-  Swansea City FC          3-1  Arsenal FC
-  Huddersfield Town AFC    0-3  Liverpool FC
+  19.45  West Ham United          1-1 (1-1)  Crystal Palace
+  20.00  Huddersfield Town        0-3 (0-2)  Liverpool FC
+  19.45  Swansea City             3-1 (1-1)  Arsenal FC
 [Wed Jan/31]
-  Newcastle United FC      1-1  Burnley FC
-  Stoke City FC            0-0  Watford FC
-  Everton FC               2-1  Leicester City FC
-  Chelsea FC               0-3  AFC Bournemouth
-  Tottenham Hotspur FC     2-0  Manchester United FC
-  Manchester City FC       3-0  West Bromwich Albion FC
-  Southampton FC           1-1  Brighton & Hove Albion FC
+  19.45  Chelsea FC               0-3 (0-0)  AFC Bournemouth
+         Everton FC               2-1 (2-0)  Leicester City
+         Newcastle United         1-1 (0-0)  Burnley FC
+         Southampton FC           1-1 (0-1)  Brighton & Hove Albion
+  20.00  Manchester City          3-0 (1-0)  West Bromwich Albion
+         Stoke City               0-0  Watford FC
+         Tottenham Hotspur        2-0 (2-0)  Manchester United
 
 
 Matchday 26
 [Sat Feb/3]
-  Burnley FC               1-1  Manchester City FC
-  Leicester City FC        1-1  Swansea City FC
-  Brighton & Hove Albion FC  3-1  West Ham United FC
-  West Bromwich Albion FC  2-3  Southampton FC
-  Arsenal FC               5-1  Everton FC
-  Manchester United FC     2-0  Huddersfield Town AFC
-  AFC Bournemouth          2-1  Stoke City FC
+  12.30  Burnley FC               1-1 (0-1)  Manchester City
+  15.00  AFC Bournemouth          2-1 (0-1)  Stoke City
+         Brighton & Hove Albion   3-1 (1-1)  West Ham United
+         Leicester City           1-1 (1-0)  Swansea City
+         Manchester United        2-0 (0-0)  Huddersfield Town
+         West Bromwich Albion     2-3 (1-2)  Southampton FC
+  17.30  Arsenal FC               5-1 (4-0)  Everton FC
 [Sun Feb/4]
-  Crystal Palace FC        1-1  Newcastle United FC
-  Liverpool FC             2-2  Tottenham Hotspur FC
+  16.30  Liverpool FC             2-2 (1-0)  Tottenham Hotspur
+  14.15  Crystal Palace           1-1 (0-1)  Newcastle United
 [Mon Feb/5]
-  Watford FC               4-1  Chelsea FC
+  20.00  Watford FC               4-1 (1-0)  Chelsea FC
 
 
 Matchday 27
 [Sat Feb/10]
-  Tottenham Hotspur FC     1-0  Arsenal FC
-  Everton FC               3-1  Crystal Palace FC
-  Stoke City FC            1-1  Brighton & Hove Albion FC
-  Swansea City FC          1-0  Burnley FC
-  Manchester City FC       5-1  Leicester City FC
-  West Ham United FC       2-0  Watford FC
+  12.30  Tottenham Hotspur        1-0 (0-0)  Arsenal FC
+  15.00  Everton FC               3-1 (0-0)  Crystal Palace
+         Stoke City               1-1 (0-1)  Brighton & Hove Albion
+         Swansea City             1-0 (0-0)  Burnley FC
+         West Ham United          2-0 (1-0)  Watford FC
+  17.30  Manchester City          5-1 (1-1)  Leicester City
 [Sun Feb/11]
-  Huddersfield Town AFC    4-1  AFC Bournemouth
-  Newcastle United FC      1-0  Manchester United FC
-  Southampton FC           0-2  Liverpool FC
+  14.15  Newcastle United         1-0 (0-0)  Manchester United
+  16.30  Southampton FC           0-2 (0-2)  Liverpool FC
+  12.00  Huddersfield Town        4-1 (2-1)  AFC Bournemouth
 [Mon Feb/12]
-  Chelsea FC               3-0  West Bromwich Albion FC
+  20.00  Chelsea FC               3-0 (1-0)  West Bromwich Albion
 
 
 Matchday 28
 [Sat Feb/24]
-  Leicester City FC        1-1  Stoke City FC
-  AFC Bournemouth          2-2  Newcastle United FC
-  Brighton & Hove Albion FC  4-1  Swansea City FC
-  West Bromwich Albion FC  1-2  Huddersfield Town AFC
-  Watford FC               1-0  Everton FC
-  Burnley FC               1-1  Southampton FC
-  Liverpool FC             4-1  West Ham United FC
+  12.30  Leicester City           1-1 (0-1)  Stoke City
+  15.00  AFC Bournemouth          2-2 (0-2)  Newcastle United
+         Brighton & Hove Albion   4-1 (1-0)  Swansea City
+         Burnley FC               1-1 (0-0)  Southampton FC
+         Liverpool FC             4-1 (1-0)  West Ham United
+         West Bromwich Albion     1-2 (0-0)  Huddersfield Town
+  17.30  Watford FC               1-0 (0-0)  Everton FC
 [Sun Feb/25]
-  Crystal Palace FC        0-1  Tottenham Hotspur FC
-  Manchester United FC     2-1  Chelsea FC
+  14.05  Manchester United        2-1 (1-1)  Chelsea FC
+  12.00  Crystal Palace           0-1 (0-0)  Tottenham Hotspur
 [Thu Mar/1]
-  Arsenal FC               0-3  Manchester City FC
+  19.45  Arsenal FC               0-3 (0-3)  Manchester City
 
 
 Matchday 29
 [Sat Mar/3]
-  Burnley FC               2-1  Everton FC
-  Watford FC               1-0  West Bromwich Albion FC
-  Southampton FC           0-0  Stoke City FC
-  Leicester City FC        1-1  AFC Bournemouth
-  Liverpool FC             2-0  Newcastle United FC
-  Swansea City FC          4-1  West Ham United FC
-  Tottenham Hotspur FC     2-0  Huddersfield Town AFC
+  12.30  Burnley FC               2-1 (0-1)  Everton FC
+  15.00  Leicester City           1-1 (0-1)  AFC Bournemouth
+         Southampton FC           0-0  Stoke City
+         Swansea City             4-1 (2-0)  West Ham United
+         Tottenham Hotspur        2-0 (1-0)  Huddersfield Town
+         Watford FC               1-0 (0-0)  West Bromwich Albion
+  17.30  Liverpool FC             2-0 (1-0)  Newcastle United
 [Sun Mar/4]
-  Brighton & Hove Albion FC  2-1  Arsenal FC
-  Manchester City FC       1-0  Chelsea FC
+  16.00  Manchester City          1-0 (0-0)  Chelsea FC
+  13.30  Brighton & Hove Albion   2-1 (2-1)  Arsenal FC
 [Mon Mar/5]
-  Crystal Palace FC        2-3  Manchester United FC
+  20.00  Crystal Palace           2-3 (1-0)  Manchester United
 
 
 Matchday 30
 [Sat Mar/10]
-  Manchester United FC     2-1  Liverpool FC
-  Huddersfield Town AFC    0-0  Swansea City FC
-  Newcastle United FC      3-0  Southampton FC
-  Everton FC               2-0  Brighton & Hove Albion FC
-  West Bromwich Albion FC  1-4  Leicester City FC
-  West Ham United FC       0-3  Burnley FC
-  Chelsea FC               2-1  Crystal Palace FC
+  15.00  Everton FC               2-0 (0-0)  Brighton & Hove Albion
+         Huddersfield Town        0-0  Swansea City
+         Newcastle United         3-0 (2-0)  Southampton FC
+         West Bromwich Albion     1-4 (1-1)  Leicester City
+         West Ham United          0-3 (0-0)  Burnley FC
+  17.30  Chelsea FC               2-1 (2-0)  Crystal Palace
+  12.30  Manchester United        2-1 (2-0)  Liverpool FC
 [Sun Mar/11]
-  Arsenal FC               3-0  Watford FC
-  AFC Bournemouth          1-4  Tottenham Hotspur FC
+  13.30  Arsenal FC               3-0 (1-0)  Watford FC
+  16.00  AFC Bournemouth          1-4 (1-1)  Tottenham Hotspur
 [Mon Mar/12]
-  Stoke City FC            0-2  Manchester City FC
+  20.00  Stoke City               0-2 (0-1)  Manchester City
 
 
 Matchday 31
 [Sat Mar/17]
-  Huddersfield Town AFC    0-2  Crystal Palace FC
-  Liverpool FC             5-0  Watford FC
-  Stoke City FC            1-2  Everton FC
-  AFC Bournemouth          2-1  West Bromwich Albion FC
+  15.00  Huddersfield Town        0-2 (0-1)  Crystal Palace
+         Stoke City               1-2 (0-0)  Everton FC
+  17.30  Liverpool FC             5-0 (2-0)  Watford FC
+  15.00  AFC Bournemouth          2-1 (0-0)  West Bromwich Albion
 
 
 Matchday 32
 [Sat Mar/31]
-  Crystal Palace FC        1-2  Liverpool FC
-  West Ham United FC       3-0  Southampton FC
-  Newcastle United FC      1-0  Huddersfield Town AFC
-  Manchester United FC     2-0  Swansea City FC
-  Everton FC               1-3  Manchester City FC
-  Brighton & Hove Albion FC  0-2  Leicester City FC
-  Watford FC               2-2  AFC Bournemouth
-  West Bromwich Albion FC  1-2  Burnley FC
+  17.30  Everton FC               1-3 (0-3)  Manchester City
+  15.00  West Bromwich Albion     1-2 (0-1)  Burnley FC
+         Watford FC               2-2 (1-1)  AFC Bournemouth
+         West Ham United          3-0 (3-0)  Southampton FC
+         Newcastle United         1-0 (0-0)  Huddersfield Town
+         Manchester United        2-0 (2-0)  Swansea City
+  12.30  Crystal Palace           1-2 (1-0)  Liverpool FC
+  15.00  Brighton & Hove Albion   0-2 (0-0)  Leicester City
 [Sun Apr/1]
-  Chelsea FC               1-3  Tottenham Hotspur FC
-  Arsenal FC               3-0  Stoke City FC
+  16.00  Chelsea FC               1-3 (1-1)  Tottenham Hotspur
+  13.30  Arsenal FC               3-0 (0-0)  Stoke City
 
 
 Matchday 33
 [Sat Apr/7]
-  Everton FC               0-0  Liverpool FC
-  Watford FC               1-2  Burnley FC
-  Leicester City FC        1-2  Newcastle United FC
-  West Bromwich Albion FC  1-1  Swansea City FC
-  Manchester City FC       2-3  Manchester United FC
-  Stoke City FC            1-2  Tottenham Hotspur FC
-  Brighton & Hove Albion FC  1-1  Huddersfield Town AFC
-  AFC Bournemouth          2-2  Crystal Palace FC
+  15.00  West Bromwich Albion     1-1 (0-0)  Swansea City
+         Watford FC               1-2 (0-0)  Burnley FC
+         Stoke City               1-2 (0-0)  Tottenham Hotspur
+         AFC Bournemouth          2-2 (0-0)  Crystal Palace
+  17.30  Manchester City          2-3 (2-0)  Manchester United
+  15.00  Brighton & Hove Albion   1-1 (1-1)  Huddersfield Town
+  12.30  Everton FC               0-0  Liverpool FC
+  15.00  Leicester City           1-2 (0-1)  Newcastle United
 [Sun Apr/8]
-  Chelsea FC               1-1  West Ham United FC
-  Arsenal FC               3-2  Southampton FC
+  14.15  Arsenal FC               3-2 (2-1)  Southampton FC
+  16.30  Chelsea FC               1-1 (1-0)  West Ham United
 
 
 Matchday 34
 [Sat Apr/14]
-  Tottenham Hotspur FC     1-3  Manchester City FC
-  Crystal Palace FC        3-2  Brighton & Hove Albion FC
-  Burnley FC               2-1  Leicester City FC
-  Huddersfield Town AFC    1-0  Watford FC
-  Swansea City FC          1-1  Everton FC
-  Liverpool FC             3-0  AFC Bournemouth
-  Southampton FC           2-3  Chelsea FC
+  17.30  Liverpool FC             3-0 (1-0)  AFC Bournemouth
+  15.00  Swansea City             1-1 (0-1)  Everton FC
+         Huddersfield Town        1-0 (0-0)  Watford FC
+         Crystal Palace           3-2 (3-2)  Brighton & Hove Albion
+         Burnley FC               2-1 (2-0)  Leicester City
+  19.45  Tottenham Hotspur        1-3 (1-2)  Manchester City
+  12.30  Southampton FC           2-3 (1-0)  Chelsea FC
 [Sun Apr/15]
-  Newcastle United FC      2-1  Arsenal FC
-  Manchester United FC     0-1  West Bromwich Albion FC
+  16.00  Manchester United        0-1 (0-0)  West Bromwich Albion
+  13.30  Newcastle United         2-1 (1-1)  Arsenal FC
 [Mon Apr/16]
-  West Ham United FC       1-1  Stoke City FC
+  20.00  West Ham United          1-1 (0-0)  Stoke City
 
 
 Matchday 35
 [Tue Apr/17]
-  Brighton & Hove Albion FC  1-1  Tottenham Hotspur FC
+  19.45  Brighton & Hove Albion   1-1 (0-0)  Tottenham Hotspur
 [Wed Apr/18]
-  AFC Bournemouth          0-2  Manchester United FC
+  19.45  AFC Bournemouth          0-2 (0-1)  Manchester United
+[Thu Apr/19]
+  19.45  Leicester City           0-0  Southampton FC
 
 
 Matchday 31
 [Thu Apr/19]
-  Burnley FC               1-2  Chelsea FC
+  19.45  Burnley FC               1-2 (0-1)  Chelsea FC
 
 
 Matchday 35
-[Thu Apr/19]
-  Leicester City FC        0-0  Southampton FC
 [Sat Apr/21]
-  West Bromwich Albion FC  2-2  Liverpool FC
-  Watford FC               0-0  Crystal Palace FC
+  15.00  Watford FC               0-0  Crystal Palace
+  12.30  West Bromwich Albion     2-2 (0-1)  Liverpool FC
 [Sun Apr/22]
-  Arsenal FC               4-1  West Ham United FC
-  Stoke City FC            1-1  Burnley FC
-  Manchester City FC       5-0  Swansea City FC
+  13.30  Stoke City               1-1 (1-0)  Burnley FC
+         Arsenal FC               4-1 (0-0)  West Ham United
+  16.30  Manchester City          5-0 (2-0)  Swansea City
 [Mon Apr/23]
-  Everton FC               1-0  Newcastle United FC
+  20.00  Everton FC               1-0 (0-0)  Newcastle United
 
 
 Matchday 36
 [Sat Apr/28]
-  Liverpool FC             0-0  Stoke City FC
-  Crystal Palace FC        5-0  Leicester City FC
-  Newcastle United FC      0-1  West Bromwich Albion FC
-  Southampton FC           2-1  AFC Bournemouth
-  Swansea City FC          0-1  Chelsea FC
-  Burnley FC               0-0  Brighton & Hove Albion FC
-  Huddersfield Town AFC    0-2  Everton FC
+  15.00  Huddersfield Town        0-2 (0-1)  Everton FC
+         Newcastle United         0-1 (0-1)  West Bromwich Albion
+  17.30  Swansea City             0-1 (0-1)  Chelsea FC
+  15.00  Southampton FC           2-1 (1-1)  AFC Bournemouth
+         Crystal Palace           5-0 (2-0)  Leicester City
+         Burnley FC               0-0  Brighton & Hove Albion
+  12.30  Liverpool FC             0-0  Stoke City
 [Sun Apr/29]
-  West Ham United FC       1-4  Manchester City FC
-  Manchester United FC     2-1  Arsenal FC
+  16.30  Manchester United        2-1 (1-0)  Arsenal FC
+  14.15  West Ham United          1-4 (1-2)  Manchester City
 [Mon Apr/30]
-  Tottenham Hotspur FC     2-0  Watford FC
+  20.00  Tottenham Hotspur        2-0 (1-0)  Watford FC
 
 
 Matchday 37
 [Fri May/4]
-  Brighton & Hove Albion FC  1-0  Manchester United FC
+  20.00  Brighton & Hove Albion   1-0 (0-0)  Manchester United
 [Sat May/5]
-  Stoke City FC            1-2  Crystal Palace FC
-  Leicester City FC        0-2  West Ham United FC
-  West Bromwich Albion FC  1-0  Tottenham Hotspur FC
-  Everton FC               1-1  Southampton FC
-  AFC Bournemouth          1-0  Swansea City FC
-  Watford FC               2-1  Newcastle United FC
+  15.00  West Bromwich Albion     1-0 (0-0)  Tottenham Hotspur
+         Watford FC               2-1 (2-0)  Newcastle United
+  17.30  Everton FC               1-1 (0-0)  Southampton FC
+  15.00  AFC Bournemouth          1-0 (1-0)  Swansea City
+         Leicester City           0-2 (0-1)  West Ham United
+  12.30  Stoke City               1-2 (1-0)  Crystal Palace
 [Sun May/6]
-  Manchester City FC       0-0  Huddersfield Town AFC
-  Arsenal FC               5-0  Burnley FC
-  Chelsea FC               1-0  Liverpool FC
+  13.30  Manchester City          0-0  Huddersfield Town
+  16.30  Arsenal FC               5-0 (2-0)  Burnley FC
+         Chelsea FC               1-0 (1-0)  Liverpool FC
 
 
 Matchday 31
 [Tue May/8]
-  Swansea City FC          0-1  Southampton FC
+  19.45  Swansea City             0-1 (0-0)  Southampton FC
 [Wed May/9]
-  Manchester City FC       3-1  Brighton & Hove Albion FC
-  Tottenham Hotspur FC     1-0  Newcastle United FC
-  Leicester City FC        3-1  Arsenal FC
+  20.00  Manchester City          3-1 (2-1)  Brighton & Hove Albion
+  19.45  Leicester City           3-1 (1-0)  Arsenal FC
 
 
 Matchday 35
 [Wed May/9]
-  Chelsea FC               1-1  Huddersfield Town AFC
+  19.45  Chelsea FC               1-1 (0-0)  Huddersfield Town
 
 
 Matchday 31
+[Wed May/9]
+  20.00  Tottenham Hotspur        1-0 (0-0)  Newcastle United
 [Thu May/10]
-  West Ham United FC       0-0  Manchester United FC
+  19.45  West Ham United          0-0  Manchester United
 
 
 Matchday 38
 [Sun May/13]
-  Newcastle United FC      3-0  Chelsea FC
-  Manchester United FC     1-0  Watford FC
-  West Ham United FC       3-1  Everton FC
-  Liverpool FC             4-0  Brighton & Hove Albion FC
-  Swansea City FC          1-2  Stoke City FC
-  Burnley FC               1-2  AFC Bournemouth
-  Crystal Palace FC        2-0  West Bromwich Albion FC
-  Tottenham Hotspur FC     5-4  Leicester City FC
-  Huddersfield Town AFC    0-1  Arsenal FC
-  Southampton FC           0-1  Manchester City FC
+  15.00  Burnley FC               1-2 (1-0)  AFC Bournemouth
+         Crystal Palace           2-0 (0-0)  West Bromwich Albion
+         Huddersfield Town        0-1 (0-1)  Arsenal FC
+         Liverpool FC             4-0 (2-0)  Brighton & Hove Albion
+         Manchester United        1-0 (1-0)  Watford FC
+         Newcastle United         3-0 (1-0)  Chelsea FC
+         Southampton FC           0-1 (0-0)  Manchester City
+         Swansea City             1-2 (1-2)  Stoke City
+         Tottenham Hotspur        5-4 (1-2)  Leicester City
+         West Ham United          3-1 (1-0)  Everton FC
