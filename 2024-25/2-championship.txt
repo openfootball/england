@@ -170,20 +170,20 @@ Matchday 9
 
 Matchday 10
 [Fri Oct/18]
-  20.00  Leeds United FC          -  Sheffield United FC
+  20.00  Leeds United FC          2-0 (0-0)  Sheffield United FC
 [Sat Oct/19]
-  12.30  Cardiff City FC          -  Plymouth Argyle FC
-         Luton Town FC            -  Watford FC
-         Oxford United FC         -  West Bromwich Albion FC
-         Preston North End FC     -  Coventry City FC
-  15.00  Blackburn Rovers FC      -  Swansea City AFC
-         Middlesbrough FC         -  Bristol City FC
-         Millwall FC              -  Derby County FC
-         Queens Park Rangers FC   -  Portsmouth FC
-         Sheffield Wednesday FC   -  Burnley FC
-         Stoke City FC            -  Norwich City FC
+  12.30  Cardiff City FC          5-0 (2-0)  Plymouth Argyle FC
+         Luton Town FC            3-0 (1-0)  Watford FC
+         Oxford United FC         1-1 (0-1)  West Bromwich Albion FC
+         Preston North End FC     1-0 (0-0)  Coventry City FC
+  15.00  Blackburn Rovers FC      1-0 (1-0)  Swansea City AFC
+         Middlesbrough FC         0-2 (0-2)  Bristol City FC
+         Millwall FC              1-1 (0-0)  Derby County FC
+         Queens Park Rangers FC   1-2 (1-1)  Portsmouth FC
+         Sheffield Wednesday FC   0-2 (0-1)  Burnley FC
+         Stoke City FC            1-1 (1-1)  Norwich City FC
 [Sun Oct/20]
-  15.00  Hull City AFC            -  Sunderland AFC
+  15.00  Hull City AFC            0-1 (0-0)  Sunderland AFC
 
 
 Matchday 11
@@ -270,7 +270,7 @@ Matchday 15
          Portsmouth FC            -  Preston North End FC
          Sunderland AFC           -  Coventry City FC
 [Sun Nov/10]
-  12.00  Sheffield United FC      -  Sheffield Wednesday FC
+  12.30  Sheffield United FC      -  Sheffield Wednesday FC
   13.00  Hull City AFC            -  West Bromwich Albion FC
   15.00  Burnley FC               -  Swansea City AFC
 
