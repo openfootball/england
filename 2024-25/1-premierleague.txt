@@ -148,16 +148,16 @@ Matchday 9
 
 Matchday 10
 [Sat Nov/2]
-  12.30  Newcastle United FC      -  Arsenal FC
-  15.00  AFC Bournemouth          -  Manchester City FC
-         Ipswich Town FC          -  Leicester City FC
-         Liverpool FC             -  Brighton & Hove Albion FC
-         Nottingham Forest FC     -  West Ham United FC
-         Southampton FC           -  Everton FC
-  17.30  Wolverhampton Wanderers FC  -  Crystal Palace FC
+  12.30  Newcastle United FC      1-0 (1-0)  Arsenal FC
+  15.00  AFC Bournemouth          2-1 (1-0)  Manchester City FC
+         Ipswich Town FC          1-1 (0-0)  Leicester City FC
+         Liverpool FC             2-1 (0-1)  Brighton & Hove Albion FC
+         Nottingham Forest FC     3-0 (1-0)  West Ham United FC
+         Southampton FC           1-0 (0-0)  Everton FC
+  17.30  Wolverhampton Wanderers FC  2-2 (0-0)  Crystal Palace FC
 [Sun Nov/3]
-  14.00  Tottenham Hotspur FC     -  Aston Villa FC
-  16.30  Manchester United FC     -  Chelsea FC
+  14.00  Tottenham Hotspur FC     4-1 (0-1)  Aston Villa FC
+  16.30  Manchester United FC     1-1 (0-0)  Chelsea FC
 [Mon Nov/4]
   20.00  Fulham FC                -  Brentford FC
 
@@ -249,12 +249,12 @@ Matchday 16
          Wolverhampton Wanderers FC  -  Ipswich Town FC
   17.30  Nottingham Forest FC     -  Aston Villa FC
 [Sun Dec/15]
-  14.00  AFC Bournemouth          -  West Ham United FC
+  11.00  Brighton & Hove Albion FC  -  Crystal Palace FC
   16.30  Manchester City FC       -  Manchester United FC
   19.00  Chelsea FC               -  Brentford FC
          Southampton FC           -  Tottenham Hotspur FC
 [Mon Dec/16]
-  20.00  Brighton & Hove Albion FC  -  Crystal Palace FC
+  20.00  AFC Bournemouth          -  West Ham United FC
 
 
 Matchday 17
@@ -262,13 +262,13 @@ Matchday 17
   12.30  Aston Villa FC           -  Manchester City FC
   15.00  Brentford FC             -  Nottingham Forest FC
          Ipswich Town FC          -  Newcastle United FC
-         Leicester City FC        -  Wolverhampton Wanderers FC
          Manchester United FC     -  AFC Bournemouth
          West Ham United FC       -  Brighton & Hove Albion FC
   17.30  Crystal Palace FC        -  Arsenal FC
 [Sun Dec/22]
   14.00  Everton FC               -  Chelsea FC
          Fulham FC                -  Southampton FC
+         Leicester City FC        -  Wolverhampton Wanderers FC
   16.30  Tottenham Hotspur FC     -  Liverpool FC
 
 
