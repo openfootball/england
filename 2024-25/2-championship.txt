@@ -241,38 +241,38 @@ Matchday 13
 
 Matchday 14
 [Tue Nov/5]
-  19.45  Bristol City FC          -  Sheffield United FC
-         Oxford United FC         -  Hull City AFC
-         Queens Park Rangers FC   -  Middlesbrough FC
-         Sheffield Wednesday FC   -  Norwich City FC
-  20.00  Plymouth Argyle FC       -  Portsmouth FC
-         Swansea City AFC         -  Watford FC
+  19.45  Bristol City FC          1-2 (0-0)  Sheffield United FC
+         Oxford United FC         1-0 (0-0)  Hull City AFC
+         Queens Park Rangers FC   1-4 (0-2)  Middlesbrough FC
+         Sheffield Wednesday FC   2-0 (2-0)  Norwich City FC
+  20.00  Plymouth Argyle FC       1-0 (0-0)  Portsmouth FC
+         Swansea City AFC         1-0 (1-0)  Watford FC
 [Wed Nov/6]
-  19.45  Millwall FC              -  Leeds United FC
-         Blackburn Rovers FC      -  Stoke City FC
-         Coventry City FC         -  Derby County FC
-  20.00  Luton Town FC            -  Cardiff City FC
-         Preston North End FC     -  Sunderland AFC
+  19.45  Millwall FC              1-0 (1-0)  Leeds United FC
+         Blackburn Rovers FC      0-2 (0-0)  Stoke City FC
+         Coventry City FC         1-2 (0-1)  Derby County FC
+  20.00  Luton Town FC            1-0 (0-0)  Cardiff City FC
+         Preston North End FC     0-0  Sunderland AFC
 [Thu Nov/7]
-  20.00  West Bromwich Albion FC  -  Burnley FC
+  20.00  West Bromwich Albion FC  0-0  Burnley FC
 
 
 Matchday 15
 [Fri Nov/8]
-  20.00  Watford FC               -  Oxford United FC
+  20.00  Watford FC               1-0 (0-0)  Oxford United FC
 [Sat Nov/9]
-  12.30  Cardiff City FC          -  Blackburn Rovers FC
-         Middlesbrough FC         -  Luton Town FC
-         Stoke City FC            -  Millwall FC
-  15.00  Derby County FC          -  Plymouth Argyle FC
-         Leeds United FC          -  Queens Park Rangers FC
-         Norwich City FC          -  Bristol City FC
-         Portsmouth FC            -  Preston North End FC
-         Sunderland AFC           -  Coventry City FC
+  12.30  Cardiff City FC          1-3 (0-1)  Blackburn Rovers FC
+         Middlesbrough FC         5-1 (2-0)  Luton Town FC
+         Stoke City FC            1-1 (0-1)  Millwall FC
+  15.00  Derby County FC          1-1 (1-1)  Plymouth Argyle FC
+         Leeds United FC          2-0 (1-0)  Queens Park Rangers FC
+         Norwich City FC          0-2 (0-1)  Bristol City FC
+         Portsmouth FC            3-1 (2-0)  Preston North End FC
+         Sunderland AFC           2-2 (2-0)  Coventry City FC
 [Sun Nov/10]
-  12.30  Sheffield United FC      -  Sheffield Wednesday FC
-  13.00  Hull City AFC            -  West Bromwich Albion FC
-  15.00  Burnley FC               -  Swansea City AFC
+  12.30  Sheffield United FC      1-0 (0-0)  Sheffield Wednesday FC
+  13.00  Hull City AFC            1-2 (1-2)  West Bromwich Albion FC
+  15.00  Burnley FC               1-0 (0-0)  Swansea City AFC
 
 
 Matchday 16
@@ -317,8 +317,8 @@ Matchday 18
   12.30  Middlesbrough FC         -  Hull City AFC
          Oxford United FC         -  Millwall FC
          Watford FC               -  Queens Park Rangers FC
-  15.00  Blackburn Rovers FC      -  Leeds United FC
-         Bristol City FC          -  Plymouth Argyle FC
+  13.30  Blackburn Rovers FC      -  Leeds United FC
+  15.00  Bristol City FC          -  Plymouth Argyle FC
          Coventry City FC         -  Cardiff City FC
          Norwich City FC          -  Luton Town FC
          Preston North End FC     -  West Bromwich Albion FC
