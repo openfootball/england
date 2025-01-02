@@ -76,7 +76,6 @@ Matchday 4
 
 Matchday 5
 [Sat Sep/7]
-  Tranmere Rovers          -  AFC Wimbledon
   15.00  Barrow AFC               1-1 (1-0)  Swindon Town
          Bradford City            2-1 (1-0)  Carlisle United
          Cheltenham Town          1-0 (0-0)  Harrogate Town
@@ -87,13 +86,16 @@ Matchday 5
          Milton Keynes Dons       1-0 (1-0)  Walsall FC
          Newport County           1-4 (1-2)  Port Vale FC
          Notts County             2-0 (1-0)  Accrington Stanley
+[Tue Oct/29]
+  19.45  Fleetwood Town           2-2 (1-1)  Salford City
+[Tue Nov/26]
+  19.45  Tranmere Rovers          0-2 (0-1)  AFC Wimbledon
 
 
 Matchday 6
 [Thu Sep/12]
   20.00  Harrogate Town           2-0 (2-0)  Doncaster Rovers
 [Sat Sep/14]
-  15.00  Walsall FC               2-1 (1-1)  Bradford City
   12.30  AFC Wimbledon            3-0 (1-0)  Milton Keynes Dons
          Swindon Town             4-0 (4-0)  Newport County
   15.00  Accrington Stanley       0-1 (0-0)  Crewe Alexandra
@@ -104,20 +106,21 @@ Matchday 6
          Grimsby Town             1-2 (1-2)  Barrow AFC
          Port Vale FC             1-0 (1-0)  Chesterfield FC
          Salford City             2-1 (0-0)  Cheltenham Town
+         Walsall FC               2-1 (1-1)  Bradford City
 
 
 Matchday 7
 [Sat Sep/21]
-  15.00  Grimsby Town             1-0 (0-0)  Bromley FC
   12.30  Accrington Stanley       2-2 (2-0)  Port Vale FC
          Chesterfield FC          1-1 (1-0)  Cheltenham Town
   15.00  Barrow AFC               2-0 (1-0)  Newport County
          Bradford City            0-0  AFC Wimbledon
          Colchester United        3-0 (2-0)  Tranmere Rovers
          Crewe Alexandra          3-0 (2-0)  Harrogate Town
-         Salford City             0-2 (0-0)  Walsall FC
+         Grimsby Town             1-0 (0-0)  Bromley FC
          Milton Keynes Dons       1-1 (1-0)  Doncaster Rovers
          Notts County             0-1 (0-1)  Gillingham FC
+         Salford City             0-2 (0-0)  Walsall FC
          Swindon Town             0-2 (0-1)  Carlisle United
 [Mon Sep/23]
   20.00  Fleetwood Town           2-2 (2-0)  Morecambe FC
@@ -127,8 +130,6 @@ Matchday 8
 [Fri Sep/27]
   19.45  Tranmere Rovers          0-0  Salford City
 [Sat Sep/28]
-  15.00  Port Vale FC             2-1 (0-0)  Swindon Town
-  AFC Wimbledon            -  Accrington Stanley
   12.30  Harrogate Town           2-1 (2-1)  Bradford City
          Walsall FC               4-0 (1-0)  Colchester United
   15.00  Bromley FC               1-1 (1-1)  Milton Keynes Dons
@@ -138,313 +139,330 @@ Matchday 8
          Gillingham FC            2-0 (1-0)  Barrow AFC
          Morecambe FC             1-1 (1-0)  Notts County
          Newport County           2-1 (1-0)  Crewe Alexandra
+         Port Vale FC             2-1 (0-0)  Swindon Town
+[Tue Nov/19]
+  19.45  AFC Wimbledon            2-2 (0-0)  Accrington Stanley
 
 
 Matchday 9
 [Tue Oct/1]
-  19.45  Morecambe FC             1-1 (1-0)  Bradford City
-  AFC Wimbledon            -  Crewe Alexandra
   19.45  Bromley FC               2-2 (1-2)  Chesterfield FC
          Carlisle United          0-2 (0-2)  Notts County
          Cheltenham Town          2-1 (0-1)  Accrington Stanley
          Doncaster Rovers         1-0 (0-0)  Barrow AFC
          Gillingham FC            0-1 (0-1)  Grimsby Town
-         Walsall FC               2-6 (2-1)  Fleetwood Town
+         Morecambe FC             1-1 (1-0)  Bradford City
          Harrogate Town           1-5 (0-3)  Milton Keynes Dons
          Newport County           3-1 (2-0)  Salford City
          Port Vale FC             1-1 (0-0)  Colchester United
          Tranmere Rovers          1-1 (1-0)  Swindon Town
+         Walsall FC               2-6 (2-1)  Fleetwood Town
+[Tue Feb/11]
+  19.45  AFC Wimbledon            -  Crewe Alexandra
 
 
 Matchday 10
 [Sat Oct/5]
-  15.00  Crewe Alexandra          2-0 (1-0)  Gillingham FC
   12.30  Fleetwood Town           0-0  Bromley FC
          Grimsby Town             0-3 (0-3)  Doncaster Rovers
   15.00  Accrington Stanley       2-1 (2-0)  Morecambe FC
          Barrow AFC               2-1 (0-1)  Cheltenham Town
          Colchester United        0-0  Carlisle United
-         Swindon Town             0-0  Harrogate Town
+         Crewe Alexandra          2-0 (1-0)  Gillingham FC
          Chesterfield FC          2-2 (1-1)  Walsall FC
          Milton Keynes Dons       1-1 (1-0)  Tranmere Rovers
          Notts County             0-1 (0-1)  Port Vale FC
          Salford City             1-0 (0-0)  AFC Wimbledon
+         Swindon Town             0-0  Harrogate Town
 [Mon Oct/7]
-  20.00  Bradford City            -  Newport County
+  20.00  Bradford City            3-1 (1-0)  Newport County
 
 
 Matchday 11
 [Sat Oct/12]
-  15.00  Walsall FC               -  Bromley FC
-  Fleetwood Town           -  Colchester United
-  12.30  Chesterfield FC          -  Notts County
-  15.00  Barrow AFC               -  Morecambe FC
-         AFC Wimbledon            -  Carlisle United
-         Cheltenham Town          -  Swindon Town
-         Doncaster Rovers         -  Crewe Alexandra
-         Gillingham FC            -  Accrington Stanley
-         Harrogate Town           -  Newport County
-         Milton Keynes Dons       -  Port Vale FC
-         Salford City             -  Grimsby Town
-         Tranmere Rovers          -  Bradford City
+  12.30  Chesterfield FC          2-2 (1-1)  Notts County
+  15.00  Barrow AFC               0-1 (0-0)  Morecambe FC
+         AFC Wimbledon            4-0 (3-0)  Carlisle United
+         Cheltenham Town          2-3 (0-2)  Swindon Town
+         Doncaster Rovers         1-1 (0-0)  Crewe Alexandra
+         Gillingham FC            1-2 (0-0)  Accrington Stanley
+         Harrogate Town           1-0 (1-0)  Newport County
+         Milton Keynes Dons       0-1 (0-0)  Port Vale FC
+         Salford City             1-2 (1-2)  Grimsby Town
+         Tranmere Rovers          0-2 (0-1)  Bradford City
+[Tue Nov/26]
+  19.45  Walsall FC               2-2 (1-0)  Bromley FC
+[Sat Nov/30]
+  12.30  Fleetwood Town           0-0  Colchester United
 
 
 Matchday 12
 [Fri Oct/18]
-  20.00  Newport County           -  Chesterfield FC
+  20.00  Newport County           0-3 (0-1)  Chesterfield FC
 [Sat Oct/19]
-  15.00  Swindon Town             -  Doncaster Rovers
-  12.30  Accrington Stanley       -  Barrow AFC
-  15.00  Bradford City            -  Gillingham FC
-         Bromley FC               -  Tranmere Rovers
-         Carlisle United          -  Harrogate Town
-         Colchester United        -  Cheltenham Town
-         Crewe Alexandra          -  Salford City
-         Morecambe FC             -  Milton Keynes Dons
-         Grimsby Town             -  Walsall FC
-         Notts County             -  AFC Wimbledon
-         Port Vale FC             -  Fleetwood Town
+  12.30  Accrington Stanley       1-0 (1-0)  Barrow AFC
+  15.00  Bradford City            2-1 (2-1)  Gillingham FC
+         Bromley FC               1-2 (0-0)  Tranmere Rovers
+         Carlisle United          1-1 (1-1)  Harrogate Town
+         Colchester United        1-2 (1-2)  Cheltenham Town
+         Crewe Alexandra          1-1 (1-1)  Salford City
+         Morecambe FC             1-3 (1-2)  Milton Keynes Dons
+         Grimsby Town             1-4 (0-0)  Walsall FC
+         Notts County             1-0 (0-0)  AFC Wimbledon
+         Port Vale FC             3-1 (1-1)  Fleetwood Town
+         Swindon Town             1-2 (0-0)  Doncaster Rovers
 
 
 Matchday 13
 [Tue Oct/22]
-  19.45  Walsall FC               -  Carlisle United
-         Barrow AFC               -  Notts County
-         AFC Wimbledon            -  Morecambe FC
-         Cheltenham Town          -  Bradford City
-         Doncaster Rovers         -  Bromley FC
-         Chesterfield FC          -  Colchester United
-         Gillingham FC            -  Newport County
-         Fleetwood Town           -  Crewe Alexandra
-         Harrogate Town           -  Port Vale FC
-         Milton Keynes Dons       -  Accrington Stanley
-         Salford City             -  Swindon Town
-         Tranmere Rovers          -  Grimsby Town
+  19.45  Barrow AFC               1-1 (1-0)  Notts County
+         AFC Wimbledon            3-0 (0-0)  Morecambe FC
+         Cheltenham Town          1-1 (1-1)  Bradford City
+         Doncaster Rovers         0-1 (0-1)  Bromley FC
+         Chesterfield FC          1-1 (0-1)  Colchester United
+         Gillingham FC            0-2 (0-2)  Newport County
+         Fleetwood Town           0-1 (0-0)  Crewe Alexandra
+         Harrogate Town           0-1 (0-0)  Port Vale FC
+         Milton Keynes Dons       2-1 (1-0)  Accrington Stanley
+         Salford City             2-1 (1-0)  Swindon Town
+         Tranmere Rovers          0-1 (0-0)  Grimsby Town
+         Walsall FC               3-1 (1-0)  Carlisle United
 
 
 Matchday 14
 [Sat Oct/26]
-  15.00  Swindon Town             -  Gillingham FC
-  12.30  Colchester United        -  Salford City
-         Morecambe FC             -  Chesterfield FC
-  15.00  Accrington Stanley       -  Walsall FC
-         Bradford City            -  Doncaster Rovers
-         Bromley FC               -  Barrow AFC
-         Carlisle United          -  Cheltenham Town
-         Crewe Alexandra          -  Tranmere Rovers
-         Grimsby Town             -  Milton Keynes Dons
-         Newport County           -  Fleetwood Town
-         Notts County             -  Harrogate Town
-         Port Vale FC             -  AFC Wimbledon
-
-
-Matchday 5
-[Tue Oct/29]
-  19.45  Fleetwood Town           -  Salford City
+  12.30  Colchester United        1-2 (0-0)  Salford City
+         Morecambe FC             2-5 (1-1)  Chesterfield FC
+  15.00  Accrington Stanley       0-0  Walsall FC
+         Bradford City            1-2 (0-0)  Doncaster Rovers
+         Bromley FC               1-1 (0-1)  Barrow AFC
+         Carlisle United          0-1 (0-1)  Cheltenham Town
+         Crewe Alexandra          3-1 (1-1)  Tranmere Rovers
+         Grimsby Town             1-3 (1-0)  Milton Keynes Dons
+         Newport County           0-0  Fleetwood Town
+         Notts County             1-0 (0-0)  Harrogate Town
+         Port Vale FC             3-2 (2-0)  AFC Wimbledon
+         Swindon Town             1-1 (0-1)  Gillingham FC
 
 
 Matchday 15
 [Sat Nov/9]
-  15.00  Barrow AFC               -  Colchester United
-         AFC Wimbledon            -  Grimsby Town
-         Cheltenham Town          -  Bromley FC
-         Doncaster Rovers         -  Notts County
-         Chesterfield FC          -  Accrington Stanley
-         Gillingham FC            -  Port Vale FC
-         Fleetwood Town           -  Bradford City
-         Harrogate Town           -  Morecambe FC
-         Milton Keynes Dons       -  Swindon Town
-         Salford City             -  Carlisle United
-         Tranmere Rovers          -  Newport County
-         Walsall FC               -  Crewe Alexandra
+  12.30  Harrogate Town           1-2 (0-1)  Morecambe FC
+         Salford City             0-1 (0-0)  Carlisle United
+  15.00  Barrow AFC               1-1 (1-0)  Colchester United
+         AFC Wimbledon            0-1 (0-1)  Grimsby Town
+         Cheltenham Town          1-1 (0-0)  Bromley FC
+         Doncaster Rovers         1-1 (0-1)  Notts County
+         Chesterfield FC          0-3 (0-1)  Accrington Stanley
+         Gillingham FC            1-0 (0-0)  Port Vale FC
+         Fleetwood Town           1-0 (1-0)  Bradford City
+         Milton Keynes Dons       3-1 (1-1)  Swindon Town
+         Tranmere Rovers          2-1 (1-0)  Newport County
+         Walsall FC               1-1 (0-0)  Crewe Alexandra
 
 
 Matchday 16
 [Sat Nov/16]
-  15.00  Accrington Stanley       -  Swindon Town
-         Barrow AFC               -  AFC Wimbledon
-         Bromley FC               -  Carlisle United
-         Colchester United        -  Bradford City
-         Crewe Alexandra          -  Notts County
-         Doncaster Rovers         -  Salford City
-         Morecambe FC             -  Port Vale FC
-         Harrogate Town           -  Chesterfield FC
-         Milton Keynes Dons       -  Cheltenham Town
-         Newport County           -  Grimsby Town
-         Tranmere Rovers          -  Fleetwood Town
+  15.00  Accrington Stanley       2-2 (2-1)  Swindon Town
+         Barrow AFC               1-3 (1-1)  AFC Wimbledon
+         Bromley FC               1-1 (0-0)  Carlisle United
+         Colchester United        1-1 (0-1)  Bradford City
+         Crewe Alexandra          2-0 (1-0)  Notts County
+         Doncaster Rovers         1-1 (0-0)  Salford City
+         Morecambe FC             0-1 (0-0)  Port Vale FC
+         Harrogate Town           2-1 (0-0)  Chesterfield FC
+         Milton Keynes Dons       3-2 (1-2)  Cheltenham Town
+         Newport County           0-0  Grimsby Town
+[Tue Feb/11]
+  19.45  Tranmere Rovers          -  Fleetwood Town
          Walsall FC               -  Gillingham FC
 
 
 Matchday 17
+[Fri Nov/22]
+  19.45  Cheltenham Town          1-0 (0-0)  Tranmere Rovers
 [Sat Nov/23]
-  15.00  AFC Wimbledon            -  Walsall FC
-         Bradford City            -  Accrington Stanley
-         Carlisle United          -  Doncaster Rovers
-         Cheltenham Town          -  Tranmere Rovers
-         Chesterfield FC          -  Barrow AFC
-         Gillingham FC            -  Harrogate Town
-         Fleetwood Town           -  Milton Keynes Dons
-         Grimsby Town             -  Colchester United
-         Notts County             -  Newport County
-         Port Vale FC             -  Crewe Alexandra
-         Salford City             -  Bromley FC
-         Swindon Town             -  Morecambe FC
+  12.30  Grimsby Town             0-1 (0-0)  Colchester United
+         Notts County             0-0  Newport County
+  15.00  AFC Wimbledon            0-1 (0-0)  Walsall FC
+         Carlisle United          0-0  Doncaster Rovers
+         Chesterfield FC          1-0 (0-0)  Barrow AFC
+         Gillingham FC            1-2 (0-0)  Harrogate Town
+         Swindon Town             2-3 (1-2)  Morecambe FC
+[Mon Nov/25]
+  20.00  Port Vale FC             1-1 (1-0)  Crewe Alexandra
+[Tue Jan/21]
+  19.45  Fleetwood Town           -  Milton Keynes Dons
+[Tue Feb/4]
+  19.45  Salford City             -  Bromley FC
+[Tue Feb/11]
+  19.45  Bradford City            -  Accrington Stanley
 
 
 Matchday 18
+[Sat Nov/30]
+  12.30  Carlisle United          1-1 (1-0)  Crewe Alexandra
 [Tue Dec/3]
-  19.45  AFC Wimbledon            -  Newport County
-         Bradford City            -  Barrow AFC
-         Bromley FC               -  Gillingham FC
-         Carlisle United          -  Crewe Alexandra
-         Cheltenham Town          -  Port Vale FC
-         Colchester United        -  Swindon Town
-         Fleetwood Town           -  Doncaster Rovers
-         Grimsby Town             -  Accrington Stanley
-         Milton Keynes Dons       -  Chesterfield FC
-         Salford City             -  Harrogate Town
-         Tranmere Rovers          -  Morecambe FC
-         Walsall FC               -  Notts County
+  19.45  AFC Wimbledon            2-2 (2-1)  Newport County
+         Bradford City            1-1 (0-0)  Barrow AFC
+         Cheltenham Town          1-1 (0-0)  Port Vale FC
+         Colchester United        4-0 (4-0)  Swindon Town
+         Grimsby Town             5-2 (4-0)  Accrington Stanley
+         Milton Keynes Dons       3-0 (2-0)  Chesterfield FC
+         Salford City             2-0 (1-0)  Harrogate Town
+         Tranmere Rovers          2-2 (0-1)  Morecambe FC
+         Walsall FC               3-2 (0-0)  Notts County
+[Wed Dec/4]
+  19.45  Bromley FC               2-1 (0-0)  Gillingham FC
+         Fleetwood Town           2-4 (2-3)  Doncaster Rovers
 
 
 Matchday 19
 [Sat Dec/7]
-  15.00  Accrington Stanley       -  Bromley FC
-         Barrow AFC               -  Milton Keynes Dons
-         Crewe Alexandra          -  Bradford City
-         Doncaster Rovers         -  Cheltenham Town
-         Chesterfield FC          -  Tranmere Rovers
-         Gillingham FC            -  Salford City
-         Morecambe FC             -  Grimsby Town
-         Harrogate Town           -  AFC Wimbledon
+         Notts County             -  Colchester United        [postponed]
+  12.30  Crewe Alexandra          1-1 (0-0)  Bradford City
+         Port Vale FC             0-1 (0-0)  Walsall FC
+  15.00  Accrington Stanley       1-2 (1-1)  Bromley FC
+         Doncaster Rovers         2-2 (0-1)  Cheltenham Town
+         Chesterfield FC          3-0 (2-0)  Tranmere Rovers
+         Gillingham FC            1-0 (0-0)  Salford City
+         Morecambe FC             0-3 (0-2)  Grimsby Town
+         Harrogate Town           0-3 (0-2)  AFC Wimbledon
+         Swindon Town             3-1 (2-0)  Fleetwood Town
+[Tue Feb/11]
+  19.45  Barrow AFC               -  Milton Keynes Dons
          Newport County           -  Carlisle United
-         Notts County             -  Colchester United
-         Port Vale FC             -  Walsall FC
-         Swindon Town             -  Fleetwood Town
 
 
 Matchday 20
 [Sat Dec/14]
-  15.00  AFC Wimbledon            -  Doncaster Rovers
-         Bradford City            -  Swindon Town
-         Bromley FC               -  Port Vale FC
-         Carlisle United          -  Chesterfield FC
-         Cheltenham Town          -  Morecambe FC
-         Colchester United        -  Newport County
-         Fleetwood Town           -  Accrington Stanley
-         Grimsby Town             -  Crewe Alexandra
-         Milton Keynes Dons       -  Gillingham FC
-         Salford City             -  Notts County
-         Tranmere Rovers          -  Harrogate Town
-         Walsall FC               -  Barrow AFC
+  12.30  Salford City             3-0 (2-0)  Notts County
+         Tranmere Rovers          2-1 (1-1)  Harrogate Town
+  15.00  AFC Wimbledon            1-0 (1-0)  Doncaster Rovers
+         Bradford City            1-0 (1-0)  Swindon Town
+         Bromley FC               0-0  Port Vale FC
+         Carlisle United          0-2 (0-1)  Chesterfield FC
+         Cheltenham Town          2-0 (1-0)  Morecambe FC
+         Colchester United        0-0  Newport County
+         Grimsby Town             0-2 (0-0)  Crewe Alexandra
+         Milton Keynes Dons       0-1 (0-0)  Gillingham FC
+         Walsall FC               1-0 (1-0)  Barrow AFC
+[Mon Dec/16]
+  20.00  Fleetwood Town           1-1 (0-1)  Accrington Stanley
 
 
 Matchday 21
+[Fri Dec/20]
+  19.45  Crewe Alexandra          0-0  Colchester United
+         Gillingham FC            2-2 (1-1)  Cheltenham Town
 [Sat Dec/21]
-  15.00  Accrington Stanley       -  Salford City
-         Barrow AFC               -  Fleetwood Town
-         Crewe Alexandra          -  Colchester United
-         Doncaster Rovers         -  Tranmere Rovers
-         Chesterfield FC          -  AFC Wimbledon
-         Gillingham FC            -  Cheltenham Town
-         Morecambe FC             -  Bromley FC
-         Harrogate Town           -  Walsall FC
-         Newport County           -  Milton Keynes Dons
-         Notts County             -  Bradford City
-         Port Vale FC             -  Carlisle United
-         Swindon Town             -  Grimsby Town
+  12.30  Barrow AFC               2-0 (2-0)  Fleetwood Town
+         Doncaster Rovers         3-1 (1-0)  Tranmere Rovers
+  15.00  Accrington Stanley       0-2 (0-0)  Salford City
+         Chesterfield FC          1-0 (1-0)  AFC Wimbledon
+         Morecambe FC             0-2 (0-1)  Bromley FC
+         Harrogate Town           0-2 (0-1)  Walsall FC
+         Newport County           6-3 (4-1)  Milton Keynes Dons
+         Notts County             3-0 (3-0)  Bradford City
+         Port Vale FC             0-0  Carlisle United
+         Swindon Town             3-1 (2-0)  Grimsby Town
 
 
 Matchday 22
 [Thu Dec/26]
-  15.00  AFC Wimbledon            -  Swindon Town
-         Bradford City            -  Port Vale FC
-         Bromley FC               -  Newport County
-         Carlisle United          -  Morecambe FC
-         Cheltenham Town          -  Crewe Alexandra
-         Colchester United        -  Gillingham FC
-         Fleetwood Town           -  Chesterfield FC
-         Grimsby Town             -  Harrogate Town
-         Milton Keynes Dons       -  Notts County
-         Salford City             -  Barrow AFC
-         Tranmere Rovers          -  Accrington Stanley
-         Walsall FC               -  Doncaster Rovers
+         Tranmere Rovers          -  Accrington Stanley       [postponed]
+  15.00  AFC Wimbledon            1-1 (0-1)  Swindon Town
+         Bradford City            2-1 (1-0)  Port Vale FC
+         Bromley FC               5-2 (2-0)  Newport County
+         Carlisle United          0-1 (0-0)  Morecambe FC
+         Cheltenham Town          2-1 (0-0)  Crewe Alexandra
+         Colchester United        2-0 (1-0)  Gillingham FC
+         Fleetwood Town           2-0 (1-0)  Chesterfield FC
+         Grimsby Town             2-1 (0-0)  Harrogate Town
+         Milton Keynes Dons       0-2 (0-0)  Notts County
+         Salford City             3-0 (2-0)  Barrow AFC
+         Walsall FC               2-0 (0-0)  Doncaster Rovers
 
 
 Matchday 23
 [Sun Dec/29]
-  15.00  AFC Wimbledon            -  Gillingham FC
-         Bradford City            -  Chesterfield FC
-         Bromley FC               -  Swindon Town
-         Carlisle United          -  Accrington Stanley
-         Cheltenham Town          -  Notts County
-         Colchester United        -  Doncaster Rovers
-         Fleetwood Town           -  Harrogate Town
-         Grimsby Town             -  Port Vale FC
-         Milton Keynes Dons       -  Crewe Alexandra
-         Salford City             -  Morecambe FC
-         Tranmere Rovers          -  Barrow AFC
-         Walsall FC               -  Newport County
+  12.30  Bromley FC               1-1 (0-0)  Swindon Town
+         Carlisle United          2-1 (1-0)  Accrington Stanley
+  15.00  Bradford City            2-1 (1-1)  Chesterfield FC
+         Cheltenham Town          3-5 (1-2)  Notts County
+         Colchester United        1-1 (0-1)  Doncaster Rovers
+         Fleetwood Town           1-1 (1-1)  Harrogate Town
+         Grimsby Town             3-0 (1-0)  Port Vale FC
+         Milton Keynes Dons       1-1 (1-0)  Crewe Alexandra
+         Salford City             1-0 (0-0)  Morecambe FC
+         Tranmere Rovers          1-1 (1-1)  Barrow AFC
+         Walsall FC               2-0 (0-0)  Newport County
+[Mon Dec/30]
+  20.00  AFC Wimbledon            1-0 (0-0)  Gillingham FC
 
 
 Matchday 24
 [Wed Jan/1]
-  15.00  Accrington Stanley       -  Grimsby Town
-         Barrow AFC               -  Bradford City
-         Crewe Alexandra          -  Carlisle United
-         Doncaster Rovers         -  Fleetwood Town
-         Chesterfield FC          -  Milton Keynes Dons
-         Gillingham FC            -  Bromley FC
-         Morecambe FC             -  Tranmere Rovers
-         Harrogate Town           -  Salford City
+  15.00  Accrington Stanley       3-2 (1-2)  Grimsby Town
+         Barrow AFC               2-2 (1-1)  Bradford City
+         Crewe Alexandra          3-2 (1-1)  Carlisle United
+         Doncaster Rovers         2-1 (1-0)  Fleetwood Town
+         Chesterfield FC          1-2 (0-2)  Milton Keynes Dons
+         Morecambe FC             2-0 (0-0)  Tranmere Rovers
+         Harrogate Town           0-2 (0-1)  Salford City
+         Notts County             1-2 (1-0)  Walsall FC
+         Port Vale FC             0-0  Cheltenham Town
+         Swindon Town             3-2 (1-1)  Colchester United
+[Thu Jan/2]
+  19.45  Gillingham FC            -  Bromley FC
          Newport County           -  AFC Wimbledon
-         Notts County             -  Walsall FC
-         Port Vale FC             -  Cheltenham Town
-         Swindon Town             -  Colchester United
 
 
 Matchday 25
 [Sat Jan/4]
+  12.30  Cheltenham Town          -  Walsall FC
+         Notts County             -  Swindon Town
+  13.00  Bradford City            -  Grimsby Town
   15.00  Barrow AFC               -  Harrogate Town
-         Bradford City            -  Grimsby Town
-         Cheltenham Town          -  Walsall FC
          Colchester United        -  Accrington Stanley
-         Crewe Alexandra          -  Bromley FC
          Doncaster Rovers         -  Port Vale FC
+         Milton Keynes Dons       -  Salford City
+         Tranmere Rovers          -  Carlisle United
+[Sun Jan/5]
+  15.00  Crewe Alexandra          -  Bromley FC
          Chesterfield FC          -  Gillingham FC
          Fleetwood Town           -  AFC Wimbledon
-         Milton Keynes Dons       -  Salford City
          Newport County           -  Morecambe FC
-         Notts County             -  Swindon Town
-         Tranmere Rovers          -  Carlisle United
 
 
 Matchday 26
 [Sat Jan/11]
+  12.30  Grimsby Town             -  Notts County
+         Salford City             -  Chesterfield FC
+         Walsall FC               -  Tranmere Rovers
   15.00  Accrington Stanley       -  Newport County
          AFC Wimbledon            -  Cheltenham Town
          Bromley FC               -  Bradford City
          Carlisle United          -  Milton Keynes Dons
          Gillingham FC            -  Fleetwood Town
          Morecambe FC             -  Doncaster Rovers
-         Grimsby Town             -  Notts County
-         Harrogate Town           -  Colchester United
          Port Vale FC             -  Barrow AFC
-         Salford City             -  Chesterfield FC
          Swindon Town             -  Crewe Alexandra
-         Walsall FC               -  Tranmere Rovers
+[Tue Jan/21]
+  19.45  Harrogate Town           -  Colchester United
 
 
 Matchday 27
+[Fri Jan/17]
+  19.45  Harrogate Town           -  Cheltenham Town
 [Sat Jan/18]
+  12.30  Carlisle United          -  Bradford City
+         Gillingham FC            -  Doncaster Rovers
   15.00  Accrington Stanley       -  Notts County
          AFC Wimbledon            -  Tranmere Rovers
          Bromley FC               -  Colchester United
-         Carlisle United          -  Bradford City
-         Gillingham FC            -  Doncaster Rovers
          Morecambe FC             -  Crewe Alexandra
          Grimsby Town             -  Chesterfield FC
-         Harrogate Town           -  Cheltenham Town
          Port Vale FC             -  Newport County
          Salford City             -  Fleetwood Town
          Swindon Town             -  Barrow AFC
@@ -452,17 +470,18 @@ Matchday 27
 
 
 Matchday 28
+[Fri Jan/24]
+  19.45  Newport County           -  Swindon Town
 [Sat Jan/25]
+  12.30  Bradford City            -  Walsall FC
+         Milton Keynes Dons       -  AFC Wimbledon
   15.00  Barrow AFC               -  Grimsby Town
-         Bradford City            -  Walsall FC
          Cheltenham Town          -  Salford City
          Colchester United        -  Morecambe FC
          Crewe Alexandra          -  Accrington Stanley
          Doncaster Rovers         -  Harrogate Town
          Chesterfield FC          -  Port Vale FC
          Fleetwood Town           -  Carlisle United
-         Milton Keynes Dons       -  AFC Wimbledon
-         Newport County           -  Swindon Town
          Notts County             -  Bromley FC
          Tranmere Rovers          -  Gillingham FC
 
