@@ -227,7 +227,6 @@ Matchday 14
 
 Matchday 15
 [Sat Dec/7]
-         Everton FC               -  Liverpool FC             [postponed]
   15.00  Aston Villa FC           1-0 (1-0)  Southampton FC
          Brentford FC             4-2 (2-2)  Newcastle United FC
          Crystal Palace FC        2-2 (1-1)  Manchester City FC
@@ -321,26 +320,26 @@ Matchday 20
 
 Matchday 21
 [Tue Jan/14]
-  19.30  West Ham United FC       -  Fulham FC
-         Brentford FC             -  Manchester City FC
-         Chelsea FC               -  AFC Bournemouth
-  20.00  Nottingham Forest FC     -  Liverpool FC
+  19.30  West Ham United FC       3-2 (2-0)  Fulham FC
+         Brentford FC             2-2 (0-0)  Manchester City FC
+         Chelsea FC               2-2 (1-0)  AFC Bournemouth
+  20.00  Nottingham Forest FC     1-1 (1-0)  Liverpool FC
 [Wed Jan/15]
-  19.30  Everton FC               -  Aston Villa FC
-         Leicester City FC        -  Crystal Palace FC
-         Newcastle United FC      -  Wolverhampton Wanderers FC
-  20.00  Arsenal FC               -  Tottenham Hotspur FC
+  19.30  Everton FC               0-1 (0-0)  Aston Villa FC
+         Leicester City FC        0-2 (0-0)  Crystal Palace FC
+         Newcastle United FC      3-0 (1-0)  Wolverhampton Wanderers FC
+  20.00  Arsenal FC               2-1 (2-1)  Tottenham Hotspur FC
 [Thu Jan/16]
-  19.30  Ipswich Town FC          -  Brighton & Hove Albion FC
-  20.00  Manchester United FC     -  Southampton FC
+  19.30  Ipswich Town FC          0-2 (0-0)  Brighton & Hove Albion FC
+  20.00  Manchester United FC     3-1 (0-1)  Southampton FC
 
 
 Matchday 22
 [Sat Jan/18]
-  12.30  Newcastle United FC      -  AFC Bournemouth
-  15.00  West Ham United FC       -  Crystal Palace FC
-         Leicester City FC        -  Fulham FC
-         Brentford FC             -  Liverpool FC
+  12.30  Newcastle United FC      1-4 (1-2)  AFC Bournemouth
+  15.00  West Ham United FC       0-2 (0-0)  Crystal Palace FC
+         Leicester City FC        0-2 (0-0)  Fulham FC
+         Brentford FC             0-2 (0-0)  Liverpool FC
   17.30  Arsenal FC               -  Aston Villa FC
 [Sun Jan/19]
   14.00  Manchester United FC     -  Brighton & Hove Albion FC
@@ -380,6 +379,11 @@ Matchday 24
   16.30  Arsenal FC               -  Manchester City FC
 [Mon Feb/3]
   20.00  Chelsea FC               -  West Ham United FC
+
+
+Matchday 15
+[Wed Feb/12]
+  19.30  Everton FC               -  Liverpool FC
 
 
 Matchday 25
