@@ -189,7 +189,7 @@ Matchday 11
          Wigan Athletic           2-1 (2-0)  Northampton Town
          Wrexham AFC              1-0 (0-0)  Lincoln City
 [Tue Jan/14]
-  19.45  Exeter City              -  Mansfield Town
+         Exeter City              -  Mansfield Town           [postponed]
 [Tue Feb/11]
   19.45  Birmingham City          -  Cambridge United
 
@@ -263,22 +263,23 @@ Matchday 15
 
 Matchday 16
 [Sat Nov/16]
-         Birmingham City          -  Stevenage FC             [postponed]
-         Leyton Orient            -  Mansfield Town           [postponed]
   12.30  Exeter City              0-0  Lincoln City
   15.00  Blackpool FC             0-0  Northampton Town
          Bristol Rovers           0-0  Crawley Town
          Cambridge United         1-1 (1-1)  Barnsley FC
          Stockport County         1-0 (1-0)  Wrexham AFC
 [Tue Jan/7]
-  19.45  Wycombe Wanderers        -  Huddersfield Town
+  19.45  Wycombe Wanderers        0-1 (0-1)  Huddersfield Town
 [Sat Jan/11]
-  12.30  Rotherham United         -  Bolton Wanderers
+  12.30  Rotherham United         3-1 (2-0)  Bolton Wanderers
 [Tue Jan/21]
-  19.45  Wigan Athletic           -  Burton Albion
+  19.45  Wigan Athletic           1-2 (1-1)  Burton Albion
 [Tue Feb/11]
   19.45  Charlton Athletic        -  Peterborough United
+         Leyton Orient            -  Mansfield Town
   20.00  Reading FC               -  Shrewsbury Town
+[Tue Mar/11]
+  19.45  Birmingham City          -  Stevenage FC
 
 
 Matchday 17
@@ -316,8 +317,6 @@ Matchday 18
 
 Matchday 19
 [Sat Dec/7]
-         Blackpool FC             -  Rotherham United         [postponed]
-         Bristol Rovers           -  Bolton Wanderers         [postponed]
   12.30  Lincoln City             0-0  Charlton Athletic
          Wigan Athletic           0-2 (0-1)  Leyton Orient
   15.00  Barnsley FC              1-2 (0-0)  Birmingham City
@@ -329,7 +328,10 @@ Matchday 19
 [Mon Dec/9]
   20.00  Northampton Town         2-1 (1-1)  Peterborough United
 [Tue Feb/11]
-  19.45  Crawley Town             -  Stevenage FC
+  19.45  Blackpool FC             -  Rotherham United
+         Crawley Town             -  Stevenage FC
+[Tue Mar/11]
+  19.45  Bristol Rovers           -  Bolton Wanderers
 
 
 Matchday 20
@@ -401,7 +403,6 @@ Matchday 23
 Matchday 24
 [Wed Jan/1]
          Crawley Town             -  Charlton Athletic        [postponed]
-         Wigan Athletic           -  Huddersfield Town        [postponed]
   15.00  Barnsley FC              2-1 (2-0)  Wrexham AFC
          Blackpool FC             1-1 (0-0)  Shrewsbury Town
          Bristol Rovers           2-3 (1-2)  Leyton Orient
@@ -412,56 +413,61 @@ Matchday 24
          Northampton Town         0-0  Stevenage FC
          Stockport County         1-1 (0-1)  Birmingham City
          Wycombe Wanderers        2-1 (0-0)  Exeter City
+[Tue Feb/25]
+  19.45  Wigan Athletic           -  Huddersfield Town
 
 
 Matchday 25
 [Sat Jan/4]
-  12.30  Burton Albion            -  Northampton Town
-         Cambridge United         -  Bristol Rovers
-  15.00  Barnsley FC              -  Crawley Town
-         Charlton Athletic        -  Reading FC
-         Exeter City              -  Bolton Wanderers
-         Huddersfield Town        -  Rotherham United
-         Leyton Orient            -  Shrewsbury Town
-         Lincoln City             -  Stevenage FC
-         Stockport County         -  Mansfield Town
-         Wigan Athletic           -  Birmingham City
-         Wrexham AFC              -  Peterborough United
-         Wycombe Wanderers        -  Blackpool FC
+  12.30  Burton Albion            0-1 (0-0)  Northampton Town
+         Cambridge United         0-1 (0-1)  Bristol Rovers
+  15.00  Barnsley FC              3-0 (1-0)  Crawley Town
+         Charlton Athletic        0-0  Reading FC
+         Exeter City              1-2 (0-0)  Bolton Wanderers
+         Huddersfield Town        0-0  Rotherham United
+         Leyton Orient            1-0 (0-0)  Shrewsbury Town
+         Lincoln City             0-0  Stevenage FC
+         Stockport County         1-2 (1-2)  Mansfield Town
+         Wigan Athletic           0-3 (0-2)  Birmingham City
+         Wrexham AFC              1-0 (0-0)  Peterborough United
+         Wycombe Wanderers        1-1 (1-0)  Blackpool FC
 
 
 Matchday 26
 [Sat Jan/11]
-         Birmingham City          -  Leyton Orient            [postponed]
-         Bristol Rovers           -  Stockport County         [postponed]
-         Crawley Town             -  Wigan Athletic           [postponed]
-         Mansfield Town           -  Lincoln City             [postponed]
+         Blackpool FC             -  Cambridge United         [postponed]
+         Northampton Town         -  Barnsley FC              [postponed]
          Reading FC               -  Wrexham AFC              [postponed]
          Rotherham United         -  Wycombe Wanderers        [postponed]
-  15.00  Blackpool FC             -  Cambridge United
-         Northampton Town         -  Barnsley FC
-         Shrewsbury Town          -  Huddersfield Town
-         Stevenage FC             -  Burton Albion
+         Shrewsbury Town          -  Huddersfield Town        [postponed]
+         Stevenage FC             -  Burton Albion            [postponed]
 [Tue Jan/21]
-  19.45  Bolton Wanderers         -  Charlton Athletic
-         Peterborough United      -  Exeter City
+  19.45  Bolton Wanderers         1-2 (0-0)  Charlton Athletic
+         Peterborough United      1-1 (1-0)  Exeter City
+[Tue Feb/11]
+  19.45  Bristol Rovers           -  Stockport County
+[Tue Feb/18]
+  19.45  Crawley Town             -  Wigan Athletic
+         Mansfield Town           -  Lincoln City
+[Tue Feb/25]
+  19.45  Birmingham City          -  Leyton Orient
 
 
 Matchday 27
 [Thu Jan/16]
-  20.00  Shrewsbury Town          -  Wrexham AFC
+  20.00  Shrewsbury Town          2-1 (1-1)  Wrexham AFC
 [Sat Jan/18]
-  12.30  Blackpool FC             -  Huddersfield Town
-         Peterborough United      -  Leyton Orient
-  14.00  Northampton Town         -  Lincoln City
-  15.00  Birmingham City          -  Exeter City
-         Bolton Wanderers         -  Cambridge United
-         Bristol Rovers           -  Barnsley FC
-         Crawley Town             -  Burton Albion
-         Mansfield Town           -  Wycombe Wanderers
-         Reading FC               -  Stockport County
-         Rotherham United         -  Charlton Athletic
-         Stevenage FC             -  Wigan Athletic
+  12.30  Blackpool FC             2-2 (2-0)  Huddersfield Town
+         Peterborough United      0-0  Leyton Orient
+  14.00  Northampton Town         0-1 (0-1)  Lincoln City
+  15.00  Birmingham City          1-0 (1-0)  Exeter City
+         Bolton Wanderers         2-2 (1-2)  Cambridge United
+         Bristol Rovers           3-1 (1-0)  Barnsley FC
+         Crawley Town             1-1 (0-1)  Burton Albion
+         Mansfield Town           1-2 (0-0)  Wycombe Wanderers
+         Reading FC               1-3 (0-2)  Stockport County
+         Rotherham United         4-2 (3-1)  Charlton Athletic
+         Stevenage FC             1-2 (0-0)  Wigan Athletic
 
 
 Matchday 28
