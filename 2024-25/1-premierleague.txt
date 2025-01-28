@@ -352,17 +352,17 @@ Matchday 22
 
 Matchday 23
 [Sat Jan/25]
-  15.00  Liverpool FC             -  Ipswich Town FC
-         Wolverhampton Wanderers FC  -  Arsenal FC
-         Brighton & Hove Albion FC  -  Everton FC
-         Southampton FC           -  Newcastle United FC
-         AFC Bournemouth          -  Nottingham Forest FC
-  17.30  Manchester City FC       -  Chelsea FC
+  15.00  Liverpool FC             4-1 (3-0)  Ipswich Town FC
+         Wolverhampton Wanderers FC  0-1 (0-0)  Arsenal FC
+         Brighton & Hove Albion FC  0-1 (0-1)  Everton FC
+         Southampton FC           1-3 (1-2)  Newcastle United FC
+         AFC Bournemouth          5-0 (1-0)  Nottingham Forest FC
+  17.30  Manchester City FC       3-1 (1-1)  Chelsea FC
 [Sun Jan/26]
-  14.00  Crystal Palace FC        -  Brentford FC
-         Tottenham Hotspur FC     -  Leicester City FC
-  16.30  Aston Villa FC           -  West Ham United FC
-  19.00  Fulham FC                -  Manchester United FC
+  14.00  Crystal Palace FC        1-2 (0-0)  Brentford FC
+         Tottenham Hotspur FC     1-2 (1-0)  Leicester City FC
+  16.30  Aston Villa FC           1-1 (1-0)  West Ham United FC
+  19.00  Fulham FC                0-1 (0-0)  Manchester United FC
 
 
 Matchday 24
@@ -420,17 +420,18 @@ Matchday 26
 
 Matchday 27
 [Tue Feb/25]
-  19.45  Brighton & Hove Albion FC  -  AFC Bournemouth
-         Nottingham Forest FC     -  Arsenal FC
-         Brentford FC             -  Everton FC
+  19.30  Brighton & Hove Albion FC  -  AFC Bournemouth
+         Crystal Palace FC        -  Aston Villa FC
          Wolverhampton Wanderers FC  -  Fulham FC
-         Tottenham Hotspur FC     -  Manchester City FC
-         West Ham United FC       -  Leicester City FC
-  20.00  Crystal Palace FC        -  Aston Villa FC
+  20.15  Chelsea FC               -  Southampton FC
 [Wed Feb/26]
-  19.45  Chelsea FC               -  Southampton FC
-  20.00  Manchester United FC     -  Ipswich Town FC
-         Liverpool FC             -  Newcastle United FC
+  19.30  Nottingham Forest FC     -  Arsenal FC
+         Brentford FC             -  Everton FC
+         Tottenham Hotspur FC     -  Manchester City FC
+         Manchester United FC     -  Ipswich Town FC
+  20.15  Liverpool FC             -  Newcastle United FC
+[Thu Feb/27]
+  20.00  West Ham United FC       -  Leicester City FC
 
 
 Matchday 28
