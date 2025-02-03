@@ -527,23 +527,23 @@ Matchday 29
 
 Matchday 17
 [Tue Jan/28]
-  19.45  Portsmouth FC            -  Millwall FC
+  19.45  Portsmouth FC            0-1 (0-1)  Millwall FC
 
 
 Matchday 30
 [Fri Jan/31]
-  20.00  Blackburn Rovers FC      -  Preston North End FC
+  20.00  Blackburn Rovers FC      2-1 (1-0)  Preston North End FC
 [Sat Feb/1]
-  12.30  Oxford United FC         -  Bristol City FC
-         Plymouth Argyle FC       -  West Bromwich Albion FC
-         Watford FC               -  Norwich City FC
-  15.00  Derby County FC          -  Sheffield United FC
-         Hull City AFC            -  Stoke City FC
-         Leeds United FC          -  Cardiff City FC
-         Millwall FC              -  Queens Park Rangers FC
-         Portsmouth FC            -  Burnley FC
-         Sheffield Wednesday FC   -  Luton Town FC
-         Swansea City AFC         -  Coventry City FC
+  12.30  Oxford United FC         1-1 (0-0)  Bristol City FC
+         Plymouth Argyle FC       2-1 (0-0)  West Bromwich Albion FC
+         Watford FC               0-1 (0-1)  Norwich City FC
+  15.00  Derby County FC          0-1 (0-0)  Sheffield United FC
+         Hull City AFC            1-2 (1-1)  Stoke City FC
+         Leeds United FC          7-0 (2-0)  Cardiff City FC
+         Millwall FC              2-1 (2-1)  Queens Park Rangers FC
+         Portsmouth FC            0-0  Burnley FC
+         Sheffield Wednesday FC   1-1 (0-1)  Luton Town FC
+         Swansea City AFC         0-2 (0-2)  Coventry City FC
 [Mon Feb/3]
   20.00  Middlesbrough FC         -  Sunderland AFC
 
@@ -554,11 +554,8 @@ Matchday 31
          Queens Park Rangers FC   -  Blackburn Rovers FC
 [Wed Feb/5]
   19.45  Coventry City FC         -  Leeds United FC
-[Fri Feb/7]
-         Stoke City FC            -  Middlesbrough FC         [postponed]
 [Sat Feb/8]
          Cardiff City FC          -  Hull City AFC            [postponed]
-         Luton Town FC            -  Plymouth Argyle FC       [postponed]
   12.30  Sunderland AFC           -  Watford FC
          West Bromwich Albion FC  -  Sheffield Wednesday FC
   15.00  Norwich City FC          -  Derby County FC
@@ -605,6 +602,8 @@ Matchday 33
 Matchday 31
 [Tue Feb/18]
   19.45  Preston North End FC     -  Millwall FC
+[Wed Feb/19]
+  19.45  Luton Town FC            -  Plymouth Argyle FC
 
 
 Matchday 34
@@ -626,19 +625,25 @@ Matchday 34
   20.00  Sheffield United FC      -  Leeds United FC
 
 
+Matchday 31
+[Tue Feb/25]
+  19.45  Stoke City FC            -  Middlesbrough FC
+
+
 Matchday 35
+[Fri Feb/28]
+  20.00  Sheffield Wednesday FC   -  Sunderland AFC
 [Sat Mar/1]
-  15.00  Blackburn Rovers FC      -  Norwich City FC
-         Cardiff City FC          -  Burnley FC
-         Hull City AFC            -  Plymouth Argyle FC
+  12.30  Blackburn Rovers FC      -  Norwich City FC
          Leeds United FC          -  West Bromwich Albion FC
+         Oxford United FC         -  Coventry City FC
+  15.00  Cardiff City FC          -  Burnley FC
+         Hull City AFC            -  Plymouth Argyle FC
          Luton Town FC            -  Portsmouth FC
          Middlesbrough FC         -  Derby County FC
          Millwall FC              -  Bristol City FC
-         Oxford United FC         -  Coventry City FC
          Preston North End FC     -  Swansea City AFC
          Queens Park Rangers FC   -  Sheffield United FC
-         Sheffield Wednesday FC   -  Sunderland AFC
          Stoke City FC            -  Watford FC
 
 
