@@ -378,7 +378,7 @@ Matchday 24
          Brentford FC             0-2 (0-1)  Tottenham Hotspur FC
   16.30  Arsenal FC               5-1 (1-0)  Manchester City FC
 [Mon Feb/3]
-  20.00  Chelsea FC               -  West Ham United FC
+  20.00  Chelsea FC               2-1 (0-1)  West Ham United FC
 
 
 Matchday 15
@@ -454,7 +454,6 @@ Matchday 29
 [Sat Mar/15]
   12.30  Aston Villa FC           -  Liverpool FC
   15.00  Everton FC               -  West Ham United FC
-         Fulham FC                -  Tottenham Hotspur FC
          Ipswich Town FC          -  Nottingham Forest FC
          Manchester City FC       -  Brighton & Hove Albion FC
          Newcastle United FC      -  Crystal Palace FC
@@ -462,6 +461,7 @@ Matchday 29
   17.30  AFC Bournemouth          -  Brentford FC
 [Sun Mar/16]
          Arsenal FC               -  Chelsea FC
+         Fulham FC                -  Tottenham Hotspur FC
   19.00  Leicester City FC        -  Manchester United FC
 
 
