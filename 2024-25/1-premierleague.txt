@@ -383,23 +383,28 @@ Matchday 24
 
 Matchday 15
 [Wed Feb/12]
-  19.30  Everton FC               -  Liverpool FC
+  19.30  Everton FC               2-2 (1-1)  Liverpool FC
 
 
 Matchday 25
 [Fri Feb/14]
-  20.00  Brighton & Hove Albion FC  -  Chelsea FC
+  20.00  Brighton & Hove Albion FC  3-0 (2-0)  Chelsea FC
 [Sat Feb/15]
-  12.30  Leicester City FC        -  Arsenal FC
-  15.00  Southampton FC           -  AFC Bournemouth
-         West Ham United FC       -  Brentford FC
-         Aston Villa FC           -  Ipswich Town FC
-         Manchester City FC       -  Newcastle United FC
-         Fulham FC                -  Nottingham Forest FC
-  17.30  Crystal Palace FC        -  Everton FC
+  12.30  Leicester City FC        0-2 (0-0)  Arsenal FC
+  15.00  Southampton FC           1-3 (0-2)  AFC Bournemouth
+         West Ham United FC       0-1 (0-1)  Brentford FC
+         Aston Villa FC           1-1 (0-0)  Ipswich Town FC
+         Manchester City FC       4-0 (3-0)  Newcastle United FC
+         Fulham FC                2-1 (1-1)  Nottingham Forest FC
+  17.30  Crystal Palace FC        1-2 (0-1)  Everton FC
 [Sun Feb/16]
-  14.00  Liverpool FC             -  Wolverhampton Wanderers FC
-  16.30  Tottenham Hotspur FC     -  Manchester United FC
+  14.00  Liverpool FC             2-1 (2-0)  Wolverhampton Wanderers FC
+  16.30  Tottenham Hotspur FC     1-0 (1-0)  Manchester United FC
+
+
+Matchday 29
+[Wed Feb/19]
+  19.30  Aston Villa FC           -  Liverpool FC
 
 
 Matchday 26
@@ -452,15 +457,13 @@ Matchday 28
 
 Matchday 29
 [Sat Mar/15]
-  12.30  Aston Villa FC           -  Liverpool FC
   15.00  Everton FC               -  West Ham United FC
          Ipswich Town FC          -  Nottingham Forest FC
          Manchester City FC       -  Brighton & Hove Albion FC
-         Newcastle United FC      -  Crystal Palace FC
          Southampton FC           -  Wolverhampton Wanderers FC
   17.30  AFC Bournemouth          -  Brentford FC
 [Sun Mar/16]
-         Arsenal FC               -  Chelsea FC
+  13.30  Arsenal FC               -  Chelsea FC
          Fulham FC                -  Tottenham Hotspur FC
   19.00  Leicester City FC        -  Manchester United FC
 
@@ -506,6 +509,11 @@ Matchday 32
          Nottingham Forest FC     -  Everton FC
          Southampton FC           -  Aston Villa FC
          Wolverhampton Wanderers FC  -  Tottenham Hotspur FC
+
+
+Matchday 29
+[Wed Apr/16]
+  19.30  Newcastle United FC      -  Crystal Palace FC
 
 
 Matchday 33
