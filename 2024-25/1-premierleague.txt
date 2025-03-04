@@ -425,18 +425,18 @@ Matchday 26
 
 Matchday 27
 [Tue Feb/25]
-  19.30  Brighton & Hove Albion FC  -  AFC Bournemouth
-         Crystal Palace FC        -  Aston Villa FC
-         Wolverhampton Wanderers FC  -  Fulham FC
-  20.15  Chelsea FC               -  Southampton FC
+  19.30  Brighton & Hove Albion FC  2-1 (1-0)  AFC Bournemouth
+         Crystal Palace FC        4-1 (1-0)  Aston Villa FC
+         Wolverhampton Wanderers FC  1-2 (1-1)  Fulham FC
+  20.15  Chelsea FC               4-0 (3-0)  Southampton FC
 [Wed Feb/26]
-  19.30  Nottingham Forest FC     -  Arsenal FC
-         Brentford FC             -  Everton FC
-         Tottenham Hotspur FC     -  Manchester City FC
-         Manchester United FC     -  Ipswich Town FC
-  20.15  Liverpool FC             -  Newcastle United FC
+  19.30  Nottingham Forest FC     0-0  Arsenal FC
+         Brentford FC             1-1 (1-0)  Everton FC
+         Tottenham Hotspur FC     0-1 (0-1)  Manchester City FC
+         Manchester United FC     3-2 (2-2)  Ipswich Town FC
+  20.15  Liverpool FC             2-0 (1-0)  Newcastle United FC
 [Thu Feb/27]
-  20.00  West Ham United FC       -  Leicester City FC
+  20.00  West Ham United FC       2-0 (2-0)  Leicester City FC
 
 
 Matchday 28
@@ -485,7 +485,7 @@ Matchday 30
 
 Matchday 31
 [Sat Apr/5]
-         Aston Villa FC           -  Nottingham Forest FC
+  01.00  Aston Villa FC           -  Nottingham Forest FC
          Brentford FC             -  Chelsea FC
          Crystal Palace FC        -  Brighton & Hove Albion FC
          Everton FC               -  Arsenal FC
@@ -499,7 +499,7 @@ Matchday 31
 
 Matchday 32
 [Sat Apr/12]
-         AFC Bournemouth          -  Fulham FC
+  01.00  AFC Bournemouth          -  Fulham FC
          Arsenal FC               -  Brentford FC
          Brighton & Hove Albion FC  -  Leicester City FC
          Chelsea FC               -  Ipswich Town FC
@@ -518,7 +518,7 @@ Matchday 29
 
 Matchday 33
 [Sat Apr/19]
-         Aston Villa FC           -  Newcastle United FC
+  01.00  Aston Villa FC           -  Newcastle United FC
          Brentford FC             -  Brighton & Hove Albion FC
          Crystal Palace FC        -  AFC Bournemouth
          Everton FC               -  Manchester City FC
@@ -532,7 +532,7 @@ Matchday 33
 
 Matchday 34
 [Sat Apr/26]
-         AFC Bournemouth          -  Manchester United FC
+  01.00  AFC Bournemouth          -  Manchester United FC
          Arsenal FC               -  Crystal Palace FC
          Brighton & Hove Albion FC  -  West Ham United FC
          Chelsea FC               -  Everton FC
