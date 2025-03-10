@@ -642,28 +642,28 @@ Matchday 35
          Queens Park Rangers FC   1-2 (0-1)  Sheffield United FC
          Stoke City FC            0-0  Watford FC
 [Tue Mar/4]
-  19.45  Cardiff City FC          -  Burnley FC
-         Hull City AFC            -  Plymouth Argyle FC
-         Millwall FC              -  Bristol City FC
-         Preston North End FC     -  Swansea City AFC
+  19.45  Cardiff City FC          1-2 (1-2)  Burnley FC
+         Hull City AFC            2-0 (0-0)  Plymouth Argyle FC
+         Millwall FC              0-2 (0-0)  Bristol City FC
+         Preston North End FC     0-0  Swansea City AFC
 
 
 Matchday 36
 [Fri Mar/7]
-  20.00  Norwich City FC          -  Oxford United FC
+  20.00  Norwich City FC          1-1 (1-1)  Oxford United FC
 [Sat Mar/8]
-  12.30  Coventry City FC         -  Stoke City FC
-         Watford FC               -  Millwall FC
-  15.00  Bristol City FC          -  Hull City AFC
-         Burnley FC               -  Luton Town FC
-         Derby County FC          -  Blackburn Rovers FC
-         Plymouth Argyle FC       -  Sheffield Wednesday FC
-         Sheffield United FC      -  Preston North End FC
-         Sunderland AFC           -  Cardiff City FC
-         Swansea City AFC         -  Middlesbrough FC
-         West Bromwich Albion FC  -  Queens Park Rangers FC
+  12.30  Coventry City FC         3-2 (2-0)  Stoke City FC
+         Watford FC               1-2 (1-0)  Millwall FC
+  15.00  Bristol City FC          1-1 (0-1)  Hull City AFC
+         Burnley FC               4-0 (2-0)  Luton Town FC
+         Derby County FC          2-1 (2-1)  Blackburn Rovers FC
+         Plymouth Argyle FC       0-3 (0-2)  Sheffield Wednesday FC
+         Sheffield United FC      1-0 (0-0)  Preston North End FC
+         Sunderland AFC           2-1 (1-1)  Cardiff City FC
+         Swansea City AFC         1-0 (1-0)  Middlesbrough FC
+         West Bromwich Albion FC  1-0 (1-0)  Queens Park Rangers FC
 [Sun Mar/9]
-  12.00  Portsmouth FC            -  Leeds United FC
+  12.00  Portsmouth FC            1-0 (0-0)  Leeds United FC
 
 
 Matchday 37
@@ -702,18 +702,19 @@ Matchday 38
 
 
 Matchday 39
+[Fri Mar/28]
+  20.00  Sheffield United FC      -  Coventry City FC
 [Sat Mar/29]
-  15.00  Sunderland AFC           -  Millwall FC
-         Cardiff City FC          -  Sheffield Wednesday FC
-         Derby County FC          -  Preston North End FC
-         Burnley FC               -  Bristol City FC
-         Middlesbrough FC         -  Oxford United FC
+  12.30  Derby County FC          -  Preston North End FC
          Watford FC               -  Plymouth Argyle FC
          Hull City AFC            -  Luton Town FC
+  15.00  Sunderland AFC           -  Millwall FC
+         Cardiff City FC          -  Sheffield Wednesday FC
+         Burnley FC               -  Bristol City FC
+         Middlesbrough FC         -  Oxford United FC
          Leeds United FC          -  Swansea City AFC
          Norwich City FC          -  West Bromwich Albion FC
          Portsmouth FC            -  Blackburn Rovers FC
-         Sheffield United FC      -  Coventry City FC
          Stoke City FC            -  Queens Park Rangers FC
 
 
