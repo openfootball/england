@@ -6,764 +6,779 @@
 
 
 
-Matchday 1
-[Sat Aug/10]
-  15.00  AFC Fylde                3-2 (1-2)  Solihull Moors
-         Aldershot Town           3-3 (2-1)  Forest Green Rovers
-         Altrincham FC            1-0 (1-0)  Woking FC
-         Boston United            0-3 (0-2)  Rochdale AFC
-         Dagenham & Redbridge     2-1 (0-0)  Wealdstone FC
-         Halifax Town             2-1 (0-0)  Barnet FC
-         Gateshead FC             5-1 (3-0)  Ebbsfleet United
-         Maidenhead United        0-2 (0-2)  Eastleigh FC
-         Oldham Athletic          3-0 (2-0)  Braintree Town
-         Southend United          1-1 (1-0)  York City
-         Tamworth FC              1-1 (0-0)  Sutton United
-         Yeovil Town              0-1 (0-0)  Hartlepool United
-
-
-Matchday 2
-[Sat Aug/17]
-  15.00  Boston United            0-4 (0-3)  Forest Green Rovers
-         Braintree Town           0-1 (0-0)  Yeovil Town
-         Eastleigh FC             4-2 (1-2)  AFC Fylde
-         Ebbsfleet United         1-2 (0-1)  Barnet FC
-         Halifax Town             0-1 (0-1)  Aldershot Town
-         Hartlepool United        0-0  Southend United
-         Rochdale AFC             1-1 (0-0)  Dagenham & Redbridge
-         Solihull Moors           2-1 (0-0)  Maidenhead United
-         Sutton United            5-0 (4-0)  Altrincham FC
-         Wealdstone FC            0-1 (0-0)  Oldham Athletic
-         Woking FC                0-2 (0-1)  Gateshead FC
-         York City                2-0 (0-0)  Tamworth FC
-
-
-Matchday 3
-[Tue Aug/20]
-  19.45  Barnet FC                1-0 (0-0)  Forest Green Rovers
-         Braintree Town           2-1 (0-1)  Aldershot Town
-         Eastleigh FC             2-1 (2-0)  Solihull Moors
-         Halifax Town             1-1 (0-0)  Gateshead FC
-         Maidenhead United        0-1 (0-1)  Altrincham FC
-         Oldham Athletic          1-1 (0-1)  AFC Fylde
-         Southend United          2-0 (1-0)  Boston United
-         Tamworth FC              0-1 (0-0)  Hartlepool United
-         Wealdstone FC            0-1 (0-1)  Sutton United
-         Woking FC                1-0 (0-0)  Dagenham & Redbridge
-         Yeovil Town              3-2 (2-0)  Ebbsfleet United
-         York City                1-0 (1-0)  Rochdale AFC
-
-
-Matchday 4
-[Fri Aug/23]
-  19.45  Dagenham & Redbridge     1-1 (1-0)  Halifax Town
-[Sat Aug/24]
-  12.30  Gateshead FC             3-1 (2-1)  Yeovil Town
-  15.00  AFC Fylde                0-0  Maidenhead United
-         Aldershot Town           4-1 (1-0)  Oldham Athletic
-         Altrincham FC            0-1 (0-0)  Eastleigh FC
-         Barnet FC                2-1 (1-0)  Southend United
-         Boston United            1-1 (1-0)  Tamworth FC
-         Ebbsfleet United         0-3 (0-1)  Woking FC
-         Hartlepool United        1-1 (0-1)  Wealdstone FC
-         Rochdale AFC             0-0  Forest Green Rovers
-         Solihull Moors           1-1 (0-1)  Braintree Town
-         Sutton United            2-2 (0-0)  York City
-
-
-Matchday 5
-[Mon Aug/26]
-  15.00  Braintree Town           0-0  Ebbsfleet United
-         Eastleigh FC             1-1 (1-1)  Sutton United
-         Halifax Town             0-1 (0-1)  Solihull Moors
-         Forest Green Rovers      2-1 (1-0)  Altrincham FC
-         Maidenhead United        3-1 (2-1)  Barnet FC
-         Oldham Athletic          1-1 (0-1)  Gateshead FC
-         Southend United          2-2 (1-1)  Dagenham & Redbridge
-         Tamworth FC              3-2 (1-1)  Aldershot Town
-         Wealdstone FC            1-0 (1-0)  AFC Fylde
-         Woking FC                3-2 (0-2)  Hartlepool United
-         Yeovil Town              0-1 (0-0)  Rochdale AFC
-         York City                0-2 (0-0)  Boston United
-
-
-Matchday 6
-[Sat Aug/31]
-  15.00  Aldershot Town           4-3 (1-1)  Maidenhead United
-         Altrincham FC            1-1 (0-1)  Oldham Athletic
-         Barnet FC                7-0 (3-0)  Tamworth FC
-         Boston United            1-3 (1-2)  Yeovil Town
-         Dagenham & Redbridge     0-2 (0-0)  York City
-         Ebbsfleet United         0-1 (0-1)  Halifax Town
-         Gateshead FC             2-1 (1-0)  Eastleigh FC
-         Hartlepool United        0-0  Braintree Town
-         Rochdale AFC             3-0 (1-0)  Woking FC
-         Solihull Moors           1-1 (1-0)  Wealdstone FC
-  17.30  Sutton United            1-2 (0-1)  Forest Green Rovers
-[Tue Sep/17]
-  19.45  AFC Fylde                2-1 (1-0)  Southend United
-
-
-Matchday 7
-[Sat Sep/7]
-  15.00  AFC Fylde                3-4 (2-0)  Yeovil Town
-         Altrincham FC            4-0 (2-0)  Ebbsfleet United
-         Braintree Town           0-0  Woking FC
-         Eastleigh FC             1-0 (1-0)  Tamworth FC
-         Gateshead FC             2-0 (1-0)  Barnet FC
-         Hartlepool United        0-0  Halifax Town
-         Maidenhead United        1-1 (1-0)  Dagenham & Redbridge
-         Oldham Athletic          1-1 (0-1)  Southend United
-         Solihull Moors           0-1 (0-0)  Forest Green Rovers
-         Sutton United            0-3 (0-1)  Boston United
-         Wealdstone FC            0-2 (0-1)  York City
-  17.30  Aldershot Town           0-2 (0-2)  Rochdale AFC
-
-
-Matchday 8
-[Tue Sep/10]
-  19.45  Barnet FC                2-1 (1-1)  Altrincham FC
-         Boston United            1-2 (1-0)  Hartlepool United
-         Dagenham & Redbridge     3-0 (1-0)  Sutton United
-         Ebbsfleet United         0-0  Aldershot Town
-         Halifax Town             1-1 (0-0)  Oldham Athletic
-         Forest Green Rovers      3-0 (1-0)  AFC Fylde
-         Rochdale AFC             3-1 (2-0)  Maidenhead United
-         Southend United          2-0 (2-0)  Eastleigh FC
-         Woking FC                1-0 (1-0)  Wealdstone FC
-         Yeovil Town              0-1 (0-1)  Solihull Moors
-         York City                2-1 (2-1)  Braintree Town
-[Tue Oct/8]
-  19.45  Tamworth FC              2-1 (1-0)  Gateshead FC
-
-
-Matchday 9
-[Sat Sep/14]
-  15.00  Barnet FC                3-1 (2-1)  Braintree Town
-         Boston United            1-1 (0-1)  Aldershot Town
-         Ebbsfleet United         1-0 (1-0)  Hartlepool United
-         Halifax Town             3-1 (2-0)  Eastleigh FC
-         Forest Green Rovers      2-2 (2-1)  Wealdstone FC
-         Rochdale AFC             1-2 (0-1)  Solihull Moors
-         Southend United          1-3 (1-1)  Sutton United
-         Tamworth FC              3-1 (1-0)  Maidenhead United
-         Woking FC                1-3 (0-1)  Oldham Athletic
-         Yeovil Town              0-0  Altrincham FC
-         York City                3-0 (0-0)  AFC Fylde
-  17.30  Dagenham & Redbridge     7-1 (2-1)  Gateshead FC
-
-
-Matchday 10
-[Sat Sep/21]
-  15.00  AFC Fylde                1-1 (0-0)  Woking FC
-         Aldershot Town           0-0  York City
-         Altrincham FC            2-2 (0-0)  Boston United
-         Braintree Town           0-1 (0-0)  Tamworth FC
-         Eastleigh FC             4-2 (2-1)  Rochdale AFC
-         Gateshead FC             0-2 (0-1)  Forest Green Rovers
-         Hartlepool United        0-1 (0-1)  Dagenham & Redbridge
-         Maidenhead United        0-1 (0-0)  Halifax Town
-         Oldham Athletic          1-0 (0-0)  Yeovil Town
-         Solihull Moors           2-4 (1-2)  Southend United
-         Sutton United            3-2 (1-0)  Ebbsfleet United
-  17.30  Wealdstone FC            0-3 (0-0)  Barnet FC
-
-
-Matchday 11
-[Tue Sep/24]
-  19.45  AFC Fylde                1-2 (0-0)  Tamworth FC
-         Aldershot Town           0-1 (0-1)  Barnet FC
-         Altrincham FC            2-1 (1-1)  Dagenham & Redbridge
-         Braintree Town           1-0 (0-0)  Halifax Town
-         Eastleigh FC             2-2 (1-1)  Woking FC
-         Gateshead FC             2-0 (2-0)  Boston United
-         Hartlepool United        0-3 (0-1)  Rochdale AFC
-         Maidenhead United        2-1 (1-0)  Ebbsfleet United
-         Oldham Athletic          1-0 (1-0)  Forest Green Rovers
-         Solihull Moors           0-3 (0-1)  York City
-         Sutton United            0-0  Yeovil Town
-         Wealdstone FC            1-1 (0-0)  Southend United
-
-
-Matchday 12
-[Sat Sep/28]
-  15.00  Barnet FC                2-0 (0-0)  AFC Fylde
-         Boston United            1-2 (1-1)  Maidenhead United
-         Dagenham & Redbridge     1-1 (0-0)  Solihull Moors
-         Halifax Town             2-2 (0-1)  Wealdstone FC
-         Forest Green Rovers      1-0 (0-0)  Hartlepool United
-         Rochdale AFC             1-0 (1-0)  Braintree Town
-         Southend United          1-3 (1-1)  Gateshead FC
-         Tamworth FC              1-2 (0-0)  Altrincham FC
-         Woking FC                1-2 (0-2)  Sutton United
-         Yeovil Town              1-1 (0-1)  Aldershot Town
-         York City                0-0  Eastleigh FC
-  17.30  Ebbsfleet United         1-2 (0-0)  Oldham Athletic
-
-
-Matchday 13
-[Sat Oct/5]
-  15.00  AFC Fylde                5-2 (3-2)  Aldershot Town
-         Barnet FC                3-1 (0-1)  Boston United
-         Braintree Town           2-0 (1-0)  Altrincham FC
-         Eastleigh FC             1-3 (1-0)  Forest Green Rovers
-         Ebbsfleet United         2-2 (0-2)  Rochdale AFC
-         Halifax Town             3-2 (0-2)  Tamworth FC
-         Gateshead FC             1-0 (0-0)  Wealdstone FC
-         Hartlepool United        4-3 (0-2)  Sutton United
-         Oldham Athletic          2-3 (0-0)  Solihull Moors
-         Southend United          0-2 (0-1)  Maidenhead United
-         Yeovil Town              1-0 (0-0)  Dagenham & Redbridge
-  17.30  Woking FC                1-1 (0-0)  York City
-
-
-Matchday 14
-[Sat Oct/19]
-  15.00  Aldershot Town           2-1 (0-0)  Eastleigh FC
-         Altrincham FC            2-2 (1-2)  Gateshead FC
-         Boston United            0-1 (0-1)  Halifax Town
-         Dagenham & Redbridge     4-0 (1-0)  AFC Fylde
-         Forest Green Rovers      2-1 (1-1)  Braintree Town
-         Maidenhead United        1-1 (1-0)  Hartlepool United
-         Solihull Moors           4-3 (2-1)  Barnet FC
-         Sutton United            1-3 (0-1)  Oldham Athletic
-         Tamworth FC              3-2 (2-0)  Woking FC
-         Wealdstone FC            0-3 (0-1)  Yeovil Town
-         York City                4-0 (1-0)  Ebbsfleet United
-  17.30  Rochdale AFC             0-1 (0-1)  Southend United
-
-
-Matchday 15
-[Tue Oct/22]
-  19.45  Dagenham & Redbridge     2-2 (2-1)  Eastleigh FC
-         Forest Green Rovers      3-1 (1-0)  Ebbsfleet United
-         Maidenhead United        2-2 (2-1)  Oldham Athletic
-         Rochdale AFC             2-1 (1-0)  Halifax Town
-         Tamworth FC              0-0  Yeovil Town
-         York City                3-1 (1-1)  Barnet FC
-[Wed Oct/23]
-  19.45  Aldershot Town           0-0  Southend United
-         Altrincham FC            1-1 (1-1)  Hartlepool United
-         Boston United            1-2 (1-0)  AFC Fylde
-         Solihull Moors           2-1 (1-1)  Woking FC
-         Sutton United            0-1 (0-0)  Gateshead FC
-         Wealdstone FC            3-2 (1-2)  Braintree Town
-
-
-Matchday 16
-[Sat Oct/26]
-  15.00  Barnet FC                2-1 (2-0)  Rochdale AFC
-         Braintree Town           0-1 (0-0)  Sutton United
-         Eastleigh FC             1-1 (0-1)  Boston United
-         Ebbsfleet United         2-2 (0-0)  Wealdstone FC
-         Halifax Town             1-2 (1-0)  York City
-         Gateshead FC             1-0 (0-0)  Solihull Moors
-         Hartlepool United        2-0 (1-0)  Aldershot Town
-         Oldham Athletic          1-0 (1-0)  Dagenham & Redbridge
-         Southend United          2-0 (2-0)  Tamworth FC
-         Woking FC                1-1 (0-1)  Forest Green Rovers
-         Yeovil Town              3-1 (1-1)  Maidenhead United
-  17.30  AFC Fylde                0-5 (0-3)  Altrincham FC
-
-
-Matchday 17
-[Sat Nov/9]
-  12.30  Aldershot Town           0-2 (0-1)  Wealdstone FC
-         York City                5-3 (2-0)  Hartlepool United
-  15.00  AFC Fylde                3-0 (1-0)  Gateshead FC
-         Boston United            1-1 (1-1)  Dagenham & Redbridge
-         Eastleigh FC             1-2 (1-0)  Braintree Town
-         Halifax Town             1-0 (1-0)  Woking FC
-         Maidenhead United        1-4 (0-2)  Forest Green Rovers
-         Rochdale AFC             2-1 (1-1)  Sutton United
-         Solihull Moors           3-3 (2-0)  Altrincham FC
-         Southend United          0-1 (0-0)  Yeovil Town
-         Tamworth FC              1-1 (0-1)  Ebbsfleet United
-  17.30  Barnet FC                0-0  Oldham Athletic
-
-
-Matchday 18
-[Sat Nov/16]
-  15.00  Altrincham FC            2-0 (2-0)  Southend United
-         Braintree Town           1-0 (0-0)  AFC Fylde
-         Dagenham & Redbridge     3-4 (2-1)  Barnet FC
-         Ebbsfleet United         0-6 (0-0)  Solihull Moors
-         Gateshead FC             2-2 (2-1)  Aldershot Town
-         Hartlepool United        0-0  Eastleigh FC
-         Oldham Athletic          4-0 (3-0)  Tamworth FC
-         Sutton United            1-0 (1-0)  Maidenhead United
-         Wealdstone FC            2-0 (0-0)  Rochdale AFC
-         Woking FC                1-0 (1-0)  Boston United
-         Yeovil Town              0-1 (0-0)  Halifax Town
-  17.30  Forest Green Rovers      2-0 (0-0)  York City
-
-
-Matchday 19
-[Sat Nov/23]
-  15.00  Aldershot Town           2-1 (2-0)  Altrincham FC
-         Barnet FC                2-0 (1-0)  Woking FC
-         Boston United            3-1 (2-0)  Braintree Town
-         Eastleigh FC             1-1 (1-0)  Wealdstone FC
-         Maidenhead United        0-5 (0-2)  Gateshead FC
-         Solihull Moors           3-4 (1-2)  Hartlepool United
-         Southend United          2-2 (0-1)  Forest Green Rovers
-         Tamworth FC              2-1 (0-1)  Dagenham & Redbridge
-         York City                4-0 (2-0)  Yeovil Town
-[Tue Dec/10]
-  19.45  AFC Fylde                2-0 (0-0)  Ebbsfleet United
-         Halifax Town             0-0  Sutton United
-[Tue Feb/4]
-  19.45  Rochdale AFC             -  Oldham Athletic
-
-
-Matchday 20
-[Tue Nov/26]
-  19.45  Altrincham FC            3-0 (3-0)  York City
-         Braintree Town           1-3 (0-2)  Maidenhead United
-         Dagenham & Redbridge     3-2 (0-0)  Aldershot Town
-         Gateshead FC             0-1 (0-0)  Rochdale AFC
-         Hartlepool United        2-0 (0-0)  AFC Fylde
-         Oldham Athletic          4-0 (2-0)  Boston United
-         Sutton United            1-0 (1-0)  Solihull Moors
-         Woking FC                0-0  Southend United
-[Wed Nov/27]
-  19.45  Ebbsfleet United         0-1 (0-0)  Eastleigh FC
-         Forest Green Rovers      1-1 (0-0)  Halifax Town
-         Yeovil Town              1-2 (0-1)  Barnet FC
-[Tue Feb/4]
-  19.45  Wealdstone FC            -  Tamworth FC
-
-
-Matchday 21
-[Sat Nov/30]
-  15.00  Braintree Town           2-2 (2-2)  Gateshead FC
-         Ebbsfleet United         0-0  Boston United
-         Halifax Town             0-2 (0-1)  Southend United
-         Hartlepool United        0-0  Barnet FC
-         Sutton United            2-0 (0-0)  AFC Fylde
-         Woking FC                0-2 (0-1)  Yeovil Town
-         York City                6-2 (4-1)  Maidenhead United
-[Tue Dec/10]
-  19.45  Solihull Moors           2-1 (1-0)  Aldershot Town
-         Wealdstone FC            3-3 (2-2)  Altrincham FC
-[Tue Dec/17]
-  19.45  Rochdale AFC             3-0 (0-0)  Tamworth FC
-[Tue Jan/7]
-  19.45  Eastleigh FC             2-2 (1-0)  Oldham Athletic
-[Wed Jan/8]
-  19.45  Forest Green Rovers      1-1 (0-0)  Dagenham & Redbridge
-
-
-Matchday 22
-[Sat Dec/14]
-  15.00  AFC Fylde                2-2 (1-0)  Eastleigh FC
-         Aldershot Town           3-4 (0-2)  Halifax Town
-         Altrincham FC            1-0 (1-0)  Sutton United
-         Barnet FC                4-1 (4-0)  Ebbsfleet United
-         Dagenham & Redbridge     1-0 (0-0)  Rochdale AFC
-         Gateshead FC             4-0 (3-0)  Woking FC
-         Maidenhead United        1-1 (0-0)  Solihull Moors
-         Oldham Athletic          3-2 (1-2)  Wealdstone FC
-         Southend United          0-0  Hartlepool United
-         Tamworth FC              1-1 (0-1)  York City
-         Yeovil Town              3-1 (1-1)  Braintree Town
-  17.30  Forest Green Rovers      1-0 (1-0)  Boston United
-
-
-Matchday 23
-[Sat Dec/21]
-  15.00  Barnet FC                1-1 (1-1)  Halifax Town
-         Braintree Town           0-2 (0-1)  Oldham Athletic
-         Eastleigh FC             1-0 (1-0)  Maidenhead United
-         Ebbsfleet United         1-4 (0-2)  Gateshead FC
-         Forest Green Rovers      1-1 (0-1)  Aldershot Town
-         Hartlepool United        2-1 (0-0)  Yeovil Town
-         Solihull Moors           4-1 (2-1)  AFC Fylde
-         Sutton United            1-2 (1-0)  Tamworth FC
-         Wealdstone FC            3-0 (2-0)  Dagenham & Redbridge
-         Woking FC                2-1 (0-0)  Altrincham FC
-         York City                3-0 (0-0)  Southend United
-[Tue Jan/28]
-  19.45  Rochdale AFC             -  Boston United
-
-
-Matchday 24
-[Thu Dec/26]
-  15.00  AFC Fylde                1-3 (1-1)  Rochdale AFC
-         Aldershot Town           2-2 (1-1)  Woking FC
-         Altrincham FC            0-0  Halifax Town
-         Barnet FC                3-3 (2-1)  Sutton United
-         Boston United            0-1 (0-1)  Solihull Moors
-         Dagenham & Redbridge     2-4 (1-2)  Braintree Town
-         Gateshead FC             4-3 (2-1)  Hartlepool United
-         Maidenhead United        3-1 (1-0)  Wealdstone FC
-         Southend United          4-0 (2-0)  Ebbsfleet United
-         Tamworth FC              1-1 (0-1)  Forest Green Rovers
-         Yeovil Town              2-2 (0-0)  Eastleigh FC
-[Tue Jan/21]
-  19.45  Oldham Athletic          0-2 (0-2)  York City
-
-
-Matchday 25
-[Tue Dec/31]
-  15.00  Solihull Moors           2-0 (1-0)  Tamworth FC
-[Wed Jan/1]
-         Wealdstone FC            -  Boston United            [postponed]
-  15.00  Eastleigh FC             1-1 (1-0)  Barnet FC
-         Ebbsfleet United         0-2 (0-0)  Dagenham & Redbridge
-         Forest Green Rovers      2-1 (0-1)  Yeovil Town
-         Hartlepool United        2-1 (1-1)  Oldham Athletic
-         Sutton United            1-1 (1-0)  Aldershot Town
-         Woking FC                3-1 (1-1)  Maidenhead United
-         York City                1-0 (1-0)  Gateshead FC
-  17.30  Braintree Town           0-1 (0-1)  Southend United
-[Tue Feb/4]
-  19.45  Halifax Town             -  AFC Fylde
-[Tue Mar/11]
-  19.45  Rochdale AFC             -  Altrincham FC
-
-
-Matchday 26
-[Sat Jan/11]
-         AFC Fylde                -  Sutton United            [postponed]
-         Aldershot Town           -  Solihull Moors           [postponed]
-         Gateshead FC             -  Braintree Town           [postponed]
-         Maidenhead United        -  York City                [postponed]
-         Oldham Athletic          -  Eastleigh FC             [postponed]
-         Southend United          -  Halifax Town             [postponed]
-  15.00  Boston United            2-2 (1-1)  Ebbsfleet United
-         Yeovil Town              1-1 (1-0)  Woking FC
-[Tue Jan/28]
-  19.45  Barnet FC                -  Hartlepool United
-[Tue Feb/4]
-  19.45  Dagenham & Redbridge     -  Forest Green Rovers
-[Tue Feb/25]
-  19.45  Tamworth FC              -  Rochdale AFC
-[Tue Mar/18]
-  19.45  Altrincham FC            -  Wealdstone FC
-
-
-Matchday 27
-[Tue Jan/14]
-  19.45  Aldershot Town           2-2 (2-2)  Braintree Town
-         Altrincham FC            4-0 (4-0)  Maidenhead United
-         Ebbsfleet United         1-1 (0-1)  Yeovil Town
-         Forest Green Rovers      0-0  Barnet FC
-         Gateshead FC             1-3 (0-2)  Halifax Town
-         Solihull Moors           0-1 (0-1)  Eastleigh FC
-[Wed Jan/15]
-  19.45  Boston United            -  Southend United          [abandoned]
-         Sutton United            2-2 (1-1)  Wealdstone FC
-[Sat Feb/1]
-  15.00  AFC Fylde                -  Oldham Athletic
-[Tue Feb/11]
-  19.45  Dagenham & Redbridge     -  Woking FC
-         Hartlepool United        -  Tamworth FC
-[Tue Mar/25]
-  19.45  Rochdale AFC             -  York City
-
-
-Matchday 28
-[Fri Jan/17]
-  19.30  Yeovil Town              0-0  Gateshead FC
-[Sat Jan/18]
-         Halifax Town             -  Dagenham & Redbridge     [postponed]
-  15.00  Braintree Town           1-0 (1-0)  Solihull Moors
-         Eastleigh FC             1-2 (1-1)  Altrincham FC
-         Forest Green Rovers      1-0 (0-0)  Rochdale AFC
-         Oldham Athletic          1-3 (1-2)  Aldershot Town
-         Southend United          0-3 (0-2)  Barnet FC
-         Tamworth FC              3-0 (2-0)  Boston United
-         Wealdstone FC            1-1 (0-1)  Hartlepool United
-         Woking FC                1-1 (0-0)  Ebbsfleet United
-         York City                1-2 (0-2)  Sutton United
-  17.30  Maidenhead United        4-1 (2-0)  AFC Fylde
-
-
-Matchday 29
-[Sat Jan/25]
-  15.00  AFC Fylde                -  Wealdstone FC
-         Aldershot Town           -  Tamworth FC
-         Altrincham FC            -  Forest Green Rovers
-         Barnet FC                -  Maidenhead United
-         Boston United            -  York City
-         Dagenham & Redbridge     -  Southend United
-         Ebbsfleet United         -  Braintree Town
-         Gateshead FC             -  Oldham Athletic
-         Hartlepool United        -  Woking FC
-         Rochdale AFC             -  Yeovil Town
-         Solihull Moors           -  Halifax Town
-         Sutton United            -  Eastleigh FC
-
-
-Matchday 30
-[Tue Jan/28]
-         Southend United          -  AFC Fylde                [postponed]
-[Sat Feb/1]
-         Eastleigh FC             -  Gateshead FC             [postponed]
-         Forest Green Rovers      -  Sutton United            [postponed]
-         Maidenhead United        -  Aldershot Town           [postponed]
-         Woking FC                -  Rochdale AFC             [postponed]
-         Yeovil Town              -  Boston United            [postponed]
-  15.00  Braintree Town           -  Hartlepool United
-         Halifax Town             -  Ebbsfleet United
-         Oldham Athletic          -  Altrincham FC
-         Tamworth FC              -  Barnet FC
-         Wealdstone FC            -  Solihull Moors
-         York City                -  Dagenham & Redbridge
-
-
-Matchday 31
-[Sat Feb/8]
-  15.00  Aldershot Town           -  AFC Fylde
-         Altrincham FC            -  Braintree Town
-         Boston United            -  Barnet FC
-         Dagenham & Redbridge     -  Yeovil Town
-         Forest Green Rovers      -  Eastleigh FC
-         Maidenhead United        -  Southend United
-         Rochdale AFC             -  Ebbsfleet United
-         Solihull Moors           -  Oldham Athletic
-         Sutton United            -  Hartlepool United
-         Wealdstone FC            -  Gateshead FC
-         York City                -  Woking FC
-  17.30  Tamworth FC              -  Halifax Town
-
-
-Matchday 32
-[Sat Feb/15]
-  15.00  AFC Fylde                -  Dagenham & Redbridge
-         Barnet FC                -  Solihull Moors
-         Braintree Town           -  Forest Green Rovers
-         Eastleigh FC             -  Aldershot Town
-         Ebbsfleet United         -  York City
-         Halifax Town             -  Boston United
-         Gateshead FC             -  Altrincham FC
-         Hartlepool United        -  Maidenhead United
-         Oldham Athletic          -  Sutton United
-         Southend United          -  Rochdale AFC
-         Woking FC                -  Tamworth FC
-         Yeovil Town              -  Wealdstone FC
-
-
-Matchday 33
-[Tue Feb/18]
-  19.45  AFC Fylde                -  Boston United
-         Barnet FC                -  York City
-         Braintree Town           -  Wealdstone FC
-         Eastleigh FC             -  Dagenham & Redbridge
-         Ebbsfleet United         -  Forest Green Rovers
-         Halifax Town             -  Rochdale AFC
-         Gateshead FC             -  Sutton United
-         Hartlepool United        -  Altrincham FC
-         Oldham Athletic          -  Maidenhead United
-         Southend United          -  Aldershot Town
-         Woking FC                -  Solihull Moors
-         Yeovil Town              -  Tamworth FC
-
-
-Matchday 34
-[Sat Feb/22]
-  15.00  Aldershot Town           -  Hartlepool United
-         Altrincham FC            -  AFC Fylde
-         Boston United            -  Eastleigh FC
-         Dagenham & Redbridge     -  Oldham Athletic
-         Forest Green Rovers      -  Woking FC
-         Maidenhead United        -  Yeovil Town
-         Rochdale AFC             -  Barnet FC
-         Solihull Moors           -  Gateshead FC
-         Sutton United            -  Braintree Town
-         Tamworth FC              -  Southend United
-         Wealdstone FC            -  Ebbsfleet United
-         York City                -  Halifax Town
-
-
-Matchday 35
-[Sat Mar/1]
-  15.00  Altrincham FC            -  Solihull Moors
-         Braintree Town           -  Eastleigh FC
-         Dagenham & Redbridge     -  Boston United
-         Ebbsfleet United         -  Tamworth FC
-         Forest Green Rovers      -  Maidenhead United
-         Gateshead FC             -  AFC Fylde
-         Hartlepool United        -  York City
-         Oldham Athletic          -  Barnet FC
-         Sutton United            -  Rochdale AFC
-         Wealdstone FC            -  Aldershot Town
-         Woking FC                -  Halifax Town
-         Yeovil Town              -  Southend United
-
-
-Matchday 36
-[Tue Mar/4]
-  19.45  AFC Fylde                -  Hartlepool United
-         Aldershot Town           -  Dagenham & Redbridge
-         Barnet FC                -  Yeovil Town
-         Boston United            -  Oldham Athletic
-         Eastleigh FC             -  Ebbsfleet United
-         Halifax Town             -  Forest Green Rovers
-         Maidenhead United        -  Braintree Town
-         Rochdale AFC             -  Gateshead FC
-         Solihull Moors           -  Sutton United
-         Southend United          -  Woking FC
-         Tamworth FC              -  Wealdstone FC
-         York City                -  Altrincham FC
-
-
-Matchday 37
-[Sat Mar/8]
-  15.00  AFC Fylde                -  Braintree Town
-         Aldershot Town           -  Gateshead FC
-         Barnet FC                -  Dagenham & Redbridge
-         Boston United            -  Woking FC
-         Eastleigh FC             -  Hartlepool United
-         Halifax Town             -  Yeovil Town
-         Maidenhead United        -  Sutton United
-         Rochdale AFC             -  Wealdstone FC
-         Solihull Moors           -  Ebbsfleet United
-         Southend United          -  Altrincham FC
-         Tamworth FC              -  Oldham Athletic
-         York City                -  Forest Green Rovers
-
-
-Matchday 38
-[Sat Mar/15]
-  15.00  Altrincham FC            -  Aldershot Town
-         Braintree Town           -  Boston United
-         Dagenham & Redbridge     -  Tamworth FC
-         Ebbsfleet United         -  AFC Fylde
-         Forest Green Rovers      -  Southend United
-         Gateshead FC             -  Maidenhead United
-         Hartlepool United        -  Solihull Moors
-         Oldham Athletic          -  Rochdale AFC
-         Sutton United            -  Halifax Town
-         Wealdstone FC            -  Eastleigh FC
-         Woking FC                -  Barnet FC
-         Yeovil Town              -  York City
-
-
-Matchday 39
-[Sat Mar/22]
-  15.00  AFC Fylde                -  Forest Green Rovers
-         Aldershot Town           -  Ebbsfleet United
-         Altrincham FC            -  Barnet FC
-         Braintree Town           -  York City
-         Eastleigh FC             -  Southend United
-         Gateshead FC             -  Tamworth FC
-         Hartlepool United        -  Boston United
-         Maidenhead United        -  Rochdale AFC
-         Oldham Athletic          -  Halifax Town
-         Solihull Moors           -  Yeovil Town
-         Sutton United            -  Dagenham & Redbridge
-         Wealdstone FC            -  Woking FC
-
-
-Matchday 40
-[Sat Mar/29]
-  15.00  Barnet FC                -  Gateshead FC
-         Boston United            -  Sutton United
-         Dagenham & Redbridge     -  Maidenhead United
-         Ebbsfleet United         -  Altrincham FC
-         Halifax Town             -  Hartlepool United
-         Forest Green Rovers      -  Solihull Moors
-         Rochdale AFC             -  Aldershot Town
-         Southend United          -  Oldham Athletic
-         Tamworth FC              -  Eastleigh FC
-         Woking FC                -  Braintree Town
-         Yeovil Town              -  AFC Fylde
-         York City                -  Wealdstone FC
-
-
-Matchday 41
-[Sat Apr/5]
-  15.00  AFC Fylde                -  York City
-         Aldershot Town           -  Boston United
-         Altrincham FC            -  Yeovil Town
-         Braintree Town           -  Barnet FC
-         Eastleigh FC             -  Halifax Town
-         Gateshead FC             -  Dagenham & Redbridge
-         Hartlepool United        -  Ebbsfleet United
-         Maidenhead United        -  Tamworth FC
-         Oldham Athletic          -  Woking FC
-         Solihull Moors           -  Rochdale AFC
-         Sutton United            -  Southend United
-         Wealdstone FC            -  Forest Green Rovers
-
-
-Matchday 42
-[Sat Apr/12]
-  15.00  Barnet FC                -  Wealdstone FC
-         Boston United            -  Altrincham FC
-         Dagenham & Redbridge     -  Hartlepool United
-         Ebbsfleet United         -  Sutton United
-         Halifax Town             -  Maidenhead United
-         Forest Green Rovers      -  Gateshead FC
-         Rochdale AFC             -  Eastleigh FC
-         Southend United          -  Solihull Moors
-         Tamworth FC              -  Braintree Town
-         Woking FC                -  AFC Fylde
-         Yeovil Town              -  Oldham Athletic
-         York City                -  Aldershot Town
-
-
-Matchday 43
-[Fri Apr/18]
-  15.00  AFC Fylde                -  Halifax Town
-         Aldershot Town           -  Sutton United
-         Altrincham FC            -  Rochdale AFC
-         Barnet FC                -  Eastleigh FC
-         Boston United            -  Wealdstone FC
-         Dagenham & Redbridge     -  Ebbsfleet United
-         Gateshead FC             -  York City
-         Maidenhead United        -  Woking FC
-         Oldham Athletic          -  Hartlepool United
-         Southend United          -  Braintree Town
-         Tamworth FC              -  Solihull Moors
-         Yeovil Town              -  Forest Green Rovers
-
-
-Matchday 44
-[Mon Apr/21]
-  15.00  Braintree Town           -  Dagenham & Redbridge
-         Eastleigh FC             -  Yeovil Town
-         Ebbsfleet United         -  Southend United
-         Halifax Town             -  Altrincham FC
-         Forest Green Rovers      -  Tamworth FC
-         Hartlepool United        -  Gateshead FC
-         Rochdale AFC             -  AFC Fylde
-         Solihull Moors           -  Boston United
-         Sutton United            -  Barnet FC
-         Wealdstone FC            -  Maidenhead United
-         Woking FC                -  Aldershot Town
-         York City                -  Oldham Athletic
-
-
-Matchday 45
-[Sat Apr/26]
-  15.00  Barnet FC                -  Aldershot Town
-         Boston United            -  Gateshead FC
-         Dagenham & Redbridge     -  Altrincham FC
-         Ebbsfleet United         -  Maidenhead United
-         Halifax Town             -  Braintree Town
-         Forest Green Rovers      -  Oldham Athletic
-         Rochdale AFC             -  Hartlepool United
-         Southend United          -  Wealdstone FC
-         Tamworth FC              -  AFC Fylde
-         Woking FC                -  Eastleigh FC
-         Yeovil Town              -  Sutton United
-         York City                -  Solihull Moors
-
-
-Matchday 46
-[Mon May/5]
-  15.00  AFC Fylde                -  Barnet FC
-         Aldershot Town           -  Yeovil Town
-         Altrincham FC            -  Tamworth FC
-         Braintree Town           -  Rochdale AFC
-         Eastleigh FC             -  York City
-         Gateshead FC             -  Southend United
-         Hartlepool United        -  Forest Green Rovers
-         Maidenhead United        -  Boston United
-         Oldham Athletic          -  Ebbsfleet United
-         Solihull Moors           -  Dagenham & Redbridge
-         Sutton United            -  Woking FC
-         Wealdstone FC            -  Halifax Town
+» Matchday 1
+  Sat Aug/10 2024
+    15.00  AFC Fylde               v Solihull Moors           3-2 (1-2)
+           Aldershot Town          v Forest Green Rovers      3-3 (2-1)
+           Altrincham FC           v Woking FC                1-0 (1-0)
+           Boston United           v Rochdale AFC             0-3 (0-2)
+           Dagenham & Redbridge    v Wealdstone FC            2-1 (0-0)
+           Halifax Town            v Barnet FC                2-1 (0-0)
+           Gateshead FC            v Ebbsfleet United         5-1 (3-0)
+           Maidenhead United       v Eastleigh FC             0-2 (0-2)
+           Oldham Athletic         v Braintree Town           3-0 (2-0)
+           Southend United         v York City                1-1 (1-0)
+           Tamworth FC             v Sutton United            1-1 (0-0)
+           Yeovil Town             v Hartlepool United        0-1 (0-0)
+
+
+» Matchday 2
+  Sat Aug/17
+    15.00  Boston United           v Forest Green Rovers      0-4 (0-3)
+           Braintree Town          v Yeovil Town              0-1 (0-0)
+           Eastleigh FC            v AFC Fylde                4-2 (1-2)
+           Ebbsfleet United        v Barnet FC                1-2 (0-1)
+           Halifax Town            v Aldershot Town           0-1 (0-1)
+           Hartlepool United       v Southend United          0-0
+           Rochdale AFC            v Dagenham & Redbridge     1-1 (0-0)
+           Solihull Moors          v Maidenhead United        2-1 (0-0)
+           Sutton United           v Altrincham FC            5-0 (4-0)
+           Wealdstone FC           v Oldham Athletic          0-1 (0-0)
+           Woking FC               v Gateshead FC             0-2 (0-1)
+           York City               v Tamworth FC              2-0 (0-0)
+
+
+» Matchday 3
+  Tue Aug/20
+    19.45  Barnet FC               v Forest Green Rovers      1-0 (0-0)
+           Braintree Town          v Aldershot Town           2-1 (0-1)
+           Eastleigh FC            v Solihull Moors           2-1 (2-0)
+           Halifax Town            v Gateshead FC             1-1 (0-0)
+           Maidenhead United       v Altrincham FC            0-1 (0-1)
+           Oldham Athletic         v AFC Fylde                1-1 (0-1)
+           Southend United         v Boston United            2-0 (1-0)
+           Tamworth FC             v Hartlepool United        0-1 (0-0)
+           Wealdstone FC           v Sutton United            0-1 (0-1)
+           Woking FC               v Dagenham & Redbridge     1-0 (0-0)
+           Yeovil Town             v Ebbsfleet United         3-2 (2-0)
+           York City               v Rochdale AFC             1-0 (1-0)
+
+
+» Matchday 4
+  Fri Aug/23
+    19.45  Dagenham & Redbridge    v Halifax Town             1-1 (1-0)
+  Sat Aug/24
+    12.30  Gateshead FC            v Yeovil Town              3-1 (2-1)
+    15.00  AFC Fylde               v Maidenhead United        0-0
+           Aldershot Town          v Oldham Athletic          4-1 (1-0)
+           Altrincham FC           v Eastleigh FC             0-1 (0-0)
+           Barnet FC               v Southend United          2-1 (1-0)
+           Boston United           v Tamworth FC              1-1 (1-0)
+           Ebbsfleet United        v Woking FC                0-3 (0-1)
+           Hartlepool United       v Wealdstone FC            1-1 (0-1)
+           Rochdale AFC            v Forest Green Rovers      0-0
+           Solihull Moors          v Braintree Town           1-1 (0-1)
+           Sutton United           v York City                2-2 (0-0)
+
+
+» Matchday 5
+  Mon Aug/26
+    15.00  Braintree Town          v Ebbsfleet United         0-0
+           Eastleigh FC            v Sutton United            1-1 (1-1)
+           Halifax Town            v Solihull Moors           0-1 (0-1)
+           Forest Green Rovers     v Altrincham FC            2-1 (1-0)
+           Maidenhead United       v Barnet FC                3-1 (2-1)
+           Oldham Athletic         v Gateshead FC             1-1 (0-1)
+           Southend United         v Dagenham & Redbridge     2-2 (1-1)
+           Tamworth FC             v Aldershot Town           3-2 (1-1)
+           Wealdstone FC           v AFC Fylde                1-0 (1-0)
+           Woking FC               v Hartlepool United        3-2 (0-2)
+           Yeovil Town             v Rochdale AFC             0-1 (0-0)
+           York City               v Boston United            0-2 (0-0)
+
+
+» Matchday 6
+  Sat Aug/31
+    15.00  Aldershot Town          v Maidenhead United        4-3 (1-1)
+           Altrincham FC           v Oldham Athletic          1-1 (0-1)
+           Barnet FC               v Tamworth FC              7-0 (3-0)
+           Boston United           v Yeovil Town              1-3 (1-2)
+           Dagenham & Redbridge    v York City                0-2 (0-0)
+           Ebbsfleet United        v Halifax Town             0-1 (0-1)
+           Gateshead FC            v Eastleigh FC             2-1 (1-0)
+           Hartlepool United       v Braintree Town           0-0
+           Rochdale AFC            v Woking FC                3-0 (1-0)
+           Solihull Moors          v Wealdstone FC            1-1 (1-0)
+    17.30  Sutton United           v Forest Green Rovers      1-2 (0-1)
+  Tue Sep/17
+    19.45  AFC Fylde               v Southend United          2-1 (1-0)
+
+
+» Matchday 7
+  Sat Sep/7
+    15.00  AFC Fylde               v Yeovil Town              3-4 (2-0)
+           Altrincham FC           v Ebbsfleet United         4-0 (2-0)
+           Braintree Town          v Woking FC                0-0
+           Eastleigh FC            v Tamworth FC              1-0 (1-0)
+           Gateshead FC            v Barnet FC                2-0 (1-0)
+           Hartlepool United       v Halifax Town             0-0
+           Maidenhead United       v Dagenham & Redbridge     1-1 (1-0)
+           Oldham Athletic         v Southend United          1-1 (0-1)
+           Solihull Moors          v Forest Green Rovers      0-1 (0-0)
+           Sutton United           v Boston United            0-3 (0-1)
+           Wealdstone FC           v York City                0-2 (0-1)
+    17.30  Aldershot Town          v Rochdale AFC             0-2 (0-2)
+
+
+» Matchday 8
+  Tue Sep/10
+    19.45  Barnet FC               v Altrincham FC            2-1 (1-1)
+           Boston United           v Hartlepool United        1-2 (1-0)
+           Dagenham & Redbridge    v Sutton United            3-0 (1-0)
+           Ebbsfleet United        v Aldershot Town           0-0
+           Halifax Town            v Oldham Athletic          1-1 (0-0)
+           Forest Green Rovers     v AFC Fylde                3-0 (1-0)
+           Rochdale AFC            v Maidenhead United        3-1 (2-0)
+           Southend United         v Eastleigh FC             2-0 (2-0)
+           Woking FC               v Wealdstone FC            1-0 (1-0)
+           Yeovil Town             v Solihull Moors           0-1 (0-1)
+           York City               v Braintree Town           2-1 (2-1)
+  Tue Oct/8
+    19.45  Tamworth FC             v Gateshead FC             2-1 (1-0)
+
+
+» Matchday 9
+  Sat Sep/14
+    15.00  Barnet FC               v Braintree Town           3-1 (2-1)
+           Boston United           v Aldershot Town           1-1 (0-1)
+           Ebbsfleet United        v Hartlepool United        1-0 (1-0)
+           Halifax Town            v Eastleigh FC             3-1 (2-0)
+           Forest Green Rovers     v Wealdstone FC            2-2 (2-1)
+           Rochdale AFC            v Solihull Moors           1-2 (0-1)
+           Southend United         v Sutton United            1-3 (1-1)
+           Tamworth FC             v Maidenhead United        3-1 (1-0)
+           Woking FC               v Oldham Athletic          1-3 (0-1)
+           Yeovil Town             v Altrincham FC            0-0
+           York City               v AFC Fylde                3-0 (0-0)
+    17.30  Dagenham & Redbridge    v Gateshead FC             7-1 (2-1)
+
+
+» Matchday 10
+  Sat Sep/21
+    15.00  AFC Fylde               v Woking FC                1-1 (0-0)
+           Aldershot Town          v York City                0-0
+           Altrincham FC           v Boston United            2-2 (0-0)
+           Braintree Town          v Tamworth FC              0-1 (0-0)
+           Eastleigh FC            v Rochdale AFC             4-2 (2-1)
+           Gateshead FC            v Forest Green Rovers      0-2 (0-1)
+           Hartlepool United       v Dagenham & Redbridge     0-1 (0-1)
+           Maidenhead United       v Halifax Town             0-1 (0-0)
+           Oldham Athletic         v Yeovil Town              1-0 (0-0)
+           Solihull Moors          v Southend United          2-4 (1-2)
+           Sutton United           v Ebbsfleet United         3-2 (1-0)
+    17.30  Wealdstone FC           v Barnet FC                0-3 (0-0)
+
+
+» Matchday 11
+  Tue Sep/24
+    19.45  AFC Fylde               v Tamworth FC              1-2 (0-0)
+           Aldershot Town          v Barnet FC                0-1 (0-1)
+           Altrincham FC           v Dagenham & Redbridge     2-1 (1-1)
+           Braintree Town          v Halifax Town             1-0 (0-0)
+           Eastleigh FC            v Woking FC                2-2 (1-1)
+           Gateshead FC            v Boston United            2-0 (2-0)
+           Hartlepool United       v Rochdale AFC             0-3 (0-1)
+           Maidenhead United       v Ebbsfleet United         2-1 (1-0)
+           Oldham Athletic         v Forest Green Rovers      1-0 (1-0)
+           Solihull Moors          v York City                0-3 (0-1)
+           Sutton United           v Yeovil Town              0-0
+           Wealdstone FC           v Southend United          1-1 (0-0)
+
+
+» Matchday 12
+  Sat Sep/28
+    15.00  Barnet FC               v AFC Fylde                2-0 (0-0)
+           Boston United           v Maidenhead United        1-2 (1-1)
+           Dagenham & Redbridge    v Solihull Moors           1-1 (0-0)
+           Halifax Town            v Wealdstone FC            2-2 (0-1)
+           Forest Green Rovers     v Hartlepool United        1-0 (0-0)
+           Rochdale AFC            v Braintree Town           1-0 (1-0)
+           Southend United         v Gateshead FC             1-3 (1-1)
+           Tamworth FC             v Altrincham FC            1-2 (0-0)
+           Woking FC               v Sutton United            1-2 (0-2)
+           Yeovil Town             v Aldershot Town           1-1 (0-1)
+           York City               v Eastleigh FC             0-0
+    17.30  Ebbsfleet United        v Oldham Athletic          1-2 (0-0)
+
+
+» Matchday 13
+  Sat Oct/5
+    15.00  AFC Fylde               v Aldershot Town           5-2 (3-2)
+           Barnet FC               v Boston United            3-1 (0-1)
+           Braintree Town          v Altrincham FC            2-0 (1-0)
+           Eastleigh FC            v Forest Green Rovers      1-3 (1-0)
+           Ebbsfleet United        v Rochdale AFC             2-2 (0-2)
+           Halifax Town            v Tamworth FC              3-2 (0-2)
+           Gateshead FC            v Wealdstone FC            1-0 (0-0)
+           Hartlepool United       v Sutton United            4-3 (0-2)
+           Oldham Athletic         v Solihull Moors           2-3 (0-0)
+           Southend United         v Maidenhead United        0-2 (0-1)
+           Yeovil Town             v Dagenham & Redbridge     1-0 (0-0)
+    17.30  Woking FC               v York City                1-1 (0-0)
+
+
+» Matchday 14
+  Sat Oct/19
+    15.00  Aldershot Town          v Eastleigh FC             2-1 (0-0)
+           Altrincham FC           v Gateshead FC             2-2 (1-2)
+           Boston United           v Halifax Town             0-1 (0-1)
+           Dagenham & Redbridge    v AFC Fylde                4-0 (1-0)
+           Forest Green Rovers     v Braintree Town           2-1 (1-1)
+           Maidenhead United       v Hartlepool United        1-1 (1-0)
+           Solihull Moors          v Barnet FC                4-3 (2-1)
+           Sutton United           v Oldham Athletic          1-3 (0-1)
+           Tamworth FC             v Woking FC                3-2 (2-0)
+           Wealdstone FC           v Yeovil Town              0-3 (0-1)
+           York City               v Ebbsfleet United         4-0 (1-0)
+    17.30  Rochdale AFC            v Southend United          0-1 (0-1)
+
+
+» Matchday 15
+  Tue Oct/22
+    19.45  Dagenham & Redbridge    v Eastleigh FC             2-2 (2-1)
+           Forest Green Rovers     v Ebbsfleet United         3-1 (1-0)
+           Maidenhead United       v Oldham Athletic          2-2 (2-1)
+           Rochdale AFC            v Halifax Town             2-1 (1-0)
+           Tamworth FC             v Yeovil Town              0-0
+           York City               v Barnet FC                3-1 (1-1)
+  Wed Oct/23
+    19.45  Aldershot Town          v Southend United          0-0
+           Altrincham FC           v Hartlepool United        1-1 (1-1)
+           Boston United           v AFC Fylde                1-2 (1-0)
+           Solihull Moors          v Woking FC                2-1 (1-1)
+           Sutton United           v Gateshead FC             0-1 (0-0)
+           Wealdstone FC           v Braintree Town           3-2 (1-2)
+
+
+» Matchday 16
+  Sat Oct/26
+    15.00  Barnet FC               v Rochdale AFC             2-1 (2-0)
+           Braintree Town          v Sutton United            0-1 (0-0)
+           Eastleigh FC            v Boston United            1-1 (0-1)
+           Ebbsfleet United        v Wealdstone FC            2-2 (0-0)
+           Halifax Town            v York City                1-2 (1-0)
+           Gateshead FC            v Solihull Moors           1-0 (0-0)
+           Hartlepool United       v Aldershot Town           2-0 (1-0)
+           Oldham Athletic         v Dagenham & Redbridge     1-0 (1-0)
+           Southend United         v Tamworth FC              2-0 (2-0)
+           Woking FC               v Forest Green Rovers      1-1 (0-1)
+           Yeovil Town             v Maidenhead United        3-1 (1-1)
+    17.30  AFC Fylde               v Altrincham FC            0-5 (0-3)
+
+
+» Matchday 17
+  Sat Nov/9
+    12.30  Aldershot Town          v Wealdstone FC            0-2 (0-1)
+           York City               v Hartlepool United        5-3 (2-0)
+    15.00  AFC Fylde               v Gateshead FC             3-0 (1-0)
+           Boston United           v Dagenham & Redbridge     1-1 (1-1)
+           Eastleigh FC            v Braintree Town           1-2 (1-0)
+           Halifax Town            v Woking FC                1-0 (1-0)
+           Maidenhead United       v Forest Green Rovers      1-4 (0-2)
+           Rochdale AFC            v Sutton United            2-1 (1-1)
+           Solihull Moors          v Altrincham FC            3-3 (2-0)
+           Southend United         v Yeovil Town              0-1 (0-0)
+           Tamworth FC             v Ebbsfleet United         1-1 (0-1)
+    17.30  Barnet FC               v Oldham Athletic          0-0
+
+
+» Matchday 18
+  Sat Nov/16
+    15.00  Altrincham FC           v Southend United          2-0 (2-0)
+           Braintree Town          v AFC Fylde                1-0 (0-0)
+           Dagenham & Redbridge    v Barnet FC                3-4 (2-1)
+           Ebbsfleet United        v Solihull Moors           0-6 (0-0)
+           Gateshead FC            v Aldershot Town           2-2 (2-1)
+           Hartlepool United       v Eastleigh FC             0-0
+           Oldham Athletic         v Tamworth FC              4-0 (3-0)
+           Sutton United           v Maidenhead United        1-0 (1-0)
+           Wealdstone FC           v Rochdale AFC             2-0 (0-0)
+           Woking FC               v Boston United            1-0 (1-0)
+           Yeovil Town             v Halifax Town             0-1 (0-0)
+    17.30  Forest Green Rovers     v York City                2-0 (0-0)
+
+
+» Matchday 19
+  Sat Nov/23
+    15.00  Aldershot Town          v Altrincham FC            2-1 (2-0)
+           Barnet FC               v Woking FC                2-0 (1-0)
+           Boston United           v Braintree Town           3-1 (2-0)
+           Eastleigh FC            v Wealdstone FC            1-1 (1-0)
+           Maidenhead United       v Gateshead FC             0-5 (0-2)
+           Solihull Moors          v Hartlepool United        3-4 (1-2)
+           Southend United         v Forest Green Rovers      2-2 (0-1)
+           Tamworth FC             v Dagenham & Redbridge     2-1 (0-1)
+           York City               v Yeovil Town              4-0 (2-0)
+  Tue Dec/10
+    19.45  AFC Fylde               v Ebbsfleet United         2-0 (0-0)
+           Halifax Town            v Sutton United            0-0
+  Tue Feb/4 2025
+    19.45  Rochdale AFC            v Oldham Athletic          0-1 (0-1)
+
+
+» Matchday 20
+  Tue Nov/26 2024
+    19.45  Altrincham FC           v York City                3-0 (3-0)
+           Braintree Town          v Maidenhead United        1-3 (0-2)
+           Dagenham & Redbridge    v Aldershot Town           3-2 (0-0)
+           Gateshead FC            v Rochdale AFC             0-1 (0-0)
+           Hartlepool United       v AFC Fylde                2-0 (0-0)
+           Oldham Athletic         v Boston United            4-0 (2-0)
+           Sutton United           v Solihull Moors           1-0 (1-0)
+           Woking FC               v Southend United          0-0
+  Wed Nov/27
+    19.45  Ebbsfleet United        v Eastleigh FC             0-1 (0-0)
+           Forest Green Rovers     v Halifax Town             1-1 (0-0)
+           Yeovil Town             v Barnet FC                1-2 (0-1)
+  Tue Feb/4 2025
+    19.45  Wealdstone FC           v Tamworth FC              0-1 (0-0)
+
+
+» Matchday 21
+  Sat Nov/30 2024
+    15.00  Braintree Town          v Gateshead FC             2-2 (2-2)
+           Ebbsfleet United        v Boston United            0-0
+           Halifax Town            v Southend United          0-2 (0-1)
+           Hartlepool United       v Barnet FC                0-0
+           Sutton United           v AFC Fylde                2-0 (0-0)
+           Woking FC               v Yeovil Town              0-2 (0-1)
+           York City               v Maidenhead United        6-2 (4-1)
+  Tue Dec/10
+    19.45  Solihull Moors          v Aldershot Town           2-1 (1-0)
+           Wealdstone FC           v Altrincham FC            3-3 (2-2)
+  Tue Dec/17
+    19.45  Rochdale AFC            v Tamworth FC              3-0 (0-0)
+  Tue Jan/7 2025
+    19.45  Eastleigh FC            v Oldham Athletic          2-2 (1-0)
+  Wed Jan/8
+    19.45  Forest Green Rovers     v Dagenham & Redbridge     1-1 (0-0)
+
+
+» Matchday 22
+  Sat Dec/14 2024
+    15.00  AFC Fylde               v Eastleigh FC             2-2 (1-0)
+           Aldershot Town          v Halifax Town             3-4 (0-2)
+           Altrincham FC           v Sutton United            1-0 (1-0)
+           Barnet FC               v Ebbsfleet United         4-1 (4-0)
+           Dagenham & Redbridge    v Rochdale AFC             1-0 (0-0)
+           Gateshead FC            v Woking FC                4-0 (3-0)
+           Maidenhead United       v Solihull Moors           1-1 (0-0)
+           Oldham Athletic         v Wealdstone FC            3-2 (1-2)
+           Southend United         v Hartlepool United        0-0
+           Tamworth FC             v York City                1-1 (0-1)
+           Yeovil Town             v Braintree Town           3-1 (1-1)
+    17.30  Forest Green Rovers     v Boston United            1-0 (1-0)
+
+
+» Matchday 23
+  Sat Dec/21
+    15.00  Barnet FC               v Halifax Town             1-1 (1-1)
+           Braintree Town          v Oldham Athletic          0-2 (0-1)
+           Eastleigh FC            v Maidenhead United        1-0 (1-0)
+           Ebbsfleet United        v Gateshead FC             1-4 (0-2)
+           Forest Green Rovers     v Aldershot Town           1-1 (0-1)
+           Hartlepool United       v Yeovil Town              2-1 (0-0)
+           Solihull Moors          v AFC Fylde                4-1 (2-1)
+           Sutton United           v Tamworth FC              1-2 (1-0)
+           Wealdstone FC           v Dagenham & Redbridge     3-0 (2-0)
+           Woking FC               v Altrincham FC            2-1 (0-0)
+           York City               v Southend United          3-0 (0-0)
+  Tue Mar/18 2025
+    19.45  Rochdale AFC            v Boston United            2-3 (0-2)
+
+
+» Matchday 24
+  Thu Dec/26 2024
+    15.00  AFC Fylde               v Rochdale AFC             1-3 (1-1)
+           Aldershot Town          v Woking FC                2-2 (1-1)
+           Altrincham FC           v Halifax Town             0-0
+           Barnet FC               v Sutton United            3-3 (2-1)
+           Boston United           v Solihull Moors           0-1 (0-1)
+           Dagenham & Redbridge    v Braintree Town           2-4 (1-2)
+           Gateshead FC            v Hartlepool United        4-3 (2-1)
+           Maidenhead United       v Wealdstone FC            3-1 (1-0)
+           Southend United         v Ebbsfleet United         4-0 (2-0)
+           Tamworth FC             v Forest Green Rovers      1-1 (0-1)
+           Yeovil Town             v Eastleigh FC             2-2 (0-0)
+  Tue Jan/21 2025
+    19.45  Oldham Athletic         v York City                0-2 (0-2)
+
+
+» Matchday 25
+  Tue Dec/31 2024
+    15.00  Solihull Moors          v Tamworth FC              2-0 (1-0)
+  Wed Jan/1 2025
+    15.00  Eastleigh FC            v Barnet FC                1-1 (1-0)
+           Ebbsfleet United        v Dagenham & Redbridge     0-2 (0-0)
+           Forest Green Rovers     v Yeovil Town              2-1 (0-1)
+           Hartlepool United       v Oldham Athletic          2-1 (1-1)
+           Sutton United           v Aldershot Town           1-1 (1-0)
+           Woking FC               v Maidenhead United        3-1 (1-1)
+           York City               v Gateshead FC             1-0 (1-0)
+    17.30  Braintree Town          v Southend United          0-1 (0-1)
+  Tue Feb/4
+    19.45  Halifax Town            v AFC Fylde                1-2 (1-1)
+  Tue Mar/11
+    19.45  Rochdale AFC            v Altrincham FC            3-0 (0-0)
+  Tue Apr/1
+    19.45  Wealdstone FC           v Boston United
+
+
+» Matchday 26
+  Sat Jan/11
+    15.00  Boston United           v Ebbsfleet United         2-2 (1-1)
+           Yeovil Town             v Woking FC                1-1 (1-0)
+  Tue Jan/28
+    19.45  Barnet FC               v Hartlepool United        2-0 (0-0)
+  Tue Feb/4
+    19.45  Dagenham & Redbridge    v Forest Green Rovers      0-2 (0-1)
+  Tue Feb/11
+    19.45  Southend United         v Halifax Town             3-1 (0-0)
+  Tue Feb/25
+    19.45  Aldershot Town          v Solihull Moors           3-1 (3-0)
+           Maidenhead United       v York City                1-3 (0-1)
+           Tamworth FC             v Rochdale AFC             1-1 (1-0)
+  Tue Mar/11
+    19.45  Oldham Athletic         v Eastleigh FC             2-0 (1-0)
+  Tue Mar/18
+    19.45  AFC Fylde               v Sutton United            1-2 (1-0)
+           Altrincham FC           v Wealdstone FC            0-1 (0-0)
+           Gateshead FC            v Braintree Town           1-3 (1-0)
+
+
+» Matchday 27
+  Tue Jan/14
+    19.45  Aldershot Town          v Braintree Town           2-2 (2-2)
+           Altrincham FC           v Maidenhead United        4-0 (4-0)
+           Ebbsfleet United        v Yeovil Town              1-1 (0-1)
+           Forest Green Rovers     v Barnet FC                0-0
+           Gateshead FC            v Halifax Town             1-3 (0-2)
+           Solihull Moors          v Eastleigh FC             0-1 (0-1)
+  Wed Jan/15
+    19.45  Sutton United           v Wealdstone FC            2-2 (1-1)
+  Sat Feb/1
+    15.00  AFC Fylde               v Oldham Athletic          1-2 (0-0)
+  Tue Feb/11
+    19.45  Dagenham & Redbridge    v Woking FC                1-2 (0-1)
+           Hartlepool United       v Tamworth FC              2-2 (1-2)
+  Tue Mar/25
+    19.45  Boston United           v Southend United
+           Rochdale AFC            v York City
+
+
+» Matchday 28
+  Fri Jan/17
+    19.30  Yeovil Town             v Gateshead FC             0-0
+  Sat Jan/18
+    15.00  Braintree Town          v Solihull Moors           1-0 (1-0)
+           Eastleigh FC            v Altrincham FC            1-2 (1-1)
+           Forest Green Rovers     v Rochdale AFC             1-0 (0-0)
+           Oldham Athletic         v Aldershot Town           1-3 (1-2)
+           Southend United         v Barnet FC                0-3 (0-2)
+           Tamworth FC             v Boston United            3-0 (2-0)
+           Wealdstone FC           v Hartlepool United        1-1 (0-1)
+           Woking FC               v Ebbsfleet United         1-1 (0-0)
+           York City               v Sutton United            1-2 (0-2)
+    17.30  Maidenhead United       v AFC Fylde                4-1 (2-0)
+  Tue Mar/18
+    19.45  Halifax Town            v Dagenham & Redbridge     0-1 (0-1)
+
+
+» Matchday 29
+  Sat Jan/25
+    15.00  AFC Fylde               v Wealdstone FC            2-0 (0-0)
+           Aldershot Town          v Tamworth FC              2-2 (0-0)
+           Altrincham FC           v Forest Green Rovers      1-1 (1-0)
+           Barnet FC               v Maidenhead United        3-0 (1-0)
+           Boston United           v York City                3-1 (1-1)
+           Dagenham & Redbridge    v Southend United          0-2 (0-1)
+           Ebbsfleet United        v Braintree Town           0-1 (0-1)
+           Gateshead FC            v Oldham Athletic          1-1 (0-1)
+           Hartlepool United       v Woking FC                1-1 (0-0)
+           Rochdale AFC            v Yeovil Town              4-0 (0-0)
+           Solihull Moors          v Halifax Town             0-2 (0-1)
+           Sutton United           v Eastleigh FC             1-0 (0-0)
+
+
+» Matchday 30
+  Tue Jan/28
+    19.45  Southend United         v AFC Fylde                2-0 (1-0)
+  Sat Feb/1
+    15.00  Braintree Town          v Hartlepool United        1-1 (0-0)
+           Halifax Town            v Ebbsfleet United         2-0 (1-0)
+           Tamworth FC             v Barnet FC                0-1 (0-1)
+           Wealdstone FC           v Solihull Moors           1-1 (1-1)
+           York City               v Dagenham & Redbridge     2-1 (1-0)
+  Tue Feb/11
+    19.45  Oldham Athletic         v Altrincham FC            2-2 (0-1)
+  Tue Feb/25
+    19.45  Eastleigh FC            v Gateshead FC             1-1 (0-0)
+  Tue Mar/11
+    19.45  Forest Green Rovers     v Sutton United            2-1 (2-0)
+           Yeovil Town             v Boston United            0-3 (0-2)
+  Tue Mar/18
+    19.45  Maidenhead United       v Aldershot Town           0-1 (0-0)
+  Tue Apr/1
+    19.45  Woking FC               v Rochdale AFC
+
+
+» Matchday 31
+  Sat Feb/8
+    15.00  Altrincham FC           v Braintree Town           3-1 (2-0)
+           Boston United           v Barnet FC                0-0
+           Dagenham & Redbridge    v Yeovil Town              1-1 (1-1)
+           Forest Green Rovers     v Eastleigh FC             2-1 (0-0)
+           Maidenhead United       v Southend United          1-0 (0-0)
+           Rochdale AFC            v Ebbsfleet United         0-0
+           Solihull Moors          v Oldham Athletic          0-1 (0-1)
+           Sutton United           v Hartlepool United        1-2 (0-0)
+           Wealdstone FC           v Gateshead FC             0-4 (0-2)
+           York City               v Woking FC                3-0 (1-0)
+    17.30  Tamworth FC             v Halifax Town             1-2 (0-1)
+  Tue Apr/1
+    19.45  Aldershot Town          v AFC Fylde
+
+
+» Matchday 32
+  Sat Feb/15
+    15.00  AFC Fylde               v Dagenham & Redbridge     1-1 (0-1)
+           Barnet FC               v Solihull Moors           3-1 (1-0)
+           Braintree Town          v Forest Green Rovers      2-0 (2-0)
+           Eastleigh FC            v Aldershot Town           2-0 (2-0)
+           Ebbsfleet United        v York City                0-2 (0-0)
+           Halifax Town            v Boston United            1-0 (0-0)
+           Gateshead FC            v Altrincham FC            0-1 (0-1)
+           Hartlepool United       v Maidenhead United        0-0
+           Oldham Athletic         v Sutton United            0-0
+           Southend United         v Rochdale AFC             1-1 (0-1)
+           Woking FC               v Tamworth FC              1-1 (0-0)
+           Yeovil Town             v Wealdstone FC            1-2 (1-1)
+
+
+» Matchday 33
+  Tue Feb/18
+    19.45  AFC Fylde               v Boston United            1-2 (1-2)
+           Barnet FC               v York City                3-1 (1-0)
+           Ebbsfleet United        v Forest Green Rovers      0-0
+           Gateshead FC            v Sutton United            4-3 (2-1)
+           Hartlepool United       v Altrincham FC            1-2 (0-0)
+           Oldham Athletic         v Maidenhead United        0-1 (0-0)
+           Southend United         v Aldershot Town           2-1 (0-0)
+           Yeovil Town             v Tamworth FC              2-1 (0-1)
+  Wed Feb/19
+    19.45  Braintree Town          v Wealdstone FC            1-2 (1-0)
+           Eastleigh FC            v Dagenham & Redbridge     3-0 (2-0)
+           Halifax Town            v Rochdale AFC             0-0
+           Woking FC               v Solihull Moors           1-0 (1-0)
+
+
+» Matchday 34
+  Sat Feb/22
+    15.00  Aldershot Town          v Hartlepool United        3-2 (0-1)
+           Altrincham FC           v AFC Fylde                1-2 (1-2)
+           Boston United           v Eastleigh FC             1-2 (0-1)
+           Dagenham & Redbridge    v Oldham Athletic          2-2 (1-0)
+           Forest Green Rovers     v Woking FC                1-1 (0-0)
+           Maidenhead United       v Yeovil Town              0-2 (0-1)
+           Rochdale AFC            v Barnet FC                0-4 (0-2)
+           Solihull Moors          v Gateshead FC             1-3 (0-1)
+           Sutton United           v Braintree Town           1-1 (0-0)
+           Tamworth FC             v Southend United          1-1 (1-0)
+           York City               v Halifax Town             2-2 (1-2)
+    15.15  Wealdstone FC           v Ebbsfleet United         4-2 (2-2)
+
+
+» Matchday 35
+  Sat Mar/1
+    15.00  Braintree Town          v Eastleigh FC             1-0 (1-0)
+           Dagenham & Redbridge    v Boston United            1-3 (1-1)
+           Ebbsfleet United        v Tamworth FC              2-3 (1-3)
+           Forest Green Rovers     v Maidenhead United        2-0 (1-0)
+           Hartlepool United       v York City                0-1 (0-1)
+           Oldham Athletic         v Barnet FC                0-3 (0-0)
+           Yeovil Town             v Southend United          2-2 (2-1)
+    17.30  Gateshead FC            v AFC Fylde                1-1 (1-0)
+  Tue Mar/25
+    19.45  Altrincham FC           v Solihull Moors
+           Wealdstone FC           v Aldershot Town
+           Woking FC               v Halifax Town
+  Tue Apr/8
+    19.45  Sutton United           v Rochdale AFC
+
+
+» Matchday 36
+  Tue Mar/4
+    19.45  AFC Fylde               v Hartlepool United        2-1 (2-1)
+           Aldershot Town          v Dagenham & Redbridge     0-0
+           Barnet FC               v Yeovil Town              5-0 (3-0)
+           Boston United           v Oldham Athletic          0-0
+           Eastleigh FC            v Ebbsfleet United         2-0 (1-0)
+           Halifax Town            v Forest Green Rovers      2-1 (1-0)
+           Maidenhead United       v Braintree Town           3-3 (1-2)
+           Rochdale AFC            v Gateshead FC             1-0 (0-0)
+           Solihull Moors          v Sutton United            1-1 (1-1)
+           Southend United         v Woking FC                2-2 (1-1)
+           Tamworth FC             v Wealdstone FC            4-1 (0-0)
+           York City               v Altrincham FC            1-2 (0-1)
+
+
+» Matchday 37
+  Sat Mar/8
+    12.30  Barnet FC               v Dagenham & Redbridge     1-0 (0-0)
+    15.00  AFC Fylde               v Braintree Town           0-2 (0-1)
+           Aldershot Town          v Gateshead FC             3-1 (1-1)
+           Boston United           v Woking FC                2-2 (0-1)
+           Eastleigh FC            v Hartlepool United        1-1 (1-1)
+           Halifax Town            v Yeovil Town              1-0 (1-0)
+           Maidenhead United       v Sutton United            0-1 (0-1)
+           Rochdale AFC            v Wealdstone FC            4-1 (1-0)
+           Solihull Moors          v Ebbsfleet United         2-1 (1-1)
+           Southend United         v Altrincham FC            2-1 (2-0)
+           Tamworth FC             v Oldham Athletic          1-1 (1-1)
+    17.30  York City               v Forest Green Rovers      1-1 (0-0)
+
+
+» Matchday 38
+  Sat Mar/15
+    12.30  Oldham Athletic         v Rochdale AFC             1-1 (0-1)
+    15.00  Altrincham FC           v Aldershot Town           1-2 (0-0)
+           Braintree Town          v Boston United            0-1 (0-1)
+           Dagenham & Redbridge    v Tamworth FC              1-3 (1-1)
+           Ebbsfleet United        v AFC Fylde                1-0 (0-0)
+           Forest Green Rovers     v Southend United          2-2 (2-1)
+           Gateshead FC            v Maidenhead United        0-2 (0-1)
+           Sutton United           v Halifax Town             0-3 (0-2)
+           Wealdstone FC           v Eastleigh FC             3-3 (0-3)
+           Woking FC               v Barnet FC                0-1 (0-1)
+           Yeovil Town             v York City                0-1 (0-0)
+    17.30  Hartlepool United       v Solihull Moors           1-1 (0-0)
+
+
+» Matchday 39
+  Sat Mar/22
+    12.30  Sutton United           v Dagenham & Redbridge     1-1 (0-0)
+    15.00  AFC Fylde               v Forest Green Rovers      3-0 (1-0)
+           Aldershot Town          v Ebbsfleet United         3-3 (2-3)
+           Braintree Town          v York City                2-1 (1-1)
+           Eastleigh FC            v Southend United          1-2 (0-2)
+           Gateshead FC            v Tamworth FC              0-2 (0-0)
+           Hartlepool United       v Boston United            4-1 (2-1)
+           Maidenhead United       v Rochdale AFC             1-1 (0-1)
+           Oldham Athletic         v Halifax Town             2-0 (1-0)
+           Solihull Moors          v Yeovil Town              0-3 (0-1)
+           Wealdstone FC           v Woking FC                1-0 (0-0)
+    17.30  Altrincham FC           v Barnet FC                0-1 (0-1)
+
+
+» Matchday 40
+  Sat Mar/29
+    12.30  Forest Green Rovers     v Solihull Moors
+    15.00  Barnet FC               v Gateshead FC
+           Boston United           v Sutton United
+           Dagenham & Redbridge    v Maidenhead United
+           Ebbsfleet United        v Altrincham FC
+           Halifax Town            v Hartlepool United
+           Rochdale AFC            v Aldershot Town
+           Tamworth FC             v Eastleigh FC
+           Woking FC               v Braintree Town
+           Yeovil Town             v AFC Fylde
+           York City               v Wealdstone FC
+    17.30  Southend United         v Oldham Athletic
+
+
+» Matchday 41
+  Sat Apr/5
+    12.30  AFC Fylde               v York City
+    15.00  Altrincham FC           v Yeovil Town
+           Braintree Town          v Barnet FC
+           Gateshead FC            v Dagenham & Redbridge
+           Hartlepool United       v Ebbsfleet United
+           Maidenhead United       v Tamworth FC
+           Sutton United           v Southend United
+           Wealdstone FC           v Forest Green Rovers
+    17.30  Eastleigh FC            v Halifax Town
+  Tue Apr/8
+    19.45  Aldershot Town          v Boston United
+           Oldham Athletic         v Woking FC
+  Tue Apr/29
+    19.45  Solihull Moors          v Rochdale AFC
+
+
+» Matchday 42
+  Sat Apr/12
+    12.30  Barnet FC               v Wealdstone FC
+    15.00  Boston United           v Altrincham FC
+           Dagenham & Redbridge    v Hartlepool United
+           Ebbsfleet United        v Sutton United
+           Halifax Town            v Maidenhead United
+           Rochdale AFC            v Eastleigh FC
+           Southend United         v Solihull Moors
+           Tamworth FC             v Braintree Town
+           Woking FC               v AFC Fylde
+           Yeovil Town             v Oldham Athletic
+           York City               v Aldershot Town
+    17.30  Forest Green Rovers     v Gateshead FC
+
+
+» Matchday 43
+  Fri Apr/18
+    12.30  Gateshead FC            v York City
+    15.00  AFC Fylde               v Halifax Town
+           Aldershot Town          v Sutton United
+           Altrincham FC           v Rochdale AFC
+           Boston United           v Wealdstone FC
+           Dagenham & Redbridge    v Ebbsfleet United
+           Maidenhead United       v Woking FC
+           Oldham Athletic         v Hartlepool United
+           Southend United         v Braintree Town
+           Tamworth FC             v Solihull Moors
+           Yeovil Town             v Forest Green Rovers
+    17.30  Barnet FC               v Eastleigh FC
+
+
+» Matchday 44
+  Mon Apr/21
+    15.00  Braintree Town          v Dagenham & Redbridge
+           Eastleigh FC            v Yeovil Town
+           Ebbsfleet United        v Southend United
+           Halifax Town            v Altrincham FC
+           Forest Green Rovers     v Tamworth FC
+           Hartlepool United       v Gateshead FC
+           Rochdale AFC            v AFC Fylde
+           Solihull Moors          v Boston United
+           Sutton United           v Barnet FC
+           Wealdstone FC           v Maidenhead United
+           Woking FC               v Aldershot Town
+           York City               v Oldham Athletic
+
+
+» Matchday 45
+  Sat Apr/26
+    15.00  Barnet FC               v Aldershot Town
+           Boston United           v Gateshead FC
+           Dagenham & Redbridge    v Altrincham FC
+           Ebbsfleet United        v Maidenhead United
+           Halifax Town            v Braintree Town
+           Forest Green Rovers     v Oldham Athletic
+           Rochdale AFC            v Hartlepool United
+           Southend United         v Wealdstone FC
+           Tamworth FC             v AFC Fylde
+           Woking FC               v Eastleigh FC
+           Yeovil Town             v Sutton United
+           York City               v Solihull Moors
+
+
+» Matchday 46
+  Mon May/5
+    15.00  AFC Fylde               v Barnet FC
+           Aldershot Town          v Yeovil Town
+           Altrincham FC           v Tamworth FC
+           Braintree Town          v Rochdale AFC
+           Eastleigh FC            v York City
+           Gateshead FC            v Southend United
+           Hartlepool United       v Forest Green Rovers
+           Maidenhead United       v Boston United
+           Oldham Athletic         v Ebbsfleet United
+           Solihull Moors          v Dagenham & Redbridge
+           Sutton United           v Woking FC
+           Wealdstone FC           v Halifax Town
