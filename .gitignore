@@ -3,3 +3,9 @@
 
 build.log
 sport.db
+
+
+####
+#  all generated json output and in pages publish/deploy directory 
+_site/
+*.json

@@ -1,0 +1,61 @@
+name: Generate and deploy json datasets
+
+on:
+  workflow_dispatch:
+    ### for testing / debugging allow "manual" start
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v3
+
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+
+    - name: Run install
+      run: |
+        gem install fbtxt2json 
+   
+    - name: Build datasets
+      run: |
+        fbtxt2json . -o ./_site
+   
+#    - name: Add .htaccess file
+#      run: |
+#        echo 'AddType application/json .json' > ./_site/.htaccess
+   
+    - name: Upload static files as artifact
+      id: deployment
+      uses: actions/upload-pages-artifact@v3  
+      with:
+        path: ./_site
+
+
+  # Deployment job
+  ##  todo/check - if there's a wayo to simplify the deploy config here
+  ##                 is the with token required? or the default?
+  ##                        what about permissions?
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        # with:
+        #  token: ${{ secrets.GITHUB_TOKEN }}
+
