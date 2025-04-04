@@ -26,7 +26,7 @@ jobs:
    
     - name: Build datasets
       run: |
-        fbtxt2json . -o ./_site
+        fbtxt2json . -o ./_site --summary
    
 #    - name: Add .htaccess file
 #      run: |
