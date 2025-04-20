@@ -738,53 +738,53 @@
 
 » Matchday 41
   Tue Apr/8
-    19.45  Blackburn Rovers FC     v Sheffield Wednesday FC
-           Bristol City FC         v West Bromwich Albion FC
-           Norwich City FC         v Sunderland AFC
-           Preston North End FC    v Cardiff City FC
-           Sheffield United FC     v Millwall FC
-           Stoke City FC           v Luton Town FC
-           Watford FC              v Hull City AFC
-           Derby County FC         v Burnley FC
-    20.00  Middlesbrough FC        v Leeds United FC
+    19.45  Blackburn Rovers FC     v Sheffield Wednesday FC   2-2 (0-2)
+           Bristol City FC         v West Bromwich Albion FC  2-1 (0-0)
+           Norwich City FC         v Sunderland AFC           0-0
+           Preston North End FC    v Cardiff City FC          2-2 (1-0)
+           Sheffield United FC     v Millwall FC              0-1 (0-1)
+           Stoke City FC           v Luton Town FC            1-1 (0-0)
+           Watford FC              v Hull City AFC            1-0 (0-0)
+           Derby County FC         v Burnley FC               0-0
+    20.00  Middlesbrough FC        v Leeds United FC          0-1 (0-1)
   Wed Apr/9
-    19.45  Oxford United FC        v Queens Park Rangers FC
-           Swansea City AFC        v Plymouth Argyle FC
-    20.00  Coventry City FC        v Portsmouth FC
+    19.45  Oxford United FC        v Queens Park Rangers FC   1-3 (0-2)
+           Swansea City AFC        v Plymouth Argyle FC       3-0 (3-0)
+    20.00  Coventry City FC        v Portsmouth FC            1-0 (0-0)
 
 
 » Matchday 42
   Fri Apr/11
-    20.00  Burnley FC              v Norwich City FC
+    20.00  Burnley FC              v Norwich City FC          2-1 (2-0)
   Sat Apr/12
-    12.30  Leeds United FC         v Preston North End FC
-           Plymouth Argyle FC      v Sheffield United FC
-    15.00  Cardiff City FC         v Stoke City FC
-           Luton Town FC           v Blackburn Rovers FC
-           Millwall FC             v Middlesbrough FC
-           Portsmouth FC           v Derby County FC
-           Queens Park Rangers FC  v Bristol City FC
-           Sheffield Wednesday FC  v Oxford United FC
-           Sunderland AFC          v Swansea City AFC
-           West Bromwich Albion FC v Watford FC
+    12.30  Leeds United FC         v Preston North End FC     2-1 (2-1)
+           Plymouth Argyle FC      v Sheffield United FC      2-1 (0-1)
+    15.00  Cardiff City FC         v Stoke City FC            0-1 (0-0)
+           Luton Town FC           v Blackburn Rovers FC      0-1 (0-0)
+           Millwall FC             v Middlesbrough FC         1-0 (0-0)
+           Portsmouth FC           v Derby County FC          2-2 (0-0)
+           Queens Park Rangers FC  v Bristol City FC          1-1 (1-1)
+           Sheffield Wednesday FC  v Oxford United FC         0-1 (0-0)
+           Sunderland AFC          v Swansea City AFC         0-1 (0-0)
+           West Bromwich Albion FC v Watford FC               2-1 (1-0)
   Mon Apr/14
-    20.00  Hull City AFC           v Coventry City FC
+    20.00  Hull City AFC           v Coventry City FC         1-1 (0-0)
 
 
 » Matchday 43
   Fri Apr/18
-    12.30  Derby County FC         v Luton Town FC
-    15.00  Blackburn Rovers FC     v Millwall FC
-           Bristol City FC         v Sunderland AFC
-           Coventry City FC        v West Bromwich Albion FC
-           Middlesbrough FC        v Plymouth Argyle FC
-           Watford FC              v Burnley FC
-           Norwich City FC         v Portsmouth FC
-           Preston North End FC    v Queens Park Rangers FC
-           Stoke City FC           v Sheffield Wednesday FC
-           Swansea City AFC        v Hull City AFC
-    17.30  Sheffield United FC     v Cardiff City FC
-    20.00  Oxford United FC        v Leeds United FC
+    12.30  Derby County FC         v Luton Town FC            0-1 (0-1)
+    15.00  Blackburn Rovers FC     v Millwall FC              4-1 (2-1)
+           Bristol City FC         v Sunderland AFC           2-1 (0-1)
+           Coventry City FC        v West Bromwich Albion FC  2-0 (1-0)
+           Middlesbrough FC        v Plymouth Argyle FC       2-1 (1-1)
+           Watford FC              v Burnley FC               1-2 (1-1)
+           Norwich City FC         v Portsmouth FC            3-5 (1-3)
+           Preston North End FC    v Queens Park Rangers FC   1-2 (1-0)
+           Stoke City FC           v Sheffield Wednesday FC   2-0 (1-0)
+           Swansea City AFC        v Hull City AFC            1-0 (0-0)
+    17.30  Sheffield United FC     v Cardiff City FC          2-0 (1-0)
+    20.00  Oxford United FC        v Leeds United FC          0-1 (0-1)
 
 
 » Matchday 44
@@ -804,24 +804,26 @@
 
 
 » Matchday 45
+  Fri Apr/25
+    20.00  Stoke City FC           v Sheffield United FC
   Sat Apr/26
+    12.30  Luton Town FC           v Coventry City FC
+           Queens Park Rangers FC  v Burnley FC
     15.00  Blackburn Rovers FC     v Watford FC
            Cardiff City FC         v West Bromwich Albion FC
            Hull City AFC           v Derby County FC
-           Leeds United FC         v Bristol City FC
-           Luton Town FC           v Coventry City FC
            Middlesbrough FC        v Norwich City FC
            Millwall FC             v Swansea City AFC
            Oxford United FC        v Sunderland AFC
            Preston North End FC    v Plymouth Argyle FC
-           Queens Park Rangers FC  v Burnley FC
            Sheffield Wednesday FC  v Portsmouth FC
-           Stoke City FC           v Sheffield United FC
+  Mon Apr/28
+    20.00  Leeds United FC         v Bristol City FC
 
 
 » Matchday 46
   Sat May/3
-    15.00  Bristol City FC         v Preston North End FC
+    12.30  Bristol City FC         v Preston North End FC
            Burnley FC              v Millwall FC
            Coventry City FC        v Middlesbrough FC
            Derby County FC         v Stoke City FC
