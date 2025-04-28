@@ -532,25 +532,25 @@
     14.00  Fulham FC               v Chelsea FC               1-2 (1-0)
            Ipswich Town FC         v Arsenal FC               0-4 (0-2)
            Manchester United FC    v Wolverhampton Wanderers FC  0-1 (0-0)
-    16.30  Leicester City FC       v Liverpool FC
+    16.30  Leicester City FC       v Liverpool FC             0-1 (0-0)
   Mon Apr/21
-    20.00  Tottenham Hotspur FC    v Nottingham Forest FC
+    20.00  Tottenham Hotspur FC    v Nottingham Forest FC     1-2 (0-2)
 
 
 » Matchday 34
   Tue Apr/22
-    20.00  Manchester City FC      v Aston Villa FC
+    20.00  Manchester City FC      v Aston Villa FC           2-1 (1-1)
   Wed Apr/23
-    20.00  Arsenal FC              v Crystal Palace FC
+    20.00  Arsenal FC              v Crystal Palace FC        2-2 (2-1)
   Sat Apr/26
-    12.30  Chelsea FC              v Everton FC
-    15.00  Brighton & Hove Albion FC v West Ham United FC
-           Newcastle United FC     v Ipswich Town FC
-           Southampton FC          v Fulham FC
-           Wolverhampton Wanderers FC v Leicester City FC
+    12.30  Chelsea FC              v Everton FC               1-0 (1-0)
+    15.00  Brighton & Hove Albion FC v West Ham United FC       3-2 (1-0)
+           Newcastle United FC     v Ipswich Town FC          3-0 (1-0)
+           Southampton FC          v Fulham FC                1-2 (1-0)
+           Wolverhampton Wanderers FC v Leicester City FC        3-0 (1-0)
   Sun Apr/27
-    14.00  AFC Bournemouth         v Manchester United FC
-    16.30  Liverpool FC            v Tottenham Hotspur FC
+    14.00  AFC Bournemouth         v Manchester United FC     1-1 (1-0)
+    16.30  Liverpool FC            v Tottenham Hotspur FC     5-1 (3-1)
   Thu May/1
     19.30  Nottingham Forest FC    v Brentford FC
 
@@ -562,11 +562,11 @@
     12.30  Aston Villa FC          v Fulham FC
     15.00  Everton FC              v Ipswich Town FC
            Leicester City FC       v Southampton FC
-           West Ham United FC      v Tottenham Hotspur FC
     17.30  Arsenal FC              v AFC Bournemouth
   Sun May/4
     14.00  Brentford FC            v Manchester United FC
            Brighton & Hove Albion FC v Newcastle United FC
+           West Ham United FC      v Tottenham Hotspur FC
     16.30  Chelsea FC              v Liverpool FC
   Mon May/5
     20.00  Crystal Palace FC       v Nottingham Forest FC
@@ -574,16 +574,16 @@
 
 » Matchday 36
   Sat May/10
-    12.30  Newcastle United FC     v Chelsea FC
     15.00  Fulham FC               v Everton FC
            Ipswich Town FC         v Brentford FC
-           Manchester United FC    v West Ham United FC
            Southampton FC          v Manchester City FC
-           Tottenham Hotspur FC    v Crystal Palace FC
            Wolverhampton Wanderers FC v Brighton & Hove Albion FC
     17.30  AFC Bournemouth         v Aston Villa FC
   Sun May/11
-    14.15  Nottingham Forest FC    v Leicester City FC
+    12.00  Newcastle United FC     v Chelsea FC
+    14.15  Manchester United FC    v West Ham United FC
+           Nottingham Forest FC    v Leicester City FC
+           Tottenham Hotspur FC    v Crystal Palace FC
     16.30  Liverpool FC            v Arsenal FC
 
 
