@@ -1,12 +1,13 @@
 = English Championship 2024/25
 
-# Date       Fri Aug/9 2024 - Sat May/3 2025 (267d)
+# Date       Fri Aug/9 2024 - Sat May/24 2025 (288d)
 # Teams      24
-# Matches    552
+# Matches    557
+# Stages     Regular (552)  Finals (5)
 
 
 
-» Matchday 1
+» Regular, Matchday 1
   Fri Aug/9 2024
     20.00  Blackburn Rovers FC     v Derby County FC          4-2 (1-0)
            Preston North End FC    v Sheffield United FC      0-2 (0-1)
@@ -25,7 +26,7 @@
     20.00  Luton Town FC           v Burnley FC               1-4 (0-2)
 
 
-» Matchday 2
+» Regular, Matchday 2
   Fri Aug/16
     20.00  Coventry City FC        v Oxford United FC         3-2 (2-1)
   Sat Aug/17
@@ -43,7 +44,7 @@
     12.00  Sunderland AFC          v Sheffield Wednesday FC   4-0 (3-0)
 
 
-» Matchday 3
+» Regular, Matchday 3
   Fri Aug/23
     20.00  Sheffield Wednesday FC  v Leeds United FC          0-2 (0-1)
   Sat Aug/24
@@ -61,7 +62,7 @@
     15.00  Swansea City AFC        v Cardiff City FC          1-1 (1-0)
 
 
-» Matchday 4
+» Regular, Matchday 4
   Fri Aug/30
     20.00  Luton Town FC           v Queens Park Rangers FC   1-2 (1-0)
   Sat Aug/31
@@ -79,7 +80,7 @@
     15.00  Sheffield United FC     v Watford FC               1-0 (1-0)
 
 
-» Matchday 5
+» Regular, Matchday 5
   Fri Sep/13
     20.00  Hull City AFC           v Sheffield United FC      0-2 (0-1)
   Sat Sep/14
@@ -97,7 +98,7 @@
     15.00  Portsmouth FC           v West Bromwich Albion FC  0-3 (0-1)
 
 
-» Matchday 6
+» Regular, Matchday 6
   Fri Sep/20
     20.00  Stoke City FC           v Hull City AFC            1-3 (1-0)
   Sat Sep/21
@@ -115,7 +116,7 @@
     12.00  Preston North End FC    v Blackburn Rovers FC      0-0
 
 
-» Matchday 7
+» Regular, Matchday 7
   Fri Sep/27
     20.00  Plymouth Argyle FC      v Luton Town FC            3-1 (1-0)
   Sat Sep/28
@@ -133,7 +134,7 @@
     15.00  Swansea City AFC        v Bristol City FC          1-1 (1-0)
 
 
-» Matchday 8
+» Regular, Matchday 8
   Tue Oct/1
     19.45  Burnley FC              v Plymouth Argyle FC       1-0 (1-0)
            Cardiff City FC         v Millwall FC              1-0 (1-0)
@@ -150,7 +151,7 @@
     20.00  Bristol City FC         v Sheffield Wednesday FC   0-0
 
 
-» Matchday 9
+» Regular, Matchday 9
   Fri Oct/4
     20.00  Sunderland AFC          v Leeds United FC          2-2 (1-1)
   Sat Oct/5
@@ -168,7 +169,7 @@
     15.00  Bristol City FC         v Cardiff City FC          1-1 (0-0)
 
 
-» Matchday 10
+» Regular, Matchday 10
   Fri Oct/18
     20.00  Leeds United FC         v Sheffield United FC      2-0 (0-0)
   Sat Oct/19
@@ -186,7 +187,7 @@
     15.00  Hull City AFC           v Sunderland AFC           0-1 (0-0)
 
 
-» Matchday 11
+» Regular, Matchday 11
   Tue Oct/22
     19.45  Cardiff City FC         v Portsmouth FC            2-0 (2-0)
            Leeds United FC         v Watford FC               2-1 (2-0)
@@ -203,7 +204,7 @@
     20.00  Middlesbrough FC        v Sheffield United FC      1-0 (0-0)
 
 
-» Matchday 12
+» Regular, Matchday 12
   Fri Oct/25
     20.00  Portsmouth FC           v Sheffield Wednesday FC   1-2 (1-0)
   Sat Oct/26
@@ -221,7 +222,7 @@
     15.00  Norwich City FC         v Middlesbrough FC         3-3 (1-3)
 
 
-» Matchday 13
+» Regular, Matchday 13
   Fri Nov/1
     20.00  Luton Town FC           v West Bromwich Albion FC  1-1 (0-1)
   Sat Nov/2
@@ -239,7 +240,7 @@
     15.00  Millwall FC             v Burnley FC               1-0 (0-0)
 
 
-» Matchday 14
+» Regular, Matchday 14
   Tue Nov/5
     19.45  Bristol City FC         v Sheffield United FC      1-2 (0-0)
            Oxford United FC        v Hull City AFC            1-0 (0-0)
@@ -257,7 +258,7 @@
     20.00  West Bromwich Albion FC v Burnley FC               0-0
 
 
-» Matchday 15
+» Regular, Matchday 15
   Fri Nov/8
     20.00  Watford FC              v Oxford United FC         1-0 (0-0)
   Sat Nov/9
@@ -275,7 +276,7 @@
     15.00  Burnley FC              v Swansea City AFC         1-0 (0-0)
 
 
-» Matchday 16
+» Regular, Matchday 16
   Fri Nov/22
     20.00  Plymouth Argyle FC      v Watford FC               2-2 (1-2)
   Sat Nov/23
@@ -292,7 +293,7 @@
     15.00  Swansea City AFC        v Leeds United FC          3-4 (2-1)
 
 
-» Matchday 17
+» Regular, Matchday 17
   Tue Nov/26
     19.45  Burnley FC              v Coventry City FC         2-0 (0-0)
            Hull City AFC           v Sheffield Wednesday FC   0-2 (0-1)
@@ -308,7 +309,7 @@
     20.00  Derby County FC         v Swansea City AFC         1-2 (0-2)
 
 
-» Matchday 18
+» Regular, Matchday 18
   Fri Nov/29
     20.00  Sheffield United FC     v Sunderland AFC           1-0 (0-0)
   Sat Nov/30
@@ -326,7 +327,7 @@
     15.00  Derby County FC         v Sheffield Wednesday FC   1-2 (1-0)
 
 
-» Matchday 19
+» Regular, Matchday 19
   Fri Dec/6
     20.00  Burnley FC              v Middlesbrough FC         1-1 (1-1)
   Sat Dec/7
@@ -342,7 +343,7 @@
     15.00  West Bromwich Albion FC v Sheffield United FC      2-2 (1-2)
 
 
-» Matchday 20
+» Regular, Matchday 20
   Tue Dec/10
     19.45  Burnley FC              v Derby County FC          0-0
            Luton Town FC           v Stoke City FC            2-1 (1-1)
@@ -359,7 +360,7 @@
     20.00  West Bromwich Albion FC v Coventry City FC         2-0 (1-0)
 
 
-» Matchday 21
+» Regular, Matchday 21
   Fri Dec/13
     20.00  Derby County FC         v Portsmouth FC            4-0 (3-0)
   Sat Dec/14
@@ -377,7 +378,7 @@
     15.00  Norwich City FC         v Burnley FC               1-2 (1-0)
 
 
-» Matchday 22
+» Regular, Matchday 22
   Fri Dec/20
     20.00  Luton Town FC           v Derby County FC          2-1 (0-0)
   Sat Dec/21
@@ -395,7 +396,7 @@
     15.00  West Bromwich Albion FC v Bristol City FC          2-0 (2-0)
 
 
-» Matchday 23
+» Regular, Matchday 23
   Thu Dec/26
     15.00  Blackburn Rovers FC     v Sunderland AFC           2-2 (1-0)
            Bristol City FC         v Luton Town FC            1-0 (0-0)
@@ -411,7 +412,7 @@
     20.00  Stoke City FC           v Leeds United FC          0-2 (0-1)
 
 
-» Matchday 24
+» Regular, Matchday 24
   Sun Dec/29
     12.30  Norwich City FC         v Queens Park Rangers FC   1-1 (0-1)
            Preston North End FC    v Sheffield Wednesday FC   3-1 (1-0)
@@ -427,7 +428,7 @@
     20.00  Middlesbrough FC        v Burnley FC               0-0
 
 
-» Matchday 25
+» Regular, Matchday 25
   Wed Jan/1 2025
     12.30  Plymouth Argyle FC      v Bristol City FC          2-2 (0-1)
            Queens Park Rangers FC  v Watford FC               3-1 (2-0)
@@ -443,7 +444,7 @@
     20.00  Sunderland AFC          v Sheffield United FC      2-1 (2-1)
 
 
-» Matchday 26
+» Regular, Matchday 26
   Sat Jan/4
     12.30  Blackburn Rovers FC     v Burnley FC               0-1 (0-0)
            Stoke City FC           v Plymouth Argyle FC       0-0
@@ -461,18 +462,18 @@
     20.00  Queens Park Rangers FC  v Luton Town FC            2-1 (1-1)
 
 
-» Matchday 19
+» Regular, Matchday 19
   Tue Jan/14
     19.45  Cardiff City FC         v Watford FC               1-1 (0-0)
            Plymouth Argyle FC      v Oxford United FC         1-1 (0-1)
 
 
-» Matchday 16
+» Regular, Matchday 16
   Wed Jan/15
     19.45  Blackburn Rovers FC     v Portsmouth FC            3-0 (0-0)
 
 
-» Matchday 27
+» Regular, Matchday 27
   Fri Jan/17
     20.00  Burnley FC              v Sunderland AFC           0-0
   Sat Jan/18
@@ -490,7 +491,7 @@
     12.00  Leeds United FC         v Sheffield Wednesday FC   3-0 (1-0)
 
 
-» Matchday 28
+» Regular, Matchday 28
   Tue Jan/21
     19.45  Blackburn Rovers FC     v Coventry City FC         0-2 (0-1)
            Derby County FC         v Sunderland AFC           0-1 (0-1)
@@ -507,7 +508,7 @@
     20.00  Plymouth Argyle FC      v Burnley FC               0-5 (0-5)
 
 
-» Matchday 29
+» Regular, Matchday 29
   Fri Jan/24
     20.00  Sheffield United FC     v Hull City AFC            0-3 (0-1)
   Sat Jan/25
@@ -525,12 +526,12 @@
     20.00  Burnley FC              v Leeds United FC          0-0
 
 
-» Matchday 17
+» Regular, Matchday 17
   Tue Jan/28
     19.45  Portsmouth FC           v Millwall FC              0-1 (0-1)
 
 
-» Matchday 30
+» Regular, Matchday 30
   Fri Jan/31
     20.00  Blackburn Rovers FC     v Preston North End FC     2-1 (1-0)
   Sat Feb/1
@@ -548,7 +549,7 @@
     20.00  Middlesbrough FC        v Sunderland AFC           2-3 (1-1)
 
 
-» Matchday 31
+» Regular, Matchday 31
   Tue Feb/4
     19.45  Burnley FC              v Oxford United FC         1-0 (1-0)
            Queens Park Rangers FC  v Blackburn Rovers FC      2-1 (1-0)
@@ -563,7 +564,7 @@
     12.00  Bristol City FC         v Swansea City AFC         0-1 (0-0)
 
 
-» Matchday 32
+» Regular, Matchday 32
   Tue Feb/11
     19.45  Coventry City FC        v Queens Park Rangers FC   1-0 (0-0)
            Derby County FC         v Oxford United FC         0-0
@@ -580,7 +581,7 @@
            West Bromwich Albion FC v Blackburn Rovers FC      0-2 (0-0)
 
 
-» Matchday 33
+» Regular, Matchday 33
   Fri Feb/14
     20.00  Queens Park Rangers FC  v Derby County FC          4-0 (2-0)
   Sat Feb/15
@@ -598,14 +599,14 @@
     20.00  Leeds United FC         v Sunderland AFC           2-1 (0-1)
 
 
-» Matchday 31
+» Regular, Matchday 31
   Tue Feb/18
     19.45  Preston North End FC    v Millwall FC              1-1 (0-1)
   Wed Feb/19
     19.45  Luton Town FC           v Plymouth Argyle FC       1-1 (0-0)
 
 
-» Matchday 34
+» Regular, Matchday 34
   Fri Feb/21
     19.45  Bristol City FC         v Middlesbrough FC         2-1 (0-1)
     20.00  Burnley FC              v Sheffield Wednesday FC   4-0 (1-0)
@@ -624,13 +625,13 @@
     20.00  Sheffield United FC     v Leeds United FC          1-3 (1-0)
 
 
-» Matchday 31
+» Regular, Matchday 31
   Tue Feb/25
     19.45  Cardiff City FC         v Hull City AFC            1-0 (0-0)
            Stoke City FC           v Middlesbrough FC         1-3 (1-1)
 
 
-» Matchday 35
+» Regular, Matchday 35
   Fri Feb/28
     20.00  Sheffield Wednesday FC  v Sunderland AFC           1-2 (0-1)
   Sat Mar/1
@@ -648,7 +649,7 @@
            Preston North End FC    v Swansea City AFC         0-0
 
 
-» Matchday 36
+» Regular, Matchday 36
   Fri Mar/7
     20.00  Norwich City FC         v Oxford United FC         1-1 (1-1)
   Sat Mar/8
@@ -666,7 +667,7 @@
     12.00  Portsmouth FC           v Leeds United FC          1-0 (0-0)
 
 
-» Matchday 37
+» Regular, Matchday 37
   Tue Mar/11
     19.45  Burnley FC              v West Bromwich Albion FC  1-1 (1-1)
            Cardiff City FC         v Luton Town FC            1-2 (0-0)
@@ -683,7 +684,7 @@
     20.00  Stoke City FC           v Blackburn Rovers FC      1-0 (1-0)
 
 
-» Matchday 38
+» Regular, Matchday 38
   Fri Mar/14
     20.00  Bristol City FC         v Norwich City FC          2-1 (2-0)
   Sat Mar/15
@@ -701,7 +702,7 @@
     12.30  Sheffield Wednesday FC  v Sheffield United FC      0-1 (0-0)
 
 
-» Matchday 39
+» Regular, Matchday 39
   Fri Mar/28
     20.00  Sheffield United FC     v Coventry City FC         3-1 (2-0)
   Sat Mar/29
@@ -719,7 +720,7 @@
     19.45  Derby County FC         v Preston North End FC     2-0 (0-0)
 
 
-» Matchday 40
+» Regular, Matchday 40
   Fri Apr/4
     20.00  Blackburn Rovers FC     v Middlesbrough FC         0-2 (0-2)
   Sat Apr/5
@@ -736,7 +737,7 @@
            Swansea City AFC        v Derby County FC          1-0 (0-0)
 
 
-» Matchday 41
+» Regular, Matchday 41
   Tue Apr/8
     19.45  Blackburn Rovers FC     v Sheffield Wednesday FC   2-2 (0-2)
            Bristol City FC         v West Bromwich Albion FC  2-1 (0-0)
@@ -753,7 +754,7 @@
     20.00  Coventry City FC        v Portsmouth FC            1-0 (0-0)
 
 
-» Matchday 42
+» Regular, Matchday 42
   Fri Apr/11
     20.00  Burnley FC              v Norwich City FC          2-1 (2-0)
   Sat Apr/12
@@ -771,7 +772,7 @@
     20.00  Hull City AFC           v Coventry City FC         1-1 (0-0)
 
 
-» Matchday 43
+» Regular, Matchday 43
   Fri Apr/18
     12.30  Derby County FC         v Luton Town FC            0-1 (0-1)
     15.00  Blackburn Rovers FC     v Millwall FC              4-1 (2-1)
@@ -787,7 +788,7 @@
     20.00  Oxford United FC        v Leeds United FC          0-1 (0-1)
 
 
-» Matchday 44
+» Regular, Matchday 44
   Mon Apr/21
     15.00  Cardiff City FC         v Oxford United FC         1-1 (0-0)
            Hull City AFC           v Preston North End FC     2-1 (0-1)
@@ -803,7 +804,7 @@
     17.30  Burnley FC              v Sheffield United FC      2-1 (2-1)
 
 
-» Matchday 45
+» Regular, Matchday 45
   Fri Apr/25
     20.00  Stoke City FC           v Sheffield United FC      0-2 (0-1)
   Sat Apr/26
@@ -821,7 +822,7 @@
     20.00  Leeds United FC         v Bristol City FC          4-0 (1-0)
 
 
-» Matchday 46
+» Regular, Matchday 46
   Sat May/3
     12.30  Bristol City FC         v Preston North End FC     2-2 (0-1)
            Burnley FC              v Millwall FC              3-1 (1-1)
@@ -835,3 +836,19 @@
            Swansea City AFC        v Oxford United FC         3-3 (1-1)
            Watford FC              v Sheffield Wednesday FC   1-1 (1-1)
            West Bromwich Albion FC v Luton Town FC            5-3 (3-1)
+
+
+» Finals, Semifinals
+  Thu May/8
+    20.00  Bristol City FC         v Sheffield United FC      0-3 (0-1)
+  Fri May/9
+    20.00  Coventry City FC        v Sunderland AFC           1-2 (0-0)
+  Mon May/12
+    20.00  Sheffield United FC     v Bristol City FC          3-0 (1-0)
+  Tue May/13
+    20.00  Sunderland AFC          v Coventry City FC         1-1 a.e.t. (0-1, 0-0)
+
+
+» Finals, Final
+  Sat May/24
+    15.00  Sheffield United FC     v Sunderland AFC
