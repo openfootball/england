@@ -1,6 +1,6 @@
 = English Championship 2025/26
 
-# Date       Fri Aug/8 2025 - Tue Dec/29 2026 (508d)
+# Date       Fri Aug/8 2025 - Sat May/2 2026 (267d)
 # Teams      24
 # Matches    552
 
@@ -234,36 +234,36 @@
 
 » Matchday 14
   Tue Nov/4
-    19.45  Birmingham City FC      v Millwall FC
-           Bristol City FC         v Blackburn Rovers FC
-           Charlton Athletic FC    v West Bromwich Albion FC
-           Derby County FC         v Hull City AFC
-           Ipswich Town FC         v Watford FC
-           Leicester City FC       v Middlesbrough FC
-           Oxford United FC        v Stoke City FC
-    20.00  Coventry City FC        v Sheffield United FC
+    19.45  Birmingham City FC      v Millwall FC              4-0 (2-0)
+           Bristol City FC         v Blackburn Rovers FC      0-1 (0-1)
+           Charlton Athletic FC    v West Bromwich Albion FC  1-0 (0-0)
+           Derby County FC         v Hull City AFC            2-1 (1-0)
+           Ipswich Town FC         v Watford FC               1-1 (1-1)
+           Leicester City FC       v Middlesbrough FC         1-1 (1-0)
+           Oxford United FC        v Stoke City FC            0-3 (0-2)
+    20.00  Coventry City FC        v Sheffield United FC      3-1 (0-1)
   Wed Nov/5
-    19.45  Preston North End FC    v Swansea City AFC
-           Queens Park Rangers FC  v Southampton FC
-           Sheffield Wednesday FC  v Norwich City FC
-    20.00  Portsmouth FC           v Wrexham AFC
+    19.45  Preston North End FC    v Swansea City AFC         2-1 (1-0)
+           Queens Park Rangers FC  v Southampton FC           1-2 (0-0)
+           Sheffield Wednesday FC  v Norwich City FC          1-1 (1-0)
+    20.00  Portsmouth FC           v Wrexham AFC              0-0
 
 
 » Matchday 15
   Fri Nov/7
-    20.00  Watford FC              v Bristol City FC
+    20.00  Watford FC              v Bristol City FC          1-1 (1-1)
   Sat Nov/8
-    12.30  Blackburn Rovers FC     v Derby County FC
-           Hull City AFC           v Portsmouth FC
-           Millwall FC             v Preston North End FC
-    15.00  Middlesbrough FC        v Birmingham City FC
-           Norwich City FC         v Leicester City FC
-           Sheffield United FC     v Queens Park Rangers FC
-           Southampton FC          v Sheffield Wednesday FC
-           Stoke City FC           v Coventry City FC
-           Swansea City AFC        v Ipswich Town FC
-           West Bromwich Albion FC v Oxford United FC
-           Wrexham AFC             v Charlton Athletic FC
+    12.30  Blackburn Rovers FC     v Derby County FC          1-2 (0-2)
+           Hull City AFC           v Portsmouth FC            3-2 (2-2)
+           Millwall FC             v Preston North End FC     1-1 (1-1)
+    15.00  Middlesbrough FC        v Birmingham City FC       2-1 (2-1)
+           Norwich City FC         v Leicester City FC        1-2 (0-0)
+           Sheffield United FC     v Queens Park Rangers FC   0-0
+           Southampton FC          v Sheffield Wednesday FC   3-1 (2-1)
+           Stoke City FC           v Coventry City FC         0-1 (0-0)
+           Swansea City AFC        v Ipswich Town FC          1-4 (0-1)
+           West Bromwich Albion FC v Oxford United FC         2-1 (0-0)
+           Wrexham AFC             v Charlton Athletic FC     1-0 (0-0)
 
 
 » Matchday 16
@@ -402,6 +402,22 @@
            Stoke City FC           v Preston North End FC
            West Bromwich Albion FC v Bristol City FC
     17.30  Wrexham AFC             v Sheffield United FC
+
+
+» Matchday 24
+  Mon Dec/29
+    18.00  Coventry City FC        v Ipswich Town FC
+    19.45  Leicester City FC       v Derby County FC
+           Middlesbrough FC        v Hull City AFC
+           Millwall FC             v Bristol City FC
+           Norwich City FC         v Watford FC
+           Oxford United FC        v Swansea City AFC
+           Portsmouth FC           v Charlton Athletic FC
+           Sheffield Wednesday FC  v Blackburn Rovers FC
+           Stoke City FC           v Sheffield United FC
+           West Bromwich Albion FC v Queens Park Rangers FC
+           Wrexham AFC             v Preston North End FC
+    20.15  Birmingham City FC      v Southampton FC
 
 
 » Matchday 25
@@ -759,19 +775,3 @@
            Swansea City AFC        v Charlton Athletic FC
            Watford FC              v Coventry City FC
            Wrexham AFC             v Middlesbrough FC
-
-
-» Matchday 24
-  Tue Dec/29
-    18.00  Coventry City FC        v Ipswich Town FC
-    19.45  Leicester City FC       v Derby County FC
-           Middlesbrough FC        v Hull City AFC
-           Millwall FC             v Bristol City FC
-           Norwich City FC         v Watford FC
-           Oxford United FC        v Swansea City AFC
-           Portsmouth FC           v Charlton Athletic FC
-           Sheffield Wednesday FC  v Blackburn Rovers FC
-           Stoke City FC           v Sheffield United FC
-           West Bromwich Albion FC v Queens Park Rangers FC
-           Wrexham AFC             v Preston North End FC
-    20.15  Birmingham City FC      v Southampton FC
