@@ -31,21 +31,21 @@ Example:
 ```
 = English Premier League
 
-Matchday 1
+» Matchday 1
 
-[Sat Aug/16]
-  Manchester United    1-2  Swansea City
-  Leicester City       2-2  Everton FC
-  Queens Park Rangers  0-1  Hull City
-  Stoke City           0-1  Aston Villa
-  West Bromwich Albion 2-2  Sunderland AFC
-  West Ham United      0-1  Tottenham Hotspur
-  Arsenal FC           2-1  Crystal Palace
-[Sun Aug/17]
-  Liverpool FC         2-1  Southampton FC
-  Newcastle United     0-2  Manchester City
-[Mon Aug/18]
-  Burnley FC           1-3  Chelsea FC
+Sat Aug/16
+  Manchester United     v Swansea City    1-2
+  Leicester City        v Everton FC      2-2
+  Queens Park Rangers   v Hull City       0-1
+  Stoke City            v Aston Villa     0-1
+  West Bromwich Albion  v Sunderland AFC  2-2
+  West Ham United       v Tottenham Hotspur  0-1
+  Arsenal FC            v Crystal Palace   2-1
+Sun Aug/17
+  Liverpool FC          v Southampton FC   2-1
+  Newcastle United      v Manchester City  0-2
+Mon Aug/18
+  Burnley FC            v Chelsea FC   1-3
 
 ...
 ```
