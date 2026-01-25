@@ -31,7 +31,7 @@ Example:
 ```
 = English Premier League
 
-» Matchday 1
+▪ Matchday 1
   Fri Aug/15 
     20.00  Liverpool FC               v AFC Bournemouth          4-2 (1-0)
   Sat Aug/16
