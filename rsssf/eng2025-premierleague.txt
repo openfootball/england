@@ -1,0 +1,596 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tablese/eng2025.html
+
+=Premier League 2024/25=
+
+
+<!-- Final Table:
+
+ 1.Liverpool               38  25  9  4  86-41  84       Champions
+ 2.Arsenal                 38  20 14  4  69-34  74
+ 3.Manchester City         38  21  8  9  72-44  71  [C]
+ 4.Chelsea                 38  20  9  9  64-43  69
+ 5.Newcastle United        38  20  6 12  68-47  66
+ 6.Aston Villa             38  19  9 10  58-51  66
+ 7.Nottingham Forest       38  19  8 11  58-46  65
+ 8.Brighton & Hove Albion  38  16 13  9  66-59  61
+ 9.AFC Bournemouth         38  15 11 12  58-46  56
+10.Brentford               38  16  8 14  66-57  56
+11.Fulham                  38  15  9 14  54-54  54
+12.Crystal Palace          38  13 14 11  51-51  53
+13.Everton                 38  11 15 12  42-44  48
+14.West Ham United         38  11 10 17  46-62  43
+15.Manchester United       38  11  9 18  44-54  42
+16.Wolverhampton Wanderers 38  12  6 20  54-69  42
+17.Tottenham Hotspur       38  11  5 22  64-65  38
+--------------------------------------------------
+18.Leicester City          38   6  7 25  33-80  25  [P]  Relegated
+19.Ipswich Town            38   4 10 24  36-82  22  [P]  Relegated
+20.Southampton             38   2  6 30  26-86  12  [P]  Relegated  -->
+
+
+▪ Round 1
+Aug 16
+  Manchester U  1-0 Fulham        
+Aug 17
+  Ipswich       0-2 Liverpool     
+  Arsenal       2-0 Wolverhampton 
+  Everton       0-3 Brighton      
+  Newcastle     1-0 Southampton   
+  Nottingham    1-1 Bournemouth   
+  West Ham      1-2 Aston Villa   
+Aug 18
+  Brentford     2-1 Crystal P     
+  Chelsea       0-2 Manchester C  
+Aug 19
+  Leicester     1-1 Tottenham     
+
+▪ Round 2
+Aug 24
+Brighton      2-1 Manchester U  
+Crystal P     0-2 West Ham      
+Fulham        2-1 Leicester     
+Manchester C  4-1 Ipswich       
+Southampton   0-1 Nottingham    
+Tottenham     4-0 Everton       
+Aston Villa   0-2 Arsenal       
+Aug 25
+Bournemouth   1-1 Newcastle     
+Wolverhampton 2-6 Chelsea       
+Liverpool     2-0 Brentford     
+
+▪ Round 3
+Aug 31
+Arsenal       1-1 Brighton      
+Brentford     3-1 Southampton   
+Everton       2-3 Bournemouth   
+Ipswich       1-1 Fulham        
+Leicester     1-2 Aston Villa   
+Nottingham    1-1 Wolverhampton 
+West Ham      1-3 Manchester C  
+Sep 1
+Chelsea       1-1 Crystal P     
+Newcastle     2-1 Tottenham     
+Manchester U  0-3 Liverpool     
+
+▪ Round 4
+Sep 14
+Southampton   0-3 Manchester U  
+Brighton      0-0 Ipswich       
+Crystal P     2-2 Leicester     
+Fulham        1-1 West Ham      
+Liverpool     0-1 Nottingham    
+Manchester C  2-1 Brentford     
+Aston Villa   3-2 Everton       
+Bournemouth   0-1 Chelsea       
+Sep 15
+Tottenham     0-1 Arsenal       
+Wolverhampton 1-2 Newcastle     
+
+▪ Round 5
+Sep 21
+West Ham      0-3 Chelsea       
+Aston Villa   3-1 Wolverhampton 
+Fulham        3-1 Newcastle     
+Leicester     1-1 Everton       
+Liverpool     3-0 Bournemouth   
+Southampton   1-1 Ipswich       
+Tottenham     3-1 Brentford     
+Crystal P     0-0 Manchester U  
+Sep 22
+Brighton      2-2 Nottingham    
+Manchester C  2-2 Arsenal       
+
+▪ Round 6
+Sep 28
+Newcastle     1-1 Manchester C  
+Arsenal       4-2 Leicester     
+Brentford     1-1 West Ham      
+Chelsea       4-2 Brighton      
+Everton       2-1 Crystal P     
+Nottingham    0-1 Fulham        
+Wolverhampton 1-2 Liverpool     
+Sep 29
+Ipswich       2-2 Aston Villa   
+Manchester U  0-3 Tottenham     
+Sep 30
+Bournemouth   3-1 Southampton   
+
+▪ Round 7
+Oct 5
+Crystal P     0-1 Liverpool     
+Arsenal       3-1 Southampton   
+Brentford     5-3 Wolverhampton 
+Leicester     1-0 Bournemouth   
+Manchester C  3-2 Fulham        
+West Ham      4-1 Ipswich       
+Everton       0-0 Newcastle     
+Oct 6
+Aston Villa   0-0 Manchester U  
+Chelsea       1-1 Nottingham    
+Brighton      3-2 Tottenham     
+
+▪ Round 8
+Oct 19
+Tottenham     4-1 West Ham      
+Fulham        1-3 Aston Villa   
+Manchester U  2-1 Brentford     
+Newcastle     0-1 Brighton      
+Southampton   2-3 Leicester     
+Ipswich       0-2 Everton       
+Bournemouth   2-0 Arsenal       
+Oct 20
+Wolverhampton 1-2 Manchester C  
+Liverpool     2-1 Chelsea       
+Oct 21
+Nottingham    1-0 Crystal P     
+
+▪ Round 9
+Oct 25
+Leicester     1-3 Nottingham    
+Oct 26
+Aston Villa   1-1 Bournemouth   
+Brentford     4-3 Ipswich       
+Brighton      2-2 Wolverhampton 
+Manchester C  1-0 Southampton   
+Everton       1-1 Fulham        
+Oct 27
+Chelsea       2-1 Newcastle     
+Crystal P     1-0 Tottenham     
+West Ham      2-1 Manchester U  
+Arsenal       2-2 Liverpool     
+
+▪ Round 10
+Nov 2
+Newcastle     1-0 Arsenal       
+Bournemouth   2-1 Manchester C  
+Ipswich       1-1 Leicester     
+Liverpool     2-1 Brighton      
+Nottingham    3-0 West Ham      
+Southampton   1-0 Everton       
+Wolverhampton 2-2 Crystal P     
+Nov 3
+Tottenham     4-1 Aston Villa   
+Manchester U  1-1 Chelsea       
+Nov 4
+Fulham        2-1 Brentford     
+
+▪ Round 11
+Nov 9
+Brentford     3-2 Bournemouth   
+Crystal P     0-2 Fulham        
+West Ham      0-0 Everton       
+Wolverhampton 2-0 Southampton   
+Brighton      2-1 Manchester C  
+Liverpool     2-0 Aston Villa   
+Nov 10
+Manchester U  3-0 Leicester     
+Nottingham    1-3 Newcastle     
+Tottenham     1-2 Ipswich       
+Chelsea       1-1 Arsenal       
+
+▪ Round 12
+Nov 23
+Leicester     1-2 Chelsea       
+Arsenal       3-0 Nottingham    
+Aston Villa   2-2 Crystal P     
+Bournemouth   1-2 Brighton      
+Everton       0-0 Brentford     
+Fulham        1-4 Wolverhampton 
+Manchester C  0-4 Tottenham     
+Nov 24
+Southampton   2-3 Liverpool     
+Ipswich       1-1 Manchester U  
+Newcastle     0-2 West Ham      
+
+▪ Round 13
+Nov 29
+Brighton      1-1 Southampton   
+Nov 30
+Brentford     4-1 Leicester     
+Crystal P     1-1 Newcastle     
+Nottingham    1-0 Ipswich       
+Wolverhampton 2-4 Bournemouth   
+West Ham      2-5 Arsenal       
+Dec 1
+Chelsea       3-0 Aston Villa   
+Manchester U  4-0 Everton       
+Tottenham     1-1 Fulham        
+Liverpool     2-0 Manchester C  
+
+▪ Round 14
+Dec 3
+Ipswich       0-1 Crystal P     
+Leicester     3-1 West Ham      
+Dec 4
+Everton       4-0 Wolverhampton 
+Manchester C  3-0 Nottingham    
+Newcastle     3-3 Liverpool     
+Southampton   1-5 Chelsea       
+Arsenal       2-0 Manchester U  
+Aston Villa   3-1 Brentford     
+Dec 5
+Fulham        3-1 Brighton      
+Bournemouth   1-0 Tottenham     
+
+▪ Round 15
+Dec 7
+Aston Villa   1-0 Southampton   
+Brentford     4-2 Newcastle     
+Crystal P     2-2 Manchester C  
+Manchester U  2-3 Nottingham    
+Dec 8
+Fulham        1-1 Arsenal       
+Ipswich       1-2 Bournemouth   
+Leicester     2-2 Brighton      
+Tottenham     3-4 Chelsea       
+Dec 9
+West Ham      2-1 Wolverhampton 
+Feb 12
+Everton       2-2 Liverpool     
+
+▪ Round 16
+Dec 14
+Arsenal       0-0 Everton       
+Liverpool     2-2 Fulham        
+Newcastle     4-0 Leicester     
+Wolverhampton 1-2 Ipswich       
+Nottingham    2-1 Aston Villa   
+Dec 15
+Brighton      1-3 Crystal P     
+Manchester C  1-2 Manchester U  
+Chelsea       2-1 Brentford     
+Southampton   0-5 Tottenham     
+Dec 16
+Bournemouth   1-1 West Ham      
+
+▪ Round 17
+Dec 21
+Aston Villa   2-1 Manchester C  
+Brentford     0-2 Nottingham    
+Ipswich       0-4 Newcastle     
+West Ham      1-1 Brighton      
+Crystal P     1-5 Arsenal       
+Dec 22
+Everton       0-0 Chelsea       
+Fulham        0-0 Southampton   
+Leicester     0-3 Wolverhampton 
+Manchester U  0-3 Bournemouth   
+Tottenham     3-6 Liverpool     
+
+▪ Round 18
+Dec 26
+Manchester C  1-1 Everton       
+Bournemouth   0-0 Crystal P     
+Chelsea       1-2 Fulham        
+Newcastle     3-0 Aston Villa   
+Nottingham    1-0 Tottenham     
+Southampton   0-1 West Ham      
+Wolverhampton 2-0 Manchester U  
+Liverpool     3-1 Leicester     
+Dec 27
+Brighton      0-0 Brentford     
+Arsenal       1-0 Ipswich       
+
+▪ Round 19
+Dec 29
+Leicester     0-2 Manchester C  
+Crystal P     2-1 Southampton   
+Everton       0-2 Nottingham    
+Fulham        2-2 Bournemouth   
+Tottenham     2-2 Wolverhampton 
+West Ham      0-5 Liverpool     
+Dec 30
+Aston Villa   2-2 Brighton      
+Ipswich       2-0 Chelsea       
+Manchester U  0-2 Newcastle     
+Jan 1
+Brentford     1-3 Arsenal       
+
+▪ Round 20
+Jan 4
+Tottenham     1-2 Newcastle     
+Aston Villa   2-1 Leicester     
+Bournemouth   1-0 Everton       
+Crystal P     1-1 Chelsea       
+Manchester C  4-1 West Ham      
+Southampton   0-5 Brentford     
+Brighton      1-1 Arsenal       
+Jan 5
+Fulham        2-2 Ipswich       
+Liverpool     2-2 Manchester U  
+Jan 6
+Wolverhampton 0-3 Nottingham    
+
+▪ Round 21
+Jan 14
+Brentford     2-2 Manchester C  
+Chelsea       2-2 Bournemouth   
+West Ham      3-2 Fulham        
+Nottingham    1-1 Liverpool     
+Jan 15
+Everton       0-1 Aston Villa   
+Leicester     0-2 Crystal P     
+Newcastle     3-0 Wolverhampton 
+Arsenal       2-1 Tottenham     
+Jan 16
+Ipswich       0-2 Brighton      
+Manchester U  3-1 Southampton   
+
+▪ Round 22
+Jan 18
+Newcastle     1-4 Bournemouth   
+Brentford     0-2 Liverpool     
+Leicester     0-2 Fulham        
+West Ham      0-2 Crystal P     
+Arsenal       2-2 Aston Villa   
+Jan 19
+Everton       3-2 Tottenham     
+Manchester U  1-3 Brighton      
+Nottingham    3-2 Southampton   
+Ipswich       0-6 Manchester C  
+Jan 20
+Chelsea       3-1 Wolverhampton 
+
+▪ Round 23
+Jan 25
+Bournemouth   5-0 Nottingham    
+Brighton      0-1 Everton       
+Liverpool     4-1 Ipswich       
+Southampton   1-3 Newcastle     
+Wolverhampton 0-1 Arsenal       
+Manchester C  3-1 Chelsea       
+Jan 26
+Crystal P     1-2 Brentford     
+Tottenham     1-2 Leicester     
+Aston Villa   1-1 West Ham      
+Fulham        0-1 Manchester U  
+
+▪ Round 24
+Feb 1
+Nottingham    7-0 Brighton      
+Bournemouth   0-2 Liverpool     
+Everton       4-0 Leicester     
+Ipswich       1-2 Southampton   
+Newcastle     1-2 Fulham        
+Wolverhampton 2-0 Aston Villa   
+Feb 2
+Brentford     0-2 Tottenham     
+Manchester U  0-2 Crystal P     
+Arsenal       5-1 Manchester C  
+Feb 3
+Chelsea       2-1 West Ham      
+
+▪ Round 25
+Feb 14
+Brighton      3-0 Chelsea       
+Feb 15
+Leicester     0-2 Arsenal       
+Aston Villa   1-1 Ipswich       
+Fulham        2-1 Nottingham    
+Manchester C  4-0 Newcastle     
+Southampton   1-3 Bournemouth   
+West Ham      0-1 Brentford     
+Crystal P     1-2 Everton       
+Feb 16
+Liverpool     2-1 Wolverhampton 
+Tottenham     1-0 Manchester U  
+
+▪ Round 26
+Feb 21
+Leicester     0-4 Brentford     
+Feb 22
+Everton       2-2 Manchester U  
+Arsenal       0-1 West Ham      
+Bournemouth   0-1 Wolverhampton 
+Fulham        0-2 Crystal P     
+Ipswich       1-4 Tottenham     
+Southampton   0-4 Brighton      
+Aston Villa   2-1 Chelsea       
+Feb 23
+Newcastle     4-3 Nottingham    
+Manchester C  0-2 Liverpool     
+
+▪ Round 27
+Feb 25
+Brighton      2-1 Bournemouth   
+Crystal P     4-1 Aston Villa   
+Wolverhampton 1-2 Fulham        
+Chelsea       4-0 Southampton   
+Feb 26
+Brentford     1-1 Everton       
+Manchester U  3-2 Ipswich       
+Nottingham    0-0 Arsenal       
+Tottenham     0-1 Manchester C  
+Liverpool     2-0 Newcastle     
+Feb 27
+West Ham      2-0 Leicester     
+
+▪ Round 28
+Mar 8
+Nottingham    1-0 Manchester C  
+Brighton      2-1 Fulham        
+Crystal P     1-0 Ipswich       
+Liverpool     3-1 Southampton   
+Brentford     0-1 Aston Villa   
+Wolverhampton 1-1 Everton       
+Mar 9
+Chelsea       1-0 Leicester     
+Tottenham     2-2 Bournemouth   
+Manchester U  1-1 Arsenal       
+Mar 10
+West Ham      0-1 Newcastle     
+
+▪ Round 29
+Feb 19
+Aston Villa   2-2 Liverpool     
+Mar 15
+Everton       1-1 West Ham      
+Ipswich       2-4 Nottingham    
+Manchester C  2-2 Brighton      
+Southampton   1-2 Wolverhampton 
+Bournemouth   1-2 Brentford     
+Mar 16
+Arsenal       1-0 Chelsea       
+Fulham        2-0 Tottenham     
+Leicester     0-3 Manchester U  
+Apr 16
+Newcastle     5-0 Crystal P     
+
+▪ Round 30
+Apr 1
+Arsenal       2-1 Fulham        
+Wolverhampton 1-0 West Ham      
+Nottingham    1-0 Manchester U  
+Apr 2
+Bournemouth   1-2 Ipswich       
+Brighton      0-3 Aston Villa   
+Manchester C  2-0 Leicester     
+Newcastle     2-1 Brentford     
+Southampton   1-1 Crystal P     
+Liverpool     1-0 Everton       
+Apr 3
+Chelsea       1-0 Tottenham     
+
+▪ Round 31
+Apr 5
+Everton       1-1 Arsenal       
+Crystal P     2-1 Brighton      
+Ipswich       1-2 Wolverhampton 
+West Ham      2-2 Bournemouth   
+Aston Villa   2-1 Nottingham    
+Apr 6
+Brentford     0-0 Chelsea       
+Fulham        3-2 Liverpool     
+Tottenham     3-1 Southampton   
+Manchester U  0-0 Manchester C  
+Apr 7
+Leicester     0-3 Newcastle     
+
+▪ Round 32
+Apr 12
+Manchester C  5-2 Crystal P     
+Brighton      2-2 Leicester     
+Nottingham    0-1 Everton       
+Southampton   0-3 Aston Villa   
+Arsenal       1-1 Brentford     
+Apr 13
+Chelsea       2-2 Ipswich       
+Liverpool     2-1 West Ham      
+Wolverhampton 4-2 Tottenham     
+Newcastle     4-1 Manchester U  
+Apr 14
+Bournemouth   1-0 Fulham        
+
+▪ Round 33
+Apr 19
+Brentford     4-2 Brighton      
+Crystal P     0-0 Bournemouth   
+Everton       0-2 Manchester C  
+West Ham      1-1 Southampton   
+Aston Villa   4-1 Newcastle     
+Apr 20
+Fulham        1-2 Chelsea       
+Ipswich       0-4 Arsenal       
+Manchester U  0-1 Wolverhampton 
+Leicester     0-1 Liverpool     
+Apr 21
+Tottenham     1-2 Nottingham    
+
+▪ Round 34
+Apr 22
+Manchester C  2-1 Aston Villa   
+Apr 23
+Arsenal       2-2 Crystal P     
+Apr 26
+Chelsea       1-0 Everton       
+Brighton      3-2 West Ham      
+Newcastle     3-0 Ipswich       
+Southampton   1-2 Fulham        
+Wolverhampton 3-0 Leicester     
+Apr 27
+Bournemouth   1-1 Manchester U  
+Liverpool     5-1 Tottenham     
+May 1
+Nottingham    0-2 Brentford     
+
+▪ Round 35
+May 2
+Manchester C  1-0 Wolverhampton 
+May 3
+Aston Villa   1-0 Fulham        
+Everton       2-2 Ipswich       
+Leicester     2-0 Southampton   
+Arsenal       1-2 Bournemouth   
+May 4
+Brentford     4-3 Manchester U  
+Brighton      1-1 Newcastle     
+West Ham      1-1 Tottenham     
+Chelsea       3-1 Liverpool     
+May 5
+Crystal P     1-1 Nottingham    
+
+▪ Round 36
+May 10
+Fulham        1-3 Everton       
+Ipswich       0-1 Brentford     
+Southampton   0-0 Manchester C  
+Wolverhampton 0-2 Brighton      
+Bournemouth   0-1 Aston Villa   
+May 11
+Newcastle     2-0 Chelsea       
+Manchester U  0-2 West Ham      
+Nottingham    2-2 Leicester     
+Tottenham     0-2 Crystal P     
+Liverpool     2-2 Arsenal       
+
+▪ Round 37
+May 16
+Aston Villa   2-0 Tottenham     
+Chelsea       1-0 Manchester U  
+May 18
+Everton       2-0 Southampton   
+West Ham      1-2 Nottingham    
+Brentford     2-3 Fulham        
+Leicester     2-0 Ipswich       
+Arsenal       1-0 Newcastle     
+May 19
+Brighton      3-2 Liverpool     
+May 20
+Crystal P     4-2 Wolverhampton 
+Manchester C  3-1 Bournemouth   
+
+▪ Round 38 
+May 25
+Bournemouth   2-0 Leicester     
+Fulham        0-2 Manchester C  
+Ipswich       1-3 West Ham      
+Liverpool     1-1 Crystal P     
+Manchester U  2-0 Aston Villa   
+Newcastle     0-1 Everton       
+Nottingham    0-1 Chelsea       
+Southampton   1-2 Arsenal       
+Tottenham     1-4 Brighton      
+Wolverhampton 1-1 Brentford     
+

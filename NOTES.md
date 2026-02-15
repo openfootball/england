@@ -5,7 +5,7 @@
 Official site - [`www.premierleague.com`](http://www.premierleague.com)
 
 - 20 teams
-- 380 matches
+- 380 matches (10 matches/round, 38 (2x19) rounds)
 
 ### Wikipedia
 

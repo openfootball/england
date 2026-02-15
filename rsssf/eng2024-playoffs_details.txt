@@ -1,0 +1,226 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tablese/eng2024.html
+
+=EFL Playoffs 2023/24=
+==Championship==
+===Regular Stage==
+
+
+<!-- Final Table:
+
+ 1.Leicester City          46  31  4 11  89-41  97  [R]  Promoted
+ 2.Ipswich Town            46  28 12  6  92-57  96  [P]  Promoted
+--------------------------------------------------
+ 3.Leeds United            46  27  9 10  81-43  90  [R]  Promotion Playoff
+ 4.Southampton             46  26  9 11  87-63  87  [R]  Promotion Playoff
+ 5.West Bromwich Albion    46  21 12 13  70-47  75       Promotion Playoff
+ 6.Norwich City            46  21 10 15  79-64  73       Promotion Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Hull City               46  19 13 14  68-60  70
+ 8.Middlesbrough           46  20  9 17  71-62  69
+ 9.Coventry City           46  17 13 16  70-59  64
+10.Preston North End       46  18  9 19  56-67  63
+11.Bristol City            46  17 11 18  53-51  62
+12.Cardiff City            46  19  5 22  53-70  62
+13.Millwall                46  16 11 19  45-55  59
+14.Swansea City            46  15 12 19  59-65  57
+15.Watford                 46  13 17 16  61-61  56
+16.Sunderland              46  16  8 22  52-54  56
+17.Stoke City              46  15 11 20  49-60  56
+18.Queens Park Rangers     46  15 11 20  47-58  56
+19.Blackburn Rovers        46  14 11 21  60-74  53
+20.Sheffield Wednesday     46  15  8 23  44-68  53  [P]
+21.Plymouth Argyle         46  13 12 21  59-70  51  [P]
+--------------------------------------------------
+22.Birmingham City         46  13 11 22  50-65  50       Relegated
+23.Huddersfield Town       46   9 18 19  48-77  45       Relegated
+24.Rotherham United        46   5 12 29  37-89  27       Relegated  -->
+
+
+===Promotion Playoff===
+
+▪ Championship, Promotion Playoff, Semifinals, First Legs 
+May 12
+  Norwich       0-0 Leeds         
+  West Bromwich 0-0 Southampton   
+
+▪ Championship, Promotion Playoff, Semifinals, Second Legs
+May 16
+  Leeds         4-0 Norwich       
+May 17
+  Southampton   3-1 West Bromwich 
+
+▪ Championship, Promotion Playoff, Final
+May 26
+  Leeds         0-1 Southampton   
+
+
+==Division 1==
+===Regular Stage===
+
+<!-- Final Table:
+
+ 1.Portsmouth              46  28 13  5  78-41  97       Promoted
+ 2.Derby County            46  28  8 10  78-37  92       Promoted
+--------------------------------------------------
+ 3.Bolton Wanderers        46  25 12  9  86-51  87       Promotion Playoff
+ 4.Peterborough United     46  25  9 12  89-61  84       Promotion Playoff
+ 5.Oxford United           46  22 11 13  79-56  77       Promotion Playoff
+ 6.Barnsley                46  21 13 12  82-64  76       Promotion Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Lincoln City            46  20 14 12  65-40  74
+ 8.Blackpool               46  21 10 15  65-48  73  [R]
+ 9.Stevenage               46  19 14 13  57-46  71  [P]
+10.Wycombe Wanderers       46  17 14 15  60-55  65
+11.Leyton Orient           46  18 11 17  53-55  65  [P]
+12.Wigan Athletic          46  20 10 16  63-56  62  [R]  [-8]
+13.Exeter City             46  17 10 19  46-61  61
+14.Northampton Town        46  17  9 20  57-66  60  [P]
+15.Bristol Rovers          46  16  9 21  52-68  57
+16.Charlton Athletic       46  11 20 15  64-65  53
+17.Reading                 46  16 11 19  68-70  53  [R]  [-6]
+18.Cambridge United        46  12 12 22  39-61  48
+19.Shrewsbury Town         46  13  9 24  35-67  48
+20.Burton Albion           46  12 10 24  39-67  46
+--------------------------------------------------
+21.Cheltenham Town         46  12  8 26  41-65  44       Relegated
+22.Fleetwood Town          46  10 13 23  49-72  43       Relegated
+23.Port Vale               46  10 11 25  41-74  41       Relegated
+24.Carlisle United         46   7  9 30  41-81  30  [P]  Relegated
+
+NB: Reading 6 points deducted for financial reasons;
+    Wigan 8 points deducted for financial reasons     -->
+
+===Promotion Playoff===
+
+▪ Division 1, Promotion Playoff, Semifinals, First Legs
+May 3
+  Barnsley      1-3 Bolton        
+May 4
+  Oxford        1-1 Peterborough  
+
+▪ Division 1, Promotion Playoff, Semifinals, Second Legs
+May 7
+  Bolton        2-3 Barnsley      
+May 8
+  Peterborough  1-1 Oxford        
+
+▪ Division 1, Promotion Playoff, Final 
+May 18
+  Bolton        0-2 Oxford        
+
+
+==Division 2==
+===Regular Stage===
+
+<!-- Final Table:
+
+ 1.Stockport County        46  27 11  8  96-48  92       Promoted
+ 2.Wrexham                 46  26 10 10  89-52  88  [P]  Promoted
+ 3.Mansfield Town          46  24 14  8  90-47  86       Promoted
+--------------------------------------------------
+ 4.Milton Keynes Dons      46  23  9 14  83-68  78  [R]  Promotion Playoff
+ 5.Doncaster Rovers        46  21  8 17  73-68  71       Promotion Playoff
+ 6.Crewe Alexandra         46  19 14 13  69-65  71       Promotion Playoff
+ 7.Crawley Town            46  21  7 18  73-67  70       Promotion Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.Barrow                  46  18 15 13  62-56  69
+ 9.Bradford City           46  19 12 15  61-59  69
+10.AFC Wimbledon           46  17 14 15  64-51  65
+11.Walsall                 46  18 11 17  69-73  65
+12.Gillingham              46  18 10 18  46-57  64
+13.Harrogate Town          46  17 12 17  60-69  63
+14.Notts County            46  18  7 21  89-86  61  [P]
+15.Morecambe               46  17 10 19  67-81  61  [R]
+16.Tranmere Rovers         46  17  6 23  67-70  57
+17.Accrington Stanley      46  16  9 21  63-71  57  [R]
+18.Newport County          46  16  7 23  62-76  55
+19.Swindon Town            46  14 12 20  77-83  54
+20.Salford City            46  13 12 21  66-82  51
+21.Grimsby Town            46  11 16 19  57-74  49
+22.Colchester United       46  11 12 23  59-80  45
+--------------------------------------------------
+23.Sutton United           46   9 15 22  59-84  42       Relegated
+24.Forest Green Rovers     46  11  9 26  44-78  42  [R]  Relegated  -->
+
+
+===Promotion Playoff===
+
+▪ Division 2, Promotion Playoff, Semifinals, First Legs
+May 6
+  Crewe         0-2 Doncaster     
+May 7
+  Crawley       3-0 Milton Keynes 
+
+▪ Division 2, Promotion Playoff, Semifinals, Second Legs
+May 10
+  Doncaster     0-2 Crewe         (aet, 3-4 pen)
+May 11
+  Milton Keynes 1-5 Crawley       
+
+▪ Division 2, Promotion Playoff, Final
+May 19
+  Crawley       2-0 Crewe         
+
+
+==National League==
+===Regular Stage===
+
+<!-- Final Table:
+
+ 1.Chesterfield            46  31  5 10 106-65  98       Promoted
+--------------------------------------------------
+ 2.Barnet                  46  26  8 12  91-60  86       Promotion Playoff
+ 3.Bromley                 46  22 15  9  73-49  81       Promotion Playoff
+ 4.Altrincham              46  22 11 13  84-59  77       Promotion Playoff
+ 5.Solihull Moors          46  21 13 12  71-62  76       Promotion Playoff
+ 6.Gateshead               46  22  9 15  88-64  75       Promotion Playoff
+ 7.FC Halifax Town         46  19 14 13  58-50  71       Promotion Playoff
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.Aldershot Town          46  20  9 17  74-83  69
+ 9.Southend United         46  21 12 13  70-45  65  [-10]
+10.Oldham Athletic         46  15 18 13  63-60  63
+11.Rochdale                46  16 14 16  69-64  62  [R]
+12.Hartlepool United       46  17  9 20  70-82  60  [R]
+13.Eastleigh               46  16 11 19  73-87  59
+14.Maidenhead United       46  15 13 18  60-67  58
+15.Dagenham & Redbridge    46  14 14 18  69-63  56
+16.Wealdstone              46  15 11 20  60-72  56
+17.Woking                  46  15 10 21  49-55  55
+18.AFC Fylde               46  15 10 21  74-82  55  [P]
+19.Ebbsfleet United        46  14 12 20  59-74  54  [P]
+20.York City               46  12 17 17  55-69  53
+--------------------------------------------------
+21.Boreham Wood            46  12 16 18  59-73  52       Relegated
+22.Kidderminster Harriers  46  11 13 22  40-59  46  [P]  Relegated
+23.Dorking Wanderers       46  12  9 25  54-85  45       Relegated
+24.Oxford City             46   8  9 29  54-94  33  [P]  Relegated
+
+NB: Southend 10 points deducted for financial reasons
+
+Promoted: Tamworth, Yeovil Town, Boston United, Braintree Town  -->
+
+
+===Promotion Playoff===
+
+<!-- NB: Gateshead not admitted due to not meeting ground ownershp requirements -->
+
+▪ National League, Promotion Playoff, Round 1
+  Altrincham    w/o Gateshead          # note - match not fixtured
+Apr 24
+  Solihull      4-2 Halifax       
+
+▪ National League, Promotion Playoff, Semifinals
+Apr 27
+  Barnet        0-4 Solihull      
+Apr 28
+  Bromley       3-1 Altrincham    
+
+▪ National League, Promotion Playoff, Final
+May 5
+  Bromley       2-2 Solihull      (aet, 4-3 pen)
+
+
+
+
