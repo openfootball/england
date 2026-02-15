@@ -8,14 +8,12 @@
 =FA Cup 2019/20=
 
 ▪ Round 1, Replays
-Nov 20
   Chichester City         bye        [Bury bankrupted]       
 
 
 =League Cup 2019/20=
 
 ▪ Round 1
-Aug 13
   Sheffield Wednesday     w/o Bury   [Bury bankrupted]
 
 
@@ -33,6 +31,42 @@ Bournemouth   abd Luton         [abandoned at 1-1 in 65' due to cardiac arrest L
 ▪ Round 17, Replay
 Mar 13
 Bournemouth   4-3 Luton        
+
+
+
+=England FA Challenge Cup 1871/72=
+
+▪ 1st Round                                              
+Nov 11  
+  Crystal Palace      0-0  Hitchin            [Both Qualified]
+
+  Royal Engineers     w/o  Reigate Priory      
+  Wanderers           w/o  Harrow Chequers     
+
+Byes:   Donington School, Hampstead Heathens, Queen's Park 
+
+▪ 2nd Round
+   Queen's Park        w/o  Donington School    
+
+▪ Quarter-finals
+Jan 20  
+  Wanderers           0-0  Crystal Palace      [Both Qualified]
+
+Bye:    Queen's Park
+
+▪ Semi-finals, Replays
+  Wanderers           w/o  Queen's Park        
 ```
+
+
+note -  the status `w/o (walkover)` will NOT keep (record) 
+the date (& venue).  if you want to keep (record) 
+the date (& venue) for a match use match status `[cancelled]` 
+and NOT `w/o (walkover)`. 
+
+
+
+
+
 
 
