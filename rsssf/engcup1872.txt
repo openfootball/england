@@ -15,7 +15,12 @@ Nov 11
   Royal Engineers     w/o  Reigate Priory      
   Wanderers           w/o  Harrow Chequers     
 
-Byes:   Donington School, Hampstead Heathens, Queen's Park 
+###  todo/fix - add alternate syntax
+# Byes:   Donington School, Hampstead Heathens, Queen's Park 
+  Donington School    bye
+  Hampstead Heathens  bye
+  Queen's Park        bye
+
 
 ▪ 2nd Round
 Dec 16 
@@ -38,7 +43,9 @@ Jan 20
 Jan 27  
   Royal Engineers     3-0  Hampstead Heathens 
 
-Bye:    Queen's Park
+###  todo/fix - add alternate syntax
+##   Bye:    Queen's Park
+  Queen's Park        bye
 
 ▪ Semi-finals
 Feb 17   

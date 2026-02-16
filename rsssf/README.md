@@ -44,6 +44,11 @@ Nov 11
   Wanderers           w/o  Harrow Chequers     
 
 Byes:   Donington School, Hampstead Heathens, Queen's Park 
+# -or-
+  Donington School    bye
+  Hampstead Heathens  bye
+  Queen's Park        bye
+
 
 ▪ 2nd Round
    Queen's Park        w/o  Donington School    
@@ -53,6 +58,10 @@ Jan 20
   Wanderers           0-0  Crystal Palace      [Both Qualified]
 
 Bye:    Queen's Park
+# -or-
+   Queen's Park   bye  
+
+
 
 ▪ Semi-finals, Replays
   Wanderers           w/o  Queen's Park        
@@ -64,7 +73,15 @@ the date (& venue).  if you want to keep (record)
 the date (& venue) for a match use match status `[cancelled]` 
 and NOT `w/o (walkover)`. 
 
+todos:
+- [ ] add alternate ("property style") syntax for byes e.g.
 
+```
+Byes:   Donington School, Hampstead Heathens, Queen's Park 
+Bye:    Queen's Park
+
+etc.
+```
 
 
 
