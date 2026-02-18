@@ -32,20 +32,20 @@ Example:
 = English Premier League
 
 ▪ Matchday 1
-  Fri Aug/15 
-    20.00  Liverpool FC               v AFC Bournemouth          4-2 (1-0)
-  Sat Aug/16
-    12.30  Aston Villa FC             v Newcastle United FC      0-0
-    15.00  Brighton & Hove Albion FC  v Fulham FC                1-1 (0-0)
+  Fri Aug 15 
+    20:00  Liverpool FC               v AFC Bournemouth          4-2 (1-0)
+  Sat Aug 16
+    12:30  Aston Villa FC             v Newcastle United FC      0-0
+    15:00  Brighton & Hove Albion FC  v Fulham FC                1-1 (0-0)
            Sunderland AFC             v West Ham United FC       3-0 (0-0)
            Tottenham Hotspur FC       v Burnley FC               3-0 (1-0)
-    17.30  Wolverhampton Wanderers FC v Manchester City FC       0-4 (0-2)
-  Sun Aug/17
-    14.00  Nottingham Forest FC       v Brentford FC             3-1 (3-0)
+    17:30  Wolverhampton Wanderers FC v Manchester City FC       0-4 (0-2)
+  Sun Aug 17
+    14:00  Nottingham Forest FC       v Brentford FC             3-1 (3-0)
            Chelsea FC                 v Crystal Palace FC        0-0
-    16.30  Manchester United FC       v Arsenal FC               0-1 (0-1)
-  Mon Aug/18
-    20.00  Leeds United FC            v Everton FC               1-0 (0-0)
+    16:30  Manchester United FC       v Arsenal FC               0-1 (0-1)
+  Mon Aug 18
+    20:00  Leeds United FC            v Everton FC               1-0 (0-0)
 
 ...
 ```
