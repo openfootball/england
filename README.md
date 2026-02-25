@@ -33,19 +33,19 @@ Example:
 
 ▪ Matchday 1
   Fri Aug 15 
-    20:00  Liverpool               v AFC Bournemouth       4-2 (1-0)
+    20:00  Liverpool               v AFC Bournemouth      4-2 (1-0)
   Sat Aug 16
-    12:30  Aston Villa             v Newcastle United      0-0
-    15:00  Brighton & Hove Albion  v Fulham                1-1 (0-0)
-           Sunderland AFC          v West Ham United       3-0 (0-0)
-           Tottenham Hotspur       v Burnley               3-0 (1-0)
-    17:30  Wolverhampton Wanderers v Manchester City       0-4 (0-2)
+    12:30  Aston Villa             v Newcastle United     0-0
+    15:00  Brighton & Hove Albion  v Fulham               1-1 (0-0)
+           Sunderland AFC          v West Ham United      3-0 (0-0)
+           Tottenham Hotspur       v Burnley              3-0 (1-0)
+    17:30  Wolverhampton Wanderers v Manchester City      0-4 (0-2)
   Sun Aug 17
-    14:00  Nottingham Forest       v Brentford             3-1 (3-0)
-           Chelsea                 v Crystal Palace        0-0
-    16:30  Manchester United       v Arsenal               0-1 (0-1)
+    14:00  Nottingham Forest       v Brentford            3-1 (3-0)
+           Chelsea                 v Crystal Palace       0-0
+    16:30  Manchester United       v Arsenal              0-1 (0-1)
   Mon Aug 18
-    20:00  Leeds United            v Everton               1-0 (0-0)
+    20:00  Leeds United            v Everton              1-0 (0-0)
 
 ...
 ```
