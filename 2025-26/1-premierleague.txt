@@ -456,18 +456,18 @@
 
 » Matchday 29
   Tue Mar/3
-    19.30  AFC Bournemouth         v Brentford FC
-           Everton FC              v Burnley FC
-           Leeds United FC         v Sunderland AFC
-    20.15  Wolverhampton Wanderers FC v Liverpool FC
+    19.30  AFC Bournemouth         v Brentford FC             0-0
+           Everton FC              v Burnley FC               2-0 (1-0)
+           Leeds United FC         v Sunderland AFC           0-1 (0-0)
+    20.15  Wolverhampton Wanderers FC v Liverpool FC             2-1 (0-0)
   Wed Mar/4
-    19.30  Aston Villa FC          v Chelsea FC
-           Brighton & Hove Albion FC v Arsenal FC
-           Fulham FC               v West Ham United FC
-           Manchester City FC      v Nottingham Forest FC
-    20.15  Newcastle United FC     v Manchester United FC
+    19.30  Aston Villa FC          v Chelsea FC               1-4 (1-2)
+           Brighton & Hove Albion FC v Arsenal FC               0-1 (0-1)
+           Fulham FC               v West Ham United FC       0-1 (0-0)
+           Manchester City FC      v Nottingham Forest FC     2-2 (1-0)
+    20.15  Newcastle United FC     v Manchester United FC     2-1 (1-1)
   Thu Mar/5
-    20.00  Tottenham Hotspur FC    v Crystal Palace FC
+    20.00  Tottenham Hotspur FC    v Crystal Palace FC        1-3 (1-3)
 
 
 » Matchday 30
@@ -502,45 +502,53 @@
 
 
 » Matchday 32
+  Fri Apr/10
+    20.00  West Ham United FC      v Wolverhampton Wanderers FC
   Sat Apr/11
-    15.00  Sunderland AFC          v Tottenham Hotspur FC
-           Crystal Palace FC       v Newcastle United FC
-           Arsenal FC              v AFC Bournemouth
+    12.30  Arsenal FC              v AFC Bournemouth
+    15.00  Crystal Palace FC       v Newcastle United FC
            Brentford FC            v Everton FC
            Burnley FC              v Brighton & Hove Albion FC
-           Chelsea FC              v Manchester City FC
-           Liverpool FC            v Fulham FC
-           Manchester United FC    v Leeds United FC
            Nottingham Forest FC    v Aston Villa FC
-           West Ham United FC      v Wolverhampton Wanderers FC
+    17.30  Liverpool FC            v Fulham FC
+  Sun Apr/12
+    14.00  Sunderland AFC          v Tottenham Hotspur FC
+    16.30  Chelsea FC              v Manchester City FC
+  Mon Apr/13
+    20.00  Manchester United FC    v Leeds United FC
 
 
 » Matchday 33
   Sat Apr/18
+    12.30  Brentford FC            v Fulham FC
     15.00  Newcastle United FC     v AFC Bournemouth
            Nottingham Forest FC    v Burnley FC
-           Tottenham Hotspur FC    v Brighton & Hove Albion FC
            Aston Villa FC          v Sunderland AFC
-           Crystal Palace FC       v West Ham United FC
-           Brentford FC            v Fulham FC
-           Chelsea FC              v Manchester United FC
-           Everton FC              v Liverpool FC
            Leeds United FC         v Wolverhampton Wanderers FC
-           Manchester City FC      v Arsenal FC
+    17.30  Tottenham Hotspur FC    v Brighton & Hove Albion FC
+    20.00  Chelsea FC              v Manchester United FC
+  Sun Apr/19
+    14.00  Everton FC              v Liverpool FC
+    16.30  Manchester City FC      v Arsenal FC
+  Mon Apr/20
+    20.00  Crystal Palace FC       v West Ham United FC
 
 
 » Matchday 34
+  Fri Apr/24
+    20.00  Sunderland AFC          v Nottingham Forest FC
   Sat Apr/25
+    12.30  Fulham FC               v Aston Villa FC
     15.00  AFC Bournemouth         v Leeds United FC
-           Sunderland AFC          v Nottingham Forest FC
-           Brighton & Hove Albion FC v Chelsea FC
-           Arsenal FC              v Newcastle United FC
-           Burnley FC              v Manchester City FC
-           Fulham FC               v Aston Villa FC
            Liverpool FC            v Crystal Palace FC
-           Manchester United FC    v Brentford FC
            West Ham United FC      v Everton FC
            Wolverhampton Wanderers FC v Tottenham Hotspur FC
+    17.30  Arsenal FC              v Newcastle United FC
+  Sun Apr/26
+    14.00  Burnley FC              v Manchester City FC
+    16.30  Brighton & Hove Albion FC v Chelsea FC
+  Mon Apr/27
+    20.00  Manchester United FC    v Brentford FC
 
 
 » Matchday 35
