@@ -488,17 +488,17 @@
 
 » Matchday 31
   Fri Mar/20
-    20.00  AFC Bournemouth         v Manchester United FC
+    20.00  AFC Bournemouth         v Manchester United FC     2-2 (0-0)
   Sat Mar/21
            Manchester City FC      v Crystal Palace FC        [postponed]
-    12.30  Brighton & Hove Albion FC v Liverpool FC
-    15.00  Fulham FC               v Burnley FC
-    17.30  Everton FC              v Chelsea FC
-    20.00  Leeds United FC         v Brentford FC
+    12.45  Brighton & Hove Albion FC v Liverpool FC             2-1 (1-1)
+    15.00  Fulham FC               v Burnley FC               3-1 (0-0)
+    17.30  Everton FC              v Chelsea FC               3-0 (1-0)
+    20.00  Leeds United FC         v Brentford FC             0-0
   Sun Mar/22
-    12.00  Newcastle United FC     v Sunderland AFC
-    14.15  Aston Villa FC          v West Ham United FC
-           Tottenham Hotspur FC    v Nottingham Forest FC
+    12.00  Newcastle United FC     v Sunderland AFC           1-2 (1-0)
+    14.15  Aston Villa FC          v West Ham United FC       2-0 (1-0)
+           Tottenham Hotspur FC    v Nottingham Forest FC     0-3 (0-1)
 
 
 » Matchday 32
@@ -506,13 +506,13 @@
     20.00  West Ham United FC      v Wolverhampton Wanderers FC
   Sat Apr/11
     12.30  Arsenal FC              v AFC Bournemouth
-    15.00  Crystal Palace FC       v Newcastle United FC
-           Brentford FC            v Everton FC
+    15.00  Brentford FC            v Everton FC
            Burnley FC              v Brighton & Hove Albion FC
-           Nottingham Forest FC    v Aston Villa FC
     17.30  Liverpool FC            v Fulham FC
   Sun Apr/12
     14.00  Sunderland AFC          v Tottenham Hotspur FC
+           Crystal Palace FC       v Newcastle United FC
+           Nottingham Forest FC    v Aston Villa FC
     16.30  Chelsea FC              v Manchester City FC
   Mon Apr/13
     20.00  Manchester United FC    v Leeds United FC
@@ -522,13 +522,13 @@
   Sat Apr/18
     12.30  Brentford FC            v Fulham FC
     15.00  Newcastle United FC     v AFC Bournemouth
-           Nottingham Forest FC    v Burnley FC
-           Aston Villa FC          v Sunderland AFC
            Leeds United FC         v Wolverhampton Wanderers FC
     17.30  Tottenham Hotspur FC    v Brighton & Hove Albion FC
     20.00  Chelsea FC              v Manchester United FC
   Sun Apr/19
-    14.00  Everton FC              v Liverpool FC
+    14.00  Nottingham Forest FC    v Burnley FC
+           Aston Villa FC          v Sunderland AFC
+           Everton FC              v Liverpool FC
     16.30  Manchester City FC      v Arsenal FC
   Mon Apr/20
     20.00  Crystal Palace FC       v West Ham United FC
