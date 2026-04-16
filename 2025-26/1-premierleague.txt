@@ -490,7 +490,6 @@
   Fri Mar/20
     20.00  AFC Bournemouth         v Manchester United FC     2-2 (0-0)
   Sat Mar/21
-           Manchester City FC      v Crystal Palace FC        [postponed]
     12.45  Brighton & Hove Albion FC v Liverpool FC             2-1 (1-1)
     15.00  Fulham FC               v Burnley FC               3-1 (0-0)
     17.30  Everton FC              v Chelsea FC               3-0 (1-0)
@@ -503,19 +502,19 @@
 
 » Matchday 32
   Fri Apr/10
-    20.00  West Ham United FC      v Wolverhampton Wanderers FC
+    20.00  West Ham United FC      v Wolverhampton Wanderers FC  4-0 (1-0)
   Sat Apr/11
-    12.30  Arsenal FC              v AFC Bournemouth
-    15.00  Brentford FC            v Everton FC
-           Burnley FC              v Brighton & Hove Albion FC
-    17.30  Liverpool FC            v Fulham FC
+    12.30  Arsenal FC              v AFC Bournemouth          1-2 (1-1)
+    15.00  Brentford FC            v Everton FC               2-2 (1-1)
+           Burnley FC              v Brighton & Hove Albion FC  0-2 (0-1)
+    17.30  Liverpool FC            v Fulham FC                2-0 (2-0)
   Sun Apr/12
-    14.00  Sunderland AFC          v Tottenham Hotspur FC
-           Crystal Palace FC       v Newcastle United FC
-           Nottingham Forest FC    v Aston Villa FC
-    16.30  Chelsea FC              v Manchester City FC
+    14.00  Sunderland AFC          v Tottenham Hotspur FC     1-0 (0-0)
+           Crystal Palace FC       v Newcastle United FC      2-1 (0-1)
+           Nottingham Forest FC    v Aston Villa FC           1-1 (1-1)
+    16.30  Chelsea FC              v Manchester City FC       0-3 (0-0)
   Mon Apr/13
-    20.00  Manchester United FC    v Leeds United FC
+    20.00  Manchester United FC    v Leeds United FC          1-2 (0-2)
 
 
 » Matchday 33
@@ -535,18 +534,19 @@
 
 
 » Matchday 34
+  Tue Apr/21
+    20.00  Brighton & Hove Albion FC v Chelsea FC
+  Wed Apr/22
+    20.00  AFC Bournemouth         v Leeds United FC
+           Burnley FC              v Manchester City FC
   Fri Apr/24
     20.00  Sunderland AFC          v Nottingham Forest FC
   Sat Apr/25
-           AFC Bournemouth         v Leeds United FC          [postponed]
     12.30  Fulham FC               v Aston Villa FC
     15.00  Liverpool FC            v Crystal Palace FC
            West Ham United FC      v Everton FC
            Wolverhampton Wanderers FC v Tottenham Hotspur FC
     17.30  Arsenal FC              v Newcastle United FC
-  Sun Apr/26
-           Brighton & Hove Albion FC v Chelsea FC               [postponed]
-           Burnley FC              v Manchester City FC       [postponed]
   Mon Apr/27
     20.00  Manchester United FC    v Brentford FC
 
@@ -596,6 +596,11 @@
            Manchester United FC    v Nottingham Forest FC
            Newcastle United FC     v West Ham United FC
            Wolverhampton Wanderers FC v Fulham FC
+
+
+» Matchday 31
+  Fri May/22
+           Manchester City FC      v Crystal Palace FC        [postponed]
 
 
 » Matchday 38
