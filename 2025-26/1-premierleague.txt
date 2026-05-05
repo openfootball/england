@@ -553,19 +553,19 @@
 
 » Matchday 35
   Fri May/1
-    20.00  Leeds United FC         v Burnley FC
+    20.00  Leeds United FC         v Burnley FC               3-1 (1-0)
   Sat May/2
-    15.00  Brentford FC            v West Ham United FC
-           Newcastle United FC     v Brighton & Hove Albion FC
-           Wolverhampton Wanderers FC v Sunderland AFC
-    17.30  Arsenal FC              v Fulham FC
+    15.00  Brentford FC            v West Ham United FC       3-0 (1-0)
+           Newcastle United FC     v Brighton & Hove Albion FC  3-1 (2-0)
+           Wolverhampton Wanderers FC v Sunderland AFC           1-1 (0-1)
+    17.30  Arsenal FC              v Fulham FC                3-0 (3-0)
   Sun May/3
-    14.00  AFC Bournemouth         v Crystal Palace FC
-    15.30  Manchester United FC    v Liverpool FC
-    19.00  Aston Villa FC          v Tottenham Hotspur FC
+    14.00  AFC Bournemouth         v Crystal Palace FC        3-0 (2-0)
+    15.30  Manchester United FC    v Liverpool FC             3-2 (2-0)
+    19.00  Aston Villa FC          v Tottenham Hotspur FC     1-2 (0-2)
   Mon May/4
-    15.00  Chelsea FC              v Nottingham Forest FC
-    20.00  Everton FC              v Manchester City FC
+    15.00  Chelsea FC              v Nottingham Forest FC     1-3 (0-2)
+    20.00  Everton FC              v Manchester City FC       3-3 (0-1)
 
 
 » Matchday 36
@@ -584,23 +584,25 @@
     20.00  Tottenham Hotspur FC    v Leeds United FC
 
 
+» Matchday 31
+  Wed May/13
+    20.00  Manchester City FC      v Crystal Palace FC
+
+
 » Matchday 37
   Sun May/17
-           AFC Bournemouth         v Manchester City FC       [postponed]
-           Chelsea FC              v Tottenham Hotspur FC     [postponed]
-    15.00  Aston Villa FC          v Liverpool FC
-           Arsenal FC              v Burnley FC
-           Brentford FC            v Crystal Palace FC
+    12.30  Aston Villa FC          v Liverpool FC
+           Manchester United FC    v Nottingham Forest FC
+    15.00  Brentford FC            v Crystal Palace FC
            Everton FC              v Sunderland AFC
            Leeds United FC         v Brighton & Hove Albion FC
-           Manchester United FC    v Nottingham Forest FC
-           Newcastle United FC     v West Ham United FC
            Wolverhampton Wanderers FC v Fulham FC
-
-
-» Matchday 31
-  Fri May/22
-           Manchester City FC      v Crystal Palace FC        [postponed]
+    17.30  Newcastle United FC     v West Ham United FC
+  Mon May/18
+    20.00  Arsenal FC              v Burnley FC
+  Tue May/19
+    19.30  AFC Bournemouth         v Manchester City FC
+    20.15  Chelsea FC              v Tottenham Hotspur FC
 
 
 » Matchday 38
