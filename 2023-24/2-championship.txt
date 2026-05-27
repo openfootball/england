@@ -6,7 +6,6 @@
 # Stages     Regular (552)  Finals (5)
 
 
-== Regular
 
 Matchday 1
 [Fri Aug/4]
@@ -828,9 +827,9 @@ Matchday 46
          West Bromwich Albion FC  3-0 (1-0)  Preston North End FC
 
 
-== Finals
 
-Semifinals
+▪ Finals
+▪▪ Semifinals
 [Sun May/12]
   12.00  Norwich City FC          0-0  Leeds United FC
   14.15  West Bromwich Albion FC  0-0  Southampton FC
@@ -840,6 +839,6 @@ Semifinals
   20.00  Southampton FC           3-1 (0-0)  West Bromwich Albion FC
 
 
-Final
+▪▪ Final
 [Sun May/26]
   15.00  Leeds United FC          0-1 (0-1)  Southampton FC
