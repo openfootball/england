@@ -1,16 +1,16 @@
 = English League One 2024/25
 
-# Date       Fri Aug/9 2024 - Sat May/3 2025 (267d)
+# Date       Fri Aug 9 2024 - Sat May 3 2025 (267d)
 # Teams      24
 # Matches    552
 
 
 
-» Matchday 1
-  Fri Aug/9 2024
-    20.00  Barnsley FC             v Mansfield Town           1-2 (1-2)
-  Sat Aug/10
-    17.30  Birmingham City         v Reading FC               1-1 (0-1)
+▪ Matchday 1
+  Fri Aug 9 2024
+    20:00  Barnsley FC             v Mansfield Town           1-2 (1-2)
+  Sat Aug 10
+    17:30  Birmingham City         v Reading FC               1-1 (0-1)
            Bristol Rovers          v Northampton Town         1-0 (0-0)
            Burton Albion           v Lincoln City             2-3 (2-2)
            Crawley Town            v Blackpool FC             2-1 (2-0)
@@ -23,11 +23,11 @@
            Wrexham AFC             v Wycombe Wanderers        3-2 (2-0)
 
 
-» Matchday 2
-  Sat Aug/17
-    12.30  Charlton Athletic       v Leyton Orient            1-0 (0-0)
+▪ Matchday 2
+  Sat Aug 17
+    12:30  Charlton Athletic       v Leyton Orient            1-0 (0-0)
            Shrewsbury Town         v Peterborough United      1-4 (1-1)
-    15.00  Blackpool FC            v Stockport County         0-3 (0-0)
+    15:00  Blackpool FC            v Stockport County         0-3 (0-0)
            Cambridge United        v Crawley Town             0-1 (0-0)
            Huddersfield Town       v Stevenage FC             2-1 (1-0)
            Lincoln City            v Barnsley FC              1-2 (0-1)
@@ -36,15 +36,15 @@
            Reading FC              v Wigan Athletic           2-0 (1-0)
            Rotherham United        v Bristol Rovers           0-0
            Wycombe Wanderers       v Birmingham City          2-3 (1-1)
-  Sun Aug/18
-    15.00  Bolton Wanderers        v Wrexham AFC              0-0
+  Sun Aug 18
+    15:00  Bolton Wanderers        v Wrexham AFC              0-0
 
 
-» Matchday 3
-  Sat Aug/24
-    12.30  Burton Albion           v Stevenage FC             0-0
+▪ Matchday 3
+  Sat Aug 24
+    12:30  Burton Albion           v Stevenage FC             0-0
            Stockport County        v Bristol Rovers           2-0 (1-0)
-    15.00  Barnsley FC             v Northampton Town         2-2 (1-0)
+    15:00  Barnsley FC             v Northampton Town         2-2 (1-0)
            Cambridge United        v Blackpool FC             4-4 (1-3)
            Charlton Athletic       v Bolton Wanderers         2-0 (1-0)
            Exeter City             v Peterborough United      1-2 (1-2)
@@ -56,11 +56,11 @@
            Wycombe Wanderers       v Rotherham United         2-0 (0-0)
 
 
-» Matchday 4
-  Sat Aug/31
-    12.30  Blackpool FC            v Wycombe Wanderers        2-2 (1-1)
+▪ Matchday 4
+  Sat Aug 31
+    12:30  Blackpool FC            v Wycombe Wanderers        2-2 (1-1)
            Rotherham United        v Huddersfield Town        2-1 (0-0)
-    15.00  Birmingham City         v Wigan Athletic           2-1 (1-0)
+    15:00  Birmingham City         v Wigan Athletic           2-1 (1-0)
            Bolton Wanderers        v Exeter City              0-2 (0-1)
            Bristol Rovers          v Cambridge United         2-0 (1-0)
            Crawley Town            v Barnsley FC              0-3 (0-3)
@@ -72,31 +72,31 @@
            Stevenage FC            v Lincoln City             0-1 (0-0)
 
 
-» Matchday 5
-  Sat Sep/7
-    15.00  Barnsley FC             v Bristol Rovers           2-1 (1-1)
+▪ Matchday 5
+  Sat Sep 7
+    15:00  Barnsley FC             v Bristol Rovers           2-1 (1-1)
            Charlton Athletic       v Rotherham United         1-1 (0-0)
            Wrexham AFC             v Shrewsbury Town          3-0 (2-0)
-  Tue Sep/24
-    19.45  Huddersfield Town       v Blackpool FC             0-2 (0-2)
+  Tue Sep 24
+    19:45  Huddersfield Town       v Blackpool FC             0-2 (0-2)
            Leyton Orient           v Peterborough United      2-2 (1-2)
            Wigan Athletic          v Stevenage FC             0-0
-  Tue Oct/29
-    19.45  Lincoln City            v Northampton Town         2-1 (1-1)
+  Tue Oct 29
+    19:45  Lincoln City            v Northampton Town         2-1 (1-1)
            Stockport County        v Reading FC               4-1 (3-1)
-  Tue Nov/5
-    19.45  Burton Albion           v Crawley Town             0-0
-  Tue Nov/26
-    19.45  Cambridge United        v Bolton Wanderers         1-1 (0-0)
+  Tue Nov 5
+    19:45  Burton Albion           v Crawley Town             0-0
+  Tue Nov 26
+    19:45  Cambridge United        v Bolton Wanderers         1-1 (0-0)
            Exeter City             v Birmingham City          0-2 (0-1)
            Wycombe Wanderers       v Mansfield Town           1-0 (0-0)
 
 
-» Matchday 6
-  Sat Sep/14
-    12.30  Mansfield Town          v Cambridge United         2-1 (1-0)
+▪ Matchday 6
+  Sat Sep 14
+    12:30  Mansfield Town          v Cambridge United         2-1 (1-0)
            Northampton Town        v Wycombe Wanderers        1-2 (1-1)
-    15.00  Blackpool FC            v Exeter City              2-1 (1-0)
+    15:00  Blackpool FC            v Exeter City              2-1 (1-0)
            Bolton Wanderers        v Huddersfield Town        0-4 (0-1)
            Bristol Rovers          v Wigan Athletic           0-4 (0-2)
            Crawley Town            v Stockport County         1-1 (0-1)
@@ -105,15 +105,15 @@
            Rotherham United        v Burton Albion            2-2 (1-1)
            Shrewsbury Town         v Charlton Athletic        0-1 (0-0)
            Stevenage FC            v Barnsley FC              3-0 (0-0)
-  Mon Sep/16
-    20.00  Birmingham City         v Wrexham AFC              3-1 (1-1)
+  Mon Sep 16
+    20:00  Birmingham City         v Wrexham AFC              3-1 (1-1)
 
 
-» Matchday 7
-  Sat Sep/21
-    12.30  Exeter City             v Stevenage FC             2-0 (1-0)
+▪ Matchday 7
+  Sat Sep 21
+    12:30  Exeter City             v Stevenage FC             2-0 (1-0)
            Lincoln City            v Wigan Athletic           0-0
-    15.00  Bolton Wanderers        v Reading FC               5-2 (4-1)
+    15:00  Bolton Wanderers        v Reading FC               5-2 (4-1)
            Burton Albion           v Barnsley FC              1-2 (0-1)
            Charlton Athletic       v Blackpool FC             1-2 (0-2)
            Huddersfield Town       v Northampton Town         1-3 (0-2)
@@ -125,11 +125,11 @@
            Wycombe Wanderers       v Cambridge United         2-1 (1-1)
 
 
-» Matchday 8
-  Sat Sep/28
-    12.30  Crawley Town            v Bolton Wanderers         0-2 (0-1)
+▪ Matchday 8
+  Sat Sep 28
+    12:30  Crawley Town            v Bolton Wanderers         0-2 (0-1)
            Reading FC              v Huddersfield Town        2-1 (1-1)
-    15.00  Birmingham City         v Peterborough United      3-2 (1-2)
+    15:00  Birmingham City         v Peterborough United      3-2 (1-2)
            Blackpool FC            v Burton Albion            3-0 (1-0)
            Bristol Rovers          v Wycombe Wanderers        1-2 (1-0)
            Cambridge United        v Lincoln City             0-2 (0-1)
@@ -138,12 +138,12 @@
            Shrewsbury Town         v Rotherham United         1-1 (1-0)
            Stevenage FC            v Charlton Athletic        1-0 (0-0)
            Wigan Athletic          v Exeter City              0-0
-    19.45  Barnsley FC             v Stockport County         1-1 (1-0)
+    19:45  Barnsley FC             v Stockport County         1-1 (1-0)
 
 
-» Matchday 9
-  Tue Oct/1
-    19.45  Barnsley FC             v Wycombe Wanderers        2-2 (0-0)
+▪ Matchday 9
+  Tue Oct 1
+    19:45  Barnsley FC             v Wycombe Wanderers        2-2 (0-0)
            Birmingham City         v Huddersfield Town        1-0 (0-0)
            Blackpool FC            v Lincoln City             1-1 (0-0)
            Bristol Rovers          v Charlton Athletic        3-2 (1-0)
@@ -154,14 +154,14 @@
            Shrewsbury Town         v Stockport County         0-2 (0-1)
            Stevenage FC            v Wrexham AFC              1-0 (1-0)
            Wigan Athletic          v Peterborough United      3-0 (1-0)
-    20.00  Reading FC              v Burton Albion            3-1 (2-0)
+    20:00  Reading FC              v Burton Albion            3-1 (2-0)
 
 
-» Matchday 10
-  Sat Oct/5
-    12.30  Huddersfield Town       v Barnsley FC              2-0 (0-0)
+▪ Matchday 10
+  Sat Oct 5
+    12:30  Huddersfield Town       v Barnsley FC              2-0 (0-0)
            Peterborough United     v Stevenage FC             2-1 (1-0)
-    15.00  Bolton Wanderers        v Shrewsbury Town          2-2 (0-2)
+    15:00  Bolton Wanderers        v Shrewsbury Town          2-2 (0-2)
            Burton Albion           v Bristol Rovers           1-3 (1-0)
            Charlton Athletic       v Birmingham City          1-0 (0-0)
            Exeter City             v Cambridge United         1-0 (1-0)
@@ -173,34 +173,34 @@
            Wycombe Wanderers       v Crawley Town             1-0 (1-0)
 
 
-» Matchday 11
-  Sat Oct/12
-    15.00  Crawley Town            v Shrewsbury Town          3-5 (1-1)
+▪ Matchday 11
+  Sat Oct 12
+    15:00  Crawley Town            v Shrewsbury Town          3-5 (1-1)
            Peterborough United     v Rotherham United         3-3 (1-3)
-  Tue Oct/29
-    19.45  Stevenage FC            v Bolton Wanderers         1-4 (0-2)
-  Tue Nov/5
-    19.45  Stockport County        v Wycombe Wanderers        0-5 (0-3)
-  Tue Nov/26
-    19.45  Barnsley FC             v Reading FC               2-2 (1-0)
+  Tue Oct 29
+    19:45  Stevenage FC            v Bolton Wanderers         1-4 (0-2)
+  Tue Nov 5
+    19:45  Stockport County        v Wycombe Wanderers        0-5 (0-3)
+  Tue Nov 26
+    19:45  Barnsley FC             v Reading FC               2-2 (1-0)
            Bristol Rovers          v Blackpool FC             0-2 (0-1)
            Burton Albion           v Charlton Athletic        0-1 (0-0)
            Leyton Orient           v Huddersfield Town        0-2 (0-1)
            Wigan Athletic          v Northampton Town         2-1 (2-0)
            Wrexham AFC             v Lincoln City             1-0 (0-0)
-  Tue Feb/11 2025
-    19.45  Birmingham City         v Cambridge United         4-0 (3-0)
-  Tue Mar/11
-    19.45  Exeter City             v Mansfield Town           2-0 (1-0)
+  Tue Feb 11 2025
+    19:45  Birmingham City         v Cambridge United         4-0 (3-0)
+  Tue Mar 11
+    19:45  Exeter City             v Mansfield Town           2-0 (1-0)
 
 
-» Matchday 12
-  Thu Oct/17 2024
-    20.00  Shrewsbury Town         v Exeter City              0-2 (0-1)
-  Sat Oct/19
-    12.30  Reading FC              v Crawley Town             4-1 (2-1)
+▪ Matchday 12
+  Thu Oct 17 2024
+    20:00  Shrewsbury Town         v Exeter City              0-2 (0-1)
+  Sat Oct 19
+    12:30  Reading FC              v Crawley Town             4-1 (2-1)
            Wycombe Wanderers       v Peterborough United      3-1 (0-0)
-    15.00  Blackpool FC            v Barnsley FC              1-2 (0-1)
+    15:00  Blackpool FC            v Barnsley FC              1-2 (0-1)
            Bolton Wanderers        v Burton Albion            2-1 (0-0)
            Cambridge United        v Wigan Athletic           2-0 (2-0)
            Charlton Athletic       v Stockport County         1-1 (0-1)
@@ -211,9 +211,9 @@
            Rotherham United        v Wrexham AFC              0-1 (0-1)
 
 
-» Matchday 13
-  Tue Oct/22
-    19.45  Barnsley FC             v Charlton Athletic        2-2 (1-0)
+▪ Matchday 13
+  Tue Oct 22
+    19:45  Barnsley FC             v Charlton Athletic        2-2 (1-0)
            Birmingham City         v Bolton Wanderers         2-0 (1-0)
            Bristol Rovers          v Shrewsbury Town          1-0 (0-0)
            Burton Albion           v Wycombe Wanderers        2-3 (1-1)
@@ -227,11 +227,11 @@
            Wrexham AFC             v Huddersfield Town        0-0
 
 
-» Matchday 14
-  Sat Oct/26
-    12.30  Mansfield Town          v Birmingham City          1-1 (0-1)
+▪ Matchday 14
+  Sat Oct 26
+    12:30  Mansfield Town          v Birmingham City          1-1 (0-1)
            Reading FC              v Bristol Rovers           1-0 (0-0)
-    15.00  Bolton Wanderers        v Peterborough United      1-0 (0-0)
+    15:00  Bolton Wanderers        v Peterborough United      1-0 (0-0)
            Cambridge United        v Burton Albion            1-0 (0-0)
            Charlton Athletic       v Wrexham AFC              2-2 (1-1)
            Huddersfield Town       v Exeter City              2-0 (1-0)
@@ -240,17 +240,17 @@
            Rotherham United        v Stevenage FC             2-0 (0-0)
            Shrewsbury Town         v Barnsley FC              0-2 (0-1)
            Wycombe Wanderers       v Leyton Orient            3-0 (2-0)
-  Mon Oct/28
-    20.00  Blackpool FC            v Wigan Athletic           2-2 (1-2)
+  Mon Oct 28
+    20:00  Blackpool FC            v Wigan Athletic           2-2 (1-2)
 
 
-» Matchday 15
-  Fri Nov/8
-    19.15  Barnsley FC             v Rotherham United         2-0 (1-0)
-  Sat Nov/9
-    12.30  Burton Albion           v Shrewsbury Town          2-0 (1-0)
+▪ Matchday 15
+  Fri Nov 8
+    19:15  Barnsley FC             v Rotherham United         2-0 (1-0)
+  Sat Nov 9
+    12:30  Burton Albion           v Shrewsbury Town          2-0 (1-0)
            Wrexham AFC             v Mansfield Town           1-0 (1-0)
-    15.00  Birmingham City         v Northampton Town         1-1 (0-0)
+    15:00  Birmingham City         v Northampton Town         1-1 (0-0)
            Bristol Rovers          v Lincoln City             1-1 (1-0)
            Crawley Town            v Huddersfield Town        2-2 (1-0)
            Exeter City             v Charlton Athletic        1-0 (0-0)
@@ -261,33 +261,33 @@
            Wigan Athletic          v Wycombe Wanderers        0-1 (0-1)
 
 
-» Matchday 16
-  Sat Nov/16
-    12.30  Exeter City             v Lincoln City             0-0
-    15.00  Blackpool FC            v Northampton Town         0-0
+▪ Matchday 16
+  Sat Nov 16
+    12:30  Exeter City             v Lincoln City             0-0
+    15:00  Blackpool FC            v Northampton Town         0-0
            Bristol Rovers          v Crawley Town             0-0
            Cambridge United        v Barnsley FC              1-1 (1-1)
            Stockport County        v Wrexham AFC              1-0 (1-0)
-  Tue Jan/7 2025
-    19.45  Wycombe Wanderers       v Huddersfield Town        0-1 (0-1)
-  Sat Jan/11
-    12.30  Rotherham United        v Bolton Wanderers         3-1 (2-0)
-  Tue Jan/21
-    19.45  Wigan Athletic          v Burton Albion            1-2 (1-1)
-  Tue Feb/11
-    19.45  Charlton Athletic       v Peterborough United      2-1 (0-0)
+  Tue Jan 7 2025
+    19:45  Wycombe Wanderers       v Huddersfield Town        0-1 (0-1)
+  Sat Jan 11
+    12:30  Rotherham United        v Bolton Wanderers         3-1 (2-0)
+  Tue Jan 21
+    19:45  Wigan Athletic          v Burton Albion            1-2 (1-1)
+  Tue Feb 11
+    19:45  Charlton Athletic       v Peterborough United      2-1 (0-0)
            Leyton Orient           v Mansfield Town           3-0 (3-0)
-    20.00  Reading FC              v Shrewsbury Town          1-1 (1-0)
-  Tue Mar/11
-    19.45  Birmingham City         v Stevenage FC             2-1 (1-0)
+    20:00  Reading FC              v Shrewsbury Town          1-1 (1-0)
+  Tue Mar 11
+    19:45  Birmingham City         v Stevenage FC             2-1 (1-0)
 
 
-» Matchday 17
-  Sat Nov/23 2024
-    12.30  Bolton Wanderers        v Blackpool FC             2-1 (0-1)
+▪ Matchday 17
+  Sat Nov 23 2024
+    12:30  Bolton Wanderers        v Blackpool FC             2-1 (0-1)
            Shrewsbury Town         v Birmingham City          3-2 (2-1)
            Stevenage FC            v Leyton Orient            0-0
-    15.00  Barnsley FC             v Wigan Athletic           0-1 (0-1)
+    15:00  Barnsley FC             v Wigan Athletic           0-1 (0-1)
            Burton Albion           v Stockport County         0-3 (0-2)
            Crawley Town            v Rotherham United         1-0 (1-0)
            Huddersfield Town       v Charlton Athletic        2-1 (1-1)
@@ -298,47 +298,47 @@
            Wrexham AFC             v Exeter City              3-0 (2-0)
 
 
-» Matchday 18
-  Tue Dec/3
-    19.45  Bolton Wanderers        v Mansfield Town           3-1 (0-1)
+▪ Matchday 18
+  Tue Dec 3
+    19:45  Bolton Wanderers        v Mansfield Town           3-1 (0-1)
            Charlton Athletic       v Crawley Town             1-2 (0-1)
            Exeter City             v Wycombe Wanderers        2-2 (2-1)
            Leyton Orient           v Bristol Rovers           3-0 (3-0)
            Rotherham United        v Lincoln City             2-1 (1-0)
            Stevenage FC            v Northampton Town         2-0 (0-0)
            Wrexham AFC             v Barnsley FC              1-0 (0-0)
-    20.00  Huddersfield Town       v Wigan Athletic           1-0 (0-0)
+    20:00  Huddersfield Town       v Wigan Athletic           1-0 (0-0)
            Reading FC              v Cambridge United         3-0 (0-0)
-  Wed Dec/4
-    19.45  Birmingham City         v Stockport County         2-0 (2-0)
+  Wed Dec 4
+    19:45  Birmingham City         v Stockport County         2-0 (2-0)
            Peterborough United     v Burton Albion            0-1 (0-0)
            Shrewsbury Town         v Blackpool FC             1-2 (1-0)
 
 
-» Matchday 19
-  Sat Dec/7
-    12.30  Lincoln City            v Charlton Athletic        0-0
+▪ Matchday 19
+  Sat Dec 7
+    12:30  Lincoln City            v Charlton Athletic        0-0
            Wigan Athletic          v Leyton Orient            0-2 (0-1)
-    15.00  Barnsley FC             v Birmingham City          1-2 (0-0)
+    15:00  Barnsley FC             v Birmingham City          1-2 (0-0)
            Burton Albion           v Wrexham AFC              0-1 (0-0)
            Cambridge United        v Shrewsbury Town          4-1 (2-0)
            Mansfield Town          v Huddersfield Town        1-2 (1-2)
            Stockport County        v Exeter City              2-0 (0-0)
            Wycombe Wanderers       v Reading FC               1-1 (1-1)
-  Mon Dec/9
-    20.00  Northampton Town        v Peterborough United      2-1 (1-1)
-  Tue Feb/11 2025
-    19.45  Blackpool FC            v Rotherham United         0-0
+  Mon Dec 9
+    20:00  Northampton Town        v Peterborough United      2-1 (1-1)
+  Tue Feb 11 2025
+    19:45  Blackpool FC            v Rotherham United         0-0
            Crawley Town            v Stevenage FC             3-1 (0-0)
-  Tue Mar/11
-    19.45  Bristol Rovers          v Bolton Wanderers         3-2 (1-1)
+  Tue Mar 11
+    19:45  Bristol Rovers          v Bolton Wanderers         3-2 (1-1)
 
 
-» Matchday 20
-  Sat Dec/14 2024
-    12.30  Bolton Wanderers        v Wigan Athletic           0-2 (0-1)
+▪ Matchday 20
+  Sat Dec 14 2024
+    12:30  Bolton Wanderers        v Wigan Athletic           0-2 (0-1)
            Leyton Orient           v Burton Albion            0-0
-    15.00  Birmingham City         v Bristol Rovers           2-0 (2-0)
+    15:00  Birmingham City         v Bristol Rovers           2-0 (2-0)
            Charlton Athletic       v Mansfield Town           0-0
            Exeter City             v Barnsley FC              1-2 (1-0)
            Huddersfield Town       v Lincoln City             2-2 (0-2)
@@ -350,28 +350,28 @@
            Wrexham AFC             v Cambridge United         2-2 (1-1)
 
 
-» Matchday 21
-  Fri Dec/20
-    19.45  Cambridge United        v Huddersfield Town        0-4 (0-3)
+▪ Matchday 21
+  Fri Dec 20
+    19:45  Cambridge United        v Huddersfield Town        0-4 (0-3)
            Stockport County        v Peterborough United      2-1 (1-1)
            Wycombe Wanderers       v Bolton Wanderers         0-0
-  Sat Dec/21
-    12.30  Bristol Rovers          v Wrexham AFC              1-1 (0-1)
+  Sat Dec 21
+    12:30  Bristol Rovers          v Wrexham AFC              1-1 (0-1)
            Lincoln City            v Reading FC               2-0 (1-0)
-    15.00  Barnsley FC             v Leyton Orient            0-4 (0-2)
+    15:00  Barnsley FC             v Leyton Orient            0-4 (0-2)
            Blackpool FC            v Stevenage FC             0-0
            Burton Albion           v Exeter City              1-2 (1-1)
            Mansfield Town          v Rotherham United         1-0 (1-0)
            Northampton Town        v Charlton Athletic        0-5 (0-3)
            Wigan Athletic          v Shrewsbury Town          2-2 (1-0)
-  Mon Dec/23
-    20.00  Crawley Town            v Birmingham City          0-1 (0-0)
+  Mon Dec 23
+    20:00  Crawley Town            v Birmingham City          0-1 (0-0)
 
 
-» Matchday 22
-  Thu Dec/26
-    13.00  Leyton Orient           v Crawley Town             3-0 (1-0)
-    15.00  Birmingham City         v Burton Albion            2-0 (1-0)
+▪ Matchday 22
+  Thu Dec 26
+    13:00  Leyton Orient           v Crawley Town             3-0 (1-0)
+    15:00  Birmingham City         v Burton Albion            2-0 (1-0)
            Bolton Wanderers        v Barnsley FC              1-2 (1-0)
            Charlton Athletic       v Cambridge United         2-1 (2-0)
            Exeter City             v Bristol Rovers           3-1 (0-0)
@@ -384,11 +384,11 @@
            Wrexham AFC             v Blackpool FC             2-1 (1-1)
 
 
-» Matchday 23
-  Sun Dec/29
-    12.30  Charlton Athletic       v Wycombe Wanderers        2-1 (0-0)
+▪ Matchday 23
+  Sun Dec 29
+    12:30  Charlton Athletic       v Wycombe Wanderers        2-1 (0-0)
            Rotherham United        v Stockport County         1-1 (1-1)
-    15.00  Birmingham City         v Blackpool FC             0-0
+    15:00  Birmingham City         v Blackpool FC             0-0
            Bolton Wanderers        v Lincoln City             3-0 (1-0)
            Exeter City             v Crawley Town             4-4 (1-4)
            Huddersfield Town       v Burton Albion            1-1 (0-1)
@@ -400,9 +400,9 @@
            Wrexham AFC             v Wigan Athletic           2-1 (0-0)
 
 
-» Matchday 24
-  Wed Jan/1 2025
-    15.00  Barnsley FC             v Wrexham AFC              2-1 (2-0)
+▪ Matchday 24
+  Wed Jan 1 2025
+    15:00  Barnsley FC             v Wrexham AFC              2-1 (2-0)
            Blackpool FC            v Shrewsbury Town          1-1 (0-0)
            Bristol Rovers          v Leyton Orient            2-3 (1-2)
            Burton Albion           v Peterborough United      2-2 (2-1)
@@ -412,17 +412,17 @@
            Northampton Town        v Stevenage FC             0-0
            Stockport County        v Birmingham City          1-1 (0-1)
            Wycombe Wanderers       v Exeter City              2-1 (0-0)
-  Tue Feb/25
-    19.45  Wigan Athletic          v Huddersfield Town        2-1 (2-0)
-  Tue Mar/11
-    19.45  Crawley Town            v Charlton Athletic        0-1 (0-1)
+  Tue Feb 25
+    19:45  Wigan Athletic          v Huddersfield Town        2-1 (2-0)
+  Tue Mar 11
+    19:45  Crawley Town            v Charlton Athletic        0-1 (0-1)
 
 
-» Matchday 25
-  Sat Jan/4
-    12.30  Burton Albion           v Northampton Town         0-1 (0-0)
+▪ Matchday 25
+  Sat Jan 4
+    12:30  Burton Albion           v Northampton Town         0-1 (0-0)
            Cambridge United        v Bristol Rovers           0-1 (0-1)
-    15.00  Barnsley FC             v Crawley Town             3-0 (1-0)
+    15:00  Barnsley FC             v Crawley Town             3-0 (1-0)
            Charlton Athletic       v Reading FC               0-0
            Exeter City             v Bolton Wanderers         1-2 (0-0)
            Huddersfield Town       v Rotherham United         0-0
@@ -434,35 +434,35 @@
            Wycombe Wanderers       v Blackpool FC             1-1 (1-0)
 
 
-» Matchday 26
-  Tue Jan/21
-    19.45  Bolton Wanderers        v Charlton Athletic        1-2 (0-0)
+▪ Matchday 26
+  Tue Jan 21
+    19:45  Bolton Wanderers        v Charlton Athletic        1-2 (0-0)
            Peterborough United     v Exeter City              1-1 (1-0)
-  Tue Feb/11
-    19.45  Bristol Rovers          v Stockport County         1-1 (0-0)
-  Tue Feb/18
-    19.45  Crawley Town            v Wigan Athletic           1-1 (1-1)
+  Tue Feb 11
+    19:45  Bristol Rovers          v Stockport County         1-1 (0-0)
+  Tue Feb 18
+    19:45  Crawley Town            v Wigan Athletic           1-1 (1-1)
            Mansfield Town          v Lincoln City             0-3 (0-1)
            Shrewsbury Town         v Huddersfield Town        0-1 (0-0)
            Stevenage FC            v Burton Albion            0-1 (0-1)
-  Tue Feb/25
-    19.45  Birmingham City         v Leyton Orient            2-0 (0-0)
+  Tue Feb 25
+    19:45  Birmingham City         v Leyton Orient            2-0 (0-0)
            Northampton Town        v Barnsley FC              1-2 (0-1)
-  Tue Mar/11
-    19.45  Blackpool FC            v Cambridge United         2-1 (1-1)
-    20.00  Reading FC              v Wrexham AFC              2-0 (0-0)
-  Tue Mar/18
-    19.45  Rotherham United        v Wycombe Wanderers        2-3 (0-0)
+  Tue Mar 11
+    19:45  Blackpool FC            v Cambridge United         2-1 (1-1)
+    20:00  Reading FC              v Wrexham AFC              2-0 (0-0)
+  Tue Mar 18
+    19:45  Rotherham United        v Wycombe Wanderers        2-3 (0-0)
 
 
-» Matchday 27
-  Thu Jan/16
-    20.00  Shrewsbury Town         v Wrexham AFC              2-1 (1-1)
-  Sat Jan/18
-    12.30  Blackpool FC            v Huddersfield Town        2-2 (2-0)
+▪ Matchday 27
+  Thu Jan 16
+    20:00  Shrewsbury Town         v Wrexham AFC              2-1 (1-1)
+  Sat Jan 18
+    12:30  Blackpool FC            v Huddersfield Town        2-2 (2-0)
            Peterborough United     v Leyton Orient            0-0
-    14.00  Northampton Town        v Lincoln City             0-1 (0-1)
-    15.00  Birmingham City         v Exeter City              1-0 (1-0)
+    14:00  Northampton Town        v Lincoln City             0-1 (0-1)
+    15:00  Birmingham City         v Exeter City              1-0 (1-0)
            Bolton Wanderers        v Cambridge United         2-2 (1-2)
            Bristol Rovers          v Barnsley FC              3-1 (1-0)
            Crawley Town            v Burton Albion            1-1 (0-1)
@@ -472,13 +472,13 @@
            Stevenage FC            v Wigan Athletic           1-2 (0-0)
 
 
-» Matchday 28
-  Thu Jan/23
-    20.00  Wrexham AFC             v Birmingham City          1-1 (1-1)
-  Sat Jan/25
-    12.30  Cambridge United        v Mansfield Town           3-2 (2-0)
+▪ Matchday 28
+  Thu Jan 23
+    20:00  Wrexham AFC             v Birmingham City          1-1 (1-1)
+  Sat Jan 25
+    12:30  Cambridge United        v Mansfield Town           3-2 (2-0)
            Huddersfield Town       v Bolton Wanderers         0-1 (0-0)
-    15.00  Barnsley FC             v Stevenage FC             0-1 (0-0)
+    15:00  Barnsley FC             v Stevenage FC             0-1 (0-0)
            Burton Albion           v Rotherham United         4-2 (3-1)
            Charlton Athletic       v Shrewsbury Town          1-0 (0-0)
            Exeter City             v Blackpool FC             1-3 (0-3)
@@ -489,9 +489,9 @@
            Wycombe Wanderers       v Northampton Town         0-0
 
 
-» Matchday 29
-  Tue Jan/28
-    19.45  Bolton Wanderers        v Northampton Town         3-1 (2-1)
+▪ Matchday 29
+  Tue Jan 28
+    19:45  Bolton Wanderers        v Northampton Town         3-1 (2-1)
            Burton Albion           v Reading FC               3-2 (2-0)
            Charlton Athletic       v Bristol Rovers           2-0 (2-0)
            Exeter City             v Leyton Orient            2-6 (0-4)
@@ -502,14 +502,14 @@
            Stockport County        v Shrewsbury Town          1-0 (1-0)
            Wrexham AFC             v Stevenage FC             2-3 (0-2)
            Wycombe Wanderers       v Barnsley FC              2-1 (0-1)
-    20.00  Huddersfield Town       v Birmingham City          0-1 (0-0)
+    20:00  Huddersfield Town       v Birmingham City          0-1 (0-0)
 
 
-» Matchday 30
-  Sat Feb/1
-    12.30  Barnsley FC             v Burton Albion            0-0
+▪ Matchday 30
+  Sat Feb 1
+    12:30  Barnsley FC             v Burton Albion            0-0
            Stevenage FC            v Exeter City              4-1 (2-1)
-    15.00  Birmingham City         v Rotherham United         2-1 (0-1)
+    15:00  Birmingham City         v Rotherham United         2-1 (0-1)
            Blackpool FC            v Charlton Athletic        2-2 (0-0)
            Cambridge United        v Wycombe Wanderers        1-1 (0-1)
            Crawley Town            v Wrexham AFC              1-2 (0-1)
@@ -518,34 +518,34 @@
            Reading FC              v Bolton Wanderers         1-0 (0-0)
            Shrewsbury Town         v Mansfield Town           2-1 (0-1)
            Wigan Athletic          v Lincoln City             1-1 (1-0)
-  Sun Feb/2
-    15.00  Bristol Rovers          v Peterborough United      3-1 (1-0)
+  Sun Feb 2
+    15:00  Bristol Rovers          v Peterborough United      3-1 (1-0)
 
 
-» Matchday 31
-  Fri Feb/7
-    19.45  Mansfield Town          v Northampton Town         0-1 (0-0)
-  Sat Feb/8
-    12.30  Charlton Athletic       v Stevenage FC             2-0 (1-0)
+▪ Matchday 31
+  Fri Feb 7
+    19:45  Mansfield Town          v Northampton Town         0-1 (0-0)
+  Sat Feb 8
+    12:30  Charlton Athletic       v Stevenage FC             2-0 (1-0)
            Stockport County        v Barnsley FC              2-1 (2-0)
-    15.00  Bolton Wanderers        v Crawley Town             4-3 (0-0)
+    15:00  Bolton Wanderers        v Crawley Town             4-3 (0-0)
            Burton Albion           v Blackpool FC             1-1 (1-0)
            Huddersfield Town       v Reading FC               0-0
            Lincoln City            v Cambridge United         1-1 (1-1)
            Rotherham United        v Shrewsbury Town          1-2 (0-0)
-  Tue Feb/18
-    19.45  Wrexham AFC             v Leyton Orient            1-2 (1-1)
+  Tue Feb 18
+    19:45  Wrexham AFC             v Leyton Orient            1-2 (1-1)
            Wycombe Wanderers       v Bristol Rovers           2-0 (0-0)
-  Tue Apr/8
-    19.45  Exeter City             v Wigan Athletic           1-1 (0-0)
+  Tue Apr 8
+    19:45  Exeter City             v Wigan Athletic           1-1 (0-0)
            Peterborough United     v Birmingham City          1-2 (1-2)
 
 
-» Matchday 32
-  Sat Feb/15
-    12.30  Cambridge United        v Exeter City              0-1 (0-0)
+▪ Matchday 32
+  Sat Feb 15
+    12:30  Cambridge United        v Exeter City              0-1 (0-0)
            Northampton Town        v Wrexham AFC              0-2 (0-2)
-    15.00  Barnsley FC             v Huddersfield Town        1-2 (1-0)
+    15:00  Barnsley FC             v Huddersfield Town        1-2 (1-0)
            Birmingham City         v Charlton Athletic        1-0 (1-0)
            Blackpool FC            v Mansfield Town           3-3 (1-2)
            Bristol Rovers          v Burton Albion            3-1 (1-0)
@@ -557,11 +557,11 @@
            Wigan Athletic          v Stockport County         0-2 (0-0)
 
 
-» Matchday 33
-  Sat Feb/22
-    12.30  Reading FC              v Birmingham City          0-0
+▪ Matchday 33
+  Sat Feb 22
+    12:30  Reading FC              v Birmingham City          0-0
            Rotherham United        v Barnsley FC              0-1 (0-0)
-    15.00  Blackpool FC            v Crawley Town             3-1 (2-1)
+    15:00  Blackpool FC            v Crawley Town             3-1 (2-1)
            Bolton Wanderers        v Leyton Orient            2-1 (0-1)
            Cambridge United        v Stockport County         2-0 (2-0)
            Charlton Athletic       v Exeter City              3-0 (1-0)
@@ -570,15 +570,15 @@
            Northampton Town        v Bristol Rovers           2-1 (0-0)
            Shrewsbury Town         v Stevenage FC             0-1 (0-1)
            Wycombe Wanderers       v Wigan Athletic           0-0
-  Sun Feb/23
-    15.00  Mansfield Town          v Wrexham AFC              1-2 (1-1)
+  Sun Feb 23
+    15:00  Mansfield Town          v Wrexham AFC              1-2 (1-1)
 
 
-» Matchday 34
-  Sat Mar/1
-    12.30  Birmingham City         v Wycombe Wanderers        1-0 (1-0)
+▪ Matchday 34
+  Sat Mar 1
+    12:30  Birmingham City         v Wycombe Wanderers        1-0 (1-0)
            Wrexham AFC             v Bolton Wanderers         0-0
-    15.00  Barnsley FC             v Lincoln City             4-3 (2-0)
+    15:00  Barnsley FC             v Lincoln City             4-3 (2-0)
            Bristol Rovers          v Rotherham United         2-3 (1-1)
            Burton Albion           v Mansfield Town           1-1 (1-0)
            Crawley Town            v Cambridge United         0-2 (0-1)
@@ -590,9 +590,9 @@
            Wigan Athletic          v Reading FC               1-2 (0-0)
 
 
-» Matchday 35
-  Tue Mar/4
-    19.45  Blackpool FC            v Peterborough United      0-0
+▪ Matchday 35
+  Tue Mar 4
+    19:45  Blackpool FC            v Peterborough United      0-0
            Bolton Wanderers        v Birmingham City          3-1 (1-1)
            Cambridge United        v Stevenage FC             0-1 (0-0)
            Charlton Athletic       v Barnsley FC              1-0 (1-0)
@@ -602,15 +602,15 @@
            Northampton Town        v Stockport County         1-1 (1-0)
            Rotherham United        v Leyton Orient            1-0 (0-0)
            Shrewsbury Town         v Bristol Rovers           0-0
-    20.00  Wycombe Wanderers       v Burton Albion            2-0 (1-0)
+    20:00  Wycombe Wanderers       v Burton Albion            2-0 (1-0)
            Reading FC              v Exeter City              0-0
 
 
-» Matchday 36
-  Sat Mar/8
-    12.30  Crawley Town            v Reading FC               1-1 (0-1)
+▪ Matchday 36
+  Sat Mar 8
+    12:30  Crawley Town            v Reading FC               1-1 (0-1)
            Stockport County        v Charlton Athletic        0-0
-    15.00  Barnsley FC             v Blackpool FC             0-3 (0-0)
+    15:00  Barnsley FC             v Blackpool FC             0-3 (0-0)
            Birmingham City         v Lincoln City             1-0 (0-0)
            Bristol Rovers          v Huddersfield Town        1-0 (1-0)
            Burton Albion           v Bolton Wanderers         1-2 (0-1)
@@ -622,11 +622,11 @@
            Wrexham AFC             v Rotherham United         1-0 (0-0)
 
 
-» Matchday 37
-  Sat Mar/15
-    12.30  Bolton Wanderers        v Stockport County         0-1 (0-0)
+▪ Matchday 37
+  Sat Mar 15
+    12:30  Bolton Wanderers        v Stockport County         0-1 (0-0)
            Cambridge United        v Peterborough United      0-1 (0-0)
-    15.00  Blackpool FC            v Leyton Orient            1-2 (0-1)
+    15:00  Blackpool FC            v Leyton Orient            1-2 (0-1)
            Charlton Athletic       v Wigan Athletic           2-1 (2-0)
            Huddersfield Town       v Crawley Town             5-1 (4-0)
            Lincoln City            v Bristol Rovers           5-0 (1-0)
@@ -638,32 +638,32 @@
            Wycombe Wanderers       v Wrexham AFC              0-1 (0-0)
 
 
-» Matchday 38
-  Sat Mar/22
-    15.00  Barnsley FC             v Cambridge United         1-1 (0-1)
+▪ Matchday 38
+  Sat Mar 22
+    15:00  Barnsley FC             v Cambridge United         1-1 (0-1)
            Crawley Town            v Bristol Rovers           1-0 (1-0)
            Lincoln City            v Exeter City              0-0
            Northampton Town        v Blackpool FC             0-2 (0-1)
            Peterborough United     v Charlton Athletic        3-0 (2-0)
            Wrexham AFC             v Stockport County         1-0 (1-0)
-  Tue Apr/8
-    19.45  Bolton Wanderers        v Rotherham United         0-1 (0-1)
+  Tue Apr 8
+    19:45  Bolton Wanderers        v Rotherham United         0-1 (0-1)
            Huddersfield Town       v Wycombe Wanderers        0-1 (0-0)
            Mansfield Town          v Leyton Orient            2-3 (1-1)
            Shrewsbury Town         v Reading FC               1-3 (0-1)
-  Thu Apr/24
-    19.45  Stevenage FC            v Birmingham City          0-1 (0-0)
-  Tue Apr/29
-    19.45  Burton Albion           v Wigan Athletic           1-1 (0-0)
+  Thu Apr 24
+    19:45  Stevenage FC            v Birmingham City          0-1 (0-0)
+  Tue Apr 29
+    19:45  Burton Albion           v Wigan Athletic           1-1 (0-0)
 
 
-» Matchday 39
-  Thu Mar/27
-    20.00  Leyton Orient           v Stevenage FC             1-0 (1-0)
-  Sat Mar/29
-    12.30  Charlton Athletic       v Huddersfield Town        4-0 (2-0)
+▪ Matchday 39
+  Thu Mar 27
+    20:00  Leyton Orient           v Stevenage FC             1-0 (1-0)
+  Sat Mar 29
+    12:30  Charlton Athletic       v Huddersfield Town        4-0 (2-0)
            Stockport County        v Burton Albion            2-1 (1-0)
-    15.00  Birmingham City         v Shrewsbury Town          4-1 (1-0)
+    15:00  Birmingham City         v Shrewsbury Town          4-1 (1-0)
            Blackpool FC            v Bolton Wanderers         2-1 (1-1)
            Bristol Rovers          v Mansfield Town           1-2 (1-1)
            Cambridge United        v Northampton Town         1-1 (0-1)
@@ -674,9 +674,9 @@
            Wycombe Wanderers       v Lincoln City             1-0 (0-0)
 
 
-» Matchday 40
-  Tue Apr/1
-    19.45  Barnsley FC             v Exeter City              1-2 (0-1)
+▪ Matchday 40
+  Tue Apr 1
+    19:45  Barnsley FC             v Exeter City              1-2 (0-1)
            Blackpool FC            v Reading FC               3-0 (0-0)
            Burton Albion           v Leyton Orient            2-1 (0-1)
            Cambridge United        v Wrexham AFC              2-2 (1-1)
@@ -687,14 +687,14 @@
            Stockport County        v Stevenage FC             3-0 (1-0)
            Wigan Athletic          v Bolton Wanderers         0-1 (0-0)
            Wycombe Wanderers       v Shrewsbury Town          0-0
-    20.00  Bristol Rovers          v Birmingham City          1-2 (1-1)
+    20:00  Bristol Rovers          v Birmingham City          1-2 (1-1)
 
 
-» Matchday 41
-  Sat Apr/5
-    12.30  Reading FC              v Wycombe Wanderers        1-0 (0-0)
+▪ Matchday 41
+  Sat Apr 5
+    12:30  Reading FC              v Wycombe Wanderers        1-0 (0-0)
            Wrexham AFC             v Burton Albion            3-0 (0-0)
-    15.00  Birmingham City         v Barnsley FC              6-2 (1-1)
+    15:00  Birmingham City         v Barnsley FC              6-2 (1-1)
            Bolton Wanderers        v Bristol Rovers           1-0 (0-0)
            Charlton Athletic       v Lincoln City             2-2 (0-1)
            Exeter City             v Stockport County         0-2 (0-2)
@@ -706,11 +706,11 @@
            Stevenage FC            v Crawley Town             3-1 (1-0)
 
 
-» Matchday 42
-  Sat Apr/12
-    12.30  Wigan Athletic          v Wrexham AFC              0-0
+▪ Matchday 42
+  Sat Apr 12
+    12:30  Wigan Athletic          v Wrexham AFC              0-0
            Wycombe Wanderers       v Stevenage FC             1-0 (0-0)
-    15.00  Barnsley FC             v Bolton Wanderers         4-1 (2-0)
+    15:00  Barnsley FC             v Bolton Wanderers         4-1 (2-0)
            Bristol Rovers          v Exeter City              1-2 (0-2)
            Burton Albion           v Huddersfield Town        3-0 (2-0)
            Cambridge United        v Charlton Athletic        0-1 (0-1)
@@ -718,15 +718,15 @@
            Lincoln City            v Shrewsbury Town          1-1 (1-1)
            Northampton Town        v Reading FC               0-0
            Stockport County        v Rotherham United         3-1 (1-1)
-  Wed Apr/30
-    19.45  Blackpool FC            v Birmingham City          0-2 (0-1)
+  Wed Apr 30
+    19:45  Blackpool FC            v Birmingham City          0-2 (0-1)
            Mansfield Town          v Peterborough United      4-2 (3-0)
 
 
-» Matchday 43
-  Fri Apr/18
-    13.00  Exeter City             v Burton Albion            0-0
-    15.00  Birmingham City         v Crawley Town             0-0
+▪ Matchday 43
+  Fri Apr 18
+    13:00  Exeter City             v Burton Albion            0-0
+    15:00  Birmingham City         v Crawley Town             0-0
            Bolton Wanderers        v Wycombe Wanderers        0-2 (0-0)
            Charlton Athletic       v Northampton Town         2-1 (1-1)
            Huddersfield Town       v Cambridge United         1-2 (0-0)
@@ -739,9 +739,9 @@
            Wrexham AFC             v Bristol Rovers           1-1 (0-1)
 
 
-» Matchday 44
-  Mon Apr/21
-    15.00  Barnsley FC             v Peterborough United      1-1 (1-1)
+▪ Matchday 44
+  Mon Apr 21
+    15:00  Barnsley FC             v Peterborough United      1-1 (1-1)
            Blackpool FC            v Wrexham AFC              1-2 (0-0)
            Bristol Rovers          v Stevenage FC             0-1 (0-1)
            Burton Albion           v Birmingham City          1-2 (0-2)
@@ -755,26 +755,26 @@
            Wycombe Wanderers       v Charlton Athletic        0-4 (0-2)
 
 
-» Matchday 45
-  Sat Apr/26
-    12.30  Bristol Rovers          v Reading FC               0-2 (0-0)
+▪ Matchday 45
+  Sat Apr 26
+    12:30  Bristol Rovers          v Reading FC               0-2 (0-0)
            Leyton Orient           v Wycombe Wanderers        1-0 (0-0)
-    15.00  Barnsley FC             v Shrewsbury Town          1-2 (0-1)
+    15:00  Barnsley FC             v Shrewsbury Town          1-2 (0-1)
            Burton Albion           v Cambridge United         2-1 (0-0)
            Crawley Town            v Northampton Town         3-0 (1-0)
            Exeter City             v Huddersfield Town        3-1 (1-1)
            Peterborough United     v Bolton Wanderers         1-1 (1-1)
            Stockport County        v Lincoln City             3-2 (0-2)
            Wigan Athletic          v Blackpool FC             1-1 (1-0)
-    17.30  Wrexham AFC             v Charlton Athletic        3-0 (2-0)
-  Sun Apr/27
-    14.00  Stevenage FC            v Rotherham United         1-1 (0-1)
-    15.00  Birmingham City         v Mansfield Town           4-0 (2-0)
+    17:30  Wrexham AFC             v Charlton Athletic        3-0 (2-0)
+  Sun Apr 27
+    14:00  Stevenage FC            v Rotherham United         1-1 (0-1)
+    15:00  Birmingham City         v Mansfield Town           4-0 (2-0)
 
 
-» Matchday 46
-  Sat May/3
-    15.00  Blackpool FC            v Bristol Rovers           4-1 (1-1)
+▪ Matchday 46
+  Sat May 3
+    15:00  Blackpool FC            v Bristol Rovers           4-1 (1-1)
            Bolton Wanderers        v Stevenage FC             1-1 (0-0)
            Cambridge United        v Birmingham City          1-2 (1-1)
            Charlton Athletic       v Burton Albion            3-1 (2-1)

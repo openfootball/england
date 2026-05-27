@@ -1,14 +1,14 @@
 = English League Two 2012/13
 
-# Date       Sat Aug/18 2012 - Sat Apr/27 2013 (252d)
+# Date       Sat Aug 18 2012 - Sat Apr 27 2013 (252d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/18]
-  15.00  Southend United          0-1 (0-0)  Accrington Stanley
+▪ Matchday 1
+Sat Aug 18
+  15:00  Southend United          0-1 (0-0)  Accrington Stanley
          Bristol Rovers           0-2 (0-2)  Oxford United
          AFC Wimbledon            1-0 (1-0)  Chesterfield FC
          Port Vale FC             3-0 (2-0)  Barnet FC
@@ -22,9 +22,9 @@ Matchday 1
          Rotherham United         3-0 (2-0)  Burton Albion
 
 
-Matchday 2
-[Tue Aug/21]
-  19.45  Northampton Town         2-1 (1-1)  Rotherham United
+▪ Matchday 2
+Tue Aug 21
+  19:45  Northampton Town         2-1 (1-1)  Rotherham United
          Accrington Stanley       2-0 (1-0)  Port Vale FC
          Chesterfield FC          1-1 (0-0)  Rochdale AFC
          Wycombe Wanderers        0-1 (0-0)  Gillingham FC
@@ -35,12 +35,12 @@ Matchday 2
          Morecambe FC             2-2 (0-0)  York City
          Aldershot Town           1-2 (1-1)  Exeter City
          Bradford City            1-0 (0-0)  Fleetwood Town
-  20.00  Barnet FC                1-1 (1-0)  Bristol Rovers
+  20:00  Barnet FC                1-1 (1-0)  Bristol Rovers
 
 
-Matchday 3
-[Sat Aug/25]
-  15.00  Burton Albion            0-1 (0-0)  Fleetwood Town
+▪ Matchday 3
+Sat Aug 25
+  15:00  Burton Albion            0-1 (0-0)  Fleetwood Town
          Northampton Town         3-3 (0-0)  Southend United
          Torquay United           4-2 (2-1)  Rochdale AFC
          Accrington Stanley       0-3 (0-1)  Exeter City
@@ -53,9 +53,9 @@ Matchday 3
          Bradford City            5-1 (5-1)  AFC Wimbledon
 
 
-Matchday 4
-[Sat Sep/1]
-  15.00  Cheltenham Town          0-3 (0-2)  Accrington Stanley
+▪ Matchday 4
+Sat Sep 1
+  15:00  Cheltenham Town          0-3 (0-2)  Accrington Stanley
          Exeter City              3-0 (2-0)  Burton Albion
          Bristol Rovers           0-3 (0-0)  Morecambe FC
          Fleetwood Town           4-1 (1-1)  Aldershot Town
@@ -69,9 +69,9 @@ Matchday 4
          Rotherham United         4-0 (3-0)  Bradford City
 
 
-Matchday 5
-[Sat Sep/8]
-  15.00  Morecambe FC             0-4 (0-1)  Fleetwood Town
+▪ Matchday 5
+Sat Sep 8
+  15:00  Morecambe FC             0-4 (0-1)  Fleetwood Town
          Torquay United           0-0  Plymouth Argyle
          Rochdale AFC             0-1 (0-0)  Burton Albion
          Oxford United            2-4 (0-2)  Exeter City
@@ -85,9 +85,9 @@ Matchday 5
          Northampton Town         2-0 (0-0)  AFC Wimbledon
 
 
-Matchday 6
-[Sat Sep/15]
-  15.00  Chesterfield FC          3-1 (2-0)  Wycombe Wanderers
+▪ Matchday 6
+Sat Sep 15
+  15:00  Chesterfield FC          3-1 (2-0)  Wycombe Wanderers
          AFC Wimbledon            1-2 (0-2)  Rochdale AFC
          Bradford City            3-0 (0-0)  Barnet FC
          Gillingham FC            4-0 (3-0)  Bristol Rovers
@@ -101,9 +101,9 @@ Matchday 6
          Dagenham & Redbridge     1-1 (0-0)  Accrington Stanley
 
 
-Matchday 7
-[Tue Sep/18]
-  19.45  Aldershot Town           1-0 (0-0)  Barnet FC
+▪ Matchday 7
+Tue Sep 18
+  19:45  Aldershot Town           1-0 (0-0)  Barnet FC
          Bradford City            3-1 (1-0)  Morecambe FC
          Chesterfield FC          4-3 (2-1)  Accrington Stanley
          Gillingham FC            1-0 (1-0)  Southend United
@@ -114,13 +114,13 @@ Matchday 7
          AFC Wimbledon            0-1 (0-1)  Torquay United
          Dagenham & Redbridge     0-1 (0-0)  Northampton Town
          Fleetwood Town           2-5 (1-2)  Port Vale FC
-[Wed Sep/19]
-  19.45  Burton Albion            3-1 (1-1)  York City
+Wed Sep 19
+  19:45  Burton Albion            3-1 (1-1)  York City
 
 
-Matchday 8
-[Sat Sep/22]
-  15.00  Torquay United           1-1 (1-0)  Burton Albion
+▪ Matchday 8
+Sat Sep 22
+  15:00  Torquay United           1-1 (1-0)  Burton Albion
          Bristol Rovers           0-0  Fleetwood Town
          Wycombe Wanderers        0-1 (0-1)  AFC Wimbledon
          Oxford United            0-2 (0-0)  Bradford City
@@ -134,11 +134,11 @@ Matchday 8
          Accrington Stanley       1-0 (0-0)  Aldershot Town
 
 
-Matchday 9
-[Fri Sep/28]
-  19.45  Cheltenham Town          2-0 (1-0)  Morecambe FC
-[Sat Sep/29]
-  15.00  Aldershot Town           0-2 (0-0)  York City
+▪ Matchday 9
+Fri Sep 28
+  19:45  Cheltenham Town          2-0 (1-0)  Morecambe FC
+Sat Sep 29
+  15:00  Aldershot Town           0-2 (0-0)  York City
          AFC Wimbledon            1-2 (0-1)  Accrington Stanley
          Exeter City              1-2 (0-1)  Bristol Rovers
          Rotherham United         3-1 (1-1)  Oxford United
@@ -151,9 +151,9 @@ Matchday 9
          Chesterfield FC          1-1 (0-0)  Torquay United
 
 
-Matchday 10
-[Tue Oct/2]
-  19.45  Torquay United           4-3 (0-2)  Aldershot Town
+▪ Matchday 10
+Tue Oct 2
+  19:45  Torquay United           4-3 (0-2)  Aldershot Town
          Southend United          0-1 (0-0)  Burton Albion
          York City                0-2 (0-1)  Fleetwood Town
          Oxford United            3-2 (1-2)  AFC Wimbledon
@@ -162,14 +162,14 @@ Matchday 10
          Port Vale FC             1-1 (0-0)  Dagenham & Redbridge
          Wycombe Wanderers        1-1 (1-0)  Plymouth Argyle
          Morecambe FC             2-0 (1-0)  Chesterfield FC
-  20.00  Barnet FC                1-2 (0-1)  Exeter City
-[Wed Oct/3]
-  19.45  Bristol Rovers           0-1 (0-1)  Cheltenham Town
+  20:00  Barnet FC                1-2 (0-1)  Exeter City
+Wed Oct 3
+  19:45  Bristol Rovers           0-1 (0-1)  Cheltenham Town
 
 
-Matchday 11
-[Sat Oct/6]
-  15.00  Morecambe FC             0-0  Burton Albion
+▪ Matchday 11
+Sat Oct 6
+  15:00  Morecambe FC             0-0  Burton Albion
          Wycombe Wanderers        2-1 (1-1)  Torquay United
          Cheltenham Town          2-2 (0-1)  Fleetwood Town
          Plymouth Argyle          1-2 (0-1)  AFC Wimbledon
@@ -183,9 +183,9 @@ Matchday 11
          Accrington Stanley       2-3 (1-2)  Rochdale AFC
 
 
-Matchday 12
-[Sat Oct/13]
-  15.00  Burton Albion            1-1 (0-1)  Bristol Rovers
+▪ Matchday 12
+Sat Oct 13
+  15:00  Burton Albion            1-1 (0-1)  Bristol Rovers
          Bradford City            1-1 (0-1)  York City
          Torquay United           3-1 (1-0)  Accrington Stanley
          Rochdale AFC             1-2 (0-1)  Morecambe FC
@@ -196,15 +196,15 @@ Matchday 12
          AFC Wimbledon            1-2 (0-1)  Cheltenham Town
          Fleetwood Town           0-1 (0-1)  Wycombe Wanderers
          Barnet FC                1-4 (1-2)  Plymouth Argyle
-[Mon Oct/15]
-  19.45  Port Vale FC             3-0 (1-0)  Oxford United
+Mon Oct 15
+  19:45  Port Vale FC             3-0 (1-0)  Oxford United
 
 
-Matchday 13
-[Fri Oct/19]
-  20.00  Barnet FC                4-0 (0-0)  Northampton Town
-[Sat Oct/20]
-  15.00  Exeter City              0-1 (0-1)  Chesterfield FC
+▪ Matchday 13
+Fri Oct 19
+  20:00  Barnet FC                4-0 (0-0)  Northampton Town
+Sat Oct 20
+  15:00  Exeter City              0-1 (0-1)  Chesterfield FC
          Fleetwood Town           1-1 (1-0)  AFC Wimbledon
          Port Vale FC             4-1 (0-1)  Wycombe Wanderers
          Bradford City            3-1 (1-1)  Cheltenham Town
@@ -217,9 +217,9 @@ Matchday 13
          Plymouth Argyle          3-1 (2-0)  Rochdale AFC
 
 
-Matchday 14
-[Tue Oct/23]
-  19.45  Rochdale AFC             2-0 (0-0)  Oxford United
+▪ Matchday 14
+Tue Oct 23
+  19:45  Rochdale AFC             2-0 (0-0)  Oxford United
          Dagenham & Redbridge     1-1 (1-0)  Exeter City
          Cheltenham Town          2-1 (1-1)  Plymouth Argyle
          Southend United          1-2 (0-1)  Aldershot Town
@@ -233,12 +233,12 @@ Matchday 14
          Wycombe Wanderers        0-0  Barnet FC
 
 
-Matchday 15
-[Sat Oct/27]
-  15.00  Rochdale AFC             0-0  Fleetwood Town
+▪ Matchday 15
+Sat Oct 27
+  15:00  Rochdale AFC             0-0  Fleetwood Town
          Chesterfield FC          0-1 (0-0)  Barnet FC
-  14.00  Northampton Town         2-0 (2-0)  Port Vale FC
-  15.00  Wycombe Wanderers        1-3 (0-1)  Oxford United
+  14:00  Northampton Town         2-0 (2-0)  Port Vale FC
+  15:00  Wycombe Wanderers        1-3 (0-1)  Oxford United
          AFC Wimbledon            0-1 (0-1)  Gillingham FC
          Accrington Stanley       1-0 (0-0)  Bristol Rovers
          Dagenham & Redbridge     0-0  Aldershot Town
@@ -249,10 +249,10 @@ Matchday 15
          Cheltenham Town          3-0 (0-0)  Exeter City
 
 
-Matchday 16
-[Tue Nov/6]
-  20.00  Barnet FC                1-0 (0-0)  Torquay United
-  19.45  Port Vale FC             2-2 (1-0)  Rochdale AFC
+▪ Matchday 16
+Tue Nov 6
+  20:00  Barnet FC                1-0 (0-0)  Torquay United
+  19:45  Port Vale FC             2-2 (1-0)  Rochdale AFC
          Aldershot Town           0-0  Wycombe Wanderers
          Gillingham FC            0-0  Cheltenham Town
          Bradford City            0-0  Chesterfield FC
@@ -262,13 +262,13 @@ Matchday 16
          Oxford United            2-3 (0-1)  Dagenham & Redbridge
          Morecambe FC             0-0  Accrington Stanley
          Fleetwood Town           1-1 (1-1)  Rotherham United
-[Wed Nov/7]
-  19.45  Plymouth Argyle          1-2 (0-0)  Burton Albion
+Wed Nov 7
+  19:45  Plymouth Argyle          1-2 (0-0)  Burton Albion
 
 
-Matchday 17
-[Sat Nov/10]
-  15.00  Morecambe FC             4-1 (2-0)  Barnet FC
+▪ Matchday 17
+Sat Nov 10
+  15:00  Morecambe FC             4-1 (2-0)  Barnet FC
          Exeter City              2-2 (1-2)  Fleetwood Town
          Accrington Stanley       2-4 (1-1)  Northampton Town
          Dagenham & Redbridge     5-0 (2-0)  Rotherham United
@@ -282,11 +282,11 @@ Matchday 17
          Bristol Rovers           3-2 (1-1)  Chesterfield FC
 
 
-Matchday 18
-[Fri Nov/16]
-  20.00  Barnet FC                1-1 (0-0)  Accrington Stanley
-[Sat Nov/17]
-  15.00  Fleetwood Town           3-0 (1-0)  Plymouth Argyle
+▪ Matchday 18
+Fri Nov 16
+  20:00  Barnet FC                1-1 (0-0)  Accrington Stanley
+Sat Nov 17
+  15:00  Fleetwood Town           3-0 (1-0)  Plymouth Argyle
          Northampton Town         3-1 (1-0)  Wycombe Wanderers
          Bradford City            0-1 (0-1)  Exeter City
          Rotherham United         4-2 (3-2)  Cheltenham Town
@@ -299,10 +299,10 @@ Matchday 18
          Port Vale FC             2-2 (2-0)  York City
 
 
-Matchday 19
-[Tue Nov/20]
-  20.00  Barnet FC                2-2 (1-1)  Oxford United
-  19.45  Gillingham FC            2-3 (1-1)  Exeter City
+▪ Matchday 19
+Tue Nov 20
+  20:00  Barnet FC                2-2 (1-1)  Oxford United
+  19:45  Gillingham FC            2-3 (1-1)  Exeter City
          Chesterfield FC          4-1 (2-0)  Cheltenham Town
          Northampton Town         3-0 (0-0)  Morecambe FC
          AFC Wimbledon            0-4 (0-1)  Southend United
@@ -313,9 +313,9 @@ Matchday 19
          Rotherham United         2-3 (2-1)  Wycombe Wanderers
 
 
-Matchday 20
-[Sat Nov/24]
-  15.00  Dagenham & Redbridge     1-0 (0-0)  Fleetwood Town
+▪ Matchday 20
+Sat Nov 24
+  15:00  Dagenham & Redbridge     1-0 (0-0)  Fleetwood Town
          Southend United          3-1 (0-0)  Rochdale AFC
          Wycombe Wanderers        3-0 (1-0)  Burton Albion
          York City                0-2 (0-1)  Torquay United
@@ -329,29 +329,29 @@ Matchday 20
          Plymouth Argyle          0-1 (0-0)  Chesterfield FC
 
 
-Matchday 10
-[Tue Nov/27]
-  19.45  Accrington Stanley       1-2 (1-1)  Rotherham United
+▪ Matchday 10
+Tue Nov 27
+  19:45  Accrington Stanley       1-2 (1-1)  Rotherham United
 
 
-Matchday 19
-[Sat Dec/1]
-  15.00  Rochdale AFC             2-3 (0-3)  York City
+▪ Matchday 19
+Sat Dec 1
+  15:00  Rochdale AFC             2-3 (0-3)  York City
 
 
-Matchday 3
-[Sat Dec/1]
-  15.00  Wycombe Wanderers        2-0 (1-0)  Bristol Rovers
+▪ Matchday 3
+Sat Dec 1
+  15:00  Wycombe Wanderers        2-0 (1-0)  Bristol Rovers
 
 
-Matchday 19
-[Sat Dec/1]
-  15.00  Torquay United           2-1 (1-0)  Dagenham & Redbridge
+▪ Matchday 19
+Sat Dec 1
+  15:00  Torquay United           2-1 (1-0)  Dagenham & Redbridge
 
 
-Matchday 21
-[Sat Dec/8]
-  15.00  Northampton Town         2-3 (2-2)  Cheltenham Town
+▪ Matchday 21
+Sat Dec 8
+  15:00  Northampton Town         2-3 (2-2)  Cheltenham Town
          Port Vale FC             0-2 (0-1)  Chesterfield FC
          Rochdale AFC             2-3 (0-3)  Exeter City
          Plymouth Argyle          2-0 (1-0)  York City
@@ -362,15 +362,15 @@ Matchday 21
          Wycombe Wanderers        2-2 (1-0)  Morecambe FC
          Rotherham United         1-2 (0-1)  Gillingham FC
          Barnet FC                1-1 (0-0)  AFC Wimbledon
-[Sun Dec/9]
-  15.00  Burton Albion            1-0 (1-0)  Accrington Stanley
+Sun Dec 9
+  15:00  Burton Albion            1-0 (1-0)  Accrington Stanley
 
 
-Matchday 22
-[Sat Dec/15]
-  12.00  Exeter City              1-1 (1-0)  Plymouth Argyle
-  13.00  Morecambe FC             1-1 (0-0)  Oxford United
-  15.00  AFC Wimbledon            0-1 (0-0)  Rotherham United
+▪ Matchday 22
+Sat Dec 15
+  12:00  Exeter City              1-1 (1-0)  Plymouth Argyle
+  13:00  Morecambe FC             1-1 (0-0)  Oxford United
+  15:00  AFC Wimbledon            0-1 (0-0)  Rotherham United
          Southend United          2-2 (0-1)  Bradford City
          Aldershot Town           4-2 (3-1)  Rochdale AFC
          Gillingham FC            2-2 (1-2)  Fleetwood Town
@@ -382,34 +382,34 @@ Matchday 22
          York City                4-1 (4-1)  Bristol Rovers
 
 
-Matchday 23
-[Fri Dec/21]
-  19.45  Rochdale AFC             4-1 (2-0)  Cheltenham Town
-  20.00  Barnet FC                3-2 (1-1)  Burton Albion
-  19.45  Southend United          3-0 (0-0)  Chesterfield FC
-[Sat Dec/22]
-  15.00  Accrington Stanley       1-1 (0-1)  Plymouth Argyle
-  14.00  Northampton Town         2-0 (0-0)  Aldershot Town
+▪ Matchday 23
+Fri Dec 21
+  19:45  Rochdale AFC             4-1 (2-0)  Cheltenham Town
+  20:00  Barnet FC                3-2 (1-1)  Burton Albion
+  19:45  Southend United          3-0 (0-0)  Chesterfield FC
+Sat Dec 22
+  15:00  Accrington Stanley       1-1 (0-1)  Plymouth Argyle
+  14:00  Northampton Town         2-0 (0-0)  Aldershot Town
 
 
-Matchday 24
-[Wed Dec/26]
-  15.00  Chesterfield FC          3-0 (0-0)  York City
+▪ Matchday 24
+Wed Dec 26
+  15:00  Chesterfield FC          3-0 (0-0)  York City
          Fleetwood Town           1-0 (0-0)  Morecambe FC
          Bradford City            2-1 (1-0)  Accrington Stanley
          Burton Albion            3-2 (2-1)  Rochdale AFC
          Rotherham United         1-2 (0-0)  Port Vale FC
          Cheltenham Town          4-0 (2-0)  Wycombe Wanderers
          Exeter City              1-3 (0-1)  Oxford United
-  13.00  Gillingham FC            0-1 (0-1)  Barnet FC
+  13:00  Gillingham FC            0-1 (0-1)  Barnet FC
          Plymouth Argyle          1-1 (0-0)  Torquay United
          Dagenham & Redbridge     0-3 (0-2)  Southend United
-  15.00  Aldershot Town           2-2 (1-0)  Bristol Rovers
+  15:00  Aldershot Town           2-2 (1-0)  Bristol Rovers
 
 
-Matchday 25
-[Sat Dec/29]
-  15.00  Exeter City              2-2 (2-0)  Barnet FC
+▪ Matchday 25
+Sat Dec 29
+  15:00  Exeter City              2-2 (2-0)  Barnet FC
          Bradford City            2-4 (2-4)  Rochdale AFC
          Fleetwood Town           0-0  York City
          Burton Albion            2-0 (2-0)  Southend United
@@ -420,9 +420,9 @@ Matchday 25
          Dagenham & Redbridge     2-3 (1-3)  Port Vale FC
 
 
-Matchday 26
-[Tue Jan/1]
-  15.00  Accrington Stanley       1-0 (0-0)  Chesterfield FC
+▪ Matchday 26
+Tue Jan 1
+  15:00  Accrington Stanley       1-0 (0-0)  Chesterfield FC
          Barnet FC                0-1 (0-0)  Aldershot Town
          Morecambe FC             0-0  Bradford City
          Port Vale FC             0-2 (0-2)  Fleetwood Town
@@ -432,13 +432,13 @@ Matchday 26
          York City                3-0 (2-0)  Burton Albion
          Rochdale AFC             1-2 (1-0)  Rotherham United
          Northampton Town         3-1 (2-0)  Dagenham & Redbridge
-  13.00  Southend United          0-1 (0-1)  Gillingham FC
+  13:00  Southend United          0-1 (0-1)  Gillingham FC
          Bristol Rovers           2-1 (2-0)  Plymouth Argyle
 
 
-Matchday 27
-[Sat Jan/5]
-  15.00  Accrington Stanley       0-2 (0-1)  Dagenham & Redbridge
+▪ Matchday 27
+Sat Jan 5
+  15:00  Accrington Stanley       0-2 (0-1)  Dagenham & Redbridge
          Bristol Rovers           0-2 (0-2)  Gillingham FC
          Rochdale AFC             0-1 (0-0)  AFC Wimbledon
          Northampton Town         3-1 (2-0)  Fleetwood Town
@@ -448,14 +448,14 @@ Matchday 27
          Barnet FC                2-0 (1-0)  Bradford City
 
 
-Matchday 23
-[Tue Jan/8]
-  19.45  Morecambe FC             2-1 (0-1)  Dagenham & Redbridge
+▪ Matchday 23
+Tue Jan 8
+  19:45  Morecambe FC             2-1 (0-1)  Dagenham & Redbridge
 
 
-Matchday 28
-[Sat Jan/12]
-  15.00  Exeter City              3-0 (1-0)  Southend United
+▪ Matchday 28
+Sat Jan 12
+  15:00  Exeter City              3-0 (1-0)  Southend United
          Plymouth Argyle          2-1 (2-0)  Morecambe FC
          Cheltenham Town          1-1 (0-0)  York City
          Aldershot Town           2-0 (1-0)  Accrington Stanley
@@ -469,54 +469,54 @@ Matchday 28
          Dagenham & Redbridge     2-1 (0-0)  Rochdale AFC
 
 
-Matchday 23
-[Tue Jan/15]
-  20.00  Torquay United           1-1 (1-0)  Exeter City
+▪ Matchday 23
+Tue Jan 15
+  20:00  Torquay United           1-1 (1-0)  Exeter City
 
 
-Matchday 29
-[Fri Jan/18]
-  19.45  Morecambe FC             0-0  Cheltenham Town
-[Sat Jan/19]
-  15.00  Northampton Town         1-0 (0-0)  Burton Albion
+▪ Matchday 29
+Fri Jan 18
+  19:45  Morecambe FC             0-0  Cheltenham Town
+Sat Jan 19
+  15:00  Northampton Town         1-0 (0-0)  Burton Albion
          York City                0-0  Aldershot Town
          Wycombe Wanderers        1-0 (1-0)  Dagenham & Redbridge
 
 
-Matchday 30
-[Tue Jan/22]
-  19.45  Aldershot Town           1-2 (1-2)  Northampton Town
-[Thu Jan/24]
-  19.45  AFC Wimbledon            2-2 (2-1)  Port Vale FC
-[Fri Jan/25]
-  19.45  Cheltenham Town          0-0  Rochdale AFC
-[Sat Jan/26]
-  15.00  Chesterfield FC          0-1 (0-0)  Southend United
+▪ Matchday 30
+Tue Jan 22
+  19:45  Aldershot Town           1-2 (1-2)  Northampton Town
+Thu Jan 24
+  19:45  AFC Wimbledon            2-2 (2-1)  Port Vale FC
+Fri Jan 25
+  19:45  Cheltenham Town          0-0  Rochdale AFC
+Sat Jan 26
+  15:00  Chesterfield FC          0-1 (0-0)  Southend United
          Gillingham FC            1-1 (0-1)  York City
          Rotherham United         1-3 (0-1)  Bristol Rovers
          Dagenham & Redbridge     1-2 (0-0)  Morecambe FC
          Burton Albion            1-0 (1-0)  Barnet FC
          Plymouth Argyle          0-0  Accrington Stanley
          Fleetwood Town           3-0 (1-0)  Oxford United
-[Mon Jan/28]
-  19.45  Exeter City              0-1 (0-1)  Torquay United
+Mon Jan 28
+  19:45  Exeter City              0-1 (0-1)  Torquay United
 
 
-Matchday 25
-[Tue Jan/29]
-  19.45  Gillingham FC            2-0 (1-0)  Northampton Town
+▪ Matchday 25
+Tue Jan 29
+  19:45  Gillingham FC            2-0 (1-0)  Northampton Town
 
 
-Matchday 27
-[Tue Jan/29]
-  19.45  Oxford United            1-1 (0-0)  Burton Albion
+▪ Matchday 27
+Tue Jan 29
+  19:45  Oxford United            1-1 (0-0)  Burton Albion
 
 
-Matchday 31
-[Fri Feb/1]
-  19.45  Bristol Rovers           2-1 (0-0)  Barnet FC
-[Sat Feb/2]
-  15.00  Southend United          1-0 (0-0)  Oxford United
+▪ Matchday 31
+Fri Feb 1
+  19:45  Bristol Rovers           2-1 (0-0)  Barnet FC
+Sat Feb 2
+  15:00  Southend United          1-0 (0-0)  Oxford United
          Cheltenham Town          2-1 (1-0)  Torquay United
          Exeter City              0-0  Aldershot Town
          Plymouth Argyle          0-0  Dagenham & Redbridge
@@ -526,23 +526,23 @@ Matchday 31
          Fleetwood Town           2-2 (1-1)  Bradford City
          Rochdale AFC             1-1 (0-0)  Chesterfield FC
          Port Vale FC             3-0 (0-0)  Accrington Stanley
-[Mon Feb/4]
-  19.45  Gillingham FC            0-1 (0-0)  Wycombe Wanderers
+Mon Feb 4
+  19:45  Gillingham FC            0-1 (0-0)  Wycombe Wanderers
 
 
-Matchday 23
-[Tue Feb/5]
-  19.45  Port Vale FC             3-0 (2-0)  AFC Wimbledon
+▪ Matchday 23
+Tue Feb 5
+  19:45  Port Vale FC             3-0 (2-0)  AFC Wimbledon
 
 
-Matchday 25
-[Tue Feb/5]
-  19.45  Cheltenham Town          1-1 (1-0)  Bristol Rovers
+▪ Matchday 25
+Tue Feb 5
+  19:45  Cheltenham Town          1-1 (1-0)  Bristol Rovers
 
 
-Matchday 32
-[Sat Feb/9]
-  15.00  Bradford City            0-1 (0-0)  Gillingham FC
+▪ Matchday 32
+Sat Feb 9
+  15:00  Bradford City            0-1 (0-0)  Gillingham FC
          Morecambe FC             0-3 (0-0)  Exeter City
          Barnet FC                0-0  Port Vale FC
          Oxford United            0-2 (0-0)  Bristol Rovers
@@ -556,33 +556,33 @@ Matchday 32
          Accrington Stanley       1-1 (0-0)  Southend United
 
 
-Matchday 23
-[Tue Feb/12]
-  19.45  Oxford United            1-2 (0-1)  Fleetwood Town
+▪ Matchday 23
+Tue Feb 12
+  19:45  Oxford United            1-2 (0-1)  Fleetwood Town
 
 
-Matchday 27
-[Tue Feb/12]
-  19.45  Morecambe FC             2-1 (0-0)  Aldershot Town
+▪ Matchday 27
+Tue Feb 12
+  19:45  Morecambe FC             2-1 (0-0)  Aldershot Town
          Southend United          1-2 (0-2)  Cheltenham Town
 
 
-Matchday 23
-[Tue Feb/12]
-  19.45  York City                0-0  Gillingham FC
+▪ Matchday 23
+Tue Feb 12
+  19:45  York City                0-0  Gillingham FC
          Wycombe Wanderers        0-3 (0-1)  Bradford City
 
 
-Matchday 27
-[Tue Feb/12]
-  19.45  Torquay United           1-3 (0-0)  Rotherham United
+▪ Matchday 27
+Tue Feb 12
+  19:45  Torquay United           1-3 (0-0)  Rotherham United
 
 
-Matchday 33
-[Fri Feb/15]
-  19.45  Exeter City              2-0 (0-0)  Accrington Stanley
-[Sat Feb/16]
-  15.00  Plymouth Argyle          0-1 (0-1)  Oxford United
+▪ Matchday 33
+Fri Feb 15
+  19:45  Exeter City              2-0 (0-0)  Accrington Stanley
+Sat Feb 16
+  15:00  Plymouth Argyle          0-1 (0-1)  Oxford United
          AFC Wimbledon            2-1 (0-0)  Bradford City
          Cheltenham Town          1-1 (0-1)  Aldershot Town
          Southend United          1-2 (0-1)  Northampton Town
@@ -595,24 +595,24 @@ Matchday 33
          Gillingham FC            2-1 (1-0)  Dagenham & Redbridge
 
 
-Matchday 23
-[Tue Feb/19]
-  19.45  Bristol Rovers           1-2 (0-0)  Rotherham United
+▪ Matchday 23
+Tue Feb 19
+  19:45  Bristol Rovers           1-2 (0-0)  Rotherham United
 
 
-Matchday 25
-[Tue Feb/19]
-  19.45  Aldershot Town           1-0 (0-0)  Torquay United
+▪ Matchday 25
+Tue Feb 19
+  19:45  Aldershot Town           1-0 (0-0)  Torquay United
 
 
-Matchday 24
-[Tue Feb/19]
-  19.45  AFC Wimbledon            1-1 (1-0)  Northampton Town
+▪ Matchday 24
+Tue Feb 19
+  19:45  AFC Wimbledon            1-1 (1-0)  Northampton Town
 
 
-Matchday 34
-[Sat Feb/23]
-  15.00  Chesterfield FC          0-1 (0-0)  Gillingham FC
+▪ Matchday 34
+Sat Feb 23
+  15:00  Chesterfield FC          0-1 (0-0)  Gillingham FC
          Accrington Stanley       2-2 (1-1)  Cheltenham Town
          Barnet FC                0-0  Rochdale AFC
          Northampton Town         1-0 (0-0)  Plymouth Argyle
@@ -625,26 +625,26 @@ Matchday 34
          Oxford United            0-0  York City
 
 
-Matchday 35
-[Tue Feb/26]
-  19.45  Burton Albion            3-2 (2-0)  Morecambe FC
+▪ Matchday 35
+Tue Feb 26
+  19:45  Burton Albion            3-2 (2-0)  Morecambe FC
          Rochdale AFC             0-3 (0-0)  Accrington Stanley
          Northampton Town         1-0 (0-0)  Bristol Rovers
          Fleetwood Town           1-1 (0-1)  Cheltenham Town
          Port Vale FC             0-2 (0-2)  Exeter City
          Torquay United           1-2 (1-0)  Wycombe Wanderers
          AFC Wimbledon            1-1 (1-1)  Plymouth Argyle
-  20.00  Barnet FC                2-0 (1-0)  Southend United
-  19.45  Gillingham FC            0-1 (0-0)  Oxford United
+  20:00  Barnet FC                2-0 (1-0)  Southend United
+  19:45  Gillingham FC            0-1 (0-0)  Oxford United
          Chesterfield FC          0-0  Aldershot Town
          Rotherham United         1-1 (0-0)  York City
-[Wed Feb/27]
-  19.45  Bradford City            1-1 (0-0)  Dagenham & Redbridge
+Wed Feb 27
+  19:45  Bradford City            1-1 (0-0)  Dagenham & Redbridge
 
 
-Matchday 36
-[Sat Mar/2]
-  15.00  Aldershot Town           1-1 (0-0)  Gillingham FC
+▪ Matchday 36
+Sat Mar 2
+  15:00  Aldershot Town           1-1 (0-0)  Gillingham FC
          Cheltenham Town          2-1 (1-0)  AFC Wimbledon
          Dagenham & Redbridge     0-1 (0-1)  Chesterfield FC
          Wycombe Wanderers        1-0 (0-0)  Fleetwood Town
@@ -658,25 +658,25 @@ Matchday 36
          Exeter City              3-0 (1-0)  Northampton Town
 
 
-Matchday 29
-[Tue Mar/5]
-  19.45  Oxford United            0-4 (0-4)  Rotherham United
+▪ Matchday 29
+Tue Mar 5
+  19:45  Oxford United            0-4 (0-4)  Rotherham United
          Port Vale FC             0-0  Bradford City
 
 
-Matchday 38
-[Tue Mar/5]
-  19.45  Cheltenham Town          1-0 (0-0)  Chesterfield FC
+▪ Matchday 38
+Tue Mar 5
+  19:45  Cheltenham Town          1-0 (0-0)  Chesterfield FC
 
 
-Matchday 29
-[Wed Mar/6]
-  19.45  Bristol Rovers           2-0 (1-0)  Exeter City
+▪ Matchday 29
+Wed Mar 6
+  19:45  Bristol Rovers           2-0 (1-0)  Exeter City
 
 
-Matchday 37
-[Sat Mar/9]
-  15.00  Burton Albion            3-1 (2-0)  Cheltenham Town
+▪ Matchday 37
+Sat Mar 9
+  15:00  Burton Albion            3-1 (2-0)  Cheltenham Town
          Gillingham FC            2-1 (1-0)  Plymouth Argyle
          AFC Wimbledon            3-2 (1-1)  York City
          Chesterfield FC          2-0 (0-0)  Bristol Rovers
@@ -690,9 +690,9 @@ Matchday 37
          Bradford City            1-1 (0-1)  Aldershot Town
 
 
-Matchday 38
-[Tue Mar/12]
-  19.45  Dagenham & Redbridge     2-2 (1-0)  Torquay United
+▪ Matchday 38
+Tue Mar 12
+  19:45  Dagenham & Redbridge     2-2 (1-0)  Torquay United
          Accrington Stanley       0-3 (0-1)  Fleetwood Town
          Morecambe FC             1-1 (0-0)  Northampton Town
          Bristol Rovers           2-0 (2-0)  Port Vale FC
@@ -705,9 +705,9 @@ Matchday 38
          York City                0-0  Rochdale AFC
 
 
-Matchday 39
-[Sat Mar/16]
-  15.00  Accrington Stanley       3-2 (3-1)  Barnet FC
+▪ Matchday 39
+Sat Mar 16
+  15:00  Accrington Stanley       3-2 (3-1)  Barnet FC
          Aldershot Town           0-1 (0-0)  AFC Wimbledon
          York City                0-2 (0-1)  Port Vale FC
          Exeter City              4-1 (2-0)  Bradford City
@@ -720,23 +720,23 @@ Matchday 39
          Bristol Rovers           2-1 (0-0)  Rochdale AFC
 
 
-Matchday 29
-[Tue Mar/19]
-  20.00  Barnet FC                2-0 (1-0)  Fleetwood Town
-  19.45  Torquay United           2-1 (2-0)  Chesterfield FC
+▪ Matchday 29
+Tue Mar 19
+  20:00  Barnet FC                2-0 (1-0)  Fleetwood Town
+  19:45  Torquay United           2-1 (2-0)  Chesterfield FC
          Accrington Stanley       4-0 (3-0)  AFC Wimbledon
          Rochdale AFC             1-1 (1-0)  Gillingham FC
          Southend United          0-2 (0-0)  Plymouth Argyle
 
 
-Matchday 30
-[Tue Mar/19]
-  19.45  Bradford City            1-0 (0-0)  Wycombe Wanderers
+▪ Matchday 30
+Tue Mar 19
+  19:45  Bradford City            1-0 (0-0)  Wycombe Wanderers
 
 
-Matchday 40
-[Sat Mar/23]
-  15.00  AFC Wimbledon            2-0 (2-0)  Morecambe FC
+▪ Matchday 40
+Sat Mar 23
+  15:00  AFC Wimbledon            2-0 (2-0)  Morecambe FC
          Gillingham FC            1-0 (1-0)  Accrington Stanley
          Barnet FC                0-0  Cheltenham Town
          Torquay United           2-1 (2-0)  York City
@@ -744,26 +744,26 @@ Matchday 40
          Northampton Town         1-0 (1-0)  Oxford United
 
 
-Matchday 41
-[Fri Mar/29]
-  19.45  Northampton Town         1-0 (0-0)  Torquay United
-  15.00  Rotherham United         1-0 (0-0)  AFC Wimbledon
+▪ Matchday 41
+Fri Mar 29
+  19:45  Northampton Town         1-0 (0-0)  Torquay United
+  15:00  Rotherham United         1-0 (0-0)  AFC Wimbledon
          Rochdale AFC             1-1 (0-0)  Aldershot Town
          Barnet FC                0-0  Dagenham & Redbridge
          Oxford United            1-1 (0-0)  Morecambe FC
          Wycombe Wanderers        0-1 (0-0)  Accrington Stanley
          Port Vale FC             3-2 (1-0)  Cheltenham Town
          Bradford City            2-2 (0-2)  Southend United
-[Sat Mar/30]
-  15.00  Burton Albion            0-1 (0-0)  Chesterfield FC
+Sat Mar 30
+  15:00  Burton Albion            0-1 (0-0)  Chesterfield FC
          Fleetwood Town           2-2 (1-2)  Gillingham FC
-  13.00  Plymouth Argyle          1-0 (1-0)  Exeter City
-  15.00  Bristol Rovers           0-0  York City
+  13:00  Plymouth Argyle          1-0 (1-0)  Exeter City
+  15:00  Bristol Rovers           0-0  York City
 
 
-Matchday 42
-[Mon Apr/1]
-  15.00  York City                2-0 (2-0)  Plymouth Argyle
+▪ Matchday 42
+Mon Apr 1
+  15:00  York City                2-0 (2-0)  Plymouth Argyle
          Torquay United           1-3 (1-2)  Bradford City
          Dagenham & Redbridge     2-4 (1-3)  Bristol Rovers
          Cheltenham Town          1-0 (1-0)  Northampton Town
@@ -771,17 +771,17 @@ Matchday 42
          AFC Wimbledon            0-1 (0-0)  Barnet FC
          Morecambe FC             0-1 (0-0)  Wycombe Wanderers
          Accrington Stanley       3-3 (1-1)  Burton Albion
-  13.00  Southend United          1-1 (0-1)  Fleetwood Town
-  15.00  Gillingham FC            1-0 (1-0)  Rotherham United
+  13:00  Southend United          1-1 (0-1)  Fleetwood Town
+  15:00  Gillingham FC            1-0 (1-0)  Rotherham United
          Chesterfield FC          2-2 (2-1)  Port Vale FC
          Aldershot Town           3-2 (1-0)  Oxford United
 
 
-Matchday 43
-[Fri Apr/5]
-  19.45  Port Vale FC             7-1 (3-0)  Burton Albion
-[Sat Apr/6]
-  15.00  Fleetwood Town           0-3 (0-1)  Rochdale AFC
+▪ Matchday 43
+Fri Apr 5
+  19:45  Port Vale FC             7-1 (3-0)  Burton Albion
+Sat Apr 6
+  15:00  Fleetwood Town           0-3 (0-1)  Rochdale AFC
          Exeter City              0-1 (0-1)  Dagenham & Redbridge
          Bristol Rovers           1-0 (0-0)  AFC Wimbledon
          Barnet FC                0-2 (0-0)  Chesterfield FC
@@ -793,21 +793,21 @@ Matchday 43
          Oxford United            0-1 (0-1)  Wycombe Wanderers
 
 
-Matchday 40
-[Tue Apr/9]
-  19.45  Rotherham United         4-1 (3-0)  Exeter City
+▪ Matchday 40
+Tue Apr 9
+  19:45  Rotherham United         4-1 (3-0)  Exeter City
          Burton Albion            2-0 (0-0)  Wycombe Wanderers
          Bradford City            4-1 (3-0)  Bristol Rovers
          Port Vale FC             1-1 (1-0)  Aldershot Town
-[Wed Apr/10]
-  19.45  Rochdale AFC             4-2 (1-0)  Southend United
+Wed Apr 10
+  19:45  Rochdale AFC             4-2 (1-0)  Southend United
 
 
-Matchday 44
-[Fri Apr/12]
-  19.45  Accrington Stanley       2-0 (1-0)  Morecambe FC
-[Sat Apr/13]
-  15.00  Southend United          0-0  Bristol Rovers
+▪ Matchday 44
+Fri Apr 12
+  19:45  Accrington Stanley       2-0 (1-0)  Morecambe FC
+Sat Apr 13
+  15:00  Southend United          0-0  Bristol Rovers
          Cheltenham Town          1-0 (0-0)  Gillingham FC
          Wycombe Wanderers        2-1 (0-0)  Aldershot Town
          Northampton Town         0-2 (0-1)  York City
@@ -819,34 +819,34 @@ Matchday 44
          Rochdale AFC             2-2 (1-1)  Port Vale FC
 
 
-Matchday 39
-[Tue Apr/16]
-  19.45  Wycombe Wanderers        0-0  Northampton Town
+▪ Matchday 39
+Tue Apr 16
+  19:45  Wycombe Wanderers        0-0  Northampton Town
 
 
-Matchday 40
-[Tue Apr/16]
-  19.45  Chesterfield FC          1-2 (0-2)  Plymouth Argyle
+▪ Matchday 40
+Tue Apr 16
+  19:45  Chesterfield FC          1-2 (0-2)  Plymouth Argyle
 
 
-Matchday 34
-[Tue Apr/16]
-  19.45  Bradford City            0-2 (0-0)  Rotherham United
+▪ Matchday 34
+Tue Apr 16
+  19:45  Bradford City            0-2 (0-0)  Rotherham United
 
 
-Matchday 43
-[Tue Apr/16]
-  19.45  Aldershot Town           0-2 (0-0)  Southend United
+▪ Matchday 43
+Tue Apr 16
+  19:45  Aldershot Town           0-2 (0-0)  Southend United
 
 
-Matchday 44
-[Tue Apr/16]
-  19.45  Torquay United           3-2 (1-0)  Barnet FC
+▪ Matchday 44
+Tue Apr 16
+  19:45  Torquay United           3-2 (1-0)  Barnet FC
 
 
-Matchday 45
-[Sat Apr/20]
-  15.00  Morecambe FC             0-2 (0-1)  Torquay United
+▪ Matchday 45
+Sat Apr 20
+  15:00  Morecambe FC             0-2 (0-1)  Torquay United
          York City                2-1 (2-1)  Southend United
          Plymouth Argyle          0-1 (0-0)  Rotherham United
          Exeter City              0-1 (0-1)  Cheltenham Town
@@ -860,9 +860,9 @@ Matchday 45
          Gillingham FC            2-2 (2-0)  AFC Wimbledon
 
 
-Matchday 46
-[Sat Apr/27]
-  15.00  Wycombe Wanderers        1-1 (1-0)  Port Vale FC
+▪ Matchday 46
+Sat Apr 27
+  15:00  Wycombe Wanderers        1-1 (1-0)  Port Vale FC
          Dagenham & Redbridge     0-1 (0-0)  York City
          Southend United          0-1 (0-1)  Morecambe FC
          Rotherham United         2-0 (0-0)  Aldershot Town

@@ -1,14 +1,14 @@
 = English Premier League 2001/02
 
-# Date       Sat Aug/18 2001 - Sat May/11 2002 (266d)
+# Date       Sat Aug 18 2001 - Sat May 11 2002 (266d)
 # Teams      20
 # Matches    380
 
 
 
-Matchday 1
-[Sat Aug/18]
-  15.00  Derby County             2-1 (1-0)  Blackburn Rovers
+▪ Matchday 1
+Sat Aug 18
+  15:00  Derby County             2-1 (1-0)  Blackburn Rovers
          Sunderland AFC           1-0 (1-0)  Ipswich Town
          Leicester City           0-5 (0-4)  Bolton Wanderers
          Liverpool FC             2-1 (1-1)  West Ham United
@@ -16,42 +16,42 @@ Matchday 1
          Tottenham Hotspur        0-0  Aston Villa
          Middlesbrough FC         0-4 (0-1)  Arsenal FC
          Leeds United             2-0 (0-0)  Southampton FC
-[Sun Aug/19]
-  14.00  Chelsea FC               1-1 (1-0)  Newcastle United
-  16.00  Manchester United        3-2 (1-1)  Fulham FC
+Sun Aug 19
+  14:00  Chelsea FC               1-1 (1-0)  Newcastle United
+  16:00  Manchester United        3-2 (1-1)  Fulham FC
 
 
-Matchday 2
-[Mon Aug/20]
-  20.00  Everton FC               1-1 (0-1)  Tottenham Hotspur
-[Tue Aug/21]
-  19.45  Ipswich Town             3-1 (1-0)  Derby County
-  20.00  Arsenal FC               1-2 (1-1)  Leeds United
-  19.45  Bolton Wanderers         1-0 (1-0)  Middlesbrough FC
-[Wed Aug/22]
-  20.00  Blackburn Rovers         2-2 (0-1)  Manchester United
-  19.45  Fulham FC                2-0 (0-0)  Sunderland AFC
+▪ Matchday 2
+Mon Aug 20
+  20:00  Everton FC               1-1 (0-1)  Tottenham Hotspur
+Tue Aug 21
+  19:45  Ipswich Town             3-1 (1-0)  Derby County
+  20:00  Arsenal FC               1-2 (1-1)  Leeds United
+  19:45  Bolton Wanderers         1-0 (1-0)  Middlesbrough FC
+Wed Aug 22
+  20:00  Blackburn Rovers         2-2 (0-1)  Manchester United
+  19:45  Fulham FC                2-0 (0-0)  Sunderland AFC
 
 
-Matchday 3
-[Sat Aug/25]
-  15.00  West Ham United          0-0  Leeds United
+▪ Matchday 3
+Sat Aug 25
+  15:00  West Ham United          0-0  Leeds United
          Southampton FC           0-2 (0-1)  Chelsea FC
          Ipswich Town             0-1 (0-0)  Charlton Athletic
          Everton FC               2-0 (1-0)  Middlesbrough FC
          Blackburn Rovers         2-1 (1-0)  Tottenham Hotspur
          Arsenal FC               4-0 (2-0)  Leicester City
          Fulham FC                0-0  Derby County
-[Sun Aug/26]
-  16.00  Newcastle United         1-1 (1-1)  Sunderland AFC
-  14.00  Aston Villa              1-1 (1-0)  Manchester United
-[Mon Aug/27]
-  20.00  Bolton Wanderers         2-1 (1-0)  Liverpool FC
+Sun Aug 26
+  16:00  Newcastle United         1-1 (1-1)  Sunderland AFC
+  14:00  Aston Villa              1-1 (1-0)  Manchester United
+Mon Aug 27
+  20:00  Bolton Wanderers         2-1 (1-0)  Liverpool FC
 
 
-Matchday 4
-[Sat Sep/8]
-  15.00  Liverpool FC             1-3 (0-1)  Aston Villa
+▪ Matchday 4
+Sat Sep 8
+  15:00  Liverpool FC             1-3 (0-1)  Aston Villa
          Middlesbrough FC         1-4 (1-1)  Newcastle United
          Sunderland AFC           1-0 (0-0)  Blackburn Rovers
          Manchester United        4-1 (2-0)  Everton FC
@@ -59,272 +59,272 @@ Matchday 4
          Derby County             0-0  West Ham United
          Chelsea FC               1-1 (1-1)  Arsenal FC
          Leicester City           1-1 (0-1)  Ipswich Town
-[Sun Sep/9]
-  14.00  Tottenham Hotspur        2-0 (0-0)  Southampton FC
-  16.00  Charlton Athletic        1-1 (1-1)  Fulham FC
+Sun Sep 9
+  14:00  Tottenham Hotspur        2-0 (0-0)  Southampton FC
+  16:00  Charlton Athletic        1-1 (1-1)  Fulham FC
 
 
-Matchday 5
-[Sat Sep/15]
-  15.00  Fulham FC                1-3 (0-1)  Arsenal FC
+▪ Matchday 5
+Sat Sep 15
+  15:00  Fulham FC                1-3 (0-1)  Arsenal FC
          Newcastle United         4-3 (2-1)  Manchester United
          Bolton Wanderers         0-1 (0-0)  Southampton FC
          Middlesbrough FC         2-0 (2-0)  West Ham United
-  12.00  Everton FC               1-3 (1-2)  Liverpool FC
-  15.00  Derby County             2-3 (1-1)  Leicester City
-[Sun Sep/16]
-  16.00  Ipswich Town             1-1 (1-0)  Blackburn Rovers
-  15.00  Aston Villa              0-0  Sunderland AFC
-  14.00  Tottenham Hotspur        2-3 (0-1)  Chelsea FC
+  12:00  Everton FC               1-3 (1-2)  Liverpool FC
+  15:00  Derby County             2-3 (1-1)  Leicester City
+Sun Sep 16
+  16:00  Ipswich Town             1-1 (1-0)  Blackburn Rovers
+  15:00  Aston Villa              0-0  Sunderland AFC
+  14:00  Tottenham Hotspur        2-3 (0-1)  Chelsea FC
          Charlton Athletic        0-2 (0-1)  Leeds United
 
 
-Matchday 6
-[Mon Sep/17]
-  20.00  Leicester City           1-2 (1-0)  Middlesbrough FC
-[Wed Sep/19]
-  19.45  Blackburn Rovers         1-1 (0-0)  Bolton Wanderers
-  20.00  Sunderland AFC           1-2 (0-1)  Tottenham Hotspur
+▪ Matchday 6
+Mon Sep 17
+  20:00  Leicester City           1-2 (1-0)  Middlesbrough FC
+Wed Sep 19
+  19:45  Blackburn Rovers         1-1 (0-0)  Bolton Wanderers
+  20:00  Sunderland AFC           1-2 (0-1)  Tottenham Hotspur
 
 
-Matchday 7
-[Sat Sep/22]
-  15.00  Sunderland AFC           2-2 (0-1)  Charlton Athletic
+▪ Matchday 7
+Sat Sep 22
+  15:00  Sunderland AFC           2-2 (0-1)  Charlton Athletic
          Arsenal FC               1-1 (0-0)  Bolton Wanderers
          Blackburn Rovers         1-0 (1-0)  Everton FC
          Leicester City           0-0  Fulham FC
          Manchester United        4-0 (2-0)  Ipswich Town
          Liverpool FC             1-0 (0-0)  Tottenham Hotspur
-[Sun Sep/23]
-  14.00  Leeds United             3-0 (1-0)  Derby County
-  16.00  West Ham United          3-0 (1-0)  Newcastle United
-  14.00  Chelsea FC               2-2 (2-0)  Middlesbrough FC
-[Mon Sep/24]
-  20.00  Southampton FC           1-3 (1-2)  Aston Villa
+Sun Sep 23
+  14:00  Leeds United             3-0 (1-0)  Derby County
+  16:00  West Ham United          3-0 (1-0)  Newcastle United
+  14:00  Chelsea FC               2-2 (2-0)  Middlesbrough FC
+Mon Sep 24
+  20:00  Southampton FC           1-3 (1-2)  Aston Villa
 
 
-Matchday 2
-[Wed Sep/26]
-  19.45  Newcastle United         1-0 (1-0)  Leicester City
+▪ Matchday 2
+Wed Sep 26
+  19:45  Newcastle United         1-0 (1-0)  Leicester City
 
 
-Matchday 8
-[Sat Sep/29]
-  15.00  Everton FC               5-0 (1-0)  West Ham United
+▪ Matchday 8
+Sat Sep 29
+  15:00  Everton FC               5-0 (1-0)  West Ham United
          Derby County             0-2 (0-1)  Arsenal FC
          Tottenham Hotspur        3-5 (3-0)  Manchester United
          Bolton Wanderers         0-2 (0-0)  Sunderland AFC
          Middlesbrough FC         1-3 (0-0)  Southampton FC
          Charlton Athletic        2-0 (1-0)  Leicester City
-[Sun Sep/30]
-  14.00  Newcastle United         0-2 (0-1)  Liverpool FC
-  12.00  Fulham FC                1-1 (0-1)  Chelsea FC
-  15.00  Aston Villa              2-0 (0-0)  Blackburn Rovers
-  16.00  Ipswich Town             1-2 (1-0)  Leeds United
+Sun Sep 30
+  14:00  Newcastle United         0-2 (0-1)  Liverpool FC
+  12:00  Fulham FC                1-1 (0-1)  Chelsea FC
+  15:00  Aston Villa              2-0 (0-0)  Blackburn Rovers
+  16:00  Ipswich Town             1-2 (1-0)  Leeds United
 
 
-Matchday 9
-[Sat Oct/13]
-  12.00  Liverpool FC             1-1 (0-1)  Leeds United
-  15.00  Bolton Wanderers         0-4 (0-1)  Newcastle United
+▪ Matchday 9
+Sat Oct 13
+  12:00  Liverpool FC             1-1 (0-1)  Leeds United
+  15:00  Bolton Wanderers         0-4 (0-1)  Newcastle United
          Southampton FC           0-2 (0-1)  Arsenal FC
          Charlton Athletic        0-0  Middlesbrough FC
          Chelsea FC               2-0 (2-0)  Leicester City
          Sunderland AFC           1-3 (0-1)  Manchester United
          Ipswich Town             0-0  Everton FC
-[Sun Oct/14]
-  16.00  Aston Villa              2-0 (0-0)  Fulham FC
-  14.00  Blackburn Rovers         7-1 (3-1)  West Ham United
-[Mon Oct/15]
-  20.00  Tottenham Hotspur        3-1 (2-1)  Derby County
+Sun Oct 14
+  16:00  Aston Villa              2-0 (0-0)  Fulham FC
+  14:00  Blackburn Rovers         7-1 (3-1)  West Ham United
+Mon Oct 15
+  20:00  Tottenham Hotspur        3-1 (2-1)  Derby County
 
 
-Matchday 10
-[Sat Oct/20]
-  15.00  Everton FC               3-2 (0-0)  Aston Villa
+▪ Matchday 10
+Sat Oct 20
+  15:00  Everton FC               3-2 (0-0)  Aston Villa
          Manchester United        1-2 (1-1)  Bolton Wanderers
          Arsenal FC               3-3 (0-1)  Blackburn Rovers
          West Ham United          2-0 (0-0)  Southampton FC
          Leicester City           1-4 (0-3)  Liverpool FC
          Derby County             1-1 (1-0)  Charlton Athletic
-[Sun Oct/21]
-  14.00  Newcastle United         0-2 (0-2)  Tottenham Hotspur
-  13.00  Fulham FC                1-1 (1-0)  Ipswich Town
-  16.00  Leeds United             0-0  Chelsea FC
-[Mon Oct/22]
-  20.00  Middlesbrough FC         2-0 (2-0)  Sunderland AFC
+Sun Oct 21
+  14:00  Newcastle United         0-2 (0-2)  Tottenham Hotspur
+  13:00  Fulham FC                1-1 (1-0)  Ipswich Town
+  16:00  Leeds United             0-0  Chelsea FC
+Mon Oct 22
+  20:00  Middlesbrough FC         2-0 (2-0)  Sunderland AFC
 
 
-Matchday 6
-[Wed Oct/24]
-  19.45  Southampton FC           3-3 (2-1)  Ipswich Town
+▪ Matchday 6
+Wed Oct 24
+  19:45  Southampton FC           3-3 (2-1)  Ipswich Town
 
 
-Matchday 2
-[Wed Oct/24]
-  19.45  Aston Villa              1-0 (1-0)  Charlton Athletic
+▪ Matchday 2
+Wed Oct 24
+  19:45  Aston Villa              1-0 (1-0)  Charlton Athletic
          West Ham United          2-1 (2-1)  Chelsea FC
 
 
-Matchday 11
-[Sat Oct/27]
-  15.00  Everton FC               1-3 (0-1)  Newcastle United
+▪ Matchday 11
+Sat Oct 27
+  15:00  Everton FC               1-3 (0-1)  Newcastle United
          Sunderland AFC           1-1 (0-1)  Arsenal FC
-  12.00  Manchester United        1-1 (0-0)  Leeds United
-  15.00  Tottenham Hotspur        2-1 (0-1)  Middlesbrough FC
+  12:00  Manchester United        1-1 (0-0)  Leeds United
+  15:00  Tottenham Hotspur        2-1 (0-1)  Middlesbrough FC
          Charlton Athletic        0-2 (0-2)  Liverpool FC
          Fulham FC                2-1 (2-1)  Southampton FC
          Aston Villa              3-2 (2-1)  Bolton Wanderers
-[Sun Oct/28]
-  16.00  Derby County             1-1 (1-0)  Chelsea FC
-  14.00  Ipswich Town             2-3 (0-1)  West Ham United
-[Mon Oct/29]
-  20.00  Blackburn Rovers         0-0  Leicester City
+Sun Oct 28
+  16:00  Derby County             1-1 (1-0)  Chelsea FC
+  14:00  Ipswich Town             2-3 (0-1)  West Ham United
+Mon Oct 29
+  20:00  Blackburn Rovers         0-0  Leicester City
 
 
-Matchday 12
-[Sat Nov/3]
-  15.00  West Ham United          0-2 (0-1)  Fulham FC
+▪ Matchday 12
+Sat Nov 3
+  15:00  West Ham United          0-2 (0-1)  Fulham FC
          Southampton FC           1-2 (1-1)  Blackburn Rovers
          Newcastle United         3-0 (1-0)  Aston Villa
          Middlesbrough FC         5-1 (0-0)  Derby County
          Bolton Wanderers         2-2 (1-1)  Everton FC
-  12.00  Leicester City           1-0 (0-0)  Sunderland AFC
-[Sun Nov/4]
-  14.00  Chelsea FC               2-1 (1-0)  Ipswich Town
+  12:00  Leicester City           1-0 (0-0)  Sunderland AFC
+Sun Nov 4
+  14:00  Chelsea FC               2-1 (1-0)  Ipswich Town
          Arsenal FC               2-4 (1-2)  Charlton Athletic
-  11.30  Liverpool FC             3-1 (2-0)  Manchester United
-  12.00  Leeds United             2-1 (0-0)  Tottenham Hotspur
+  11:30  Liverpool FC             3-1 (2-0)  Manchester United
+  12:00  Leeds United             2-1 (0-0)  Tottenham Hotspur
 
 
-Matchday 13
-[Sat Nov/17]
-  15.00  Manchester United        2-0 (1-0)  Leicester City
+▪ Matchday 13
+Sat Nov 17
+  15:00  Manchester United        2-0 (1-0)  Leicester City
          Aston Villa              0-0  Middlesbrough FC
-  12.00  Blackburn Rovers         1-1 (0-1)  Liverpool FC
-  15.00  Fulham FC                3-1 (2-0)  Newcastle United
+  12:00  Blackburn Rovers         1-1 (0-1)  Liverpool FC
+  15:00  Fulham FC                3-1 (2-0)  Newcastle United
          Tottenham Hotspur        1-1 (0-0)  Arsenal FC
          Derby County             1-0 (1-0)  Southampton FC
-[Sun Nov/18]
-  14.00  Everton FC               0-0  Chelsea FC
-  16.00  Ipswich Town             1-2 (1-2)  Bolton Wanderers
-  15.00  Sunderland AFC           2-0 (0-0)  Leeds United
-[Mon Nov/19]
-  20.00  Charlton Athletic        4-4 (2-2)  West Ham United
+Sun Nov 18
+  14:00  Everton FC               0-0  Chelsea FC
+  16:00  Ipswich Town             1-2 (1-2)  Bolton Wanderers
+  15:00  Sunderland AFC           2-0 (0-0)  Leeds United
+Mon Nov 19
+  20:00  Charlton Athletic        4-4 (2-2)  West Ham United
 
 
-Matchday 14
-[Sat Nov/24]
-  15.00  Southampton FC           1-0 (0-0)  Charlton Athletic
+▪ Matchday 14
+Sat Nov 24
+  15:00  Southampton FC           1-0 (0-0)  Charlton Athletic
          Bolton Wanderers         0-0  Fulham FC
          Chelsea FC               0-0  Blackburn Rovers
          West Ham United          0-1 (0-0)  Tottenham Hotspur
          Newcastle United         1-0 (1-0)  Derby County
          Leicester City           0-0  Everton FC
-[Sun Nov/25]
-  15.00  Leeds United             1-1 (1-1)  Aston Villa
-  14.00  Liverpool FC             1-0 (1-0)  Sunderland AFC
-  15.00  Middlesbrough FC         0-0  Ipswich Town
-  16.00  Arsenal FC               3-1 (0-1)  Manchester United
+Sun Nov 25
+  15:00  Leeds United             1-1 (1-1)  Aston Villa
+  14:00  Liverpool FC             1-0 (1-0)  Sunderland AFC
+  15:00  Middlesbrough FC         0-0  Ipswich Town
+  16:00  Arsenal FC               3-1 (0-1)  Manchester United
 
 
-Matchday 15
-[Sat Dec/1]
-  12.00  Manchester United        0-3 (0-1)  Chelsea FC
-  15.00  Sunderland AFC           1-0 (0-0)  West Ham United
+▪ Matchday 15
+Sat Dec 1
+  12:00  Manchester United        0-3 (0-1)  Chelsea FC
+  15:00  Sunderland AFC           1-0 (0-0)  West Ham United
          Ipswich Town             0-2 (0-1)  Arsenal FC
          Charlton Athletic        1-1 (0-0)  Newcastle United
          Blackburn Rovers         0-1 (0-1)  Middlesbrough FC
          Aston Villa              0-2 (0-1)  Leicester City
          Derby County             0-1 (0-1)  Liverpool FC
-[Sun Dec/2]
-  14.00  Fulham FC                0-0  Leeds United
-  16.00  Everton FC               2-0 (0-0)  Southampton FC
-[Mon Dec/3]
-  20.00  Tottenham Hotspur        3-2 (0-1)  Bolton Wanderers
+Sun Dec 2
+  14:00  Fulham FC                0-0  Leeds United
+  16:00  Everton FC               2-0 (0-0)  Southampton FC
+Mon Dec 3
+  20:00  Tottenham Hotspur        3-2 (0-1)  Bolton Wanderers
 
 
-Matchday 6
-[Wed Dec/5]
-  19.45  West Ham United          1-1 (0-1)  Aston Villa
+▪ Matchday 6
+Wed Dec 5
+  19:45  West Ham United          1-1 (0-1)  Aston Villa
          Chelsea FC               0-1 (0-0)  Charlton Athletic
 
 
-Matchday 16
-[Sat Dec/8]
-  15.00  Fulham FC                2-0 (1-0)  Everton FC
+▪ Matchday 16
+Sat Dec 8
+  15:00  Fulham FC                2-0 (1-0)  Everton FC
          Liverpool FC             2-0 (2-0)  Middlesbrough FC
          Leicester City           0-4 (0-1)  Southampton FC
          Charlton Athletic        3-1 (2-0)  Tottenham Hotspur
          Manchester United        0-1 (0-0)  West Ham United
          Derby County             1-0 (0-0)  Bolton Wanderers
-[Sun Dec/9]
-  15.00  Ipswich Town             0-1 (0-1)  Newcastle United
-  14.00  Sunderland AFC           0-0  Chelsea FC
-  13.00  Blackburn Rovers         1-2 (0-0)  Leeds United
-  16.00  Arsenal FC               3-2 (0-2)  Aston Villa
+Sun Dec 9
+  15:00  Ipswich Town             0-1 (0-1)  Newcastle United
+  14:00  Sunderland AFC           0-0  Chelsea FC
+  13:00  Blackburn Rovers         1-2 (0-0)  Leeds United
+  16:00  Arsenal FC               3-2 (0-2)  Aston Villa
 
 
-Matchday 6
-[Wed Dec/12]
-  20.00  Liverpool FC             0-0  Fulham FC
+▪ Matchday 6
+Wed Dec 12
+  20:00  Liverpool FC             0-0  Fulham FC
          Manchester United        5-0 (2-0)  Derby County
 
 
-Matchday 17
-[Sat Dec/15]
-  15.00  Southampton FC           2-0 (1-0)  Sunderland AFC
+▪ Matchday 17
+Sat Dec 15
+  15:00  Southampton FC           2-0 (1-0)  Sunderland AFC
          Tottenham Hotspur        4-0 (2-0)  Fulham FC
          Middlesbrough FC         0-1 (0-0)  Manchester United
          Newcastle United         2-1 (0-1)  Blackburn Rovers
          Bolton Wanderers         0-0  Charlton Athletic
          West Ham United          1-1 (1-1)  Arsenal FC
          Everton FC               1-0 (0-0)  Derby County
-[Sun Dec/16]
-  16.00  Chelsea FC               4-0 (2-0)  Liverpool FC
-  14.00  Leeds United             2-2 (1-0)  Leicester City
-[Mon Dec/17]
-  20.00  Aston Villa              2-1 (1-1)  Ipswich Town
+Sun Dec 16
+  16:00  Chelsea FC               4-0 (2-0)  Liverpool FC
+  14:00  Leeds United             2-2 (1-0)  Leicester City
+Mon Dec 17
+  20:00  Aston Villa              2-1 (1-1)  Ipswich Town
 
 
-Matchday 6
-[Tue Dec/18]
-  20.00  Arsenal FC               1-3 (1-0)  Newcastle United
-[Wed Dec/19]
-  19.45  Leeds United             3-2 (2-0)  Everton FC
+▪ Matchday 6
+Tue Dec 18
+  20:00  Arsenal FC               1-3 (1-0)  Newcastle United
+Wed Dec 19
+  19:45  Leeds United             3-2 (2-0)  Everton FC
 
 
-Matchday 18
-[Sat Dec/22]
-  12.00  Derby County             3-1 (1-1)  Aston Villa
-  15.00  Leeds United             3-4 (1-1)  Newcastle United
+▪ Matchday 18
+Sat Dec 22
+  12:00  Derby County             3-1 (1-1)  Aston Villa
+  15:00  Leeds United             3-4 (1-1)  Newcastle United
          Manchester United        6-1 (3-0)  Southampton FC
          Sunderland AFC           1-0 (0-0)  Everton FC
          Tottenham Hotspur        1-2 (1-1)  Ipswich Town
          Charlton Athletic        0-2 (0-0)  Blackburn Rovers
          Leicester City           1-1 (1-0)  West Ham United
-[Sun Dec/23]
-  16.00  Liverpool FC             1-2 (0-1)  Arsenal FC
-  14.00  Chelsea FC               5-1 (2-1)  Bolton Wanderers
+Sun Dec 23
+  16:00  Liverpool FC             1-2 (0-1)  Arsenal FC
+  14:00  Chelsea FC               5-1 (2-1)  Bolton Wanderers
 
 
-Matchday 19
-[Wed Dec/26]
-  15.00  Ipswich Town             2-0 (0-0)  Leicester City
+▪ Matchday 19
+Wed Dec 26
+  15:00  Ipswich Town             2-0 (0-0)  Leicester City
          Everton FC               0-2 (0-0)  Manchester United
-  12.00  Arsenal FC               2-1 (0-1)  Chelsea FC
+  12:00  Arsenal FC               2-1 (0-1)  Chelsea FC
          Fulham FC                0-0  Charlton Athletic
          Bolton Wanderers         0-3 (0-2)  Leeds United
          Southampton FC           1-0 (0-0)  Tottenham Hotspur
          West Ham United          4-0 (1-0)  Derby County
-  15.00  Blackburn Rovers         0-3 (0-2)  Sunderland AFC
+  15:00  Blackburn Rovers         0-3 (0-2)  Sunderland AFC
          Newcastle United         3-0 (1-0)  Middlesbrough FC
          Aston Villa              1-2 (1-1)  Liverpool FC
 
 
-Matchday 20
-[Sat Dec/29]
-  15.00  Newcastle United         1-2 (1-2)  Chelsea FC
+▪ Matchday 20
+Sat Dec 29
+  15:00  Newcastle United         1-2 (1-2)  Chelsea FC
          Blackburn Rovers         0-1 (0-1)  Derby County
          West Ham United          1-1 (1-0)  Liverpool FC
          Southampton FC           0-1 (0-0)  Leeds United
@@ -333,32 +333,32 @@ Matchday 20
          Bolton Wanderers         2-2 (1-2)  Leicester City
          Aston Villa              1-1 (0-1)  Tottenham Hotspur
          Arsenal FC               2-1 (0-1)  Middlesbrough FC
-[Sun Dec/30]
-  14.00  Fulham FC                2-3 (1-2)  Manchester United
+Sun Dec 30
+  14:00  Fulham FC                2-3 (1-2)  Manchester United
 
 
-Matchday 21
-[Tue Jan/1]
-  15.00  Chelsea FC               2-4 (2-1)  Southampton FC
+▪ Matchday 21
+Tue Jan 1
+  15:00  Chelsea FC               2-4 (2-1)  Southampton FC
          Liverpool FC             1-1 (0-0)  Bolton Wanderers
          Middlesbrough FC         1-0 (0-0)  Everton FC
          Tottenham Hotspur        1-0 (1-0)  Blackburn Rovers
          Charlton Athletic        3-2 (2-2)  Ipswich Town
          Sunderland AFC           1-1 (0-0)  Aston Villa
-  20.00  Leeds United             3-0 (2-0)  West Ham United
-[Wed Jan/2]
-  19.45  Derby County             0-1 (0-0)  Fulham FC
-  20.00  Manchester United        3-1 (1-0)  Newcastle United
+  20:00  Leeds United             3-0 (2-0)  West Ham United
+Wed Jan 2
+  19:45  Derby County             0-1 (0-0)  Fulham FC
+  20:00  Manchester United        3-1 (1-0)  Newcastle United
 
 
-Matchday 2
-[Wed Jan/9]
-  20.00  Southampton FC           2-0 (0-0)  Liverpool FC
+▪ Matchday 2
+Wed Jan 9
+  20:00  Southampton FC           2-0 (0-0)  Liverpool FC
 
 
-Matchday 22
-[Sat Jan/12]
-  15.00  Bolton Wanderers         2-2 (0-0)  Chelsea FC
+▪ Matchday 22
+Sat Jan 12
+  15:00  Bolton Wanderers         2-2 (0-0)  Chelsea FC
          Blackburn Rovers         4-1 (2-0)  Charlton Athletic
          West Ham United          1-0 (1-0)  Leicester City
          Ipswich Town             2-1 (1-0)  Tottenham Hotspur
@@ -366,70 +366,70 @@ Matchday 22
          Newcastle United         3-1 (1-1)  Leeds United
          Fulham FC                2-1 (2-1)  Middlesbrough FC
          Aston Villa              2-1 (2-1)  Derby County
-[Sun Jan/13]
-  14.00  Southampton FC           1-3 (1-2)  Manchester United
-  16.00  Arsenal FC               1-1 (0-0)  Liverpool FC
+Sun Jan 13
+  14:00  Southampton FC           1-3 (1-2)  Manchester United
+  16:00  Arsenal FC               1-1 (0-0)  Liverpool FC
 
 
-Matchday 23
-[Sat Jan/19]
-  15.00  Derby County             1-3 (0-0)  Ipswich Town
+▪ Matchday 23
+Sat Jan 19
+  15:00  Derby County             1-3 (0-0)  Ipswich Town
          Tottenham Hotspur        1-1 (1-1)  Everton FC
          Middlesbrough FC         1-1 (1-0)  Bolton Wanderers
          Manchester United        2-1 (1-0)  Blackburn Rovers
          Liverpool FC             1-1 (1-0)  Southampton FC
          Leicester City           0-0  Newcastle United
          Sunderland AFC           1-1 (0-1)  Fulham FC
-[Sun Jan/20]
-  16.00  Leeds United             1-1 (1-1)  Arsenal FC
-  14.00  Chelsea FC               5-1 (1-0)  West Ham United
-[Mon Jan/21]
-  20.00  Charlton Athletic        1-2 (0-2)  Aston Villa
+Sun Jan 20
+  16:00  Leeds United             1-1 (1-1)  Arsenal FC
+  14:00  Chelsea FC               5-1 (1-0)  West Ham United
+Mon Jan 21
+  20:00  Charlton Athletic        1-2 (0-2)  Aston Villa
 
 
-Matchday 33
-[Tue Jan/22]
-  20.00  Manchester United        0-1 (0-0)  Liverpool FC
+▪ Matchday 33
+Tue Jan 22
+  20:00  Manchester United        0-1 (0-0)  Liverpool FC
 
 
-Matchday 21
-[Wed Jan/23]
-  19.45  Leicester City           1-3 (0-2)  Arsenal FC
+▪ Matchday 21
+Wed Jan 23
+  19:45  Leicester City           1-3 (0-2)  Arsenal FC
 
 
-Matchday 24
-[Tue Jan/29]
-  19.45  Charlton Athletic        1-0 (0-0)  Derby County
-  20.00  Bolton Wanderers         0-4 (0-2)  Manchester United
-  19.45  Sunderland AFC           0-1 (0-1)  Middlesbrough FC
-[Wed Jan/30]
-  19.45  Tottenham Hotspur        1-3 (1-0)  Newcastle United
+▪ Matchday 24
+Tue Jan 29
+  19:45  Charlton Athletic        1-0 (0-0)  Derby County
+  20:00  Bolton Wanderers         0-4 (0-2)  Manchester United
+  19:45  Sunderland AFC           0-1 (0-1)  Middlesbrough FC
+Wed Jan 30
+  19:45  Tottenham Hotspur        1-3 (1-0)  Newcastle United
          Blackburn Rovers         2-3 (2-2)  Arsenal FC
          Aston Villa              0-0  Everton FC
          Southampton FC           2-0 (1-0)  West Ham United
          Ipswich Town             1-0 (1-0)  Fulham FC
-  20.00  Liverpool FC             1-0 (0-0)  Leicester City
+  20:00  Liverpool FC             1-0 (0-0)  Leicester City
          Chelsea FC               2-0 (2-0)  Leeds United
 
 
-Matchday 25
-[Sat Feb/2]
-  15.00  Everton FC               1-2 (1-2)  Ipswich Town
+▪ Matchday 25
+Sat Feb 2
+  15:00  Everton FC               1-2 (1-2)  Ipswich Town
          West Ham United          2-0 (1-0)  Blackburn Rovers
          Newcastle United         3-2 (2-2)  Bolton Wanderers
          Leicester City           2-3 (1-0)  Chelsea FC
          Fulham FC                0-0  Aston Villa
          Arsenal FC               1-1 (1-0)  Southampton FC
          Manchester United        4-1 (4-1)  Sunderland AFC
-  12.00  Derby County             1-0 (1-0)  Tottenham Hotspur
-[Sun Feb/3]
-  16.00  Middlesbrough FC         0-0  Charlton Athletic
-  12.00  Leeds United             0-4 (0-1)  Liverpool FC
+  12:00  Derby County             1-0 (1-0)  Tottenham Hotspur
+Sun Feb 3
+  16:00  Middlesbrough FC         0-0  Charlton Athletic
+  12:00  Leeds United             0-4 (0-1)  Liverpool FC
 
 
-Matchday 26
-[Sat Feb/9]
-  15.00  Middlesbrough FC         2-2 (0-1)  Leeds United
+▪ Matchday 26
+Sat Feb 9
+  15:00  Middlesbrough FC         2-2 (0-1)  Leeds United
          Fulham FC                2-0 (1-0)  Blackburn Rovers
          Ipswich Town             0-6 (0-2)  Liverpool FC
          Newcastle United         3-1 (3-1)  Southampton FC
@@ -437,212 +437,212 @@ Matchday 26
          Aston Villa              1-1 (1-0)  Chelsea FC
          Tottenham Hotspur        2-1 (1-0)  Leicester City
          Derby County             0-1 (0-0)  Sunderland AFC
-[Sun Feb/10]
-  16.00  Everton FC               0-1 (0-0)  Arsenal FC
-  14.00  Charlton Athletic        0-2 (0-1)  Manchester United
+Sun Feb 10
+  16:00  Everton FC               0-1 (0-0)  Arsenal FC
+  14:00  Charlton Athletic        0-2 (0-1)  Manchester United
 
 
-Matchday 18
-[Tue Feb/19]
-  19.45  Middlesbrough FC         2-1 (1-0)  Fulham FC
+▪ Matchday 18
+Tue Feb 19
+  19:45  Middlesbrough FC         2-1 (1-0)  Fulham FC
 
 
-Matchday 27
-[Sat Feb/23]
-  15.00  Leicester City           0-3 (0-0)  Derby County
+▪ Matchday 27
+Sat Feb 23
+  15:00  Leicester City           0-3 (0-0)  Derby County
          West Ham United          1-0 (0-0)  Middlesbrough FC
          Arsenal FC               4-1 (3-1)  Fulham FC
          Liverpool FC             1-1 (0-0)  Everton FC
-  12.00  Manchester United        1-0 (0-0)  Aston Villa
-  15.00  Southampton FC           0-0  Bolton Wanderers
-[Sun Feb/24]
-  15.00  Leeds United             0-0  Charlton Athletic
-  13.00  Sunderland AFC           0-1 (0-0)  Newcastle United
+  12:00  Manchester United        1-0 (0-0)  Aston Villa
+  15:00  Southampton FC           0-0  Bolton Wanderers
+Sun Feb 24
+  15:00  Leeds United             0-0  Charlton Athletic
+  13:00  Sunderland AFC           0-1 (0-0)  Newcastle United
 
 
-Matchday 28
-[Sat Mar/2]
-  17.30  Newcastle United         0-2 (0-2)  Arsenal FC
-  15.00  Middlesbrough FC         1-0 (1-0)  Leicester City
+▪ Matchday 28
+Sat Mar 2
+  17:30  Newcastle United         0-2 (0-2)  Arsenal FC
+  15:00  Middlesbrough FC         1-0 (1-0)  Leicester City
          Fulham FC                0-2 (0-1)  Liverpool FC
          Ipswich Town             1-3 (0-0)  Southampton FC
          Charlton Athletic        2-1 (0-0)  Chelsea FC
          Bolton Wanderers         1-1 (1-0)  Blackburn Rovers
          Aston Villa              2-1 (1-1)  West Ham United
          Tottenham Hotspur        2-1 (1-1)  Sunderland AFC
-[Sun Mar/3]
-  15.00  Everton FC               0-0  Leeds United
-  16.00  Derby County             2-2 (1-1)  Manchester United
+Sun Mar 3
+  15:00  Everton FC               0-0  Leeds United
+  16:00  Derby County             2-2 (1-1)  Manchester United
 
 
-Matchday 29
-[Tue Mar/5]
-  19.45  Arsenal FC               1-0 (0-0)  Derby County
-  20.00  Blackburn Rovers         3-0 (1-0)  Aston Villa
+▪ Matchday 29
+Tue Mar 5
+  19:45  Arsenal FC               1-0 (0-0)  Derby County
+  20:00  Blackburn Rovers         3-0 (1-0)  Aston Villa
          Sunderland AFC           1-0 (1-0)  Bolton Wanderers
-[Wed Mar/6]
-  20.00  Liverpool FC             3-0 (1-0)  Newcastle United
-  19.45  Southampton FC           1-1 (1-0)  Middlesbrough FC
+Wed Mar 6
+  20:00  Liverpool FC             3-0 (1-0)  Newcastle United
+  19:45  Southampton FC           1-1 (1-0)  Middlesbrough FC
          West Ham United          1-0 (0-0)  Everton FC
          Chelsea FC               3-2 (2-1)  Fulham FC
          Leeds United             2-0 (0-0)  Ipswich Town
-  20.00  Manchester United        4-0 (2-0)  Tottenham Hotspur
-[Sat Mar/9]
-  15.00  Leicester City           1-1 (1-1)  Charlton Athletic
+  20:00  Manchester United        4-0 (2-0)  Tottenham Hotspur
+Sat Mar 9
+  15:00  Leicester City           1-1 (1-1)  Charlton Athletic
 
 
-Matchday 27
-[Wed Mar/13]
-  19.45  Chelsea FC               4-0 (1-0)  Tottenham Hotspur
+▪ Matchday 27
+Wed Mar 13
+  19:45  Chelsea FC               4-0 (1-0)  Tottenham Hotspur
          Blackburn Rovers         2-1 (2-0)  Ipswich Town
 
 
-Matchday 30
-[Sat Mar/16]
-  15.00  Southampton FC           2-2 (1-2)  Leicester City
+▪ Matchday 30
+Sat Mar 16
+  15:00  Southampton FC           2-2 (1-2)  Leicester City
          Everton FC               2-1 (2-0)  Fulham FC
          West Ham United          3-5 (2-2)  Manchester United
          Bolton Wanderers         1-3 (0-1)  Derby County
          Newcastle United         2-2 (0-0)  Ipswich Town
          Chelsea FC               4-0 (1-0)  Sunderland AFC
-  12.00  Middlesbrough FC         1-2 (0-1)  Liverpool FC
-[Sun Mar/17]
-  16.00  Aston Villa              1-2 (0-1)  Arsenal FC
-  14.00  Leeds United             3-1 (2-0)  Blackburn Rovers
-[Mon Mar/18]
-  20.00  Tottenham Hotspur        0-1 (0-0)  Charlton Athletic
+  12:00  Middlesbrough FC         1-2 (0-1)  Liverpool FC
+Sun Mar 17
+  16:00  Aston Villa              1-2 (0-1)  Arsenal FC
+  14:00  Leeds United             3-1 (2-0)  Blackburn Rovers
+Mon Mar 18
+  20:00  Tottenham Hotspur        0-1 (0-0)  Charlton Athletic
 
 
-Matchday 31
-[Sat Mar/23]
-  15.00  Leicester City           0-2 (0-2)  Leeds United
+▪ Matchday 31
+Sat Mar 23
+  15:00  Leicester City           0-2 (0-2)  Leeds United
          Charlton Athletic        1-2 (0-2)  Bolton Wanderers
          Ipswich Town             0-0  Aston Villa
          Sunderland AFC           1-1 (0-0)  Southampton FC
          Derby County             3-4 (0-1)  Everton FC
          Manchester United        0-1 (0-1)  Middlesbrough FC
-[Sun Mar/24]
-  16.00  Fulham FC                0-2 (0-2)  Tottenham Hotspur
-  14.00  Liverpool FC             1-0 (0-0)  Chelsea FC
+Sun Mar 24
+  16:00  Fulham FC                0-2 (0-2)  Tottenham Hotspur
+  14:00  Liverpool FC             1-0 (0-0)  Chelsea FC
 
 
-Matchday 32
-[Fri Mar/29]
-  14.00  Newcastle United         6-2 (2-2)  Everton FC
-[Sat Mar/30]
-  15.00  Bolton Wanderers         3-2 (2-2)  Aston Villa
-  12.00  Leeds United             3-4 (1-3)  Manchester United
-  15.00  Southampton FC           1-1 (1-1)  Fulham FC
+▪ Matchday 32
+Fri Mar 29
+  14:00  Newcastle United         6-2 (2-2)  Everton FC
+Sat Mar 30
+  15:00  Bolton Wanderers         3-2 (2-2)  Aston Villa
+  12:00  Leeds United             3-4 (1-3)  Manchester United
+  15:00  Southampton FC           1-1 (1-1)  Fulham FC
          Leicester City           2-1 (1-0)  Blackburn Rovers
-  17.35  Middlesbrough FC         1-1 (0-1)  Tottenham Hotspur
-  15.00  West Ham United          3-1 (1-0)  Ipswich Town
+  17:35  Middlesbrough FC         1-1 (0-1)  Tottenham Hotspur
+  15:00  West Ham United          3-1 (1-0)  Ipswich Town
          Arsenal FC               3-0 (3-0)  Sunderland AFC
          Liverpool FC             2-0 (2-0)  Charlton Athletic
          Chelsea FC               2-1 (0-0)  Derby County
 
 
-Matchday 33
-[Mon Apr/1]
-  15.00  Tottenham Hotspur        2-1 (2-0)  Leeds United
-  20.00  Blackburn Rovers         2-0 (2-0)  Southampton FC
-  15.00  Sunderland AFC           2-1 (2-1)  Leicester City
+▪ Matchday 33
+Mon Apr 1
+  15:00  Tottenham Hotspur        2-1 (2-0)  Leeds United
+  20:00  Blackburn Rovers         2-0 (2-0)  Southampton FC
+  15:00  Sunderland AFC           2-1 (2-1)  Leicester City
          Fulham FC                0-1 (0-1)  West Ham United
          Ipswich Town             0-0  Chelsea FC
          Everton FC               3-1 (1-0)  Bolton Wanderers
          Charlton Athletic        0-3 (0-3)  Arsenal FC
          Derby County             0-1 (0-1)  Middlesbrough FC
-[Tue Apr/2]
-  19.45  Aston Villa              1-1 (1-1)  Newcastle United
+Tue Apr 2
+  19:45  Aston Villa              1-1 (1-1)  Newcastle United
 
 
-Matchday 34
-[Sat Apr/6]
-  15.00  Arsenal FC               2-1 (1-0)  Tottenham Hotspur
+▪ Matchday 34
+Sat Apr 6
+  15:00  Arsenal FC               2-1 (1-0)  Tottenham Hotspur
          Chelsea FC               3-0 (2-0)  Everton FC
-  12.00  Leicester City           0-1 (0-0)  Manchester United
-  15.00  Southampton FC           2-0 (1-0)  Derby County
+  12:00  Leicester City           0-1 (0-0)  Manchester United
+  15:00  Southampton FC           2-0 (1-0)  Derby County
          Middlesbrough FC         2-1 (1-0)  Aston Villa
          West Ham United          2-0 (2-0)  Charlton Athletic
          Bolton Wanderers         4-1 (4-0)  Ipswich Town
-[Sun Apr/7]
-  16.00  Leeds United             2-0 (1-0)  Sunderland AFC
-[Mon Apr/8]
-  20.00  Newcastle United         1-1 (1-0)  Fulham FC
+Sun Apr 7
+  16:00  Leeds United             2-0 (1-0)  Sunderland AFC
+Mon Apr 8
+  20:00  Newcastle United         1-1 (1-0)  Fulham FC
 
 
-Matchday 35
-[Wed Apr/10]
-  20.00  Blackburn Rovers         0-0  Chelsea FC
-[Sat Apr/13]
-  15.00  Charlton Athletic        1-1 (1-0)  Southampton FC
+▪ Matchday 35
+Wed Apr 10
+  20:00  Blackburn Rovers         0-0  Chelsea FC
+Sat Apr 13
+  15:00  Charlton Athletic        1-1 (1-0)  Southampton FC
          Aston Villa              0-1 (0-1)  Leeds United
-  17.35  Sunderland AFC           0-1 (0-0)  Liverpool FC
-  15.00  Derby County             2-3 (0-0)  Newcastle United
+  17:35  Sunderland AFC           0-1 (0-0)  Liverpool FC
+  15:00  Derby County             2-3 (0-0)  Newcastle United
          Tottenham Hotspur        1-1 (0-0)  West Ham United
          Everton FC               2-2 (0-2)  Leicester City
 
 
-Matchday 36
-[Sat Apr/20]
-  15.00  Leicester City           2-2 (1-2)  Aston Villa
+▪ Matchday 36
+Sat Apr 20
+  15:00  Leicester City           2-2 (1-2)  Aston Villa
          Leeds United             0-1 (0-0)  Fulham FC
          Newcastle United         3-0 (1-0)  Charlton Athletic
          West Ham United          3-0 (1-0)  Sunderland AFC
          Bolton Wanderers         1-1 (0-1)  Tottenham Hotspur
-  17.15  Southampton FC           0-1 (0-1)  Everton FC
-  12.00  Chelsea FC               0-3 (0-2)  Manchester United
-  15.00  Liverpool FC             2-0 (1-0)  Derby County
+  17:15  Southampton FC           0-1 (0-1)  Everton FC
+  12:00  Chelsea FC               0-3 (0-2)  Manchester United
+  15:00  Liverpool FC             2-0 (1-0)  Derby County
          Middlesbrough FC         1-3 (0-1)  Blackburn Rovers
-[Sun Apr/21]
-  16.00  Arsenal FC               2-0 (0-0)  Ipswich Town
+Sun Apr 21
+  16:00  Arsenal FC               2-0 (0-0)  Ipswich Town
 
 
-Matchday 31
-[Tue Apr/23]
-  20.00  Blackburn Rovers         2-2 (1-0)  Newcastle United
+▪ Matchday 31
+Tue Apr 23
+  20:00  Blackburn Rovers         2-2 (1-0)  Newcastle United
 
 
-Matchday 35
-[Tue Apr/23]
-  19.45  Fulham FC                3-0 (1-0)  Bolton Wanderers
-[Wed Apr/24]
-  19.45  Ipswich Town             1-0 (0-0)  Middlesbrough FC
+▪ Matchday 35
+Tue Apr 23
+  19:45  Fulham FC                3-0 (1-0)  Bolton Wanderers
+Wed Apr 24
+  19:45  Ipswich Town             1-0 (0-0)  Middlesbrough FC
 
 
-Matchday 31
-[Wed Apr/24]
-  20.00  Arsenal FC               2-0 (0-0)  West Ham United
+▪ Matchday 31
+Wed Apr 24
+  20:00  Arsenal FC               2-0 (0-0)  West Ham United
 
 
-Matchday 37
-[Sat Apr/27]
-  15.00  Charlton Athletic        2-2 (1-2)  Sunderland AFC
-  17.35  Ipswich Town             0-1 (0-1)  Manchester United
-  12.00  Tottenham Hotspur        1-0 (1-0)  Liverpool FC
-  15.00  Derby County             0-1 (0-1)  Leeds United
+▪ Matchday 37
+Sat Apr 27
+  15:00  Charlton Athletic        2-2 (1-2)  Sunderland AFC
+  17:35  Ipswich Town             0-1 (0-1)  Manchester United
+  12:00  Tottenham Hotspur        1-0 (1-0)  Liverpool FC
+  15:00  Derby County             0-1 (0-1)  Leeds United
          Aston Villa              2-1 (2-0)  Southampton FC
          Fulham FC                0-0  Leicester City
          Newcastle United         3-1 (1-1)  West Ham United
          Middlesbrough FC         0-2 (0-2)  Chelsea FC
-[Sun Apr/28]
-  16.00  Everton FC               1-2 (0-1)  Blackburn Rovers
-[Mon Apr/29]
-  20.00  Bolton Wanderers         0-2 (0-2)  Arsenal FC
+Sun Apr 28
+  16:00  Everton FC               1-2 (0-1)  Blackburn Rovers
+Mon Apr 29
+  20:00  Bolton Wanderers         0-2 (0-2)  Arsenal FC
 
 
-Matchday 34
-[Wed May/8]
-  20.00  Liverpool FC             4-3 (2-1)  Blackburn Rovers
+▪ Matchday 34
+Wed May 8
+  20:00  Liverpool FC             4-3 (2-1)  Blackburn Rovers
 
 
-Matchday 35
-[Wed May/8]
-  20.00  Manchester United        0-1 (0-0)  Arsenal FC
+▪ Matchday 35
+Wed May 8
+  20:00  Manchester United        0-1 (0-0)  Arsenal FC
 
 
-Matchday 38
-[Sat May/11]
-  15.00  Chelsea FC               1-3 (0-1)  Aston Villa
+▪ Matchday 38
+Sat May 11
+  15:00  Chelsea FC               1-3 (0-1)  Aston Villa
          Liverpool FC             5-0 (2-0)  Ipswich Town
          Arsenal FC               4-3 (2-2)  Everton FC
          Blackburn Rovers         3-0 (0-0)  Fulham FC

@@ -1,14 +1,14 @@
 = English Division One 2002/03
 
-# Date       Sat Aug/10 2002 - Sun May/4 2003 (267d)
+# Date       Sat Aug 10 2002 - Sun May 4 2003 (267d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/10]
-  15.00  Burnley FC               1-3 (0-1)  Brighton & Hove Albion
+▪ Matchday 1
+Sat Aug 10
+  15:00  Burnley FC               1-3 (0-1)  Brighton & Hove Albion
          Coventry City            2-1 (2-1)  Sheffield United
          Derby County             3-0 (0-0)  Reading FC
          Leicester City           2-0 (0-0)  Watford FC
@@ -18,31 +18,31 @@ Matchday 1
          Preston North End        1-2 (0-0)  Crystal Palace
          Sheffield Wednesday      0-0  Stoke City
          Wimbledon FC             0-1 (0-0)  Gillingham FC
-  17.35  Walsall FC               0-2 (0-1)  Ipswich Town
-[Sun Aug/11]
-  16.30  Bradford City            0-0  Wolverhampton Wanderers
+  17:35  Walsall FC               0-2 (0-1)  Ipswich Town
+Sun Aug 11
+  16:30  Bradford City            0-0  Wolverhampton Wanderers
 
 
-Matchday 2
-[Tue Aug/13]
-  19.45  Brighton & Hove Albion   0-0  Coventry City
+▪ Matchday 2
+Tue Aug 13
+  19:45  Brighton & Hove Albion   0-0  Coventry City
          Gillingham FC            1-0 (1-0)  Derby County
          Grimsby Town             0-0  Wimbledon FC
          Reading FC               2-1 (0-1)  Sheffield Wednesday
          Rotherham United         1-1 (0-0)  Norwich City
          Sheffield United         1-1 (1-1)  Portsmouth FC
          Watford FC               0-0  Millwall FC
-  20.00  Crystal Palace           1-1 (0-0)  Bradford City
-[Wed Aug/14]
-  19.45  Nottingham Forest        2-2 (0-1)  Preston North End
+  20:00  Crystal Palace           1-1 (0-0)  Bradford City
+Wed Aug 14
+  19:45  Nottingham Forest        2-2 (0-1)  Preston North End
          Stoke City               0-1 (0-1)  Leicester City
          Wolverhampton Wanderers  3-1 (1-0)  Walsall FC
 
 
-Matchday 3
-[Sat Aug/17]
-  17.35  Grimsby Town             1-2 (1-1)  Derby County
-  15.00  Brighton & Hove Albion   0-2 (0-0)  Norwich City
+▪ Matchday 3
+Sat Aug 17
+  17:35  Grimsby Town             1-2 (1-1)  Derby County
+  15:00  Brighton & Hove Albion   0-2 (0-0)  Norwich City
          Crystal Palace           2-3 (2-0)  Portsmouth FC
          Gillingham FC            1-0 (0-0)  Millwall FC
          Nottingham Forest        4-0 (1-0)  Sheffield Wednesday
@@ -52,14 +52,14 @@ Matchday 3
          Stoke City               2-1 (2-0)  Bradford City
          Watford FC               3-2 (2-1)  Wimbledon FC
          Wolverhampton Wanderers  3-0 (1-0)  Burnley FC
-[Sun Aug/18]
-  15.00  Ipswich Town             6-1 (1-1)  Leicester City
+Sun Aug 18
+  15:00  Ipswich Town             6-1 (1-1)  Leicester City
 
 
-Matchday 4
-[Sat Aug/24]
-  15.15  Leicester City           2-1 (2-1)  Reading FC
-  15.00  Bradford City            0-0  Grimsby Town
+▪ Matchday 4
+Sat Aug 24
+  15:15  Leicester City           2-1 (2-1)  Reading FC
+  15:00  Bradford City            0-0  Grimsby Town
          Burnley FC               0-1 (0-1)  Sheffield United
          Coventry City            1-0 (1-0)  Crystal Palace
          Millwall FC              1-1 (1-0)  Ipswich Town
@@ -69,32 +69,32 @@ Matchday 4
          Sheffield Wednesday      1-2 (1-1)  Rotherham United
          Walsall FC               2-1 (1-0)  Nottingham Forest
          Wimbledon FC             1-0 (0-0)  Brighton & Hove Albion
-  15.15  Derby County             1-4 (1-1)  Wolverhampton Wanderers
+  15:15  Derby County             1-4 (1-1)  Wolverhampton Wanderers
 
 
-Matchday 5
-[Mon Aug/26]
-  13.00  Watford FC               5-2 (3-0)  Coventry City
-  15.00  Brighton & Hove Albion   0-2 (0-2)  Walsall FC
+▪ Matchday 5
+Mon Aug 26
+  13:00  Watford FC               5-2 (3-0)  Coventry City
+  15:00  Brighton & Hove Albion   0-2 (0-2)  Walsall FC
          Grimsby Town             0-1 (0-0)  Portsmouth FC
          Rotherham United         2-1 (0-0)  Derby County
          Stoke City               1-1 (0-0)  Norwich City
-  19.45  Ipswich Town             1-2 (1-1)  Bradford City
-  15.00  Gillingham FC            1-1 (0-0)  Preston North End
-[Tue Aug/27]
-  20.00  Reading FC               3-0 (0-0)  Burnley FC
-  19.45  Sheffield United         3-1 (0-0)  Millwall FC
+  19:45  Ipswich Town             1-2 (1-1)  Bradford City
+  15:00  Gillingham FC            1-1 (0-0)  Preston North End
+Tue Aug 27
+  20:00  Reading FC               3-0 (0-0)  Burnley FC
+  19:45  Sheffield United         3-1 (0-0)  Millwall FC
          Wolverhampton Wanderers  2-2 (0-1)  Sheffield Wednesday
-  20.00  Crystal Palace           0-0  Leicester City
-[Wed Aug/28]
-  19.45  Nottingham Forest        2-0 (2-0)  Wimbledon FC
+  20:00  Crystal Palace           0-0  Leicester City
+Wed Aug 28
+  19:45  Nottingham Forest        2-0 (2-0)  Wimbledon FC
 
 
-Matchday 6
-[Sat Aug/31]
-  17.35  Coventry City            0-1 (0-1)  Nottingham Forest
-  12.00  Derby County             2-0 (0-0)  Stoke City
-  15.00  Bradford City            4-2 (1-0)  Rotherham United
+▪ Matchday 6
+Sat Aug 31
+  17:35  Coventry City            0-1 (0-1)  Nottingham Forest
+  12:00  Derby County             2-0 (0-0)  Stoke City
+  15:00  Bradford City            4-2 (1-0)  Rotherham United
          Burnley FC               0-0  Crystal Palace
          Leicester City           2-0 (2-0)  Gillingham FC
          Millwall FC              2-0 (1-0)  Grimsby Town
@@ -102,84 +102,84 @@ Matchday 6
          Portsmouth FC            4-2 (3-2)  Brighton & Hove Albion
          Walsall FC               0-2 (0-0)  Reading FC
          Wimbledon FC             3-2 (1-1)  Wolverhampton Wanderers
-[Sun Sep/1]
-  12.00  Sheffield Wednesday      2-0 (0-0)  Sheffield United
-  14.00  Preston North End        0-0  Ipswich Town
+Sun Sep 1
+  12:00  Sheffield Wednesday      2-0 (0-0)  Sheffield United
+  14:00  Preston North End        0-0  Ipswich Town
 
 
-Matchday 7
-[Sat Sep/7]
-  15.00  Derby County             1-2 (1-0)  Burnley FC
-  11.00  Rotherham United         0-0  Reading FC
+▪ Matchday 7
+Sat Sep 7
+  15:00  Derby County             1-2 (1-0)  Burnley FC
+  11:00  Rotherham United         0-0  Reading FC
          Watford FC               2-0 (0-0)  Walsall FC
-  15.00  Wimbledon FC             2-3 (2-2)  Leicester City
+  15:00  Wimbledon FC             2-3 (2-2)  Leicester City
          Gillingham FC            1-3 (0-2)  Portsmouth FC
          Millwall FC              1-0 (0-0)  Brighton & Hove Albion
          Norwich City             2-3 (0-3)  Sheffield United
 
 
-Matchday 8
-[Sat Sep/14]
-  15.00  Walsall FC               0-1 (0-0)  Bradford City
+▪ Matchday 8
+Sat Sep 14
+  15:00  Walsall FC               0-1 (0-0)  Bradford City
          Sheffield United         1-0 (0-0)  Rotherham United
          Reading FC               0-1 (0-0)  Wimbledon FC
          Preston North End        2-2 (1-1)  Sheffield Wednesday
          Crystal Palace           4-2 (2-1)  Wolverhampton Wanderers
          Nottingham Forest        0-1 (0-1)  Watford FC
-  12.00  Portsmouth FC            1-0 (0-0)  Millwall FC
-  15.00  Brighton & Hove Albion   2-4 (1-3)  Gillingham FC
+  12:00  Portsmouth FC            1-0 (0-0)  Millwall FC
+  15:00  Brighton & Hove Albion   2-4 (1-3)  Gillingham FC
          Burnley FC               2-1 (0-0)  Stoke City
          Coventry City            3-2 (0-0)  Grimsby Town
          Leicester City           3-1 (1-1)  Derby County
-[Sun Sep/15]
-  12.00  Ipswich Town             1-1 (0-0)  Norwich City
+Sun Sep 15
+  12:00  Ipswich Town             1-1 (0-0)  Norwich City
 
 
-Matchday 9
-[Tue Sep/17]
-  19.45  Brighton & Hove Albion   1-2 (0-1)  Stoke City
+▪ Matchday 9
+Tue Sep 17
+  19:45  Brighton & Hove Albion   1-2 (0-1)  Stoke City
          Leicester City           4-0 (2-0)  Bradford City
-  20.00  Crystal Palace           0-1 (0-0)  Derby County
-  19.45  Sheffield United         2-1 (0-1)  Grimsby Town
+  20:00  Crystal Palace           0-1 (0-0)  Derby County
+  19:45  Sheffield United         2-1 (0-1)  Grimsby Town
          Preston North End        1-1 (0-1)  Watford FC
          Walsall FC               3-4 (2-3)  Rotherham United
          Burnley FC               2-2 (1-1)  Millwall FC
          Portsmouth FC            4-1 (3-1)  Wimbledon FC
-[Wed Sep/18]
-  19.45  Nottingham Forest        4-1 (3-1)  Gillingham FC
+Wed Sep 18
+  19:45  Nottingham Forest        4-1 (3-1)  Gillingham FC
          Coventry City            1-1 (0-0)  Sheffield Wednesday
-  20.00  Reading FC               0-2 (0-2)  Norwich City
+  20:00  Reading FC               0-2 (0-2)  Norwich City
 
 
-Matchday 10
-[Sat Sep/21]
-  15.00  Watford FC               3-3 (2-3)  Crystal Palace
+▪ Matchday 10
+Sat Sep 21
+  15:00  Watford FC               3-3 (2-3)  Crystal Palace
          Sheffield Wednesday      0-0  Leicester City
          Wimbledon FC             0-1 (0-1)  Coventry City
          Wolverhampton Wanderers  0-1 (0-0)  Reading FC
-  17.35  Derby County             0-2 (0-1)  Preston North End
-  15.00  Rotherham United         1-0 (1-0)  Brighton & Hove Albion
+  17:35  Derby County             0-2 (0-1)  Preston North End
+  15:00  Rotherham United         1-0 (1-0)  Brighton & Hove Albion
          Norwich City             1-0 (0-0)  Portsmouth FC
          Bradford City            2-2 (1-0)  Burnley FC
          Gillingham FC            1-1 (1-0)  Sheffield United
          Grimsby Town             0-3 (0-1)  Nottingham Forest
          Millwall FC              0-3 (0-2)  Walsall FC
-[Sun Sep/22]
-  15.00  Stoke City               2-1 (1-0)  Ipswich Town
+Sun Sep 22
+  15:00  Stoke City               2-1 (1-0)  Ipswich Town
 
 
-Matchday 7
-[Tue Sep/24]
-  19.45  Bradford City            1-1 (1-0)  Coventry City
+▪ Matchday 7
+Tue Sep 24
+  19:45  Bradford City            1-1 (1-0)  Coventry City
          Wolverhampton Wanderers  4-0 (2-0)  Preston North End
-[Wed Sep/25]
-  19.45  Sheffield Wednesday      0-0  Crystal Palace
+Wed Sep 25
+  19:45  Sheffield Wednesday      0-0  Crystal Palace
          Stoke City               2-2 (1-2)  Nottingham Forest
 
 
-Matchday 11
-[Sat Sep/28]
-  15.00  Preston North End        1-2 (0-1)  Norwich City
+▪ Matchday 11
+Sat Sep 28
+  15:00  Preston North End        1-2 (0-1)  Norwich City
          Walsall FC               1-0 (1-0)  Sheffield Wednesday
          Sheffield United         1-2 (1-2)  Watford FC
          Brighton & Hove Albion   1-2 (0-1)  Grimsby Town
@@ -190,15 +190,15 @@ Matchday 11
          Nottingham Forest        3-2 (3-1)  Rotherham United
          Portsmouth FC            3-0 (2-0)  Bradford City
          Reading FC               1-1 (1-1)  Stoke City
-[Sun Sep/29]
-  16.05  Crystal Palace           2-2 (0-1)  Gillingham FC
+Sun Sep 29
+  16:05  Crystal Palace           2-2 (0-1)  Gillingham FC
 
 
-Matchday 12
-[Sat Oct/5]
-  15.00  Wolverhampton Wanderers  1-3 (1-1)  Sheffield United
-  17.35  Norwich City             0-0  Leicester City
-  15.00  Watford FC               1-0 (1-0)  Brighton & Hove Albion
+▪ Matchday 12
+Sat Oct 5
+  15:00  Wolverhampton Wanderers  1-3 (1-1)  Sheffield United
+  17:35  Norwich City             0-0  Leicester City
+  15:00  Watford FC               1-0 (1-0)  Brighton & Hove Albion
          Bradford City            1-1 (1-1)  Preston North End
          Derby County             2-2 (1-0)  Walsall FC
          Gillingham FC            0-2 (0-0)  Coventry City
@@ -207,18 +207,18 @@ Matchday 12
          Rotherham United         2-3 (1-3)  Portsmouth FC
          Sheffield Wednesday      1-3 (0-1)  Burnley FC
          Stoke City               1-1 (0-0)  Crystal Palace
-[Sun Oct/6]
-  14.00  Wimbledon FC             0-1 (0-0)  Ipswich Town
+Sun Oct 6
+  14:00  Wimbledon FC             0-1 (0-0)  Ipswich Town
 
 
-Matchday 7
-[Tue Oct/8]
-  19.45  Grimsby Town             3-0 (2-0)  Ipswich Town
+▪ Matchday 7
+Tue Oct 8
+  19:45  Grimsby Town             3-0 (2-0)  Ipswich Town
 
 
-Matchday 13
-[Sat Oct/12]
-  15.00  Rotherham United         1-1 (1-1)  Gillingham FC
+▪ Matchday 13
+Sat Oct 12
+  15:00  Rotherham United         1-1 (1-1)  Gillingham FC
          Burnley FC               2-1 (1-0)  Walsall FC
          Bradford City            0-0  Derby County
          Watford FC               2-0 (1-0)  Grimsby Town
@@ -226,11 +226,11 @@ Matchday 13
          Millwall FC              1-1 (0-0)  Wimbledon FC
 
 
-Matchday 14
-[Sat Oct/19]
-  15.00  Wimbledon FC             2-2 (0-1)  Crystal Palace
-  17.35  Stoke City               0-2 (0-0)  Wolverhampton Wanderers
-  15.00  Walsall FC               3-3 (3-1)  Preston North End
+▪ Matchday 14
+Sat Oct 19
+  15:00  Wimbledon FC             2-2 (0-1)  Crystal Palace
+  17:35  Stoke City               0-2 (0-0)  Wolverhampton Wanderers
+  15:00  Walsall FC               3-3 (3-1)  Preston North End
          Sheffield Wednesday      2-1 (1-1)  Bradford City
          Reading FC               3-1 (2-0)  Ipswich Town
          Portsmouth FC            1-1 (0-0)  Coventry City
@@ -239,24 +239,24 @@ Matchday 14
          Brighton & Hove Albion   2-4 (2-0)  Sheffield United
          Gillingham FC            3-0 (2-0)  Watford FC
          Leicester City           0-1 (0-0)  Burnley FC
-[Sun Oct/20]
-  13.05  Derby County             0-0  Nottingham Forest
+Sun Oct 20
+  13:05  Derby County             0-0  Nottingham Forest
 
 
-Matchday 2
-[Tue Oct/22]
-  19.45  Ipswich Town             2-2 (2-1)  Burnley FC
+▪ Matchday 2
+Tue Oct 22
+  19:45  Ipswich Town             2-2 (2-1)  Burnley FC
 
 
-Matchday 13
-[Wed Oct/23]
-  19.45  Sheffield United         2-1 (0-0)  Stoke City
+▪ Matchday 13
+Wed Oct 23
+  19:45  Sheffield United         2-1 (0-0)  Stoke City
          Coventry City            1-1 (1-0)  Norwich City
 
 
-Matchday 15
-[Sat Oct/26]
-  15.00  Wolverhampton Wanderers  4-1 (1-1)  Grimsby Town
+▪ Matchday 15
+Sat Oct 26
+  15:00  Wolverhampton Wanderers  4-1 (1-1)  Grimsby Town
          Ipswich Town             0-1 (0-1)  Gillingham FC
          Watford FC               1-0 (1-0)  Sheffield Wednesday
          Sheffield United         1-1 (0-1)  Wimbledon FC
@@ -270,47 +270,47 @@ Matchday 15
          Nottingham Forest        2-2 (0-2)  Leicester City
 
 
-Matchday 16
-[Tue Oct/29]
-  19.45  Portsmouth FC            3-2 (3-1)  Preston North End
+▪ Matchday 16
+Tue Oct 29
+  19:45  Portsmouth FC            3-2 (3-1)  Preston North End
          Walsall FC               3-4 (2-1)  Crystal Palace
          Norwich City             0-0  Nottingham Forest
-  20.00  Reading FC               1-0 (0-0)  Bradford City
-  19.45  Leicester City           2-1 (0-0)  Coventry City
+  20:00  Reading FC               1-0 (0-0)  Bradford City
+  19:45  Leicester City           2-1 (0-0)  Coventry City
          Gillingham FC            0-4 (0-2)  Wolverhampton Wanderers
          Grimsby Town             6-5 (4-3)  Burnley FC
          Wimbledon FC             2-1 (1-0)  Rotherham United
-[Wed Oct/30]
-  19.45  Sheffield Wednesday      0-1 (0-1)  Millwall FC
+Wed Oct 30
+  19:45  Sheffield Wednesday      0-1 (0-1)  Millwall FC
          Stoke City               1-2 (0-2)  Watford FC
          Derby County             2-1 (1-1)  Sheffield United
 
 
-Matchday 17
-[Sat Nov/2]
-  15.00  Watford FC               1-1 (0-0)  Wolverhampton Wanderers
+▪ Matchday 17
+Sat Nov 2
+  15:00  Watford FC               1-1 (0-0)  Wolverhampton Wanderers
          Walsall FC               4-2 (0-0)  Stoke City
          Sheffield Wednesday      1-3 (0-2)  Derby County
-  17.35  Preston North End        3-1 (1-0)  Burnley FC
-  15.00  Wimbledon FC             4-2 (3-0)  Norwich City
+  17:35  Preston North End        3-1 (1-0)  Burnley FC
+  15:00  Wimbledon FC             4-2 (3-0)  Norwich City
          Portsmouth FC            0-2 (0-2)  Leicester City
-  12.00  Reading FC               2-0 (1-0)  Millwall FC
-  15.00  Brighton & Hove Albion   3-2 (2-0)  Bradford City
+  12:00  Reading FC               2-0 (1-0)  Millwall FC
+  15:00  Brighton & Hove Albion   3-2 (2-0)  Bradford City
          Coventry City            2-1 (1-1)  Rotherham United
          Grimsby Town             1-1 (0-0)  Gillingham FC
          Nottingham Forest        3-0 (0-0)  Sheffield United
-[Sun Nov/3]
-  15.00  Ipswich Town             1-2 (1-1)  Crystal Palace
+Sun Nov 3
+  15:00  Ipswich Town             1-2 (1-1)  Crystal Palace
 
 
-Matchday 13
-[Wed Nov/6]
-  19.45  Wolverhampton Wanderers  1-1 (0-0)  Portsmouth FC
+▪ Matchday 13
+Wed Nov 6
+  19:45  Wolverhampton Wanderers  1-1 (0-0)  Portsmouth FC
 
 
-Matchday 18
-[Sat Nov/9]
-  15.00  Stoke City               1-2 (0-2)  Grimsby Town
+▪ Matchday 18
+Sat Nov 9
+  15:00  Stoke City               1-2 (0-2)  Grimsby Town
          Sheffield United         0-0  Ipswich Town
          Derby County             1-2 (1-1)  Portsmouth FC
          Rotherham United         2-1 (1-0)  Watford FC
@@ -321,13 +321,13 @@ Matchday 18
          Millwall FC              2-1 (2-0)  Preston North End
          Gillingham FC            0-1 (0-0)  Reading FC
          Leicester City           2-0 (0-0)  Walsall FC
-[Mon Nov/11]
-  19.45  Wolverhampton Wanderers  1-1 (0-1)  Brighton & Hove Albion
+Mon Nov 11
+  19:45  Wolverhampton Wanderers  1-1 (0-1)  Brighton & Hove Albion
 
 
-Matchday 19
-[Sat Nov/16]
-  15.00  Rotherham United         0-0  Burnley FC
+▪ Matchday 19
+Sat Nov 16
+  15:00  Rotherham United         0-0  Burnley FC
          Portsmouth FC            3-0 (0-0)  Stoke City
          Nottingham Forest        3-0 (3-0)  Bradford City
          Wimbledon FC             3-2 (1-1)  Walsall FC
@@ -337,16 +337,16 @@ Matchday 19
          Millwall FC              2-2 (1-2)  Leicester City
          Grimsby Town             3-3 (1-1)  Preston North End
          Norwich City             2-0 (1-0)  Crystal Palace
-[Sun Nov/17]
-  15.00  Watford FC               0-2 (0-0)  Ipswich Town
+Sun Nov 17
+  15:00  Watford FC               0-2 (0-0)  Ipswich Town
 
 
-Matchday 20
-[Sat Nov/23]
-  15.00  Stoke City               0-1 (0-1)  Millwall FC
+▪ Matchday 20
+Sat Nov 23
+  15:00  Stoke City               0-1 (0-1)  Millwall FC
          Walsall FC               1-0 (1-0)  Gillingham FC
-  17.35  Sheffield Wednesday      1-3 (1-1)  Portsmouth FC
-  15.00  Wolverhampton Wanderers  2-1 (0-1)  Nottingham Forest
+  17:35  Sheffield Wednesday      1-3 (1-1)  Portsmouth FC
+  15:00  Wolverhampton Wanderers  2-1 (0-1)  Nottingham Forest
          Reading FC               1-0 (0-0)  Watford FC
          Preston North End        2-2 (2-0)  Brighton & Hove Albion
          Bradford City            0-5 (0-2)  Sheffield United
@@ -354,27 +354,27 @@ Matchday 20
          Crystal Palace           2-0 (1-0)  Grimsby Town
          Ipswich Town             2-1 (1-0)  Coventry City
          Leicester City           2-1 (0-0)  Rotherham United
-[Mon Nov/25]
-  19.45  Derby County             3-2 (1-1)  Wimbledon FC
+Mon Nov 25
+  19:45  Derby County             3-2 (1-1)  Wimbledon FC
 
 
-Matchday 13
-[Tue Nov/26]
-  20.00  Crystal Palace           0-1 (0-1)  Reading FC
-  19.45  Preston North End        2-0 (0-0)  Leicester City
-[Wed Nov/27]
-  19.45  Nottingham Forest        3-2 (2-0)  Brighton & Hove Albion
+▪ Matchday 13
+Tue Nov 26
+  20:00  Crystal Palace           0-1 (0-1)  Reading FC
+  19:45  Preston North End        2-0 (0-0)  Leicester City
+Wed Nov 27
+  19:45  Nottingham Forest        3-2 (2-0)  Brighton & Hove Albion
 
 
-Matchday 21
-[Sat Nov/30]
-  15.00  Watford FC               2-1 (1-0)  Burnley FC
+▪ Matchday 21
+Sat Nov 30
+  15:00  Watford FC               2-1 (1-0)  Burnley FC
          Wimbledon FC             3-0 (1-0)  Sheffield Wednesday
          Gillingham FC            1-1 (0-0)  Stoke City
          Brighton & Hove Albion   0-1 (0-1)  Reading FC
          Coventry City            1-2 (0-1)  Preston North End
-  17.35  Rotherham United         0-0  Wolverhampton Wanderers
-  15.00  Grimsby Town             1-2 (0-1)  Leicester City
+  17:35  Rotherham United         0-0  Wolverhampton Wanderers
+  15:00  Grimsby Town             1-2 (0-1)  Leicester City
          Millwall FC              1-0 (0-0)  Bradford City
          Norwich City             1-0 (0-0)  Derby County
          Nottingham Forest        2-1 (1-0)  Ipswich Town
@@ -382,13 +382,13 @@ Matchday 21
          Sheffield United         2-1 (1-0)  Crystal Palace
 
 
-Matchday 22
-[Sat Dec/7]
-  15.00  Wolverhampton Wanderers  1-0 (1-0)  Norwich City
+▪ Matchday 22
+Sat Dec 7
+  15:00  Wolverhampton Wanderers  1-0 (1-0)  Norwich City
          Stoke City               1-2 (1-2)  Coventry City
          Walsall FC               3-1 (1-1)  Grimsby Town
-  12.00  Reading FC               0-0  Portsmouth FC
-  15.00  Bradford City            1-3 (1-0)  Gillingham FC
+  12:00  Reading FC               0-0  Portsmouth FC
+  15:00  Bradford City            1-3 (1-0)  Gillingham FC
          Burnley FC               1-0 (1-0)  Nottingham Forest
          Crystal Palace           1-0 (0-0)  Millwall FC
          Derby County             3-0 (1-0)  Watford FC
@@ -398,14 +398,14 @@ Matchday 22
          Sheffield Wednesday      1-1 (0-1)  Brighton & Hove Albion
 
 
-Matchday 16
-[Tue Dec/10]
-  19.45  Brighton & Hove Albion   1-1 (1-0)  Ipswich Town
+▪ Matchday 16
+Tue Dec 10
+  19:45  Brighton & Hove Albion   1-1 (1-0)  Ipswich Town
 
 
-Matchday 23
-[Sat Dec/14]
-  15.00  Walsall FC               2-0 (1-0)  Wimbledon FC
+▪ Matchday 23
+Sat Dec 14
+  15:00  Walsall FC               2-0 (1-0)  Wimbledon FC
          Wolverhampton Wanderers  0-2 (0-1)  Coventry City
          Bradford City            1-0 (1-0)  Nottingham Forest
          Burnley FC               2-6 (0-3)  Rotherham United
@@ -419,44 +419,44 @@ Matchday 23
          Stoke City               1-1 (1-0)  Portsmouth FC
 
 
-Matchday 24
-[Fri Dec/20]
-  19.45  Brighton & Hove Albion   0-1 (0-0)  Leicester City
-[Sat Dec/21]
-  15.00  Nottingham Forest        2-0 (1-0)  Reading FC
+▪ Matchday 24
+Fri Dec 20
+  19:45  Brighton & Hove Albion   0-1 (0-0)  Leicester City
+Sat Dec 21
+  15:00  Nottingham Forest        2-0 (1-0)  Reading FC
          Wimbledon FC             1-1 (0-0)  Stoke City
          Gillingham FC            4-2 (3-1)  Burnley FC
          Grimsby Town             2-0 (0-0)  Sheffield Wednesday
          Millwall FC              1-1 (1-1)  Wolverhampton Wanderers
          Norwich City             2-1 (0-0)  Walsall FC
-  17.35  Coventry City            3-0 (2-0)  Derby County
-  15.00  Portsmouth FC            1-1 (1-0)  Ipswich Town
+  17:35  Coventry City            3-0 (2-0)  Derby County
+  15:00  Portsmouth FC            1-1 (1-0)  Ipswich Town
          Sheffield United         1-0 (0-0)  Preston North End
          Watford FC               1-0 (0-0)  Bradford City
-[Sun Dec/22]
-  12.05  Rotherham United         1-3 (0-2)  Crystal Palace
+Sun Dec 22
+  12:05  Rotherham United         1-3 (0-2)  Crystal Palace
 
 
-Matchday 25
-[Thu Dec/26]
-  15.00  Walsall FC               0-1 (0-0)  Sheffield United
+▪ Matchday 25
+Thu Dec 26
+  15:00  Walsall FC               0-1 (0-0)  Sheffield United
          Sheffield Wednesday      2-0 (1-0)  Nottingham Forest
-  12.00  Coventry City            2-0 (1-0)  Reading FC
+  12:00  Coventry City            2-0 (1-0)  Reading FC
          Millwall FC              2-2 (1-1)  Gillingham FC
          Wimbledon FC             0-0  Watford FC
-  13.00  Bradford City            4-2 (1-2)  Stoke City
-  15.00  Burnley FC               2-1 (2-0)  Wolverhampton Wanderers
+  13:00  Bradford City            4-2 (1-2)  Stoke City
+  15:00  Burnley FC               2-1 (2-0)  Wolverhampton Wanderers
          Derby County             1-3 (1-1)  Grimsby Town
          Norwich City             0-1 (0-1)  Brighton & Hove Albion
          Portsmouth FC            1-1 (1-1)  Crystal Palace
          Preston North End        0-2 (0-0)  Rotherham United
-  18.05  Leicester City           1-2 (0-0)  Ipswich Town
+  18:05  Leicester City           1-2 (0-0)  Ipswich Town
 
 
-Matchday 26
-[Sat Dec/28]
-  17.35  Nottingham Forest        1-2 (0-0)  Portsmouth FC
-  15.00  Sheffield United         0-0  Coventry City
+▪ Matchday 26
+Sat Dec 28
+  17:35  Nottingham Forest        1-2 (0-0)  Portsmouth FC
+  15:00  Sheffield United         0-0  Coventry City
          Brighton & Hove Albion   2-2 (0-1)  Burnley FC
          Crystal Palace           2-0 (1-0)  Preston North End
          Grimsby Town             1-1 (0-0)  Norwich City
@@ -468,37 +468,37 @@ Matchday 26
          Watford FC               1-2 (1-1)  Leicester City
 
 
-Matchday 27
-[Wed Jan/1]
-  15.00  Ipswich Town             4-1 (0-0)  Millwall FC
+▪ Matchday 27
+Wed Jan 1
+  15:00  Ipswich Town             4-1 (0-0)  Millwall FC
          Wolverhampton Wanderers  1-1 (0-1)  Derby County
          Stoke City               2-1 (2-0)  Preston North End
-  12.00  Rotherham United         0-2 (0-0)  Sheffield Wednesday
-  15.00  Crystal Palace           1-1 (0-0)  Coventry City
-  17.35  Watford FC               2-2 (0-0)  Portsmouth FC
-  15.00  Nottingham Forest        1-1 (1-0)  Walsall FC
+  12:00  Rotherham United         0-2 (0-0)  Sheffield Wednesday
+  15:00  Crystal Palace           1-1 (0-0)  Coventry City
+  17:35  Watford FC               2-2 (0-0)  Portsmouth FC
+  15:00  Nottingham Forest        1-1 (1-0)  Walsall FC
 
 
-Matchday 28
-[Sat Jan/11]
-  15.00  Wimbledon FC             3-3 (0-1)  Grimsby Town
-  13.00  Leicester City           0-0  Stoke City
-  15.00  Walsall FC               0-1 (0-0)  Wolverhampton Wanderers
+▪ Matchday 28
+Sat Jan 11
+  15:00  Wimbledon FC             3-3 (0-1)  Grimsby Town
+  13:00  Leicester City           0-0  Stoke City
+  15:00  Walsall FC               0-1 (0-0)  Wolverhampton Wanderers
          Sheffield Wednesday      3-2 (0-2)  Reading FC
          Norwich City             1-1 (0-1)  Rotherham United
          Millwall FC              4-0 (2-0)  Watford FC
          Derby County             1-1 (0-0)  Gillingham FC
          Coventry City            0-0  Brighton & Hove Albion
          Burnley FC               1-1 (0-1)  Ipswich Town
-[Mon Jan/13]
-  19.45  Portsmouth FC            1-2 (0-1)  Sheffield United
+Mon Jan 13
+  19:45  Portsmouth FC            1-2 (0-1)  Sheffield United
 
 
-Matchday 29
-[Fri Jan/17]
-  19.45  Sheffield United         3-1 (0-0)  Sheffield Wednesday
-[Sat Jan/18]
-  15.00  Nottingham Forest        1-1 (1-0)  Coventry City
+▪ Matchday 29
+Fri Jan 17
+  19:45  Sheffield United         3-1 (0-0)  Sheffield Wednesday
+Sat Jan 18
+  15:00  Nottingham Forest        1-1 (1-0)  Coventry City
          Gillingham FC            3-2 (2-0)  Leicester City
          Rotherham United         3-2 (1-1)  Bradford City
          Stoke City               1-3 (0-0)  Derby County
@@ -506,30 +506,30 @@ Matchday 29
          Reading FC               0-0  Walsall FC
          Grimsby Town             0-2 (0-1)  Millwall FC
          Crystal Palace           1-1 (0-1)  Burnley FC
-  12.00  Brighton & Hove Albion   1-1 (0-0)  Portsmouth FC
-  15.00  Ipswich Town             3-0 (1-0)  Preston North End
-[Sun Jan/19]
-  12.00  Watford FC               2-1 (1-0)  Norwich City
+  12:00  Brighton & Hove Albion   1-1 (0-0)  Portsmouth FC
+  15:00  Ipswich Town             3-0 (1-0)  Preston North End
+Sun Jan 19
+  12:00  Watford FC               2-1 (1-0)  Norwich City
 
 
-Matchday 27
-[Sat Jan/25]
-  15.00  Grimsby Town             1-2 (1-0)  Bradford City
+▪ Matchday 27
+Sat Jan 25
+  15:00  Grimsby Town             1-2 (1-0)  Bradford City
 
 
-Matchday 28
-[Sat Jan/25]
-  15.00  Preston North End        1-1 (1-1)  Nottingham Forest
+▪ Matchday 28
+Sat Jan 25
+  15:00  Preston North End        1-1 (1-1)  Nottingham Forest
 
 
-Matchday 27
-[Tue Jan/28]
-  20.00  Reading FC               1-3 (0-3)  Leicester City
+▪ Matchday 27
+Tue Jan 28
+  20:00  Reading FC               1-3 (0-3)  Leicester City
 
 
-Matchday 30
-[Sat Feb/1]
-  15.00  Preston North End        3-0 (2-0)  Gillingham FC
+▪ Matchday 30
+Sat Feb 1
+  15:00  Preston North End        3-0 (2-0)  Gillingham FC
          Sheffield Wednesday      0-4 (0-2)  Wolverhampton Wanderers
          Walsall FC               1-0 (1-0)  Brighton & Hove Albion
          Wimbledon FC             2-3 (0-2)  Nottingham Forest
@@ -543,17 +543,17 @@ Matchday 30
          Leicester City           1-0 (0-0)  Crystal Palace
 
 
-Matchday 27
-[Tue Feb/4]
-  19.45  Brighton & Hove Albion   2-3 (1-1)  Wimbledon FC
+▪ Matchday 27
+Tue Feb 4
+  19:45  Brighton & Hove Albion   2-3 (1-1)  Wimbledon FC
 
 
-Matchday 31
-[Sat Feb/8]
-  15.00  Walsall FC               1-4 (0-2)  Leicester City
+▪ Matchday 31
+Sat Feb 8
+  15:00  Walsall FC               1-4 (0-2)  Leicester City
          Watford FC               1-2 (0-0)  Rotherham United
-  17.35  Nottingham Forest        2-1 (1-0)  Crystal Palace
-  15.00  Sheffield Wednesday      2-2 (0-2)  Norwich City
+  17:35  Nottingham Forest        2-1 (1-0)  Crystal Palace
+  15:00  Sheffield Wednesday      2-2 (0-2)  Norwich City
          Preston North End        2-1 (2-0)  Millwall FC
          Portsmouth FC            6-2 (3-0)  Derby County
          Brighton & Hove Albion   4-1 (2-0)  Wolverhampton Wanderers
@@ -561,34 +561,34 @@ Matchday 31
          Grimsby Town             2-0 (2-0)  Stoke City
          Ipswich Town             3-2 (0-1)  Sheffield United
          Wimbledon FC             2-2 (0-1)  Bradford City
-[Mon Feb/10]
-  19.45  Reading FC               2-1 (1-1)  Gillingham FC
+Mon Feb 10
+  19:45  Reading FC               2-1 (1-1)  Gillingham FC
 
 
-Matchday 32
-[Sat Feb/15]
-  15.00  Bradford City            0-1 (0-1)  Brighton & Hove Albion
+▪ Matchday 32
+Sat Feb 15
+  15:00  Bradford City            0-1 (0-1)  Brighton & Hove Albion
          Rotherham United         1-0 (1-0)  Coventry City
          Gillingham FC            3-0 (3-0)  Grimsby Town
          Derby County             2-2 (0-1)  Sheffield Wednesday
-  13.00  Millwall FC              0-2 (0-1)  Reading FC
-[Mon Feb/17]
-  20.00  Leicester City           1-1 (1-0)  Portsmouth FC
+  13:00  Millwall FC              0-2 (0-1)  Reading FC
+Mon Feb 17
+  20:00  Leicester City           1-1 (1-0)  Portsmouth FC
 
 
-Matchday 19
-[Tue Feb/18]
-  19.45  Sheffield United         1-3 (1-1)  Reading FC
+▪ Matchday 19
+Tue Feb 18
+  19:45  Sheffield United         1-3 (1-1)  Reading FC
 
 
-Matchday 9
-[Wed Feb/19]
-  19.45  Ipswich Town             2-4 (2-1)  Wolverhampton Wanderers
+▪ Matchday 9
+Wed Feb 19
+  19:45  Ipswich Town             2-4 (2-1)  Wolverhampton Wanderers
 
 
-Matchday 33
-[Sat Feb/22]
-  15.00  Sheffield United         0-1 (0-0)  Norwich City
+▪ Matchday 33
+Sat Feb 22
+  15:00  Sheffield United         0-1 (0-0)  Norwich City
          Reading FC               3-0 (3-0)  Rotherham United
          Walsall FC               2-0 (1-0)  Watford FC
          Nottingham Forest        6-0 (4-0)  Stoke City
@@ -602,98 +602,98 @@ Matchday 33
          Burnley FC               2-0 (2-0)  Derby County
 
 
-Matchday 27
-[Tue Feb/25]
-  19.45  Gillingham FC            1-0 (0-0)  Norwich City
+▪ Matchday 27
+Tue Feb 25
+  19:45  Gillingham FC            1-0 (0-0)  Norwich City
 
 
-Matchday 32
-[Tue Feb/25]
-  19.45  Wolverhampton Wanderers  0-0  Watford FC
-[Wed Feb/26]
-  19.45  Stoke City               1-0 (1-0)  Walsall FC
+▪ Matchday 32
+Tue Feb 25
+  19:45  Wolverhampton Wanderers  0-0  Watford FC
+Wed Feb 26
+  19:45  Stoke City               1-0 (1-0)  Walsall FC
 
 
-Matchday 34
-[Fri Feb/28]
-  19.45  Rotherham United         1-2 (0-1)  Sheffield United
-[Sat Mar/1]
-  15.00  Wimbledon FC             2-0 (1-0)  Reading FC
+▪ Matchday 34
+Fri Feb 28
+  19:45  Rotherham United         1-2 (0-1)  Sheffield United
+Sat Mar 1
+  15:00  Wimbledon FC             2-0 (1-0)  Reading FC
          Watford FC               1-1 (1-0)  Nottingham Forest
          Wolverhampton Wanderers  4-0 (1-0)  Crystal Palace
          Stoke City               0-1 (0-0)  Burnley FC
-  17.35  Derby County             1-1 (0-1)  Leicester City
-  15.00  Sheffield Wednesday      0-1 (0-0)  Preston North End
+  17:35  Derby County             1-1 (0-1)  Leicester City
+  15:00  Sheffield Wednesday      0-1 (0-0)  Preston North End
          Grimsby Town             0-2 (0-1)  Coventry City
          Bradford City            1-2 (0-0)  Walsall FC
          Gillingham FC            3-0 (0-0)  Brighton & Hove Albion
          Millwall FC              0-5 (0-4)  Portsmouth FC
-[Sun Mar/2]
-  13.00  Norwich City             0-2 (0-0)  Ipswich Town
+Sun Mar 2
+  13:00  Norwich City             0-2 (0-0)  Ipswich Town
 
 
-Matchday 35
-[Tue Mar/4]
-  19.45  Gillingham FC            1-4 (0-2)  Nottingham Forest
+▪ Matchday 35
+Tue Mar 4
+  19:45  Gillingham FC            1-4 (0-2)  Nottingham Forest
          Grimsby Town             1-4 (1-3)  Sheffield United
          Millwall FC              1-1 (0-1)  Burnley FC
          Wimbledon FC             2-1 (0-1)  Portsmouth FC
          Watford FC               0-1 (0-1)  Preston North End
          Rotherham United         0-0  Walsall FC
          Bradford City            0-0  Leicester City
-[Wed Mar/5]
-  19.45  Sheffield Wednesday      5-1 (1-0)  Coventry City
+Wed Mar 5
+  19:45  Sheffield Wednesday      5-1 (1-0)  Coventry City
          Derby County             0-1 (0-0)  Crystal Palace
          Wolverhampton Wanderers  1-1 (0-0)  Ipswich Town
          Norwich City             0-1 (0-0)  Reading FC
          Stoke City               1-0 (0-0)  Brighton & Hove Albion
 
 
-Matchday 36
-[Sat Mar/8]
-  15.00  Coventry City            2-2 (1-1)  Wimbledon FC
+▪ Matchday 36
+Sat Mar 8
+  15:00  Coventry City            2-2 (1-1)  Wimbledon FC
          Leicester City           1-1 (0-1)  Sheffield Wednesday
          Preston North End        4-2 (3-0)  Derby County
          Walsall FC               1-2 (0-0)  Millwall FC
          Ipswich Town             0-0  Stoke City
 
 
-Matchday 28
-[Sat Mar/8]
-  15.00  Bradford City            2-1 (0-1)  Crystal Palace
+▪ Matchday 28
+Sat Mar 8
+  15:00  Bradford City            2-1 (0-1)  Crystal Palace
 
 
-Matchday 36
-[Sat Mar/8]
-  15.00  Brighton & Hove Albion   2-0 (0-0)  Rotherham United
-[Mon Mar/10]
-  19.45  Nottingham Forest        2-2 (1-1)  Grimsby Town
+▪ Matchday 36
+Sat Mar 8
+  15:00  Brighton & Hove Albion   2-0 (0-0)  Rotherham United
+Mon Mar 10
+  19:45  Nottingham Forest        2-2 (1-1)  Grimsby Town
 
 
-Matchday 32
-[Tue Mar/11]
-  20.00  Crystal Palace           1-1 (1-0)  Ipswich Town
+▪ Matchday 32
+Tue Mar 11
+  20:00  Crystal Palace           1-1 (1-0)  Ipswich Town
 
 
-Matchday 26
-[Tue Mar/11]
-  19.45  Gillingham FC            3-3 (0-1)  Wimbledon FC
+▪ Matchday 26
+Tue Mar 11
+  19:45  Gillingham FC            3-3 (0-1)  Wimbledon FC
 
 
-Matchday 36
-[Wed Mar/12]
-  20.00  Reading FC               0-1 (0-1)  Wolverhampton Wanderers
-  19.45  Portsmouth FC            3-2 (0-0)  Norwich City
+▪ Matchday 36
+Wed Mar 12
+  20:00  Reading FC               0-1 (0-1)  Wolverhampton Wanderers
+  19:45  Portsmouth FC            3-2 (0-0)  Norwich City
 
 
-Matchday 27
-[Wed Mar/12]
-  19.45  Sheffield United         4-2 (2-0)  Burnley FC
+▪ Matchday 27
+Wed Mar 12
+  19:45  Sheffield United         4-2 (2-0)  Burnley FC
 
 
-Matchday 37
-[Sat Mar/15]
-  15.00  Sheffield Wednesday      0-1 (0-1)  Ipswich Town
+▪ Matchday 37
+Sat Mar 15
+  15:00  Sheffield Wednesday      0-1 (0-1)  Ipswich Town
          Wimbledon FC             2-0 (1-0)  Millwall FC
          Walsall FC               3-2 (2-0)  Burnley FC
          Stoke City               0-0  Sheffield United
@@ -704,29 +704,29 @@ Matchday 37
          Gillingham FC            1-1 (1-1)  Rotherham United
          Grimsby Town             1-0 (0-0)  Watford FC
          Norwich City             2-0 (1-0)  Coventry City
-  17.35  Leicester City           2-1 (1-1)  Preston North End
+  17:35  Leicester City           2-1 (1-1)  Preston North End
 
 
-Matchday 38
-[Tue Mar/18]
-  19.45  Millwall FC              0-2 (0-2)  Norwich City
+▪ Matchday 38
+Tue Mar 18
+  19:45  Millwall FC              0-2 (0-2)  Norwich City
          Wolverhampton Wanderers  0-0  Stoke City
-  20.00  Crystal Palace           0-1 (0-1)  Wimbledon FC
-  19.45  Preston North End        5-0 (2-0)  Walsall FC
+  20:00  Crystal Palace           0-1 (0-1)  Wimbledon FC
+  19:45  Preston North End        5-0 (2-0)  Walsall FC
          Watford FC               0-1 (0-0)  Gillingham FC
          Sheffield United         2-1 (2-1)  Brighton & Hove Albion
          Bradford City            1-1 (1-0)  Sheffield Wednesday
          Burnley FC               1-2 (0-0)  Leicester City
          Ipswich Town             3-1 (2-1)  Reading FC
          Rotherham United         0-1 (0-0)  Grimsby Town
-[Wed Mar/19]
-  19.45  Nottingham Forest        3-0 (2-0)  Derby County
+Wed Mar 19
+  19:45  Nottingham Forest        3-0 (2-0)  Derby County
          Coventry City            0-4 (0-3)  Portsmouth FC
 
 
-Matchday 39
-[Sat Mar/22]
-  15.00  Ipswich Town             2-2 (1-0)  Brighton & Hove Albion
+▪ Matchday 39
+Sat Mar 22
+  15:00  Ipswich Town             2-2 (1-0)  Brighton & Hove Albion
          Watford FC               1-2 (0-1)  Stoke City
          Sheffield United         2-0 (1-0)  Derby County
          Rotherham United         2-1 (1-0)  Wimbledon FC
@@ -740,77 +740,77 @@ Matchday 39
          Wolverhampton Wanderers  6-0 (5-0)  Gillingham FC
 
 
-Matchday 40
-[Tue Mar/25]
-  19.45  Brighton & Hove Albion   0-0  Crystal Palace
+▪ Matchday 40
+Tue Mar 25
+  19:45  Brighton & Hove Albion   0-0  Crystal Palace
 
 
-Matchday 32
-[Tue Mar/25]
-  19.45  Norwich City             1-0 (1-0)  Wimbledon FC
+▪ Matchday 32
+Tue Mar 25
+  19:45  Norwich City             1-0 (1-0)  Wimbledon FC
 
 
-Matchday 36
-[Tue Mar/25]
-  19.45  Burnley FC               0-2 (0-1)  Bradford City
+▪ Matchday 36
+Tue Mar 25
+  19:45  Burnley FC               0-2 (0-1)  Bradford City
          Sheffield United         2-2 (1-0)  Gillingham FC
 
 
-Matchday 40
-[Sat Mar/29]
-  15.00  Sheffield Wednesday      2-2 (0-1)  Watford FC
+▪ Matchday 40
+Sat Mar 29
+  15:00  Sheffield Wednesday      2-2 (0-1)  Watford FC
          Norwich City             3-2 (0-1)  Bradford City
          Gillingham FC            1-3 (1-1)  Ipswich Town
 
 
-Matchday 41
-[Fri Apr/4]
-  20.00  Reading FC               1-2 (0-1)  Brighton & Hove Albion
-[Sat Apr/5]
-  15.00  Ipswich Town             3-4 (2-3)  Nottingham Forest
+▪ Matchday 41
+Fri Apr 4
+  20:00  Reading FC               1-2 (0-1)  Brighton & Hove Albion
+Sat Apr 5
+  15:00  Ipswich Town             3-4 (2-3)  Nottingham Forest
          Crystal Palace           2-2 (2-1)  Sheffield United
          Burnley FC               4-7 (4-5)  Watford FC
          Bradford City            0-1 (0-0)  Millwall FC
          Leicester City           2-0 (0-0)  Grimsby Town
-  17.35  Walsall FC               1-2 (1-2)  Portsmouth FC
-  15.00  Wolverhampton Wanderers  0-0  Rotherham United
+  17:35  Walsall FC               1-2 (1-2)  Portsmouth FC
+  15:00  Wolverhampton Wanderers  0-0  Rotherham United
          Stoke City               0-0  Gillingham FC
          Sheffield Wednesday      4-2 (1-0)  Wimbledon FC
          Preston North End        2-2 (1-0)  Coventry City
          Derby County             2-1 (1-1)  Norwich City
 
 
-Matchday 40
-[Mon Apr/7]
-  19.45  Wimbledon FC             1-0 (1-0)  Sheffield United
+▪ Matchday 40
+Mon Apr 7
+  19:45  Wimbledon FC             1-0 (1-0)  Sheffield United
 
 
-Matchday 32
-[Tue Apr/8]
-  19.45  Burnley FC               2-0 (1-0)  Preston North End
+▪ Matchday 32
+Tue Apr 8
+  19:45  Burnley FC               2-0 (1-0)  Preston North End
 
 
-Matchday 40
-[Tue Apr/8]
-  19.45  Grimsby Town             0-1 (0-1)  Wolverhampton Wanderers
+▪ Matchday 40
+Tue Apr 8
+  19:45  Grimsby Town             0-1 (0-1)  Wolverhampton Wanderers
          Leicester City           1-0 (1-0)  Nottingham Forest
 
 
-Matchday 36
-[Tue Apr/8]
-  20.00  Crystal Palace           0-1 (0-1)  Watford FC
+▪ Matchday 36
+Tue Apr 8
+  20:00  Crystal Palace           0-1 (0-1)  Watford FC
 
 
-Matchday 40
-[Wed Apr/9]
-  19.45  Stoke City               2-0 (2-0)  Rotherham United
+▪ Matchday 40
+Wed Apr 9
+  19:45  Stoke City               2-0 (2-0)  Rotherham United
 
 
-Matchday 42
-[Fri Apr/11]
-  19.45  Nottingham Forest        2-2 (1-2)  Wolverhampton Wanderers
-[Sat Apr/12]
-  15.00  Norwich City             2-0 (1-0)  Burnley FC
+▪ Matchday 42
+Fri Apr 11
+  19:45  Nottingham Forest        2-2 (1-2)  Wolverhampton Wanderers
+Sat Apr 12
+  15:00  Norwich City             2-0 (1-0)  Burnley FC
          Millwall FC              3-1 (1-0)  Stoke City
          Portsmouth FC            1-2 (1-0)  Sheffield Wednesday
          Wimbledon FC             0-2 (0-1)  Derby County
@@ -821,30 +821,30 @@ Matchday 42
          Grimsby Town             1-4 (0-3)  Crystal Palace
 
 
-Matchday 40
-[Tue Apr/15]
-  19.45  Walsall FC               0-0  Coventry City
-  20.00  Reading FC               5-1 (2-0)  Preston North End
+▪ Matchday 40
+Tue Apr 15
+  19:45  Walsall FC               0-0  Coventry City
+  20:00  Reading FC               5-1 (2-0)  Preston North End
 
 
-Matchday 32
-[Tue Apr/15]
-  19.45  Sheffield United         1-0 (0-0)  Nottingham Forest
+▪ Matchday 32
+Tue Apr 15
+  19:45  Sheffield United         1-0 (0-0)  Nottingham Forest
 
 
-Matchday 40
-[Tue Apr/15]
-  19.45  Portsmouth FC            1-0 (0-0)  Burnley FC
-[Wed Apr/16]
-  19.45  Derby County             1-2 (1-1)  Millwall FC
+▪ Matchday 40
+Tue Apr 15
+  19:45  Portsmouth FC            1-0 (0-0)  Burnley FC
+Wed Apr 16
+  19:45  Derby County             1-2 (1-1)  Millwall FC
 
 
-Matchday 43
-[Fri Apr/18]
-  17.15  Ipswich Town             3-0 (3-0)  Portsmouth FC
-  19.45  Reading FC               1-0 (0-0)  Nottingham Forest
-[Sat Apr/19]
-  15.00  Stoke City               2-1 (2-0)  Wimbledon FC
+▪ Matchday 43
+Fri Apr 18
+  17:15  Ipswich Town             3-0 (3-0)  Portsmouth FC
+  19:45  Reading FC               1-0 (0-0)  Nottingham Forest
+Sat Apr 19
+  15:00  Stoke City               2-1 (2-0)  Wimbledon FC
          Walsall FC               0-0  Norwich City
          Bradford City            2-1 (2-1)  Watford FC
          Burnley FC               2-0 (1-0)  Gillingham FC
@@ -856,12 +856,12 @@ Matchday 43
          Wolverhampton Wanderers  3-0 (1-0)  Millwall FC
 
 
-Matchday 44
-[Mon Apr/21]
-  17.35  Norwich City             0-3 (0-0)  Wolverhampton Wanderers
-  15.00  Wimbledon FC             2-0 (0-0)  Preston North End
-  12.30  Sheffield United         2-1 (1-1)  Leicester City
-  15.00  Brighton & Hove Albion   1-1 (0-1)  Sheffield Wednesday
+▪ Matchday 44
+Mon Apr 21
+  17:35  Norwich City             0-3 (0-0)  Wolverhampton Wanderers
+  15:00  Wimbledon FC             2-0 (0-0)  Preston North End
+  12:30  Sheffield United         2-1 (1-1)  Leicester City
+  15:00  Brighton & Hove Albion   1-1 (0-1)  Sheffield Wednesday
          Coventry City            0-1 (0-0)  Stoke City
          Gillingham FC            1-0 (1-0)  Bradford City
          Grimsby Town             0-1 (0-0)  Walsall FC
@@ -872,33 +872,33 @@ Matchday 44
          Watford FC               2-0 (1-0)  Derby County
 
 
-Matchday 45
-[Sat Apr/26]
-  15.00  Ipswich Town             1-5 (0-1)  Wimbledon FC
+▪ Matchday 45
+Sat Apr 26
+  15:00  Ipswich Town             1-5 (0-1)  Wimbledon FC
          Walsall FC               3-2 (1-0)  Derby County
-  13.30  Burnley FC               2-7 (1-3)  Sheffield Wednesday
-  15.00  Brighton & Hove Albion   4-0 (2-0)  Watford FC
+  13:30  Burnley FC               2-7 (1-3)  Sheffield Wednesday
+  15:00  Brighton & Hove Albion   4-0 (2-0)  Watford FC
          Coventry City            0-0  Gillingham FC
          Crystal Palace           1-0 (0-0)  Stoke City
          Reading FC               2-1 (2-0)  Grimsby Town
          Nottingham Forest        3-3 (2-1)  Millwall FC
          Preston North End        1-0 (1-0)  Bradford City
          Sheffield United         3-3 (1-2)  Wolverhampton Wanderers
-[Sun Apr/27]
-  18.30  Portsmouth FC            3-2 (3-2)  Rotherham United
-  12.00  Leicester City           1-1 (1-0)  Norwich City
+Sun Apr 27
+  18:30  Portsmouth FC            3-2 (3-2)  Rotherham United
+  12:00  Leicester City           1-1 (1-0)  Norwich City
 
 
-Matchday 42
-[Tue Apr/29]
-  19.45  Sheffield United         3-0 (0-0)  Bradford City
-[Wed Apr/30]
-  19.45  Watford FC               0-3 (0-1)  Reading FC
+▪ Matchday 42
+Tue Apr 29
+  19:45  Sheffield United         3-0 (0-0)  Bradford City
+Wed Apr 30
+  19:45  Watford FC               0-3 (0-1)  Reading FC
 
 
-Matchday 46
-[Sun May/4]
-  13.30  Bradford City            0-5 (0-1)  Portsmouth FC
+▪ Matchday 46
+Sun May 4
+  13:30  Bradford City            0-5 (0-1)  Portsmouth FC
          Derby County             1-4 (1-3)  Ipswich Town
          Gillingham FC            2-1 (2-1)  Crystal Palace
          Grimsby Town             2-2 (1-1)  Brighton & Hove Albion

@@ -1,16 +1,16 @@
 = English Championship 2018/19
 
-# Date       Fri Aug/3 2018 - Sun May/5 2019 (275d)
+# Date       Fri Aug 3 2018 - Sun May 5 2019 (275d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Fri Aug/3]
-  20.00  Reading FC               1-2 (0-0)  Derby County
-[Sat Aug/4]
-  15.00  Birmingham City          2-2 (0-0)  Norwich City
+▪ Matchday 1
+Fri Aug 3
+  20:00  Reading FC               1-2 (0-0)  Derby County
+Sat Aug 4
+  15:00  Birmingham City          2-2 (0-0)  Norwich City
          Bristol City             1-1 (1-0)  Nottingham Forest
          Brentford FC             5-1 (2-0)  Rotherham United
          Millwall FC              2-2 (2-0)  Middlesbrough FC
@@ -18,22 +18,22 @@ Matchday 1
          Preston North End        1-0 (0-0)  Queens Park Rangers
          West Bromwich Albion     1-2 (1-1)  Bolton Wanderers
          Wigan Athletic           3-2 (2-1)  Sheffield Wednesday
-  17.30  Sheffield United         1-2 (0-0)  Swansea City
-[Sun Aug/5]
-  16.30  Leeds United             3-1 (2-0)  Stoke City
-[Mon Aug/6]
-  19.45  Hull City                1-3 (1-1)  Aston Villa
+  17:30  Sheffield United         1-2 (0-0)  Swansea City
+Sun Aug 5
+  16:30  Leeds United             3-1 (2-0)  Stoke City
+Mon Aug 6
+  19:45  Hull City                1-3 (1-1)  Aston Villa
 
 
-Matchday 4
-[Tue Aug/7]
-  19.45  Middlesbrough FC         3-0 (3-0)  Sheffield United
+▪ Matchday 4
+Tue Aug 7
+  19:45  Middlesbrough FC         3-0 (3-0)  Sheffield United
          Nottingham Forest        1-1 (0-0)  West Bromwich Albion
 
 
-Matchday 2
-[Sat Aug/11]
-  15.00  Bolton Wanderers         2-2 (0-0)  Bristol City
+▪ Matchday 2
+Sat Aug 11
+  15:00  Bolton Wanderers         2-2 (0-0)  Bristol City
          Middlesbrough FC         1-0 (1-0)  Birmingham City
          Norwich City             3-4 (1-1)  West Bromwich Albion
          Nottingham Forest        1-0 (0-0)  Reading FC
@@ -42,49 +42,49 @@ Matchday 2
          Sheffield Wednesday      1-1 (0-1)  Hull City
          Stoke City               1-1 (1-0)  Brentford FC
          Swansea City             1-0 (1-0)  Preston North End
-  17.30  Derby County             1-4 (1-2)  Leeds United
-  15.00  Aston Villa              3-2 (1-1)  Wigan Athletic
+  17:30  Derby County             1-4 (1-2)  Leeds United
+  15:00  Aston Villa              3-2 (1-1)  Wigan Athletic
          Queens Park Rangers      1-2 (1-1)  Sheffield United
 
 
-Matchday 3
-[Fri Aug/17]
-  19.45  Birmingham City          0-0  Swansea City
-[Sat Aug/18]
-  15.00  Reading FC               0-1 (0-0)  Bolton Wanderers
+▪ Matchday 3
+Fri Aug 17
+  19:45  Birmingham City          0-0  Swansea City
+Sat Aug 18
+  15:00  Reading FC               0-1 (0-0)  Bolton Wanderers
          Hull City                0-1 (0-1)  Blackburn Rovers
          Ipswich Town             1-1 (1-1)  Aston Villa
          Leeds United             2-0 (0-0)  Rotherham United
          Sheffield United         2-1 (1-1)  Norwich City
          West Bromwich Albion     7-1 (1-1)  Queens Park Rangers
          Wigan Athletic           2-2 (2-1)  Nottingham Forest
-  17.30  Preston North End        2-2 (2-1)  Stoke City
-  15.00  Millwall FC              2-1 (2-0)  Derby County
+  17:30  Preston North End        2-2 (2-1)  Stoke City
+  15:00  Millwall FC              2-1 (2-0)  Derby County
          Bristol City             0-2 (0-2)  Middlesbrough FC
-[Sun Aug/19]
-  15.00  Brentford FC             2-0 (1-0)  Sheffield Wednesday
+Sun Aug 19
+  15:00  Brentford FC             2-0 (1-0)  Sheffield Wednesday
 
 
-Matchday 4
-[Tue Aug/21]
-  19.45  Queens Park Rangers      0-3 (0-1)  Bristol City
+▪ Matchday 4
+Tue Aug 21
+  19:45  Queens Park Rangers      0-3 (0-1)  Bristol City
          Rotherham United         2-3 (1-2)  Hull City
          Swansea City             2-2 (1-1)  Leeds United
          Derby County             2-0 (0-0)  Ipswich Town
-[Wed Aug/22]
-  19.45  Aston Villa              2-2 (1-1)  Brentford FC
+Wed Aug 22
+  19:45  Aston Villa              2-2 (1-1)  Brentford FC
          Sheffield Wednesday      2-1 (1-0)  Millwall FC
          Blackburn Rovers         2-2 (0-2)  Reading FC
          Norwich City             2-0 (0-0)  Preston North End
-  20.00  Bolton Wanderers         1-0 (0-0)  Birmingham City
+  20:00  Bolton Wanderers         1-0 (0-0)  Birmingham City
          Stoke City               0-3 (0-2)  Wigan Athletic
 
 
-Matchday 5
-[Fri Aug/24]
-  19.45  Middlesbrough FC         1-0 (0-0)  West Bromwich Albion
-[Sat Aug/25]
-  15.00  Aston Villa              1-1 (0-0)  Reading FC
+▪ Matchday 5
+Fri Aug 24
+  19:45  Middlesbrough FC         1-0 (0-0)  West Bromwich Albion
+Sat Aug 25
+  15:00  Aston Villa              1-1 (0-0)  Reading FC
          Blackburn Rovers         1-0 (0-0)  Brentford FC
          Bolton Wanderers         0-3 (0-2)  Sheffield United
          Derby County             2-0 (1-0)  Preston North End
@@ -93,16 +93,16 @@ Matchday 5
          Sheffield Wednesday      2-1 (1-1)  Ipswich Town
          Stoke City               2-0 (1-0)  Hull City
          Swansea City             0-1 (0-1)  Bristol City
-  17.30  Nottingham Forest        2-2 (0-1)  Birmingham City
-[Sun Aug/26]
-  12.30  Rotherham United         1-0 (1-0)  Millwall FC
+  17:30  Nottingham Forest        2-2 (0-1)  Birmingham City
+Sun Aug 26
+  12:30  Rotherham United         1-0 (1-0)  Millwall FC
 
 
-Matchday 6
-[Fri Aug/31]
-  19.45  Leeds United             0-0  Middlesbrough FC
-[Sat Sep/1]
-  15.00  Birmingham City          0-0  Queens Park Rangers
+▪ Matchday 6
+Fri Aug 31
+  19:45  Leeds United             0-0  Middlesbrough FC
+Sat Sep 1
+  15:00  Birmingham City          0-0  Queens Park Rangers
          Brentford FC             2-1 (1-0)  Nottingham Forest
          Reading FC               1-2 (0-1)  Sheffield Wednesday
          Hull City                1-2 (0-1)  Derby County
@@ -110,17 +110,17 @@ Matchday 6
          Sheffield United         4-1 (3-0)  Aston Villa
          West Bromwich Albion     2-1 (1-0)  Stoke City
          Wigan Athletic           1-0 (0-0)  Rotherham United
-  17.30  Millwall FC              1-2 (0-0)  Swansea City
-[Sun Sep/2]
-  13.30  Bristol City             4-1 (1-1)  Blackburn Rovers
-  12.00  Ipswich Town             1-1 (0-0)  Norwich City
+  17:30  Millwall FC              1-2 (0-0)  Swansea City
+Sun Sep 2
+  13:30  Bristol City             4-1 (1-1)  Blackburn Rovers
+  12:00  Ipswich Town             1-1 (0-0)  Norwich City
 
 
-Matchday 7
-[Fri Sep/14]
-  19.45  Birmingham City          1-1 (1-1)  West Bromwich Albion
-[Sat Sep/15]
-  15.00  Bolton Wanderers         1-2 (0-1)  Queens Park Rangers
+▪ Matchday 7
+Fri Sep 14
+  19:45  Birmingham City          1-1 (1-1)  West Bromwich Albion
+Sat Sep 15
+  15:00  Bolton Wanderers         1-2 (0-1)  Queens Park Rangers
          Bristol City             1-0 (0-0)  Sheffield United
          Brentford FC             2-0 (1-0)  Wigan Athletic
          Millwall FC              1-1 (0-0)  Leeds United
@@ -130,31 +130,31 @@ Matchday 7
          Rotherham United         1-0 (0-0)  Derby County
          Sheffield Wednesday      2-2 (1-2)  Stoke City
          Swansea City             0-0  Nottingham Forest
-  17.30  Blackburn Rovers         1-1 (0-0)  Aston Villa
+  17:30  Blackburn Rovers         1-1 (0-0)  Aston Villa
 
 
-Matchday 8
-[Tue Sep/18]
-  19.45  Derby County             0-0  Blackburn Rovers
+▪ Matchday 8
+Tue Sep 18
+  19:45  Derby County             0-0  Blackburn Rovers
          Leeds United             3-0 (1-0)  Preston North End
          Wigan Athletic           2-1 (2-1)  Hull City
          Aston Villa              2-0 (1-0)  Rotherham United
          Ipswich Town             1-1 (0-1)  Brentford FC
-  20.00  Stoke City               1-0 (0-0)  Swansea City
+  20:00  Stoke City               1-0 (0-0)  Swansea City
          West Bromwich Albion     4-2 (3-0)  Bristol City
-[Wed Sep/19]
-  19.45  Nottingham Forest        2-1 (1-0)  Sheffield Wednesday
+Wed Sep 19
+  19:45  Nottingham Forest        2-1 (1-0)  Sheffield Wednesday
          Queens Park Rangers      2-0 (2-0)  Millwall FC
          Sheffield United         0-0  Birmingham City
-  20.00  Reading FC               1-2 (0-1)  Norwich City
-  19.45  Middlesbrough FC         2-0 (1-0)  Bolton Wanderers
+  20:00  Reading FC               1-2 (0-1)  Norwich City
+  19:45  Middlesbrough FC         2-0 (1-0)  Bolton Wanderers
 
 
-Matchday 9
-[Fri Sep/21]
-  19.45  Wigan Athletic           1-0 (0-0)  Bristol City
-[Sat Sep/22]
-  15.00  Aston Villa              1-2 (0-0)  Sheffield Wednesday
+▪ Matchday 9
+Fri Sep 21
+  19:45  Wigan Athletic           1-0 (0-0)  Bristol City
+Sat Sep 22
+  15:00  Aston Villa              1-2 (0-0)  Sheffield Wednesday
          Derby County             3-1 (3-1)  Brentford FC
          Middlesbrough FC         0-0  Swansea City
          Reading FC               3-0 (1-0)  Hull City
@@ -164,15 +164,15 @@ Matchday 9
          Sheffield United         3-2 (1-0)  Preston North End
          Stoke City               2-3 (0-2)  Blackburn Rovers
          West Bromwich Albion     2-0 (0-0)  Millwall FC
-  17.30  Queens Park Rangers      0-1 (0-0)  Norwich City
+  17:30  Queens Park Rangers      0-1 (0-0)  Norwich City
 
 
-Matchday 10
-[Fri Sep/28]
-  20.00  Bristol City             1-1 (1-1)  Aston Villa
-  19.45  Sheffield Wednesday      1-1 (1-0)  Leeds United
-[Sat Sep/29]
-  15.00  Birmingham City          2-2 (0-2)  Ipswich Town
+▪ Matchday 10
+Fri Sep 28
+  20:00  Bristol City             1-1 (1-1)  Aston Villa
+  19:45  Sheffield Wednesday      1-1 (1-0)  Leeds United
+Sat Sep 29
+  15:00  Birmingham City          2-2 (0-2)  Ipswich Town
          Blackburn Rovers         2-2 (0-0)  Nottingham Forest
          Bolton Wanderers         1-0 (1-0)  Derby County
          Brentford FC             2-2 (1-1)  Reading FC
@@ -181,30 +181,30 @@ Matchday 10
          Norwich City             1-0 (0-0)  Wigan Athletic
          Preston North End        2-3 (0-0)  West Bromwich Albion
          Swansea City             3-0 (1-0)  Queens Park Rangers
-  17.30  Rotherham United         2-2 (0-0)  Stoke City
+  17:30  Rotherham United         2-2 (0-0)  Stoke City
 
 
-Matchday 11
-[Tue Oct/2]
-  19.45  Aston Villa              3-3 (2-0)  Preston North End
+▪ Matchday 11
+Tue Oct 2
+  19:45  Aston Villa              3-3 (2-0)  Preston North End
          Brentford FC             1-1 (1-1)  Birmingham City
          Ipswich Town             0-2 (0-2)  Middlesbrough FC
          Wigan Athletic           0-0  Swansea City
          Hull City                0-1 (0-0)  Leeds United
-  20.00  Reading FC               0-1 (0-0)  Queens Park Rangers
+  20:00  Reading FC               0-1 (0-0)  Queens Park Rangers
          Stoke City               2-0 (1-0)  Bolton Wanderers
-[Wed Oct/3]
-  19.45  Derby County             1-1 (0-0)  Norwich City
+Wed Oct 3
+  19:45  Derby County             1-1 (0-0)  Norwich City
          Nottingham Forest        2-2 (1-0)  Millwall FC
          Rotherham United         0-0  Bristol City
          Sheffield Wednesday      2-2 (2-0)  West Bromwich Albion
          Blackburn Rovers         0-2 (0-0)  Sheffield United
 
 
-Matchday 12
-[Sat Oct/6]
-  12.30  Leeds United             1-1 (0-0)  Brentford FC
-  15.00  Birmingham City          3-1 (2-0)  Rotherham United
+▪ Matchday 12
+Sat Oct 6
+  12:30  Leeds United             1-1 (0-0)  Brentford FC
+  15:00  Birmingham City          3-1 (2-0)  Rotherham United
          Middlesbrough FC         0-2 (0-0)  Nottingham Forest
          Millwall FC              2-1 (1-1)  Aston Villa
          Norwich City             0-1 (0-1)  Stoke City
@@ -213,17 +213,17 @@ Matchday 12
          Sheffield United         1-0 (0-0)  Hull City
          Swansea City             2-3 (1-2)  Ipswich Town
          West Bromwich Albion     4-1 (0-1)  Reading FC
-  17.30  Bolton Wanderers         0-1 (0-1)  Blackburn Rovers
-[Sun Oct/7]
-  13.30  Bristol City             1-2 (0-0)  Sheffield Wednesday
+  17:30  Bolton Wanderers         0-1 (0-1)  Blackburn Rovers
+Sun Oct 7
+  13:30  Bristol City             1-2 (0-0)  Sheffield Wednesday
 
 
-Matchday 13
-[Fri Oct/19]
-  19.45  Sheffield Wednesday      1-2 (0-0)  Middlesbrough FC
-[Sat Oct/20]
-  12.00  Blackburn Rovers         2-1 (1-1)  Leeds United
-  15.00  Aston Villa              1-0 (1-0)  Swansea City
+▪ Matchday 13
+Fri Oct 19
+  19:45  Sheffield Wednesday      1-2 (0-0)  Middlesbrough FC
+Sat Oct 20
+  12:00  Blackburn Rovers         2-1 (1-1)  Leeds United
+  15:00  Aston Villa              1-0 (1-0)  Swansea City
          Brentford FC             0-1 (0-0)  Bristol City
          Reading FC               3-1 (2-1)  Millwall FC
          Hull City                1-1 (0-0)  Preston North End
@@ -232,32 +232,32 @@ Matchday 13
          Rotherham United         1-1 (0-0)  Bolton Wanderers
          Stoke City               0-1 (0-0)  Birmingham City
          Wigan Athletic           1-0 (0-0)  West Bromwich Albion
-  17.30  Derby County             2-1 (1-1)  Sheffield United
+  17:30  Derby County             2-1 (1-1)  Sheffield United
 
 
-Matchday 14
-[Tue Oct/23]
-  19.45  Middlesbrough FC         0-0  Rotherham United
+▪ Matchday 14
+Tue Oct 23
+  19:45  Middlesbrough FC         0-0  Rotherham United
          Millwall FC              2-1 (0-1)  Wigan Athletic
          Norwich City             2-1 (0-1)  Aston Villa
          Queens Park Rangers      3-0 (1-0)  Sheffield Wednesday
          Sheffield United         1-1 (0-0)  Stoke City
          Swansea City             3-1 (0-1)  Blackburn Rovers
          Birmingham City          2-1 (0-0)  Reading FC
-[Wed Oct/24]
-  19.45  Leeds United             2-0 (1-0)  Ipswich Town
+Wed Oct 24
+  19:45  Leeds United             2-0 (1-0)  Ipswich Town
          Preston North End        4-3 (3-1)  Brentford FC
-  20.00  Bolton Wanderers         0-3 (0-1)  Nottingham Forest
+  20:00  Bolton Wanderers         0-3 (0-1)  Nottingham Forest
          West Bromwich Albion     1-4 (0-2)  Derby County
-  19.45  Bristol City             1-0 (0-0)  Hull City
+  19:45  Bristol City             1-0 (0-0)  Hull City
 
 
-Matchday 15
-[Fri Oct/26]
-  19.45  Queens Park Rangers      1-0 (1-0)  Aston Villa
-[Sat Oct/27]
-  12.30  Middlesbrough FC         1-1 (0-1)  Derby County
-  15.00  Birmingham City          3-1 (1-1)  Sheffield Wednesday
+▪ Matchday 15
+Fri Oct 26
+  19:45  Queens Park Rangers      1-0 (1-0)  Aston Villa
+Sat Oct 27
+  12:30  Middlesbrough FC         1-1 (0-1)  Derby County
+  15:00  Birmingham City          3-1 (1-1)  Sheffield Wednesday
          Bolton Wanderers         0-1 (0-1)  Hull City
          Bristol City             0-1 (0-1)  Stoke City
          Millwall FC              3-0 (1-0)  Ipswich Town
@@ -266,14 +266,14 @@ Matchday 15
          Sheffield United         4-2 (2-1)  Wigan Athletic
          Swansea City             2-0 (1-0)  Reading FC
          West Bromwich Albion     1-1 (1-0)  Blackburn Rovers
-  17.30  Leeds United             1-1 (0-1)  Nottingham Forest
+  17:30  Leeds United             1-1 (0-1)  Nottingham Forest
 
 
-Matchday 16
-[Fri Nov/2]
-  19.45  Aston Villa              2-0 (1-0)  Bolton Wanderers
-[Sat Nov/3]
-  15.00  Blackburn Rovers         1-0 (0-0)  Queens Park Rangers
+▪ Matchday 16
+Fri Nov 2
+  19:45  Aston Villa              2-0 (1-0)  Bolton Wanderers
+Sat Nov 3
+  15:00  Blackburn Rovers         1-0 (0-0)  Queens Park Rangers
          Derby County             3-1 (0-1)  Birmingham City
          Brentford FC             2-0 (0-0)  Millwall FC
          Reading FC               3-2 (2-2)  Bristol City
@@ -282,16 +282,16 @@ Matchday 16
          Nottingham Forest        1-0 (0-0)  Sheffield United
          Rotherham United         2-1 (0-1)  Swansea City
          Sheffield Wednesday      0-4 (0-0)  Norwich City
-  17.30  Stoke City               0-0  Middlesbrough FC
-[Sun Nov/4]
-  13.30  Wigan Athletic           1-2 (1-1)  Leeds United
+  17:30  Stoke City               0-0  Middlesbrough FC
+Sun Nov 4
+  13:30  Wigan Athletic           1-2 (1-1)  Leeds United
 
 
-Matchday 17
-[Fri Nov/9]
-  19.45  Sheffield United         0-0  Sheffield Wednesday
-[Sat Nov/10]
-  15.00  Birmingham City          3-3 (2-0)  Hull City
+▪ Matchday 17
+Fri Nov 9
+  19:45  Sheffield United         0-0  Sheffield Wednesday
+Sat Nov 10
+  15:00  Birmingham City          3-3 (2-0)  Hull City
          Blackburn Rovers         1-1 (0-0)  Rotherham United
          Bolton Wanderers         0-1 (0-1)  Swansea City
          Bristol City             0-1 (0-1)  Preston North End
@@ -301,15 +301,15 @@ Matchday 17
          Norwich City             4-3 (0-1)  Millwall FC
          Nottingham Forest        0-0  Stoke City
          Queens Park Rangers      3-2 (0-1)  Brentford FC
-  17.30  West Bromwich Albion     4-1 (0-0)  Leeds United
+  17:30  West Bromwich Albion     4-1 (0-0)  Leeds United
 
 
-Matchday 18
-[Fri Nov/23]
-  19.45  Ipswich Town             1-2 (0-1)  West Bromwich Albion
-[Sat Nov/24]
-  12.30  Rotherham United         2-2 (0-1)  Sheffield United
-  15.00  Millwall FC              1-1 (0-1)  Bolton Wanderers
+▪ Matchday 18
+Fri Nov 23
+  19:45  Ipswich Town             1-2 (0-1)  West Bromwich Albion
+Sat Nov 24
+  12:30  Rotherham United         2-2 (0-1)  Sheffield United
+  15:00  Millwall FC              1-1 (0-1)  Bolton Wanderers
          Hull City                0-2 (0-0)  Nottingham Forest
          Leeds United             2-0 (0-0)  Bristol City
          Preston North End        4-1 (2-0)  Blackburn Rovers
@@ -317,32 +317,32 @@ Matchday 18
          Stoke City               2-2 (1-1)  Queens Park Rangers
          Swansea City             1-4 (1-3)  Norwich City
          Wigan Athletic           0-0  Reading FC
-  17.30  Brentford FC             1-2 (0-0)  Middlesbrough FC
-[Sun Nov/25]
-  12.00  Aston Villa              4-2 (2-1)  Birmingham City
+  17:30  Brentford FC             1-2 (0-0)  Middlesbrough FC
+Sun Nov 25
+  12:00  Aston Villa              4-2 (2-1)  Birmingham City
 
 
-Matchday 19
-[Tue Nov/27]
-  19.45  Brentford FC             2-3 (1-2)  Sheffield United
+▪ Matchday 19
+Tue Nov 27
+  19:45  Brentford FC             2-3 (1-2)  Sheffield United
          Hull City                0-0  Norwich City
          Leeds United             1-0 (0-0)  Reading FC
          Rotherham United         2-2 (2-1)  Queens Park Rangers
          Preston North End        1-1 (1-0)  Middlesbrough FC
          Sheffield Wednesday      1-0 (0-0)  Bolton Wanderers
-[Wed Nov/28]
-  19.45  Aston Villa              5-5 (3-3)  Nottingham Forest
+Wed Nov 28
+  19:45  Aston Villa              5-5 (3-3)  Nottingham Forest
          Ipswich Town             2-3 (1-0)  Bristol City
          Swansea City             1-2 (1-2)  West Bromwich Albion
          Wigan Athletic           3-1 (1-0)  Blackburn Rovers
-  20.00  Stoke City               2-1 (1-0)  Derby County
-  19.45  Millwall FC              0-2 (0-1)  Birmingham City
+  20:00  Stoke City               2-1 (1-0)  Derby County
+  19:45  Millwall FC              0-2 (0-1)  Birmingham City
 
 
-Matchday 20
-[Sat Dec/1]
-  12.30  Sheffield United         0-1 (0-0)  Leeds United
-  15.00  Birmingham City          3-0 (0-0)  Preston North End
+▪ Matchday 20
+Sat Dec 1
+  12:30  Sheffield United         0-1 (0-0)  Leeds United
+  15:00  Birmingham City          3-0 (0-0)  Preston North End
          Blackburn Rovers         4-2 (1-0)  Sheffield Wednesday
          Bolton Wanderers         1-1 (1-1)  Wigan Athletic
          Derby County             2-1 (2-0)  Swansea City
@@ -350,18 +350,18 @@ Matchday 20
          Norwich City             3-1 (0-1)  Rotherham United
          Nottingham Forest        2-0 (2-0)  Ipswich Town
          Queens Park Rangers      2-3 (1-2)  Hull City
-  17.30  Middlesbrough FC         0-3 (0-1)  Aston Villa
-[Sun Dec/2]
-  13.30  Bristol City             1-1 (0-0)  Millwall FC
-[Mon Dec/3]
-  20.00  West Bromwich Albion     1-1 (0-0)  Brentford FC
+  17:30  Middlesbrough FC         0-3 (0-1)  Aston Villa
+Sun Dec 2
+  13:30  Bristol City             1-1 (0-0)  Millwall FC
+Mon Dec 3
+  20:00  West Bromwich Albion     1-1 (0-0)  Brentford FC
 
 
-Matchday 21
-[Fri Dec/7]
-  20.00  West Bromwich Albion     2-2 (1-1)  Aston Villa
-[Sat Dec/8]
-  15.00  Birmingham City          0-1 (0-0)  Bristol City
+▪ Matchday 21
+Fri Dec 7
+  20:00  West Bromwich Albion     2-2 (1-1)  Aston Villa
+Sat Dec 8
+  15:00  Birmingham City          0-1 (0-0)  Bristol City
          Brentford FC             2-3 (1-3)  Swansea City
          Middlesbrough FC         1-1 (0-1)  Blackburn Rovers
          Millwall FC              2-2 (1-1)  Hull City
@@ -371,14 +371,14 @@ Matchday 21
          Sheffield Wednesday      2-2 (1-0)  Rotherham United
          Stoke City               2-0 (1-0)  Ipswich Town
          Wigan Athletic           0-1 (0-1)  Derby County
-  17.30  Reading FC               0-2 (0-0)  Sheffield United
+  17:30  Reading FC               0-2 (0-0)  Sheffield United
 
 
-Matchday 22
-[Fri Dec/14]
-  19.45  Sheffield United         1-2 (1-1)  West Bromwich Albion
-[Sat Dec/15]
-  15.00  Aston Villa              2-2 (0-0)  Stoke City
+▪ Matchday 22
+Fri Dec 14
+  19:45  Sheffield United         1-2 (1-1)  West Bromwich Albion
+Sat Dec 15
+  15:00  Aston Villa              2-2 (0-0)  Stoke City
          Blackburn Rovers         2-2 (1-0)  Birmingham City
          Bolton Wanderers         0-1 (0-0)  Leeds United
          Hull City                2-0 (2-0)  Brentford FC
@@ -387,14 +387,14 @@ Matchday 22
          Queens Park Rangers      2-1 (1-0)  Middlesbrough FC
          Rotherham United         1-1 (0-1)  Reading FC
          Swansea City             2-1 (0-0)  Sheffield Wednesday
-  17.30  Bristol City             2-2 (1-1)  Norwich City
-[Mon Dec/17]
-  19.45  Derby County             0-0  Nottingham Forest
+  17:30  Bristol City             2-2 (1-1)  Norwich City
+Mon Dec 17
+  19:45  Derby County             0-0  Nottingham Forest
 
 
-Matchday 23
-[Sat Dec/22]
-  15.00  Blackburn Rovers         0-1 (0-0)  Norwich City
+▪ Matchday 23
+Sat Dec 22
+  15:00  Blackburn Rovers         0-1 (0-0)  Norwich City
          Derby County             1-1 (1-1)  Bristol City
          Brentford FC             1-0 (0-0)  Bolton Wanderers
          Reading FC               0-1 (0-0)  Middlesbrough FC
@@ -404,14 +404,14 @@ Matchday 23
          Sheffield Wednesday      1-0 (0-0)  Preston North End
          Stoke City               1-0 (0-0)  Millwall FC
          Wigan Athletic           0-3 (0-2)  Birmingham City
-  17.30  Hull City                3-2 (0-1)  Swansea City
-[Sun Dec/23]
-  13.30  Aston Villa              2-3 (2-0)  Leeds United
+  17:30  Hull City                3-2 (0-1)  Swansea City
+Sun Dec 23
+  13:30  Aston Villa              2-3 (2-0)  Leeds United
 
 
-Matchday 24
-[Wed Dec/26]
-  15.00  Birmingham City          2-0 (1-0)  Stoke City
+▪ Matchday 24
+Wed Dec 26
+  15:00  Birmingham City          2-0 (1-0)  Stoke City
          Bolton Wanderers         2-1 (1-1)  Rotherham United
          Bristol City             1-1 (1-0)  Brentford FC
          Middlesbrough FC         0-1 (0-1)  Sheffield Wednesday
@@ -425,9 +425,9 @@ Matchday 24
          West Bromwich Albion     2-0 (1-0)  Wigan Athletic
 
 
-Matchday 25
-[Sat Dec/29]
-  15.00  Birmingham City          0-0  Brentford FC
+▪ Matchday 25
+Sat Dec 29
+  15:00  Birmingham City          0-0  Brentford FC
          Bolton Wanderers         0-0  Stoke City
          Bristol City             1-0 (0-0)  Rotherham United
          Middlesbrough FC         2-0 (1-0)  Ipswich Town
@@ -441,9 +441,9 @@ Matchday 25
          West Bromwich Albion     1-1 (0-1)  Sheffield Wednesday
 
 
-Matchday 26
-[Tue Jan/1]
-  15.00  Aston Villa              2-2 (1-1)  Queens Park Rangers
+▪ Matchday 26
+Tue Jan 1
+  15:00  Aston Villa              2-2 (1-1)  Queens Park Rangers
          Blackburn Rovers         2-1 (0-0)  West Bromwich Albion
          Derby County             1-1 (1-0)  Middlesbrough FC
          Brentford FC             1-1 (1-0)  Norwich City
@@ -457,11 +457,11 @@ Matchday 26
          Wigan Athletic           0-3 (0-1)  Sheffield United
 
 
-Matchday 27
-[Fri Jan/11]
-  19.45  Leeds United             2-0 (1-0)  Derby County
-[Sat Jan/12]
-  15.00  Birmingham City          1-2 (0-1)  Middlesbrough FC
+▪ Matchday 27
+Fri Jan 11
+  19:45  Leeds United             2-0 (1-0)  Derby County
+Sat Jan 12
+  15:00  Birmingham City          1-2 (0-1)  Middlesbrough FC
          Bristol City             2-1 (0-0)  Bolton Wanderers
          Brentford FC             3-1 (2-1)  Stoke City
          Reading FC               2-0 (1-0)  Nottingham Forest
@@ -471,14 +471,14 @@ Matchday 27
          Sheffield United         1-0 (1-0)  Queens Park Rangers
          West Bromwich Albion     1-1 (1-0)  Norwich City
          Wigan Athletic           3-0 (1-0)  Aston Villa
-  17.30  Millwall FC              0-2 (0-0)  Blackburn Rovers
+  17:30  Millwall FC              0-2 (0-0)  Blackburn Rovers
 
 
-Matchday 28
-[Fri Jan/18]
-  19.45  Norwich City             3-1 (3-1)  Birmingham City
-[Sat Jan/19]
-  15.00  Aston Villa              2-2 (1-2)  Hull City
+▪ Matchday 28
+Fri Jan 18
+  19:45  Norwich City             3-1 (3-1)  Birmingham City
+Sat Jan 19
+  15:00  Aston Villa              2-2 (1-2)  Hull City
          Blackburn Rovers         2-0 (0-0)  Ipswich Town
          Derby County             2-1 (2-0)  Reading FC
          Middlesbrough FC         1-1 (0-1)  Millwall FC
@@ -487,33 +487,33 @@ Matchday 28
          Rotherham United         2-4 (1-1)  Brentford FC
          Sheffield Wednesday      1-0 (0-0)  Wigan Athletic
          Stoke City               2-1 (0-0)  Leeds United
-  17.30  Swansea City             1-0 (0-0)  Sheffield United
-[Mon Jan/21]
-  20.00  Bolton Wanderers         0-2 (0-1)  West Bromwich Albion
+  17:30  Swansea City             1-0 (0-0)  Sheffield United
+Mon Jan 21
+  20:00  Bolton Wanderers         0-2 (0-1)  West Bromwich Albion
 
 
-Matchday 29
-[Sat Jan/26]
-  15.00  Aston Villa              2-1 (1-0)  Ipswich Town
+▪ Matchday 29
+Sat Jan 26
+  15:00  Aston Villa              2-1 (1-0)  Ipswich Town
          Blackburn Rovers         3-0 (2-0)  Hull City
          Norwich City             2-2 (1-1)  Sheffield United
          Nottingham Forest        3-1 (1-1)  Wigan Athletic
          Rotherham United         1-2 (1-0)  Leeds United
          Stoke City               0-2 (0-1)  Preston North End
-[Tue Jan/29]
-  20.00  Bolton Wanderers         1-1 (0-0)  Reading FC
-  19.45  Swansea City             3-3 (1-1)  Birmingham City
+Tue Jan 29
+  20:00  Bolton Wanderers         1-1 (0-0)  Reading FC
+  19:45  Swansea City             3-3 (1-1)  Birmingham City
 
 
-Matchday 30
-[Fri Feb/1]
-  19.45  Preston North End        0-0  Derby County
-[Sat Feb/2]
-  15.00  West Bromwich Albion     2-3 (1-1)  Middlesbrough FC
+▪ Matchday 30
+Fri Feb 1
+  19:45  Preston North End        0-0  Derby County
+Sat Feb 2
+  15:00  West Bromwich Albion     2-3 (1-1)  Middlesbrough FC
          Sheffield United         2-0 (0-0)  Bolton Wanderers
          Wigan Athletic           2-1 (1-0)  Queens Park Rangers
-  17.30  Leeds United             1-3 (0-2)  Norwich City
-  15.00  Birmingham City          2-0 (1-0)  Nottingham Forest
+  17:30  Leeds United             1-3 (0-2)  Norwich City
+  15:00  Birmingham City          2-0 (1-0)  Nottingham Forest
          Bristol City             2-0 (0-0)  Swansea City
          Brentford FC             5-2 (1-2)  Blackburn Rovers
          Millwall FC              0-0  Rotherham United
@@ -522,65 +522,65 @@ Matchday 30
          Ipswich Town             0-1 (0-0)  Sheffield Wednesday
 
 
-Matchday 31
-[Fri Feb/8]
-  19.45  Aston Villa              3-3 (0-1)  Sheffield United
-[Sat Feb/9]
-  15.00  Sheffield Wednesday      0-0  Reading FC
+▪ Matchday 31
+Fri Feb 8
+  19:45  Aston Villa              3-3 (0-1)  Sheffield United
+Sat Feb 9
+  15:00  Sheffield Wednesday      0-0  Reading FC
          Rotherham United         1-1 (1-1)  Wigan Athletic
          Swansea City             1-0 (1-0)  Millwall FC
-  17.30  Stoke City               0-1 (0-1)  West Bromwich Albion
-  13.00  Middlesbrough FC         1-1 (0-0)  Leeds United
-  15.00  Blackburn Rovers         0-1 (0-0)  Bristol City
+  17:30  Stoke City               0-1 (0-1)  West Bromwich Albion
+  13:00  Middlesbrough FC         1-1 (0-0)  Leeds United
+  15:00  Blackburn Rovers         0-1 (0-0)  Bristol City
          Bolton Wanderers         1-2 (0-1)  Preston North End
          Derby County             2-0 (1-0)  Hull City
          Nottingham Forest        2-1 (1-0)  Brentford FC
          Queens Park Rangers      3-4 (1-4)  Birmingham City
-[Sun Feb/10]
-  12.00  Norwich City             3-0 (1-0)  Ipswich Town
+Sun Feb 10
+  12:00  Norwich City             3-0 (1-0)  Ipswich Town
 
 
-Matchday 32
-[Tue Feb/12]
-  19.45  Bristol City             2-1 (0-1)  Queens Park Rangers
+▪ Matchday 32
+Tue Feb 12
+  19:45  Bristol City             2-1 (0-1)  Queens Park Rangers
          Hull City                2-2 (2-0)  Rotherham United
          Millwall FC              0-0  Sheffield Wednesday
          Birmingham City          0-1 (0-0)  Bolton Wanderers
-  20.00  West Bromwich Albion     2-2 (0-1)  Nottingham Forest
-[Wed Feb/13]
-  19.45  Sheffield United         1-0 (0-0)  Middlesbrough FC
+  20:00  West Bromwich Albion     2-2 (0-1)  Nottingham Forest
+Wed Feb 13
+  19:45  Sheffield United         1-0 (0-0)  Middlesbrough FC
          Leeds United             2-1 (2-0)  Swansea City
          Brentford FC             1-0 (0-0)  Aston Villa
          Wigan Athletic           0-0  Stoke City
          Ipswich Town             1-1 (0-1)  Derby County
          Preston North End        3-1 (2-0)  Norwich City
-  20.00  Reading FC               2-1 (1-0)  Blackburn Rovers
+  20:00  Reading FC               2-1 (1-0)  Blackburn Rovers
 
 
-Matchday 33
-[Sat Feb/16]
-  15.00  Sheffield United         4-0 (3-0)  Reading FC
+▪ Matchday 33
+Sat Feb 16
+  15:00  Sheffield United         4-0 (3-0)  Reading FC
          Ipswich Town             1-1 (0-1)  Stoke City
          Preston North End        0-0  Nottingham Forest
          Bolton Wanderers         0-4 (0-3)  Norwich City
-  13.00  Rotherham United         2-2 (1-1)  Sheffield Wednesday
-  15.00  Aston Villa              0-2 (0-2)  West Bromwich Albion
-[Sun Feb/17]
-  13.00  Blackburn Rovers         0-1 (0-1)  Middlesbrough FC
+  13:00  Rotherham United         2-2 (1-1)  Sheffield Wednesday
+  15:00  Aston Villa              0-2 (0-2)  West Bromwich Albion
+Sun Feb 17
+  13:00  Blackburn Rovers         0-1 (0-1)  Middlesbrough FC
 
 
-Matchday 29
-[Tue Feb/19]
-  19.45  Queens Park Rangers      2-3 (1-1)  West Bromwich Albion
-[Wed Feb/20]
-  19.45  Derby County             0-1 (0-0)  Millwall FC
+▪ Matchday 29
+Tue Feb 19
+  19:45  Queens Park Rangers      2-3 (1-1)  West Bromwich Albion
+Wed Feb 20
+  19:45  Derby County             0-1 (0-0)  Millwall FC
 
 
-Matchday 34
-[Sat Feb/23]
-  15.00  Wigan Athletic           1-1 (0-1)  Ipswich Town
-  17.30  West Bromwich Albion     0-1 (0-1)  Sheffield United
-  15.00  Stoke City               1-1 (1-0)  Aston Villa
+▪ Matchday 34
+Sat Feb 23
+  15:00  Wigan Athletic           1-1 (0-1)  Ipswich Town
+  17:30  West Bromwich Albion     0-1 (0-1)  Sheffield United
+  15:00  Stoke City               1-1 (1-0)  Aston Villa
          Sheffield Wednesday      3-1 (3-0)  Swansea City
          Norwich City             3-2 (1-2)  Bristol City
          Leeds United             2-1 (1-1)  Bolton Wanderers
@@ -589,31 +589,31 @@ Matchday 34
          Brentford FC             5-1 (3-1)  Hull City
          Middlesbrough FC         2-0 (2-0)  Queens Park Rangers
          Millwall FC              1-3 (0-3)  Preston North End
-[Mon Feb/25]
-  19.45  Nottingham Forest        1-0 (1-0)  Derby County
+Mon Feb 25
+  19:45  Nottingham Forest        1-0 (1-0)  Derby County
 
 
-Matchday 33
-[Tue Feb/26]
-  19.45  Queens Park Rangers      1-0 (0-0)  Leeds United
+▪ Matchday 33
+Tue Feb 26
+  19:45  Queens Park Rangers      1-0 (0-0)  Leeds United
          Hull City                2-1 (2-1)  Millwall FC
 
 
-Matchday 29
-[Tue Feb/26]
-  19.45  Sheffield Wednesday      2-0 (1-0)  Brentford FC
+▪ Matchday 29
+Tue Feb 26
+  19:45  Sheffield Wednesday      2-0 (1-0)  Brentford FC
 
 
-Matchday 33
-[Tue Feb/26]
-  19.45  Bristol City             1-2 (0-1)  Birmingham City
+▪ Matchday 33
+Tue Feb 26
+  19:45  Bristol City             1-2 (0-1)  Birmingham City
 
 
-Matchday 35
-[Fri Mar/1]
-  19.45  Leeds United             4-0 (2-0)  West Bromwich Albion
-[Sat Mar/2]
-  15.00  Swansea City             2-0 (0-0)  Bolton Wanderers
+▪ Matchday 35
+Fri Mar 1
+  19:45  Leeds United             4-0 (2-0)  West Bromwich Albion
+Sat Mar 2
+  15:00  Swansea City             2-0 (0-0)  Bolton Wanderers
          Stoke City               2-0 (1-0)  Nottingham Forest
          Wigan Athletic           0-0  Middlesbrough FC
          Aston Villa              4-0 (4-0)  Derby County
@@ -623,56 +623,56 @@ Matchday 35
          Ipswich Town             1-2 (0-1)  Reading FC
          Preston North End        1-1 (1-0)  Bristol City
          Rotherham United         3-2 (1-0)  Blackburn Rovers
-[Mon Mar/4]
-  19.45  Sheffield Wednesday      0-0  Sheffield United
+Mon Mar 4
+  19:45  Sheffield Wednesday      0-0  Sheffield United
 
 
-Matchday 33
-[Tue Mar/5]
-  19.45  Derby County             2-1 (0-1)  Wigan Athletic
+▪ Matchday 33
+Tue Mar 5
+  19:45  Derby County             2-1 (0-1)  Wigan Athletic
 
 
-Matchday 36
-[Fri Mar/8]
-  19.45  Norwich City             1-0 (0-0)  Swansea City
-[Sat Mar/9]
-  15.00  Nottingham Forest        3-0 (0-0)  Hull City
+▪ Matchday 36
+Fri Mar 8
+  19:45  Norwich City             1-0 (0-0)  Swansea City
+Sat Mar 9
+  15:00  Nottingham Forest        3-0 (0-0)  Hull City
          West Bromwich Albion     1-1 (1-0)  Ipswich Town
-  12.00  Blackburn Rovers         0-1 (0-1)  Preston North End
-  12.15  Sheffield United         2-0 (1-0)  Rotherham United
-  15.00  Bolton Wanderers         2-1 (0-0)  Millwall FC
+  12:00  Blackburn Rovers         0-1 (0-1)  Preston North End
+  12:15  Sheffield United         2-0 (1-0)  Rotherham United
+  15:00  Bolton Wanderers         2-1 (0-0)  Millwall FC
          Bristol City             0-1 (0-1)  Leeds United
          Derby County             1-1 (1-0)  Sheffield Wednesday
          Middlesbrough FC         1-2 (1-0)  Brentford FC
          Reading FC               3-2 (1-1)  Wigan Athletic
          Queens Park Rangers      0-0  Stoke City
-[Sun Mar/10]
-  12.00  Birmingham City          0-1 (0-0)  Aston Villa
+Sun Mar 10
+  12:00  Birmingham City          0-1 (0-0)  Aston Villa
 
 
-Matchday 37
-[Tue Mar/12]
-  20.00  Bolton Wanderers         0-2 (0-1)  Sheffield Wednesday
-  19.45  Blackburn Rovers         3-0 (1-0)  Wigan Athletic
+▪ Matchday 37
+Tue Mar 12
+  20:00  Bolton Wanderers         0-2 (0-1)  Sheffield Wednesday
+  19:45  Blackburn Rovers         3-0 (1-0)  Wigan Athletic
          Bristol City             1-1 (1-0)  Ipswich Town
          Sheffield United         2-0 (1-0)  Brentford FC
-  20.00  Reading FC               0-3 (0-3)  Leeds United
-[Wed Mar/13]
-  19.45  Queens Park Rangers      1-2 (0-0)  Rotherham United
+  20:00  Reading FC               0-3 (0-3)  Leeds United
+Wed Mar 13
+  19:45  Queens Park Rangers      1-2 (0-0)  Rotherham United
          Norwich City             3-2 (2-1)  Hull City
          Birmingham City          0-2 (0-2)  Millwall FC
          Nottingham Forest        1-3 (1-2)  Aston Villa
          Derby County             0-0  Stoke City
          Middlesbrough FC         1-2 (1-0)  Preston North End
-  20.00  West Bromwich Albion     3-0 (1-0)  Swansea City
+  20:00  West Bromwich Albion     3-0 (1-0)  Swansea City
 
 
-Matchday 38
-[Sat Mar/16]
-  15.00  Preston North End        1-0 (0-0)  Birmingham City
+▪ Matchday 38
+Sat Mar 16
+  15:00  Preston North End        1-0 (0-0)  Birmingham City
          Wigan Athletic           5-2 (1-0)  Bolton Wanderers
-  12.30  Leeds United             0-1 (0-0)  Sheffield United
-  15.00  Aston Villa              3-0 (2-0)  Middlesbrough FC
+  12:30  Leeds United             0-1 (0-0)  Sheffield United
+  15:00  Aston Villa              3-0 (2-0)  Middlesbrough FC
          Brentford FC             0-1 (0-0)  West Bromwich Albion
          Hull City                2-2 (2-0)  Queens Park Rangers
          Ipswich Town             1-1 (1-1)  Nottingham Forest
@@ -681,12 +681,12 @@ Matchday 38
          Sheffield Wednesday      4-2 (1-0)  Blackburn Rovers
 
 
-Matchday 39
-[Fri Mar/29]
-  20.00  West Bromwich Albion     3-2 (0-1)  Birmingham City
-[Sat Mar/30]
-  17.30  Middlesbrough FC         0-1 (0-0)  Norwich City
-  15.00  Wigan Athletic           0-0  Brentford FC
+▪ Matchday 39
+Fri Mar 29
+  20:00  West Bromwich Albion     3-2 (0-1)  Birmingham City
+Sat Mar 30
+  17:30  Middlesbrough FC         0-1 (0-0)  Norwich City
+  15:00  Wigan Athletic           0-0  Brentford FC
          Sheffield United         2-3 (1-1)  Bristol City
          Reading FC               2-1 (2-0)  Preston North End
          Aston Villa              2-1 (1-0)  Blackburn Rovers
@@ -698,22 +698,22 @@ Matchday 39
          Queens Park Rangers      1-2 (0-1)  Bolton Wanderers
 
 
-Matchday 33
-[Tue Apr/2]
-  19.45  Swansea City             3-0 (2-0)  Brentford FC
+▪ Matchday 33
+Tue Apr 2
+  19:45  Swansea City             3-0 (2-0)  Brentford FC
 
 
-Matchday 29
-[Tue Apr/2]
-  19.45  Middlesbrough FC         0-1 (0-1)  Bristol City
+▪ Matchday 29
+Tue Apr 2
+  19:45  Middlesbrough FC         0-1 (0-1)  Bristol City
 
 
-Matchday 40
-[Sat Apr/6]
-  15.00  Brentford FC             3-3 (2-2)  Derby County
+▪ Matchday 40
+Sat Apr 6
+  15:00  Brentford FC             3-3 (2-2)  Derby County
          Sheffield Wednesday      1-3 (1-1)  Aston Villa
-  12.30  Norwich City             4-0 (3-0)  Queens Park Rangers
-  15.00  Birmingham City          1-0 (1-0)  Leeds United
+  12:30  Norwich City             4-0 (3-0)  Queens Park Rangers
+  15:00  Birmingham City          1-0 (1-0)  Leeds United
          Blackburn Rovers         0-1 (0-1)  Stoke City
          Bolton Wanderers         1-2 (0-2)  Ipswich Town
          Bristol City             2-2 (0-1)  Wigan Athletic
@@ -724,16 +724,16 @@ Matchday 40
          Rotherham United         2-1 (1-1)  Nottingham Forest
 
 
-Matchday 41
-[Tue Apr/9]
-  19.45  Swansea City             3-1 (2-1)  Stoke City
-  20.00  Bolton Wanderers         0-2 (0-2)  Middlesbrough FC
-  19.45  Blackburn Rovers         2-0 (0-0)  Derby County
+▪ Matchday 41
+Tue Apr 9
+  19:45  Swansea City             3-1 (2-1)  Stoke City
+  20:00  Bolton Wanderers         0-2 (0-2)  Middlesbrough FC
+  19:45  Blackburn Rovers         2-0 (0-0)  Derby County
          Bristol City             3-2 (3-0)  West Bromwich Albion
          Preston North End        0-2 (0-0)  Leeds United
          Sheffield Wednesday      3-0 (0-0)  Nottingham Forest
-[Wed Apr/10]
-  19.45  Hull City                2-1 (0-1)  Wigan Athletic
+Wed Apr 10
+  19:45  Hull City                2-1 (0-1)  Wigan Athletic
          Norwich City             2-2 (0-1)  Reading FC
          Birmingham City          1-1 (1-1)  Sheffield United
          Brentford FC             2-0 (2-0)  Ipswich Town
@@ -741,10 +741,10 @@ Matchday 41
          Rotherham United         1-2 (1-0)  Aston Villa
 
 
-Matchday 42
-[Sat Apr/13]
-  17.30  Leeds United             1-0 (0-0)  Sheffield Wednesday
-  15.00  Stoke City               2-2 (2-0)  Rotherham United
+▪ Matchday 42
+Sat Apr 13
+  17:30  Leeds United             1-0 (0-0)  Sheffield Wednesday
+  15:00  Stoke City               2-2 (2-0)  Rotherham United
          Aston Villa              2-1 (0-0)  Bristol City
          Derby County             4-0 (2-0)  Bolton Wanderers
          Middlesbrough FC         1-0 (1-0)  Hull City
@@ -754,32 +754,32 @@ Matchday 42
          Queens Park Rangers      4-0 (3-0)  Swansea City
          Sheffield United         1-1 (0-0)  Millwall FC
          West Bromwich Albion     4-1 (3-0)  Preston North End
-[Sun Apr/14]
-  12.00  Wigan Athletic           1-1 (1-0)  Norwich City
+Sun Apr 14
+  12:00  Wigan Athletic           1-1 (1-0)  Norwich City
 
 
-Matchday 43
-[Fri Apr/19]
-  15.00  West Bromwich Albion     3-2 (1-0)  Hull City
+▪ Matchday 43
+Fri Apr 19
+  15:00  West Bromwich Albion     3-2 (1-0)  Hull City
          Queens Park Rangers      1-2 (0-1)  Blackburn Rovers
-  12.00  Bristol City             1-1 (0-0)  Reading FC
-  12.30  Sheffield United         2-0 (0-0)  Nottingham Forest
-  13.00  Millwall FC              1-1 (1-1)  Brentford FC
-  15.00  Birmingham City          2-2 (2-2)  Derby County
+  12:00  Bristol City             1-1 (0-0)  Reading FC
+  12:30  Sheffield United         2-0 (0-0)  Nottingham Forest
+  13:00  Millwall FC              1-1 (1-1)  Brentford FC
+  15:00  Birmingham City          2-2 (2-2)  Derby County
          Bolton Wanderers         0-2 (0-0)  Aston Villa
          Middlesbrough FC         1-0 (1-0)  Stoke City
          Leeds United             1-2 (1-1)  Wigan Athletic
          Preston North End        4-0 (2-0)  Ipswich Town
          Swansea City             4-3 (1-2)  Rotherham United
-  19.45  Norwich City             2-2 (1-1)  Sheffield Wednesday
+  19:45  Norwich City             2-2 (1-1)  Sheffield Wednesday
 
 
-Matchday 44
-[Mon Apr/22]
-  17.15  Brentford FC             2-0 (1-0)  Leeds United
-  15.00  Derby County             2-0 (0-0)  Queens Park Rangers
-  13.00  Aston Villa              1-0 (1-0)  Millwall FC
-  15.00  Blackburn Rovers         2-0 (1-0)  Bolton Wanderers
+▪ Matchday 44
+Mon Apr 22
+  17:15  Brentford FC             2-0 (1-0)  Leeds United
+  15:00  Derby County             2-0 (0-0)  Queens Park Rangers
+  13:00  Aston Villa              1-0 (1-0)  Millwall FC
+  15:00  Blackburn Rovers         2-0 (1-0)  Bolton Wanderers
          Wigan Athletic           2-0 (1-0)  Preston North End
          Reading FC               0-0  West Bromwich Albion
          Hull City                0-3 (0-3)  Sheffield United
@@ -790,33 +790,33 @@ Matchday 44
          Stoke City               2-2 (0-1)  Norwich City
 
 
-Matchday 45
-[Sat Apr/27]
-  15.00  Preston North End        3-3 (2-0)  Sheffield Wednesday
-  19.30  Norwich City             2-1 (2-1)  Blackburn Rovers
+▪ Matchday 45
+Sat Apr 27
+  15:00  Preston North End        3-3 (2-0)  Sheffield Wednesday
+  19:30  Norwich City             2-1 (2-1)  Blackburn Rovers
   Bolton Wanderers         0-1  Brentford FC             [awarded]
-  13.30  Millwall FC              0-0  Stoke City
-  15.00  Birmingham City          1-1 (1-1)  Wigan Athletic
+  13:30  Millwall FC              0-0  Stoke City
+  15:00  Birmingham City          1-1 (1-1)  Wigan Athletic
          Bristol City             0-2 (0-1)  Derby County
          Middlesbrough FC         2-1 (2-1)  Reading FC
          West Bromwich Albion     2-1 (0-0)  Rotherham United
          Queens Park Rangers      0-1 (0-0)  Nottingham Forest
          Swansea City             2-2 (1-0)  Hull City
-  17.15  Sheffield United         2-0 (1-0)  Ipswich Town
-[Sun Apr/28]
-  12.00  Leeds United             1-1 (0-0)  Aston Villa
+  17:15  Sheffield United         2-0 (1-0)  Ipswich Town
+Sun Apr 28
+  12:00  Leeds United             1-1 (0-0)  Aston Villa
 
 
-Matchday 38
-[Tue Apr/30]
-  19.45  Millwall FC              1-2 (1-0)  Bristol City
-[Wed May/1]
-  19.45  Swansea City             1-1 (0-1)  Derby County
+▪ Matchday 38
+Tue Apr 30
+  19:45  Millwall FC              1-2 (1-0)  Bristol City
+Wed May 1
+  19:45  Swansea City             1-1 (0-1)  Derby County
 
 
-Matchday 46
-[Sun May/5]
-  12.30  Aston Villa              1-2 (1-1)  Norwich City
+▪ Matchday 46
+Sun May 5
+  12:30  Aston Villa              1-2 (1-1)  Norwich City
          Blackburn Rovers         2-2 (1-2)  Swansea City
          Derby County             3-1 (1-0)  West Bromwich Albion
          Brentford FC             3-0 (1-0)  Preston North End

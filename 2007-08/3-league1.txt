@@ -1,14 +1,14 @@
 = English League One 2007/08
 
-# Date       Sat Aug/11 2007 - Sat May/3 2008 (266d)
+# Date       Sat Aug 11 2007 - Sat May 3 2008 (266d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/11]
-  15.00  Cheltenham Town          1-0 (1-0)  Gillingham FC
+▪ Matchday 1
+Sat Aug 11
+  15:00  Cheltenham Town          1-0 (1-0)  Gillingham FC
          Crewe Alexandra          2-1 (1-1)  Brighton & Hove Albion
          Doncaster Rovers         0-0  Millwall FC
          Huddersfield Town        1-0 (1-0)  Yeovil Town
@@ -22,9 +22,9 @@ Matchday 1
          Walsall FC               1-1 (0-1)  Carlisle United
 
 
-Matchday 2
-[Sat Aug/18]
-  15.00  AFC Bournemouth          0-1 (0-1)  Huddersfield Town
+▪ Matchday 2
+Sat Aug 18
+  15:00  AFC Bournemouth          0-1 (0-1)  Huddersfield Town
          Brighton & Hove Albion   2-1 (1-1)  Northampton Town
          Bristol Rovers           1-1 (1-1)  Crewe Alexandra
          Carlisle United          1-0 (1-0)  Oldham Athletic
@@ -38,10 +38,10 @@ Matchday 2
          Yeovil Town              1-0 (1-0)  Port Vale FC
 
 
-Matchday 3
-[Sat Aug/25]
-  13.00  Nottingham Forest        1-2 (0-1)  Leeds United
-  15.00  Cheltenham Town          1-1 (0-1)  Swindon Town
+▪ Matchday 3
+Sat Aug 25
+  13:00  Nottingham Forest        1-2 (0-1)  Leeds United
+  15:00  Cheltenham Town          1-1 (0-1)  Swindon Town
          Crewe Alexandra          0-2 (0-1)  Leyton Orient
          Doncaster Rovers         1-2 (1-1)  AFC Bournemouth
          Huddersfield Town        0-2 (0-2)  Carlisle United
@@ -54,9 +54,9 @@ Matchday 3
          Walsall FC               1-3 (1-2)  Swansea City
 
 
-Matchday 4
-[Sat Sep/1]
-  15.00  AFC Bournemouth          0-1 (0-0)  Port Vale FC
+▪ Matchday 4
+Sat Sep 1
+  15:00  AFC Bournemouth          0-1 (0-0)  Port Vale FC
          Brighton & Hove Albion   3-2 (0-1)  Southend United
          Bristol Rovers           2-2 (2-2)  Nottingham Forest
          Carlisle United          1-0 (0-0)  Cheltenham Town
@@ -70,29 +70,29 @@ Matchday 4
          Yeovil Town              1-1 (0-0)  Tranmere Rovers
 
 
-Matchday 5
-[Fri Sep/7]
-  19.45  Brighton & Hove Albion   3-0 (2-0)  Millwall FC
+▪ Matchday 5
+Fri Sep 7
+  19:45  Brighton & Hove Albion   3-0 (2-0)  Millwall FC
          Northampton Town         2-0 (0-0)  Doncaster Rovers
-[Sat Sep/8]
-  12.00  Luton Town               1-2 (1-1)  Bristol Rovers
-  13.00  Southend United          3-0 (2-0)  Gillingham FC
+Sat Sep 8
+  12:00  Luton Town               1-2 (1-1)  Bristol Rovers
+  13:00  Southend United          3-0 (2-0)  Gillingham FC
          Walsall FC               0-0  Port Vale FC
-  15.00  Carlisle United          0-1 (0-1)  Tranmere Rovers
+  15:00  Carlisle United          0-1 (0-1)  Tranmere Rovers
          Crewe Alexandra          2-0 (2-0)  Huddersfield Town
          Leeds United             2-0 (1-0)  Hartlepool United
          Leyton Orient            1-0 (0-0)  AFC Bournemouth
-[Sun Sep/9]
-  16.00  Swindon Town             0-1 (0-0)  Yeovil Town
+Sun Sep 9
+  16:00  Swindon Town             0-1 (0-0)  Yeovil Town
 
 
-Matchday 6
-[Fri Sep/14]
-  19.45  Swansea City             2-1 (0-0)  Carlisle United
+▪ Matchday 6
+Fri Sep 14
+  19:45  Swansea City             2-1 (0-0)  Carlisle United
          Bristol Rovers           0-3 (0-1)  Leeds United
          Tranmere Rovers          2-1 (0-1)  Luton Town
-[Sat Sep/15]
-  15.00  Port Vale FC             0-2 (0-1)  Nottingham Forest
+Sat Sep 15
+  15:00  Port Vale FC             0-2 (0-1)  Nottingham Forest
          Yeovil Town              0-1 (0-0)  Leyton Orient
          AFC Bournemouth          1-1 (1-0)  Northampton Town
          Gillingham FC            1-0 (0-0)  Brighton & Hove Albion
@@ -100,18 +100,18 @@ Matchday 6
          Huddersfield Town        2-3 (0-0)  Cheltenham Town
          Millwall FC              1-2 (0-1)  Walsall FC
          Oldham Athletic          0-1 (0-1)  Southend United
-[Sun Sep/16]
-  15.00  Doncaster Rovers         2-0 (1-0)  Crewe Alexandra
+Sun Sep 16
+  15:00  Doncaster Rovers         2-0 (1-0)  Crewe Alexandra
 
 
-Matchday 5
-[Tue Sep/18]
-  19.45  Cheltenham Town          1-2 (1-0)  Swansea City
+▪ Matchday 5
+Tue Sep 18
+  19:45  Cheltenham Town          1-2 (1-0)  Swansea City
 
 
-Matchday 7
-[Sat Sep/22]
-  15.00  Swindon Town             4-1 (1-1)  AFC Bournemouth
+▪ Matchday 7
+Sat Sep 22
+  15:00  Swindon Town             4-1 (1-1)  AFC Bournemouth
          Brighton & Hove Albion   1-2 (0-2)  Yeovil Town
          Carlisle United          1-1 (0-1)  Bristol Rovers
          Cheltenham Town          1-1 (0-1)  Tranmere Rovers
@@ -125,12 +125,12 @@ Matchday 7
          Walsall FC               0-3 (0-1)  Oldham Athletic
 
 
-Matchday 8
-[Sat Sep/29]
-  15.00  Yeovil Town              0-3 (0-0)  Nottingham Forest
-  12.00  Huddersfield Town        2-0 (1-0)  Luton Town
-  13.30  Swansea City             0-0  Brighton & Hove Albion
-  15.00  AFC Bournemouth          1-3 (0-2)  Carlisle United
+▪ Matchday 8
+Sat Sep 29
+  15:00  Yeovil Town              0-3 (0-0)  Nottingham Forest
+  12:00  Huddersfield Town        2-0 (1-0)  Luton Town
+  13:30  Swansea City             0-0  Brighton & Hove Albion
+  15:00  AFC Bournemouth          1-3 (0-2)  Carlisle United
          Bristol Rovers           2-3 (1-0)  Leyton Orient
          Doncaster Rovers         2-0 (1-0)  Cheltenham Town
          Gillingham FC            1-1 (0-1)  Leeds United
@@ -141,9 +141,9 @@ Matchday 8
          Tranmere Rovers          2-2 (0-2)  Northampton Town
 
 
-Matchday 9
-[Tue Oct/2]
-  19.45  Hartlepool United        2-2 (1-2)  Carlisle United
+▪ Matchday 9
+Tue Oct 2
+  19:45  Hartlepool United        2-2 (1-2)  Carlisle United
          AFC Bournemouth          0-2 (0-0)  Brighton & Hove Albion
          Bristol Rovers           1-1 (1-0)  Southend United
          Doncaster Rovers         2-3 (2-1)  Walsall FC
@@ -157,9 +157,9 @@ Matchday 9
          Tranmere Rovers          1-1 (0-0)  Crewe Alexandra
 
 
-Matchday 10
-[Sat Oct/6]
-  15.00  Swindon Town             5-0 (2-0)  Gillingham FC
+▪ Matchday 10
+Sat Oct 6
+  15:00  Swindon Town             5-0 (2-0)  Gillingham FC
          Brighton & Hove Albion   0-0  Bristol Rovers
          Carlisle United          4-0 (4-0)  Millwall FC
          Cheltenham Town          1-1 (1-0)  Oldham Athletic
@@ -173,27 +173,27 @@ Matchday 10
          Walsall FC               4-0 (2-0)  Huddersfield Town
 
 
-Matchday 11
-[Fri Oct/12]
-  19.45  Hartlepool United        1-0 (1-0)  Bristol Rovers
+▪ Matchday 11
+Fri Oct 12
+  19:45  Hartlepool United        1-0 (1-0)  Bristol Rovers
          Tranmere Rovers          0-0  Walsall FC
-[Sat Oct/13]
-  13.00  Cheltenham Town          0-3 (0-2)  Nottingham Forest
-  12.00  Gillingham FC            1-1 (1-0)  Millwall FC
-  15.00  Leeds United             1-1 (0-1)  Leyton Orient
-  13.00  Port Vale FC             0-1 (0-0)  Brighton & Hove Albion
+Sat Oct 13
+  13:00  Cheltenham Town          0-3 (0-2)  Nottingham Forest
+  12:00  Gillingham FC            1-1 (1-0)  Millwall FC
+  15:00  Leeds United             1-1 (0-1)  Leyton Orient
+  13:00  Port Vale FC             0-1 (0-0)  Brighton & Hove Albion
          Southend United          3-0 (1-0)  Crewe Alexandra
          Yeovil Town              2-1 (0-0)  Carlisle United
-[Sun Oct/14]
-  16.00  Doncaster Rovers         2-0 (1-0)  Huddersfield Town
-  14.00  AFC Bournemouth          1-4 (1-2)  Swansea City
-[Mon Oct/15]
-  19.45  Luton Town               4-1 (1-1)  Northampton Town
+Sun Oct 14
+  16:00  Doncaster Rovers         2-0 (1-0)  Huddersfield Town
+  14:00  AFC Bournemouth          1-4 (1-2)  Swansea City
+Mon Oct 15
+  19:45  Luton Town               4-1 (1-1)  Northampton Town
 
 
-Matchday 12
-[Sat Oct/20]
-  15.00  Walsall FC               0-2 (0-1)  Southend United
+▪ Matchday 12
+Sat Oct 20
+  15:00  Walsall FC               0-2 (0-1)  Southend United
          Swindon Town             1-0 (0-0)  Tranmere Rovers
          Brighton & Hove Albion   0-1 (0-0)  Leeds United
          Bristol Rovers           1-1 (0-0)  Yeovil Town
@@ -206,11 +206,11 @@ Matchday 12
          Nottingham Forest        0-0  Doncaster Rovers
 
 
-Matchday 13
-[Fri Oct/26]
-  19.45  Tranmere Rovers          3-0 (1-0)  Huddersfield Town
-[Sat Oct/27]
-  15.00  Port Vale FC             2-1 (2-1)  Swindon Town
+▪ Matchday 13
+Fri Oct 26
+  19:45  Tranmere Rovers          3-0 (1-0)  Huddersfield Town
+Sat Oct 27
+  15:00  Port Vale FC             2-1 (2-1)  Swindon Town
          Southend United          0-1 (0-0)  Carlisle United
          Yeovil Town              1-2 (0-1)  Swansea City
          AFC Bournemouth          1-1 (1-0)  Walsall FC
@@ -220,23 +220,23 @@ Matchday 13
          Leeds United             4-2 (1-0)  Millwall FC
          Luton Town               2-1 (0-0)  Nottingham Forest
          Oldham Athletic          0-1 (0-0)  Northampton Town
-[Sun Oct/28]
-  15.00  Doncaster Rovers         4-2 (0-0)  Leyton Orient
+Sun Oct 28
+  15:00  Doncaster Rovers         4-2 (0-0)  Leyton Orient
 
 
-Matchday 5
-[Tue Oct/30]
-  19.45  Nottingham Forest        0-0  Oldham Athletic
+▪ Matchday 5
+Tue Oct 30
+  19:45  Nottingham Forest        0-0  Oldham Athletic
 
 
-Matchday 14
-[Fri Nov/2]
-  19.45  Swansea City             1-1 (0-1)  Gillingham FC
-[Sat Nov/3]
-  15.00  Swindon Town             1-2 (0-1)  Doncaster Rovers
+▪ Matchday 14
+Fri Nov 2
+  19:45  Swansea City             1-1 (0-1)  Gillingham FC
+Sat Nov 3
+  15:00  Swindon Town             1-2 (0-1)  Doncaster Rovers
          Nottingham Forest        2-0 (0-0)  Tranmere Rovers
-  13.00  Millwall FC              0-1 (0-0)  Hartlepool United
-  15.00  Brighton & Hove Albion   3-1 (1-0)  Luton Town
+  13:00  Millwall FC              0-1 (0-0)  Hartlepool United
+  15:00  Brighton & Hove Albion   3-1 (1-0)  Luton Town
          Bristol Rovers           0-2 (0-1)  AFC Bournemouth
          Carlisle United          3-1 (0-1)  Leeds United
          Crewe Alexandra          2-0 (2-0)  Yeovil Town
@@ -246,11 +246,11 @@ Matchday 14
          Walsall FC               2-0 (1-0)  Cheltenham Town
 
 
-Matchday 15
-[Tue Nov/6]
-  19.45  Luton Town               0-0  Carlisle United
-  20.00  AFC Bournemouth          1-3 (1-1)  Leeds United
-  19.45  Brighton & Hove Albion   1-1 (1-0)  Walsall FC
+▪ Matchday 15
+Tue Nov 6
+  19:45  Luton Town               0-0  Carlisle United
+  20:00  AFC Bournemouth          1-3 (1-1)  Leeds United
+  19:45  Brighton & Hove Albion   1-1 (1-0)  Walsall FC
          Cheltenham Town          1-1 (0-1)  Yeovil Town
          Gillingham FC            1-1 (1-0)  Doncaster Rovers
          Huddersfield Town        2-0 (1-0)  Hartlepool United
@@ -262,26 +262,26 @@ Matchday 15
          Swindon Town             1-1 (0-0)  Leyton Orient
 
 
-Matchday 16
-[Fri Nov/16]
-  19.45  Swansea City             0-1 (0-0)  Huddersfield Town
-[Sat Nov/17]
-  15.00  Southend United          2-2 (0-2)  Cheltenham Town
+▪ Matchday 16
+Fri Nov 16
+  19:45  Swansea City             0-1 (0-0)  Huddersfield Town
+Sat Nov 17
+  15:00  Southend United          2-2 (0-2)  Cheltenham Town
          Doncaster Rovers         0-0  Tranmere Rovers
-  12.30  Leyton Orient            2-2 (1-0)  Brighton & Hove Albion
-  15.00  Bristol Rovers           2-1 (0-1)  Millwall FC
+  12:30  Leyton Orient            2-2 (1-0)  Brighton & Hove Albion
+  15:00  Bristol Rovers           2-1 (0-1)  Millwall FC
          Crewe Alexandra          1-0 (0-0)  Northampton Town
          Oldham Athletic          1-1 (1-1)  Port Vale FC
          Leeds United             2-1 (1-0)  Swindon Town
          Walsall FC               0-0  Luton Town
-[Sun Nov/18]
-  13.30  Yeovil Town              2-1 (0-0)  Gillingham FC
-  16.00  Hartlepool United        1-1 (1-1)  AFC Bournemouth
+Sun Nov 18
+  13:30  Yeovil Town              2-1 (0-0)  Gillingham FC
+  16:00  Hartlepool United        1-1 (1-1)  AFC Bournemouth
 
 
-Matchday 17
-[Sat Nov/24]
-  15.00  Tranmere Rovers          0-1 (0-0)  Swansea City
+▪ Matchday 17
+Sat Nov 24
+  15:00  Tranmere Rovers          0-1 (0-0)  Swansea City
          Swindon Town             1-0 (0-0)  Bristol Rovers
          Port Vale FC             1-3 (1-0)  Doncaster Rovers
          AFC Bournemouth          0-3 (0-0)  Oldham Athletic
@@ -292,18 +292,18 @@ Matchday 17
          Millwall FC              2-1 (0-0)  Yeovil Town
          Northampton Town         0-2 (0-1)  Walsall FC
          Nottingham Forest        2-0 (1-0)  Crewe Alexandra
-[Sun Nov/25]
-  14.00  Cheltenham Town          1-0 (0-0)  Leeds United
+Sun Nov 25
+  14:00  Cheltenham Town          1-0 (0-0)  Leeds United
 
 
-Matchday 12
-[Tue Nov/27]
-  19.45  Swansea City             1-0 (0-0)  Hartlepool United
+▪ Matchday 12
+Tue Nov 27
+  19:45  Swansea City             1-0 (0-0)  Hartlepool United
 
 
-Matchday 18
-[Tue Dec/4]
-  19.45  Leeds United             3-0 (1-0)  Port Vale FC
+▪ Matchday 18
+Tue Dec 4
+  19:45  Leeds United             3-0 (1-0)  Port Vale FC
          Yeovil Town              2-1 (2-0)  AFC Bournemouth
          Carlisle United          3-0 (1-0)  Swindon Town
          Crewe Alexandra          2-3 (1-1)  Gillingham FC
@@ -313,30 +313,30 @@ Matchday 18
          Leyton Orient            0-1 (0-1)  Millwall FC
          Oldham Athletic          1-1 (1-1)  Luton Town
          Swansea City             3-0 (2-0)  Northampton Town
-[Wed Dec/5]
-  19.45  Southend United          4-1 (1-0)  Huddersfield Town
+Wed Dec 5
+  19:45  Southend United          4-1 (1-0)  Huddersfield Town
 
 
-Matchday 19
-[Fri Dec/7]
-  19.45  Brighton & Hove Albion   0-2 (0-1)  Nottingham Forest
-[Sat Dec/8]
-  15.00  Tranmere Rovers          3-1 (2-0)  AFC Bournemouth
+▪ Matchday 19
+Fri Dec 7
+  19:45  Brighton & Hove Albion   0-2 (0-1)  Nottingham Forest
+Sat Dec 8
+  15:00  Tranmere Rovers          3-1 (2-0)  AFC Bournemouth
          Yeovil Town              3-1 (2-1)  Hartlepool United
          Leyton Orient            2-0 (1-0)  Cheltenham Town
-  12.15  Leeds United             4-0 (1-0)  Huddersfield Town
-  15.00  Crewe Alexandra          0-0  Walsall FC
+  12:15  Leeds United             4-0 (1-0)  Huddersfield Town
+  15:00  Crewe Alexandra          0-0  Walsall FC
          Gillingham FC            1-2 (1-2)  Port Vale FC
          Oldham Athletic          1-1 (1-0)  Doncaster Rovers
          Northampton Town         2-2 (1-1)  Carlisle United
          Southend United          2-1 (1-1)  Swindon Town
 
 
-Matchday 20
-[Fri Dec/14]
-  19.45  Cheltenham Town          1-0 (1-0)  Luton Town
-[Sat Dec/15]
-  15.00  Swindon Town             0-3 (0-2)  Brighton & Hove Albion
+▪ Matchday 20
+Fri Dec 14
+  19:45  Cheltenham Town          1-0 (1-0)  Luton Town
+Sat Dec 15
+  15:00  Swindon Town             0-3 (0-2)  Brighton & Hove Albion
          Port Vale FC             0-0  Tranmere Rovers
          Nottingham Forest        2-2 (1-0)  Northampton Town
          Walsall FC               1-1 (0-0)  Leeds United
@@ -346,15 +346,15 @@ Matchday 20
          Hartlepool United        3-0 (0-0)  Crewe Alexandra
          Huddersfield Town        2-1 (1-0)  Bristol Rovers
          Millwall FC              2-3 (2-1)  Oldham Athletic
-[Sun Dec/16]
-  15.00  Doncaster Rovers         1-2 (0-1)  Yeovil Town
+Sun Dec 16
+  15:00  Doncaster Rovers         1-2 (0-1)  Yeovil Town
 
 
-Matchday 21
-[Fri Dec/21]
-  19.45  Northampton Town         4-1 (2-1)  AFC Bournemouth
-[Sat Dec/22]
-  15.00  Nottingham Forest        2-0 (1-0)  Port Vale FC
+▪ Matchday 21
+Fri Dec 21
+  19:45  Northampton Town         4-1 (2-1)  AFC Bournemouth
+Sat Dec 22
+  15:00  Nottingham Forest        2-0 (1-0)  Port Vale FC
          Luton Town               1-0 (0-0)  Tranmere Rovers
          Southend United          0-1 (0-1)  Oldham Athletic
          Swindon Town             2-1 (0-1)  Hartlepool United
@@ -365,25 +365,25 @@ Matchday 21
          Leyton Orient            0-0  Yeovil Town
 
 
-Matchday 22
-[Wed Dec/26]
-  15.00  Port Vale FC             1-1 (1-0)  Walsall FC
+▪ Matchday 22
+Wed Dec 26
+  15:00  Port Vale FC             1-1 (1-0)  Walsall FC
          Oldham Athletic          0-0  Nottingham Forest
          Huddersfield Town        1-1 (0-1)  Crewe Alexandra
          Doncaster Rovers         2-0 (2-0)  Northampton Town
          Tranmere Rovers          2-0 (2-0)  Carlisle United
          Bristol Rovers           1-1 (1-0)  Luton Town
          AFC Bournemouth          3-1 (1-0)  Leyton Orient
-  12.00  Hartlepool United        1-1 (1-0)  Leeds United
-  13.00  Gillingham FC            1-1 (0-0)  Southend United
+  12:00  Hartlepool United        1-1 (1-0)  Leeds United
+  13:00  Gillingham FC            1-1 (0-0)  Southend United
          Millwall FC              3-0 (1-0)  Brighton & Hove Albion
-  14.00  Swansea City             4-1 (2-0)  Cheltenham Town
+  14:00  Swansea City             4-1 (2-0)  Cheltenham Town
          Yeovil Town              0-1 (0-0)  Swindon Town
 
 
-Matchday 23
-[Sat Dec/29]
-  15.00  Millwall FC              2-0 (1-0)  Crewe Alexandra
+▪ Matchday 23
+Sat Dec 29
+  15:00  Millwall FC              2-0 (1-0)  Crewe Alexandra
          Oldham Athletic          0-2 (0-1)  Walsall FC
          Port Vale FC             1-2 (1-1)  Luton Town
          Swansea City             3-2 (3-1)  Leeds United
@@ -397,37 +397,37 @@ Matchday 23
          Hartlepool United        1-1 (0-1)  Leyton Orient
 
 
-Matchday 24
-[Tue Jan/1]
-  15.00  Leeds United             1-3 (0-3)  Oldham Athletic
+▪ Matchday 24
+Tue Jan 1
+  15:00  Leeds United             1-3 (0-3)  Oldham Athletic
          Leyton Orient            0-0  Gillingham FC
          Luton Town               1-0 (0-0)  Yeovil Town
          Northampton Town         1-1 (1-0)  Millwall FC
          Nottingham Forest        2-1 (0-1)  Huddersfield Town
          Walsall FC               1-1 (0-1)  Doncaster Rovers
          Crewe Alexandra          4-3 (1-2)  Tranmere Rovers
-  13.00  Carlisle United          4-2 (1-1)  Hartlepool United
+  13:00  Carlisle United          4-2 (1-1)  Hartlepool United
          Southend United          0-1 (0-0)  Bristol Rovers
          Swindon Town             1-1 (0-0)  Swansea City
-  15.00  Brighton & Hove Albion   3-2 (1-1)  AFC Bournemouth
-[Wed Jan/2]
-  19.45  Cheltenham Town          1-0 (1-0)  Port Vale FC
+  15:00  Brighton & Hove Albion   3-2 (1-1)  AFC Bournemouth
+Wed Jan 2
+  19:45  Cheltenham Town          1-0 (1-0)  Port Vale FC
 
 
-Matchday 25
-[Sat Jan/5]
-  15.00  Leeds United             3-0 (1-0)  Northampton Town
+▪ Matchday 25
+Sat Jan 5
+  15:00  Leeds United             3-0 (1-0)  Northampton Town
          Carlisle United          3-2 (0-2)  Port Vale FC
-[Tue Jan/8]
-  19.45  Leyton Orient            3-0 (1-0)  Tranmere Rovers
+Tue Jan 8
+  19:45  Leyton Orient            3-0 (1-0)  Tranmere Rovers
          Yeovil Town              0-2 (0-0)  Walsall FC
 
 
-Matchday 26
-[Fri Jan/11]
-  19.45  Tranmere Rovers          0-2 (0-1)  Bristol Rovers
-[Sat Jan/12]
-  15.00  Oldham Athletic          1-1 (1-0)  Brighton & Hove Albion
+▪ Matchday 26
+Fri Jan 11
+  19:45  Tranmere Rovers          0-2 (0-1)  Bristol Rovers
+Sat Jan 12
+  15:00  Oldham Athletic          1-1 (1-0)  Brighton & Hove Albion
          Port Vale FC             3-1 (1-1)  Millwall FC
          Southend United          1-1 (1-0)  Yeovil Town
          Walsall FC               2-2 (1-0)  Swindon Town
@@ -437,15 +437,15 @@ Matchday 26
          Doncaster Rovers         1-0 (0-0)  Carlisle United
          Cheltenham Town          1-0 (0-0)  AFC Bournemouth
          Nottingham Forest        4-0 (1-0)  Leyton Orient
-[Mon Jan/14]
-  19.45  Crewe Alexandra          0-1 (0-1)  Leeds United
+Mon Jan 14
+  19:45  Crewe Alexandra          0-1 (0-1)  Leeds United
 
 
-Matchday 27
-[Fri Jan/18]
-  19.45  Hartlepool United        0-2 (0-1)  Cheltenham Town
-[Sat Jan/19]
-  15.00  Swansea City             2-0 (1-0)  Port Vale FC
+▪ Matchday 27
+Fri Jan 18
+  19:45  Hartlepool United        0-2 (0-1)  Cheltenham Town
+Sat Jan 19
+  15:00  Swansea City             2-0 (1-0)  Port Vale FC
          Swindon Town             2-1 (1-0)  Nottingham Forest
          Yeovil Town              0-0  Oldham Athletic
          Millwall FC              0-1 (0-0)  Tranmere Rovers
@@ -458,32 +458,32 @@ Matchday 27
          AFC Bournemouth          1-4 (0-3)  Southend United
 
 
-Matchday 25
-[Tue Jan/22]
-  19.45  Gillingham FC            0-0  Oldham Athletic
+▪ Matchday 25
+Tue Jan 22
+  19:45  Gillingham FC            0-0  Oldham Athletic
          Hartlepool United        4-3 (1-1)  Southend United
          Swansea City             2-1 (1-0)  Crewe Alexandra
          AFC Bournemouth          4-3 (2-1)  Luton Town
-[Wed Jan/23]
-  19.45  Millwall FC              2-2 (1-0)  Nottingham Forest
+Wed Jan 23
+  19:45  Millwall FC              2-2 (1-0)  Nottingham Forest
 
 
-Matchday 28
-[Fri Jan/25]
-  19.45  Doncaster Rovers         0-4 (0-1)  Swansea City
+▪ Matchday 28
+Fri Jan 25
+  19:45  Doncaster Rovers         0-4 (0-1)  Swansea City
          Northampton Town         2-0 (1-0)  Leyton Orient
          Cheltenham Town          1-0 (1-0)  Carlisle United
-[Sat Jan/26]
-  15.00  Port Vale FC             1-3 (0-2)  AFC Bournemouth
+Sat Jan 26
+  15:00  Port Vale FC             1-3 (0-2)  AFC Bournemouth
          Luton Town               1-1 (0-1)  Leeds United
          Crewe Alexandra          0-0  Swindon Town
          Tranmere Rovers          2-1 (1-0)  Yeovil Town
          Walsall FC               2-1 (1-0)  Gillingham FC
 
 
-Matchday 29
-[Tue Jan/29]
-  19.45  Huddersfield Town        1-0 (1-0)  AFC Bournemouth
+▪ Matchday 29
+Tue Jan 29
+  19:45  Huddersfield Town        1-0 (1-0)  AFC Bournemouth
          Luton Town               0-1 (0-0)  Swindon Town
          Northampton Town         1-0 (1-0)  Brighton & Hove Albion
          Nottingham Forest        0-0  Swansea City
@@ -497,9 +497,9 @@ Matchday 29
          Cheltenham Town          0-1 (0-0)  Millwall FC
 
 
-Matchday 30
-[Sat Feb/2]
-  15.00  Leyton Orient            2-2 (0-1)  Southend United
+▪ Matchday 30
+Sat Feb 2
+  15:00  Leyton Orient            2-2 (0-1)  Southend United
          Yeovil Town              0-2 (0-1)  Huddersfield Town
          Swindon Town             1-1 (0-0)  Northampton Town
          Millwall FC              0-3 (0-1)  Doncaster Rovers
@@ -510,17 +510,17 @@ Matchday 30
          Bristol Rovers           3-2 (1-1)  Port Vale FC
          Brighton & Hove Albion   3-0 (3-0)  Crewe Alexandra
          AFC Bournemouth          2-0 (2-0)  Nottingham Forest
-  14.00  Swansea City             2-1 (0-0)  Oldham Athletic
+  14:00  Swansea City             2-1 (0-0)  Oldham Athletic
 
 
-Matchday 18
-[Tue Feb/5]
-  19.45  Bristol Rovers           2-0 (1-0)  Cheltenham Town
+▪ Matchday 18
+Tue Feb 5
+  19:45  Bristol Rovers           2-0 (1-0)  Cheltenham Town
 
 
-Matchday 31
-[Sat Feb/9]
-  15.00  Walsall FC               2-0 (0-0)  Yeovil Town
+▪ Matchday 31
+Sat Feb 9
+  15:00  Walsall FC               2-0 (0-0)  Yeovil Town
          Southend United          2-1 (0-1)  Hartlepool United
          Tranmere Rovers          1-1 (1-0)  Leyton Orient
          Oldham Athletic          2-1 (1-1)  Gillingham FC
@@ -534,9 +534,9 @@ Matchday 31
          Cheltenham Town          2-1 (0-0)  Brighton & Hove Albion
 
 
-Matchday 32
-[Tue Feb/12]
-  19.45  Leyton Orient            0-1 (0-1)  Crewe Alexandra
+▪ Matchday 32
+Tue Feb 12
+  19:45  Leyton Orient            0-1 (0-1)  Crewe Alexandra
          Swansea City             1-0 (0-0)  Walsall FC
          Millwall FC              2-1 (1-1)  Southend United
          Yeovil Town              1-0 (0-0)  Northampton Town
@@ -549,9 +549,9 @@ Matchday 32
          Leeds United             1-1 (0-0)  Nottingham Forest
 
 
-Matchday 33
-[Sat Feb/16]
-  15.00  Port Vale FC             0-2 (0-0)  Swansea City
+▪ Matchday 33
+Sat Feb 16
+  15:00  Port Vale FC             0-2 (0-0)  Swansea City
          Oldham Athletic          3-0 (1-0)  Yeovil Town
          Southend United          2-1 (1-1)  AFC Bournemouth
          Nottingham Forest        1-0 (0-0)  Swindon Town
@@ -561,22 +561,22 @@ Matchday 33
          Tranmere Rovers          2-0 (2-0)  Millwall FC
 
 
-Matchday 28
-[Tue Feb/19]
-  19.45  Huddersfield Town        1-0 (1-0)  Millwall FC
+▪ Matchday 28
+Tue Feb 19
+  19:45  Huddersfield Town        1-0 (1-0)  Millwall FC
 
 
-Matchday 25
-[Tue Feb/19]
-  19.45  Brighton & Hove Albion   2-1 (0-1)  Cheltenham Town
+▪ Matchday 25
+Tue Feb 19
+  19:45  Brighton & Hove Albion   2-1 (0-1)  Cheltenham Town
 
 
-Matchday 34
-[Fri Feb/22]
-  19.45  Hartlepool United        0-1 (0-0)  Northampton Town
+▪ Matchday 34
+Fri Feb 22
+  19:45  Hartlepool United        0-1 (0-0)  Northampton Town
          Swansea City             1-0 (0-0)  Luton Town
-[Sat Feb/23]
-  15.00  Gillingham FC            1-0 (0-0)  Huddersfield Town
+Sat Feb 23
+  15:00  Gillingham FC            1-0 (0-0)  Huddersfield Town
          Carlisle United          1-0 (1-0)  Doncaster Rovers
          Bristol Rovers           1-1 (0-0)  Tranmere Rovers
          Leeds United             1-1 (0-0)  Crewe Alexandra
@@ -588,60 +588,60 @@ Matchday 34
          Millwall FC              3-0 (2-0)  Port Vale FC
 
 
-Matchday 19
-[Tue Feb/26]
-  19.45  Luton Town               1-1 (1-1)  Millwall FC
+▪ Matchday 19
+Tue Feb 26
+  19:45  Luton Town               1-1 (1-1)  Millwall FC
 
 
-Matchday 11
-[Tue Feb/26]
-  19.45  Oldham Athletic          2-2 (0-1)  Swindon Town
+▪ Matchday 11
+Tue Feb 26
+  19:45  Oldham Athletic          2-2 (0-1)  Swindon Town
 
 
-Matchday 33
-[Tue Feb/26]
-  19.45  Crewe Alexandra          0-1 (0-0)  Carlisle United
+▪ Matchday 33
+Tue Feb 26
+  19:45  Crewe Alexandra          0-1 (0-0)  Carlisle United
 
 
-Matchday 35
-[Fri Feb/29]
-  19.45  Cheltenham Town          1-1 (1-0)  Southend United
-[Sat Mar/1]
-  15.00  Tranmere Rovers          0-1 (0-1)  Doncaster Rovers
+▪ Matchday 35
+Fri Feb 29
+  19:45  Cheltenham Town          1-1 (1-0)  Southend United
+Sat Mar 1
+  15:00  Tranmere Rovers          0-1 (0-1)  Doncaster Rovers
          Northampton Town         0-0  Crewe Alexandra
          Port Vale FC             0-3 (0-1)  Oldham Athletic
          Millwall FC              0-1 (0-0)  Bristol Rovers
          Luton Town               0-1 (0-1)  Walsall FC
-  14.00  Swindon Town             0-1 (0-1)  Leeds United
-  15.00  Huddersfield Town        0-1 (0-1)  Swansea City
+  14:00  Swindon Town             0-1 (0-1)  Leeds United
+  15:00  Huddersfield Town        0-1 (0-1)  Swansea City
          Gillingham FC            0-0  Yeovil Town
          Brighton & Hove Albion   1-1 (0-0)  Leyton Orient
          AFC Bournemouth          2-0 (2-0)  Hartlepool United
-[Mon Mar/3]
-  19.45  Nottingham Forest        0-1 (0-0)  Carlisle United
+Mon Mar 3
+  19:45  Nottingham Forest        0-1 (0-0)  Carlisle United
 
 
-Matchday 21
-[Tue Mar/4]
-  19.45  Brighton & Hove Albion   4-2 (3-1)  Gillingham FC
+▪ Matchday 21
+Tue Mar 4
+  19:45  Brighton & Hove Albion   4-2 (3-1)  Gillingham FC
 
 
-Matchday 25
-[Tue Mar/4]
-  19.45  Bristol Rovers           0-1 (0-1)  Doncaster Rovers
+▪ Matchday 25
+Tue Mar 4
+  19:45  Bristol Rovers           0-1 (0-1)  Doncaster Rovers
          Swindon Town             3-2 (3-1)  Huddersfield Town
 
 
-Matchday 28
-[Tue Mar/4]
-  19.45  Oldham Athletic          0-1 (0-0)  Hartlepool United
+▪ Matchday 28
+Tue Mar 4
+  19:45  Oldham Athletic          0-1 (0-0)  Hartlepool United
 
 
-Matchday 36
-[Fri Mar/7]
-  19.45  Swansea City             1-2 (0-1)  Millwall FC
-[Sat Mar/8]
-  15.00  Oldham Athletic          3-1 (2-0)  Tranmere Rovers
+▪ Matchday 36
+Fri Mar 7
+  19:45  Swansea City             1-2 (0-1)  Millwall FC
+Sat Mar 8
+  15:00  Oldham Athletic          3-1 (2-0)  Tranmere Rovers
          Southend United          2-0 (1-0)  Luton Town
          Walsall FC               0-2 (0-1)  Northampton Town
          Hartlepool United        4-0 (2-0)  Gillingham FC
@@ -653,9 +653,9 @@ Matchday 36
          Carlisle United          2-0 (1-0)  Brighton & Hove Albion
 
 
-Matchday 37
-[Tue Mar/11]
-  19.45  Hartlepool United        2-1 (1-0)  Huddersfield Town
+▪ Matchday 37
+Tue Mar 11
+  19:45  Hartlepool United        2-1 (1-0)  Huddersfield Town
          Leeds United             1-2 (0-1)  Cheltenham Town
          Leyton Orient            2-1 (0-1)  Swindon Town
          Carlisle United          2-1 (2-0)  Luton Town
@@ -666,13 +666,13 @@ Matchday 37
          Yeovil Town              0-1 (0-0)  Millwall FC
          Doncaster Rovers         2-1 (1-0)  Gillingham FC
          Crewe Alexandra          0-2 (0-0)  Port Vale FC
-[Wed Mar/12]
-  19.45  Bristol Rovers           1-1 (1-0)  Northampton Town
+Wed Mar 12
+  19:45  Bristol Rovers           1-1 (1-0)  Northampton Town
 
 
-Matchday 38
-[Sat Mar/15]
-  15.00  Cheltenham Town          1-0 (0-0)  Bristol Rovers
+▪ Matchday 38
+Sat Mar 15
+  15:00  Cheltenham Town          1-0 (0-0)  Bristol Rovers
          Gillingham FC            0-3 (0-1)  Crewe Alexandra
          Huddersfield Town        1-2 (0-1)  Southend United
          Luton Town               3-0 (3-0)  Oldham Athletic
@@ -686,55 +686,55 @@ Matchday 38
          Brighton & Hove Albion   1-0 (0-0)  Doncaster Rovers
 
 
-Matchday 19
-[Tue Mar/18]
-  19.45  Bristol Rovers           0-2 (0-0)  Swansea City
+▪ Matchday 19
+Tue Mar 18
+  19:45  Bristol Rovers           0-2 (0-0)  Swansea City
 
 
-Matchday 33
-[Tue Mar/18]
-  19.45  Huddersfield Town        2-1 (1-0)  Brighton & Hove Albion
+▪ Matchday 33
+Tue Mar 18
+  19:45  Huddersfield Town        2-1 (1-0)  Brighton & Hove Albion
 
 
-Matchday 39
-[Thu Mar/20]
-  19.45  Tranmere Rovers          2-0 (0-0)  Port Vale FC
-[Fri Mar/21]
-  19.45  Northampton Town         1-2 (1-1)  Nottingham Forest
-  13.00  Southend United          1-1 (1-1)  Swansea City
-  15.00  Yeovil Town              2-1 (2-0)  Doncaster Rovers
-[Sat Mar/22]
-  15.00  Brighton & Hove Albion   2-1 (1-1)  Swindon Town
+▪ Matchday 39
+Thu Mar 20
+  19:45  Tranmere Rovers          2-0 (0-0)  Port Vale FC
+Fri Mar 21
+  19:45  Northampton Town         1-2 (1-1)  Nottingham Forest
+  13:00  Southend United          1-1 (1-1)  Swansea City
+  15:00  Yeovil Town              2-1 (2-0)  Doncaster Rovers
+Sat Mar 22
+  15:00  Brighton & Hove Albion   2-1 (1-1)  Swindon Town
          Gillingham FC            2-1 (2-1)  AFC Bournemouth
          Luton Town               1-1 (1-0)  Cheltenham Town
          Oldham Athletic          1-1 (0-0)  Millwall FC
          Leyton Orient            0-3 (0-2)  Carlisle United
          Bristol Rovers           2-3 (1-1)  Huddersfield Town
          Crewe Alexandra          3-1 (2-0)  Hartlepool United
-  17.20  Leeds United             2-0 (1-0)  Walsall FC
+  17:20  Leeds United             2-0 (1-0)  Walsall FC
 
 
-Matchday 40
-[Mon Mar/24]
-  15.00  Millwall FC              0-0  Luton Town
+▪ Matchday 40
+Mon Mar 24
+  15:00  Millwall FC              0-0  Luton Town
          Nottingham Forest        0-0  Brighton & Hove Albion
          Port Vale FC             2-1 (1-0)  Gillingham FC
          Swindon Town             0-1 (0-1)  Southend United
          Carlisle United          2-0 (0-0)  Northampton Town
          Walsall FC               1-1 (0-0)  Crewe Alexandra
-  17.45  Swansea City             2-2 (0-2)  Bristol Rovers
-  15.00  Hartlepool United        2-0 (1-0)  Yeovil Town
+  17:45  Swansea City             2-2 (0-2)  Bristol Rovers
+  15:00  Hartlepool United        2-0 (1-0)  Yeovil Town
          AFC Bournemouth          2-1 (2-0)  Tranmere Rovers
          Doncaster Rovers         1-1 (1-0)  Oldham Athletic
          Cheltenham Town          1-0 (0-0)  Leyton Orient
 
 
-Matchday 41
-[Fri Mar/28]
-  19.45  Tranmere Rovers          2-1 (2-0)  Swindon Town
+▪ Matchday 41
+Fri Mar 28
+  19:45  Tranmere Rovers          2-1 (2-0)  Swindon Town
          Doncaster Rovers         1-0 (0-0)  Nottingham Forest
-[Sat Mar/29]
-  15.00  Leeds United             0-0  Brighton & Hove Albion
+Sat Mar 29
+  15:00  Leeds United             0-0  Brighton & Hove Albion
          Luton Town               2-1 (1-0)  Crewe Alexandra
          Gillingham FC            0-0  Carlisle United
          Port Vale FC             2-1 (0-1)  Leyton Orient
@@ -746,24 +746,24 @@ Matchday 41
          AFC Bournemouth          2-0 (0-0)  Millwall FC
 
 
-Matchday 33
-[Tue Apr/1]
-  19.45  Doncaster Rovers         0-1 (0-1)  Leeds United
+▪ Matchday 33
+Tue Apr 1
+  19:45  Doncaster Rovers         0-1 (0-1)  Leeds United
 
 
-Matchday 32
-[Tue Apr/1]
-  19.45  Gillingham FC            2-1 (0-1)  Luton Town
+▪ Matchday 32
+Tue Apr 1
+  19:45  Gillingham FC            2-1 (0-1)  Luton Town
 
 
-Matchday 16
-[Tue Apr/1]
-  19.45  Carlisle United          0-2 (0-0)  Nottingham Forest
+▪ Matchday 16
+Tue Apr 1
+  19:45  Carlisle United          0-2 (0-0)  Nottingham Forest
 
 
-Matchday 42
-[Sat Apr/5]
-  15.00  Northampton Town         2-1 (2-0)  Luton Town
+▪ Matchday 42
+Sat Apr 5
+  15:00  Northampton Town         2-1 (2-0)  Luton Town
          Millwall FC              1-1 (0-1)  Gillingham FC
          Walsall FC               2-1 (1-1)  Tranmere Rovers
          Swansea City             1-2 (0-0)  AFC Bournemouth
@@ -777,26 +777,26 @@ Matchday 42
          Nottingham Forest        3-1 (2-1)  Cheltenham Town
 
 
-Matchday 28
-[Tue Apr/8]
-  19.45  Southend United          2-0 (2-0)  Brighton & Hove Albion
+▪ Matchday 28
+Tue Apr 8
+  19:45  Southend United          2-0 (2-0)  Brighton & Hove Albion
          Nottingham Forest        1-1 (1-0)  Bristol Rovers
 
 
-Matchday 21
-[Tue Apr/8]
-  19.45  Carlisle United          0-0  Swansea City
+▪ Matchday 21
+Tue Apr 8
+  19:45  Carlisle United          0-0  Swansea City
 
 
-Matchday 43
-[Fri Apr/11]
-  19.45  Doncaster Rovers         2-0 (1-0)  Swindon Town
-[Sat Apr/12]
-  15.00  Southend United          1-1 (0-1)  Northampton Town
+▪ Matchday 43
+Fri Apr 11
+  19:45  Doncaster Rovers         2-0 (1-0)  Swindon Town
+Sat Apr 12
+  15:00  Southend United          1-1 (0-1)  Northampton Town
          Tranmere Rovers          0-2 (0-1)  Nottingham Forest
          Gillingham FC            1-2 (1-2)  Swansea City
-  12.15  Leeds United             3-2 (0-1)  Carlisle United
-  15.00  AFC Bournemouth          2-1 (1-0)  Bristol Rovers
+  12:15  Leeds United             3-2 (0-1)  Carlisle United
+  15:00  AFC Bournemouth          2-1 (1-0)  Bristol Rovers
          Cheltenham Town          1-2 (0-2)  Walsall FC
          Yeovil Town              0-3 (0-1)  Crewe Alexandra
          Hartlepool United        0-1 (0-1)  Millwall FC
@@ -805,19 +805,19 @@ Matchday 43
          Port Vale FC             0-0  Huddersfield Town
 
 
-Matchday 40
-[Tue Apr/15]
-  19.45  Huddersfield Town        1-0 (0-0)  Leeds United
+▪ Matchday 40
+Tue Apr 15
+  19:45  Huddersfield Town        1-0 (0-0)  Leeds United
 
 
-Matchday 33
-[Tue Apr/15]
-  19.45  Walsall FC               0-1 (0-1)  Bristol Rovers
+▪ Matchday 33
+Tue Apr 15
+  19:45  Walsall FC               0-1 (0-1)  Bristol Rovers
 
 
-Matchday 44
-[Sat Apr/19]
-  15.00  Walsall FC               1-3 (1-2)  AFC Bournemouth
+▪ Matchday 44
+Sat Apr 19
+  15:00  Walsall FC               1-3 (1-2)  AFC Bournemouth
          Brighton & Hove Albion   2-1 (1-0)  Hartlepool United
          Bristol Rovers           1-1 (0-1)  Gillingham FC
          Carlisle United          1-2 (0-1)  Southend United
@@ -831,17 +831,17 @@ Matchday 44
          Swindon Town             6-0 (5-0)  Port Vale FC
 
 
-Matchday 36
-[Tue Apr/22]
-  19.45  Bristol Rovers           0-1 (0-0)  Swindon Town
+▪ Matchday 36
+Tue Apr 22
+  19:45  Bristol Rovers           0-1 (0-0)  Swindon Town
 
 
-Matchday 45
-[Fri Apr/25]
-  19.45  Yeovil Town              0-1 (0-1)  Leeds United
-[Sat Apr/26]
-  12.30  Gillingham FC            1-1 (1-0)  Swindon Town
-  15.00  AFC Bournemouth          1-0 (0-0)  Crewe Alexandra
+▪ Matchday 45
+Fri Apr 25
+  19:45  Yeovil Town              0-1 (0-1)  Leeds United
+Sat Apr 26
+  12:30  Gillingham FC            1-1 (1-0)  Swindon Town
+  15:00  AFC Bournemouth          1-0 (0-0)  Crewe Alexandra
          Bristol Rovers           0-2 (0-0)  Brighton & Hove Albion
          Doncaster Rovers         2-0 (1-0)  Luton Town
          Hartlepool United        0-1 (0-0)  Nottingham Forest
@@ -853,9 +853,9 @@ Matchday 45
          Tranmere Rovers          1-0 (0-0)  Southend United
 
 
-Matchday 46
-[Sat May/3]
-  15.00  Brighton & Hove Albion   0-1 (0-0)  Swansea City
+▪ Matchday 46
+Sat May 3
+  15:00  Brighton & Hove Albion   0-1 (0-0)  Swansea City
          Carlisle United          1-1 (0-0)  AFC Bournemouth
          Cheltenham Town          2-1 (1-0)  Doncaster Rovers
          Crewe Alexandra          1-4 (0-2)  Oldham Athletic

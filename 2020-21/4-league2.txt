@@ -1,14 +1,14 @@
 = English League Two 2020/21
 
-# Date       Sat Sep/12 2020 - Sat May/8 2021 (238d)
+# Date       Sat Sep 12 2020 - Sat May 8 2021 (238d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Sep/12]
-  15.00  Barrow AFC               1-1 (1-0)  Stevenage FC
+▪ Matchday 1
+Sat Sep 12
+  15:00  Barrow AFC               1-1 (1-0)  Stevenage FC
          Bolton Wanderers         0-1 (0-0)  Forest Green Rovers
          Bradford City            0-0  Colchester United
          Cambridge United         3-0 (2-0)  Carlisle United
@@ -22,10 +22,10 @@ Matchday 1
          Southend United          0-4 (0-2)  Harrogate Town
 
 
-Matchday 2
-[Sat Sep/19]
-  13.00  Carlisle United          2-0 (2-0)  Southend United
-  15.00  Colchester United        2-0 (1-0)  Bolton Wanderers
+▪ Matchday 2
+Sat Sep 19
+  13:00  Carlisle United          2-0 (2-0)  Southend United
+  15:00  Colchester United        2-0 (1-0)  Bolton Wanderers
          Crawley Town             1-0 (1-0)  Scunthorpe United
          Exeter City              0-2 (0-1)  Port Vale FC
          Morecambe FC             0-5 (0-3)  Cambridge United
@@ -38,9 +38,9 @@ Matchday 2
          Tranmere Rovers          0-3 (0-3)  Cheltenham Town
 
 
-Matchday 3
-[Sat Sep/26]
-  15.00  Barrow AFC               1-1 (0-1)  Colchester United
+▪ Matchday 3
+Sat Sep 26
+  15:00  Barrow AFC               1-1 (0-1)  Colchester United
          Bolton Wanderers         0-2 (0-0)  Newport County
          Bradford City            2-1 (0-1)  Stevenage FC
          Cambridge United         0-0  Tranmere Rovers
@@ -52,9 +52,9 @@ Matchday 3
          Southend United          1-2 (1-0)  Morecambe FC
 
 
-Matchday 4
-[Sat Oct/3]
-  15.00  Tranmere Rovers          2-0 (1-0)  Scunthorpe United
+▪ Matchday 4
+Sat Oct 3
+  15:00  Tranmere Rovers          2-0 (1-0)  Scunthorpe United
          Leyton Orient            0-2 (0-2)  Cheltenham Town
          Carlisle United          1-0 (1-0)  Barrow AFC
          Colchester United        3-3 (2-0)  Oldham Athletic
@@ -67,9 +67,9 @@ Matchday 4
          Newport County           2-1 (0-0)  Mansfield Town
 
 
-Matchday 5
-[Sat Oct/10]
-  15.00  Scunthorpe United        1-4 (1-2)  Forest Green Rovers
+▪ Matchday 5
+Sat Oct 10
+  15:00  Scunthorpe United        1-4 (1-2)  Forest Green Rovers
          Southend United          2-2 (1-1)  Exeter City
          Salford City             2-2 (2-0)  Tranmere Rovers
          Barrow AFC               1-1 (1-0)  Leyton Orient
@@ -80,20 +80,20 @@ Matchday 5
          Mansfield Town           0-0  Stevenage FC
          Oldham Athletic          2-3 (0-1)  Morecambe FC
          Port Vale FC             0-1 (0-0)  Carlisle United
-[Mon Oct/12]
-  19.45  Bradford City            0-1 (0-0)  Harrogate Town
+Mon Oct 12
+  19:45  Bradford City            0-1 (0-0)  Harrogate Town
 
 
-Matchday 3
-[Tue Oct/13]
-  19.00  Walsall FC               2-1 (1-1)  Leyton Orient
+▪ Matchday 3
+Tue Oct 13
+  19:00  Walsall FC               2-1 (1-1)  Leyton Orient
          Cheltenham Town          1-3 (1-2)  Grimsby Town
 
 
-Matchday 6
-[Sat Oct/17]
-  17.30  Leyton Orient            2-3 (1-2)  Grimsby Town
-  15.00  Bolton Wanderers         1-2 (1-1)  Oldham Athletic
+▪ Matchday 6
+Sat Oct 17
+  17:30  Leyton Orient            2-3 (1-2)  Grimsby Town
+  15:00  Bolton Wanderers         1-2 (1-1)  Oldham Athletic
          Carlisle United          3-2 (2-1)  Colchester United
          Crawley Town             4-0 (0-0)  Morecambe FC
          Walsall FC               0-0  Exeter City
@@ -106,27 +106,27 @@ Matchday 6
          Southend United          0-2 (0-1)  Cheltenham Town
 
 
-Matchday 7
-[Tue Oct/20]
-  19.45  Salford City             3-0 (1-0)  Southend United
-  18.00  Cheltenham Town          1-0 (1-0)  Scunthorpe United
-  18.30  Morecambe FC             1-1 (1-1)  Mansfield Town
-  19.00  Barrow AFC               3-3 (3-2)  Bolton Wanderers
+▪ Matchday 7
+Tue Oct 20
+  19:45  Salford City             3-0 (1-0)  Southend United
+  18:00  Cheltenham Town          1-0 (1-0)  Scunthorpe United
+  18:30  Morecambe FC             1-1 (1-1)  Mansfield Town
+  19:00  Barrow AFC               3-3 (3-2)  Bolton Wanderers
          Cambridge United         3-1 (1-1)  Port Vale FC
          Colchester United        1-0 (1-0)  Forest Green Rovers
          Exeter City              2-1 (0-1)  Crawley Town
          Stevenage FC             0-1 (0-1)  Newport County
          Oldham Athletic          1-1 (0-0)  Carlisle United
          Tranmere Rovers          0-1 (0-0)  Leyton Orient
-  19.45  Bradford City            1-1 (0-1)  Walsall FC
+  19:45  Bradford City            1-1 (0-1)  Walsall FC
          Grimsby Town             1-2 (1-2)  Harrogate Town
 
 
-Matchday 8
-[Sat Oct/24]
-  15.00  Tranmere Rovers          2-0 (1-0)  Southend United
-  13.00  Exeter City              3-1 (2-0)  Scunthorpe United
-  15.00  Barrow AFC               2-2 (1-1)  Walsall FC
+▪ Matchday 8
+Sat Oct 24
+  15:00  Tranmere Rovers          2-0 (1-0)  Southend United
+  13:00  Exeter City              3-1 (2-0)  Scunthorpe United
+  15:00  Barrow AFC               2-2 (1-1)  Walsall FC
          Bradford City            0-3 (0-2)  Newport County
          Cambridge United         1-1 (0-0)  Bolton Wanderers
          Cheltenham Town          0-0  Mansfield Town
@@ -138,11 +138,11 @@ Matchday 8
          Salford City             1-1 (0-0)  Crawley Town
 
 
-Matchday 9
-[Tue Oct/27]
-  19.00  Mansfield Town           2-4 (1-2)  Barrow AFC
-  18.30  Crawley Town             4-0 (3-0)  Tranmere Rovers
-  19.00  Carlisle United          3-1 (2-0)  Morecambe FC
+▪ Matchday 9
+Tue Oct 27
+  19:00  Mansfield Town           2-4 (1-2)  Barrow AFC
+  18:30  Crawley Town             4-0 (3-0)  Tranmere Rovers
+  19:00  Carlisle United          3-1 (2-0)  Morecambe FC
          Walsall FC               0-2 (0-1)  Cambridge United
          Forest Green Rovers      1-0 (1-0)  Grimsby Town
          Harrogate Town           0-0  Stevenage FC
@@ -153,12 +153,12 @@ Matchday 9
          Southend United          1-2 (0-0)  Oldham Athletic
 
 
-Matchday 10
-[Sat Oct/31]
-  15.00  Southend United          0-2 (0-0)  Port Vale FC
+▪ Matchday 10
+Sat Oct 31
+  15:00  Southend United          0-2 (0-0)  Port Vale FC
          Salford City             2-0 (1-0)  Oldham Athletic
-  13.00  Exeter City              1-0 (0-0)  Carlisle United
-  15.00  Barrow AFC               1-0 (1-0)  Bradford City
+  13:00  Exeter City              1-0 (0-0)  Carlisle United
+  15:00  Barrow AFC               1-0 (1-0)  Bradford City
          Cheltenham Town          2-1 (1-0)  Forest Green Rovers
          Crawley Town             2-1 (1-1)  Cambridge United
          Stevenage FC             0-0  Grimsby Town
@@ -168,14 +168,14 @@ Matchday 10
          Tranmere Rovers          0-1 (0-0)  Morecambe FC
 
 
-Matchday 11
-[Tue Nov/3]
-  19.00  Grimsby Town             1-0 (0-0)  Barrow AFC
+▪ Matchday 11
+Tue Nov 3
+  19:00  Grimsby Town             1-0 (0-0)  Barrow AFC
          Bolton Wanderers         1-1 (0-0)  Mansfield Town
          Harrogate Town           0-1 (0-0)  Tranmere Rovers
-  18.00  Oldham Athletic          2-1 (1-1)  Cheltenham Town
-  18.30  Morecambe FC             2-2 (2-1)  Exeter City
-  19.00  Bradford City            3-0 (3-0)  Southend United
+  18:00  Oldham Athletic          2-1 (1-1)  Cheltenham Town
+  18:30  Morecambe FC             2-2 (2-1)  Exeter City
+  19:00  Bradford City            3-0 (3-0)  Southend United
          Cambridge United         2-1 (1-1)  Salford City
          Carlisle United          3-2 (1-0)  Newport County
          Colchester United        3-1 (1-1)  Stevenage FC
@@ -183,11 +183,11 @@ Matchday 11
          Forest Green Rovers      2-1 (1-1)  Leyton Orient
 
 
-Matchday 12
-[Fri Nov/13]
-  19.45  Bolton Wanderers         2-0 (1-0)  Salford City
-[Sat Nov/14]
-  15.00  Oldham Athletic          0-2 (0-0)  Scunthorpe United
+▪ Matchday 12
+Fri Nov 13
+  19:45  Bolton Wanderers         2-0 (1-0)  Salford City
+Sat Nov 14
+  15:00  Oldham Athletic          0-2 (0-0)  Scunthorpe United
          Forest Green Rovers      1-2 (0-2)  Mansfield Town
          Port Vale FC             3-4 (2-0)  Tranmere Rovers
          Harrogate Town           1-1 (0-1)  Crawley Town
@@ -199,30 +199,30 @@ Matchday 12
          Walsall FC               0-1 (0-0)  Southend United
 
 
-Matchday 11
-[Tue Nov/17]
-  19.00  Port Vale FC             0-1 (0-1)  Scunthorpe United
+▪ Matchday 11
+Tue Nov 17
+  19:00  Port Vale FC             0-1 (0-1)  Scunthorpe United
 
 
-Matchday 13
-[Fri Nov/20]
-  19.00  Mansfield Town           1-1 (0-0)  Colchester United
-[Sat Nov/21]
-  15.00  Newport County           1-0 (0-0)  Port Vale FC
+▪ Matchday 13
+Fri Nov 20
+  19:00  Mansfield Town           1-1 (0-0)  Colchester United
+Sat Nov 21
+  15:00  Newport County           1-0 (0-0)  Port Vale FC
          Leyton Orient            3-0 (2-0)  Harrogate Town
          Salford City             3-0 (3-0)  Bradford City
          Scunthorpe United        1-1 (0-0)  Morecambe FC
-  13.30  Crawley Town             0-3 (0-1)  Carlisle United
-  15.00  Barrow AFC               2-2 (0-0)  Forest Green Rovers
+  13:30  Crawley Town             0-3 (0-1)  Carlisle United
+  15:00  Barrow AFC               2-2 (0-0)  Forest Green Rovers
          Cheltenham Town          3-0 (0-0)  Walsall FC
          Exeter City              1-2 (1-2)  Oldham Athletic
          Stevenage FC             1-2 (1-2)  Bolton Wanderers
          Tranmere Rovers          5-0 (4-0)  Grimsby Town
 
 
-Matchday 14
-[Tue Nov/24]
-  19.00  Southend United          0-1 (0-0)  Forest Green Rovers
+▪ Matchday 14
+Tue Nov 24
+  19:00  Southend United          0-1 (0-0)  Forest Green Rovers
          Tranmere Rovers          1-0 (0-0)  Carlisle United
          Scunthorpe United        0-1 (0-0)  Bolton Wanderers
          Salford City             2-1 (2-0)  Morecambe FC
@@ -236,33 +236,33 @@ Matchday 14
          Mansfield Town           0-1 (0-1)  Harrogate Town
 
 
-Matchday 15
-[Sat Nov/28]
-  15.00  Bolton Wanderers         3-0 (1-0)  Southend United
-  13.00  Port Vale FC             2-3 (1-2)  Leyton Orient
-[Tue Dec/1]
-  19.00  Harrogate Town           2-5 (1-2)  Scunthorpe United
+▪ Matchday 15
+Sat Nov 28
+  15:00  Bolton Wanderers         3-0 (1-0)  Southend United
+  13:00  Port Vale FC             2-3 (1-2)  Leyton Orient
+Tue Dec 1
+  19:00  Harrogate Town           2-5 (1-2)  Scunthorpe United
          Grimsby Town             1-4 (1-3)  Exeter City
          Bradford City            1-2 (1-1)  Cheltenham Town
          Oldham Athletic          0-1 (0-1)  Tranmere Rovers
          Colchester United        1-1 (1-1)  Crawley Town
-  18.30  Morecambe FC             1-0 (1-0)  Barrow AFC
-  19.00  Forest Green Rovers      1-1 (0-1)  Newport County
-[Wed Dec/2]
-  19.00  Walsall FC               1-1 (0-0)  Stevenage FC
+  18:30  Morecambe FC             1-0 (1-0)  Barrow AFC
+  19:00  Forest Green Rovers      1-1 (0-1)  Newport County
+Wed Dec 2
+  19:00  Walsall FC               1-1 (0-0)  Stevenage FC
          Carlisle United          2-1 (1-0)  Salford City
-  19.45  Cambridge United         0-1 (0-0)  Mansfield Town
+  19:45  Cambridge United         0-1 (0-0)  Mansfield Town
 
 
-Matchday 16
-[Sat Dec/5]
-  15.00  Newport County           2-1 (1-1)  Morecambe FC
-  17.30  Colchester United        2-1 (1-1)  Grimsby Town
-  15.00  Tranmere Rovers          1-3 (1-1)  Walsall FC
+▪ Matchday 16
+Sat Dec 5
+  15:00  Newport County           2-1 (1-1)  Morecambe FC
+  17:30  Colchester United        2-1 (1-1)  Grimsby Town
+  15:00  Tranmere Rovers          1-3 (1-1)  Walsall FC
          Mansfield Town           3-3 (1-0)  Crawley Town
          Harrogate Town           0-1 (0-0)  Forest Green Rovers
-  13.00  Scunthorpe United        2-0 (1-0)  Leyton Orient
-  15.00  Barrow AFC               0-1 (0-0)  Salford City
+  13:00  Scunthorpe United        2-0 (1-0)  Leyton Orient
+  15:00  Barrow AFC               0-1 (0-0)  Salford City
          Bolton Wanderers         3-6 (1-3)  Port Vale FC
          Bradford City            0-1 (0-0)  Carlisle United
          Cambridge United         1-2 (0-0)  Oldham Athletic
@@ -270,19 +270,19 @@ Matchday 16
          Stevenage FC             0-0  Southend United
 
 
-Matchday 12
-[Tue Dec/8]
-  19.00  Grimsby Town             0-2 (0-2)  Newport County
+▪ Matchday 12
+Tue Dec 8
+  19:00  Grimsby Town             0-2 (0-2)  Newport County
 
 
-Matchday 10
-[Tue Dec/8]
-  19.00  Scunthorpe United        0-1 (0-1)  Colchester United
+▪ Matchday 10
+Tue Dec 8
+  19:00  Scunthorpe United        0-1 (0-1)  Colchester United
 
 
-Matchday 17
-[Sat Dec/12]
-  15.00  Salford City             0-0  Cheltenham Town
+▪ Matchday 17
+Sat Dec 12
+  15:00  Salford City             0-0  Cheltenham Town
          Port Vale FC             1-1 (0-0)  Colchester United
          Southend United          1-0 (0-0)  Scunthorpe United
          Carlisle United          4-0 (3-0)  Stevenage FC
@@ -296,24 +296,24 @@ Matchday 17
          Oldham Athletic          3-1 (2-0)  Bradford City
 
 
-Matchday 18
-[Tue Dec/15]
-  19.45  Southend United          3-1 (1-1)  Grimsby Town
+▪ Matchday 18
+Tue Dec 15
+  19:45  Southend United          3-1 (1-1)  Grimsby Town
          Crawley Town             1-1 (1-1)  Bradford City
          Cheltenham Town          0-1 (0-0)  Bolton Wanderers
-  18.30  Morecambe FC             2-1 (0-1)  Leyton Orient
-  19.00  Carlisle United          1-0 (1-0)  Mansfield Town
+  18:30  Morecambe FC             2-1 (0-1)  Leyton Orient
+  19:00  Carlisle United          1-0 (1-0)  Mansfield Town
          Oldham Athletic          2-3 (0-1)  Walsall FC
          Port Vale FC             1-1 (1-1)  Forest Green Rovers
          Salford City             1-1 (1-0)  Newport County
          Scunthorpe United        2-1 (1-1)  Barrow AFC
-  19.45  Cambridge United         2-1 (0-0)  Colchester United
+  19:45  Cambridge United         2-1 (0-0)  Colchester United
          Exeter City              1-2 (0-1)  Harrogate Town
 
 
-Matchday 19
-[Sat Dec/19]
-  15.00  Mansfield Town           1-1 (0-1)  Southend United
+▪ Matchday 19
+Sat Dec 19
+  15:00  Mansfield Town           1-1 (0-1)  Southend United
          Harrogate Town           0-1 (0-1)  Salford City
          Leyton Orient            1-2 (1-1)  Crawley Town
          Grimsby Town             1-0 (1-0)  Scunthorpe United
@@ -326,42 +326,42 @@ Matchday 19
          Newport County           2-4 (2-1)  Oldham Athletic
 
 
-Matchday 4
-[Tue Dec/22]
-  19.00  Grimsby Town             1-2 (0-2)  Bradford City
+▪ Matchday 4
+Tue Dec 22
+  19:00  Grimsby Town             1-2 (0-2)  Bradford City
 
 
-Matchday 20
-[Sat Dec/26]
-  15.00  Cheltenham Town          1-1 (1-0)  Stevenage FC
+▪ Matchday 20
+Sat Dec 26
+  15:00  Cheltenham Town          1-1 (1-0)  Stevenage FC
          Tranmere Rovers          0-1 (0-0)  Bradford City
          Salford City             2-0 (1-0)  Walsall FC
          Port Vale FC             0-2 (0-1)  Barrow AFC
-  13.00  Cambridge United         2-1 (0-1)  Leyton Orient
+  13:00  Cambridge United         2-1 (0-1)  Leyton Orient
          Exeter City              1-1 (1-1)  Forest Green Rovers
          Scunthorpe United        2-3 (1-2)  Mansfield Town
          Southend United          2-0 (2-0)  Colchester United
-  15.00  Carlisle United          3-3 (3-1)  Bolton Wanderers
+  15:00  Carlisle United          3-3 (3-1)  Bolton Wanderers
          Oldham Athletic          1-2 (1-1)  Harrogate Town
          Crawley Town             1-1 (1-1)  Newport County
          Morecambe FC             3-1 (0-1)  Grimsby Town
 
 
-Matchday 21
-[Tue Dec/29]
-  19.00  Walsall FC               1-2 (0-1)  Scunthorpe United
-  19.45  Barrow AFC               1-1 (0-1)  Tranmere Rovers
-  19.00  Leyton Orient            2-0 (0-0)  Southend United
+▪ Matchday 21
+Tue Dec 29
+  19:00  Walsall FC               1-2 (0-1)  Scunthorpe United
+  19:45  Barrow AFC               1-1 (0-1)  Tranmere Rovers
+  19:00  Leyton Orient            2-0 (0-0)  Southend United
          Grimsby Town             0-0  Oldham Athletic
-  17.00  Stevenage FC             1-0 (1-0)  Cambridge United
-  19.00  Bradford City            0-0  Port Vale FC
-  19.45  Colchester United        0-0  Cheltenham Town
-  19.00  Forest Green Rovers      1-2 (0-1)  Crawley Town
+  17:00  Stevenage FC             1-0 (1-0)  Cambridge United
+  19:00  Bradford City            0-0  Port Vale FC
+  19:45  Colchester United        0-0  Cheltenham Town
+  19:00  Forest Green Rovers      1-2 (0-1)  Crawley Town
 
 
-Matchday 22
-[Sat Jan/2]
-  15.00  Walsall FC               0-2 (0-1)  Carlisle United
+▪ Matchday 22
+Sat Jan 2
+  15:00  Walsall FC               0-2 (0-1)  Carlisle United
          Mansfield Town           4-0 (2-0)  Port Vale FC
          Grimsby Town             1-2 (0-2)  Cambridge United
          Bolton Wanderers         0-1 (0-0)  Crawley Town
@@ -369,33 +369,33 @@ Matchday 22
          Stevenage FC             3-1 (2-1)  Scunthorpe United
 
 
-Matchday 21
-[Tue Jan/5]
-  19.00  Mansfield Town           2-1 (2-0)  Salford City
+▪ Matchday 21
+Tue Jan 5
+  19:00  Mansfield Town           2-1 (2-0)  Salford City
 
 
-Matchday 23
-[Sat Jan/9]
-  15.00  Cambridge United         2-1 (0-1)  Harrogate Town
+▪ Matchday 23
+Sat Jan 9
+  15:00  Cambridge United         2-1 (0-1)  Harrogate Town
          Southend United          1-0 (1-0)  Barrow AFC
          Port Vale FC             3-0 (2-0)  Grimsby Town
 
 
-Matchday 9
-[Tue Jan/12]
-  19.00  Scunthorpe United        0-1 (0-0)  Salford City
+▪ Matchday 9
+Tue Jan 12
+  19:00  Scunthorpe United        0-1 (0-0)  Salford City
 
 
-Matchday 23
-[Tue Jan/12]
-  19.00  Exeter City              1-1 (0-0)  Bolton Wanderers
-[Wed Jan/13]
-  19.45  Oldham Athletic          2-3 (1-2)  Mansfield Town
+▪ Matchday 23
+Tue Jan 12
+  19:00  Exeter City              1-1 (0-0)  Bolton Wanderers
+Wed Jan 13
+  19:45  Oldham Athletic          2-3 (1-2)  Mansfield Town
 
 
-Matchday 24
-[Sat Jan/16]
-  15.00  Walsall FC               1-1 (1-0)  Oldham Athletic
+▪ Matchday 24
+Sat Jan 16
+  15:00  Walsall FC               1-1 (1-0)  Oldham Athletic
          Bolton Wanderers         1-1 (0-0)  Cheltenham Town
          Barrow AFC               1-0 (0-0)  Scunthorpe United
          Grimsby Town             0-0  Southend United
@@ -406,39 +406,39 @@ Matchday 24
          Newport County           0-0  Salford City
 
 
-Matchday 13
-[Tue Jan/19]
-  19.00  Southend United          1-2 (1-0)  Cambridge United
+▪ Matchday 13
+Tue Jan 19
+  19:00  Southend United          1-2 (1-0)  Cambridge United
 
 
-Matchday 24
-[Tue Jan/19]
-  19.00  Harrogate Town           0-0  Exeter City
+▪ Matchday 24
+Tue Jan 19
+  19:00  Harrogate Town           0-0  Exeter City
 
 
-Matchday 23
-[Tue Jan/19]
-  19.00  Cheltenham Town          1-1 (1-1)  Newport County
+▪ Matchday 23
+Tue Jan 19
+  19:00  Cheltenham Town          1-1 (1-1)  Newport County
          Morecambe FC             1-1 (0-1)  Walsall FC
          Tranmere Rovers          3-2 (1-0)  Forest Green Rovers
 
 
-Matchday 25
-[Fri Jan/22]
-  19.00  Salford City             2-2 (1-1)  Harrogate Town
-[Sat Jan/23]
-  13.00  Exeter City              3-1 (1-0)  Stevenage FC
+▪ Matchday 25
+Fri Jan 22
+  19:00  Salford City             2-2 (1-1)  Harrogate Town
+Sat Jan 23
+  13:00  Exeter City              3-1 (1-0)  Stevenage FC
          Scunthorpe United        3-0 (2-0)  Grimsby Town
 
 
-Matchday 26
-[Sat Jan/23]
-  15.00  Leyton Orient            0-1 (0-1)  Forest Green Rovers
+▪ Matchday 26
+Sat Jan 23
+  15:00  Leyton Orient            0-1 (0-1)  Forest Green Rovers
 
 
-Matchday 25
-[Sat Jan/23]
-  15.00  Cambridge United         0-0  Bradford City
+▪ Matchday 25
+Sat Jan 23
+  15:00  Cambridge United         0-0  Bradford City
          Southend United          0-1 (0-0)  Mansfield Town
          Port Vale FC             1-3 (1-1)  Walsall FC
          Oldham Athletic          3-2 (2-2)  Newport County
@@ -446,21 +446,21 @@ Matchday 25
          Tranmere Rovers          2-1 (1-0)  Bolton Wanderers
 
 
-Matchday 26
-[Tue Jan/26]
-  19.00  Cheltenham Town          2-0 (0-0)  Oldham Athletic
+▪ Matchday 26
+Tue Jan 26
+  19:00  Cheltenham Town          2-0 (0-0)  Oldham Athletic
          Stevenage FC             0-0  Colchester United
          Scunthorpe United        2-0 (2-0)  Port Vale FC
          Southend United          1-3 (1-1)  Bradford City
          Tranmere Rovers          3-2 (1-1)  Harrogate Town
-  18.00  Exeter City              0-2 (0-1)  Morecambe FC
+  18:00  Exeter City              0-2 (0-1)  Morecambe FC
 
 
-Matchday 27
-[Fri Jan/29]
-  19.00  Colchester United        0-1 (0-1)  Scunthorpe United
-[Sat Jan/30]
-  15.00  Bolton Wanderers         2-0 (0-0)  Leyton Orient
+▪ Matchday 27
+Fri Jan 29
+  19:00  Colchester United        0-1 (0-1)  Scunthorpe United
+Sat Jan 30
+  15:00  Bolton Wanderers         2-0 (0-0)  Leyton Orient
          Bradford City            2-1 (1-1)  Barrow AFC
          Cambridge United         3-1 (2-1)  Crawley Town
          Forest Green Rovers      0-0  Cheltenham Town
@@ -469,100 +469,100 @@ Matchday 27
          Oldham Athletic          2-1 (0-1)  Salford City
          Port Vale FC             5-1 (4-0)  Southend United
          Morecambe FC             0-1 (0-0)  Tranmere Rovers
-  13.00  Carlisle United          1-0 (1-0)  Exeter City
+  13:00  Carlisle United          1-0 (1-0)  Exeter City
 
 
-Matchday 25
-[Tue Feb/2]
-  19.00  Crawley Town             0-0  Leyton Orient
-  18.00  Carlisle United          1-2 (0-0)  Forest Green Rovers
+▪ Matchday 25
+Tue Feb 2
+  19:00  Crawley Town             0-0  Leyton Orient
+  18:00  Carlisle United          1-2 (0-0)  Forest Green Rovers
 
 
-Matchday 19
-[Tue Feb/2]
-  19.00  Stevenage FC             0-1 (0-1)  Exeter City
+▪ Matchday 19
+Tue Feb 2
+  19:00  Stevenage FC             0-1 (0-1)  Exeter City
 
 
-Matchday 28
-[Sat Feb/6]
-  15.00  Tranmere Rovers          3-1 (2-1)  Port Vale FC
+▪ Matchday 28
+Sat Feb 6
+  15:00  Tranmere Rovers          3-1 (2-1)  Port Vale FC
          Crawley Town             1-3 (0-3)  Harrogate Town
          Stevenage FC             2-2 (1-2)  Morecambe FC
          Leyton Orient            0-0  Colchester United
          Newport County           1-0 (0-0)  Grimsby Town
          Barrow AFC               0-2 (0-1)  Cambridge United
-  13.00  Exeter City              3-2 (1-2)  Bradford City
+  13:00  Exeter City              3-2 (1-2)  Bradford City
 
 
-Matchday 18
-[Tue Feb/9]
-  19.00  Tranmere Rovers          0-1 (0-0)  Stevenage FC
+▪ Matchday 18
+Tue Feb 9
+  19:00  Tranmere Rovers          0-1 (0-0)  Stevenage FC
 
 
-Matchday 22
-[Tue Feb/9]
-  19.00  Newport County           0-1 (0-0)  Southend United
-  18.00  Harrogate Town           0-1 (0-1)  Cheltenham Town
+▪ Matchday 22
+Tue Feb 9
+  19:00  Newport County           0-1 (0-0)  Southend United
+  18:00  Harrogate Town           0-1 (0-1)  Cheltenham Town
 
 
-Matchday 21
-[Tue Feb/9]
-  19.00  Bolton Wanderers         1-1 (1-0)  Morecambe FC
+▪ Matchday 21
+Tue Feb 9
+  19:00  Bolton Wanderers         1-1 (1-0)  Morecambe FC
 
 
-Matchday 26
-[Tue Feb/9]
-  17.30  Salford City             4-1 (3-0)  Cambridge United
+▪ Matchday 26
+Tue Feb 9
+  17:30  Salford City             4-1 (3-0)  Cambridge United
 
 
-Matchday 27
-[Tue Feb/9]
-  18.45  Walsall FC               1-1 (1-1)  Mansfield Town
+▪ Matchday 27
+Tue Feb 9
+  18:45  Walsall FC               1-1 (1-1)  Mansfield Town
 
 
-Matchday 29
-[Sat Feb/13]
-  15.00  Cambridge United         0-0  Southend United
+▪ Matchday 29
+Sat Feb 13
+  15:00  Cambridge United         0-0  Southend United
          Bolton Wanderers         1-0 (1-0)  Stevenage FC
-[Sun Feb/14]
-  15.00  Colchester United        2-2 (1-1)  Mansfield Town
+Sun Feb 14
+  15:00  Colchester United        2-2 (1-1)  Mansfield Town
 
 
-Matchday 21
-[Tue Feb/16]
-  19.00  Harrogate Town           1-0 (1-0)  Carlisle United
+▪ Matchday 21
+Tue Feb 16
+  19:00  Harrogate Town           1-0 (1-0)  Carlisle United
          Newport County           1-1 (0-1)  Exeter City
 
 
-Matchday 36
-[Tue Feb/16]
-  19.00  Salford City             1-0 (1-0)  Barrow AFC
+▪ Matchday 36
+Tue Feb 16
+  19:00  Salford City             1-0 (1-0)  Barrow AFC
 
 
-Matchday 23
-[Tue Feb/16]
-  19.00  Crawley Town             0-1 (0-0)  Stevenage FC
+▪ Matchday 23
+Tue Feb 16
+  19:00  Crawley Town             0-1 (0-0)  Stevenage FC
 
 
-Matchday 22
-[Tue Feb/16]
-  19.00  Forest Green Rovers      4-3 (2-1)  Oldham Athletic
+▪ Matchday 22
+Tue Feb 16
+  19:00  Forest Green Rovers      4-3 (2-1)  Oldham Athletic
          Bradford City            2-1 (1-1)  Morecambe FC
 
 
-Matchday 29
-[Tue Feb/16]
-  19.00  Walsall FC               1-2 (1-2)  Cheltenham Town
+▪ Matchday 29
+Tue Feb 16
+  19:00  Walsall FC               1-2 (1-2)  Cheltenham Town
 
 
-Matchday 26
-[Wed Feb/17]
-  17.00  Mansfield Town           2-3 (0-0)  Bolton Wanderers
+▪ Matchday 26
+Wed Feb 17
+  17:00  Mansfield Town           2-3 (0-0)  Bolton Wanderers
 
 
-Matchday 30
-[Sat Feb/20]
-  15.00  Stevenage FC             1-1 (0-1)  Walsall FC
+▪ Matchday 30
+Sat Feb 20
+  15:00  Stevenage FC             1-1 (0-1)  Walsall FC
          Crawley Town             1-0 (0-0)  Colchester United
          Mansfield Town           0-3 (0-0)  Cambridge United
          Salford City             1-1 (0-1)  Carlisle United
@@ -572,15 +572,15 @@ Matchday 30
          Leyton Orient            1-1 (0-0)  Port Vale FC
          Tranmere Rovers          2-2 (1-1)  Oldham Athletic
          Southend United          0-1 (0-0)  Bolton Wanderers
-[Sun Feb/21]
-  13.00  Newport County           0-2 (0-1)  Forest Green Rovers
+Sun Feb 21
+  13:00  Newport County           0-2 (0-1)  Forest Green Rovers
 
 
-Matchday 31
-[Tue Feb/23]
-  19.00  Cambridge United         0-1 (0-0)  Cheltenham Town
-  18.30  Morecambe FC             2-1 (0-1)  Salford City
-  19.00  Bradford City            1-0 (0-0)  Leyton Orient
+▪ Matchday 31
+Tue Feb 23
+  19:00  Cambridge United         0-1 (0-0)  Cheltenham Town
+  18:30  Morecambe FC             2-1 (0-1)  Salford City
+  19:00  Bradford City            1-0 (0-0)  Leyton Orient
          Bolton Wanderers         2-0 (1-0)  Scunthorpe United
          Port Vale FC             0-0  Stevenage FC
          Oldham Athletic          0-1 (0-0)  Barrow AFC
@@ -588,20 +588,20 @@ Matchday 31
          Grimsby Town             2-1 (1-1)  Crawley Town
          Colchester United        1-2 (0-1)  Exeter City
          Carlisle United          2-3 (2-2)  Tranmere Rovers
-[Wed Feb/24]
-  18.00  Forest Green Rovers      1-3 (0-1)  Southend United
-  17.30  Walsall FC               0-1 (0-0)  Newport County
+Wed Feb 24
+  18:00  Forest Green Rovers      1-3 (0-1)  Southend United
+  17:30  Walsall FC               0-1 (0-0)  Newport County
 
 
-Matchday 32
-[Sat Feb/27]
-  15.00  Bolton Wanderers         1-0 (0-0)  Barrow AFC
+▪ Matchday 32
+Sat Feb 27
+  15:00  Bolton Wanderers         1-0 (0-0)  Barrow AFC
          Harrogate Town           1-0 (0-0)  Grimsby Town
-  17.30  Forest Green Rovers      3-0 (2-0)  Colchester United
-  15.00  Southend United          0-0  Salford City
+  17:30  Forest Green Rovers      3-0 (2-0)  Colchester United
+  15:00  Southend United          0-0  Salford City
          Scunthorpe United        0-2 (0-2)  Cheltenham Town
-  13.00  Crawley Town             2-0 (0-0)  Exeter City
-  15.00  Newport County           0-0  Stevenage FC
+  13:00  Crawley Town             2-0 (0-0)  Exeter City
+  15:00  Newport County           0-0  Stevenage FC
          Mansfield Town           1-0 (1-0)  Morecambe FC
          Carlisle United          1-3 (1-0)  Oldham Athletic
          Walsall FC               1-2 (0-1)  Bradford City
@@ -609,9 +609,9 @@ Matchday 32
          Port Vale FC             0-1 (0-0)  Cambridge United
 
 
-Matchday 33
-[Tue Mar/2]
-  19.00  Tranmere Rovers          1-0 (1-0)  Newport County
+▪ Matchday 33
+Tue Mar 2
+  19:00  Tranmere Rovers          1-0 (1-0)  Newport County
          Oldham Athletic          0-2 (0-2)  Bolton Wanderers
          Grimsby Town             0-1 (0-1)  Leyton Orient
          Stevenage FC             3-0 (2-0)  Forest Green Rovers
@@ -621,13 +621,13 @@ Matchday 33
          Cambridge United         0-1 (0-0)  Scunthorpe United
          Bradford City            1-0 (1-0)  Mansfield Town
          Barrow AFC               0-1 (0-0)  Harrogate Town
-  18.30  Morecambe FC             3-1 (1-1)  Crawley Town
-  19.00  Salford City             1-0 (1-0)  Port Vale FC
+  18:30  Morecambe FC             3-1 (1-1)  Crawley Town
+  19:00  Salford City             1-0 (1-0)  Port Vale FC
 
 
-Matchday 34
-[Sat Mar/6]
-  15.00  Tranmere Rovers          0-1 (0-0)  Crawley Town
+▪ Matchday 34
+Sat Mar 6
+  15:00  Tranmere Rovers          0-1 (0-0)  Crawley Town
          Barrow AFC               2-0 (0-0)  Mansfield Town
          Bradford City            1-1 (0-0)  Bolton Wanderers
          Cambridge United         1-0 (0-0)  Walsall FC
@@ -638,12 +638,12 @@ Matchday 34
          Stevenage FC             1-0 (0-0)  Harrogate Town
          Grimsby Town             1-2 (1-1)  Forest Green Rovers
          Oldham Athletic          0-0  Southend United
-  13.00  Exeter City              4-0 (3-0)  Leyton Orient
+  13:00  Exeter City              4-0 (3-0)  Leyton Orient
 
 
-Matchday 35
-[Tue Mar/9]
-  19.00  Southend United          0-2 (0-2)  Tranmere Rovers
+▪ Matchday 35
+Tue Mar 9
+  19:00  Southend United          0-2 (0-2)  Tranmere Rovers
          Scunthorpe United        0-2 (0-1)  Exeter City
          Port Vale FC             0-0  Oldham Athletic
          Newport County           2-1 (0-0)  Bradford City
@@ -654,65 +654,65 @@ Matchday 35
          Carlisle United          1-1 (0-1)  Grimsby Town
          Bolton Wanderers         2-1 (2-0)  Cambridge United
          Leyton Orient            0-0  Stevenage FC
-[Fri Mar/12]
-  19.00  Walsall FC               0-1 (0-0)  Barrow AFC
+Fri Mar 12
+  19:00  Walsall FC               0-1 (0-0)  Barrow AFC
 
 
-Matchday 36
-[Sat Mar/13]
-  15.00  Carlisle United          3-1 (2-0)  Bradford City
-  13.00  Leyton Orient            1-1 (1-1)  Scunthorpe United
-  15.00  Morecambe FC             1-3 (1-2)  Newport County
+▪ Matchday 36
+Sat Mar 13
+  15:00  Carlisle United          3-1 (2-0)  Bradford City
+  13:00  Leyton Orient            1-1 (1-1)  Scunthorpe United
+  15:00  Morecambe FC             1-3 (1-2)  Newport County
          Crawley Town             1-0 (0-0)  Mansfield Town
-  17.30  Grimsby Town             0-0  Colchester United
-  15.00  Forest Green Rovers      2-1 (1-0)  Harrogate Town
+  17:30  Grimsby Town             0-0  Colchester United
+  15:00  Forest Green Rovers      2-1 (1-0)  Harrogate Town
          Oldham Athletic          2-4 (2-3)  Cambridge United
          Port Vale FC             0-1 (0-0)  Bolton Wanderers
          Southend United          0-0  Stevenage FC
          Exeter City              0-1 (0-0)  Cheltenham Town
 
 
-Matchday 24
-[Tue Mar/16]
-  19.30  Mansfield Town           1-1 (0-0)  Carlisle United
+▪ Matchday 24
+Tue Mar 16
+  19:30  Mansfield Town           1-1 (0-0)  Carlisle United
 
 
-Matchday 29
-[Tue Mar/16]
-  19.00  Port Vale FC             2-1 (1-0)  Newport County
+▪ Matchday 29
+Tue Mar 16
+  19:00  Port Vale FC             2-1 (1-0)  Newport County
 
 
-Matchday 28
-[Tue Mar/16]
-  19.00  Scunthorpe United        1-1 (0-0)  Oldham Athletic
+▪ Matchday 28
+Tue Mar 16
+  19:00  Scunthorpe United        1-1 (0-0)  Oldham Athletic
 
 
-Matchday 25
-[Tue Mar/16]
-  19.00  Cheltenham Town          0-2 (0-1)  Barrow AFC
+▪ Matchday 25
+Tue Mar 16
+  19:00  Cheltenham Town          0-2 (0-1)  Barrow AFC
 
 
-Matchday 26
-[Tue Mar/16]
-  19.00  Crawley Town             1-1 (0-0)  Walsall FC
+▪ Matchday 26
+Tue Mar 16
+  19:00  Crawley Town             1-1 (0-0)  Walsall FC
 
 
-Matchday 23
-[Tue Mar/16]
-  19.00  Salford City             0-0  Colchester United
+▪ Matchday 23
+Tue Mar 16
+  19:00  Salford City             0-0  Colchester United
 
 
-Matchday 29
-[Wed Mar/17]
-  19.00  Grimsby Town             0-0  Tranmere Rovers
+▪ Matchday 29
+Wed Mar 17
+  19:00  Grimsby Town             0-0  Tranmere Rovers
 
 
-Matchday 37
-[Sat Mar/20]
-  13.00  Newport County           0-1 (0-0)  Leyton Orient
-  15.00  Barrow AFC               3-2 (2-1)  Crawley Town
-  13.00  Stevenage FC             3-1 (1-0)  Carlisle United
-  15.00  Cambridge United         1-0 (1-0)  Forest Green Rovers
+▪ Matchday 37
+Sat Mar 20
+  13:00  Newport County           0-1 (0-0)  Leyton Orient
+  15:00  Barrow AFC               3-2 (2-1)  Crawley Town
+  13:00  Stevenage FC             3-1 (1-0)  Carlisle United
+  15:00  Cambridge United         1-0 (1-0)  Forest Green Rovers
          Bolton Wanderers         2-1 (0-1)  Walsall FC
          Bradford City            0-0  Oldham Athletic
          Cheltenham Town          2-0 (2-0)  Salford City
@@ -723,40 +723,40 @@ Matchday 37
          Mansfield Town           2-2 (1-0)  Grimsby Town
 
 
-Matchday 22
-[Tue Mar/23]
-  19.00  Colchester United        2-2 (1-0)  Tranmere Rovers
+▪ Matchday 22
+Tue Mar 23
+  19:00  Colchester United        2-2 (1-0)  Tranmere Rovers
 
 
-Matchday 23
-[Tue Mar/23]
-  18.30  Carlisle United          0-1 (0-0)  Leyton Orient
-  19.00  Scunthorpe United        2-0 (1-0)  Bradford City
+▪ Matchday 23
+Tue Mar 23
+  18:30  Carlisle United          0-1 (0-0)  Leyton Orient
+  19:00  Scunthorpe United        2-0 (1-0)  Bradford City
 
 
-Matchday 28
-[Tue Mar/23]
-  19.00  Southend United          0-0  Walsall FC
+▪ Matchday 28
+Tue Mar 23
+  19:00  Southend United          0-0  Walsall FC
 
 
-Matchday 26
-[Tue Mar/23]
-  19.00  Barrow AFC               0-1 (0-0)  Grimsby Town
+▪ Matchday 26
+Tue Mar 23
+  19:00  Barrow AFC               0-1 (0-0)  Grimsby Town
 
 
-Matchday 28
-[Tue Mar/23]
-  18.00  Mansfield Town           0-0  Forest Green Rovers
+▪ Matchday 28
+Tue Mar 23
+  18:00  Mansfield Town           0-0  Forest Green Rovers
 
 
-Matchday 29
-[Tue Mar/23]
-  19.00  Oldham Athletic          2-1 (1-0)  Exeter City
+▪ Matchday 29
+Tue Mar 23
+  19:00  Oldham Athletic          2-1 (1-0)  Exeter City
 
 
-Matchday 38
-[Sat Mar/27]
-  15.00  Leyton Orient            2-1 (2-0)  Oldham Athletic
+▪ Matchday 38
+Sat Mar 27
+  15:00  Leyton Orient            2-1 (2-0)  Oldham Athletic
          Tranmere Rovers          1-1 (1-0)  Mansfield Town
          Stevenage FC             2-1 (0-0)  Barrow AFC
          Morecambe FC             1-0 (1-0)  Cheltenham Town
@@ -765,18 +765,18 @@ Matchday 38
          Crawley Town             1-3 (1-1)  Port Vale FC
          Colchester United        1-2 (1-1)  Bradford City
          Carlisle United          1-2 (0-1)  Cambridge United
-  13.00  Exeter City              1-0 (1-0)  Salford City
-  12.00  Forest Green Rovers      0-1 (0-1)  Bolton Wanderers
+  13:00  Exeter City              1-0 (1-0)  Salford City
+  12:00  Forest Green Rovers      0-1 (0-1)  Bolton Wanderers
 
 
-Matchday 29
-[Tue Mar/30]
-  19.00  Carlisle United          2-0 (2-0)  Crawley Town
+▪ Matchday 29
+Tue Mar 30
+  19:00  Carlisle United          2-0 (2-0)  Crawley Town
 
 
-Matchday 39
-[Fri Apr/2]
-  15.00  Port Vale FC             1-0 (1-0)  Exeter City
+▪ Matchday 39
+Fri Apr 2
+  15:00  Port Vale FC             1-0 (1-0)  Exeter City
          Oldham Athletic          0-1 (0-1)  Stevenage FC
          Mansfield Town           0-2 (0-1)  Leyton Orient
          Salford City             1-1 (0-1)  Grimsby Town
@@ -785,15 +785,15 @@ Matchday 39
          Cambridge United         2-1 (1-0)  Morecambe FC
          Bradford City            4-1 (1-0)  Forest Green Rovers
          Barrow AFC               2-1 (0-1)  Newport County
-  13.00  Scunthorpe United        0-0  Crawley Town
+  13:00  Scunthorpe United        0-0  Crawley Town
          Bolton Wanderers         0-0  Colchester United
-[Sat Apr/3]
-  13.00  Southend United          0-2 (0-1)  Carlisle United
+Sat Apr 3
+  13:00  Southend United          0-2 (0-1)  Carlisle United
 
 
-Matchday 40
-[Mon Apr/5]
-  15.00  Crawley Town             1-4 (0-2)  Oldham Athletic
+▪ Matchday 40
+Mon Apr 5
+  15:00  Crawley Town             1-4 (0-2)  Oldham Athletic
          Exeter City              0-0  Mansfield Town
          Tranmere Rovers          1-1 (1-0)  Cambridge United
          Stevenage FC             1-1 (1-1)  Bradford City
@@ -803,17 +803,17 @@ Matchday 40
          Harrogate Town           0-2 (0-0)  Port Vale FC
          Leyton Orient            0-0  Walsall FC
          Colchester United        1-1 (1-0)  Barrow AFC
-[Tue Apr/6]
-  18.30  Morecambe FC             1-1 (0-1)  Southend United
+Tue Apr 6
+  18:30  Morecambe FC             1-1 (0-1)  Southend United
          Carlisle United          2-0 (0-0)  Scunthorpe United
 
 
-Matchday 41
-[Fri Apr/9]
-  18.00  Mansfield Town           1-1 (0-0)  Newport County
-  19.00  Oldham Athletic          5-2 (2-0)  Colchester United
-[Sat Apr/10]
-  15.00  Walsall FC               2-1 (1-0)  Forest Green Rovers
+▪ Matchday 41
+Fri Apr 9
+  18:00  Mansfield Town           1-1 (0-0)  Newport County
+  19:00  Oldham Athletic          5-2 (2-0)  Colchester United
+Sat Apr 10
+  15:00  Walsall FC               2-1 (1-0)  Forest Green Rovers
          Barrow AFC               2-2 (2-1)  Carlisle United
          Bolton Wanderers         2-1 (0-1)  Harrogate Town
          Southend United          0-0  Crawley Town
@@ -825,42 +825,42 @@ Matchday 41
          Cheltenham Town          1-0 (1-0)  Leyton Orient
 
 
-Matchday 26
-[Tue Apr/13]
-  19.00  Newport County           0-0  Carlisle United
+▪ Matchday 26
+Tue Apr 13
+  19:00  Newport County           0-0  Carlisle United
 
 
-Matchday 22
-[Tue Apr/13]
-  19.00  Barrow AFC               2-1 (1-0)  Exeter City
+▪ Matchday 22
+Tue Apr 13
+  19:00  Barrow AFC               2-1 (1-0)  Exeter City
 
 
-Matchday 28
-[Tue Apr/13]
-  19.00  Salford City             0-1 (0-1)  Bolton Wanderers
+▪ Matchday 28
+Tue Apr 13
+  19:00  Salford City             0-1 (0-1)  Bolton Wanderers
 
 
-Matchday 29
-[Tue Apr/13]
-  18.30  Morecambe FC             4-1 (2-0)  Scunthorpe United
-  19.00  Harrogate Town           2-2 (0-0)  Leyton Orient
+▪ Matchday 29
+Tue Apr 13
+  18:30  Morecambe FC             4-1 (2-0)  Scunthorpe United
+  19:00  Harrogate Town           2-2 (0-0)  Leyton Orient
 
 
-Matchday 24
-[Tue Apr/13]
-  19.00  Bradford City            0-2 (0-1)  Crawley Town
+▪ Matchday 24
+Tue Apr 13
+  19:00  Bradford City            0-2 (0-1)  Crawley Town
 
 
-Matchday 36
-[Tue Apr/13]
-  19.00  Walsall FC               1-0 (0-0)  Tranmere Rovers
+▪ Matchday 36
+Tue Apr 13
+  19:00  Walsall FC               1-0 (0-0)  Tranmere Rovers
 
 
-Matchday 42
-[Fri Apr/16]
-  18.30  Crawley Town             1-0 (0-0)  Cheltenham Town
-[Sat Apr/17]
-  12.30  Leyton Orient            2-0 (0-0)  Barrow AFC
+▪ Matchday 42
+Fri Apr 16
+  18:30  Crawley Town             1-0 (0-0)  Cheltenham Town
+Sat Apr 17
+  12:30  Leyton Orient            2-0 (0-0)  Barrow AFC
          Harrogate Town           2-1 (1-0)  Bradford City
          Grimsby Town             2-1 (1-0)  Bolton Wanderers
          Tranmere Rovers          0-0  Salford City
@@ -870,12 +870,12 @@ Matchday 42
          Morecambe FC             4-3 (3-1)  Oldham Athletic
          Stevenage FC             0-1 (0-1)  Mansfield Town
          Forest Green Rovers      3-2 (1-1)  Scunthorpe United
-  17.30  Colchester United        2-1 (2-1)  Walsall FC
+  17:30  Colchester United        2-1 (2-1)  Walsall FC
 
 
-Matchday 43
-[Tue Apr/20]
-  19.00  Mansfield Town           3-0 (1-0)  Scunthorpe United
+▪ Matchday 43
+Tue Apr 20
+  19:00  Mansfield Town           3-0 (1-0)  Scunthorpe United
          Stevenage FC             0-1 (0-1)  Cheltenham Town
          Newport County           2-0 (0-0)  Crawley Town
          Leyton Orient            2-4 (1-1)  Cambridge United
@@ -889,9 +889,9 @@ Matchday 43
          Bolton Wanderers         1-0 (1-0)  Carlisle United
 
 
-Matchday 44
-[Sat Apr/24]
-  15.00  Salford City             2-0 (1-0)  Mansfield Town
+▪ Matchday 44
+Sat Apr 24
+  15:00  Salford City             2-0 (1-0)  Mansfield Town
          Scunthorpe United        0-2 (0-2)  Walsall FC
          Southend United          2-1 (1-1)  Leyton Orient
          Port Vale FC             2-1 (2-1)  Bradford City
@@ -905,32 +905,32 @@ Matchday 44
          Tranmere Rovers          1-0 (0-0)  Barrow AFC
 
 
-Matchday 29
-[Tue Apr/27]
-  19.00  Bradford City            0-1 (0-0)  Salford City
+▪ Matchday 29
+Tue Apr 27
+  19:00  Bradford City            0-1 (0-0)  Salford City
          Forest Green Rovers      0-2 (0-2)  Barrow AFC
 
 
-Matchday 30
-[Tue Apr/27]
-  19.00  Exeter City              3-2 (1-1)  Grimsby Town
+▪ Matchday 30
+Tue Apr 27
+  19:00  Exeter City              3-2 (1-1)  Grimsby Town
 
 
-Matchday 28
-[Tue Apr/27]
-  19.00  Cheltenham Town          1-1 (0-1)  Carlisle United
+▪ Matchday 28
+Tue Apr 27
+  19:00  Cheltenham Town          1-1 (0-1)  Carlisle United
 
 
-Matchday 38
-[Tue Apr/27]
-  18.30  Newport County           4-0 (3-0)  Scunthorpe United
+▪ Matchday 38
+Tue Apr 27
+  18:30  Newport County           4-0 (3-0)  Scunthorpe United
 
 
-Matchday 45
-[Fri Apr/30]
-  19.00  Harrogate Town           5-4 (4-2)  Cambridge United
-[Sat May/1]
-  15.00  Barrow AFC               1-2 (1-1)  Southend United
+▪ Matchday 45
+Fri Apr 30
+  19:00  Harrogate Town           5-4 (4-2)  Cambridge United
+Sat May 1
+  15:00  Barrow AFC               1-2 (1-1)  Southend United
          Bolton Wanderers         1-2 (1-0)  Exeter City
          Bradford City            0-0  Scunthorpe United
          Colchester United        1-0 (0-0)  Salford City
@@ -943,9 +943,9 @@ Matchday 45
          Newport County           1-0 (1-0)  Cheltenham Town
 
 
-Matchday 46
-[Sat May/8]
-  15.00  Cambridge United         3-0 (1-0)  Grimsby Town
+▪ Matchday 46
+Sat May 8
+  15:00  Cambridge United         3-0 (1-0)  Grimsby Town
          Carlisle United          0-0  Walsall FC
          Cheltenham Town          4-1 (3-1)  Harrogate Town
          Crawley Town             1-4 (0-2)  Bolton Wanderers

@@ -1,16 +1,16 @@
 = English League One 2013/14
 
-# Date       Fri Aug/2 2013 - Sat May/3 2014 (274d)
+# Date       Fri Aug 2 2013 - Sat May 3 2014 (274d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Fri Aug/2]
-  19.45  Sheffield United         2-1 (1-0)  Notts County
-[Sat Aug/3]
-  15.00  Gillingham FC            0-1 (0-0)  Colchester United
+▪ Matchday 1
+Fri Aug 2
+  19:45  Sheffield United         2-1 (1-0)  Notts County
+Sat Aug 3
+  15:00  Gillingham FC            0-1 (0-0)  Colchester United
          Bristol City             2-2 (1-1)  Bradford City
          Shrewsbury Town          0-0  Milton Keynes Dons
          Crewe Alexandra          3-3 (2-1)  Rotherham United
@@ -23,9 +23,9 @@ Matchday 1
          Port Vale FC             1-1 (1-1)  Brentford FC
 
 
-Matchday 2
-[Sat Aug/10]
-  15.00  Wolverhampton Wanderers  4-0 (3-0)  Gillingham FC
+▪ Matchday 2
+Sat Aug 10
+  15:00  Wolverhampton Wanderers  4-0 (3-0)  Gillingham FC
          Bradford City            4-0 (3-0)  Carlisle United
          Rotherham United         0-0  Preston North End
          Oldham Athletic          0-1 (0-1)  Walsall FC
@@ -36,13 +36,13 @@ Matchday 2
          Tranmere Rovers          3-3 (2-1)  Crawley Town
          Leyton Orient            3-0 (0-0)  Shrewsbury Town
          Brentford FC             3-1 (1-0)  Sheffield United
-[Sun Aug/11]
-  15.00  Coventry City            5-4 (3-0)  Bristol City
+Sun Aug 11
+  15:00  Coventry City            5-4 (3-0)  Bristol City
 
 
-Matchday 3
-[Sat Aug/17]
-  15.00  Sheffield United         1-1 (1-1)  Colchester United
+▪ Matchday 3
+Sat Aug 17
+  15:00  Sheffield United         1-1 (1-1)  Colchester United
          Gillingham FC            1-1 (1-0)  Brentford FC
          Preston North End        2-2 (2-1)  Milton Keynes Dons
          Stevenage FC             0-1 (0-1)  Leyton Orient
@@ -56,12 +56,12 @@ Matchday 3
          Crewe Alexandra          2-1 (1-0)  Tranmere Rovers
 
 
-Matchday 4
-[Fri Aug/23]
-  19.45  Wolverhampton Wanderers  2-1 (1-0)  Crawley Town
+▪ Matchday 4
+Fri Aug 23
+  19:45  Wolverhampton Wanderers  2-1 (1-0)  Crawley Town
          Colchester United        1-1 (0-1)  Carlisle United
-[Sat Aug/24]
-  15.00  Bradford City            2-0 (1-0)  Sheffield United
+Sat Aug 24
+  15:00  Bradford City            2-0 (1-0)  Sheffield United
          Swindon Town             2-2 (1-1)  Gillingham FC
          Tranmere Rovers          0-5 (0-3)  Peterborough United
          Brentford FC             1-0 (1-0)  Walsall FC
@@ -70,13 +70,13 @@ Matchday 4
          Rotherham United         2-2 (0-1)  Shrewsbury Town
          Milton Keynes Dons       2-2 (0-1)  Bristol City
          Notts County             0-1 (0-0)  Stevenage FC
-[Sun Aug/25]
-  15.00  Coventry City            4-4 (1-1)  Preston North End
+Sun Aug 25
+  15:00  Coventry City            4-4 (1-1)  Preston North End
 
 
-Matchday 5
-[Sat Aug/31]
-  15.00  Walsall FC               0-3 (0-1)  Preston North End
+▪ Matchday 5
+Sat Aug 31
+  15:00  Walsall FC               0-3 (0-1)  Preston North End
          Colchester United        1-2 (1-1)  Leyton Orient
          Gillingham FC            1-1 (1-1)  Bristol City
          Stevenage FC             1-1 (1-0)  Bradford City
@@ -90,24 +90,24 @@ Matchday 5
          Brentford FC             0-0  Carlisle United
 
 
-Matchday 6
-[Sat Sep/7]
-  12.15  Milton Keynes Dons       1-1 (0-1)  Swindon Town
-  15.00  Tranmere Rovers          0-0  Stevenage FC
+▪ Matchday 6
+Sat Sep 7
+  12:15  Milton Keynes Dons       1-1 (0-1)  Swindon Town
+  15:00  Tranmere Rovers          0-0  Stevenage FC
          Carlisle United          0-1 (0-0)  Port Vale FC
          Bradford City            4-0 (1-0)  Brentford FC
          Rotherham United         3-1 (0-1)  Sheffield United
          Crawley Town             3-2 (0-0)  Gillingham FC
          Crewe Alexandra          2-2 (2-1)  Peterborough United
-[Sun Sep/8]
-  15.00  Coventry City            2-0 (1-0)  Colchester United
-[Mon Sep/9]
-  19.35  Preston North End        2-1 (2-0)  Oldham Athletic
+Sun Sep 8
+  15:00  Coventry City            2-0 (1-0)  Colchester United
+Mon Sep 9
+  19:35  Preston North End        2-1 (2-0)  Oldham Athletic
 
 
-Matchday 7
-[Sat Sep/14]
-  15.00  Leyton Orient            3-2 (2-1)  Port Vale FC
+▪ Matchday 7
+Sat Sep 14
+  15:00  Leyton Orient            3-2 (2-1)  Port Vale FC
          Milton Keynes Dons       3-1 (2-0)  Notts County
          Carlisle United          1-0 (0-0)  Sheffield United
          Preston North End        3-0 (1-0)  Stevenage FC
@@ -118,21 +118,21 @@ Matchday 7
          Crawley Town             1-1 (0-0)  Shrewsbury Town
          Crewe Alexandra          0-3 (0-0)  Walsall FC
          Bristol City             0-3 (0-1)  Peterborough United
-[Sun Sep/15]
-  15.00  Coventry City            2-1 (1-1)  Gillingham FC
+Sun Sep 15
+  15:00  Coventry City            2-1 (1-1)  Gillingham FC
 
 
-Matchday 6
-[Tue Sep/17]
-  19.45  Bristol City             1-1 (0-1)  Shrewsbury Town
+▪ Matchday 6
+Tue Sep 17
+  19:45  Bristol City             1-1 (0-1)  Shrewsbury Town
          Wolverhampton Wanderers  0-1 (0-0)  Walsall FC
          Leyton Orient            5-1 (2-0)  Notts County
 
 
-Matchday 8
-[Sat Sep/21]
-  13.00  Shrewsbury Town          0-1 (0-0)  Wolverhampton Wanderers
-  15.00  Stevenage FC             1-3 (0-1)  Carlisle United
+▪ Matchday 8
+Sat Sep 21
+  13:00  Shrewsbury Town          0-1 (0-0)  Wolverhampton Wanderers
+  15:00  Stevenage FC             1-3 (0-1)  Carlisle United
          Oldham Athletic          1-1 (0-1)  Crewe Alexandra
          Port Vale FC             3-2 (1-2)  Coventry City
          Walsall FC               1-1 (1-1)  Rotherham United
@@ -142,13 +142,13 @@ Matchday 8
          Colchester United        1-1 (1-1)  Crawley Town
          Notts County             2-0 (1-0)  Tranmere Rovers
          Swindon Town             3-2 (2-2)  Bristol City
-[Mon Sep/23]
-  19.45  Brentford FC             0-2 (0-0)  Leyton Orient
+Mon Sep 23
+  19:45  Brentford FC             0-2 (0-0)  Leyton Orient
 
 
-Matchday 9
-[Sat Sep/28]
-  15.00  Preston North End        2-1 (1-0)  Swindon Town
+▪ Matchday 9
+Sat Sep 28
+  15:00  Preston North End        2-1 (1-0)  Swindon Town
          Carlisle United          2-1 (1-1)  Notts County
          Tranmere Rovers          0-1 (0-0)  Port Vale FC
          Rotherham United         0-1 (0-0)  Peterborough United
@@ -159,15 +159,15 @@ Matchday 9
          Crewe Alexandra          0-3 (0-1)  Gillingham FC
          Bradford City            2-1 (0-1)  Shrewsbury Town
          Crawley Town             1-0 (1-0)  Oldham Athletic
-[Sun Sep/29]
-  15.00  Coventry City            0-2 (0-1)  Brentford FC
+Sun Sep 29
+  15:00  Coventry City            0-2 (0-1)  Brentford FC
 
 
-Matchday 10
-[Fri Oct/4]
-  19.45  Sheffield United         1-1 (0-1)  Crawley Town
-[Sat Oct/5]
-  15.00  Peterborough United      2-0 (2-0)  Preston North End
+▪ Matchday 10
+Fri Oct 4
+  19:45  Sheffield United         1-1 (0-1)  Crawley Town
+Sat Oct 5
+  15:00  Peterborough United      2-0 (2-0)  Preston North End
          Stevenage FC             0-1 (0-1)  Coventry City
          Notts County             4-0 (2-0)  Crewe Alexandra
          Brentford FC             0-1 (0-1)  Rotherham United
@@ -180,25 +180,25 @@ Matchday 10
          Port Vale FC             1-1 (0-0)  Bristol City
 
 
-Matchday 11
-[Sat Oct/12]
-  15.00  Port Vale FC             0-1 (0-0)  Peterborough United
+▪ Matchday 11
+Sat Oct 12
+  15:00  Port Vale FC             0-1 (0-0)  Peterborough United
          Colchester United        1-1 (1-0)  Walsall FC
          Preston North End        0-2 (0-1)  Crewe Alexandra
          Rotherham United         0-4 (0-2)  Swindon Town
          Stevenage FC             2-1 (2-1)  Brentford FC
          Leyton Orient            2-1 (1-1)  Milton Keynes Dons
          Shrewsbury Town          2-0 (1-0)  Gillingham FC
-[Sun Oct/13]
-  16.00  Coventry City            3-2 (2-0)  Sheffield United
-  15.00  Bradford City            0-1 (0-0)  Tranmere Rovers
+Sun Oct 13
+  16:00  Coventry City            3-2 (2-0)  Sheffield United
+  15:00  Bradford City            0-1 (0-0)  Tranmere Rovers
 
 
-Matchday 12
-[Fri Oct/18]
-  19.45  Swindon Town             2-0 (2-0)  Notts County
-[Sat Oct/19]
-  15.00  Peterborough United      1-0 (0-0)  Shrewsbury Town
+▪ Matchday 12
+Fri Oct 18
+  19:45  Swindon Town             2-0 (2-0)  Notts County
+Sat Oct 19
+  15:00  Peterborough United      1-0 (0-0)  Shrewsbury Town
          Crewe Alexandra          1-0 (0-0)  Bristol City
          Sheffield United         2-1 (1-1)  Port Vale FC
          Crawley Town             1-0 (0-0)  Bradford City
@@ -211,13 +211,13 @@ Matchday 12
          Brentford FC             3-1 (0-0)  Colchester United
 
 
-Matchday 13
-[Tue Oct/22]
-  19.45  Swindon Town             1-3 (0-1)  Walsall FC
+▪ Matchday 13
+Tue Oct 22
+  19:45  Swindon Town             1-3 (0-1)  Walsall FC
          Coventry City            3-1 (1-0)  Leyton Orient
          Gillingham FC            2-1 (2-0)  Notts County
-  19.30  Peterborough United      0-0  Sheffield United
-  19.45  Preston North End        2-2 (1-1)  Bradford City
+  19:30  Peterborough United      0-0  Sheffield United
+  19:45  Preston North End        2-2 (1-1)  Bradford City
          Crawley Town             0-3 (0-2)  Port Vale FC
          Rotherham United         1-1 (0-0)  Tranmere Rovers
          Milton Keynes Dons       0-1 (0-1)  Carlisle United
@@ -227,9 +227,9 @@ Matchday 13
          Wolverhampton Wanderers  2-0 (0-0)  Oldham Athletic
 
 
-Matchday 14
-[Sat Oct/26]
-  15.00  Leyton Orient            1-0 (1-0)  Rotherham United
+▪ Matchday 14
+Sat Oct 26
+  15:00  Leyton Orient            1-0 (1-0)  Rotherham United
          Oldham Athletic          2-1 (1-0)  Swindon Town
          Colchester United        1-0 (0-0)  Peterborough United
          Carlisle United          2-4 (1-0)  Bristol City
@@ -243,14 +243,14 @@ Matchday 14
          Stevenage FC             2-0 (1-0)  Crawley Town
 
 
-Matchday 11
-[Tue Oct/29]
-  19.45  Notts County             3-2 (1-1)  Oldham Athletic
+▪ Matchday 11
+Tue Oct 29
+  19:45  Notts County             3-2 (1-1)  Oldham Athletic
 
 
-Matchday 15
-[Sat Nov/2]
-  15.00  Bristol City             1-1 (1-0)  Oldham Athletic
+▪ Matchday 15
+Sat Nov 2
+  15:00  Bristol City             1-1 (1-0)  Oldham Athletic
          Swindon Town             5-2 (1-0)  Port Vale FC
          Crawley Town             0-1 (0-1)  Brentford FC
          Shrewsbury Town          2-0 (1-0)  Sheffield United
@@ -264,15 +264,15 @@ Matchday 15
          Rotherham United         2-2 (2-1)  Colchester United
 
 
-Matchday 11
-[Tue Nov/5]
-  19.45  Carlisle United          2-2 (1-2)  Wolverhampton Wanderers
+▪ Matchday 11
+Tue Nov 5
+  19:45  Carlisle United          2-2 (1-2)  Wolverhampton Wanderers
          Bristol City             2-0 (0-0)  Crawley Town
 
 
-Matchday 16
-[Sat Nov/16]
-  15.00  Carlisle United          1-1 (0-0)  Crawley Town
+▪ Matchday 16
+Sat Nov 16
+  15:00  Carlisle United          1-1 (0-0)  Crawley Town
          Port Vale FC             3-1 (2-0)  Shrewsbury Town
          Sheffield United         1-2 (1-1)  Gillingham FC
          Colchester United        1-2 (0-1)  Swindon Town
@@ -281,17 +281,17 @@ Matchday 16
          Brentford FC             5-0 (1-0)  Crewe Alexandra
          Stevenage FC             0-3 (0-1)  Rotherham United
          Notts County             0-1 (0-0)  Wolverhampton Wanderers
-[Sun Nov/17]
-  15.30  Bradford City            3-3 (2-3)  Coventry City
-[Mon Nov/18]
-  19.45  Walsall FC               2-0 (1-0)  Peterborough United
+Sun Nov 17
+  15:30  Bradford City            3-3 (2-3)  Coventry City
+Mon Nov 18
+  19:45  Walsall FC               2-0 (1-0)  Peterborough United
 
 
-Matchday 17
-[Sat Nov/23]
-  15.00  Rotherham United         0-0  Carlisle United
-  14.00  Coventry City            1-5 (0-3)  Tranmere Rovers
-  15.00  Bristol City             0-1 (0-0)  Sheffield United
+▪ Matchday 17
+Sat Nov 23
+  15:00  Rotherham United         0-0  Carlisle United
+  14:00  Coventry City            1-5 (0-3)  Tranmere Rovers
+  15:00  Bristol City             0-1 (0-0)  Sheffield United
          Peterborough United      0-1 (0-1)  Stevenage FC
          Swindon Town             1-3 (1-2)  Leyton Orient
          Crawley Town             0-0  Walsall FC
@@ -303,9 +303,9 @@ Matchday 17
          Preston North End        1-1 (1-0)  Colchester United
 
 
-Matchday 18
-[Tue Nov/26]
-  19.45  Port Vale FC             0-2 (0-1)  Preston North End
+▪ Matchday 18
+Tue Nov 26
+  19:45  Port Vale FC             0-2 (0-1)  Preston North End
          Gillingham FC            3-2 (0-1)  Stevenage FC
          Bristol City             2-2 (0-1)  Leyton Orient
          Colchester United        3-1 (2-0)  Milton Keynes Dons
@@ -319,9 +319,9 @@ Matchday 18
          Carlisle United          2-1 (2-0)  Crewe Alexandra
 
 
-Matchday 19
-[Sat Nov/30]
-  15.00  Milton Keynes Dons       1-3 (1-0)  Coventry City
+▪ Matchday 19
+Sat Nov 30
+  15:00  Milton Keynes Dons       1-3 (1-0)  Coventry City
          Tranmere Rovers          2-1 (1-0)  Colchester United
          Crewe Alexandra          1-0 (0-0)  Crawley Town
          Leyton Orient            1-1 (0-0)  Sheffield United
@@ -332,19 +332,19 @@ Matchday 19
          Stevenage FC             1-3 (1-2)  Shrewsbury Town
          Notts County             0-1 (0-1)  Brentford FC
          Preston North End        1-0 (1-0)  Bristol City
-[Sun Dec/1]
-  15.00  Oldham Athletic          1-1 (1-1)  Bradford City
+Sun Dec 1
+  15:00  Oldham Athletic          1-1 (1-1)  Bradford City
 
 
-Matchday 29
-[Sat Dec/7]
-  15.00  Notts County             3-1 (1-0)  Gillingham FC
+▪ Matchday 29
+Sat Dec 7
+  15:00  Notts County             3-1 (1-0)  Gillingham FC
 
 
-Matchday 20
-[Sat Dec/14]
-  13.00  Shrewsbury Town          0-1 (0-0)  Walsall FC
-  15.00  Port Vale FC             2-2 (1-2)  Stevenage FC
+▪ Matchday 20
+Sat Dec 14
+  13:00  Shrewsbury Town          0-1 (0-0)  Walsall FC
+  15:00  Port Vale FC             2-2 (1-2)  Stevenage FC
          Colchester United        0-4 (0-2)  Notts County
          Gillingham FC            2-2 (0-1)  Peterborough United
          Bradford City            1-1 (0-1)  Leyton Orient
@@ -357,11 +357,11 @@ Matchday 20
          Sheffield United         1-0 (0-0)  Swindon Town
 
 
-Matchday 21
-[Fri Dec/20]
-  19.45  Tranmere Rovers          1-2 (0-1)  Gillingham FC
-[Sat Dec/21]
-  15.00  Crewe Alexandra          1-1 (1-0)  Shrewsbury Town
+▪ Matchday 21
+Fri Dec 20
+  19:45  Tranmere Rovers          1-2 (0-1)  Gillingham FC
+Sat Dec 21
+  15:00  Crewe Alexandra          1-1 (1-0)  Shrewsbury Town
          Walsall FC               2-0 (1-0)  Carlisle United
          Oldham Athletic          0-2 (0-2)  Colchester United
          Preston North End        0-3 (0-2)  Brentford FC
@@ -374,13 +374,13 @@ Matchday 21
          Notts County             1-1 (0-1)  Bristol City
 
 
-Matchday 22
-[Thu Dec/26]
-  12.00  Coventry City            4-2 (1-2)  Peterborough United
-  12.30  Brentford FC             3-2 (1-1)  Swindon Town
-  13.00  Carlisle United          0-1 (0-1)  Preston North End
-  13.30  Gillingham FC            1-2 (1-0)  Leyton Orient
-  15.00  Shrewsbury Town          0-1 (0-1)  Tranmere Rovers
+▪ Matchday 22
+Thu Dec 26
+  12:00  Coventry City            4-2 (1-2)  Peterborough United
+  12:30  Brentford FC             3-2 (1-1)  Swindon Town
+  13:00  Carlisle United          0-1 (0-1)  Preston North End
+  13:30  Gillingham FC            1-2 (1-0)  Leyton Orient
+  15:00  Shrewsbury Town          0-1 (0-1)  Tranmere Rovers
          Bristol City             1-0 (1-0)  Walsall FC
          Port Vale FC             2-1 (1-1)  Notts County
          Colchester United        4-0 (3-0)  Stevenage FC
@@ -390,9 +390,9 @@ Matchday 22
          Sheffield United         1-1 (0-1)  Oldham Athletic
 
 
-Matchday 23
-[Sun Dec/29]
-  15.00  Coventry City            1-1 (0-1)  Oldham Athletic
+▪ Matchday 23
+Sun Dec 29
+  15:00  Coventry City            1-1 (0-1)  Oldham Athletic
          Colchester United        1-2 (1-0)  Crewe Alexandra
          Sheffield United         3-1 (1-0)  Tranmere Rovers
          Shrewsbury Town          0-1 (0-0)  Preston North End
@@ -406,9 +406,9 @@ Matchday 23
          Bristol City             4-1 (2-0)  Stevenage FC
 
 
-Matchday 24
-[Wed Jan/1]
-  15.00  Rotherham United         1-3 (1-0)  Coventry City
+▪ Matchday 24
+Wed Jan 1
+  15:00  Rotherham United         1-3 (1-0)  Coventry City
          Notts County             3-0 (1-0)  Bradford City
          Walsall FC               2-1 (0-1)  Sheffield United
          Crewe Alexandra          2-1 (0-0)  Carlisle United
@@ -419,16 +419,16 @@ Matchday 24
          Preston North End        3-2 (1-0)  Port Vale FC
 
 
-Matchday 25
-[Fri Jan/3]
-  19.45  Gillingham FC            1-0 (0-0)  Wolverhampton Wanderers
-[Tue Jan/7]
-  19.45  Shrewsbury Town          0-2 (0-1)  Leyton Orient
+▪ Matchday 25
+Fri Jan 3
+  19:45  Gillingham FC            1-0 (0-0)  Wolverhampton Wanderers
+Tue Jan 7
+  19:45  Shrewsbury Town          0-2 (0-1)  Leyton Orient
 
 
-Matchday 26
-[Sat Jan/11]
-  15.00  Tranmere Rovers          1-1 (0-1)  Walsall FC
+▪ Matchday 26
+Sat Jan 11
+  15:00  Tranmere Rovers          1-1 (0-1)  Walsall FC
          Swindon Town             2-1 (1-0)  Peterborough United
          Bradford City            1-1 (1-1)  Bristol City
          Oldham Athletic          1-0 (1-0)  Stevenage FC
@@ -439,19 +439,19 @@ Matchday 26
          Rotherham United         4-2 (1-1)  Crewe Alexandra
          Colchester United        3-0 (0-0)  Gillingham FC
          Notts County             2-1 (1-1)  Sheffield United
-[Sun Jan/12]
-  15.00  Coventry City            2-2 (1-0)  Crawley Town
+Sun Jan 12
+  15:00  Coventry City            2-2 (1-0)  Crawley Town
 
 
-Matchday 25
-[Tue Jan/14]
-  19.45  Stevenage FC             2-0 (1-0)  Swindon Town
+▪ Matchday 25
+Tue Jan 14
+  19:45  Stevenage FC             2-0 (1-0)  Swindon Town
          Walsall FC               1-0 (0-0)  Oldham Athletic
 
 
-Matchday 27
-[Sat Jan/18]
-  15.00  Preston North End        1-1 (0-0)  Coventry City
+▪ Matchday 27
+Sat Jan 18
+  15:00  Preston North End        1-1 (0-0)  Coventry City
          Carlisle United          2-4 (1-2)  Colchester United
          Crewe Alexandra          1-2 (0-0)  Leyton Orient
          Walsall FC               1-1 (1-1)  Brentford FC
@@ -464,17 +464,17 @@ Matchday 27
          Port Vale FC             1-0 (0-0)  Oldham Athletic
 
 
-Matchday 25
-[Tue Jan/21]
-  19.45  Crewe Alexandra          2-0 (1-0)  Milton Keynes Dons
+▪ Matchday 25
+Tue Jan 21
+  19:45  Crewe Alexandra          2-0 (1-0)  Milton Keynes Dons
          Peterborough United      4-3 (1-2)  Notts County
 
 
-Matchday 28
-[Fri Jan/24]
-  19.45  Brentford FC             2-1 (1-0)  Gillingham FC
-[Sat Jan/25]
-  15.00  Tranmere Rovers          1-0 (1-0)  Crewe Alexandra
+▪ Matchday 28
+Fri Jan 24
+  19:45  Brentford FC             2-1 (1-0)  Gillingham FC
+Sat Jan 25
+  15:00  Tranmere Rovers          1-0 (1-0)  Crewe Alexandra
          Notts County             1-5 (0-3)  Walsall FC
          Wolverhampton Wanderers  3-1 (2-1)  Bristol City
          Rotherham United         2-2 (1-1)  Crawley Town
@@ -482,9 +482,9 @@ Matchday 28
          Oldham Athletic          5-4 (0-3)  Peterborough United
 
 
-Matchday 29
-[Tue Jan/28]
-  19.45  Leyton Orient            2-0 (0-0)  Coventry City
+▪ Matchday 29
+Tue Jan 28
+  19:45  Leyton Orient            2-0 (0-0)  Coventry City
          Bradford City            0-0  Preston North End
          Carlisle United          3-0 (2-0)  Milton Keynes Dons
          Tranmere Rovers          1-2 (0-1)  Rotherham United
@@ -493,9 +493,9 @@ Matchday 29
          Oldham Athletic          0-3 (0-0)  Wolverhampton Wanderers
 
 
-Matchday 30
-[Sat Feb/1]
-  15.00  Bristol City             2-1 (0-1)  Carlisle United
+▪ Matchday 30
+Sat Feb 1
+  15:00  Bristol City             2-1 (0-1)  Carlisle United
          Milton Keynes Dons       0-1 (0-0)  Tranmere Rovers
          Gillingham FC            3-2 (1-0)  Port Vale FC
          Wolverhampton Wanderers  2-0 (1-0)  Bradford City
@@ -506,19 +506,19 @@ Matchday 30
          Swindon Town             0-1 (0-0)  Oldham Athletic
 
 
-Matchday 25
-[Tue Feb/4]
-  19.45  Bristol City             1-2 (0-2)  Coventry City
+▪ Matchday 25
+Tue Feb 4
+  19:45  Bristol City             1-2 (0-2)  Coventry City
 
 
-Matchday 24
-[Tue Feb/4]
-  19.45  Stevenage FC             3-1 (2-0)  Gillingham FC
+▪ Matchday 24
+Tue Feb 4
+  19:45  Stevenage FC             3-1 (2-0)  Gillingham FC
 
 
-Matchday 31
-[Sat Feb/8]
-  15.00  Leyton Orient            1-2 (0-0)  Peterborough United
+▪ Matchday 31
+Sat Feb 8
+  15:00  Leyton Orient            1-2 (0-0)  Peterborough United
          Walsall FC               0-3 (0-2)  Milton Keynes Dons
          Oldham Athletic          1-1 (1-1)  Bristol City
          Carlisle United          1-2 (0-1)  Gillingham FC
@@ -529,47 +529,47 @@ Matchday 31
          Notts County             3-0 (2-0)  Coventry City
 
 
-Matchday 25
-[Tue Feb/11]
-  19.45  Port Vale FC             2-0 (1-0)  Colchester United
+▪ Matchday 25
+Tue Feb 11
+  19:45  Port Vale FC             2-0 (1-0)  Colchester United
          Carlisle United          1-0 (1-0)  Bradford City
 
 
-Matchday 24
-[Tue Feb/11]
-  19.45  Leyton Orient            1-3 (1-2)  Bristol City
+▪ Matchday 24
+Tue Feb 11
+  19:45  Leyton Orient            1-3 (1-2)  Bristol City
 
 
-Matchday 32
-[Fri Feb/14]
-  19.45  Swindon Town             0-0  Colchester United
+▪ Matchday 32
+Fri Feb 14
+  19:45  Swindon Town             0-0  Colchester United
          Peterborough United      0-0  Walsall FC
-[Sat Feb/15]
-  15.00  Rotherham United         2-1 (1-0)  Stevenage FC
+Sat Feb 15
+  15:00  Rotherham United         2-1 (1-0)  Stevenage FC
          Milton Keynes Dons       2-1 (0-1)  Oldham Athletic
-  13.00  Shrewsbury Town          0-0  Port Vale FC
-  15.00  Wolverhampton Wanderers  2-0 (1-0)  Notts County
+  13:00  Shrewsbury Town          0-0  Port Vale FC
+  15:00  Wolverhampton Wanderers  2-0 (1-0)  Notts County
          Bristol City             2-2 (1-1)  Tranmere Rovers
          Crewe Alexandra          1-3 (0-1)  Brentford FC
          Preston North End        1-1 (0-1)  Leyton Orient
 
 
-Matchday 28
-[Tue Feb/18]
-  19.45  Leyton Orient            2-0 (2-0)  Stevenage FC
+▪ Matchday 28
+Tue Feb 18
+  19:45  Leyton Orient            2-0 (2-0)  Stevenage FC
          Milton Keynes Dons       0-0  Preston North End
          Coventry City            1-2 (1-0)  Carlisle United
          Bradford City            1-0 (0-0)  Port Vale FC
 
 
-Matchday 32
-[Wed Feb/19]
-  19.45  Gillingham FC            0-1 (0-1)  Sheffield United
+▪ Matchday 32
+Wed Feb 19
+  19:45  Gillingham FC            0-1 (0-1)  Sheffield United
 
 
-Matchday 33
-[Sat Feb/22]
-  15.00  Bradford City            1-0 (0-0)  Milton Keynes Dons
+▪ Matchday 33
+Sat Feb 22
+  15:00  Bradford City            1-0 (0-0)  Milton Keynes Dons
          Brentford FC             0-3 (0-1)  Wolverhampton Wanderers
          Notts County             2-3 (2-1)  Shrewsbury Town
          Oldham Athletic          1-0 (1-0)  Gillingham FC
@@ -583,34 +583,34 @@ Matchday 33
          Port Vale FC             1-3 (0-1)  Crewe Alexandra
 
 
-Matchday 16
-[Tue Feb/25]
-  19.45  Oldham Athletic          1-2 (0-2)  Milton Keynes Dons
+▪ Matchday 16
+Tue Feb 25
+  19:45  Oldham Athletic          1-2 (0-2)  Milton Keynes Dons
 
 
-Matchday 28
-[Tue Feb/25]
-  19.45  Colchester United        0-1 (0-0)  Sheffield United
+▪ Matchday 28
+Tue Feb 25
+  19:45  Colchester United        0-1 (0-0)  Sheffield United
 
 
-Matchday 25
-[Tue Feb/25]
-  19.45  Preston North End        3-3 (1-2)  Rotherham United
+▪ Matchday 25
+Tue Feb 25
+  19:45  Preston North End        3-3 (1-2)  Rotherham United
 
 
-Matchday 24
-[Tue Feb/25]
-  19.45  Swindon Town             1-1 (0-0)  Crawley Town
+▪ Matchday 24
+Tue Feb 25
+  19:45  Swindon Town             1-1 (0-0)  Crawley Town
 
 
-Matchday 29
-[Tue Feb/25]
-  19.45  Stevenage FC             1-0 (1-0)  Crewe Alexandra
+▪ Matchday 29
+Tue Feb 25
+  19:45  Stevenage FC             1-0 (1-0)  Crewe Alexandra
 
 
-Matchday 34
-[Sat Mar/1]
-  15.00  Wolverhampton Wanderers  3-0 (0-0)  Port Vale FC
+▪ Matchday 34
+Sat Mar 1
+  15:00  Wolverhampton Wanderers  3-0 (0-0)  Port Vale FC
          Tranmere Rovers          2-2 (1-1)  Oldham Athletic
          Bradford City            2-3 (2-1)  Stevenage FC
          Rotherham United         6-0 (4-0)  Notts County
@@ -621,33 +621,33 @@ Matchday 34
          Milton Keynes Dons       0-1 (0-1)  Sheffield United
          Crewe Alexandra          1-1 (0-0)  Swindon Town
          Crawley Town             1-0 (0-0)  Peterborough United
-[Sun Mar/2]
-  15.00  Coventry City            0-0  Shrewsbury Town
+Sun Mar 2
+  15:00  Coventry City            0-0  Shrewsbury Town
 
 
-Matchday 30
-[Tue Mar/4]
-  19.45  Crawley Town             1-1 (0-1)  Stevenage FC
+▪ Matchday 30
+Tue Mar 4
+  19:45  Crawley Town             1-1 (0-1)  Stevenage FC
 
 
-Matchday 29
-[Tue Mar/4]
-  19.30  Sheffield United         2-0 (0-0)  Peterborough United
+▪ Matchday 29
+Tue Mar 4
+  19:30  Sheffield United         2-0 (0-0)  Peterborough United
 
 
-Matchday 31
-[Tue Mar/4]
-  19.45  Colchester United        0-0  Rotherham United
+▪ Matchday 31
+Tue Mar 4
+  19:45  Colchester United        0-0  Rotherham United
 
 
-Matchday 30
-[Wed Mar/5]
-  19.45  Coventry City            2-1 (1-0)  Walsall FC
+▪ Matchday 30
+Wed Mar 5
+  19:45  Coventry City            2-1 (1-0)  Walsall FC
 
 
-Matchday 35
-[Sat Mar/8]
-  15.00  Brentford FC             2-0 (0-0)  Bradford City
+▪ Matchday 35
+Sat Mar 8
+  15:00  Brentford FC             2-0 (0-0)  Bradford City
          Colchester United        2-1 (2-1)  Coventry City
          Gillingham FC            1-0 (0-0)  Crawley Town
          Port Vale FC             2-1 (0-1)  Carlisle United
@@ -660,9 +660,9 @@ Matchday 35
          Notts County             0-0  Leyton Orient
 
 
-Matchday 36
-[Tue Mar/11]
-  19.45  Oldham Athletic          0-2 (0-1)  Rotherham United
+▪ Matchday 36
+Tue Mar 11
+  19:45  Oldham Athletic          0-2 (0-1)  Rotherham United
          Walsall FC               1-1 (0-0)  Crewe Alexandra
          Brentford FC             2-0 (0-0)  Tranmere Rovers
          Stevenage FC             1-1 (0-1)  Preston North End
@@ -673,45 +673,45 @@ Matchday 36
          Shrewsbury Town          1-1 (0-1)  Crawley Town
          Port Vale FC             0-2 (0-1)  Leyton Orient
          Peterborough United      1-2 (1-2)  Bristol City
-[Wed Mar/12]
-  19.45  Sheffield United         1-0 (1-0)  Carlisle United
+Wed Mar 12
+  19:45  Sheffield United         1-0 (1-0)  Carlisle United
 
 
-Matchday 37
-[Sat Mar/15]
-  15.00  Milton Keynes Dons       0-2 (0-0)  Peterborough United
+▪ Matchday 37
+Sat Mar 15
+  15:00  Milton Keynes Dons       0-2 (0-0)  Peterborough United
          Rotherham United         1-1 (0-1)  Walsall FC
          Wolverhampton Wanderers  0-0  Shrewsbury Town
          Carlisle United          0-0  Stevenage FC
-  12.15  Leyton Orient            0-1 (0-1)  Brentford FC
-  15.00  Tranmere Rovers          3-2 (2-1)  Notts County
+  12:15  Leyton Orient            0-1 (0-1)  Brentford FC
+  15:00  Tranmere Rovers          3-2 (2-1)  Notts County
          Bradford City            1-1 (1-0)  Gillingham FC
          Crawley Town             1-0 (1-0)  Colchester United
          Bristol City             0-0  Swindon Town
          Crewe Alexandra          1-1 (0-0)  Oldham Athletic
-[Sun Mar/16]
-  15.00  Coventry City            2-2 (0-1)  Port Vale FC
-[Mon Mar/17]
-  19.45  Preston North End        0-0  Sheffield United
+Sun Mar 16
+  15:00  Coventry City            2-2 (0-1)  Port Vale FC
+Mon Mar 17
+  19:45  Preston North End        0-0  Sheffield United
 
 
-Matchday 27
-[Tue Mar/18]
-  19.45  Crawley Town             2-1 (2-1)  Wolverhampton Wanderers
+▪ Matchday 27
+Tue Mar 18
+  19:45  Crawley Town             2-1 (2-1)  Wolverhampton Wanderers
 
 
-Matchday 29
-[Tue Mar/18]
-  19.45  Colchester United        1-0 (0-0)  Shrewsbury Town
+▪ Matchday 29
+Tue Mar 18
+  19:45  Colchester United        1-0 (0-0)  Shrewsbury Town
 
 
-Matchday 38
-[Sat Mar/22]
-  15.00  Peterborough United      0-1 (0-1)  Rotherham United
+▪ Matchday 38
+Sat Mar 22
+  15:00  Peterborough United      0-1 (0-1)  Rotherham United
          Notts County             4-1 (2-0)  Carlisle United
          Stevenage FC             2-3 (2-0)  Milton Keynes Dons
-  13.25  Sheffield United         0-2 (0-1)  Wolverhampton Wanderers
-  15.00  Port Vale FC             3-2 (1-0)  Tranmere Rovers
+  13:25  Sheffield United         0-2 (0-1)  Wolverhampton Wanderers
+  15:00  Port Vale FC             3-2 (1-0)  Tranmere Rovers
          Gillingham FC            1-3 (1-1)  Crewe Alexandra
          Colchester United        2-2 (0-1)  Bristol City
          Swindon Town             1-0 (0-0)  Preston North End
@@ -721,9 +721,9 @@ Matchday 38
          Oldham Athletic          1-0 (1-0)  Crawley Town
 
 
-Matchday 39
-[Tue Mar/25]
-  19.45  Bradford City            0-2 (0-0)  Walsall FC
+▪ Matchday 39
+Tue Mar 25
+  19:45  Bradford City            0-2 (0-0)  Walsall FC
          Tranmere Rovers          1-2 (1-1)  Swindon Town
          Wolverhampton Wanderers  4-2 (3-0)  Colchester United
          Rotherham United         3-0 (2-0)  Brentford FC
@@ -734,13 +734,13 @@ Matchday 39
          Leyton Orient            1-1 (1-0)  Oldham Athletic
          Preston North End        3-1 (1-1)  Peterborough United
          Carlisle United          0-0  Shrewsbury Town
-[Wed Mar/26]
-  19.45  Coventry City            1-0 (0-0)  Stevenage FC
+Wed Mar 26
+  19:45  Coventry City            1-0 (0-0)  Stevenage FC
 
 
-Matchday 40
-[Sat Mar/29]
-  15.00  Oldham Athletic          0-0  Brentford FC
+▪ Matchday 40
+Sat Mar 29
+  15:00  Oldham Athletic          0-0  Brentford FC
          Swindon Town             2-1 (1-0)  Sheffield United
          Stevenage FC             1-1 (0-0)  Port Vale FC
          Notts County             2-0 (2-0)  Colchester United
@@ -753,34 +753,34 @@ Matchday 40
          Rotherham United         2-1 (1-0)  Bristol City
 
 
-Matchday 25
-[Tue Apr/1]
-  19.45  Sheffield United         0-0  Brentford FC
+▪ Matchday 25
+Tue Apr 1
+  19:45  Sheffield United         0-0  Brentford FC
 
 
-Matchday 31
-[Tue Apr/1]
-  19.45  Stevenage FC             0-0  Wolverhampton Wanderers
+▪ Matchday 31
+Tue Apr 1
+  19:45  Stevenage FC             0-0  Wolverhampton Wanderers
 
 
-Matchday 29
-[Tue Apr/1]
-  19.45  Port Vale FC             2-1 (0-1)  Crawley Town
+▪ Matchday 29
+Tue Apr 1
+  19:45  Port Vale FC             2-1 (0-1)  Crawley Town
 
 
-Matchday 32
-[Tue Apr/1]
-  19.45  Coventry City            0-0  Bradford City
+▪ Matchday 32
+Tue Apr 1
+  19:45  Coventry City            0-0  Bradford City
 
 
-Matchday 30
-[Wed Apr/2]
-  19.45  Peterborough United      2-0 (1-0)  Colchester United
+▪ Matchday 30
+Wed Apr 2
+  19:45  Peterborough United      2-0 (1-0)  Colchester United
 
 
-Matchday 41
-[Sat Apr/5]
-  15.00  Shrewsbury Town          1-0 (0-0)  Stevenage FC
+▪ Matchday 41
+Sat Apr 5
+  15:00  Shrewsbury Town          1-0 (0-0)  Stevenage FC
          Crawley Town             1-2 (0-1)  Crewe Alexandra
          Gillingham FC            3-4 (1-1)  Rotherham United
          Coventry City            1-2 (0-1)  Milton Keynes Dons
@@ -794,26 +794,26 @@ Matchday 41
          Wolverhampton Wanderers  2-0 (0-0)  Peterborough United
 
 
-Matchday 40
-[Tue Apr/8]
-  19.45  Peterborough United      2-0 (1-0)  Gillingham FC
+▪ Matchday 40
+Tue Apr 8
+  19:45  Peterborough United      2-0 (1-0)  Gillingham FC
 
 
-Matchday 35
-[Tue Apr/8]
-  19.45  Sheffield United         1-0 (0-0)  Rotherham United
+▪ Matchday 35
+Tue Apr 8
+  19:45  Sheffield United         1-0 (0-0)  Rotherham United
 
 
-Matchday 31
-[Tue Apr/8]
-  19.45  Brentford FC             1-0 (0-0)  Crawley Town
+▪ Matchday 31
+Tue Apr 8
+  19:45  Brentford FC             1-0 (0-0)  Crawley Town
 
 
-Matchday 42
-[Fri Apr/11]
-  19.52  Rotherham United         0-0  Bradford City
-[Sat Apr/12]
-  15.07  Notts County             4-2 (2-2)  Port Vale FC
+▪ Matchday 42
+Fri Apr 11
+  19:52  Rotherham United         0-0  Bradford City
+Sat Apr 12
+  15:07  Notts County             4-2 (2-2)  Port Vale FC
          Peterborough United      1-0 (1-0)  Coventry City
          Walsall FC               0-1 (0-1)  Bristol City
          Crewe Alexandra          0-2 (0-1)  Wolverhampton Wanderers
@@ -825,16 +825,16 @@ Matchday 42
          Swindon Town             1-0 (1-0)  Brentford FC
 
 
-Matchday 25
-[Tue Apr/15]
-  19.45  Crawley Town             2-0 (1-0)  Tranmere Rovers
+▪ Matchday 25
+Tue Apr 15
+  19:45  Crawley Town             2-0 (1-0)  Tranmere Rovers
 
 
-Matchday 43
-[Fri Apr/18]
-  15.00  Bristol City             2-1 (1-1)  Notts County
-  19.45  Bradford City            1-0 (1-0)  Peterborough United
-  15.00  Crawley Town             2-1 (1-1)  Leyton Orient
+▪ Matchday 43
+Fri Apr 18
+  15:00  Bristol City             2-1 (1-1)  Notts County
+  19:45  Bradford City            1-0 (1-0)  Peterborough United
+  15:00  Crawley Town             2-1 (1-1)  Leyton Orient
          Wolverhampton Wanderers  6-4 (3-1)  Rotherham United
          Gillingham FC            2-0 (0-0)  Tranmere Rovers
          Coventry City            1-2 (1-1)  Swindon Town
@@ -843,15 +843,15 @@ Matchday 43
          Carlisle United          1-1 (1-0)  Walsall FC
          Brentford FC             1-0 (1-0)  Preston North End
          Shrewsbury Town          1-3 (0-1)  Crewe Alexandra
-  19.45  Sheffield United         1-0 (1-0)  Stevenage FC
+  19:45  Sheffield United         1-0 (1-0)  Stevenage FC
 
 
-Matchday 44
-[Mon Apr/21]
-  15.00  Preston North End        5-2 (2-1)  Shrewsbury Town
+▪ Matchday 44
+Mon Apr 21
+  15:00  Preston North End        5-2 (2-1)  Shrewsbury Town
          Oldham Athletic          0-0  Coventry City
-  12.15  Leyton Orient            1-3 (0-2)  Wolverhampton Wanderers
-  15.00  Stevenage FC             1-3 (0-1)  Bristol City
+  12:15  Leyton Orient            1-3 (0-2)  Wolverhampton Wanderers
+  15:00  Stevenage FC             1-3 (0-1)  Bristol City
          Crewe Alexandra          0-0  Colchester United
          Swindon Town             1-0 (0-0)  Bradford City
          Milton Keynes Dons       2-2 (0-1)  Brentford FC
@@ -862,11 +862,11 @@ Matchday 44
          Peterborough United      4-1 (1-0)  Carlisle United
 
 
-Matchday 45
-[Fri Apr/25]
-  20.00  Port Vale FC             1-2 (0-0)  Sheffield United
-[Sat Apr/26]
-  15.00  Notts County             2-0 (1-0)  Swindon Town
+▪ Matchday 45
+Fri Apr 25
+  20:00  Port Vale FC             1-2 (0-0)  Sheffield United
+Sat Apr 26
+  15:00  Notts County             2-0 (1-0)  Swindon Town
          Shrewsbury Town          2-4 (2-3)  Peterborough United
          Stevenage FC             3-2 (1-0)  Walsall FC
          Carlisle United          0-1 (0-0)  Oldham Athletic
@@ -879,19 +879,19 @@ Matchday 45
          Coventry City            1-1 (0-0)  Wolverhampton Wanderers
 
 
-Matchday 32
-[Tue Apr/29]
-  19.45  Crawley Town             0-0  Carlisle United
+▪ Matchday 32
+Tue Apr 29
+  19:45  Crawley Town             0-0  Carlisle United
 
 
-Matchday 42
-[Tue Apr/29]
-  19.45  Oldham Athletic          1-1 (1-0)  Sheffield United
+▪ Matchday 42
+Tue Apr 29
+  19:45  Oldham Athletic          1-1 (1-0)  Sheffield United
 
 
-Matchday 46
-[Sat May/3]
-  15.00  Tranmere Rovers          1-2 (1-0)  Bradford City
+▪ Matchday 46
+Sat May 3
+  15:00  Tranmere Rovers          1-2 (1-0)  Bradford City
          Sheffield United         2-1 (0-1)  Coventry City
          Crawley Town             1-1 (1-0)  Bristol City
          Swindon Town             1-2 (0-2)  Rotherham United

@@ -1,14 +1,14 @@
 = English League One 2011/12
 
-# Date       Sat Aug/6 2011 - Sat May/5 2012 (273d)
+# Date       Sat Aug 6 2011 - Sat May 5 2012 (273d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/6]
-  15.00  Brentford FC             2-0 (1-0)  Yeovil Town
+▪ Matchday 1
+Sat Aug 6
+  15:00  Brentford FC             2-0 (1-0)  Yeovil Town
          Carlisle United          0-3 (0-3)  Notts County
          Charlton Athletic        3-0 (1-0)  AFC Bournemouth
          Huddersfield Town        1-1 (0-0)  Bury FC
@@ -22,9 +22,9 @@ Matchday 1
          Wycombe Wanderers        1-1 (1-1)  Scunthorpe United
 
 
-Matchday 2
-[Sat Aug/13]
-  15.00  AFC Bournemouth          2-0 (1-0)  Sheffield Wednesday
+▪ Matchday 2
+Sat Aug 13
+  15:00  AFC Bournemouth          2-0 (1-0)  Sheffield Wednesday
          Bury FC                  0-2 (0-0)  Carlisle United
          Chesterfield FC          1-1 (0-1)  Stevenage FC
          Colchester United        1-1 (1-0)  Wycombe Wanderers
@@ -38,9 +38,9 @@ Matchday 2
          Yeovil Town              3-1 (0-0)  Oldham Athletic
 
 
-Matchday 3
-[Tue Aug/16]
-  19.45  AFC Bournemouth          1-3 (0-1)  Stevenage FC
+▪ Matchday 3
+Tue Aug 16
+  19:45  AFC Bournemouth          1-3 (0-1)  Stevenage FC
          Bury FC                  2-1 (2-0)  Sheffield Wednesday
          Chesterfield FC          0-2 (0-1)  Preston North End
          Colchester United        0-2 (0-2)  Charlton Athletic
@@ -54,9 +54,9 @@ Matchday 3
          Yeovil Town              0-1 (0-1)  Milton Keynes Dons
 
 
-Matchday 4
-[Sat Aug/20]
-  15.00  Brentford FC             5-0 (1-0)  Leyton Orient
+▪ Matchday 4
+Sat Aug 20
+  15:00  Brentford FC             5-0 (1-0)  Leyton Orient
          Carlisle United          2-1 (0-0)  AFC Bournemouth
          Charlton Athletic        2-2 (1-0)  Scunthorpe United
          Huddersfield Town        3-2 (1-2)  Colchester United
@@ -70,10 +70,10 @@ Matchday 4
          Wycombe Wanderers        0-2 (0-1)  Bury FC
 
 
-Matchday 5
-[Sat Aug/27]
-  13.00  Yeovil Town              0-1 (0-1)  Sheffield United
-  15.00  AFC Bournemouth          0-2 (0-1)  Walsall FC
+▪ Matchday 5
+Sat Aug 27
+  13:00  Yeovil Town              0-1 (0-1)  Sheffield United
+  15:00  AFC Bournemouth          0-2 (0-1)  Walsall FC
          Brentford FC             0-2 (0-1)  Tranmere Rovers
          Bury FC                  1-2 (1-0)  Charlton Athletic
          Colchester United        4-1 (2-1)  Oldham Athletic
@@ -86,9 +86,9 @@ Matchday 5
          Sheffield Wednesday      3-2 (2-0)  Scunthorpe United
 
 
-Matchday 6
-[Sat Sep/3]
-  15.00  Carlisle United          1-3 (0-1)  Milton Keynes Dons
+▪ Matchday 6
+Sat Sep 3
+  15:00  Carlisle United          1-3 (0-1)  Milton Keynes Dons
          Chesterfield FC          0-0  Leyton Orient
          Hartlepool United        2-0 (1-0)  Exeter City
          Notts County             3-1 (1-0)  AFC Bournemouth
@@ -98,15 +98,15 @@ Matchday 6
          Stevenage FC             4-2 (3-1)  Rochdale AFC
          Tranmere Rovers          0-0  Yeovil Town
          Walsall FC               0-1 (0-1)  Brentford FC
-[Mon Sep/5]
-  19.45  Charlton Athletic        1-1 (1-0)  Sheffield Wednesday
+Mon Sep 5
+  19:45  Charlton Athletic        1-1 (1-0)  Sheffield Wednesday
 
 
-Matchday 7
-[Fri Sep/9]
-  19.45  Preston North End        4-3 (1-1)  Yeovil Town
-[Sat Sep/10]
-  15.00  Wycombe Wanderers        0-1 (0-1)  Brentford FC
+▪ Matchday 7
+Fri Sep 9
+  19:45  Preston North End        4-3 (1-1)  Yeovil Town
+Sat Sep 10
+  15:00  Wycombe Wanderers        0-1 (0-1)  Brentford FC
          AFC Bournemouth          0-3 (0-1)  Chesterfield FC
          Bury FC                  2-4 (1-3)  Rochdale AFC
          Carlisle United          1-2 (0-2)  Hartlepool United
@@ -119,9 +119,9 @@ Matchday 7
          Sheffield Wednesday      3-1 (0-0)  Milton Keynes Dons
 
 
-Matchday 8
-[Tue Sep/13]
-  19.45  Rochdale AFC             1-0 (0-0)  Scunthorpe United
+▪ Matchday 8
+Tue Sep 13
+  19:45  Rochdale AFC             1-0 (0-0)  Scunthorpe United
          Brentford FC             1-1 (0-0)  Colchester United
          Chesterfield FC          1-0 (0-0)  Bury FC
          Exeter City              1-1 (1-1)  Notts County
@@ -133,9 +133,9 @@ Matchday 8
          Walsall FC               0-1 (0-1)  Oldham Athletic
 
 
-Matchday 9
-[Sat Sep/17]
-  15.00  Yeovil Town              2-3 (2-1)  Sheffield Wednesday
+▪ Matchday 9
+Sat Sep 17
+  15:00  Yeovil Town              2-3 (2-1)  Sheffield Wednesday
          Walsall FC               2-2 (1-0)  Scunthorpe United
          Tranmere Rovers          2-0 (1-0)  Wycombe Wanderers
          Brentford FC             1-3 (1-2)  Preston North End
@@ -149,9 +149,9 @@ Matchday 9
          Stevenage FC             0-2 (0-1)  Notts County
 
 
-Matchday 10
-[Sat Sep/24]
-  15.00  Sheffield Wednesday      3-0 (2-0)  Exeter City
+▪ Matchday 10
+Sat Sep 24
+  15:00  Sheffield Wednesday      3-0 (2-0)  Exeter City
          Scunthorpe United        2-1 (1-1)  Yeovil Town
          Preston North End        2-1 (1-0)  Tranmere Rovers
          AFC Bournemouth          1-2 (1-1)  Hartlepool United
@@ -165,19 +165,19 @@ Matchday 10
          Wycombe Wanderers        1-0 (1-0)  Sheffield United
 
 
-Matchday 8
-[Tue Sep/27]
-  19.45  Milton Keynes Dons       1-1 (1-0)  Charlton Athletic
+▪ Matchday 8
+Tue Sep 27
+  19:45  Milton Keynes Dons       1-1 (1-0)  Charlton Athletic
 
 
-Matchday 6
-[Tue Sep/27]
-  19.45  Wycombe Wanderers        3-4 (3-2)  Preston North End
+▪ Matchday 6
+Tue Sep 27
+  19:45  Wycombe Wanderers        3-4 (3-2)  Preston North End
 
 
-Matchday 11
-[Sat Oct/1]
-  15.00  Yeovil Town              1-3 (1-1)  Bury FC
+▪ Matchday 11
+Sat Oct 1
+  15:00  Yeovil Town              1-3 (1-1)  Bury FC
          Brentford FC             0-4 (0-1)  Huddersfield Town
          Chesterfield FC          0-1 (0-1)  Colchester United
          Exeter City              2-0 (1-0)  Oldham Athletic
@@ -191,9 +191,9 @@ Matchday 11
          Walsall FC               1-1 (1-0)  Carlisle United
 
 
-Matchday 12
-[Sat Oct/8]
-  15.00  Wycombe Wanderers        1-1 (0-0)  Walsall FC
+▪ Matchday 12
+Sat Oct 8
+  15:00  Wycombe Wanderers        1-1 (0-0)  Walsall FC
          AFC Bournemouth          1-1 (0-1)  Rochdale AFC
          Bury FC                  2-0 (1-0)  Exeter City
          Carlisle United          2-2 (1-1)  Brentford FC
@@ -202,15 +202,15 @@ Matchday 12
          Huddersfield Town        2-1 (1-0)  Stevenage FC
          Scunthorpe United        2-3 (1-0)  Leyton Orient
          Sheffield Wednesday      3-1 (1-0)  Chesterfield FC
-[Sun Oct/9]
-  16.30  Notts County             3-0 (1-0)  Hartlepool United
-[Mon Oct/10]
-  19.45  Oldham Athletic          2-1 (1-0)  Milton Keynes Dons
+Sun Oct 9
+  16:30  Notts County             3-0 (1-0)  Hartlepool United
+Mon Oct 10
+  19:45  Oldham Athletic          2-1 (1-0)  Milton Keynes Dons
 
 
-Matchday 13
-[Sat Oct/15]
-  15.00  Yeovil Town              0-3 (0-0)  Carlisle United
+▪ Matchday 13
+Sat Oct 15
+  15:00  Yeovil Town              0-3 (0-0)  Carlisle United
          Walsall FC               1-0 (1-0)  Preston North End
          Brentford FC             0-0  Scunthorpe United
          Chesterfield FC          1-3 (0-2)  Notts County
@@ -221,18 +221,18 @@ Matchday 13
          Rochdale AFC             2-2 (1-2)  Colchester United
          Stevenage FC             1-0 (1-0)  Charlton Athletic
          Tranmere Rovers          1-0 (1-0)  Oldham Athletic
-[Sun Oct/16]
-  12.00  Sheffield United         2-2 (2-0)  Sheffield Wednesday
+Sun Oct 16
+  12:00  Sheffield United         2-2 (2-0)  Sheffield Wednesday
 
 
-Matchday 12
-[Wed Oct/19]
-  19.45  Preston North End        2-4 (1-2)  Sheffield United
+▪ Matchday 12
+Wed Oct 19
+  19:45  Preston North End        2-4 (1-2)  Sheffield United
 
 
-Matchday 14
-[Sat Oct/22]
-  15.00  Huddersfield Town        3-1 (2-0)  Preston North End
+▪ Matchday 14
+Sat Oct 22
+  15:00  Huddersfield Town        3-1 (2-0)  Preston North End
          AFC Bournemouth          1-2 (1-1)  Bury FC
          Charlton Athletic        4-0 (3-0)  Carlisle United
          Chesterfield FC          2-3 (1-2)  Hartlepool United
@@ -246,9 +246,9 @@ Matchday 14
          Tranmere Rovers          2-1 (0-0)  Walsall FC
 
 
-Matchday 15
-[Tue Oct/25]
-  19.45  Hartlepool United        0-2 (0-0)  Tranmere Rovers
+▪ Matchday 15
+Tue Oct 25
+  19:45  Hartlepool United        0-2 (0-0)  Tranmere Rovers
          Brentford FC             0-1 (0-0)  Stevenage FC
          Bury FC                  2-2 (1-1)  Notts County
          Carlisle United          3-2 (0-1)  Sheffield Wednesday
@@ -262,9 +262,9 @@ Matchday 15
          Yeovil Town              2-2 (2-1)  Leyton Orient
 
 
-Matchday 16
-[Sat Oct/29]
-  15.00  Hartlepool United        0-4 (0-2)  Charlton Athletic
+▪ Matchday 16
+Sat Oct 29
+  15:00  Hartlepool United        0-4 (0-2)  Charlton Athletic
          Brentford FC             2-1 (1-1)  Chesterfield FC
          Bury FC                  1-2 (0-1)  Stevenage FC
          Carlisle United          3-3 (1-3)  Oldham Athletic
@@ -278,9 +278,9 @@ Matchday 16
          Wycombe Wanderers        1-2 (1-2)  Sheffield Wednesday
 
 
-Matchday 17
-[Sat Nov/5]
-  15.00  Leyton Orient            1-1 (1-0)  Hartlepool United
+▪ Matchday 17
+Sat Nov 5
+  15:00  Leyton Orient            1-1 (1-0)  Hartlepool United
          AFC Bournemouth          2-0 (1-0)  Scunthorpe United
          Charlton Athletic        5-2 (4-0)  Preston North End
          Chesterfield FC          2-2 (1-1)  Yeovil Town
@@ -294,9 +294,9 @@ Matchday 17
          Stevenage FC             2-1 (1-0)  Sheffield United
 
 
-Matchday 18
-[Sat Nov/19]
-  15.00  Oldham Athletic          5-2 (4-1)  Chesterfield FC
+▪ Matchday 18
+Sat Nov 19
+  15:00  Oldham Athletic          5-2 (4-1)  Chesterfield FC
          Brentford FC             0-1 (0-0)  Charlton Athletic
          Colchester United        1-5 (1-2)  Milton Keynes Dons
          Huddersfield Town        2-1 (0-0)  Notts County
@@ -310,11 +310,11 @@ Matchday 18
          Wycombe Wanderers        0-1 (0-1)  AFC Bournemouth
 
 
-Matchday 19
-[Sat Nov/26]
-  15.00  Hartlepool United        0-1 (0-1)  Yeovil Town
-  13.00  Chesterfield FC          0-1 (0-0)  Sheffield United
-  15.00  AFC Bournemouth          0-0  Oldham Athletic
+▪ Matchday 19
+Sat Nov 26
+  15:00  Hartlepool United        0-1 (0-1)  Yeovil Town
+  13:00  Chesterfield FC          0-1 (0-0)  Sheffield United
+  15:00  AFC Bournemouth          0-0  Oldham Athletic
          Bury FC                  1-0 (1-0)  Preston North End
          Carlisle United          1-0 (1-0)  Colchester United
          Exeter City              3-0 (1-0)  Tranmere Rovers
@@ -323,18 +323,18 @@ Matchday 19
          Notts County             3-2 (1-1)  Scunthorpe United
          Rochdale AFC             1-2 (0-1)  Brentford FC
          Sheffield Wednesday      1-0 (1-0)  Leyton Orient
-[Mon Nov/28]
-  19.45  Charlton Athletic        2-0 (2-0)  Huddersfield Town
+Mon Nov 28
+  19:45  Charlton Athletic        2-0 (2-0)  Huddersfield Town
 
 
-Matchday 8
-[Tue Nov/29]
-  19.45  Hartlepool United        0-1 (0-1)  Preston North End
+▪ Matchday 8
+Tue Nov 29
+  19:45  Hartlepool United        0-1 (0-1)  Preston North End
 
 
-Matchday 20
-[Sat Dec/10]
-  15.00  Brentford FC             2-1 (0-0)  Hartlepool United
+▪ Matchday 20
+Sat Dec 10
+  15:00  Brentford FC             2-1 (0-0)  Hartlepool United
          Colchester United        4-1 (3-0)  Bury FC
          Huddersfield Town        0-1 (0-1)  AFC Bournemouth
          Leyton Orient            3-0 (0-0)  Exeter City
@@ -348,9 +348,9 @@ Matchday 20
          Yeovil Town              1-0 (0-0)  Notts County
 
 
-Matchday 21
-[Sat Dec/17]
-  15.00  AFC Bournemouth          0-2 (0-1)  Sheffield United
+▪ Matchday 21
+Sat Dec 17
+  15:00  AFC Bournemouth          0-2 (0-1)  Sheffield United
          Bury FC                  1-1 (0-0)  Brentford FC
          Carlisle United          2-2 (1-2)  Wycombe Wanderers
          Charlton Athletic        1-1 (0-0)  Oldham Athletic
@@ -361,14 +361,14 @@ Matchday 21
          Rochdale AFC             0-0  Yeovil Town
          Sheffield Wednesday      4-4 (2-2)  Huddersfield Town
          Stevenage FC             2-1 (1-0)  Tranmere Rovers
-  17.20  Milton Keynes Dons       0-1 (0-1)  Preston North End
+  17:20  Milton Keynes Dons       0-1 (0-1)  Preston North End
 
 
-Matchday 22
-[Mon Dec/26]
-  13.00  Leyton Orient            0-3 (0-1)  Milton Keynes Dons
-  13.30  Preston North End        3-3 (2-2)  Carlisle United
-  15.00  Brentford FC             1-1 (0-1)  AFC Bournemouth
+▪ Matchday 22
+Mon Dec 26
+  13:00  Leyton Orient            0-3 (0-1)  Milton Keynes Dons
+  13:30  Preston North End        3-3 (2-2)  Carlisle United
+  15:00  Brentford FC             1-1 (0-1)  AFC Bournemouth
          Colchester United        1-6 (0-2)  Stevenage FC
          Huddersfield Town        1-0 (1-0)  Chesterfield FC
          Oldham Athletic          0-1 (0-1)  Hartlepool United
@@ -376,32 +376,32 @@ Matchday 22
          Walsall FC               2-1 (0-0)  Sheffield Wednesday
          Wycombe Wanderers        3-1 (2-1)  Exeter City
          Yeovil Town              2-3 (1-1)  Charlton Athletic
-[Tue Dec/27]
-  14.15  Sheffield United         2-1 (1-1)  Notts County
+Tue Dec 27
+  14:15  Sheffield United         2-1 (1-1)  Notts County
 
 
-Matchday 23
-[Fri Dec/30]
-  19.45  Huddersfield Town        1-1 (1-1)  Carlisle United
+▪ Matchday 23
+Fri Dec 30
+  19:45  Huddersfield Town        1-1 (1-1)  Carlisle United
          Tranmere Rovers          2-0 (1-0)  Bury FC
-[Sat Dec/31]
-  15.00  Wycombe Wanderers        0-1 (0-0)  Stevenage FC
-  13.00  Colchester United        2-0 (1-0)  Exeter City
+Sat Dec 31
+  15:00  Wycombe Wanderers        0-1 (0-0)  Stevenage FC
+  13:00  Colchester United        2-0 (1-0)  Exeter City
          Preston North End        0-2 (0-2)  Sheffield Wednesday
          Scunthorpe United        2-2 (1-0)  Chesterfield FC
          Sheffield United         3-1 (3-0)  Hartlepool United
          Walsall FC               0-0  Rochdale AFC
          Yeovil Town              1-3 (0-2)  AFC Bournemouth
-  15.00  Brentford FC             3-3 (0-3)  Milton Keynes Dons
+  15:00  Brentford FC             3-3 (0-3)  Milton Keynes Dons
          Oldham Athletic          3-2 (1-2)  Notts County
-  17.20  Leyton Orient            1-0 (1-0)  Charlton Athletic
+  17:20  Leyton Orient            1-0 (1-0)  Charlton Athletic
 
 
-Matchday 24
-[Mon Jan/2]
-  15.00  Stevenage FC             0-1 (0-1)  Leyton Orient
-  13.00  Rochdale AFC             1-1 (1-1)  Preston North End
-  15.00  AFC Bournemouth          2-0 (1-0)  Wycombe Wanderers
+▪ Matchday 24
+Mon Jan 2
+  15:00  Stevenage FC             0-1 (0-1)  Leyton Orient
+  13:00  Rochdale AFC             1-1 (1-1)  Preston North End
+  15:00  AFC Bournemouth          2-0 (1-0)  Wycombe Wanderers
          Bury FC                  2-1 (2-1)  Walsall FC
          Carlisle United          3-2 (2-2)  Sheffield United
          Charlton Athletic        2-0 (1-0)  Brentford FC
@@ -413,22 +413,22 @@ Matchday 24
          Sheffield Wednesday      2-1 (2-0)  Tranmere Rovers
 
 
-Matchday 25
-[Fri Jan/6]
-  19.45  Wycombe Wanderers        0-6 (0-3)  Huddersfield Town
-[Sat Jan/7]
-  15.00  Carlisle United          4-1 (3-0)  Leyton Orient
+▪ Matchday 25
+Fri Jan 6
+  19:45  Wycombe Wanderers        0-6 (0-3)  Huddersfield Town
+Sat Jan 7
+  15:00  Carlisle United          4-1 (3-0)  Leyton Orient
          Chesterfield FC          0-2 (0-0)  Exeter City
          Hartlepool United        2-0 (0-0)  Rochdale AFC
          Tranmere Rovers          2-2 (1-2)  Brentford FC
          Walsall FC               2-2 (2-0)  AFC Bournemouth
-[Tue Jan/10]
-  19.45  Sheffield United         4-0 (2-0)  Yeovil Town
+Tue Jan 10
+  19:45  Sheffield United         4-0 (2-0)  Yeovil Town
 
 
-Matchday 26
-[Sat Jan/14]
-  15.00  Exeter City              0-0  Hartlepool United
+▪ Matchday 26
+Sat Jan 14
+  15:00  Exeter City              0-0  Hartlepool United
          Yeovil Town              2-1 (1-1)  Tranmere Rovers
          Sheffield Wednesday      0-1 (0-1)  Charlton Athletic
          Rochdale AFC             1-5 (0-1)  Stevenage FC
@@ -441,15 +441,15 @@ Matchday 26
          Huddersfield Town        1-0 (0-0)  Oldham Athletic
 
 
-Matchday 22
-[Tue Jan/17]
-  19.45  Tranmere Rovers          0-0  Rochdale AFC
+▪ Matchday 22
+Tue Jan 17
+  19:45  Tranmere Rovers          0-0  Rochdale AFC
 
 
-Matchday 27
-[Sat Jan/21]
-  17.20  Huddersfield Town        3-2 (2-2)  Brentford FC
-  15.00  Scunthorpe United        1-1 (0-0)  Stevenage FC
+▪ Matchday 27
+Sat Jan 21
+  17:20  Huddersfield Town        3-2 (2-2)  Brentford FC
+  15:00  Scunthorpe United        1-1 (0-0)  Stevenage FC
          Preston North End        0-2 (0-0)  Leyton Orient
          Oldham Athletic          0-0  Exeter City
          Notts County             1-1 (0-1)  Milton Keynes Dons
@@ -462,54 +462,54 @@ Matchday 27
          Sheffield Wednesday      2-2 (0-0)  Hartlepool United
 
 
-Matchday 25
-[Tue Jan/24]
-  19.45  Stevenage FC             4-2 (1-1)  Milton Keynes Dons
+▪ Matchday 25
+Tue Jan 24
+  19:45  Stevenage FC             4-2 (1-1)  Milton Keynes Dons
          Scunthorpe United        1-3 (0-2)  Sheffield Wednesday
          Notts County             0-0  Preston North End
 
 
-Matchday 28
-[Fri Jan/27]
-  19.45  Chesterfield FC          1-0 (0-0)  AFC Bournemouth
-[Sat Jan/28]
-  15.00  Yeovil Town              2-1 (1-0)  Preston North End
+▪ Matchday 28
+Fri Jan 27
+  19:45  Chesterfield FC          1-0 (0-0)  AFC Bournemouth
+Sat Jan 28
+  15:00  Yeovil Town              2-1 (1-0)  Preston North End
          Tranmere Rovers          1-1 (0-0)  Huddersfield Town
          Rochdale AFC             3-0 (2-0)  Bury FC
          Brentford FC             5-2 (3-0)  Wycombe Wanderers
          Exeter City              0-1 (0-0)  Charlton Athletic
          Hartlepool United        4-0 (2-0)  Carlisle United
          Leyton Orient            0-1 (0-1)  Colchester United
-[Tue Jan/31]
-  19.45  Walsall FC               0-1 (0-1)  Notts County
+Tue Jan 31
+  19:45  Walsall FC               0-1 (0-1)  Notts County
          Milton Keynes Dons       1-1 (1-1)  Sheffield Wednesday
 
 
-Matchday 25
-[Tue Jan/31]
-  19.45  Charlton Athletic        1-1 (0-1)  Bury FC
+▪ Matchday 25
+Tue Jan 31
+  19:45  Charlton Athletic        1-1 (0-1)  Bury FC
 
 
-Matchday 29
-[Sat Feb/4]
-  15.00  Carlisle United          2-1 (0-1)  Chesterfield FC
+▪ Matchday 29
+Sat Feb 4
+  15:00  Carlisle United          2-1 (0-1)  Chesterfield FC
          Sheffield Wednesday      2-1 (0-1)  Yeovil Town
          Huddersfield Town        1-1 (1-0)  Milton Keynes Dons
          Wycombe Wanderers        2-1 (2-1)  Tranmere Rovers
-[Tue Feb/7]
-  19.45  AFC Bournemouth          2-0 (0-0)  Exeter City
+Tue Feb 7
+  19:45  AFC Bournemouth          2-0 (0-0)  Exeter City
 
 
-Matchday 30
-[Sat Feb/11]
-  15.00  Hartlepool United        0-0  AFC Bournemouth
+▪ Matchday 30
+Sat Feb 11
+  15:00  Hartlepool United        0-0  AFC Bournemouth
          Exeter City              2-1 (0-0)  Sheffield Wednesday
          Sheffield United         3-0 (0-0)  Wycombe Wanderers
 
 
-Matchday 31
-[Tue Feb/14]
-  19.45  Colchester United        2-1 (0-0)  Brentford FC
+▪ Matchday 31
+Tue Feb 14
+  19:45  Colchester United        2-1 (0-0)  Brentford FC
          AFC Bournemouth          1-2 (1-1)  Leyton Orient
          Huddersfield Town        0-1 (0-1)  Sheffield United
          Notts County             2-1 (2-1)  Exeter City
@@ -523,10 +523,10 @@ Matchday 31
          Sheffield Wednesday      0-1 (0-1)  Stevenage FC
 
 
-Matchday 32
-[Sat Feb/18]
-  13.00  Chesterfield FC          1-0 (0-0)  Sheffield Wednesday
-  15.00  Exeter City              3-2 (3-1)  Bury FC
+▪ Matchday 32
+Sat Feb 18
+  13:00  Chesterfield FC          1-0 (0-0)  Sheffield Wednesday
+  15:00  Exeter City              3-2 (3-1)  Bury FC
          Hartlepool United        3-0 (1-0)  Notts County
          Leyton Orient            1-3 (1-0)  Scunthorpe United
          Milton Keynes Dons       5-0 (1-0)  Oldham Athletic
@@ -535,30 +535,30 @@ Matchday 32
          Yeovil Town              3-2 (0-1)  Colchester United
          Rochdale AFC             1-0 (0-0)  AFC Bournemouth
          Walsall FC               2-0 (0-0)  Wycombe Wanderers
-[Mon Feb/20]
-  19.45  Brentford FC             4-0 (3-0)  Carlisle United
+Mon Feb 20
+  19:45  Brentford FC             4-0 (3-0)  Carlisle United
 
 
-Matchday 29
-[Tue Feb/21]
-  19.45  Scunthorpe United        0-1 (0-1)  Walsall FC
+▪ Matchday 29
+Tue Feb 21
+  19:45  Scunthorpe United        0-1 (0-1)  Walsall FC
 
 
-Matchday 30
-[Tue Feb/21]
-  19.45  Milton Keynes Dons       2-1 (2-1)  Bury FC
+▪ Matchday 30
+Tue Feb 21
+  19:45  Milton Keynes Dons       2-1 (2-1)  Bury FC
 
 
-Matchday 29
-[Tue Feb/21]
-  19.45  Charlton Athletic        1-1 (0-0)  Rochdale AFC
-[Wed Feb/22]
-  19.45  Notts County             1-0 (0-0)  Stevenage FC
+▪ Matchday 29
+Tue Feb 21
+  19:45  Charlton Athletic        1-1 (0-0)  Rochdale AFC
+Wed Feb 22
+  19:45  Notts County             1-0 (0-0)  Stevenage FC
 
 
-Matchday 33
-[Sat Feb/25]
-  15.00  Notts County             1-0 (0-0)  Chesterfield FC
+▪ Matchday 33
+Sat Feb 25
+  15:00  Notts County             1-0 (0-0)  Chesterfield FC
          Huddersfield Town        2-0 (1-0)  Exeter City
          Colchester United        0-0  Rochdale AFC
          Preston North End        0-0  Walsall FC
@@ -569,43 +569,43 @@ Matchday 33
          Oldham Athletic          1-0 (0-0)  Tranmere Rovers
          Wycombe Wanderers        5-0 (3-0)  Hartlepool United
          Bury FC                  1-1 (0-1)  Leyton Orient
-[Sun Feb/26]
-  13.00  Sheffield Wednesday      1-0 (0-0)  Sheffield United
+Sun Feb 26
+  13:00  Sheffield Wednesday      1-0 (0-0)  Sheffield United
 
 
-Matchday 30
-[Tue Feb/28]
-  19.45  Chesterfield FC          0-4 (0-1)  Charlton Athletic
+▪ Matchday 30
+Tue Feb 28
+  19:45  Chesterfield FC          0-4 (0-1)  Charlton Athletic
 
 
-Matchday 25
-[Tue Feb/28]
-  19.45  Oldham Athletic          1-1 (1-0)  Colchester United
+▪ Matchday 25
+Tue Feb 28
+  19:45  Oldham Athletic          1-1 (1-0)  Colchester United
 
 
-Matchday 29
-[Tue Feb/28]
-  19.45  Bury FC                  1-2 (0-1)  Hartlepool United
+▪ Matchday 29
+Tue Feb 28
+  19:45  Bury FC                  1-2 (0-1)  Hartlepool United
 
 
-Matchday 32
-[Tue Feb/28]
-  19.45  Stevenage FC             2-2 (0-0)  Huddersfield Town
+▪ Matchday 32
+Tue Feb 28
+  19:45  Stevenage FC             2-2 (0-0)  Huddersfield Town
 
 
-Matchday 30
-[Tue Feb/28]
-  19.45  Rochdale AFC             0-1 (0-1)  Notts County
+▪ Matchday 30
+Tue Feb 28
+  19:45  Rochdale AFC             0-1 (0-1)  Notts County
 
 
-Matchday 28
-[Wed Feb/29]
-  19.45  Sheffield United         2-1 (0-1)  Scunthorpe United
+▪ Matchday 28
+Wed Feb 29
+  19:45  Sheffield United         2-1 (0-1)  Scunthorpe United
 
 
-Matchday 34
-[Sat Mar/3]
-  15.00  Exeter City              1-1 (1-0)  Stevenage FC
+▪ Matchday 34
+Sat Mar 3
+  15:00  Exeter City              1-1 (1-0)  Stevenage FC
          Hartlepool United        1-1 (1-0)  Milton Keynes Dons
          Bury FC                  3-3 (1-3)  Huddersfield Town
          Colchester United        3-0 (1-0)  Preston North End
@@ -619,9 +619,9 @@ Matchday 34
          AFC Bournemouth          0-1 (0-0)  Charlton Athletic
 
 
-Matchday 35
-[Tue Mar/6]
-  19.45  Brentford FC             2-0 (1-0)  Exeter City
+▪ Matchday 35
+Tue Mar 6
+  19:45  Brentford FC             2-0 (1-0)  Exeter City
          Carlisle United          2-1 (0-0)  Rochdale AFC
          Charlton Athletic        0-2 (0-1)  Colchester United
          Huddersfield Town        1-0 (0-0)  Hartlepool United
@@ -634,9 +634,9 @@ Matchday 35
          Oldham Athletic          1-2 (0-0)  Scunthorpe United
 
 
-Matchday 36
-[Sat Mar/10]
-  15.00  Preston North End        0-0  Scunthorpe United
+▪ Matchday 36
+Sat Mar 10
+  15:00  Preston North End        0-0  Scunthorpe United
          Walsall FC               0-0  Hartlepool United
          Tranmere Rovers          2-0 (2-0)  Leyton Orient
          Stevenage FC             2-2 (0-2)  Chesterfield FC
@@ -650,25 +650,25 @@ Matchday 36
          Wycombe Wanderers        0-0  Colchester United
 
 
-Matchday 29
-[Tue Mar/13]
-  19.45  Colchester United        1-1 (0-1)  Sheffield United
+▪ Matchday 29
+Tue Mar 13
+  19:45  Colchester United        1-1 (0-1)  Sheffield United
 
 
-Matchday 28
-[Tue Mar/13]
-  19.45  Stevenage FC             1-0 (0-0)  Oldham Athletic
+▪ Matchday 28
+Tue Mar 13
+  19:45  Stevenage FC             1-0 (0-0)  Oldham Athletic
 
 
-Matchday 30
-[Tue Mar/13]
-  19.45  Tranmere Rovers          2-1 (1-1)  Preston North End
+▪ Matchday 30
+Tue Mar 13
+  19:45  Tranmere Rovers          2-1 (1-1)  Preston North End
          Yeovil Town              2-2 (1-0)  Scunthorpe United
 
 
-Matchday 37
-[Sat Mar/17]
-  15.00  Leyton Orient            2-0 (2-0)  Brentford FC
+▪ Matchday 37
+Sat Mar 17
+  15:00  Leyton Orient            2-0 (2-0)  Brentford FC
          AFC Bournemouth          1-1 (0-1)  Carlisle United
          Scunthorpe United        1-1 (1-1)  Charlton Athletic
          Sheffield United         1-1 (1-0)  Tranmere Rovers
@@ -682,9 +682,9 @@ Matchday 37
          Yeovil Town              2-1 (0-1)  Walsall FC
 
 
-Matchday 38
-[Tue Mar/20]
-  19.45  Chesterfield FC          0-2 (0-2)  Huddersfield Town
+▪ Matchday 38
+Tue Mar 20
+  19:45  Chesterfield FC          0-2 (0-2)  Huddersfield Town
          Exeter City              1-3 (0-0)  Wycombe Wanderers
          Hartlepool United        0-1 (0-1)  Oldham Athletic
          Milton Keynes Dons       4-1 (2-1)  Leyton Orient
@@ -698,9 +698,9 @@ Matchday 38
          Charlton Athletic        3-0 (1-0)  Yeovil Town
 
 
-Matchday 39
-[Sat Mar/24]
-  15.00  Wycombe Wanderers        1-1 (0-0)  Milton Keynes Dons
+▪ Matchday 39
+Sat Mar 24
+  15:00  Wycombe Wanderers        1-1 (0-0)  Milton Keynes Dons
          Yeovil Town              0-1 (0-0)  Hartlepool United
          Scunthorpe United        0-0  Notts County
          Walsall FC               1-1 (1-0)  Stevenage FC
@@ -713,39 +713,39 @@ Matchday 39
          Tranmere Rovers          2-0 (0-0)  Exeter City
 
 
-Matchday 29
-[Tue Mar/27]
-  19.45  Oldham Athletic          0-1 (0-0)  Leyton Orient
+▪ Matchday 29
+Tue Mar 27
+  19:45  Oldham Athletic          0-1 (0-0)  Leyton Orient
          Preston North End        1-3 (1-2)  Brentford FC
 
 
-Matchday 30
-[Tue Mar/27]
-  19.45  Walsall FC               3-1 (2-1)  Colchester United
+▪ Matchday 30
+Tue Mar 27
+  19:45  Walsall FC               3-1 (2-1)  Colchester United
 
 
-Matchday 26
-[Tue Mar/27]
-  19.45  Milton Keynes Dons       1-2 (0-0)  Carlisle United
+▪ Matchday 26
+Tue Mar 27
+  19:45  Milton Keynes Dons       1-2 (0-0)  Carlisle United
 
 
-Matchday 35
-[Tue Mar/27]
-  19.45  Stevenage FC             2-2 (2-2)  AFC Bournemouth
+▪ Matchday 35
+Tue Mar 27
+  19:45  Stevenage FC             2-2 (2-2)  AFC Bournemouth
 
 
-Matchday 39
-[Wed Mar/28]
-  19.45  Sheffield United         4-1 (1-1)  Chesterfield FC
+▪ Matchday 39
+Wed Mar 28
+  19:45  Sheffield United         4-1 (1-1)  Chesterfield FC
 
 
-Matchday 40
-[Sat Mar/31]
-  15.00  Notts County             1-0 (0-0)  Oldham Athletic
+▪ Matchday 40
+Sat Mar 31
+  15:00  Notts County             1-0 (0-0)  Oldham Athletic
          Rochdale AFC             3-3 (0-2)  Walsall FC
          Exeter City              1-1 (0-1)  Colchester United
-  12.45  Sheffield Wednesday      2-0 (0-0)  Preston North End
-  15.00  AFC Bournemouth          0-0  Yeovil Town
+  12:45  Sheffield Wednesday      2-0 (0-0)  Preston North End
+  15:00  AFC Bournemouth          0-0  Yeovil Town
          Bury FC                  2-0 (0-0)  Tranmere Rovers
          Carlisle United          2-1 (0-0)  Huddersfield Town
          Charlton Athletic        2-0 (1-0)  Leyton Orient
@@ -755,34 +755,34 @@ Matchday 40
          Stevenage FC             1-1 (0-0)  Wycombe Wanderers
 
 
-Matchday 30
-[Tue Apr/3]
-  19.45  Leyton Orient            1-3 (1-2)  Huddersfield Town
+▪ Matchday 30
+Tue Apr 3
+  19:45  Leyton Orient            1-3 (1-2)  Huddersfield Town
          Brentford FC             2-0 (1-0)  Oldham Athletic
 
 
-Matchday 41
-[Fri Apr/6]
-  15.00  Wycombe Wanderers        1-1 (0-0)  Carlisle United
+▪ Matchday 41
+Fri Apr 6
+  15:00  Wycombe Wanderers        1-1 (0-0)  Carlisle United
          Colchester United        1-1 (0-1)  Hartlepool United
          Leyton Orient            0-3 (0-0)  Notts County
          Scunthorpe United        1-0 (0-0)  Exeter City
          Tranmere Rovers          3-0 (2-0)  Stevenage FC
-[Sat Apr/7]
-  15.00  Walsall FC               3-2 (2-1)  Chesterfield FC
-  12.30  Huddersfield Town        0-2 (0-0)  Sheffield Wednesday
-  15.00  Brentford FC             3-0 (1-0)  Bury FC
+Sat Apr 7
+  15:00  Walsall FC               3-2 (2-1)  Chesterfield FC
+  12:30  Huddersfield Town        0-2 (0-0)  Sheffield Wednesday
+  15:00  Brentford FC             3-0 (1-0)  Bury FC
          Oldham Athletic          0-1 (0-0)  Charlton Athletic
          Preston North End        1-1 (0-1)  Milton Keynes Dons
          Sheffield United         2-1 (1-0)  AFC Bournemouth
          Yeovil Town              3-1 (2-0)  Rochdale AFC
 
 
-Matchday 42
-[Mon Apr/9]
-  15.00  Chesterfield FC          4-0 (1-0)  Wycombe Wanderers
-  12.45  Sheffield Wednesday      3-0 (1-0)  Oldham Athletic
-  15.00  AFC Bournemouth          2-0 (0-0)  Huddersfield Town
+▪ Matchday 42
+Mon Apr 9
+  15:00  Chesterfield FC          4-0 (1-0)  Wycombe Wanderers
+  12:45  Sheffield Wednesday      3-0 (1-0)  Oldham Athletic
+  15:00  AFC Bournemouth          2-0 (0-0)  Huddersfield Town
          Bury FC                  4-1 (2-0)  Colchester United
          Carlisle United          0-0  Scunthorpe United
          Charlton Athletic        1-0 (1-0)  Walsall FC
@@ -791,13 +791,13 @@ Matchday 42
          Hartlepool United        0-0  Brentford FC
          Milton Keynes Dons       3-0 (2-0)  Tranmere Rovers
          Notts County             3-1 (1-0)  Yeovil Town
-[Tue Apr/10]
-  19.45  Rochdale AFC             2-5 (1-4)  Sheffield United
+Tue Apr 10
+  19:45  Rochdale AFC             2-5 (1-4)  Sheffield United
 
 
-Matchday 43
-[Sat Apr/14]
-  15.00  Hartlepool United        1-2 (1-0)  Chesterfield FC
+▪ Matchday 43
+Sat Apr 14
+  15:00  Hartlepool United        1-2 (1-0)  Chesterfield FC
          Brentford FC             0-0  Notts County
          Bury FC                  1-0 (1-0)  AFC Bournemouth
          Carlisle United          0-1 (0-0)  Charlton Athletic
@@ -811,15 +811,15 @@ Matchday 43
          Yeovil Town              0-6 (0-2)  Stevenage FC
 
 
-Matchday 30
-[Tue Apr/17]
-  19.45  Stevenage FC             1-0 (0-0)  Carlisle United
+▪ Matchday 30
+Tue Apr 17
+  19:45  Stevenage FC             1-0 (0-0)  Carlisle United
 
 
-Matchday 44
-[Sat Apr/21]
-  12.30  Notts County             2-4 (0-1)  Bury FC
-  15.00  AFC Bournemouth          1-1 (1-0)  Colchester United
+▪ Matchday 44
+Sat Apr 21
+  12:30  Notts County             2-4 (0-1)  Bury FC
+  15:00  AFC Bournemouth          1-1 (1-0)  Colchester United
          Charlton Athletic        2-1 (1-1)  Wycombe Wanderers
          Chesterfield FC          2-1 (0-0)  Rochdale AFC
          Exeter City              4-2 (0-1)  Walsall FC
@@ -832,9 +832,9 @@ Matchday 44
          Tranmere Rovers          1-1 (1-0)  Hartlepool United
 
 
-Matchday 45
-[Sat Apr/28]
-  15.00  Brentford FC             1-2 (0-1)  Sheffield Wednesday
+▪ Matchday 45
+Sat Apr 28
+  15:00  Brentford FC             1-2 (0-1)  Sheffield Wednesday
          Bury FC                  0-0  Oldham Athletic
          Carlisle United          4-1 (2-1)  Exeter City
          Colchester United        4-2 (1-0)  Tranmere Rovers
@@ -845,12 +845,12 @@ Matchday 45
          Walsall FC               1-1 (0-1)  Huddersfield Town
          Wycombe Wanderers        3-4 (2-2)  Notts County
          Yeovil Town              3-2 (1-1)  Chesterfield FC
-  17.20  Sheffield United         2-2 (0-1)  Stevenage FC
+  17:20  Sheffield United         2-2 (0-1)  Stevenage FC
 
 
-Matchday 46
-[Sat May/5]
-  15.00  AFC Bournemouth          1-0 (0-0)  Preston North End
+▪ Matchday 46
+Sat May 5
+  15:00  AFC Bournemouth          1-0 (0-0)  Preston North End
          Charlton Athletic        3-2 (0-1)  Hartlepool United
          Chesterfield FC          2-3 (0-1)  Brentford FC
          Exeter City              2-2 (1-1)  Sheffield United

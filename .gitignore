@@ -10,4 +10,6 @@ sport.db
 _site/
 *.json
 
+
+*.v26*.txt
 *.v2.txt

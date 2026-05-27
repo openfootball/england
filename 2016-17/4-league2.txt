@@ -1,14 +1,14 @@
 = English League Two 2016/17
 
-# Date       Sat Aug/6 2016 - Sat May/6 2017 (273d)
+# Date       Sat Aug 6 2016 - Sat May 6 2017 (273d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/6]
-  15.00  Accrington Stanley       3-2 (2-1)  Doncaster Rovers
+▪ Matchday 1
+Sat Aug 6
+  15:00  Accrington Stanley       3-2 (2-1)  Doncaster Rovers
          Blackpool FC             2-0 (1-0)  Exeter City
          Cambridge United         1-1 (0-0)  Barnet FC
          Cheltenham Town          1-1 (0-1)  Leyton Orient
@@ -22,9 +22,9 @@ Matchday 1
          Yeovil Town              2-0 (2-0)  Notts County
 
 
-Matchday 2
-[Sat Aug/13]
-  15.00  Barnet FC                2-0 (1-0)  Accrington Stanley
+▪ Matchday 2
+Sat Aug 13
+  15:00  Barnet FC                2-0 (1-0)  Accrington Stanley
          Carlisle United          1-0 (1-0)  Plymouth Argyle
          Colchester United        2-0 (1-0)  Cambridge United
          Crewe Alexandra          0-0  Portsmouth FC
@@ -38,9 +38,9 @@ Matchday 2
          Wycombe Wanderers        2-1 (0-0)  Grimsby Town
 
 
-Matchday 3
-[Tue Aug/16]
-  19.45  Carlisle United          1-1 (0-0)  Cheltenham Town
+▪ Matchday 3
+Tue Aug 16
+  19:45  Carlisle United          1-1 (0-0)  Cheltenham Town
          Colchester United        3-2 (3-0)  Grimsby Town
          Crewe Alexandra          3-3 (2-1)  Hartlepool United
          Doncaster Rovers         1-0 (0-0)  Cambridge United
@@ -51,12 +51,12 @@ Matchday 3
          Morecambe FC             2-0 (2-0)  Portsmouth FC
          Notts County             1-2 (1-2)  Plymouth Argyle
          Wycombe Wanderers        1-1 (1-0)  Accrington Stanley
-  20.00  Barnet FC                1-1 (0-1)  Blackpool FC
+  20:00  Barnet FC                1-1 (0-1)  Blackpool FC
 
 
-Matchday 4
-[Sat Aug/20]
-  15.00  Accrington Stanley       1-2 (0-0)  Exeter City
+▪ Matchday 4
+Sat Aug 20
+  15:00  Accrington Stanley       1-2 (0-0)  Exeter City
          Blackpool FC             0-0  Wycombe Wanderers
          Cambridge United         2-2 (2-1)  Carlisle United
          Cheltenham Town          0-1 (0-0)  Doncaster Rovers
@@ -70,9 +70,9 @@ Matchday 4
          Yeovil Town              0-1 (0-0)  Morecambe FC
 
 
-Matchday 5
-[Sat Aug/27]
-  15.00  Accrington Stanley       2-3 (2-1)  Morecambe FC
+▪ Matchday 5
+Sat Aug 27
+  15:00  Accrington Stanley       2-3 (2-1)  Morecambe FC
          Barnet FC                0-1 (0-1)  Carlisle United
          Blackpool FC             0-1 (0-0)  Plymouth Argyle
          Cambridge United         0-3 (0-0)  Luton Town
@@ -86,9 +86,9 @@ Matchday 5
          Wycombe Wanderers        0-2 (0-0)  Colchester United
 
 
-Matchday 6
-[Sat Sep/3]
-  15.00  Carlisle United          1-1 (0-0)  Accrington Stanley
+▪ Matchday 6
+Sat Sep 3
+  15:00  Carlisle United          1-1 (0-0)  Accrington Stanley
          Colchester United        2-3 (2-1)  Exeter City
          Crewe Alexandra          2-1 (1-0)  Doncaster Rovers
          Luton Town               4-1 (1-0)  Wycombe Wanderers
@@ -101,9 +101,9 @@ Matchday 6
          Yeovil Town              0-3 (0-0)  Blackpool FC
 
 
-Matchday 7
-[Sat Sep/10]
-  15.00  Yeovil Town              1-2 (0-0)  Hartlepool United
+▪ Matchday 7
+Sat Sep 10
+  15:00  Yeovil Town              1-2 (0-0)  Hartlepool United
          Carlisle United          2-2 (0-1)  Leyton Orient
          Colchester United        3-2 (1-1)  Blackpool FC
          Crewe Alexandra          2-0 (1-0)  Exeter City
@@ -117,11 +117,11 @@ Matchday 7
          Stevenage FC             2-1 (1-0)  Crawley Town
 
 
-Matchday 8
-[Sat Sep/17]
-  15.00  Wycombe Wanderers        1-0 (1-0)  Stevenage FC
-  13.00  Exeter City              0-2 (0-2)  Plymouth Argyle
-  15.00  Accrington Stanley       1-0 (0-0)  Portsmouth FC
+▪ Matchday 8
+Sat Sep 17
+  15:00  Wycombe Wanderers        1-0 (1-0)  Stevenage FC
+  13:00  Exeter City              0-2 (0-2)  Plymouth Argyle
+  15:00  Accrington Stanley       1-0 (0-0)  Portsmouth FC
          Barnet FC                1-1 (0-1)  Colchester United
          Blackpool FC             2-2 (0-0)  Carlisle United
          Cambridge United         1-2 (1-0)  Morecambe FC
@@ -133,11 +133,11 @@ Matchday 8
          Leyton Orient            0-1 (0-0)  Yeovil Town
 
 
-Matchday 9
-[Sat Sep/24]
-  15.00  Luton Town               3-1 (2-1)  Doncaster Rovers
-  12.15  Mansfield Town           0-1 (0-1)  Grimsby Town
-  15.00  Carlisle United          1-0 (0-0)  Wycombe Wanderers
+▪ Matchday 9
+Sat Sep 24
+  15:00  Luton Town               3-1 (2-1)  Doncaster Rovers
+  12:15  Mansfield Town           0-1 (0-1)  Grimsby Town
+  15:00  Carlisle United          1-0 (0-0)  Wycombe Wanderers
          Colchester United        1-2 (1-0)  Accrington Stanley
          Crewe Alexandra          1-1 (0-1)  Blackpool FC
          Yeovil Town              4-2 (3-1)  Cheltenham Town
@@ -149,25 +149,25 @@ Matchday 9
          Stevenage FC             0-2 (0-0)  Exeter City
 
 
-Matchday 10
-[Tue Sep/27]
-  19.45  Doncaster Rovers         2-2 (2-1)  Carlisle United
+▪ Matchday 10
+Tue Sep 27
+  19:45  Doncaster Rovers         2-2 (2-1)  Carlisle United
          Accrington Stanley       1-1 (0-1)  Mansfield Town
          Blackpool FC             3-1 (1-1)  Portsmouth FC
          Cambridge United         1-0 (0-0)  Yeovil Town
          Cheltenham Town          0-0  Stevenage FC
          Crawley Town             1-1 (1-0)  Colchester United
-  20.00  Barnet FC                2-2 (2-1)  Morecambe FC
-  19.45  Exeter City              0-2 (0-2)  Notts County
+  20:00  Barnet FC                2-2 (2-1)  Morecambe FC
+  19:45  Exeter City              0-2 (0-2)  Notts County
          Grimsby Town             1-0 (0-0)  Newport County
          Hartlepool United        1-1 (1-0)  Luton Town
          Leyton Orient            0-2 (0-1)  Plymouth Argyle
          Wycombe Wanderers        5-1 (3-0)  Crewe Alexandra
 
 
-Matchday 11
-[Sat Oct/1]
-  15.00  Wycombe Wanderers        1-0 (0-0)  Exeter City
+▪ Matchday 11
+Sat Oct 1
+  15:00  Wycombe Wanderers        1-0 (0-0)  Exeter City
          Barnet FC                0-0  Leyton Orient
          Cambridge United         2-1 (1-0)  Accrington Stanley
          Carlisle United          2-0 (0-0)  Colchester United
@@ -179,13 +179,13 @@ Matchday 11
          Portsmouth FC            1-2 (1-2)  Doncaster Rovers
 
 
-Matchday 12
-[Sat Oct/8]
-  15.00  Yeovil Town              1-0 (1-0)  Wycombe Wanderers
+▪ Matchday 12
+Sat Oct 8
+  15:00  Yeovil Town              1-0 (1-0)  Wycombe Wanderers
          Stevenage FC             1-2 (0-0)  Plymouth Argyle
          Morecambe FC             0-3 (0-1)  Carlisle United
-  12.15  Mansfield Town           3-1 (0-0)  Notts County
-  15.00  Accrington Stanley       1-1 (0-0)  Cheltenham Town
+  12:15  Mansfield Town           3-1 (0-0)  Notts County
+  15:00  Accrington Stanley       1-1 (0-0)  Cheltenham Town
          Blackpool FC             1-1 (0-1)  Cambridge United
          Colchester United        0-0  Newport County
          Doncaster Rovers         3-2 (2-0)  Barnet FC
@@ -195,14 +195,14 @@ Matchday 12
          Luton Town               1-1 (1-0)  Crewe Alexandra
 
 
-Matchday 11
-[Tue Oct/11]
-  19.45  Notts County             1-2 (0-1)  Morecambe FC
+▪ Matchday 11
+Tue Oct 11
+  19:45  Notts County             1-2 (0-1)  Morecambe FC
 
 
-Matchday 13
-[Sat Oct/15]
-  15.00  Plymouth Argyle          2-2 (1-1)  Portsmouth FC
+▪ Matchday 13
+Sat Oct 15
+  15:00  Plymouth Argyle          2-2 (1-1)  Portsmouth FC
          Notts County             1-1 (0-0)  Crewe Alexandra
          Accrington Stanley       2-1 (0-0)  Blackpool FC
          Barnet FC                1-4 (1-1)  Exeter City
@@ -216,9 +216,9 @@ Matchday 13
          Yeovil Town              1-0 (0-0)  Newport County
 
 
-Matchday 14
-[Sat Oct/22]
-  15.00  Exeter City              1-2 (0-2)  Cambridge United
+▪ Matchday 14
+Sat Oct 22
+  15:00  Exeter City              1-2 (0-2)  Cambridge United
          Stevenage FC             1-2 (1-1)  Carlisle United
          Blackpool FC             4-2 (2-1)  Doncaster Rovers
          Colchester United        2-2 (2-1)  Morecambe FC
@@ -232,14 +232,14 @@ Matchday 14
          Wycombe Wanderers        0-2 (0-0)  Barnet FC
 
 
-Matchday 6
-[Tue Oct/25]
-  19.45  Newport County           2-2 (1-0)  Barnet FC
+▪ Matchday 6
+Tue Oct 25
+  19:45  Newport County           2-2 (1-0)  Barnet FC
 
 
-Matchday 15
-[Sat Oct/29]
-  15.00  Cheltenham Town          2-2 (2-1)  Blackpool FC
+▪ Matchday 15
+Sat Oct 29
+  15:00  Cheltenham Town          2-2 (2-1)  Blackpool FC
          Accrington Stanley       1-3 (0-0)  Newport County
          Barnet FC                3-2 (0-1)  Hartlepool United
          Cambridge United         0-1 (0-1)  Portsmouth FC
@@ -253,11 +253,11 @@ Matchday 15
          Yeovil Town              0-0  Grimsby Town
 
 
-Matchday 16
-[Sat Nov/12]
-  15.00  Crewe Alexandra          1-2 (1-1)  Plymouth Argyle
-  13.00  Newport County           2-0 (1-0)  Carlisle United
-  15.00  Blackpool FC             4-0 (1-0)  Notts County
+▪ Matchday 16
+Sat Nov 12
+  15:00  Crewe Alexandra          1-2 (1-1)  Plymouth Argyle
+  13:00  Newport County           2-0 (1-0)  Carlisle United
+  15:00  Blackpool FC             4-0 (1-0)  Notts County
          Colchester United        0-3 (0-1)  Leyton Orient
          Crawley Town             1-3 (1-2)  Cambridge United
          Wycombe Wanderers        2-0 (0-0)  Morecambe FC
@@ -269,9 +269,9 @@ Matchday 16
          Stevenage FC             2-2 (0-0)  Yeovil Town
 
 
-Matchday 17
-[Sat Nov/19]
-  15.00  Doncaster Rovers         2-1 (1-1)  Hartlepool United
+▪ Matchday 17
+Sat Nov 19
+  15:00  Doncaster Rovers         2-1 (1-1)  Hartlepool United
          Accrington Stanley       0-1 (0-0)  Stevenage FC
          Barnet FC                0-0  Crewe Alexandra
          Cambridge United         1-2 (0-1)  Wycombe Wanderers
@@ -285,9 +285,9 @@ Matchday 17
          Plymouth Argyle          0-3 (0-1)  Grimsby Town
 
 
-Matchday 18
-[Tue Nov/22]
-  19.45  Leyton Orient            0-1 (0-1)  Exeter City
+▪ Matchday 18
+Tue Nov 22
+  19:45  Leyton Orient            0-1 (0-1)  Exeter City
          Cheltenham Town          0-3 (0-0)  Colchester United
          Crewe Alexandra          2-1 (2-1)  Morecambe FC
          Grimsby Town             2-2 (0-1)  Carlisle United
@@ -299,9 +299,9 @@ Matchday 18
          Notts County             0-1 (0-1)  Cambridge United
 
 
-Matchday 19
-[Sat Nov/26]
-  15.00  Carlisle United          5-2 (1-1)  Mansfield Town
+▪ Matchday 19
+Sat Nov 26
+  15:00  Carlisle United          5-2 (1-1)  Mansfield Town
          Portsmouth FC            1-2 (0-0)  Stevenage FC
          Morecambe FC             2-1 (1-1)  Plymouth Argyle
          Accrington Stanley       1-1 (0-0)  Yeovil Town
@@ -315,20 +315,20 @@ Matchday 19
          Exeter City              0-0  Luton Town
 
 
-Matchday 18
-[Sat Dec/3]
-  15.00  Stevenage FC             3-4 (0-3)  Doncaster Rovers
+▪ Matchday 18
+Sat Dec 3
+  15:00  Stevenage FC             3-4 (0-3)  Doncaster Rovers
          Yeovil Town              5-0 (3-0)  Crawley Town
 
 
-Matchday 11
-[Tue Dec/6]
-  19.45  Newport County           0-2 (0-2)  Stevenage FC
+▪ Matchday 11
+Tue Dec 6
+  19:45  Newport County           0-2 (0-2)  Stevenage FC
 
 
-Matchday 20
-[Sat Dec/10]
-  15.00  Cheltenham Town          1-3 (0-0)  Exeter City
+▪ Matchday 20
+Sat Dec 10
+  15:00  Cheltenham Town          1-3 (0-0)  Exeter City
          Crewe Alexandra          0-2 (0-1)  Crawley Town
          Grimsby Town             0-1 (0-0)  Portsmouth FC
          Hartlepool United        0-5 (0-0)  Cambridge United
@@ -341,11 +341,11 @@ Matchday 20
          Yeovil Town              0-1 (0-0)  Barnet FC
 
 
-Matchday 21
-[Sat Dec/17]
-  15.00  Portsmouth FC            0-0  Hartlepool United
-  12.30  Doncaster Rovers         1-0 (1-0)  Grimsby Town
-  15.00  Accrington Stanley       0-1 (0-0)  Plymouth Argyle
+▪ Matchday 21
+Sat Dec 17
+  15:00  Portsmouth FC            0-0  Hartlepool United
+  12:30  Doncaster Rovers         1-0 (1-0)  Grimsby Town
+  15:00  Accrington Stanley       0-1 (0-0)  Plymouth Argyle
          Barnet FC                1-2 (0-1)  Stevenage FC
          Blackpool FC             0-2 (0-1)  Luton Town
          Cambridge United         2-1 (0-0)  Crewe Alexandra
@@ -357,11 +357,11 @@ Matchday 21
          Wycombe Wanderers        1-0 (0-0)  Leyton Orient
 
 
-Matchday 22
-[Mon Dec/26]
-  15.15  Plymouth Argyle          3-3 (2-1)  Wycombe Wanderers
-  13.00  Leyton Orient            3-2 (3-0)  Crawley Town
-  15.00  Cheltenham Town          1-2 (1-1)  Barnet FC
+▪ Matchday 22
+Mon Dec 26
+  15:15  Plymouth Argyle          3-3 (2-1)  Wycombe Wanderers
+  13:00  Leyton Orient            3-2 (3-0)  Crawley Town
+  15:00  Cheltenham Town          1-2 (1-1)  Barnet FC
          Crewe Alexandra          1-1 (1-1)  Carlisle United
          Grimsby Town             2-0 (1-0)  Accrington Stanley
          Hartlepool United        0-1 (0-0)  Blackpool FC
@@ -373,16 +373,16 @@ Matchday 22
          Yeovil Town              0-0  Exeter City
 
 
-Matchday 23
-[Fri Dec/30]
-  19.45  Cheltenham Town          0-1 (0-1)  Wycombe Wanderers
+▪ Matchday 23
+Fri Dec 30
+  19:45  Cheltenham Town          0-1 (0-1)  Wycombe Wanderers
          Hartlepool United        3-2 (3-0)  Morecambe FC
          Yeovil Town              0-0  Portsmouth FC
-[Sat Dec/31]
-  15.00  Crewe Alexandra          0-1 (0-1)  Accrington Stanley
-  12.15  Mansfield Town           1-1 (0-0)  Doncaster Rovers
-  13.00  Leyton Orient            1-1 (0-1)  Cambridge United
-  15.00  Stevenage FC             2-4 (1-2)  Colchester United
+Sat Dec 31
+  15:00  Crewe Alexandra          0-1 (0-1)  Accrington Stanley
+  12:15  Mansfield Town           1-1 (0-0)  Doncaster Rovers
+  13:00  Leyton Orient            1-1 (0-1)  Cambridge United
+  15:00  Stevenage FC             2-4 (1-2)  Colchester United
          Grimsby Town             0-0  Blackpool FC
          Luton Town               3-1 (1-1)  Barnet FC
          Newport County           1-4 (0-1)  Exeter City
@@ -390,9 +390,9 @@ Matchday 23
          Plymouth Argyle          2-0 (0-0)  Crawley Town
 
 
-Matchday 24
-[Mon Jan/2]
-  15.00  Wycombe Wanderers        2-1 (0-0)  Newport County
+▪ Matchday 24
+Mon Jan 2
+  15:00  Wycombe Wanderers        2-1 (0-0)  Newport County
          Accrington Stanley       2-2 (0-0)  Hartlepool United
          Barnet FC                1-0 (1-0)  Plymouth Argyle
          Blackpool FC             0-1 (0-1)  Mansfield Town
@@ -406,11 +406,11 @@ Matchday 24
          Portsmouth FC            1-0 (1-0)  Luton Town
 
 
-Matchday 25
-[Thu Jan/5]
-  19.45  Doncaster Rovers         3-1 (1-1)  Portsmouth FC
-[Sat Jan/7]
-  15.00  Colchester United        4-1 (2-1)  Carlisle United
+▪ Matchday 25
+Thu Jan 5
+  19:45  Doncaster Rovers         3-1 (1-1)  Portsmouth FC
+Sat Jan 7
+  15:00  Colchester United        4-1 (2-1)  Carlisle United
          Hartlepool United        0-1 (0-1)  Grimsby Town
          Leyton Orient            1-3 (0-0)  Barnet FC
          Mansfield Town           3-0 (1-0)  Crewe Alexandra
@@ -418,25 +418,25 @@ Matchday 25
          Stevenage FC             3-1 (2-0)  Newport County
 
 
-Matchday 26
-[Sat Jan/14]
-  15.00  Portsmouth FC            2-1 (1-1)  Leyton Orient
+▪ Matchday 26
+Sat Jan 14
+  15:00  Portsmouth FC            2-1 (1-1)  Leyton Orient
          Wycombe Wanderers        1-1 (1-1)  Yeovil Town
          Plymouth Argyle          4-2 (2-2)  Stevenage FC
          Newport County           1-1 (1-1)  Colchester United
          Grimsby Town             0-3 (0-1)  Exeter City
          Crewe Alexandra          1-2 (1-1)  Luton Town
-  13.00  Notts County             0-0  Mansfield Town
-  15.00  Barnet FC                1-3 (1-3)  Doncaster Rovers
+  13:00  Notts County             0-0  Mansfield Town
+  15:00  Barnet FC                1-3 (1-3)  Doncaster Rovers
          Cambridge United         0-0  Blackpool FC
          Carlisle United          1-1 (0-1)  Morecambe FC
          Cheltenham Town          3-0 (0-0)  Accrington Stanley
          Crawley Town             1-0 (0-0)  Hartlepool United
 
 
-Matchday 27
-[Sat Jan/21]
-  15.00  Blackpool FC             2-2 (0-1)  Yeovil Town
+▪ Matchday 27
+Sat Jan 21
+  15:00  Blackpool FC             2-2 (0-1)  Yeovil Town
          Hartlepool United        2-0 (2-0)  Stevenage FC
          Grimsby Town             2-0 (1-0)  Notts County
          Exeter City              3-0 (1-0)  Colchester United
@@ -448,9 +448,9 @@ Matchday 27
          Cambridge United         1-3 (1-1)  Mansfield Town
 
 
-Matchday 28
-[Sat Jan/28]
-  15.00  Notts County             2-1 (0-0)  Crawley Town
+▪ Matchday 28
+Sat Jan 28
+  15:00  Notts County             2-1 (0-0)  Crawley Town
          Portsmouth FC            0-1 (0-0)  Exeter City
          Newport County           3-1 (1-0)  Hartlepool United
          Mansfield Town           2-0 (0-0)  Leyton Orient
@@ -461,16 +461,16 @@ Matchday 28
          Yeovil Town              0-3 (0-2)  Doncaster Rovers
 
 
-Matchday 25
-[Tue Jan/31]
-  19.45  Exeter City              4-2 (1-1)  Wycombe Wanderers
+▪ Matchday 25
+Tue Jan 31
+  19:45  Exeter City              4-2 (1-1)  Wycombe Wanderers
          Luton Town               2-3 (1-2)  Cheltenham Town
          Yeovil Town              2-1 (0-0)  Plymouth Argyle
 
 
-Matchday 29
-[Sat Feb/4]
-  15.00  Wycombe Wanderers        1-0 (0-0)  Portsmouth FC
+▪ Matchday 29
+Sat Feb 4
+  15:00  Wycombe Wanderers        1-0 (0-0)  Portsmouth FC
          Hartlepool United        1-1 (0-0)  Yeovil Town
          Grimsby Town             1-1 (0-0)  Luton Town
          Exeter City              4-0 (1-0)  Crewe Alexandra
@@ -484,21 +484,21 @@ Matchday 29
          Cambridge United         0-1 (0-1)  Plymouth Argyle
 
 
-Matchday 25
-[Tue Feb/7]
-  19.45  Blackpool FC             0-0  Crawley Town
+▪ Matchday 25
+Tue Feb 7
+  19:45  Blackpool FC             0-0  Crawley Town
 
 
-Matchday 27
-[Tue Feb/7]
-  19.45  Leyton Orient            0-1 (0-0)  Morecambe FC
+▪ Matchday 27
+Tue Feb 7
+  19:45  Leyton Orient            0-1 (0-0)  Morecambe FC
 
 
-Matchday 30
-[Fri Feb/10]
-  19.45  Newport County           0-0  Doncaster Rovers
-[Sat Feb/11]
-  15.00  Portsmouth FC            2-0 (1-0)  Accrington Stanley
+▪ Matchday 30
+Fri Feb 10
+  19:45  Newport County           0-0  Doncaster Rovers
+Sat Feb 11
+  15:00  Portsmouth FC            2-0 (1-0)  Accrington Stanley
          Morecambe FC             2-0 (0-0)  Cambridge United
          Stevenage FC             3-0 (2-0)  Wycombe Wanderers
          Mansfield Town           4-0 (2-0)  Hartlepool United
@@ -511,9 +511,9 @@ Matchday 30
          Yeovil Town              1-1 (1-0)  Leyton Orient
 
 
-Matchday 31
-[Tue Feb/14]
-  19.45  Plymouth Argyle          2-3 (1-1)  Leyton Orient
+▪ Matchday 31
+Tue Feb 14
+  19:45  Plymouth Argyle          2-3 (1-1)  Leyton Orient
          Yeovil Town              1-1 (0-0)  Cambridge United
          Portsmouth FC            2-0 (1-0)  Blackpool FC
          Stevenage FC             2-1 (1-0)  Cheltenham Town
@@ -527,9 +527,9 @@ Matchday 31
          Morecambe FC             0-1 (0-0)  Barnet FC
 
 
-Matchday 32
-[Sat Feb/18]
-  15.00  Wycombe Wanderers        1-2 (1-2)  Carlisle United
+▪ Matchday 32
+Sat Feb 18
+  15:00  Wycombe Wanderers        1-2 (1-2)  Carlisle United
          Leyton Orient            2-3 (0-1)  Notts County
          Exeter City              1-1 (0-1)  Stevenage FC
          Hartlepool United        1-1 (1-0)  Plymouth Argyle
@@ -543,19 +543,19 @@ Matchday 32
          Crawley Town             1-3 (0-3)  Morecambe FC
 
 
-Matchday 28
-[Tue Feb/21]
-  19.45  Colchester United        1-0 (1-0)  Wycombe Wanderers
+▪ Matchday 28
+Tue Feb 21
+  19:45  Colchester United        1-0 (1-0)  Wycombe Wanderers
 
 
-Matchday 20
-[Tue Feb/21]
-  19.45  Newport County           1-1 (1-0)  Morecambe FC
+▪ Matchday 20
+Tue Feb 21
+  19:45  Newport County           1-1 (1-0)  Morecambe FC
 
 
-Matchday 33
-[Sat Feb/25]
-  15.00  Morecambe FC             1-0 (1-0)  Grimsby Town
+▪ Matchday 33
+Sat Feb 25
+  15:00  Morecambe FC             1-0 (1-0)  Grimsby Town
          Notts County             0-0  Yeovil Town
          Mansfield Town           2-1 (1-1)  Newport County
          Luton Town               1-1 (1-1)  Plymouth Argyle
@@ -569,9 +569,9 @@ Matchday 33
          Wycombe Wanderers        1-2 (1-1)  Crawley Town
 
 
-Matchday 34
-[Tue Feb/28]
-  19.45  Yeovil Town              0-0  Mansfield Town
+▪ Matchday 34
+Tue Feb 28
+  19:45  Yeovil Town              0-0  Mansfield Town
          Stevenage FC             4-1 (2-1)  Leyton Orient
          Portsmouth FC            1-1 (0-0)  Morecambe FC
          Plymouth Argyle          0-1 (0-1)  Notts County
@@ -584,9 +584,9 @@ Matchday 34
          Hartlepool United        4-0 (1-0)  Crewe Alexandra
 
 
-Matchday 35
-[Sat Mar/4]
-  15.00  Stevenage FC             3-0 (1-0)  Notts County
+▪ Matchday 35
+Sat Mar 4
+  15:00  Stevenage FC             3-0 (1-0)  Notts County
          Portsmouth FC            0-1 (0-0)  Crewe Alexandra
          Plymouth Argyle          2-0 (2-0)  Carlisle United
          Yeovil Town              0-4 (0-2)  Luton Town
@@ -600,19 +600,19 @@ Matchday 35
          Hartlepool United        3-1 (0-1)  Exeter City
 
 
-Matchday 28
-[Tue Mar/7]
-  19.30  Plymouth Argyle          0-3 (0-2)  Blackpool FC
+▪ Matchday 28
+Tue Mar 7
+  19:30  Plymouth Argyle          0-3 (0-2)  Blackpool FC
 
 
-Matchday 27
-[Tue Mar/7]
-  19.45  Crawley Town             0-2 (0-0)  Portsmouth FC
+▪ Matchday 27
+Tue Mar 7
+  19:45  Crawley Town             0-2 (0-0)  Portsmouth FC
 
 
-Matchday 36
-[Sat Mar/11]
-  15.00  Notts County             2-1 (0-0)  Hartlepool United
+▪ Matchday 36
+Sat Mar 11
+  15:00  Notts County             2-1 (0-0)  Hartlepool United
          Morecambe FC             1-3 (0-1)  Yeovil Town
          Mansfield Town           0-2 (0-0)  Plymouth Argyle
          Barnet FC                2-2 (1-1)  Crawley Town
@@ -626,9 +626,9 @@ Matchday 36
          Wycombe Wanderers        0-0  Blackpool FC
 
 
-Matchday 37
-[Tue Mar/14]
-  19.45  Wycombe Wanderers        1-1 (1-0)  Plymouth Argyle
+▪ Matchday 37
+Tue Mar 14
+  19:45  Wycombe Wanderers        1-1 (1-0)  Plymouth Argyle
          Carlisle United          0-0  Luton Town
          Portsmouth FC            4-0 (3-0)  Grimsby Town
          Accrington Stanley       5-0 (1-0)  Leyton Orient
@@ -639,13 +639,13 @@ Matchday 37
          Crawley Town             0-3 (0-1)  Crewe Alexandra
          Doncaster Rovers         3-1 (1-1)  Notts County
          Exeter City              3-0 (1-0)  Cheltenham Town
-[Wed Mar/15]
-  20.00  Barnet FC                2-2 (1-1)  Yeovil Town
+Wed Mar 15
+  20:00  Barnet FC                2-2 (1-1)  Yeovil Town
 
 
-Matchday 38
-[Sat Mar/18]
-  15.00  Yeovil Town              1-1 (0-0)  Accrington Stanley
+▪ Matchday 38
+Sat Mar 18
+  15:00  Yeovil Town              1-1 (0-0)  Accrington Stanley
          Stevenage FC             3-0 (2-0)  Portsmouth FC
          Leyton Orient            1-4 (1-1)  Doncaster Rovers
          Cheltenham Town          0-1 (0-1)  Cambridge United
@@ -655,24 +655,24 @@ Matchday 38
          Luton Town               1-1 (0-0)  Exeter City
          Mansfield Town           2-0 (0-0)  Carlisle United
          Newport County           1-3 (0-1)  Blackpool FC
-  15.15  Crewe Alexandra          2-0 (1-0)  Colchester United
-[Sun Mar/19]
-  15.00  Notts County             1-0 (0-0)  Barnet FC
+  15:15  Crewe Alexandra          2-0 (1-0)  Colchester United
+Sun Mar 19
+  15:00  Notts County             1-0 (0-0)  Barnet FC
 
 
-Matchday 28
-[Tue Mar/21]
-  19.45  Morecambe FC             1-2 (0-1)  Accrington Stanley
+▪ Matchday 28
+Tue Mar 21
+  19:45  Morecambe FC             1-2 (0-1)  Accrington Stanley
 
 
-Matchday 34
-[Tue Mar/21]
-  19.45  Newport County           1-1 (1-1)  Luton Town
+▪ Matchday 34
+Tue Mar 21
+  19:45  Newport County           1-1 (1-1)  Luton Town
 
 
-Matchday 39
-[Sat Mar/25]
-  15.00  Colchester United        2-1 (2-0)  Luton Town
+▪ Matchday 39
+Sat Mar 25
+  15:00  Colchester United        2-1 (2-0)  Luton Town
          Accrington Stanley       1-1 (0-0)  Grimsby Town
          Barnet FC                3-1 (0-1)  Cheltenham Town
          Blackpool FC             2-1 (1-1)  Hartlepool United
@@ -683,19 +683,19 @@ Matchday 39
          Exeter City              3-3 (0-0)  Yeovil Town
          Morecambe FC             1-3 (1-3)  Mansfield Town
          Portsmouth FC            2-1 (1-0)  Newport County
-[Sun Mar/26]
-  14.45  Doncaster Rovers         0-1 (0-0)  Plymouth Argyle
+Sun Mar 26
+  14:45  Doncaster Rovers         0-1 (0-0)  Plymouth Argyle
 
 
-Matchday 25
-[Tue Mar/28]
-  19.45  Accrington Stanley       2-0 (1-0)  Cambridge United
+▪ Matchday 25
+Tue Mar 28
+  19:45  Accrington Stanley       2-0 (1-0)  Cambridge United
 
 
-Matchday 40
-[Sat Apr/1]
-  13.00  Grimsby Town             1-5 (1-2)  Doncaster Rovers
-  15.00  Cheltenham Town          3-1 (1-0)  Morecambe FC
+▪ Matchday 40
+Sat Apr 1
+  13:00  Grimsby Town             1-5 (1-2)  Doncaster Rovers
+  15:00  Cheltenham Town          3-1 (1-0)  Morecambe FC
          Crewe Alexandra          1-2 (0-1)  Cambridge United
          Hartlepool United        0-2 (0-1)  Portsmouth FC
          Leyton Orient            0-2 (0-2)  Wycombe Wanderers
@@ -708,9 +708,9 @@ Matchday 40
          Yeovil Town              0-2 (0-1)  Carlisle United
 
 
-Matchday 41
-[Sat Apr/8]
-  15.00  Accrington Stanley       3-2 (0-2)  Crewe Alexandra
+▪ Matchday 41
+Sat Apr 8
+  15:00  Accrington Stanley       3-2 (0-2)  Crewe Alexandra
          Barnet FC                0-1 (0-0)  Luton Town
          Blackpool FC             1-3 (1-2)  Grimsby Town
          Cambridge United         3-0 (2-0)  Leyton Orient
@@ -721,13 +721,13 @@ Matchday 41
          Morecambe FC             1-1 (0-1)  Hartlepool United
          Portsmouth FC            3-1 (1-0)  Yeovil Town
          Wycombe Wanderers        3-3 (2-2)  Cheltenham Town
-  15.45  Exeter City              0-1 (0-0)  Newport County
+  15:45  Exeter City              0-1 (0-0)  Newport County
 
 
-Matchday 42
-[Fri Apr/14]
-  14.30  Portsmouth FC            1-1 (0-1)  Plymouth Argyle
-  15.00  Colchester United        1-1 (1-1)  Doncaster Rovers
+▪ Matchday 42
+Fri Apr 14
+  14:30  Portsmouth FC            1-1 (0-1)  Plymouth Argyle
+  15:00  Colchester United        1-1 (1-1)  Doncaster Rovers
          Crawley Town             0-0  Cheltenham Town
          Exeter City              2-1 (2-0)  Barnet FC
          Grimsby Town             2-1 (0-0)  Cambridge United
@@ -740,10 +740,10 @@ Matchday 42
          Wycombe Wanderers        0-1 (0-1)  Mansfield Town
 
 
-Matchday 43
-[Mon Apr/17]
-  13.00  Cheltenham Town          2-1 (2-0)  Grimsby Town
-  15.00  Accrington Stanley       1-0 (0-0)  Crawley Town
+▪ Matchday 43
+Mon Apr 17
+  13:00  Cheltenham Town          2-1 (2-0)  Grimsby Town
+  15:00  Accrington Stanley       1-0 (0-0)  Crawley Town
          Barnet FC                0-2 (0-1)  Wycombe Wanderers
          Cambridge United         1-0 (1-0)  Exeter City
          Carlisle United          1-1 (0-0)  Stevenage FC
@@ -756,9 +756,9 @@ Matchday 43
          Yeovil Town              3-0 (2-0)  Crewe Alexandra
 
 
-Matchday 44
-[Sat Apr/22]
-  15.00  Blackpool FC             3-0 (2-0)  Cheltenham Town
+▪ Matchday 44
+Sat Apr 22
+  15:00  Blackpool FC             3-0 (2-0)  Cheltenham Town
          Colchester United        0-0  Plymouth Argyle
          Crawley Town             3-3 (2-2)  Carlisle United
          Crewe Alexandra          3-0 (3-0)  Leyton Orient
@@ -772,9 +772,9 @@ Matchday 44
          Wycombe Wanderers        2-1 (2-1)  Doncaster Rovers
 
 
-Matchday 45
-[Sat Apr/29]
-  15.00  Accrington Stanley       1-4 (1-1)  Luton Town
+▪ Matchday 45
+Sat Apr 29
+  15:00  Accrington Stanley       1-4 (1-1)  Luton Town
          Barnet FC                3-1 (2-0)  Grimsby Town
          Cambridge United         2-0 (1-0)  Crawley Town
          Carlisle United          2-1 (0-1)  Newport County
@@ -788,9 +788,9 @@ Matchday 45
          Yeovil Town              1-1 (1-0)  Stevenage FC
 
 
-Matchday 46
-[Sat May/6]
-  17.30  Blackpool FC             3-1 (2-0)  Leyton Orient
+▪ Matchday 46
+Sat May 6
+  17:30  Blackpool FC             3-1 (2-0)  Leyton Orient
          Colchester United        2-0 (1-0)  Yeovil Town
          Crawley Town             2-2 (1-2)  Mansfield Town
          Crewe Alexandra          4-1 (2-0)  Barnet FC

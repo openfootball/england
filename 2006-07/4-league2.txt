@@ -1,14 +1,14 @@
 = English League Two 2006/07
 
-# Date       Sat Aug/5 2006 - Sat May/5 2007 (273d)
+# Date       Sat Aug 5 2006 - Sat May 5 2007 (273d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/5]
-  15.00  Barnet FC                0-1 (0-0)  Torquay United
+▪ Matchday 1
+Sat Aug 5
+  15:00  Barnet FC                0-1 (0-0)  Torquay United
          Chester City             2-0 (1-0)  Accrington Stanley
          Darlington FC            4-0 (3-0)  Macclesfield Town
          Grimsby Town             3-2 (0-1)  Boston United
@@ -22,9 +22,9 @@ Matchday 1
          Wycombe Wanderers        1-1 (1-1)  Wrexham FC
 
 
-Matchday 2
-[Tue Aug/8]
-  19.45  Accrington Stanley       0-2 (0-2)  Darlington FC
+▪ Matchday 2
+Tue Aug 8
+  19:45  Accrington Stanley       0-2 (0-2)  Darlington FC
          Bristol Rovers           1-2 (0-0)  Wycombe Wanderers
          Bury FC                  1-3 (1-1)  Chester City
          Hereford United          1-2 (0-2)  Lincoln City
@@ -35,13 +35,13 @@ Matchday 2
          Torquay United           1-0 (0-0)  Rochdale AFC
          Walsall FC               2-0 (1-0)  Stockport County
          Wrexham FC               3-0 (2-0)  Grimsby Town
-[Wed Aug/9]
-  19.45  Boston United            0-1 (0-0)  Peterborough United
+Wed Aug 9
+  19:45  Boston United            0-1 (0-0)  Peterborough United
 
 
-Matchday 3
-[Sat Aug/12]
-  15.00  Accrington Stanley       2-1 (1-0)  Barnet FC
+▪ Matchday 3
+Sat Aug 12
+  15:00  Accrington Stanley       2-1 (1-0)  Barnet FC
          Boston United            4-1 (1-1)  Darlington FC
          Bristol Rovers           1-0 (0-0)  Grimsby Town
          Bury FC                  1-2 (1-0)  Shrewsbury Town
@@ -55,12 +55,12 @@ Matchday 3
          Wrexham FC               0-0  Peterborough United
 
 
-Matchday 4
-[Fri Aug/18]
-  19.45  Stockport County         1-1 (1-0)  Accrington Stanley
+▪ Matchday 4
+Fri Aug 18
+  19:45  Stockport County         1-1 (1-0)  Accrington Stanley
          Grimsby Town             1-1 (0-0)  Mansfield Town
-[Sat Aug/19]
-  15.00  Barnet FC                3-0 (1-0)  Hereford United
+Sat Aug 19
+  15:00  Barnet FC                3-0 (1-0)  Hereford United
          Darlington FC            1-2 (1-2)  Swindon Town
          Hartlepool United        1-1 (0-1)  Torquay United
          Lincoln City             2-2 (2-0)  Walsall FC
@@ -69,13 +69,13 @@ Matchday 4
          Rochdale AFC             0-1 (0-0)  Notts County
          Shrewsbury Town          5-0 (2-0)  Boston United
          Wycombe Wanderers        3-0 (0-0)  Bury FC
-[Sun Aug/20]
-  12.00  Chester City             1-2 (0-1)  Wrexham FC
+Sun Aug 20
+  12:00  Chester City             1-2 (0-1)  Wrexham FC
 
 
-Matchday 5
-[Sat Aug/26]
-  15.00  Accrington Stanley       1-1 (0-1)  Rochdale AFC
+▪ Matchday 5
+Sat Aug 26
+  15:00  Accrington Stanley       1-1 (0-1)  Rochdale AFC
          Boston United            0-1 (0-0)  Milton Keynes Dons
          Bristol Rovers           1-0 (1-0)  Shrewsbury Town
          Bury FC                  3-0 (3-0)  Grimsby Town
@@ -89,26 +89,26 @@ Matchday 5
          Wrexham FC               1-1 (1-0)  Barnet FC
 
 
-Matchday 6
-[Fri Sep/1]
-  19.45  Chester City             0-2 (0-0)  Swindon Town
+▪ Matchday 6
+Fri Sep 1
+  19:45  Chester City             0-2 (0-0)  Swindon Town
          Grimsby Town             1-1 (1-0)  Macclesfield Town
          Hartlepool United        2-1 (1-0)  Boston United
          Lincoln City             3-1 (2-0)  Accrington Stanley
          Wycombe Wanderers        1-0 (0-0)  Mansfield Town
-  19.30  Darlington FC            1-1 (1-1)  Torquay United
-[Sat Sep/2]
-  15.00  Barnet FC                1-1 (1-0)  Walsall FC
+  19:30  Darlington FC            1-1 (1-1)  Torquay United
+Sat Sep 2
+  15:00  Barnet FC                1-1 (1-0)  Walsall FC
          Milton Keynes Dons       3-2 (1-0)  Notts County
          Rochdale AFC             1-1 (0-0)  Hereford United
-[Sun Sep/3]
-  14.00  Stockport County         2-1 (1-0)  Bristol Rovers
+Sun Sep 3
+  14:00  Stockport County         2-1 (1-0)  Bristol Rovers
          Peterborough United      0-1 (0-0)  Bury FC
 
 
-Matchday 7
-[Sat Sep/9]
-  15.00  Wycombe Wanderers        1-0 (1-0)  Chester City
+▪ Matchday 7
+Sat Sep 9
+  15:00  Wycombe Wanderers        1-0 (1-0)  Chester City
          Boston United            2-1 (2-1)  Stockport County
          Bristol Rovers           0-0  Rochdale AFC
          Bury FC                  0-1 (0-1)  Torquay United
@@ -122,11 +122,11 @@ Matchday 7
          Wrexham FC               2-1 (0-1)  Swindon Town
 
 
-Matchday 8
-[Tue Sep/12]
-  19.45  Lincoln City             2-1 (2-1)  Macclesfield Town
-  19.30  Darlington FC            1-0 (0-0)  Bury FC
-  19.45  Barnet FC                3-3 (1-2)  Boston United
+▪ Matchday 8
+Tue Sep 12
+  19:45  Lincoln City             2-1 (2-1)  Macclesfield Town
+  19:30  Darlington FC            1-0 (0-0)  Bury FC
+  19:45  Barnet FC                3-3 (1-2)  Boston United
          Chester City             0-0  Notts County
          Hartlepool United        2-0 (0-0)  Mansfield Town
          Hereford United          1-2 (0-1)  Wycombe Wanderers
@@ -134,14 +134,14 @@ Matchday 8
          Rochdale AFC             1-0 (0-0)  Grimsby Town
          Stockport County         0-3 (0-1)  Shrewsbury Town
          Walsall FC               5-0 (3-0)  Peterborough United
-[Wed Sep/13]
-  19.45  Torquay United           0-0  Bristol Rovers
+Wed Sep 13
+  19:45  Torquay United           0-0  Bristol Rovers
          Accrington Stanley       5-0 (1-0)  Wrexham FC
 
 
-Matchday 9
-[Sat Sep/16]
-  15.00  Walsall FC               2-0 (1-0)  Macclesfield Town
+▪ Matchday 9
+Sat Sep 16
+  15:00  Walsall FC               2-0 (1-0)  Macclesfield Town
          Accrington Stanley       2-1 (1-0)  Boston United
          Barnet FC                2-3 (2-2)  Notts County
          Chester City             0-2 (0-0)  Grimsby Town
@@ -155,9 +155,9 @@ Matchday 9
          Torquay United           1-0 (1-0)  Mansfield Town
 
 
-Matchday 10
-[Sat Sep/23]
-  15.00  Mansfield Town           2-2 (0-1)  Accrington Stanley
+▪ Matchday 10
+Sat Sep 23
+  15:00  Mansfield Town           2-2 (0-1)  Accrington Stanley
          Boston United            0-3 (0-2)  Rochdale AFC
          Bristol Rovers           1-2 (0-2)  Walsall FC
          Bury FC                  2-2 (1-1)  Barnet FC
@@ -168,13 +168,13 @@ Matchday 10
          Notts County             1-1 (0-0)  Swindon Town
          Peterborough United      3-5 (0-3)  Hartlepool United
          Shrewsbury Town          2-2 (0-1)  Darlington FC
-[Sun Sep/24]
-  12.00  Wrexham FC               1-0 (1-0)  Hereford United
+Sun Sep 24
+  12:00  Wrexham FC               1-0 (1-0)  Hereford United
 
 
-Matchday 11
-[Tue Sep/26]
-  19.45  Bury FC                  2-2 (2-2)  Accrington Stanley
+▪ Matchday 11
+Tue Sep 26
+  19:45  Bury FC                  2-2 (2-2)  Accrington Stanley
          Wycombe Wanderers        1-1 (0-0)  Swindon Town
          Grimsby Town             1-4 (1-1)  Hartlepool United
          Macclesfield Town        1-1 (1-0)  Chester City
@@ -183,17 +183,17 @@ Matchday 11
          Notts County             1-0 (1-0)  Stockport County
          Peterborough United      1-1 (1-0)  Barnet FC
          Shrewsbury Town          1-1 (1-1)  Walsall FC
-[Wed Sep/27]
-  19.45  Bristol Rovers           2-1 (0-1)  Hereford United
+Wed Sep 27
+  19:45  Bristol Rovers           2-1 (0-1)  Hereford United
          Wrexham FC               1-2 (1-0)  Rochdale AFC
          Boston United            1-0 (0-0)  Lincoln City
 
 
-Matchday 12
-[Fri Sep/29]
-  19.30  Darlington FC            2-2 (2-0)  Grimsby Town
-[Sat Sep/30]
-  15.00  Walsall FC               4-0 (0-0)  Mansfield Town
+▪ Matchday 12
+Fri Sep 29
+  19:30  Darlington FC            2-2 (2-0)  Grimsby Town
+Sat Sep 30
+  15:00  Walsall FC               4-0 (0-0)  Mansfield Town
          Accrington Stanley       2-1 (1-0)  Wycombe Wanderers
          Barnet FC                3-3 (1-1)  Milton Keynes Dons
          Chester City             2-0 (2-0)  Bristol Rovers
@@ -206,26 +206,26 @@ Matchday 12
          Torquay United           0-1 (0-0)  Notts County
 
 
-Matchday 13
-[Fri Oct/6]
-  19.45  Wycombe Wanderers        2-0 (1-0)  Torquay United
-  19.30  Darlington FC            0-5 (0-4)  Rochdale AFC
-  19.45  Chester City             0-0  Walsall FC
+▪ Matchday 13
+Fri Oct 6
+  19:45  Wycombe Wanderers        2-0 (1-0)  Torquay United
+  19:30  Darlington FC            0-5 (0-4)  Rochdale AFC
+  19:45  Chester City             0-0  Walsall FC
          Lincoln City             2-0 (1-0)  Hartlepool United
          Milton Keynes Dons       0-2 (0-0)  Peterborough United
          Shrewsbury Town          2-1 (1-0)  Macclesfield Town
-[Sat Oct/7]
-  14.00  Mansfield Town           2-2 (2-0)  Notts County
-  15.00  Accrington Stanley       1-1 (1-0)  Swindon Town
+Sat Oct 7
+  14:00  Mansfield Town           2-2 (2-0)  Notts County
+  15:00  Accrington Stanley       1-1 (1-0)  Swindon Town
          Bristol Rovers           1-0 (0-0)  Boston United
          Stockport County         2-0 (1-0)  Barnet FC
-[Sun Oct/8]
-  16.00  Grimsby Town             2-1 (1-1)  Hereford United
+Sun Oct 8
+  16:00  Grimsby Town             2-1 (1-1)  Hereford United
 
 
-Matchday 14
-[Sat Oct/14]
-  15.00  Barnet FC                0-5 (0-3)  Lincoln City
+▪ Matchday 14
+Sat Oct 14
+  15:00  Barnet FC                0-5 (0-3)  Lincoln City
          Wrexham FC               1-2 (1-0)  Milton Keynes Dons
          Torquay United           0-2 (0-0)  Accrington Stanley
          Boston United            1-1 (1-0)  Mansfield Town
@@ -239,11 +239,11 @@ Matchday 14
          Walsall FC               2-0 (1-0)  Wycombe Wanderers
 
 
-Matchday 15
-[Fri Oct/20]
-  19.45  Chester City             2-1 (1-1)  Hartlepool United
-[Sat Oct/21]
-  15.00  Lincoln City             7-1 (3-1)  Rochdale AFC
+▪ Matchday 15
+Fri Oct 20
+  19:45  Chester City             2-1 (1-1)  Hartlepool United
+Sat Oct 21
+  15:00  Lincoln City             7-1 (3-1)  Rochdale AFC
          Wycombe Wanderers        2-0 (0-0)  Peterborough United
          Accrington Stanley       1-2 (0-1)  Walsall FC
          Bristol Rovers           0-0  Macclesfield Town
@@ -256,9 +256,9 @@ Matchday 15
          Shrewsbury Town          1-2 (0-1)  Swindon Town
 
 
-Matchday 16
-[Sat Oct/28]
-  15.00  Wrexham FC               2-0 (1-0)  Bristol Rovers
+▪ Matchday 16
+Sat Oct 28
+  15:00  Wrexham FC               2-0 (1-0)  Bristol Rovers
          Walsall FC               0-0  Milton Keynes Dons
          Barnet FC                1-0 (1-0)  Chester City
          Boston United            0-1 (0-0)  Wycombe Wanderers
@@ -272,11 +272,11 @@ Matchday 16
          Torquay United           0-0  Shrewsbury Town
 
 
-Matchday 17
-[Fri Nov/3]
-  19.30  Darlington FC            1-0 (1-0)  Chester City
-[Sat Nov/4]
-  15.00  Wrexham FC               0-0  Macclesfield Town
+▪ Matchday 17
+Fri Nov 3
+  19:30  Darlington FC            1-0 (1-0)  Chester City
+Sat Nov 4
+  15:00  Wrexham FC               0-0  Macclesfield Town
          Walsall FC               1-0 (0-0)  Torquay United
          Boston United            3-3 (1-1)  Notts County
          Bristol Rovers           1-0 (0-0)  Mansfield Town
@@ -289,16 +289,16 @@ Matchday 17
          Swindon Town             1-2 (1-1)  Hereford United
 
 
-Matchday 13
-[Tue Nov/7]
-  19.45  Bury FC                  1-0 (1-0)  Wrexham FC
+▪ Matchday 13
+Tue Nov 7
+  19:45  Bury FC                  1-0 (1-0)  Wrexham FC
 
 
-Matchday 18
-[Fri Nov/17]
-  19.45  Chester City             1-1 (0-1)  Stockport County
-[Sat Nov/18]
-  15.00  Lincoln City             1-3 (0-1)  Darlington FC
+▪ Matchday 18
+Fri Nov 17
+  19:45  Chester City             1-1 (0-1)  Stockport County
+Sat Nov 18
+  15:00  Lincoln City             1-3 (0-1)  Darlington FC
          Accrington Stanley       1-2 (1-0)  Hartlepool United
          Barnet FC                3-2 (1-1)  Rochdale AFC
          Bury FC                  0-2 (0-0)  Bristol Rovers
@@ -311,11 +311,11 @@ Matchday 18
          Torquay United           0-1 (0-0)  Swindon Town
 
 
-Matchday 19
-[Sat Nov/25]
-  15.00  Rochdale AFC             2-0 (2-0)  Mansfield Town
-  12.00  Shrewsbury Town          2-1 (0-1)  Chester City
-  15.00  Boston United            1-1 (0-0)  Hereford United
+▪ Matchday 19
+Sat Nov 25
+  15:00  Rochdale AFC             2-0 (2-0)  Mansfield Town
+  12:00  Shrewsbury Town          2-1 (0-1)  Chester City
+  15:00  Boston United            1-1 (0-0)  Hereford United
          Darlington FC            1-0 (1-0)  Milton Keynes Dons
          Grimsby Town             2-0 (1-0)  Accrington Stanley
          Hartlepool United        2-0 (1-0)  Wycombe Wanderers
@@ -324,15 +324,15 @@ Matchday 19
          Stockport County         1-1 (0-1)  Macclesfield Town
          Swindon Town             2-1 (1-1)  Bury FC
          Wrexham FC               2-1 (2-0)  Lincoln City
-[Sun Nov/26]
-  15.00  Bristol Rovers           2-0 (0-0)  Barnet FC
+Sun Nov 26
+  15:00  Bristol Rovers           2-0 (0-0)  Barnet FC
 
 
-Matchday 20
-[Sat Dec/2]
-  15.00  Accrington Stanley       3-3 (1-2)  Shrewsbury Town
-[Tue Dec/5]
-  19.45  Wycombe Wanderers        1-0 (1-0)  Darlington FC
+▪ Matchday 20
+Sat Dec 2
+  15:00  Accrington Stanley       3-3 (1-2)  Shrewsbury Town
+Tue Dec 5
+  19:45  Wycombe Wanderers        1-0 (1-0)  Darlington FC
          Barnet FC                0-1 (0-1)  Grimsby Town
          Bury FC                  1-2 (0-0)  Walsall FC
          Chester City             3-1 (0-0)  Boston United
@@ -345,9 +345,9 @@ Matchday 20
          Torquay United           1-1 (0-1)  Wrexham FC
 
 
-Matchday 21
-[Sat Dec/9]
-  15.00  Boston United            4-0 (1-0)  Wrexham FC
+▪ Matchday 21
+Sat Dec 9
+  15:00  Boston United            4-0 (1-0)  Wrexham FC
          Accrington Stanley       3-4 (2-1)  Milton Keynes Dons
          Wycombe Wanderers        1-1 (0-0)  Barnet FC
          Bristol Rovers           0-2 (0-0)  Hartlepool United
@@ -361,14 +361,14 @@ Matchday 21
          Walsall FC               0-2 (0-1)  Swindon Town
 
 
-Matchday 22
-[Fri Dec/15]
-  19.45  Hartlepool United        1-0 (1-0)  Rochdale AFC
-[Sat Dec/16]
-  15.00  Darlington FC            0-1 (0-0)  Notts County
-  12.00  Shrewsbury Town          3-0 (1-0)  Hereford United
-  13.00  Lincoln City             2-0 (1-0)  Grimsby Town
-  15.00  Barnet FC                2-1 (1-0)  Mansfield Town
+▪ Matchday 22
+Fri Dec 15
+  19:45  Hartlepool United        1-0 (1-0)  Rochdale AFC
+Sat Dec 16
+  15:00  Darlington FC            0-1 (0-0)  Notts County
+  12:00  Shrewsbury Town          3-0 (1-0)  Hereford United
+  13:00  Lincoln City             2-0 (1-0)  Grimsby Town
+  15:00  Barnet FC                2-1 (1-0)  Mansfield Town
          Bury FC                  2-0 (1-0)  Stockport County
          Wrexham FC               1-1 (0-1)  Walsall FC
          Macclesfield Town        3-3 (0-1)  Accrington Stanley
@@ -378,13 +378,13 @@ Matchday 22
          Torquay United           0-1 (0-1)  Boston United
 
 
-Matchday 23
-[Fri Dec/22]
-  19.45  Shrewsbury Town          0-1 (0-0)  Barnet FC
+▪ Matchday 23
+Fri Dec 22
+  19:45  Shrewsbury Town          0-1 (0-0)  Barnet FC
          Grimsby Town             2-0 (1-0)  Torquay United
          Notts County             0-1 (0-0)  Hereford United
-[Sat Dec/23]
-  15.00  Wycombe Wanderers        2-0 (1-0)  Stockport County
+Sat Dec 23
+  15:00  Wycombe Wanderers        2-0 (1-0)  Stockport County
          Boston United            1-1 (0-0)  Walsall FC
          Bristol Rovers           4-0 (3-0)  Accrington Stanley
          Bury FC                  0-1 (0-0)  Hartlepool United
@@ -394,14 +394,14 @@ Matchday 23
          Wrexham FC               1-0 (1-0)  Darlington FC
 
 
-Matchday 24
-[Tue Dec/26]
-  15.00  Walsall FC               1-0 (0-0)  Shrewsbury Town
+▪ Matchday 24
+Tue Dec 26
+  15:00  Walsall FC               1-0 (0-0)  Shrewsbury Town
          Torquay United           0-2 (0-2)  Milton Keynes Dons
-  12.00  Rochdale AFC             2-2 (0-0)  Wrexham FC
-  12.30  Hereford United          0-0  Bristol Rovers
-  13.00  Barnet FC                1-0 (1-0)  Peterborough United
-  15.00  Accrington Stanley       1-1 (1-0)  Bury FC
+  12:00  Rochdale AFC             2-2 (0-0)  Wrexham FC
+  12:30  Hereford United          0-0  Bristol Rovers
+  13:00  Barnet FC                1-0 (1-0)  Peterborough United
+  15:00  Accrington Stanley       1-1 (1-0)  Bury FC
          Chester City             0-3 (0-1)  Macclesfield Town
          Darlington FC            0-2 (0-1)  Mansfield Town
          Hartlepool United        2-0 (0-0)  Grimsby Town
@@ -410,12 +410,12 @@ Matchday 24
          Swindon Town             2-1 (1-0)  Wycombe Wanderers
 
 
-Matchday 25
-[Sat Dec/30]
-  15.00  Walsall FC               2-2 (0-0)  Bristol Rovers
+▪ Matchday 25
+Sat Dec 30
+  15:00  Walsall FC               2-2 (0-0)  Bristol Rovers
          Swindon Town             1-1 (0-1)  Notts County
-  12.00  Hereford United          2-0 (1-0)  Wrexham FC
-  15.00  Barnet FC                2-1 (2-1)  Bury FC
+  12:00  Hereford United          2-0 (1-0)  Wrexham FC
+  15:00  Barnet FC                2-1 (2-1)  Bury FC
          Chester City             0-3 (0-0)  Milton Keynes Dons
          Darlington FC            1-2 (0-1)  Shrewsbury Town
          Hartlepool United        1-0 (0-0)  Peterborough United
@@ -425,9 +425,9 @@ Matchday 25
          Torquay United           0-1 (0-0)  Macclesfield Town
 
 
-Matchday 26
-[Mon Jan/1]
-  15.00  Shrewsbury Town          4-2 (2-0)  Stockport County
+▪ Matchday 26
+Mon Jan 1
+  15:00  Shrewsbury Town          4-2 (2-0)  Stockport County
          Milton Keynes Dons       0-1 (0-1)  Swindon Town
          Peterborough United      0-2 (0-2)  Walsall FC
          Boston United            2-1 (1-1)  Barnet FC
@@ -440,20 +440,20 @@ Matchday 26
          Wrexham FC               1-3 (1-1)  Accrington Stanley
 
 
-Matchday 27
-[Sat Jan/6]
-  15.00  Shrewsbury Town          1-1 (0-1)  Hartlepool United
+▪ Matchday 27
+Sat Jan 6
+  15:00  Shrewsbury Town          1-1 (0-1)  Hartlepool United
          Wycombe Wanderers        1-1 (0-0)  Rochdale AFC
          Boston United            1-0 (0-0)  Accrington Stanley
-[Mon Jan/8]
-  19.45  Milton Keynes Dons       2-2 (1-0)  Lincoln City
-[Tue Jan/9]
-  19.45  Grimsby Town             0-2 (0-0)  Chester City
+Mon Jan 8
+  19:45  Milton Keynes Dons       2-2 (1-0)  Lincoln City
+Tue Jan 9
+  19:45  Grimsby Town             0-2 (0-0)  Chester City
 
 
-Matchday 28
-[Sat Jan/13]
-  15.00  Hereford United          1-3 (0-1)  Mansfield Town
+▪ Matchday 28
+Sat Jan 13
+  15:00  Hereford United          1-3 (0-1)  Mansfield Town
          Swindon Town             2-1 (1-1)  Wrexham FC
          Torquay United           2-2 (1-0)  Bury FC
          Stockport County         2-0 (1-0)  Boston United
@@ -464,23 +464,23 @@ Matchday 28
          Darlington FC            3-1 (1-1)  Peterborough United
          Chester City             0-1 (0-0)  Wycombe Wanderers
          Barnet FC                1-0 (1-0)  Macclesfield Town
-[Mon Jan/15]
-  19.45  Walsall FC               2-0 (1-0)  Grimsby Town
+Mon Jan 15
+  19:45  Walsall FC               2-0 (1-0)  Grimsby Town
 
 
-Matchday 26
-[Tue Jan/16]
-  19.45  Bury FC                  1-1 (1-0)  Darlington FC
+▪ Matchday 26
+Tue Jan 16
+  19:45  Bury FC                  1-1 (1-0)  Darlington FC
 
 
-Matchday 25
-[Tue Jan/16]
-  19.45  Accrington Stanley       3-2 (1-2)  Mansfield Town
+▪ Matchday 25
+Tue Jan 16
+  19:45  Accrington Stanley       3-2 (1-2)  Mansfield Town
 
 
-Matchday 29
-[Sat Jan/20]
-  15.00  Mansfield Town           2-1 (1-1)  Walsall FC
+▪ Matchday 29
+Sat Jan 20
+  15:00  Mansfield Town           2-1 (1-1)  Walsall FC
          Grimsby Town             0-1 (0-0)  Darlington FC
          Notts County             5-2 (3-2)  Torquay United
          Peterborough United      0-3 (0-2)  Stockport County
@@ -493,11 +493,11 @@ Matchday 29
          Bristol Rovers           0-0  Chester City
 
 
-Matchday 30
-[Fri Jan/26]
-  19.45  Torquay United           4-1 (2-0)  Grimsby Town
-[Sat Jan/27]
-  15.00  Walsall FC               1-1 (1-1)  Boston United
+▪ Matchday 30
+Fri Jan 26
+  19:45  Torquay United           4-1 (2-0)  Grimsby Town
+Sat Jan 27
+  15:00  Walsall FC               1-1 (1-1)  Boston United
          Darlington FC            1-1 (1-1)  Wrexham FC
          Hartlepool United        2-0 (1-0)  Bury FC
          Hereford United          3-2 (2-1)  Notts County
@@ -508,9 +508,9 @@ Matchday 30
          Stockport County         2-0 (1-0)  Wycombe Wanderers
 
 
-Matchday 27
-[Tue Jan/30]
-  19.45  Macclesfield Town        0-2 (0-1)  Walsall FC
+▪ Matchday 27
+Tue Jan 30
+  19:45  Macclesfield Town        0-2 (0-1)  Walsall FC
          Bury FC                  2-2 (1-0)  Hereford United
          Peterborough United      1-1 (0-0)  Swindon Town
          Notts County             1-1 (1-0)  Barnet FC
@@ -518,9 +518,9 @@ Matchday 27
          Wrexham FC               0-1 (0-0)  Stockport County
 
 
-Matchday 31
-[Sat Feb/3]
-  15.00  Swindon Town             0-1 (0-0)  Hartlepool United
+▪ Matchday 31
+Sat Feb 3
+  15:00  Swindon Town             0-1 (0-0)  Hartlepool United
          Wrexham FC               0-2 (0-1)  Wycombe Wanderers
          Torquay United           1-1 (1-0)  Barnet FC
          Walsall FC               1-1 (0-1)  Rochdale AFC
@@ -534,14 +534,14 @@ Matchday 31
          Macclesfield Town        1-1 (0-1)  Darlington FC
 
 
-Matchday 27
-[Tue Feb/6]
-  19.45  Bristol Rovers           1-2 (0-1)  Darlington FC
+▪ Matchday 27
+Tue Feb 6
+  19:45  Bristol Rovers           1-2 (0-1)  Darlington FC
 
 
-Matchday 32
-[Sat Feb/10]
-  15.00  Stockport County         1-0 (1-0)  Mansfield Town
+▪ Matchday 32
+Sat Feb 10
+  15:00  Stockport County         1-0 (1-0)  Mansfield Town
          Peterborough United      3-0 (1-0)  Wrexham FC
          Wycombe Wanderers        0-0  Notts County
          Lincoln City             1-0 (1-0)  Torquay United
@@ -551,11 +551,11 @@ Matchday 32
          Grimsby Town             4-3 (1-2)  Bristol Rovers
 
 
-Matchday 33
-[Fri Feb/16]
-  19.45  Walsall FC               1-2 (1-2)  Lincoln City
-[Sat Feb/17]
-  15.00  Swindon Town             1-1 (1-0)  Darlington FC
+▪ Matchday 33
+Fri Feb 16
+  19:45  Walsall FC               1-2 (1-2)  Lincoln City
+Sat Feb 17
+  15:00  Swindon Town             1-1 (1-0)  Darlington FC
          Notts County             1-2 (0-0)  Rochdale AFC
          Accrington Stanley       0-1 (0-1)  Stockport County
          Torquay United           0-1 (0-1)  Hartlepool United
@@ -565,13 +565,13 @@ Matchday 33
          Bristol Rovers           1-1 (0-0)  Milton Keynes Dons
          Mansfield Town           1-2 (1-1)  Grimsby Town
          Boston United            0-3 (0-2)  Shrewsbury Town
-[Sun Feb/18]
-  12.00  Wrexham FC               0-0  Chester City
+Sun Feb 18
+  12:00  Wrexham FC               0-0  Chester City
 
 
-Matchday 34
-[Tue Feb/20]
-  19.45  Shrewsbury Town          2-0 (2-0)  Notts County
+▪ Matchday 34
+Tue Feb 20
+  19:45  Shrewsbury Town          2-0 (2-0)  Notts County
          Stockport County         1-0 (0-0)  Walsall FC
          Rochdale AFC             2-0 (1-0)  Torquay United
          Peterborough United      1-1 (0-0)  Boston United
@@ -580,14 +580,14 @@ Matchday 34
          Hartlepool United        3-2 (1-0)  Macclesfield Town
          Grimsby Town             2-1 (1-1)  Wrexham FC
          Barnet FC                1-0 (1-0)  Swindon Town
-  19.30  Darlington FC            2-1 (2-0)  Accrington Stanley
-[Wed Feb/21]
-  19.45  Chester City             1-0 (0-0)  Bury FC
+  19:30  Darlington FC            2-1 (2-0)  Accrington Stanley
+Wed Feb 21
+  19:45  Chester City             1-0 (0-0)  Bury FC
 
 
-Matchday 35
-[Sat Feb/24]
-  15.00  Notts County             2-2 (1-2)  Milton Keynes Dons
+▪ Matchday 35
+Sat Feb 24
+  15:00  Notts County             2-2 (1-2)  Milton Keynes Dons
          Bury FC                  0-3 (0-0)  Peterborough United
          Swindon Town             1-0 (1-0)  Chester City
          Torquay United           0-1 (0-0)  Darlington FC
@@ -597,21 +597,21 @@ Matchday 35
          Accrington Stanley       2-2 (1-1)  Lincoln City
          Mansfield Town           3-2 (2-2)  Wycombe Wanderers
          Macclesfield Town        2-1 (2-0)  Grimsby Town
-[Sun Feb/25]
-  12.00  Wrexham FC               1-3 (0-2)  Shrewsbury Town
+Sun Feb 25
+  12:00  Wrexham FC               1-3 (0-2)  Shrewsbury Town
 
 
-Matchday 32
-[Tue Feb/27]
-  19.45  Chester City             1-1 (0-0)  Hereford United
+▪ Matchday 32
+Tue Feb 27
+  19:45  Chester City             1-1 (0-0)  Hereford United
 
 
-Matchday 36
-[Fri Mar/2]
-  19.45  Chester City             1-1 (0-0)  Torquay United
+▪ Matchday 36
+Fri Mar 2
+  19:45  Chester City             1-1 (0-0)  Torquay United
          Shrewsbury Town          0-0  Bristol Rovers
-[Sat Mar/3]
-  15.00  Hartlepool United        3-2 (1-0)  Hereford United
+Sat Mar 3
+  15:00  Hartlepool United        3-2 (1-0)  Hereford United
          Rochdale AFC             4-2 (3-0)  Accrington Stanley
          Barnet FC                1-2 (1-0)  Wrexham FC
          Stockport County         3-0 (1-0)  Swindon Town
@@ -623,22 +623,22 @@ Matchday 36
          Darlington FC            0-0  Walsall FC
 
 
-Matchday 30
-[Tue Mar/6]
-  19.45  Accrington Stanley       1-1 (0-0)  Bristol Rovers
+▪ Matchday 30
+Tue Mar 6
+  19:45  Accrington Stanley       1-1 (0-0)  Bristol Rovers
 
 
-Matchday 23
-[Tue Mar/6]
-  19.45  Mansfield Town           2-1 (1-1)  Chester City
+▪ Matchday 23
+Tue Mar 6
+  19:45  Mansfield Town           2-1 (1-1)  Chester City
 
 
-Matchday 37
-[Fri Mar/9]
-  19.45  Wrexham FC               1-1 (1-0)  Bury FC
+▪ Matchday 37
+Fri Mar 9
+  19:45  Wrexham FC               1-1 (1-0)  Bury FC
          Hartlepool United        1-1 (0-1)  Lincoln City
-[Sat Mar/10]
-  15.00  Swindon Town             2-0 (1-0)  Accrington Stanley
+Sat Mar 10
+  15:00  Swindon Town             2-0 (1-0)  Accrington Stanley
          Walsall FC               1-0 (0-0)  Chester City
          Peterborough United      4-0 (2-0)  Milton Keynes Dons
          Notts County             0-0  Mansfield Town
@@ -650,17 +650,17 @@ Matchday 37
          Boston United            2-1 (2-0)  Bristol Rovers
 
 
-Matchday 32
-[Tue Mar/13]
-  19.45  Milton Keynes Dons       3-0 (2-0)  Macclesfield Town
+▪ Matchday 32
+Tue Mar 13
+  19:45  Milton Keynes Dons       3-0 (2-0)  Macclesfield Town
 
 
-Matchday 38
-[Fri Mar/16]
-  19.45  Shrewsbury Town          2-1 (0-1)  Peterborough United
+▪ Matchday 38
+Fri Mar 16
+  19:45  Shrewsbury Town          2-1 (0-1)  Peterborough United
          Chester City             0-1 (0-1)  Rochdale AFC
-[Sat Mar/17]
-  15.00  Grimsby Town             1-0 (0-0)  Swindon Town
+Sat Mar 17
+  15:00  Grimsby Town             1-0 (0-0)  Swindon Town
          Milton Keynes Dons       2-1 (1-1)  Wrexham FC
          Mansfield Town           1-2 (1-2)  Boston United
          Lincoln City             1-0 (0-0)  Barnet FC
@@ -672,49 +672,49 @@ Matchday 38
          Bury FC                  1-1 (0-0)  Macclesfield Town
 
 
-Matchday 35
-[Tue Mar/20]
-  19.45  Bristol Rovers           2-1 (1-0)  Stockport County
+▪ Matchday 35
+Tue Mar 20
+  19:45  Bristol Rovers           2-1 (1-0)  Stockport County
 
 
-Matchday 30
-[Tue Mar/20]
-  19.45  Barnet FC                0-0  Shrewsbury Town
+▪ Matchday 30
+Tue Mar 20
+  19:45  Barnet FC                0-0  Shrewsbury Town
 
 
-Matchday 39
-[Fri Mar/23]
-  19.45  Mansfield Town           1-2 (0-0)  Macclesfield Town
+▪ Matchday 39
+Fri Mar 23
+  19:45  Mansfield Town           1-2 (0-0)  Macclesfield Town
          Wycombe Wanderers        0-0  Boston United
-[Sat Mar/24]
-  15.00  Chester City             2-0 (1-0)  Barnet FC
+Sat Mar 24
+  15:00  Chester City             2-0 (1-0)  Barnet FC
          Bristol Rovers           0-1 (0-0)  Wrexham FC
          Grimsby Town             0-2 (0-0)  Peterborough United
          Shrewsbury Town          1-0 (0-0)  Torquay United
          Bury FC                  0-1 (0-1)  Notts County
          Accrington Stanley       2-0 (1-0)  Hereford United
          Stockport County         2-7 (2-4)  Rochdale AFC
-[Sun Mar/25]
-  16.00  Milton Keynes Dons       1-1 (0-0)  Walsall FC
-  13.30  Lincoln City             2-3 (1-2)  Swindon Town
-  13.00  Darlington FC            0-3 (0-1)  Hartlepool United
+Sun Mar 25
+  16:00  Milton Keynes Dons       1-1 (0-0)  Walsall FC
+  13:30  Lincoln City             2-3 (1-2)  Swindon Town
+  13:00  Darlington FC            0-3 (0-1)  Hartlepool United
 
 
-Matchday 29
-[Tue Mar/27]
-  19.45  Shrewsbury Town          3-0 (0-0)  Rochdale AFC
+▪ Matchday 29
+Tue Mar 27
+  19:45  Shrewsbury Town          3-0 (0-0)  Rochdale AFC
 
 
-Matchday 34
-[Tue Mar/27]
-  19.45  Wycombe Wanderers        0-1 (0-1)  Bristol Rovers
+▪ Matchday 34
+Tue Mar 27
+  19:45  Wycombe Wanderers        0-1 (0-1)  Bristol Rovers
 
 
-Matchday 40
-[Fri Mar/30]
-  19.45  Hartlepool United        3-0 (2-0)  Chester City
-[Sat Mar/31]
-  15.00  Wrexham FC               0-0  Mansfield Town
+▪ Matchday 40
+Fri Mar 30
+  19:45  Hartlepool United        3-0 (2-0)  Chester City
+Sat Mar 31
+  15:00  Wrexham FC               0-0  Mansfield Town
          Walsall FC               3-2 (1-1)  Accrington Stanley
          Torquay United           1-0 (0-0)  Stockport County
          Barnet FC                2-1 (1-1)  Darlington FC
@@ -726,17 +726,17 @@ Matchday 40
          Swindon Town             2-1 (0-1)  Shrewsbury Town
 
 
-Matchday 32
-[Tue Apr/3]
-  19.45  Rochdale AFC             0-0  Swindon Town
+▪ Matchday 32
+Tue Apr 3
+  19:45  Rochdale AFC             0-0  Swindon Town
          Shrewsbury Town          1-3 (1-1)  Bury FC
 
 
-Matchday 41
-[Fri Apr/6]
-  15.00  Chester City             1-1 (0-0)  Darlington FC
-[Sat Apr/7]
-  15.00  Torquay United           1-2 (0-2)  Walsall FC
+▪ Matchday 41
+Fri Apr 6
+  15:00  Chester City             1-1 (0-0)  Darlington FC
+Sat Apr 7
+  15:00  Torquay United           1-2 (0-2)  Walsall FC
          Hereford United          0-0  Swindon Town
          Accrington Stanley       3-2 (2-1)  Peterborough United
          Barnet FC                2-1 (1-0)  Hartlepool United
@@ -749,9 +749,9 @@ Matchday 41
          Notts County             2-0 (1-0)  Boston United
 
 
-Matchday 42
-[Mon Apr/9]
-  15.00  Wrexham FC               0-1 (0-0)  Notts County
+▪ Matchday 42
+Mon Apr 9
+  15:00  Wrexham FC               0-1 (0-0)  Notts County
          Walsall FC               1-0 (0-0)  Hereford United
          Boston United            4-1 (2-0)  Macclesfield Town
          Bristol Rovers           2-0 (1-0)  Bury FC
@@ -765,9 +765,9 @@ Matchday 42
          Swindon Town             2-1 (1-0)  Torquay United
 
 
-Matchday 43
-[Sat Apr/14]
-  15.00  Wycombe Wanderers        0-1 (0-0)  Hartlepool United
+▪ Matchday 43
+Sat Apr 14
+  15:00  Wycombe Wanderers        0-1 (0-0)  Hartlepool United
          Torquay United           1-1 (1-0)  Peterborough United
          Accrington Stanley       4-1 (2-1)  Grimsby Town
          Barnet FC                1-1 (1-1)  Bristol Rovers
@@ -778,15 +778,15 @@ Matchday 43
          Mansfield Town           1-2 (1-1)  Rochdale AFC
          Milton Keynes Dons       1-0 (0-0)  Darlington FC
          Notts County             1-2 (1-1)  Walsall FC
-[Sun Apr/15]
-  12.00  Chester City             0-0  Shrewsbury Town
+Sun Apr 15
+  12:00  Chester City             0-0  Shrewsbury Town
 
 
-Matchday 44
-[Fri Apr/20]
-  19.45  Hartlepool United        1-1 (1-1)  Notts County
-[Sat Apr/21]
-  15.00  Wrexham FC               1-0 (0-0)  Torquay United
+▪ Matchday 44
+Fri Apr 20
+  19:45  Hartlepool United        1-1 (1-1)  Notts County
+Sat Apr 21
+  15:00  Wrexham FC               1-0 (0-0)  Torquay United
          Swindon Town             2-0 (2-0)  Mansfield Town
          Boston United            1-0 (0-0)  Chester City
          Bristol Rovers           0-0  Lincoln City
@@ -799,21 +799,21 @@ Matchday 44
          Walsall FC               0-1 (0-1)  Bury FC
 
 
-Matchday 6
-[Tue Apr/24]
-  19.45  Shrewsbury Town          0-1 (0-0)  Wrexham FC
+▪ Matchday 6
+Tue Apr 24
+  19:45  Shrewsbury Town          0-1 (0-0)  Wrexham FC
 
 
-Matchday 40
-[Tue Apr/24]
-  19.45  Macclesfield Town        0-1 (0-0)  Bristol Rovers
+▪ Matchday 40
+Tue Apr 24
+  19:45  Macclesfield Town        0-1 (0-0)  Bristol Rovers
 
 
-Matchday 45
-[Sat Apr/28]
-  12.00  Hereford United          0-1 (0-1)  Shrewsbury Town
-  13.00  Grimsby Town             0-0  Lincoln City
-  15.00  Accrington Stanley       3-2 (2-2)  Macclesfield Town
+▪ Matchday 45
+Sat Apr 28
+  12:00  Hereford United          0-1 (0-1)  Shrewsbury Town
+  13:00  Grimsby Town             0-0  Lincoln City
+  15:00  Accrington Stanley       3-2 (2-2)  Macclesfield Town
          Boston United            1-1 (0-0)  Torquay United
          Bristol Rovers           1-0 (1-0)  Swindon Town
          Chester City             1-1 (1-0)  Peterborough United
@@ -825,9 +825,9 @@ Matchday 45
          Wycombe Wanderers        0-2 (0-0)  Milton Keynes Dons
 
 
-Matchday 46
-[Sat May/5]
-  15.00  Barnet FC                2-1 (0-1)  Wycombe Wanderers
+▪ Matchday 46
+Sat May 5
+  15:00  Barnet FC                2-1 (0-1)  Wycombe Wanderers
          Bury FC                  1-1 (0-1)  Mansfield Town
          Darlington FC            0-5 (0-1)  Stockport County
          Hartlepool United        1-2 (1-0)  Bristol Rovers

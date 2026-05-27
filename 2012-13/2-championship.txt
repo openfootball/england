@@ -1,17 +1,17 @@
 = English Championship 2012/13
 
-# Date       Fri Aug/17 2012 - Sat May/4 2013 (260d)
+# Date       Fri Aug 17 2012 - Sat May 4 2013 (260d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Fri Aug/17]
-  19.45  Cardiff City             1-0 (0-0)  Huddersfield Town
-[Sat Aug/18]
-  12.45  Leeds United             1-0 (1-0)  Wolverhampton Wanderers
-  15.00  Burnley FC               2-0 (1-0)  Bolton Wanderers
+▪ Matchday 1
+Fri Aug 17
+  19:45  Cardiff City             1-0 (0-0)  Huddersfield Town
+Sat Aug 18
+  12:45  Leeds United             1-0 (1-0)  Wolverhampton Wanderers
+  15:00  Burnley FC               2-0 (1-0)  Bolton Wanderers
          Ipswich Town             1-1 (0-1)  Blackburn Rovers
          Crystal Palace           2-3 (2-1)  Watford FC
          Derby County             2-2 (2-1)  Sheffield Wednesday
@@ -23,9 +23,9 @@ Matchday 1
          Hull City                1-0 (0-0)  Brighton & Hove Albion
 
 
-Matchday 2
-[Tue Aug/21]
-  19.45  Sheffield Wednesday      3-2 (2-0)  Birmingham City
+▪ Matchday 2
+Tue Aug 21
+  19:45  Sheffield Wednesday      3-2 (2-0)  Birmingham City
          Wolverhampton Wanderers  3-1 (1-0)  Barnsley FC
          Bristol City             4-1 (2-0)  Crystal Palace
          Charlton Athletic        2-1 (2-0)  Leicester City
@@ -34,18 +34,18 @@ Matchday 2
          Huddersfield Town        1-1 (0-0)  Nottingham Forest
          Brighton & Hove Albion   0-0  Cardiff City
          Watford FC               0-1 (0-0)  Ipswich Town
-  20.00  Bolton Wanderers         2-0 (0-0)  Derby County
+  20:00  Bolton Wanderers         2-0 (0-0)  Derby County
          Blackpool FC             2-1 (0-1)  Leeds United
-[Wed Aug/22]
-  19.45  Blackburn Rovers         1-0 (0-0)  Hull City
+Wed Aug 22
+  19:45  Blackburn Rovers         1-0 (0-0)  Hull City
 
 
-Matchday 3
-[Fri Aug/24]
-  19.45  Bolton Wanderers         2-2 (1-1)  Nottingham Forest
-[Sat Aug/25]
-  13.00  Bristol City             4-2 (2-0)  Cardiff City
-  15.00  Charlton Athletic        0-0  Hull City
+▪ Matchday 3
+Fri Aug 24
+  19:45  Bolton Wanderers         2-2 (1-1)  Nottingham Forest
+Sat Aug 25
+  13:00  Bristol City             4-2 (2-0)  Cardiff City
+  15:00  Charlton Athletic        0-0  Hull City
          Sheffield Wednesday      3-2 (1-2)  Millwall FC
          Huddersfield Town        2-0 (1-0)  Burnley FC
          Middlesbrough FC         2-1 (1-0)  Crystal Palace
@@ -54,13 +54,13 @@ Matchday 3
          Blackpool FC             6-0 (2-0)  Ipswich Town
          Peterborough United      1-2 (0-1)  Leeds United
          Blackburn Rovers         2-1 (1-0)  Leicester City
-  17.20  Watford FC               2-0 (2-0)  Birmingham City
+  17:20  Watford FC               2-0 (2-0)  Birmingham City
 
 
-Matchday 4
-[Sat Sep/1]
-  12.45  Millwall FC              3-1 (2-1)  Middlesbrough FC
-  15.00  Burnley FC               1-3 (0-1)  Brighton & Hove Albion
+▪ Matchday 4
+Sat Sep 1
+  12:45  Millwall FC              3-1 (2-1)  Middlesbrough FC
+  15:00  Burnley FC               1-3 (0-1)  Brighton & Hove Albion
          Hull City                3-1 (1-1)  Bolton Wanderers
          Ipswich Town             2-2 (0-1)  Huddersfield Town
          Nottingham Forest        2-1 (1-0)  Charlton Athletic
@@ -69,17 +69,17 @@ Matchday 4
          Derby County             5-1 (3-0)  Watford FC
          Crystal Palace           2-1 (1-0)  Sheffield Wednesday
          Leeds United             3-3 (1-2)  Blackburn Rovers
-  17.20  Leicester City           1-0 (0-0)  Blackpool FC
-[Sun Sep/2]
-  14.00  Cardiff City             3-1 (2-1)  Wolverhampton Wanderers
+  17:20  Leicester City           1-0 (0-0)  Blackpool FC
+Sun Sep 2
+  14:00  Cardiff City             3-1 (2-1)  Wolverhampton Wanderers
 
 
-Matchday 5
-[Fri Sep/14]
-  19.45  Charlton Athletic        0-1 (0-0)  Crystal Palace
+▪ Matchday 5
+Fri Sep 14
+  19:45  Charlton Athletic        0-1 (0-0)  Crystal Palace
          Brighton & Hove Albion   3-0 (1-0)  Sheffield Wednesday
-[Sat Sep/15]
-  15.00  Burnley FC               5-2 (2-2)  Peterborough United
+Sat Sep 15
+  15:00  Burnley FC               5-2 (2-2)  Peterborough United
          Bristol City             3-5 (1-1)  Blackburn Rovers
          Nottingham Forest        2-2 (0-0)  Birmingham City
          Cardiff City             2-1 (0-0)  Leeds United
@@ -88,32 +88,32 @@ Matchday 5
          Bolton Wanderers         2-1 (2-0)  Watford FC
          Barnsley FC              1-1 (1-1)  Blackpool FC
          Huddersfield Town        1-0 (1-0)  Derby County
-[Sun Sep/16]
-  13.15  Wolverhampton Wanderers  2-1 (2-0)  Leicester City
+Sun Sep 16
+  13:15  Wolverhampton Wanderers  2-1 (2-0)  Leicester City
 
 
-Matchday 6
-[Tue Sep/18]
-  19.45  Birmingham City          2-1 (1-1)  Bolton Wanderers
+▪ Matchday 6
+Tue Sep 18
+  19:45  Birmingham City          2-1 (1-1)  Bolton Wanderers
          Peterborough United      1-2 (0-0)  Bristol City
          Millwall FC              0-2 (0-0)  Cardiff City
          Derby County             3-2 (1-0)  Charlton Athletic
          Watford FC               0-1 (0-0)  Brighton & Hove Albion
          Leeds United             2-3 (1-2)  Hull City
          Blackburn Rovers         2-1 (1-1)  Barnsley FC
-  20.00  Crystal Palace           1-1 (0-0)  Nottingham Forest
+  20:00  Crystal Palace           1-1 (0-0)  Nottingham Forest
          Blackpool FC             4-1 (2-1)  Middlesbrough FC
-[Wed Sep/19]
-  19.45  Sheffield Wednesday      1-3 (1-2)  Huddersfield Town
+Wed Sep 19
+  19:45  Sheffield Wednesday      1-3 (1-2)  Huddersfield Town
          Leicester City           2-1 (0-1)  Burnley FC
          Ipswich Town             0-2 (0-0)  Wolverhampton Wanderers
 
 
-Matchday 7
-[Fri Sep/21]
-  19.45  Blackburn Rovers         1-2 (0-1)  Middlesbrough FC
-[Sat Sep/22]
-  15.00  Sheffield Wednesday      1-2 (0-1)  Bolton Wanderers
+▪ Matchday 7
+Fri Sep 21
+  19:45  Blackburn Rovers         1-2 (0-1)  Middlesbrough FC
+Sat Sep 22
+  15:00  Sheffield Wednesday      1-2 (0-1)  Bolton Wanderers
          Derby County             1-2 (1-1)  Burnley FC
          Watford FC               2-2 (0-0)  Bristol City
          Peterborough United      0-2 (0-1)  Wolverhampton Wanderers
@@ -121,16 +121,16 @@ Matchday 7
          Millwall FC              1-2 (0-1)  Brighton & Hove Albion
          Crystal Palace           3-2 (0-2)  Cardiff City
          Ipswich Town             1-2 (0-0)  Charlton Athletic
-  17.20  Birmingham City          0-5 (0-0)  Barnsley FC
-[Sun Sep/23]
-  15.00  Leicester City           3-1 (2-1)  Hull City
-[Mon Sep/24]
-  19.45  Blackpool FC             1-3 (1-2)  Huddersfield Town
+  17:20  Birmingham City          0-5 (0-0)  Barnsley FC
+Sun Sep 23
+  15:00  Leicester City           3-1 (2-1)  Hull City
+Mon Sep 24
+  19:45  Blackpool FC             1-3 (1-2)  Huddersfield Town
 
 
-Matchday 8
-[Sat Sep/29]
-  15.00  Bolton Wanderers         0-1 (0-0)  Crystal Palace
+▪ Matchday 8
+Sat Sep 29
+  15:00  Bolton Wanderers         0-1 (0-0)  Crystal Palace
          Middlesbrough FC         1-2 (0-0)  Leicester City
          Burnley FC               2-2 (2-1)  Millwall FC
          Huddersfield Town        2-3 (1-0)  Watford FC
@@ -140,14 +140,14 @@ Matchday 8
          Hull City                1-3 (0-2)  Peterborough United
          Bristol City             2-3 (0-0)  Leeds United
          Wolverhampton Wanderers  1-0 (1-0)  Sheffield Wednesday
-  17.30  Brighton & Hove Albion   0-1 (0-1)  Birmingham City
-[Sun Sep/30]
-  13.15  Nottingham Forest        0-1 (0-0)  Derby County
+  17:30  Brighton & Hove Albion   0-1 (0-1)  Birmingham City
+Sun Sep 30
+  13:15  Nottingham Forest        0-1 (0-0)  Derby County
 
 
-Matchday 9
-[Tue Oct/2]
-  19.45  Bristol City             1-1 (1-1)  Millwall FC
+▪ Matchday 9
+Tue Oct 2
+  19:45  Bristol City             1-1 (1-1)  Millwall FC
          Huddersfield Town        0-2 (0-1)  Leicester City
          Brighton & Hove Albion   1-1 (0-1)  Ipswich Town
          Cardiff City             2-1 (1-0)  Birmingham City
@@ -156,15 +156,15 @@ Matchday 9
          Burnley FC               3-3 (2-1)  Sheffield Wednesday
          Hull City                2-3 (1-1)  Blackpool FC
          Barnsley FC              0-2 (0-2)  Peterborough United
-  20.00  Bolton Wanderers         2-2 (1-1)  Leeds United
-[Wed Oct/3]
-  19.45  Nottingham Forest        0-0  Blackburn Rovers
+  20:00  Bolton Wanderers         2-2 (1-1)  Leeds United
+Wed Oct 3
+  19:45  Nottingham Forest        0-0  Blackburn Rovers
          Middlesbrough FC         2-2 (1-1)  Derby County
 
 
-Matchday 10
-[Sat Oct/6]
-  15.00  Crystal Palace           4-3 (1-2)  Burnley FC
+▪ Matchday 10
+Sat Oct 6
+  15:00  Crystal Palace           4-3 (1-2)  Burnley FC
          Sheffield Wednesday      0-1 (0-0)  Hull City
          Birmingham City          0-1 (0-1)  Huddersfield Town
          Blackpool FC             0-2 (0-0)  Charlton Athletic
@@ -175,15 +175,15 @@ Matchday 10
          Derby County             0-0  Brighton & Hove Albion
          Watford FC               1-2 (1-1)  Middlesbrough FC
          Leeds United             1-0 (1-0)  Barnsley FC
-  17.20  Ipswich Town             1-2 (1-0)  Cardiff City
+  17:20  Ipswich Town             1-2 (1-0)  Cardiff City
 
 
-Matchday 11
-[Fri Oct/19]
-  19.45  Sheffield Wednesday      1-1 (1-0)  Leeds United
-[Sat Oct/20]
-  13.00  Crystal Palace           2-2 (2-1)  Millwall FC
-  15.00  Hull City                2-1 (0-1)  Ipswich Town
+▪ Matchday 11
+Fri Oct 19
+  19:45  Sheffield Wednesday      1-1 (1-0)  Leeds United
+Sat Oct 20
+  13:00  Crystal Palace           2-2 (2-1)  Millwall FC
+  15:00  Hull City                2-1 (0-1)  Ipswich Town
          Bolton Wanderers         3-2 (1-2)  Bristol City
          Derby County             1-1 (0-1)  Blackburn Rovers
          Huddersfield Town        2-1 (2-0)  Wolverhampton Wanderers
@@ -192,12 +192,12 @@ Matchday 11
          Charlton Athletic        0-1 (0-0)  Barnsley FC
          Birmingham City          1-1 (1-0)  Leicester City
          Nottingham Forest        3-1 (2-0)  Cardiff City
-  17.20  Burnley FC               1-0 (1-0)  Blackpool FC
+  17:20  Burnley FC               1-0 (1-0)  Blackpool FC
 
 
-Matchday 12
-[Tue Oct/23]
-  19.45  Ipswich Town             1-2 (1-1)  Derby County
+▪ Matchday 12
+Tue Oct 23
+  19:45  Ipswich Town             1-2 (1-1)  Derby County
          Millwall FC              3-3 (3-1)  Birmingham City
          Peterborough United      3-1 (2-0)  Huddersfield Town
          Barnsley FC              1-1 (0-1)  Crystal Palace
@@ -207,14 +207,14 @@ Matchday 12
          Leicester City           1-0 (1-0)  Brighton & Hove Albion
          Middlesbrough FC         2-0 (0-0)  Hull City
          Wolverhampton Wanderers  2-2 (2-1)  Bolton Wanderers
-  20.00  Blackpool FC             2-2 (0-1)  Nottingham Forest
-[Wed Oct/24]
-  19.45  Blackburn Rovers         1-0 (1-0)  Sheffield Wednesday
+  20:00  Blackpool FC             2-2 (0-1)  Nottingham Forest
+Wed Oct 24
+  19:45  Blackburn Rovers         1-0 (1-0)  Sheffield Wednesday
 
 
-Matchday 13
-[Sat Oct/27]
-  15.00  Cardiff City             4-0 (2-0)  Burnley FC
+▪ Matchday 13
+Sat Oct 27
+  15:00  Cardiff City             4-0 (2-0)  Burnley FC
          Ipswich Town             0-3 (0-1)  Sheffield Wednesday
          Peterborough United      3-0 (1-0)  Derby County
          Barnsley FC              1-4 (1-3)  Nottingham Forest
@@ -225,14 +225,14 @@ Matchday 13
          Millwall FC              4-0 (1-0)  Huddersfield Town
          Middlesbrough FC         2-1 (0-1)  Bolton Wanderers
          Blackpool FC             1-1 (0-0)  Brighton & Hove Albion
-  17.20  Bristol City             1-2 (1-1)  Hull City
+  17:20  Bristol City             1-2 (1-1)  Hull City
 
 
-Matchday 14
-[Fri Nov/2]
-  19.45  Brighton & Hove Albion   2-2 (1-1)  Leeds United
-[Sat Nov/3]
-  15.00  Sheffield Wednesday      2-1 (0-0)  Peterborough United
+▪ Matchday 14
+Fri Nov 2
+  19:45  Brighton & Hove Albion   2-2 (1-1)  Leeds United
+Sat Nov 3
+  15:00  Sheffield Wednesday      2-1 (0-0)  Peterborough United
          Huddersfield Town        1-0 (1-0)  Bristol City
          Nottingham Forest        1-4 (1-1)  Millwall FC
          Birmingham City          0-1 (0-1)  Ipswich Town
@@ -242,12 +242,12 @@ Matchday 14
          Crystal Palace           2-0 (1-0)  Blackburn Rovers
          Hull City                1-0 (1-0)  Barnsley FC
          Charlton Athletic        1-4 (1-1)  Middlesbrough FC
-  17.20  Bolton Wanderers         2-1 (0-1)  Cardiff City
+  17:20  Bolton Wanderers         2-1 (0-1)  Cardiff City
 
 
-Matchday 15
-[Tue Nov/6]
-  19.45  Birmingham City          2-0 (0-0)  Bristol City
+▪ Matchday 15
+Tue Nov 6
+  19:45  Birmingham City          2-0 (0-0)  Bristol City
          Watford FC               0-0  Millwall FC
          Hull City                2-1 (1-0)  Wolverhampton Wanderers
          Sheffield Wednesday      0-2 (0-1)  Blackpool FC
@@ -257,16 +257,16 @@ Matchday 15
          Derby County             2-0 (0-0)  Barnsley FC
          Nottingham Forest        0-0  Middlesbrough FC
          Charlton Athletic        5-4 (2-2)  Cardiff City
-  20.00  Bolton Wanderers         0-0  Leicester City
+  20:00  Bolton Wanderers         0-0  Leicester City
          Crystal Palace           5-0 (1-0)  Ipswich Town
 
 
-Matchday 16
-[Fri Nov/9]
-  19.45  Middlesbrough FC         3-1 (1-0)  Sheffield Wednesday
-[Sat Nov/10]
-  12.45  Leicester City           2-2 (2-1)  Nottingham Forest
-  15.00  Blackpool FC             2-2 (1-1)  Bolton Wanderers
+▪ Matchday 16
+Fri Nov 9
+  19:45  Middlesbrough FC         3-1 (1-0)  Sheffield Wednesday
+Sat Nov 10
+  12:45  Leicester City           2-2 (2-1)  Nottingham Forest
+  15:00  Blackpool FC             2-2 (1-1)  Bolton Wanderers
          Blackburn Rovers         1-1 (1-1)  Birmingham City
          Ipswich Town             2-1 (0-0)  Burnley FC
          Cardiff City             2-1 (1-0)  Hull City
@@ -275,13 +275,13 @@ Matchday 16
          Wolverhampton Wanderers  3-3 (1-1)  Brighton & Hove Albion
          Leeds United             1-6 (0-1)  Watford FC
          Millwall FC              2-1 (1-0)  Derby County
-[Sun Nov/11]
-  15.00  Bristol City             0-2 (0-1)  Charlton Athletic
+Sun Nov 11
+  15:00  Bristol City             0-2 (0-1)  Charlton Athletic
 
 
-Matchday 17
-[Sat Nov/17]
-  15.00  Leicester City           6-0 (4-0)  Ipswich Town
+▪ Matchday 17
+Sat Nov 17
+  15:00  Leicester City           6-0 (4-0)  Ipswich Town
          Bristol City             1-1 (0-0)  Blackpool FC
          Huddersfield Town        1-2 (0-2)  Brighton & Hove Albion
          Birmingham City          2-3 (1-3)  Hull City
@@ -291,14 +291,14 @@ Matchday 17
          Bolton Wanderers         1-1 (1-0)  Barnsley FC
          Burnley FC               0-1 (0-0)  Charlton Athletic
          Crystal Palace           3-0 (1-0)  Derby County
-  17.20  Peterborough United      1-4 (0-3)  Blackburn Rovers
-[Sun Nov/18]
-  13.15  Millwall FC              1-0 (0-0)  Leeds United
+  17:20  Peterborough United      1-4 (0-3)  Blackburn Rovers
+Sun Nov 18
+  13:15  Millwall FC              1-0 (0-0)  Leeds United
 
 
-Matchday 18
-[Sat Nov/24]
-  15.00  Brighton & Hove Albion   1-1 (0-0)  Bolton Wanderers
+▪ Matchday 18
+Sat Nov 24
+  15:00  Brighton & Hove Albion   1-1 (0-0)  Bolton Wanderers
          Sheffield Wednesday      0-2 (0-1)  Leicester City
          Charlton Athletic        1-1 (0-0)  Huddersfield Town
          Ipswich Town             1-1 (0-1)  Peterborough United
@@ -309,12 +309,12 @@ Matchday 18
          Wolverhampton Wanderers  1-2 (1-1)  Nottingham Forest
          Middlesbrough FC         1-3 (1-1)  Bristol City
          Leeds United             2-1 (0-0)  Crystal Palace
-  17.20  Derby County             3-2 (1-0)  Birmingham City
+  17:20  Derby County             3-2 (1-0)  Birmingham City
 
 
-Matchday 19
-[Tue Nov/27]
-  19.45  Middlesbrough FC         3-0 (1-0)  Huddersfield Town
+▪ Matchday 19
+Tue Nov 27
+  19:45  Middlesbrough FC         3-0 (1-0)  Huddersfield Town
          Hull City                0-0  Crystal Palace
          Derby County             1-1 (0-1)  Cardiff City
          Barnsley FC              1-1 (1-1)  Burnley FC
@@ -324,35 +324,35 @@ Matchday 19
          Charlton Athletic        2-0 (0-0)  Peterborough United
          Brighton & Hove Albion   2-0 (2-0)  Bristol City
          Leeds United             1-0 (1-0)  Leicester City
-  20.00  Blackpool FC             1-1 (1-0)  Birmingham City
-[Wed Nov/28]
-  19.45  Blackburn Rovers         1-2 (0-1)  Bolton Wanderers
+  20:00  Blackpool FC             1-1 (1-0)  Birmingham City
+Wed Nov 28
+  19:45  Blackburn Rovers         1-2 (0-1)  Bolton Wanderers
 
 
-Matchday 20
-[Fri Nov/30]
-  19.45  Birmingham City          3-2 (1-1)  Middlesbrough FC
-[Sat Dec/1]
-  12.30  Huddersfield Town        2-4 (2-2)  Leeds United
-  15.00  Millwall FC              0-0  Charlton Athletic
+▪ Matchday 20
+Fri Nov 30
+  19:45  Birmingham City          3-2 (1-1)  Middlesbrough FC
+Sat Dec 1
+  12:30  Huddersfield Town        2-4 (2-2)  Leeds United
+  15:00  Millwall FC              0-0  Charlton Athletic
          Bolton Wanderers         1-2 (1-0)  Ipswich Town
          Peterborough United      1-4 (0-0)  Blackpool FC
          Crystal Palace           3-0 (1-0)  Brighton & Hove Albion
          Watford FC               4-1 (1-0)  Barnsley FC
          Nottingham Forest        1-2 (1-1)  Hull City
          Bristol City             1-4 (0-4)  Wolverhampton Wanderers
-  17.20  Leicester City           4-1 (2-1)  Derby County
-[Sun Dec/2]
-  15.00  Cardiff City             1-0 (0-0)  Sheffield Wednesday
-  12.30  Burnley FC               1-1 (0-0)  Blackburn Rovers
+  17:20  Leicester City           4-1 (2-1)  Derby County
+Sun Dec 2
+  15:00  Cardiff City             1-0 (0-0)  Sheffield Wednesday
+  12:30  Burnley FC               1-1 (0-0)  Blackburn Rovers
 
 
-Matchday 21
-[Fri Dec/7]
-  19.45  Blackburn Rovers         1-4 (0-1)  Cardiff City
-[Sat Dec/8]
-  13.00  Derby County             3-1 (1-1)  Leeds United
-  15.00  Huddersfield Town        2-2 (1-0)  Bolton Wanderers
+▪ Matchday 21
+Fri Dec 7
+  19:45  Blackburn Rovers         1-4 (0-1)  Cardiff City
+Sat Dec 8
+  13:00  Derby County             3-1 (1-1)  Leeds United
+  15:00  Huddersfield Town        2-2 (1-0)  Bolton Wanderers
          Leicester City           2-2 (1-2)  Barnsley FC
          Peterborough United      2-3 (1-2)  Middlesbrough FC
          Watford FC               1-2 (0-1)  Hull City
@@ -361,13 +361,13 @@ Matchday 21
          Charlton Athletic        2-2 (1-1)  Brighton & Hove Albion
          Crystal Palace           2-2 (0-1)  Blackpool FC
          Ipswich Town             3-0 (1-0)  Millwall FC
-  17.20  Wolverhampton Wanderers  1-0 (1-0)  Birmingham City
+  17:20  Wolverhampton Wanderers  1-0 (1-0)  Birmingham City
 
 
-Matchday 22
-[Sat Dec/15]
-  12.30  Hull City                2-0 (1-0)  Huddersfield Town
-  15.00  Millwall FC              1-0 (0-0)  Leicester City
+▪ Matchday 22
+Sat Dec 15
+  12:30  Hull City                2-0 (1-0)  Huddersfield Town
+  15:00  Millwall FC              1-0 (0-0)  Leicester City
          Cardiff City             1-2 (0-1)  Peterborough United
          Brighton & Hove Albion   0-0  Nottingham Forest
          Burnley FC               1-1 (1-1)  Watford FC
@@ -377,36 +377,36 @@ Matchday 22
          Bolton Wanderers         2-0 (0-0)  Charlton Athletic
          Bristol City             0-2 (0-2)  Derby County
          Leeds United             2-0 (1-0)  Ipswich Town
-  17.20  Barnsley FC              0-1 (0-1)  Sheffield Wednesday
+  17:20  Barnsley FC              0-1 (0-1)  Sheffield Wednesday
 
 
-Matchday 24
-[Tue Dec/18]
-  19.45  Brighton & Hove Albion   2-2 (0-1)  Millwall FC
+▪ Matchday 24
+Tue Dec 18
+  19:45  Brighton & Hove Albion   2-2 (0-1)  Millwall FC
 
 
-Matchday 23
-[Fri Dec/21]
-  19.45  Derby County             1-2 (1-1)  Hull City
+▪ Matchday 23
+Fri Dec 21
+  19:45  Derby County             1-2 (1-1)  Hull City
          Blackpool FC             1-2 (0-1)  Wolverhampton Wanderers
-[Sat Dec/22]
-  15.00  Leeds United             2-1 (1-1)  Middlesbrough FC
+Sat Dec 22
+  15:00  Leeds United             2-1 (1-1)  Middlesbrough FC
          Ipswich Town             1-1 (1-1)  Bristol City
          Millwall FC              1-2 (0-1)  Barnsley FC
          Watford FC               2-0 (2-0)  Nottingham Forest
          Sheffield Wednesday      2-0 (1-0)  Charlton Athletic
          Leicester City           0-1 (0-1)  Cardiff City
          Birmingham City          2-2 (1-0)  Burnley FC
-  17.20  Crystal Palace           1-1 (1-0)  Huddersfield Town
-  15.00  Peterborough United      5-4 (2-1)  Bolton Wanderers
+  17:20  Crystal Palace           1-1 (1-0)  Huddersfield Town
+  15:00  Peterborough United      5-4 (2-1)  Bolton Wanderers
 
 
-Matchday 24
-[Wed Dec/26]
-  15.00  Barnsley FC              1-2 (1-1)  Birmingham City
-  12.15  Nottingham Forest        4-2 (1-1)  Leeds United
-  13.00  Charlton Athletic        1-2 (0-2)  Ipswich Town
-  15.00  Bolton Wanderers         0-1 (0-1)  Sheffield Wednesday
+▪ Matchday 24
+Wed Dec 26
+  15:00  Barnsley FC              1-2 (1-1)  Birmingham City
+  12:15  Nottingham Forest        4-2 (1-1)  Leeds United
+  13:00  Charlton Athletic        1-2 (0-2)  Ipswich Town
+  15:00  Bolton Wanderers         0-1 (0-1)  Sheffield Wednesday
          Huddersfield Town        1-1 (0-0)  Blackpool FC
          Wolverhampton Wanderers  0-3 (0-2)  Peterborough United
          Hull City                0-0  Leicester City
@@ -415,13 +415,13 @@ Matchday 24
          Cardiff City             2-1 (1-1)  Crystal Palace
 
 
-Matchday 25
-[Sat Dec/29]
-  17.20  Brighton & Hove Albion   1-3 (0-0)  Watford FC
-  15.00  Barnsley FC              1-3 (0-2)  Blackburn Rovers
-  12.30  Hull City                2-0 (0-0)  Leeds United
+▪ Matchday 25
+Sat Dec 29
+  17:20  Brighton & Hove Albion   1-3 (0-0)  Watford FC
+  15:00  Barnsley FC              1-3 (0-2)  Blackburn Rovers
+  12:30  Hull City                2-0 (0-0)  Leeds United
          Huddersfield Town        0-0  Sheffield Wednesday
-  15.00  Bristol City             4-2 (2-1)  Peterborough United
+  15:00  Bristol City             4-2 (2-1)  Peterborough United
          Cardiff City             1-0 (1-0)  Millwall FC
          Burnley FC               0-1 (0-1)  Leicester City
          Bolton Wanderers         3-1 (2-1)  Birmingham City
@@ -431,12 +431,12 @@ Matchday 25
          Middlesbrough FC         4-2 (2-0)  Blackpool FC
 
 
-Matchday 26
-[Tue Jan/1]
-  15.00  Peterborough United      2-1 (1-0)  Barnsley FC
+▪ Matchday 26
+Tue Jan 1
+  15:00  Peterborough United      2-1 (1-0)  Barnsley FC
          Leicester City           6-1 (3-0)  Huddersfield Town
-  13.00  Watford FC               3-4 (1-2)  Charlton Athletic
-  15.00  Blackburn Rovers         3-0 (0-0)  Nottingham Forest
+  13:00  Watford FC               3-4 (1-2)  Charlton Athletic
+  15:00  Blackburn Rovers         3-0 (0-0)  Nottingham Forest
          Crystal Palace           3-1 (2-0)  Wolverhampton Wanderers
          Ipswich Town             0-3 (0-2)  Brighton & Hove Albion
          Derby County             3-1 (2-0)  Middlesbrough FC
@@ -447,13 +447,13 @@ Matchday 26
          Birmingham City          0-1 (0-1)  Cardiff City
 
 
-Matchday 27
-[Fri Jan/11]
-  19.45  Wolverhampton Wanderers  1-1 (0-1)  Blackburn Rovers
-[Sat Jan/12]
-  15.00  Huddersfield Town        1-1 (0-1)  Birmingham City
-  17.20  Hull City                1-3 (0-1)  Sheffield Wednesday
-  15.00  Middlesbrough FC         1-2 (0-1)  Watford FC
+▪ Matchday 27
+Fri Jan 11
+  19:45  Wolverhampton Wanderers  1-1 (0-1)  Blackburn Rovers
+Sat Jan 12
+  15:00  Huddersfield Town        1-1 (0-1)  Birmingham City
+  17:20  Hull City                1-3 (0-1)  Sheffield Wednesday
+  15:00  Middlesbrough FC         1-2 (0-1)  Watford FC
          Bolton Wanderers         1-1 (1-1)  Millwall FC
          Nottingham Forest        2-1 (1-0)  Peterborough United
          Charlton Athletic        2-1 (2-0)  Blackpool FC
@@ -464,14 +464,14 @@ Matchday 27
          Burnley FC               1-0 (0-0)  Crystal Palace
 
 
-Matchday 28
-[Fri Jan/18]
-  19.45  Leicester City           1-0 (0-0)  Middlesbrough FC
-[Sat Jan/19]
-  15.00  Crystal Palace           0-0  Bolton Wanderers
-  17.20  Blackpool FC             1-2 (0-0)  Cardiff City
-  13.00  Derby County             1-1 (0-1)  Nottingham Forest
-  15.00  Watford FC               4-0 (1-0)  Huddersfield Town
+▪ Matchday 28
+Fri Jan 18
+  19:45  Leicester City           1-0 (0-0)  Middlesbrough FC
+Sat Jan 19
+  15:00  Crystal Palace           0-0  Bolton Wanderers
+  17:20  Blackpool FC             1-2 (0-0)  Cardiff City
+  13:00  Derby County             1-1 (0-1)  Nottingham Forest
+  15:00  Watford FC               4-0 (1-0)  Huddersfield Town
          Millwall FC              0-2 (0-1)  Burnley FC
          Leeds United             1-0 (0-0)  Bristol City
          Sheffield Wednesday      0-0  Wolverhampton Wanderers
@@ -481,37 +481,37 @@ Matchday 28
          Birmingham City          2-2 (1-2)  Brighton & Hove Albion
 
 
-Matchday 23
-[Tue Jan/22]
-  19.45  Blackburn Rovers         1-1 (1-0)  Brighton & Hove Albion
+▪ Matchday 23
+Tue Jan 22
+  19:45  Blackburn Rovers         1-1 (1-0)  Brighton & Hove Albion
 
 
-Matchday 29
-[Sat Jan/26]
-  15.00  Burnley FC               1-2 (0-1)  Birmingham City
+▪ Matchday 29
+Sat Jan 26
+  15:00  Burnley FC               1-2 (0-1)  Birmingham City
          Bristol City             2-1 (0-1)  Ipswich Town
          Wolverhampton Wanderers  1-2 (1-1)  Blackpool FC
          Nottingham Forest        0-3 (0-2)  Watford FC
          Charlton Athletic        1-2 (0-0)  Sheffield Wednesday
 
 
-Matchday 24
-[Tue Jan/29]
-  19.45  Bristol City             2-0 (1-0)  Watford FC
+▪ Matchday 24
+Tue Jan 29
+  19:45  Bristol City             2-0 (1-0)  Watford FC
 
 
-Matchday 29
-[Tue Jan/29]
-  19.45  Barnsley FC              2-0 (0-0)  Millwall FC
-[Wed Jan/30]
-  19.45  Huddersfield Town        1-0 (0-0)  Crystal Palace
+▪ Matchday 29
+Tue Jan 29
+  19:45  Barnsley FC              2-0 (0-0)  Millwall FC
+Wed Jan 30
+  19:45  Huddersfield Town        1-0 (0-0)  Crystal Palace
 
 
-Matchday 30
-[Thu Jan/31]
-  19.45  Leicester City           2-1 (1-0)  Wolverhampton Wanderers
-[Sat Feb/2]
-  15.00  Ipswich Town             4-0 (1-0)  Middlesbrough FC
+▪ Matchday 30
+Thu Jan 31
+  19:45  Leicester City           2-1 (1-0)  Wolverhampton Wanderers
+Sat Feb 2
+  15:00  Ipswich Town             4-0 (1-0)  Middlesbrough FC
          Peterborough United      2-2 (0-1)  Burnley FC
          Leeds United             0-1 (0-0)  Cardiff City
          Blackpool FC             1-2 (0-1)  Barnsley FC
@@ -524,14 +524,14 @@ Matchday 30
          Millwall FC              0-1 (0-1)  Hull City
 
 
-Matchday 31
-[Fri Feb/8]
-  19.45  Watford FC               2-2 (2-0)  Crystal Palace
-[Sat Feb/9]
-  15.00  Sheffield Wednesday      2-2 (0-1)  Derby County
+▪ Matchday 31
+Fri Feb 8
+  19:45  Watford FC               2-2 (2-0)  Crystal Palace
+Sat Feb 9
+  15:00  Sheffield Wednesday      2-2 (0-1)  Derby County
          Huddersfield Town        0-0  Cardiff City
-  17.20  Brighton & Hove Albion   1-0 (0-0)  Hull City
-  15.00  Blackburn Rovers         1-0 (0-0)  Ipswich Town
+  17:20  Brighton & Hove Albion   1-0 (0-0)  Hull City
+  15:00  Blackburn Rovers         1-0 (0-0)  Ipswich Town
          Bristol City             2-0 (0-0)  Nottingham Forest
          Bolton Wanderers         2-1 (0-0)  Burnley FC
          Peterborough United      2-1 (0-0)  Leicester City
@@ -541,28 +541,28 @@ Matchday 31
          Charlton Athletic        1-1 (0-0)  Birmingham City
 
 
-Matchday 29
-[Tue Feb/12]
-  19.45  Middlesbrough FC         1-0 (0-0)  Leeds United
+▪ Matchday 29
+Tue Feb 12
+  19:45  Middlesbrough FC         1-0 (0-0)  Leeds United
          Hull City                2-1 (0-0)  Derby County
          Brighton & Hove Albion   1-1 (0-1)  Blackburn Rovers
 
 
-Matchday 32
-[Sat Feb/16]
-  15.00  Ipswich Town             1-0 (0-0)  Blackpool FC
+▪ Matchday 32
+Sat Feb 16
+  15:00  Ipswich Town             1-0 (0-0)  Blackpool FC
          Birmingham City          0-4 (0-2)  Watford FC
-  13.00  Cardiff City             2-1 (1-0)  Bristol City
-  15.00  Nottingham Forest        1-1 (0-0)  Bolton Wanderers
+  13:00  Cardiff City             2-1 (1-0)  Bristol City
+  15:00  Nottingham Forest        1-1 (0-0)  Bolton Wanderers
          Crystal Palace           4-1 (1-0)  Middlesbrough FC
          Hull City                1-0 (1-0)  Charlton Athletic
          Derby County             0-0  Wolverhampton Wanderers
 
 
-Matchday 33
-[Tue Feb/19]
-  20.00  Crystal Palace           2-1 (1-0)  Bristol City
-  19.45  Leicester City           1-2 (0-1)  Charlton Athletic
+▪ Matchday 33
+Tue Feb 19
+  20:00  Crystal Palace           2-1 (1-0)  Bristol City
+  19:45  Leicester City           1-2 (0-1)  Charlton Athletic
          Millwall FC              1-5 (1-2)  Peterborough United
          Ipswich Town             0-2 (0-1)  Watford FC
          Cardiff City             0-2 (0-1)  Brighton & Hove Albion
@@ -572,14 +572,14 @@ Matchday 33
          Burnley FC               0-0  Middlesbrough FC
          Nottingham Forest        6-1 (4-1)  Huddersfield Town
          Derby County             1-1 (0-1)  Bolton Wanderers
-[Wed Feb/20]
-  19.45  Leeds United             2-0 (0-0)  Blackpool FC
+Wed Feb 20
+  19:45  Leeds United             2-0 (0-0)  Blackpool FC
 
 
-Matchday 34
-[Sat Feb/23]
-  17.20  Middlesbrough FC         1-2 (0-2)  Millwall FC
-  15.00  Bristol City             5-3 (2-0)  Barnsley FC
+▪ Matchday 34
+Sat Feb 23
+  17:20  Middlesbrough FC         1-2 (0-2)  Millwall FC
+  15:00  Bristol City             5-3 (2-0)  Barnsley FC
          Brighton & Hove Albion   1-0 (1-0)  Burnley FC
          Sheffield Wednesday      1-0 (0-0)  Crystal Palace
          Bolton Wanderers         4-1 (3-0)  Hull City
@@ -589,42 +589,42 @@ Matchday 34
          Huddersfield Town        0-0  Ipswich Town
          Blackburn Rovers         0-0  Leeds United
          Blackpool FC             0-0  Leicester City
-[Sun Feb/24]
-  14.00  Wolverhampton Wanderers  1-2 (0-1)  Cardiff City
+Sun Feb 24
+  14:00  Wolverhampton Wanderers  1-2 (0-1)  Cardiff City
 
 
-Matchday 32
-[Tue Feb/26]
-  19.45  Burnley FC               0-1 (0-0)  Huddersfield Town
+▪ Matchday 32
+Tue Feb 26
+  19:45  Burnley FC               0-1 (0-0)  Huddersfield Town
          Leicester City           3-0 (2-0)  Blackburn Rovers
 
 
-Matchday 29
-[Tue Feb/26]
-  20.00  Bolton Wanderers         1-0 (1-0)  Peterborough United
+▪ Matchday 29
+Tue Feb 26
+  20:00  Bolton Wanderers         1-0 (1-0)  Peterborough United
 
 
-Matchday 35
-[Fri Mar/1]
-  19.45  Derby County             0-1 (0-1)  Crystal Palace
+▪ Matchday 35
+Fri Mar 1
+  19:45  Derby County             0-1 (0-1)  Crystal Palace
          Wolverhampton Wanderers  1-1 (0-1)  Watford FC
-[Sat Mar/2]
-  17.20  Sheffield Wednesday      0-1 (0-1)  Nottingham Forest
-  15.00  Blackpool FC             0-0  Bristol City
+Sat Mar 2
+  17:20  Sheffield Wednesday      0-1 (0-1)  Nottingham Forest
+  15:00  Blackpool FC             0-0  Bristol City
          Ipswich Town             1-0 (0-0)  Leicester City
          Blackburn Rovers         2-3 (0-3)  Peterborough United
-  12.30  Leeds United             1-0 (0-0)  Millwall FC
-  15.00  Charlton Athletic        0-1 (0-1)  Burnley FC
+  12:30  Leeds United             1-0 (0-0)  Millwall FC
+  15:00  Charlton Athletic        0-1 (0-1)  Burnley FC
          Middlesbrough FC         2-1 (2-0)  Cardiff City
          Barnsley FC              2-3 (0-2)  Bolton Wanderers
          Hull City                5-2 (3-0)  Birmingham City
          Brighton & Hove Albion   4-1 (1-1)  Huddersfield Town
 
 
-Matchday 36
-[Tue Mar/5]
-  20.00  Crystal Palace           4-2 (1-0)  Hull City
-  19.45  Leicester City           1-1 (0-0)  Leeds United
+▪ Matchday 36
+Tue Mar 5
+  20:00  Crystal Palace           4-2 (1-0)  Hull City
+  19:45  Leicester City           1-1 (0-0)  Leeds United
          Cardiff City             1-1 (0-0)  Derby County
          Peterborough United      2-2 (1-0)  Charlton Athletic
          Huddersfield Town        2-1 (0-0)  Middlesbrough FC
@@ -634,12 +634,12 @@ Matchday 36
          Bristol City             0-0  Brighton & Hove Albion
          Watford FC               2-1 (0-1)  Sheffield Wednesday
          Burnley FC               1-1 (1-0)  Barnsley FC
-  20.00  Bolton Wanderers         1-0 (0-0)  Blackburn Rovers
+  20:00  Bolton Wanderers         1-0 (0-0)  Blackburn Rovers
 
 
-Matchday 37
-[Sat Mar/9]
-  15.00  Watford FC               1-2 (1-0)  Blackpool FC
+▪ Matchday 37
+Sat Mar 9
+  15:00  Watford FC               1-2 (1-0)  Blackpool FC
          Nottingham Forest        3-1 (1-0)  Wolverhampton Wanderers
          Huddersfield Town        0-1 (0-1)  Charlton Athletic
          Leicester City           0-1 (0-0)  Sheffield Wednesday
@@ -648,76 +648,76 @@ Matchday 37
          Peterborough United      0-0  Ipswich Town
          Birmingham City          3-1 (0-1)  Derby County
          Bolton Wanderers         1-0 (1-0)  Brighton & Hove Albion
-[Mon Mar/11]
-  19.45  Burnley FC               0-1 (0-0)  Hull City
+Mon Mar 11
+  19:45  Burnley FC               0-1 (0-0)  Hull City
 
 
-Matchday 32
-[Tue Mar/12]
-  19.45  Leeds United             1-1 (0-1)  Peterborough United
+▪ Matchday 32
+Tue Mar 12
+  19:45  Leeds United             1-1 (0-1)  Peterborough United
          Barnsley FC              2-1 (1-0)  Brighton & Hove Albion
 
 
-Matchday 29
-[Tue Mar/12]
-  19.45  Cardiff City             1-1 (0-0)  Leicester City
+▪ Matchday 29
+Tue Mar 12
+  19:45  Cardiff City             1-1 (0-0)  Leicester City
 
 
-Matchday 38
-[Sat Mar/16]
-  15.00  Barnsley FC              1-0 (1-0)  Watford FC
-  17.20  Derby County             2-1 (2-0)  Leicester City
-  15.00  Wolverhampton Wanderers  2-1 (0-1)  Bristol City
-  12.30  Leeds United             1-2 (0-0)  Huddersfield Town
+▪ Matchday 38
+Sat Mar 16
+  15:00  Barnsley FC              1-0 (1-0)  Watford FC
+  17:20  Derby County             2-1 (2-0)  Leicester City
+  15:00  Wolverhampton Wanderers  2-1 (0-1)  Bristol City
+  12:30  Leeds United             1-2 (0-0)  Huddersfield Town
          Charlton Athletic        0-2 (0-0)  Millwall FC
-  15.00  Sheffield Wednesday      0-2 (0-1)  Cardiff City
+  15:00  Sheffield Wednesday      0-2 (0-1)  Cardiff City
          Blackpool FC             0-1 (0-1)  Peterborough United
          Hull City                1-2 (1-0)  Nottingham Forest
          Middlesbrough FC         0-1 (0-0)  Birmingham City
          Ipswich Town             1-0 (0-0)  Bolton Wanderers
-[Sun Mar/17]
-  12.00  Brighton & Hove Albion   3-0 (2-0)  Crystal Palace
-  12.30  Blackburn Rovers         1-1 (0-1)  Burnley FC
+Sun Mar 17
+  12:00  Brighton & Hove Albion   3-0 (2-0)  Crystal Palace
+  12:30  Blackburn Rovers         1-1 (0-1)  Burnley FC
 
 
-Matchday 39
-[Fri Mar/29]
-  15.00  Blackburn Rovers         1-1 (0-0)  Blackpool FC
-  17.30  Crystal Palace           0-4 (0-2)  Birmingham City
-  19.45  Derby County             3-0 (1-0)  Bristol City
-  15.00  Watford FC               3-3 (2-2)  Burnley FC
-  19.45  Leicester City           0-1 (0-0)  Millwall FC
-[Sat Mar/30]
-  15.00  Sheffield Wednesday      2-1 (0-0)  Barnsley FC
+▪ Matchday 39
+Fri Mar 29
+  15:00  Blackburn Rovers         1-1 (0-0)  Blackpool FC
+  17:30  Crystal Palace           0-4 (0-2)  Birmingham City
+  19:45  Derby County             3-0 (1-0)  Bristol City
+  15:00  Watford FC               3-3 (2-2)  Burnley FC
+  19:45  Leicester City           0-1 (0-0)  Millwall FC
+Sat Mar 30
+  15:00  Sheffield Wednesday      2-1 (0-0)  Barnsley FC
          Peterborough United      2-1 (0-1)  Cardiff City
          Nottingham Forest        2-2 (0-0)  Brighton & Hove Albion
          Wolverhampton Wanderers  3-2 (1-1)  Middlesbrough FC
          Ipswich Town             3-0 (1-0)  Leeds United
          Charlton Athletic        3-2 (1-2)  Bolton Wanderers
-  17.20  Huddersfield Town        0-1 (0-0)  Hull City
+  17:20  Huddersfield Town        0-1 (0-0)  Hull City
 
 
-Matchday 40
-[Mon Apr/1]
-  15.00  Cardiff City             3-0 (1-0)  Blackburn Rovers
+▪ Matchday 40
+Mon Apr 1
+  15:00  Cardiff City             3-0 (1-0)  Blackburn Rovers
          Bristol City             1-1 (0-1)  Sheffield Wednesday
-  17.05  Leeds United             1-2 (0-0)  Derby County
-  15.00  Millwall FC              0-0  Ipswich Town
+  17:05  Leeds United             1-2 (0-0)  Derby County
+  15:00  Millwall FC              0-0  Ipswich Town
          Barnsley FC              2-0 (2-0)  Leicester City
          Birmingham City          2-3 (0-3)  Wolverhampton Wanderers
          Blackpool FC             1-0 (0-0)  Crystal Palace
          Burnley FC               1-1 (0-0)  Nottingham Forest
-[Tue Apr/2]
-  19.45  Brighton & Hove Albion   0-0  Charlton Athletic
-  20.00  Bolton Wanderers         1-0 (0-0)  Huddersfield Town
-  19.45  Hull City                0-1 (0-1)  Watford FC
+Tue Apr 2
+  19:45  Brighton & Hove Albion   0-0  Charlton Athletic
+  20:00  Bolton Wanderers         1-0 (0-0)  Huddersfield Town
+  19:45  Hull City                0-1 (0-1)  Watford FC
          Middlesbrough FC         0-0  Peterborough United
 
 
-Matchday 41
-[Sat Apr/6]
-  17.20  Watford FC               0-0  Cardiff City
-  15.00  Bolton Wanderers         2-0 (2-0)  Wolverhampton Wanderers
+▪ Matchday 41
+Sat Apr 6
+  17:20  Watford FC               0-0  Cardiff City
+  15:00  Bolton Wanderers         2-0 (2-0)  Wolverhampton Wanderers
          Burnley FC               3-1 (0-1)  Bristol City
          Huddersfield Town        2-2 (1-0)  Peterborough United
          Nottingham Forest        1-1 (0-1)  Blackpool FC
@@ -730,23 +730,23 @@ Matchday 41
          Birmingham City          1-1 (0-0)  Millwall FC
 
 
-Matchday 37
-[Tue Apr/9]
-  19.45  Cardiff City             1-1 (0-0)  Barnsley FC
+▪ Matchday 37
+Tue Apr 9
+  19:45  Cardiff City             1-1 (0-0)  Barnsley FC
 
 
-Matchday 32
-[Tue Apr/9]
-  19.45  Millwall FC              1-2 (1-1)  Sheffield Wednesday
+▪ Matchday 32
+Tue Apr 9
+  19:45  Millwall FC              1-2 (1-1)  Sheffield Wednesday
 
 
-Matchday 42
-[Fri Apr/12]
-  19.45  Leicester City           2-2 (1-0)  Birmingham City
-[Sat Apr/13]
-  15.00  Bristol City             1-2 (0-1)  Bolton Wanderers
-  12.30  Leeds United             2-1 (0-1)  Sheffield Wednesday
-  15.00  Cardiff City             3-0 (1-0)  Nottingham Forest
+▪ Matchday 42
+Fri Apr 12
+  19:45  Leicester City           2-2 (1-0)  Birmingham City
+Sat Apr 13
+  15:00  Bristol City             1-2 (0-1)  Bolton Wanderers
+  12:30  Leeds United             2-1 (0-1)  Sheffield Wednesday
+  15:00  Cardiff City             3-0 (1-0)  Nottingham Forest
          Peterborough United      3-2 (1-0)  Watford FC
          Blackburn Rovers         2-0 (2-0)  Derby County
          Barnsley FC              0-6 (0-2)  Charlton Athletic
@@ -756,11 +756,11 @@ Matchday 42
          Wolverhampton Wanderers  1-3 (1-1)  Huddersfield Town
 
 
-Matchday 43
-[Tue Apr/16]
-  19.45  Barnsley FC              1-1 (0-0)  Derby County
-  20.00  Blackpool FC             0-0  Sheffield Wednesday
-  19.45  Middlesbrough FC         1-0 (1-0)  Nottingham Forest
+▪ Matchday 43
+Tue Apr 16
+  19:45  Barnsley FC              1-1 (0-0)  Derby County
+  20:00  Blackpool FC             0-0  Sheffield Wednesday
+  19:45  Middlesbrough FC         1-0 (1-0)  Nottingham Forest
          Bristol City             0-1 (0-1)  Birmingham City
          Cardiff City             0-0  Charlton Athletic
          Millwall FC              1-0 (0-0)  Watford FC
@@ -772,15 +772,15 @@ Matchday 43
          Leicester City           3-2 (2-1)  Bolton Wanderers
 
 
-Matchday 44
-[Fri Apr/19]
-  19.45  Hull City                0-0  Bristol City
-[Sat Apr/20]
-  15.00  Charlton Athletic        2-1 (0-0)  Wolverhampton Wanderers
+▪ Matchday 44
+Fri Apr 19
+  19:45  Hull City                0-0  Bristol City
+Sat Apr 20
+  15:00  Charlton Athletic        2-1 (0-0)  Wolverhampton Wanderers
          Bolton Wanderers         2-1 (0-0)  Middlesbrough FC
-  12.30  Huddersfield Town        3-0 (1-0)  Millwall FC
-  12.45  Burnley FC               1-1 (0-1)  Cardiff City
-  15.00  Watford FC               4-0 (0-0)  Blackburn Rovers
+  12:30  Huddersfield Town        3-0 (1-0)  Millwall FC
+  12:45  Burnley FC               1-1 (0-1)  Cardiff City
+  15:00  Watford FC               4-0 (0-0)  Blackburn Rovers
          Nottingham Forest        0-0  Barnsley FC
          Derby County             3-1 (1-0)  Peterborough United
          Crystal Palace           2-2 (1-1)  Leicester City
@@ -789,17 +789,17 @@ Matchday 44
          Brighton & Hove Albion   6-1 (3-0)  Blackpool FC
 
 
-Matchday 37
-[Tue Apr/23]
-  19.45  Millwall FC              1-2 (1-0)  Blackburn Rovers
+▪ Matchday 37
+Tue Apr 23
+  19:45  Millwall FC              1-2 (1-0)  Blackburn Rovers
 
 
-Matchday 45
-[Fri Apr/26]
-  19.45  Leicester City           1-2 (0-2)  Watford FC
-[Sat Apr/27]
-  17.20  Peterborough United      1-0 (0-0)  Sheffield Wednesday
-  15.00  Blackburn Rovers         1-1 (1-1)  Crystal Palace
+▪ Matchday 45
+Fri Apr 26
+  19:45  Leicester City           1-2 (0-2)  Watford FC
+Sat Apr 27
+  17:20  Peterborough United      1-0 (0-0)  Sheffield Wednesday
+  15:00  Blackburn Rovers         1-1 (1-1)  Crystal Palace
          Millwall FC              0-1 (0-1)  Nottingham Forest
          Wolverhampton Wanderers  1-2 (0-1)  Burnley FC
          Cardiff City             1-1 (0-1)  Bolton Wanderers
@@ -811,14 +811,14 @@ Matchday 45
          Barnsley FC              2-0 (1-0)  Hull City
 
 
-Matchday 42
-[Tue Apr/30]
-  19.45  Millwall FC              0-0  Crystal Palace
+▪ Matchday 42
+Tue Apr 30
+  19:45  Millwall FC              0-0  Crystal Palace
 
 
-Matchday 46
-[Sat May/4]
-  12.45  Burnley FC               2-0 (0-0)  Ipswich Town
+▪ Matchday 46
+Sat May 4
+  12:45  Burnley FC               2-0 (0-0)  Ipswich Town
          Watford FC               1-2 (1-1)  Leeds United
          Nottingham Forest        2-3 (1-2)  Leicester City
          Sheffield Wednesday      2-0 (2-0)  Middlesbrough FC

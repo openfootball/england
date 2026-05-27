@@ -1,15 +1,15 @@
 = English Championship 2008/09
 
-# Date       Sat Aug/9 2008 - Sun May/3 2009 (267d)
+# Date       Sat Aug 9 2008 - Sun May 3 2009 (267d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/9]
-  12.45  Birmingham City          1-0 (0-0)  Sheffield United
-  15.00  Blackpool FC             0-1 (0-0)  Bristol City
+▪ Matchday 1
+Sat Aug 9
+  12:45  Birmingham City          1-0 (0-0)  Sheffield United
+  15:00  Blackpool FC             0-1 (0-0)  Bristol City
          Cardiff City             2-1 (1-1)  Southampton FC
          Charlton Athletic        2-0 (1-0)  Swansea City
          Coventry City            2-0 (0-0)  Norwich City
@@ -19,13 +19,13 @@ Matchday 1
          Plymouth Argyle          2-2 (1-1)  Wolverhampton Wanderers
          Queens Park Rangers      2-1 (2-1)  Barnsley FC
          Sheffield Wednesday      4-1 (3-1)  Burnley FC
-[Sun Aug/10]
-  13.15  Nottingham Forest        0-0  Reading FC
+Sun Aug 10
+  13:15  Nottingham Forest        0-0  Reading FC
 
 
-Matchday 2
-[Sat Aug/16]
-  15.00  Barnsley FC              1-2 (1-1)  Coventry City
+▪ Matchday 2
+Sat Aug 16
+  15:00  Barnsley FC              1-2 (1-1)  Coventry City
          Doncaster Rovers         1-1 (0-0)  Cardiff City
          Norwich City             1-1 (0-0)  Blackpool FC
          Preston North End        2-0 (0-0)  Crystal Palace
@@ -35,14 +35,14 @@ Matchday 2
          Swansea City             3-1 (1-1)  Nottingham Forest
          Watford FC               1-0 (1-0)  Charlton Athletic
          Wolverhampton Wanderers  4-1 (1-1)  Sheffield Wednesday
-  15.40  Burnley FC               0-3 (0-2)  Ipswich Town
-  17.20  Bristol City             1-1 (1-0)  Derby County
+  15:40  Burnley FC               0-3 (0-2)  Ipswich Town
+  17:20  Bristol City             1-1 (1-0)  Derby County
 
 
-Matchday 3
-[Sat Aug/23]
-  12.45  Charlton Athletic        4-2 (2-1)  Reading FC
-  15.00  Birmingham City          2-0 (2-0)  Barnsley FC
+▪ Matchday 3
+Sat Aug 23
+  12:45  Charlton Athletic        4-2 (2-1)  Reading FC
+  15:00  Birmingham City          2-0 (2-0)  Barnsley FC
          Blackpool FC             1-3 (0-1)  Sheffield United
          Cardiff City             2-2 (1-0)  Norwich City
          Coventry City            0-3 (0-1)  Bristol City
@@ -52,13 +52,13 @@ Matchday 3
          Nottingham Forest        3-2 (2-1)  Watford FC
          Queens Park Rangers      2-0 (2-0)  Doncaster Rovers
          Sheffield Wednesday      1-1 (1-0)  Preston North End
-  17.20  Plymouth Argyle          0-1 (0-1)  Swansea City
+  17:20  Plymouth Argyle          0-1 (0-1)  Swansea City
 
 
-Matchday 4
-[Sat Aug/30]
-  12.45  Southampton FC           0-1 (0-1)  Blackpool FC
-  15.00  Barnsley FC              2-0 (0-0)  Derby County
+▪ Matchday 4
+Sat Aug 30
+  12:45  Southampton FC           0-1 (0-1)  Blackpool FC
+  15:00  Barnsley FC              2-0 (0-0)  Derby County
          Bristol City             1-1 (1-1)  Queens Park Rangers
          Burnley FC               0-0  Plymouth Argyle
          Doncaster Rovers         1-0 (1-0)  Coventry City
@@ -68,12 +68,12 @@ Matchday 4
          Sheffield United         0-0  Cardiff City
          Swansea City             1-1 (1-0)  Sheffield Wednesday
          Wolverhampton Wanderers  5-1 (4-0)  Nottingham Forest
-  17.20  Watford FC               2-1 (0-1)  Ipswich Town
+  17:20  Watford FC               2-1 (0-1)  Ipswich Town
 
 
-Matchday 5
-[Sat Sep/13]
-  15.00  Birmingham City          1-0 (0-0)  Doncaster Rovers
+▪ Matchday 5
+Sat Sep 13
+  15:00  Birmingham City          1-0 (0-0)  Doncaster Rovers
          Blackpool FC             1-0 (0-0)  Barnsley FC
          Cardiff City             0-0  Bristol City
          Charlton Athletic        1-3 (1-0)  Wolverhampton Wanderers
@@ -83,14 +83,14 @@ Matchday 5
          Nottingham Forest        1-2 (0-1)  Burnley FC
          Plymouth Argyle          1-2 (0-1)  Norwich City
          Sheffield Wednesday      2-0 (1-0)  Watford FC
-  17.20  Derby County             2-1 (1-1)  Sheffield United
-[Sun Sep/14]
-  16.00  Queens Park Rangers      4-1 (1-0)  Southampton FC
+  17:20  Derby County             2-1 (1-1)  Sheffield United
+Sun Sep 14
+  16:00  Queens Park Rangers      4-1 (1-0)  Southampton FC
 
 
-Matchday 6
-[Tue Sep/16]
-  19.45  Barnsley FC              0-1 (0-1)  Cardiff City
+▪ Matchday 6
+Tue Sep 16
+  19:45  Barnsley FC              0-1 (0-1)  Cardiff City
          Bristol City             1-2 (0-2)  Birmingham City
          Burnley FC               2-0 (0-0)  Blackpool FC
          Doncaster Rovers         0-1 (0-1)  Charlton Athletic
@@ -99,15 +99,15 @@ Matchday 6
          Swansea City             1-1 (0-0)  Derby County
          Watford FC               1-2 (0-1)  Plymouth Argyle
          Wolverhampton Wanderers  2-1 (1-1)  Crystal Palace
-  20.00  Reading FC               6-0 (3-0)  Sheffield Wednesday
-[Wed Sep/17]
-  19.45  Southampton FC           2-2 (1-1)  Ipswich Town
+  20:00  Reading FC               6-0 (3-0)  Sheffield Wednesday
+Wed Sep 17
+  19:45  Southampton FC           2-2 (1-1)  Ipswich Town
          Norwich City             0-1 (0-1)  Queens Park Rangers
 
 
-Matchday 7
-[Sat Sep/20]
-  15.00  Birmingham City          0-1 (0-0)  Blackpool FC
+▪ Matchday 7
+Sat Sep 20
+  15:00  Birmingham City          0-1 (0-0)  Blackpool FC
          Bristol City             4-1 (0-0)  Doncaster Rovers
          Coventry City            1-0 (1-0)  Queens Park Rangers
          Crystal Palace           1-2 (0-1)  Plymouth Argyle
@@ -118,13 +118,13 @@ Matchday 7
          Southampton FC           0-0  Barnsley FC
          Swansea City             1-1 (0-0)  Burnley FC
          Watford FC               2-2 (0-1)  Reading FC
-  15.15  Preston North End        1-3 (0-1)  Wolverhampton Wanderers
+  15:15  Preston North End        1-3 (0-1)  Wolverhampton Wanderers
 
 
-Matchday 8
-[Sat Sep/27]
-  12.30  Wolverhampton Wanderers  2-0 (1-0)  Bristol City
-  15.00  Barnsley FC              0-0  Norwich City
+▪ Matchday 8
+Sat Sep 27
+  12:30  Wolverhampton Wanderers  2-0 (1-0)  Bristol City
+  15:00  Barnsley FC              0-0  Norwich City
          Blackpool FC             1-1 (0-0)  Coventry City
          Burnley FC               3-1 (1-1)  Preston North End
          Cardiff City             1-2 (0-2)  Birmingham City
@@ -134,12 +134,12 @@ Matchday 8
          Queens Park Rangers      0-2 (0-0)  Derby County
          Reading FC               4-0 (3-0)  Swansea City
          Sheffield United         2-1 (1-0)  Watford FC
-  17.20  Ipswich Town             1-1 (1-1)  Crystal Palace
+  17:20  Ipswich Town             1-1 (1-1)  Crystal Palace
 
 
-Matchday 9
-[Tue Sep/30]
-  19.45  Bristol City             2-2 (0-2)  Plymouth Argyle
+▪ Matchday 9
+Tue Sep 30
+  19:45  Bristol City             2-2 (0-2)  Plymouth Argyle
          Burnley FC               3-2 (1-2)  Watford FC
          Cardiff City             2-1 (1-0)  Coventry City
          Derby County             1-1 (0-1)  Birmingham City
@@ -149,15 +149,15 @@ Matchday 9
          Sheffield Wednesday      1-0 (0-0)  Nottingham Forest
          Southampton FC           2-0 (1-0)  Norwich City
          Wolverhampton Wanderers  0-3 (0-1)  Reading FC
-  20.00  Crystal Palace           1-0 (0-0)  Charlton Athletic
+  20:00  Crystal Palace           1-0 (0-0)  Charlton Athletic
          Queens Park Rangers      1-1 (0-1)  Blackpool FC
 
 
-Matchday 10
-[Sat Oct/4]
-  12.30  Blackpool FC             1-1 (0-0)  Cardiff City
-  12.45  Birmingham City          1-0 (1-0)  Queens Park Rangers
-  15.00  Barnsley FC              4-1 (0-1)  Doncaster Rovers
+▪ Matchday 10
+Sat Oct 4
+  12:30  Blackpool FC             1-1 (0-0)  Cardiff City
+  12:45  Birmingham City          1-0 (1-0)  Queens Park Rangers
+  15:00  Barnsley FC              4-1 (0-1)  Doncaster Rovers
          Charlton Athletic        2-1 (1-1)  Ipswich Town
          Norwich City             1-2 (0-1)  Derby County
          Nottingham Forest        0-2 (0-1)  Crystal Palace
@@ -166,12 +166,12 @@ Matchday 10
          Sheffield United         3-0 (1-0)  Bristol City
          Swansea City             3-1 (2-1)  Wolverhampton Wanderers
          Watford FC               2-1 (2-1)  Preston North End
-  17.20  Coventry City            4-1 (2-0)  Southampton FC
+  17:20  Coventry City            4-1 (2-0)  Southampton FC
 
 
-Matchday 11
-[Sat Oct/18]
-  15.00  Bristol City             1-0 (0-0)  Norwich City
+▪ Matchday 11
+Sat Oct 18
+  15:00  Bristol City             1-0 (0-0)  Norwich City
          Burnley FC               1-1 (1-0)  Birmingham City
          Cardiff City             2-0 (1-0)  Charlton Athletic
          Derby County             2-1 (1-1)  Plymouth Argyle
@@ -181,14 +181,14 @@ Matchday 11
          Queens Park Rangers      2-1 (0-0)  Nottingham Forest
          Southampton FC           0-3 (0-3)  Watford FC
          Wolverhampton Wanderers  2-1 (1-1)  Coventry City
-  17.20  Crystal Palace           3-0 (1-0)  Barnsley FC
-[Sun Oct/19]
-  13.15  Sheffield Wednesday      1-0 (1-0)  Sheffield United
+  17:20  Crystal Palace           3-0 (1-0)  Barnsley FC
+Sun Oct 19
+  13:15  Sheffield Wednesday      1-0 (1-0)  Sheffield United
 
 
-Matchday 12
-[Tue Oct/21]
-  19.45  Barnsley FC              2-1 (1-0)  Sheffield Wednesday
+▪ Matchday 12
+Tue Oct 21
+  19:45  Barnsley FC              2-1 (1-0)  Sheffield Wednesday
          Birmingham City          1-0 (0-0)  Crystal Palace
          Blackpool FC             3-2 (2-0)  Derby County
          Charlton Athletic        0-2 (0-1)  Bristol City
@@ -199,12 +199,12 @@ Matchday 12
          Sheffield United         0-0  Southampton FC
          Swansea City             0-0  Queens Park Rangers
          Watford FC               2-2 (2-0)  Cardiff City
-  20.00  Reading FC               2-1 (1-0)  Doncaster Rovers
+  20:00  Reading FC               2-1 (1-0)  Doncaster Rovers
 
 
-Matchday 13
-[Sat Oct/25]
-  15.00  Barnsley FC              0-0  Bristol City
+▪ Matchday 13
+Sat Oct 25
+  15:00  Barnsley FC              0-0  Bristol City
          Birmingham City          3-1 (3-1)  Sheffield Wednesday
          Blackpool FC             2-2 (0-1)  Crystal Palace
          Charlton Athletic        1-1 (0-1)  Burnley FC
@@ -215,12 +215,12 @@ Matchday 13
          Sheffield United         1-0 (0-0)  Preston North End
          Swansea City             3-0 (1-0)  Southampton FC
          Watford FC               2-3 (1-2)  Wolverhampton Wanderers
-  17.20  Reading FC               0-0  Queens Park Rangers
+  17:20  Reading FC               0-0  Queens Park Rangers
 
 
-Matchday 14
-[Tue Oct/28]
-  19.45  Bristol City             0-0  Sheffield United
+▪ Matchday 14
+Tue Oct 28
+  19:45  Bristol City             0-0  Sheffield United
          Burnley FC               1-0 (0-0)  Reading FC
          Cardiff City             2-0 (0-0)  Blackpool FC
          Derby County             3-1 (2-0)  Norwich City
@@ -230,13 +230,13 @@ Matchday 14
          Sheffield Wednesday      0-1 (0-1)  Plymouth Argyle
          Southampton FC           1-1 (0-0)  Coventry City
          Wolverhampton Wanderers  2-1 (1-0)  Swansea City
-  20.00  Crystal Palace           1-2 (0-1)  Nottingham Forest
+  20:00  Crystal Palace           1-2 (0-1)  Nottingham Forest
          Queens Park Rangers      1-0 (0-0)  Birmingham City
 
 
-Matchday 15
-[Sat Nov/1]
-  15.00  Bristol City             1-4 (0-2)  Reading FC
+▪ Matchday 15
+Sat Nov 1
+  15:00  Bristol City             1-4 (0-2)  Reading FC
          Burnley FC               2-0 (0-0)  Norwich City
          Charlton Athletic        1-3 (0-3)  Barnsley FC
          Crystal Palace           1-1 (0-1)  Sheffield Wednesday
@@ -245,16 +245,16 @@ Matchday 15
          Preston North End        2-3 (2-0)  Southampton FC
          Sheffield United         2-0 (0-0)  Plymouth Argyle
          Watford FC               3-4 (2-1)  Blackpool FC
-  17.20  Cardiff City             1-2 (1-2)  Wolverhampton Wanderers
-[Sun Nov/2]
-  13.15  Derby County             1-1 (0-0)  Nottingham Forest
-[Mon Nov/3]
-  19.45  Birmingham City          0-1 (0-0)  Coventry City
+  17:20  Cardiff City             1-2 (1-2)  Wolverhampton Wanderers
+Sun Nov 2
+  13:15  Derby County             1-1 (0-0)  Nottingham Forest
+Mon Nov 3
+  19:45  Birmingham City          0-1 (0-0)  Coventry City
 
 
-Matchday 16
-[Sat Nov/8]
-  15.00  Barnsley FC              1-2 (0-1)  Sheffield United
+▪ Matchday 16
+Sat Nov 8
+  15:00  Barnsley FC              1-2 (0-1)  Sheffield United
          Blackpool FC             0-1 (0-1)  Ipswich Town
          Coventry City            0-2 (0-1)  Crystal Palace
          Norwich City             2-2 (1-1)  Preston North End
@@ -264,14 +264,14 @@ Matchday 16
          Reading FC               3-0 (1-0)  Derby County
          Sheffield Wednesday      1-0 (1-0)  Doncaster Rovers
          Wolverhampton Wanderers  2-0 (1-0)  Burnley FC
-  17.20  Southampton FC           0-1 (0-0)  Bristol City
-[Sun Nov/9]
-  14.00  Swansea City             3-1 (1-1)  Watford FC
+  17:20  Southampton FC           0-1 (0-0)  Bristol City
+Sun Nov 9
+  14:00  Swansea City             3-1 (1-1)  Watford FC
 
 
-Matchday 17
-[Sat Nov/15]
-  15.00  Barnsley FC              2-1 (0-0)  Watford FC
+▪ Matchday 17
+Sat Nov 15
+  15:00  Barnsley FC              2-1 (0-0)  Watford FC
          Birmingham City          3-2 (1-2)  Charlton Athletic
          Bristol City             2-2 (1-1)  Nottingham Forest
          Cardiff City             2-1 (1-1)  Crystal Palace
@@ -281,17 +281,17 @@ Matchday 17
          Queens Park Rangers      1-2 (1-1)  Burnley FC
          Sheffield United         0-2 (0-2)  Reading FC
          Southampton FC           1-2 (1-2)  Wolverhampton Wanderers
-  17.20  Doncaster Rovers         1-0 (1-0)  Ipswich Town
-[Sun Nov/16]
-  13.00  Blackpool FC             1-3 (1-0)  Preston North End
+  17:20  Doncaster Rovers         1-0 (1-0)  Ipswich Town
+Sun Nov 16
+  13:00  Blackpool FC             1-3 (1-0)  Preston North End
 
 
-Matchday 18
-[Fri Nov/21]
-  19.45  Swansea City             2-3 (2-1)  Birmingham City
-[Sat Nov/22]
-  12.45  Plymouth Argyle          2-1 (2-0)  Cardiff City
-  15.00  Burnley FC               0-0  Doncaster Rovers
+▪ Matchday 18
+Fri Nov 21
+  19:45  Swansea City             2-3 (2-1)  Birmingham City
+Sat Nov 22
+  12:45  Plymouth Argyle          2-1 (2-0)  Cardiff City
+  15:00  Burnley FC               0-0  Doncaster Rovers
          Charlton Athletic        2-5 (1-3)  Sheffield United
          Crystal Palace           4-2 (2-1)  Bristol City
          Ipswich Town             2-0 (1-0)  Derby County
@@ -300,14 +300,14 @@ Matchday 18
          Sheffield Wednesday      0-1 (0-0)  Coventry City
          Watford FC               3-0 (3-0)  Queens Park Rangers
          Wolverhampton Wanderers  2-0 (1-0)  Blackpool FC
-  17.20  Nottingham Forest        1-2 (1-1)  Norwich City
+  17:20  Nottingham Forest        1-2 (1-1)  Norwich City
 
 
-Matchday 19
-[Mon Nov/24]
-  19.45  Barnsley FC              3-2 (1-0)  Burnley FC
-[Tue Nov/25]
-  19.45  Birmingham City          2-1 (2-0)  Ipswich Town
+▪ Matchday 19
+Mon Nov 24
+  19:45  Barnsley FC              3-2 (1-0)  Burnley FC
+Tue Nov 25
+  19:45  Birmingham City          2-1 (2-0)  Ipswich Town
          Blackpool FC             0-2 (0-0)  Sheffield Wednesday
          Bristol City             1-1 (0-0)  Watford FC
          Cardiff City             2-2 (2-1)  Reading FC
@@ -317,13 +317,13 @@ Matchday 19
          Norwich City             1-2 (0-2)  Crystal Palace
          Sheffield United         1-3 (0-1)  Wolverhampton Wanderers
          Southampton FC           0-0  Plymouth Argyle
-  20.00  Queens Park Rangers      2-1 (1-1)  Charlton Athletic
+  20:00  Queens Park Rangers      2-1 (1-1)  Charlton Athletic
 
 
-Matchday 20
-[Sat Nov/29]
-  12.30  Wolverhampton Wanderers  1-1 (0-0)  Birmingham City
-  15.00  Burnley FC               3-0 (3-0)  Derby County
+▪ Matchday 20
+Sat Nov 29
+  12:30  Wolverhampton Wanderers  1-1 (0-0)  Birmingham City
+  15:00  Burnley FC               3-0 (3-0)  Derby County
          Charlton Athletic        0-0  Southampton FC
          Crystal Palace           0-0  Queens Park Rangers
          Ipswich Town             1-1 (1-0)  Sheffield United
@@ -331,16 +331,16 @@ Matchday 20
          Plymouth Argyle          1-2 (0-0)  Blackpool FC
          Sheffield Wednesday      3-2 (0-1)  Norwich City
          Watford FC               1-1 (1-0)  Doncaster Rovers
-  17.20  Preston North End        2-0 (1-0)  Bristol City
-[Sun Nov/30]
-  11.15  Swansea City             2-2 (1-1)  Cardiff City
-[Mon Dec/1]
-  20.00  Reading FC               3-1 (2-1)  Coventry City
+  17:20  Preston North End        2-0 (1-0)  Bristol City
+Sun Nov 30
+  11:15  Swansea City             2-2 (1-1)  Cardiff City
+Mon Dec 1
+  20:00  Reading FC               3-1 (2-1)  Coventry City
 
 
-Matchday 21
-[Sat Dec/6]
-  15.00  Barnsley FC              0-1 (0-0)  Reading FC
+▪ Matchday 21
+Sat Dec 6
+  15:00  Barnsley FC              0-1 (0-0)  Reading FC
          Birmingham City          3-2 (2-1)  Watford FC
          Blackpool FC             2-0 (0-0)  Charlton Athletic
          Bristol City             0-0  Swansea City
@@ -350,16 +350,16 @@ Matchday 21
          Doncaster Rovers         1-0 (1-0)  Plymouth Argyle
          Sheffield United         2-3 (1-2)  Burnley FC
          Southampton FC           1-1 (1-0)  Sheffield Wednesday
-  17.20  Queens Park Rangers      1-0 (0-0)  Wolverhampton Wanderers
-[Sun Dec/7]
-  13.15  Norwich City             2-0 (0-0)  Ipswich Town
+  17:20  Queens Park Rangers      1-0 (0-0)  Wolverhampton Wanderers
+Sun Dec 7
+  13:15  Norwich City             2-0 (0-0)  Ipswich Town
 
 
-Matchday 22
-[Mon Dec/8]
-  20.00  Crystal Palace           3-0 (2-0)  Southampton FC
-[Tue Dec/9]
-  19.45  Burnley FC               2-2 (1-1)  Cardiff City
+▪ Matchday 22
+Mon Dec 8
+  20:00  Crystal Palace           3-0 (2-0)  Southampton FC
+Tue Dec 9
+  19:45  Burnley FC               2-2 (1-1)  Cardiff City
          Charlton Athletic        1-2 (0-1)  Coventry City
          Nottingham Forest        0-1 (0-1)  Sheffield United
          Plymouth Argyle          0-1 (0-0)  Birmingham City
@@ -367,15 +367,15 @@ Matchday 22
          Sheffield Wednesday      1-0 (0-0)  Queens Park Rangers
          Swansea City             2-2 (0-0)  Barnsley FC
          Wolverhampton Wanderers  3-0 (2-0)  Derby County
-  20.00  Reading FC               1-0 (1-0)  Blackpool FC
-[Wed Dec/10]
-  19.45  Ipswich Town             3-1 (0-1)  Bristol City
+  20:00  Reading FC               1-0 (1-0)  Blackpool FC
+Wed Dec 10
+  19:45  Ipswich Town             3-1 (0-1)  Bristol City
          Watford FC               2-1 (1-0)  Norwich City
 
 
-Matchday 23
-[Sat Dec/13]
-  15.00  Burnley FC               3-2 (3-0)  Southampton FC
+▪ Matchday 23
+Sat Dec 13
+  15:00  Burnley FC               3-2 (3-0)  Southampton FC
          Crystal Palace           2-1 (1-1)  Doncaster Rovers
          Ipswich Town             1-2 (1-2)  Cardiff City
          Nottingham Forest        0-0  Blackpool FC
@@ -385,15 +385,15 @@ Matchday 23
          Swansea City             1-1 (0-0)  Sheffield United
          Watford FC               2-1 (0-0)  Coventry City
          Wolverhampton Wanderers  2-0 (1-0)  Barnsley FC
-  17.20  Preston North End        1-0 (0-0)  Birmingham City
-[Mon Dec/15]
-  19.45  Charlton Athletic        2-2 (1-0)  Derby County
+  17:20  Preston North End        1-0 (0-0)  Birmingham City
+Mon Dec 15
+  19:45  Charlton Athletic        2-2 (1-0)  Derby County
 
 
-Matchday 24
-[Sat Dec/20]
-  12.45  Birmingham City          1-3 (0-1)  Reading FC
-  15.00  Barnsley FC              2-0 (1-0)  Plymouth Argyle
+▪ Matchday 24
+Sat Dec 20
+  12:45  Birmingham City          1-3 (0-1)  Reading FC
+  15:00  Barnsley FC              2-0 (1-0)  Plymouth Argyle
          Blackpool FC             1-1 (0-0)  Swansea City
          Bristol City             1-2 (0-0)  Burnley FC
          Cardiff City             2-0 (0-0)  Sheffield Wednesday
@@ -403,15 +403,15 @@ Matchday 24
          Norwich City             1-0 (0-0)  Charlton Athletic
          Queens Park Rangers      3-2 (2-1)  Preston North End
          Southampton FC           0-2 (0-1)  Nottingham Forest
-  17.20  Sheffield United         2-2 (1-0)  Crystal Palace
+  17:20  Sheffield United         2-2 (1-0)  Crystal Palace
 
 
-Matchday 25
-[Fri Dec/26]
-  12.00  Watford FC               2-4 (0-2)  Bristol City
-  13.00  Charlton Athletic        2-2 (0-1)  Queens Park Rangers
+▪ Matchday 25
+Fri Dec 26
+  12:00  Watford FC               2-4 (0-2)  Bristol City
+  13:00  Charlton Athletic        2-2 (0-1)  Queens Park Rangers
          Crystal Palace           3-1 (2-1)  Norwich City
-  15.00  Burnley FC               1-2 (1-1)  Barnsley FC
+  15:00  Burnley FC               1-2 (1-1)  Barnsley FC
          Ipswich Town             0-1 (0-1)  Birmingham City
          Nottingham Forest        2-4 (0-3)  Doncaster Rovers
          Plymouth Argyle          2-0 (1-0)  Southampton FC
@@ -422,9 +422,9 @@ Matchday 25
          Wolverhampton Wanderers  1-1 (1-1)  Sheffield United
 
 
-Matchday 26
-[Sun Dec/28]
-  15.00  Barnsley FC              1-1 (1-0)  Preston North End
+▪ Matchday 26
+Sun Dec 28
+  15:00  Barnsley FC              1-1 (1-0)  Preston North End
          Birmingham City          0-0  Swansea City
          Bristol City             1-0 (1-0)  Crystal Palace
          Cardiff City             1-0 (0-0)  Plymouth Argyle
@@ -435,31 +435,31 @@ Matchday 26
          Queens Park Rangers      0-0  Watford FC
          Sheffield United         3-1 (0-1)  Charlton Athletic
          Southampton FC           1-1 (0-0)  Reading FC
-[Mon Dec/29]
-  19.45  Blackpool FC             2-2 (1-1)  Wolverhampton Wanderers
+Mon Dec 29
+  19:45  Blackpool FC             2-2 (1-1)  Wolverhampton Wanderers
 
 
-Matchday 27
-[Fri Jan/9]
-  20.00  Reading FC               4-0 (1-0)  Watford FC
-[Sat Jan/10]
-  15.00  Barnsley FC              0-1 (0-0)  Southampton FC
+▪ Matchday 27
+Fri Jan 9
+  20:00  Reading FC               4-0 (1-0)  Watford FC
+Sat Jan 10
+  15:00  Barnsley FC              0-1 (0-0)  Southampton FC
          Charlton Athletic        0-2 (0-2)  Nottingham Forest
          Ipswich Town             1-1 (0-0)  Sheffield Wednesday
          Queens Park Rangers      1-1 (0-0)  Coventry City
          Sheffield United         1-0 (1-0)  Norwich City
          Wolverhampton Wanderers  1-3 (1-2)  Preston North End
-  17.20  Burnley FC               0-2 (0-1)  Swansea City
+  17:20  Burnley FC               0-2 (0-1)  Swansea City
 
 
-Matchday 28
-[Sat Jan/17]
-  15.00  Watford FC               0-2 (0-0)  Sheffield United
-  17.20  Bristol City             2-2 (0-1)  Wolverhampton Wanderers
-  15.00  Sheffield Wednesday      4-1 (2-0)  Charlton Athletic
+▪ Matchday 28
+Sat Jan 17
+  15:00  Watford FC               0-2 (0-0)  Sheffield United
+  17:20  Bristol City             2-2 (0-1)  Wolverhampton Wanderers
+  15:00  Sheffield Wednesday      4-1 (2-0)  Charlton Athletic
          Swansea City             2-0 (1-0)  Reading FC
-  12.45  Preston North End        2-1 (0-0)  Burnley FC
-  15.00  Birmingham City          1-1 (0-0)  Cardiff City
+  12:45  Preston North End        2-1 (0-0)  Burnley FC
+  15:00  Birmingham City          1-1 (0-0)  Cardiff City
          Coventry City            2-1 (0-1)  Blackpool FC
          Crystal Palace           1-4 (1-2)  Ipswich Town
          Derby County             0-2 (0-2)  Queens Park Rangers
@@ -468,17 +468,17 @@ Matchday 28
          Southampton FC           1-2 (0-0)  Doncaster Rovers
 
 
-Matchday 27
-[Sat Jan/24]
-  15.00  Blackpool FC             2-0 (2-0)  Birmingham City
+▪ Matchday 27
+Sat Jan 24
+  15:00  Blackpool FC             2-0 (2-0)  Birmingham City
 
 
-Matchday 29
-[Tue Jan/27]
-  19.45  Nottingham Forest        2-1 (1-1)  Sheffield Wednesday
+▪ Matchday 29
+Tue Jan 27
+  19:45  Nottingham Forest        2-1 (1-1)  Sheffield Wednesday
          Swansea City             4-1 (2-0)  Preston North End
-  20.00  Reading FC               1-0 (1-0)  Wolverhampton Wanderers
-  19.45  Barnsley FC              1-2 (0-2)  Ipswich Town
+  20:00  Reading FC               1-0 (1-0)  Wolverhampton Wanderers
+  19:45  Barnsley FC              1-2 (0-2)  Ipswich Town
          Birmingham City          1-0 (0-0)  Derby County
          Blackpool FC             0-3 (0-1)  Queens Park Rangers
          Charlton Athletic        1-0 (1-0)  Crystal Palace
@@ -486,18 +486,18 @@ Matchday 29
          Sheffield United         0-1 (0-0)  Doncaster Rovers
          Plymouth Argyle          0-2 (0-0)  Bristol City
          Watford FC               3-0 (1-0)  Burnley FC
-[Wed Jan/28]
-  19.45  Coventry City            0-2 (0-1)  Cardiff City
+Wed Jan 28
+  19:45  Coventry City            0-2 (0-1)  Cardiff City
 
 
-Matchday 30
-[Fri Jan/30]
-  19.45  Doncaster Rovers         1-1 (1-0)  Norwich City
-[Sat Jan/31]
-  15.00  Wolverhampton Wanderers  3-1 (1-0)  Watford FC
+▪ Matchday 30
+Fri Jan 30
+  19:45  Doncaster Rovers         1-1 (1-0)  Norwich City
+Sat Jan 31
+  15:00  Wolverhampton Wanderers  3-1 (1-0)  Watford FC
          Southampton FC           2-2 (1-1)  Swansea City
-  17.20  Sheffield Wednesday      1-1 (0-0)  Birmingham City
-  15.00  Bristol City             2-0 (0-0)  Barnsley FC
+  17:20  Sheffield Wednesday      1-1 (0-0)  Birmingham City
+  15:00  Bristol City             2-0 (0-0)  Barnsley FC
          Burnley FC               2-1 (0-1)  Charlton Athletic
          Cardiff City             2-0 (1-0)  Nottingham Forest
          Crystal Palace           0-1 (0-1)  Blackpool FC
@@ -507,30 +507,30 @@ Matchday 30
          Queens Park Rangers      0-0  Reading FC
 
 
-Matchday 31
-[Tue Feb/3]
-  19.45  Southampton FC           1-2 (0-1)  Sheffield United
+▪ Matchday 31
+Tue Feb 3
+  19:45  Southampton FC           1-2 (0-1)  Sheffield United
          Preston North End        1-1 (1-1)  Plymouth Argyle
          Bristol City             2-1 (0-1)  Charlton Athletic
          Wolverhampton Wanderers  3-3 (1-1)  Norwich City
 
 
-Matchday 32
-[Sat Feb/7]
-  15.00  Birmingham City          1-1 (1-1)  Burnley FC
+▪ Matchday 32
+Sat Feb 7
+  15:00  Birmingham City          1-1 (1-1)  Burnley FC
          Blackpool FC             2-3 (1-1)  Doncaster Rovers
          Norwich City             1-2 (1-2)  Bristol City
-  12.00  Sheffield United         1-2 (1-2)  Sheffield Wednesday
-  15.00  Nottingham Forest        2-2 (1-1)  Queens Park Rangers
+  12:00  Sheffield United         1-2 (1-2)  Sheffield Wednesday
+  15:00  Nottingham Forest        2-2 (1-1)  Queens Park Rangers
          Coventry City            2-1 (1-0)  Wolverhampton Wanderers
          Plymouth Argyle          0-3 (0-1)  Derby County
          Swansea City             3-0 (1-0)  Ipswich Town
          Reading FC               0-0  Preston North End
 
 
-Matchday 33
-[Sat Feb/14]
-  15.00  Burnley FC               1-0 (1-0)  Wolverhampton Wanderers
+▪ Matchday 33
+Sat Feb 14
+  15:00  Burnley FC               1-0 (1-0)  Wolverhampton Wanderers
          Charlton Athletic        2-0 (1-0)  Plymouth Argyle
          Ipswich Town             1-1 (1-1)  Blackpool FC
          Preston North End        1-0 (1-0)  Norwich City
@@ -539,65 +539,65 @@ Matchday 33
          Doncaster Rovers         1-0 (1-0)  Sheffield Wednesday
 
 
-Matchday 31
-[Tue Feb/17]
-  19.45  Sheffield Wednesday      0-1 (0-1)  Barnsley FC
+▪ Matchday 31
+Tue Feb 17
+  19:45  Sheffield Wednesday      0-1 (0-1)  Barnsley FC
 
 
-Matchday 27
-[Tue Feb/17]
-  19.45  Plymouth Argyle          1-3 (0-3)  Crystal Palace
+▪ Matchday 27
+Tue Feb 17
+  19:45  Plymouth Argyle          1-3 (0-3)  Crystal Palace
          Doncaster Rovers         1-0 (1-0)  Bristol City
 
 
-Matchday 31
-[Tue Feb/17]
-  19.45  Burnley FC               1-1 (0-1)  Coventry City
+▪ Matchday 31
+Tue Feb 17
+  19:45  Burnley FC               1-1 (0-1)  Coventry City
 
 
-Matchday 33
-[Tue Feb/17]
-  19.45  Watford FC               2-0 (2-0)  Swansea City
+▪ Matchday 33
+Tue Feb 17
+  19:45  Watford FC               2-0 (2-0)  Swansea City
 
 
-Matchday 31
-[Wed Feb/18]
-  19.45  Derby County             4-1 (1-1)  Blackpool FC
+▪ Matchday 31
+Wed Feb 18
+  19:45  Derby County             4-1 (1-1)  Blackpool FC
          Ipswich Town             2-1 (1-0)  Nottingham Forest
 
 
-Matchday 34
-[Sat Feb/21]
-  15.00  Reading FC               0-2 (0-1)  Bristol City
+▪ Matchday 34
+Sat Feb 21
+  15:00  Reading FC               0-2 (0-1)  Bristol City
          Plymouth Argyle          2-2 (0-0)  Sheffield United
          Sheffield Wednesday      2-0 (0-0)  Crystal Palace
-  17.20  Queens Park Rangers      1-3 (1-1)  Ipswich Town
-  15.00  Norwich City             1-1 (1-1)  Burnley FC
+  17:20  Queens Park Rangers      1-3 (1-1)  Ipswich Town
+  15:00  Norwich City             1-1 (1-1)  Burnley FC
          Swansea City             3-1 (1-1)  Doncaster Rovers
          Southampton FC           3-1 (3-0)  Preston North End
          Barnsley FC              0-0  Charlton Athletic
          Coventry City            1-0 (1-0)  Birmingham City
          Blackpool FC             0-2 (0-0)  Watford FC
-  13.00  Nottingham Forest        1-3 (0-1)  Derby County
-[Sun Feb/22]
-  13.00  Wolverhampton Wanderers  2-2 (1-1)  Cardiff City
+  13:00  Nottingham Forest        1-3 (0-1)  Derby County
+Sun Feb 22
+  13:00  Wolverhampton Wanderers  2-2 (1-1)  Cardiff City
 
 
-Matchday 31
-[Tue Feb/24]
-  20.00  Crystal Palace           0-0  Birmingham City
+▪ Matchday 31
+Tue Feb 24
+  20:00  Crystal Palace           0-0  Birmingham City
 
 
-Matchday 33
-[Wed Feb/25]
-  19.45  Cardiff City             0-0  Queens Park Rangers
+▪ Matchday 33
+Wed Feb 25
+  19:45  Cardiff City             0-0  Queens Park Rangers
 
 
-Matchday 35
-[Fri Feb/27]
-  19.45  Doncaster Rovers         2-1 (0-0)  Derby County
-[Sat Feb/28]
-  15.00  Norwich City             1-2 (0-1)  Coventry City
+▪ Matchday 35
+Fri Feb 27
+  19:45  Doncaster Rovers         2-1 (0-0)  Derby County
+Sat Feb 28
+  15:00  Norwich City             1-2 (0-1)  Coventry City
          Burnley FC               2-4 (0-1)  Sheffield Wednesday
          Preston North End        3-2 (2-1)  Ipswich Town
          Southampton FC           1-0 (1-0)  Cardiff City
@@ -607,13 +607,13 @@ Matchday 35
          Bristol City             0-0  Blackpool FC
          Reading FC               0-1 (0-0)  Nottingham Forest
          Barnsley FC              2-1 (2-1)  Queens Park Rangers
-[Sun Mar/1]
-  12.15  Sheffield United         2-1 (1-0)  Birmingham City
+Sun Mar 1
+  12:15  Sheffield United         2-1 (1-0)  Birmingham City
 
 
-Matchday 36
-[Tue Mar/3]
-  19.45  Blackpool FC             0-1 (0-0)  Burnley FC
+▪ Matchday 36
+Tue Mar 3
+  19:45  Blackpool FC             0-1 (0-0)  Burnley FC
          Cardiff City             3-1 (2-0)  Barnsley FC
          Charlton Athletic        1-2 (0-0)  Doncaster Rovers
          Derby County             2-2 (1-0)  Swansea City
@@ -621,30 +621,30 @@ Matchday 36
          Nottingham Forest        2-1 (0-0)  Preston North End
          Plymouth Argyle          2-1 (1-0)  Watford FC
          Sheffield Wednesday      1-2 (1-0)  Reading FC
-  20.00  Crystal Palace           0-1 (0-0)  Wolverhampton Wanderers
+  20:00  Crystal Palace           0-1 (0-0)  Wolverhampton Wanderers
          Queens Park Rangers      0-1 (0-0)  Norwich City
-[Wed Mar/4]
-  19.45  Coventry City            1-2 (0-1)  Sheffield United
+Wed Mar 4
+  19:45  Coventry City            1-2 (0-1)  Sheffield United
          Birmingham City          1-0 (0-0)  Bristol City
 
 
-Matchday 37
-[Sat Mar/7]
-  15.00  Plymouth Argyle          2-2 (1-1)  Reading FC
+▪ Matchday 37
+Sat Mar 7
+  15:00  Plymouth Argyle          2-2 (1-1)  Reading FC
          Nottingham Forest        1-1 (0-0)  Swansea City
          Crystal Palace           2-1 (2-1)  Preston North End
          Queens Park Rangers      0-0  Sheffield United
          Cardiff City             3-0 (2-0)  Doncaster Rovers
          Blackpool FC             2-0 (0-0)  Norwich City
          Birmingham City          1-0 (1-0)  Southampton FC
-  13.00  Derby County             2-1 (1-0)  Bristol City
-  15.00  Charlton Athletic        2-3 (2-1)  Watford FC
+  13:00  Derby County             2-1 (1-0)  Bristol City
+  15:00  Charlton Athletic        2-3 (2-1)  Watford FC
          Sheffield Wednesday      0-1 (0-1)  Wolverhampton Wanderers
 
 
-Matchday 38
-[Tue Mar/10]
-  19.45  Bristol City             2-0 (0-0)  Coventry City
+▪ Matchday 38
+Tue Mar 10
+  19:45  Bristol City             2-0 (0-0)  Coventry City
          Doncaster Rovers         2-0 (2-0)  Queens Park Rangers
          Norwich City             2-0 (0-0)  Cardiff City
          Preston North End        1-1 (0-1)  Sheffield Wednesday
@@ -652,17 +652,17 @@ Matchday 38
          Swansea City             1-0 (0-0)  Plymouth Argyle
          Watford FC               2-1 (2-1)  Nottingham Forest
          Wolverhampton Wanderers  0-0  Ipswich Town
-  20.00  Reading FC               2-2 (0-1)  Charlton Athletic
-  19.45  Southampton FC           1-1 (0-0)  Derby County
+  20:00  Reading FC               2-2 (0-1)  Charlton Athletic
+  19:45  Southampton FC           1-1 (0-0)  Derby County
          Barnsley FC              1-1 (1-0)  Birmingham City
-[Wed Mar/11]
-  19.45  Burnley FC               4-2 (1-2)  Crystal Palace
+Wed Mar 11
+  19:45  Burnley FC               4-2 (1-2)  Crystal Palace
 
 
-Matchday 39
-[Sat Mar/14]
-  17.20  Doncaster Rovers         0-2 (0-2)  Birmingham City
-  15.00  Wolverhampton Wanderers  2-1 (1-0)  Charlton Athletic
+▪ Matchday 39
+Sat Mar 14
+  17:20  Doncaster Rovers         0-2 (0-2)  Birmingham City
+  15:00  Wolverhampton Wanderers  2-1 (1-0)  Charlton Athletic
          Watford FC               2-2 (1-1)  Sheffield Wednesday
          Swansea City             1-3 (0-0)  Crystal Palace
          Southampton FC           0-0  Queens Park Rangers
@@ -672,35 +672,35 @@ Matchday 39
          Norwich City             1-0 (0-0)  Plymouth Argyle
          Burnley FC               5-0 (2-0)  Nottingham Forest
          Barnsley FC              0-1 (0-0)  Blackpool FC
-[Sun Mar/15]
-  13.15  Bristol City             1-1 (0-0)  Cardiff City
+Sun Mar 15
+  13:15  Bristol City             1-1 (0-0)  Cardiff City
 
 
-Matchday 32
-[Tue Mar/17]
-  19.45  Barnsley FC              3-1 (1-1)  Crystal Palace
+▪ Matchday 32
+Tue Mar 17
+  19:45  Barnsley FC              3-1 (1-1)  Crystal Palace
 
 
-Matchday 31
-[Tue Mar/17]
-  19.45  Doncaster Rovers         0-1 (0-0)  Reading FC
-  20.00  Queens Park Rangers      1-0 (1-0)  Swansea City
+▪ Matchday 31
+Tue Mar 17
+  19:45  Doncaster Rovers         0-1 (0-0)  Reading FC
+  20:00  Queens Park Rangers      1-0 (1-0)  Swansea City
 
 
-Matchday 37
-[Tue Mar/17]
-  19.45  Ipswich Town             1-1 (0-1)  Burnley FC
+▪ Matchday 37
+Tue Mar 17
+  19:45  Ipswich Town             1-1 (0-1)  Burnley FC
 
 
-Matchday 31
-[Wed Mar/18]
-  19.45  Cardiff City             2-1 (1-1)  Watford FC
+▪ Matchday 31
+Wed Mar 18
+  19:45  Cardiff City             2-1 (1-1)  Watford FC
 
 
-Matchday 40
-[Sat Mar/21]
-  17.20  Crystal Palace           0-0  Reading FC
-  15.00  Queens Park Rangers      2-1 (0-0)  Bristol City
+▪ Matchday 40
+Sat Mar 21
+  17:20  Crystal Palace           0-0  Reading FC
+  15:00  Queens Park Rangers      2-1 (0-0)  Bristol City
          Sheffield Wednesday      0-0  Swansea City
          Ipswich Town             0-0  Watford FC
          Plymouth Argyle          1-2 (1-1)  Burnley FC
@@ -710,54 +710,54 @@ Matchday 40
          Blackpool FC             1-1 (1-0)  Southampton FC
          Charlton Athletic        0-0  Preston North End
          Coventry City            1-0 (1-0)  Doncaster Rovers
-[Sun Mar/22]
-  15.00  Cardiff City             0-3 (0-1)  Sheffield United
+Sun Mar 22
+  15:00  Cardiff City             0-3 (0-1)  Sheffield United
 
 
-Matchday 41
-[Sat Apr/4]
-  15.00  Queens Park Rangers      0-0  Crystal Palace
+▪ Matchday 41
+Sat Apr 4
+  15:00  Queens Park Rangers      0-0  Crystal Palace
          Norwich City             0-1 (0-0)  Sheffield Wednesday
          Sheffield United         2-0 (2-0)  Ipswich Town
          Southampton FC           2-3 (1-1)  Charlton Athletic
-  17.20  Bristol City             1-1 (0-0)  Preston North End
-  15.00  Doncaster Rovers         1-2 (0-2)  Watford FC
+  17:20  Bristol City             1-1 (0-0)  Preston North End
+  15:00  Doncaster Rovers         1-2 (0-2)  Watford FC
          Derby County             1-1 (0-0)  Burnley FC
          Barnsley FC              1-1 (0-0)  Nottingham Forest
          Blackpool FC             0-1 (0-0)  Plymouth Argyle
          Coventry City            0-0  Reading FC
-[Sun Apr/5]
-  11.00  Cardiff City             2-2 (0-1)  Swansea City
-[Mon Apr/6]
-  19.45  Birmingham City          2-0 (1-0)  Wolverhampton Wanderers
+Sun Apr 5
+  11:00  Cardiff City             2-2 (0-1)  Swansea City
+Mon Apr 6
+  19:45  Birmingham City          2-0 (1-0)  Wolverhampton Wanderers
 
 
-Matchday 32
-[Tue Apr/7]
-  19.45  Watford FC               2-2 (1-1)  Southampton FC
+▪ Matchday 32
+Tue Apr 7
+  19:45  Watford FC               2-2 (1-1)  Southampton FC
 
 
-Matchday 33
-[Tue Apr/7]
-  20.00  Crystal Palace           1-1 (0-1)  Coventry City
-  19.45  Sheffield United         2-1 (0-0)  Barnsley FC
+▪ Matchday 33
+Tue Apr 7
+  20:00  Crystal Palace           1-1 (0-1)  Coventry City
+  19:45  Sheffield United         2-1 (0-0)  Barnsley FC
 
 
-Matchday 27
-[Wed Apr/8]
-  19.45  Cardiff City             4-1 (1-0)  Derby County
+▪ Matchday 27
+Wed Apr 8
+  19:45  Cardiff City             4-1 (1-0)  Derby County
 
 
-Matchday 42
-[Fri Apr/10]
-  17.30  Reading FC               0-1 (0-0)  Sheffield United
-  15.15  Wolverhampton Wanderers  3-0 (3-0)  Southampton FC
-[Sat Apr/11]
-  15.00  Swansea City             2-1 (1-1)  Norwich City
+▪ Matchday 42
+Fri Apr 10
+  17:30  Reading FC               0-1 (0-0)  Sheffield United
+  15:15  Wolverhampton Wanderers  3-0 (3-0)  Southampton FC
+Sat Apr 11
+  15:00  Swansea City             2-1 (1-1)  Norwich City
          Sheffield Wednesday      0-1 (0-1)  Derby County
          Watford FC               1-1 (0-0)  Barnsley FC
-  13.00  Preston North End        0-1 (0-1)  Blackpool FC
-  15.00  Burnley FC               1-0 (0-0)  Queens Park Rangers
+  13:00  Preston North End        0-1 (0-1)  Blackpool FC
+  15:00  Burnley FC               1-0 (0-0)  Queens Park Rangers
          Charlton Athletic        0-0  Birmingham City
          Crystal Palace           0-2 (0-1)  Cardiff City
          Ipswich Town             1-3 (1-1)  Doncaster Rovers
@@ -765,9 +765,9 @@ Matchday 42
          Plymouth Argyle          4-0 (4-0)  Coventry City
 
 
-Matchday 43
-[Mon Apr/13]
-  15.00  Southampton FC           1-0 (0-0)  Crystal Palace
+▪ Matchday 43
+Mon Apr 13
+  15:00  Southampton FC           1-0 (0-0)  Crystal Palace
          Birmingham City          1-1 (0-1)  Plymouth Argyle
          Sheffield United         0-0  Nottingham Forest
          Barnsley FC              1-3 (0-2)  Swansea City
@@ -781,9 +781,9 @@ Matchday 43
          Norwich City             2-0 (1-0)  Watford FC
 
 
-Matchday 44
-[Sat Apr/18]
-  15.00  Plymouth Argyle          0-3 (0-2)  Doncaster Rovers
+▪ Matchday 44
+Sat Apr 18
+  15:00  Plymouth Argyle          0-3 (0-2)  Doncaster Rovers
          Wolverhampton Wanderers  1-0 (0-0)  Queens Park Rangers
          Swansea City             1-0 (1-0)  Bristol City
          Charlton Athletic        2-2 (0-0)  Blackpool FC
@@ -793,31 +793,31 @@ Matchday 44
          Preston North End        6-0 (2-0)  Cardiff City
          Reading FC               0-0  Barnsley FC
          Sheffield Wednesday      2-0 (1-0)  Southampton FC
-[Sun Apr/19]
-  12.45  Ipswich Town             3-2 (1-1)  Norwich City
-[Mon Apr/20]
-  19.45  Burnley FC               1-0 (1-0)  Sheffield United
+Sun Apr 19
+  12:45  Ipswich Town             3-2 (1-1)  Norwich City
+Mon Apr 20
+  19:45  Burnley FC               1-0 (1-0)  Sheffield United
 
 
-Matchday 33
-[Tue Apr/21]
-  19.45  Derby County             0-2 (0-0)  Reading FC
+▪ Matchday 33
+Tue Apr 21
+  19:45  Derby County             0-2 (0-0)  Reading FC
 
 
-Matchday 37
-[Tue Apr/21]
-  19.45  Coventry City            1-1 (0-1)  Barnsley FC
+▪ Matchday 37
+Tue Apr 21
+  19:45  Coventry City            1-1 (0-1)  Barnsley FC
 
 
-Matchday 32
-[Tue Apr/21]
-  19.45  Charlton Athletic        2-2 (1-0)  Cardiff City
+▪ Matchday 32
+Tue Apr 21
+  19:45  Charlton Athletic        2-2 (1-0)  Cardiff City
 
 
-Matchday 45
-[Sat Apr/25]
-  12.30  Blackpool FC             1-1 (1-1)  Nottingham Forest
-  15.00  Barnsley FC              1-1 (0-0)  Wolverhampton Wanderers
+▪ Matchday 45
+Sat Apr 25
+  12:30  Blackpool FC             1-1 (1-1)  Nottingham Forest
+  15:00  Barnsley FC              1-1 (0-0)  Wolverhampton Wanderers
          Bristol City             1-1 (1-0)  Sheffield Wednesday
          Cardiff City             0-3 (0-1)  Ipswich Town
          Coventry City            2-3 (1-0)  Watford FC
@@ -826,14 +826,14 @@ Matchday 45
          Queens Park Rangers      0-0  Plymouth Argyle
          Sheffield United         1-0 (1-0)  Swansea City
          Southampton FC           2-2 (2-1)  Burnley FC
-  17.20  Birmingham City          1-2 (0-0)  Preston North End
-[Mon Apr/27]
-  19.45  Norwich City             0-2 (0-0)  Reading FC
+  17:20  Birmingham City          1-2 (0-0)  Preston North End
+Mon Apr 27
+  19:45  Norwich City             0-2 (0-0)  Reading FC
 
 
-Matchday 46
-[Sun May/3]
-  13.15  Burnley FC               4-0 (2-0)  Bristol City
+▪ Matchday 46
+Sun May 3
+  13:15  Burnley FC               4-0 (2-0)  Bristol City
          Charlton Athletic        4-2 (3-1)  Norwich City
          Crystal Palace           0-0  Sheffield United
          Ipswich Town             2-1 (2-0)  Coventry City

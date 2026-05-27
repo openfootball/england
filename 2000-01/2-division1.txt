@@ -1,14 +1,14 @@
 = English Division One 2000/01
 
-# Date       Sat Aug/12 2000 - Sun May/6 2001 (267d)
+# Date       Sat Aug 12 2000 - Sun May 6 2001 (267d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/12]
-  15.00  Barnsley FC              1-0 (0-0)  Norwich City
+▪ Matchday 1
+Sat Aug 12
+  15:00  Barnsley FC              1-0 (0-0)  Norwich City
          Blackburn Rovers         2-0 (2-0)  Crystal Palace
          Bolton Wanderers         1-1 (1-0)  Burnley FC
          Fulham FC                2-0 (0-0)  Crewe Alexandra
@@ -19,15 +19,15 @@ Matchday 1
          Queens Park Rangers      0-0  Birmingham City
          Sheffield United         2-0 (1-0)  Portsmouth FC
          Wimbledon FC             0-0  Tranmere Rovers
-[Sun Aug/13]
-  12.30  Wolverhampton Wanderers  1-1 (1-0)  Sheffield Wednesday
+Sun Aug 13
+  12:30  Wolverhampton Wanderers  1-1 (1-0)  Sheffield Wednesday
 
 
-Matchday 2
-[Fri Aug/18]
-  19.45  Birmingham City          1-3 (1-3)  Fulham FC
-[Sat Aug/19]
-  15.00  Burnley FC               1-0 (1-0)  Wimbledon FC
+▪ Matchday 2
+Fri Aug 18
+  19:45  Birmingham City          1-3 (1-3)  Fulham FC
+Sat Aug 19
+  15:00  Burnley FC               1-0 (1-0)  Wimbledon FC
          Crewe Alexandra          0-0  Blackburn Rovers
          Norwich City             0-0  Nottingham Forest
          Portsmouth FC            1-1 (0-0)  Grimsby Town
@@ -37,15 +37,15 @@ Matchday 2
          Tranmere Rovers          3-2 (3-1)  Gillingham FC
          Watford FC               1-0 (0-0)  Barnsley FC
          West Bromwich Albion     0-2 (0-1)  Bolton Wanderers
-[Sun Aug/20]
-  13.00  Crystal Palace           1-1 (1-0)  Queens Park Rangers
+Sun Aug 20
+  13:00  Crystal Palace           1-1 (1-0)  Queens Park Rangers
 
 
-Matchday 3
-[Fri Aug/25]
-  19.45  Gillingham FC            1-1 (1-0)  Portsmouth FC
-[Sat Aug/26]
-  15.00  Barnsley FC              4-1 (0-1)  West Bromwich Albion
+▪ Matchday 3
+Fri Aug 25
+  19:45  Gillingham FC            1-1 (1-0)  Portsmouth FC
+Sat Aug 26
+  15:00  Barnsley FC              4-1 (0-1)  West Bromwich Albion
          Blackburn Rovers         3-2 (1-0)  Norwich City
          Bolton Wanderers         2-0 (1-0)  Preston North End
          Fulham FC                4-1 (1-1)  Stockport County
@@ -58,9 +58,9 @@ Matchday 3
          Wolverhampton Wanderers  1-0 (0-0)  Burnley FC
 
 
-Matchday 4
-[Mon Aug/28]
-  15.00  Birmingham City          4-1 (2-0)  Barnsley FC
+▪ Matchday 4
+Mon Aug 28
+  15:00  Birmingham City          4-1 (2-0)  Barnsley FC
          Burnley FC               1-1 (0-0)  Gillingham FC
          Crystal Palace           2-3 (0-3)  Nottingham Forest
          Norwich City             0-1 (0-0)  Fulham FC
@@ -70,24 +70,24 @@ Matchday 4
          Tranmere Rovers          0-1 (0-0)  Bolton Wanderers
          Watford FC               4-1 (2-1)  Sheffield United
          West Bromwich Albion     2-1 (0-1)  Queens Park Rangers
-  20.00  Sheffield Wednesday      1-1 (1-1)  Blackburn Rovers
-[Tue Aug/29]
-  19.45  Crewe Alexandra          2-0 (1-0)  Grimsby Town
+  20:00  Sheffield Wednesday      1-1 (1-1)  Blackburn Rovers
+Tue Aug 29
+  19:45  Crewe Alexandra          2-0 (1-0)  Grimsby Town
 
 
-Matchday 5
-[Fri Sep/1]
-  19.45  Tranmere Rovers          2-1 (2-1)  Stockport County
-[Sat Sep/2]
-  15.00  Preston North End        1-0 (0-0)  Portsmouth FC
+▪ Matchday 5
+Fri Sep 1
+  19:45  Tranmere Rovers          2-1 (2-1)  Stockport County
+Sat Sep 2
+  15:00  Preston North End        1-0 (0-0)  Portsmouth FC
          Gillingham FC            1-0 (1-0)  Wolverhampton Wanderers
-[Sun Sep/3]
-  13.00  West Bromwich Albion     1-0 (1-0)  Crystal Palace
+Sun Sep 3
+  13:00  West Bromwich Albion     1-0 (1-0)  Crystal Palace
 
 
-Matchday 6
-[Sat Sep/9]
-  15.00  Wolverhampton Wanderers  1-2 (1-1)  Tranmere Rovers
+▪ Matchday 6
+Sat Sep 9
+  15:00  Wolverhampton Wanderers  1-2 (1-1)  Tranmere Rovers
          Stockport County         0-0  West Bromwich Albion
          Sheffield Wednesday      0-5 (0-0)  Wimbledon FC
          Queens Park Rangers      0-0  Preston North End
@@ -98,32 +98,32 @@ Matchday 6
          Birmingham City          1-0 (1-0)  Sheffield United
          Blackburn Rovers         3-0 (2-0)  Nottingham Forest
          Crewe Alexandra          0-0  Norwich City
-[Sun Sep/10]
-  13.00  Fulham FC                5-1 (3-0)  Barnsley FC
+Sun Sep 10
+  13:00  Fulham FC                5-1 (3-0)  Barnsley FC
 
 
-Matchday 7
-[Tue Sep/12]
-  15.00  Portsmouth FC            2-0 (0-0)  Tranmere Rovers
+▪ Matchday 7
+Tue Sep 12
+  15:00  Portsmouth FC            2-0 (0-0)  Tranmere Rovers
          Fulham FC                3-1 (0-1)  Burnley FC
-  20.00  Huddersfield Town        0-2 (0-1)  Wimbledon FC
-  19.45  Crystal Palace           1-0 (1-0)  Barnsley FC
+  20:00  Huddersfield Town        0-2 (0-1)  Wimbledon FC
+  19:45  Crystal Palace           1-0 (1-0)  Barnsley FC
          Crewe Alexandra          0-1 (0-1)  West Bromwich Albion
-  15.00  Blackburn Rovers         3-4 (2-3)  Watford FC
+  15:00  Blackburn Rovers         3-4 (2-3)  Watford FC
          Wolverhampton Wanderers  0-0  Sheffield United
          Grimsby Town             0-1 (0-0)  Bolton Wanderers
          Birmingham City          3-1 (0-1)  Preston North End
          Stockport County         1-3 (0-2)  Norwich City
-[Wed Sep/13]
-  20.00  Queens Park Rangers      2-2 (0-0)  Gillingham FC
-  19.45  Sheffield Wednesday      0-1 (0-1)  Nottingham Forest
+Wed Sep 13
+  20:00  Queens Park Rangers      2-2 (0-0)  Gillingham FC
+  19:45  Sheffield Wednesday      0-1 (0-1)  Nottingham Forest
 
 
-Matchday 8
-[Fri Sep/15]
-  19.45  Sheffield United         2-0 (2-0)  Blackburn Rovers
-[Sat Sep/16]
-  15.00  Gillingham FC            2-1 (0-1)  Huddersfield Town
+▪ Matchday 8
+Fri Sep 15
+  19:45  Sheffield United         2-0 (2-0)  Blackburn Rovers
+Sat Sep 16
+  15:00  Gillingham FC            2-1 (0-1)  Huddersfield Town
          Norwich City             0-0  Crystal Palace
          Nottingham Forest        0-3 (0-0)  Fulham FC
          Preston North End        1-1 (1-1)  Stockport County
@@ -133,13 +133,13 @@ Matchday 8
          Burnley FC               1-1 (1-1)  Grimsby Town
          Barnsley FC              4-2 (3-0)  Queens Park Rangers
          Bolton Wanderers         2-0 (1-0)  Portsmouth FC
-[Sun Sep/17]
-  15.00  West Bromwich Albion     1-1 (1-0)  Birmingham City
+Sun Sep 17
+  15:00  West Bromwich Albion     1-1 (1-0)  Birmingham City
 
 
-Matchday 9
-[Sat Sep/23]
-  15.00  Stockport County         2-3 (0-1)  Watford FC
+▪ Matchday 9
+Sat Sep 23
+  15:00  Stockport County         2-3 (0-1)  Watford FC
          Sheffield Wednesday      1-3 (1-0)  Preston North End
          Queens Park Rangers      2-1 (0-0)  Wimbledon FC
          Portsmouth FC            0-1 (0-0)  West Bromwich Albion
@@ -150,13 +150,13 @@ Matchday 9
          Birmingham City          2-0 (0-0)  Tranmere Rovers
          Blackburn Rovers         1-1 (1-0)  Bolton Wanderers
          Crewe Alexandra          2-2 (1-0)  Barnsley FC
-[Sun Sep/24]
-  13.00  Wolverhampton Wanderers  4-0 (3-0)  Norwich City
+Sun Sep 24
+  13:00  Wolverhampton Wanderers  4-0 (3-0)  Norwich City
 
 
-Matchday 10
-[Sat Sep/30]
-  15.00  Gillingham FC            2-0 (1-0)  Sheffield Wednesday
+▪ Matchday 10
+Sat Sep 30
+  15:00  Gillingham FC            2-0 (1-0)  Sheffield Wednesday
          Norwich City             1-1 (0-0)  Huddersfield Town
          Wimbledon FC             2-0 (1-0)  Stockport County
          Nottingham Forest        0-0  Wolverhampton Wanderers
@@ -167,24 +167,24 @@ Matchday 10
          Barnsley FC              2-0 (1-0)  Grimsby Town
          Bolton Wanderers         0-2 (0-1)  Fulham FC
          West Bromwich Albion     1-0 (0-0)  Blackburn Rovers
-[Sun Oct/1]
-  13.00  Watford FC               2-0 (0-0)  Birmingham City
+Sun Oct 1
+  13:00  Watford FC               2-0 (0-0)  Birmingham City
 
 
-Matchday 11
-[Fri Oct/6]
-  19.45  Tranmere Rovers          2-3 (0-1)  Burnley FC
+▪ Matchday 11
+Fri Oct 6
+  19:45  Tranmere Rovers          2-3 (0-1)  Burnley FC
          Gillingham FC            2-2 (0-2)  Bolton Wanderers
          Huddersfield Town        1-1 (0-0)  Barnsley FC
-[Sun Oct/8]
-  15.00  Crewe Alexandra          0-2 (0-0)  Birmingham City
+Sun Oct 8
+  15:00  Crewe Alexandra          0-2 (0-0)  Birmingham City
          Sheffield Wednesday      1-2 (1-1)  West Bromwich Albion
          Stockport County         1-1 (0-1)  Portsmouth FC
 
 
-Matchday 12
-[Sat Oct/14]
-  15.00  West Bromwich Albion     2-3 (1-2)  Norwich City
+▪ Matchday 12
+Sat Oct 14
+  15:00  West Bromwich Albion     2-3 (1-2)  Norwich City
          Watford FC               3-1 (2-0)  Queens Park Rangers
          Sheffield United         1-0 (0-0)  Crewe Alexandra
          Preston North End        1-0 (0-0)  Tranmere Rovers
@@ -195,30 +195,30 @@ Matchday 12
          Bolton Wanderers         2-1 (1-0)  Wolverhampton Wanderers
          Birmingham City          2-1 (0-0)  Crystal Palace
          Barnsley FC              3-4 (0-2)  Nottingham Forest
-[Sun Oct/15]
-  13.00  Fulham FC                2-1 (1-1)  Blackburn Rovers
+Sun Oct 15
+  13:00  Fulham FC                2-1 (1-1)  Blackburn Rovers
 
 
-Matchday 13
-[Tue Oct/17]
-  19.45  Sheffield United         3-0 (1-0)  Huddersfield Town
+▪ Matchday 13
+Tue Oct 17
+  19:45  Sheffield United         3-0 (1-0)  Huddersfield Town
          Preston North End        1-0 (0-0)  Norwich City
          Portsmouth FC            2-1 (0-0)  Crewe Alexandra
          Grimsby Town             3-1 (0-1)  Queens Park Rangers
          Burnley FC               1-0 (0-0)  Sheffield Wednesday
          Birmingham City          4-0 (1-0)  Stockport County
          Barnsley FC              1-1 (0-1)  Tranmere Rovers
-  20.00  Bolton Wanderers         0-0  Nottingham Forest
+  20:00  Bolton Wanderers         0-0  Nottingham Forest
          West Bromwich Albion     1-0 (1-0)  Wolverhampton Wanderers
-  19.45  Watford FC               0-0  Gillingham FC
-[Wed Oct/18]
-  19.45  Fulham FC                3-1 (2-1)  Crystal Palace
+  19:45  Watford FC               0-0  Gillingham FC
+Wed Oct 18
+  19:45  Fulham FC                3-1 (2-1)  Crystal Palace
          Wimbledon FC             0-2 (0-2)  Blackburn Rovers
 
 
-Matchday 14
-[Sat Oct/21]
-  15.00  Crewe Alexandra          0-4 (0-2)  Wimbledon FC
+▪ Matchday 14
+Sat Oct 21
+  15:00  Crewe Alexandra          0-4 (0-2)  Wimbledon FC
          Crystal Palace           2-3 (2-1)  Portsmouth FC
          Huddersfield Town        0-0  Preston North End
          Norwich City             4-2 (2-2)  Sheffield United
@@ -229,32 +229,32 @@ Matchday 14
          Wolverhampton Wanderers  0-0  Fulham FC
          Blackburn Rovers         2-0 (0-0)  Grimsby Town
          Gillingham FC            0-0  Barnsley FC
-[Sun Oct/22]
-  13.00  Sheffield Wednesday      1-0 (0-0)  Birmingham City
+Sun Oct 22
+  13:00  Sheffield Wednesday      1-0 (0-0)  Birmingham City
 
 
-Matchday 15
-[Tue Oct/24]
-  19.45  Barnsley FC              1-2 (1-2)  Wolverhampton Wanderers
+▪ Matchday 15
+Tue Oct 24
+  19:45  Barnsley FC              1-2 (1-2)  Wolverhampton Wanderers
          Crewe Alexandra          1-0 (0-0)  Huddersfield Town
          Crystal Palace           0-1 (0-1)  Grimsby Town
          West Bromwich Albion     3-1 (2-1)  Wimbledon FC
          Sheffield United         1-0 (0-0)  Stockport County
          Norwich City             0-0  Portsmouth FC
          Fulham FC                0-1 (0-0)  Preston North End
-  20.00  Watford FC               1-0 (0-0)  Bolton Wanderers
-[Wed Oct/25]
-  19.45  Blackburn Rovers         3-2 (3-1)  Tranmere Rovers
+  20:00  Watford FC               1-0 (0-0)  Bolton Wanderers
+Wed Oct 25
+  19:45  Blackburn Rovers         3-2 (3-1)  Tranmere Rovers
          Birmingham City          1-0 (0-0)  Gillingham FC
          Nottingham Forest        5-0 (2-0)  Burnley FC
-  20.00  Queens Park Rangers      1-2 (1-0)  Sheffield Wednesday
+  20:00  Queens Park Rangers      1-2 (1-0)  Sheffield Wednesday
 
 
-Matchday 16
-[Fri Oct/27]
-  19.45  Preston North End        1-2 (0-1)  Barnsley FC
-[Sat Oct/28]
-  15.00  Tranmere Rovers          1-1 (0-0)  Queens Park Rangers
+▪ Matchday 16
+Fri Oct 27
+  19:45  Preston North End        1-2 (0-1)  Barnsley FC
+Sat Oct 28
+  15:00  Tranmere Rovers          1-1 (0-0)  Queens Park Rangers
          Sheffield Wednesday      3-3 (1-0)  Fulham FC
          Portsmouth FC            1-1 (1-0)  Birmingham City
          Huddersfield Town        0-1 (0-0)  Blackburn Rovers
@@ -263,19 +263,19 @@ Matchday 16
          Bolton Wanderers         3-3 (1-1)  Crystal Palace
          Wimbledon FC             0-0  Sheffield United
          Stockport County         1-2 (0-0)  Nottingham Forest
-[Sun Oct/29]
-  13.00  Grimsby Town             2-0 (0-0)  West Bromwich Albion
+Sun Oct 29
+  13:00  Grimsby Town             2-0 (0-0)  West Bromwich Albion
 
 
-Matchday 5
-[Tue Oct/31]
-  20.00  Bolton Wanderers         3-1 (1-1)  Queens Park Rangers
-  19.45  Burnley FC               1-0 (1-0)  Crewe Alexandra
+▪ Matchday 5
+Tue Oct 31
+  20:00  Bolton Wanderers         3-1 (1-1)  Queens Park Rangers
+  19:45  Burnley FC               1-0 (1-0)  Crewe Alexandra
 
 
-Matchday 17
-[Sat Nov/4]
-  15.00  Birmingham City          1-1 (0-0)  Bolton Wanderers
+▪ Matchday 17
+Sat Nov 4
+  15:00  Birmingham City          1-1 (0-0)  Bolton Wanderers
          Blackburn Rovers         2-1 (0-1)  Stockport County
          Crewe Alexandra          2-0 (2-0)  Wolverhampton Wanderers
          Crystal Palace           4-1 (3-0)  Sheffield Wednesday
@@ -286,23 +286,23 @@ Matchday 17
          Sheffield United         1-2 (0-1)  Gillingham FC
          West Bromwich Albion     1-1 (0-1)  Burnley FC
          Watford FC               4-0 (2-0)  Grimsby Town
-[Sun Nov/5]
-  13.00  Barnsley FC              0-1 (0-0)  Wimbledon FC
+Sun Nov 5
+  13:00  Barnsley FC              0-1 (0-0)  Wimbledon FC
 
 
-Matchday 5
-[Tue Nov/7]
-  19.45  Watford FC               1-3 (0-1)  Sheffield Wednesday
+▪ Matchday 5
+Tue Nov 7
+  19:45  Watford FC               1-3 (0-1)  Sheffield Wednesday
          Norwich City             1-0 (1-0)  Birmingham City
-[Wed Nov/8]
-  19.45  Barnsley FC              1-2 (1-0)  Blackburn Rovers
+Wed Nov 8
+  19:45  Barnsley FC              1-2 (1-0)  Blackburn Rovers
 
 
-Matchday 18
-[Fri Nov/10]
-  19.45  Preston North End        2-1 (1-1)  Crewe Alexandra
-[Sat Nov/11]
-  15.00  Tranmere Rovers          2-0 (1-0)  Watford FC
+▪ Matchday 18
+Fri Nov 10
+  19:45  Preston North End        2-1 (1-1)  Crewe Alexandra
+Sat Nov 11
+  15:00  Tranmere Rovers          2-0 (1-0)  Watford FC
          Stockport County         2-2 (1-1)  Queens Park Rangers
          Wimbledon FC             0-3 (0-1)  Fulham FC
          Portsmouth FC            2-2 (1-1)  Blackburn Rovers
@@ -311,13 +311,13 @@ Matchday 18
          Bolton Wanderers         2-0 (2-0)  Barnsley FC
          Wolverhampton Wanderers  1-3 (0-2)  Crystal Palace
          Sheffield Wednesday      3-2 (1-1)  Norwich City
-[Sun Nov/12]
-  13.00  Gillingham FC            1-3 (1-2)  Nottingham Forest
+Sun Nov 12
+  13:00  Gillingham FC            1-3 (1-2)  Nottingham Forest
 
 
-Matchday 19
-[Sat Nov/18]
-  15.00  Crewe Alexandra          1-2 (0-1)  Stockport County
+▪ Matchday 19
+Sat Nov 18
+  15:00  Crewe Alexandra          1-2 (0-1)  Stockport County
          Crystal Palace           3-2 (1-2)  Tranmere Rovers
          Fulham FC                3-1 (1-1)  Portsmouth FC
          Norwich City             0-2 (0-0)  Bolton Wanderers
@@ -331,24 +331,24 @@ Matchday 19
          Barnsley FC              1-0 (1-0)  Sheffield Wednesday
 
 
-Matchday 16
-[Tue Nov/21]
-  19.45  Burnley FC               2-0 (0-0)  Norwich City
+▪ Matchday 16
+Tue Nov 21
+  19:45  Burnley FC               2-0 (0-0)  Norwich City
 
 
-Matchday 11
-[Tue Nov/21]
-  19.45  Wolverhampton Wanderers  2-0 (2-0)  Grimsby Town
+▪ Matchday 11
+Tue Nov 21
+  19:45  Wolverhampton Wanderers  2-0 (2-0)  Grimsby Town
 
 
-Matchday 5
-[Tue Nov/21]
-  19.45  Sheffield United         1-1 (1-1)  Fulham FC
+▪ Matchday 5
+Tue Nov 21
+  19:45  Sheffield United         1-1 (1-1)  Fulham FC
 
 
-Matchday 20
-[Sat Nov/25]
-  15.00  Fulham FC                2-1 (0-0)  Grimsby Town
+▪ Matchday 20
+Sat Nov 25
+  15:00  Fulham FC                2-1 (0-0)  Grimsby Town
          Queens Park Rangers      2-2 (1-2)  Wolverhampton Wanderers
          Sheffield United         1-0 (0-0)  Bolton Wanderers
          Crewe Alexandra          1-0 (0-0)  Sheffield Wednesday
@@ -361,14 +361,14 @@ Matchday 20
          West Bromwich Albion     3-1 (1-0)  Preston North End
 
 
-Matchday 11
-[Wed Nov/29]
-  15.00  Nottingham Forest        2-0 (1-0)  Sheffield United
+▪ Matchday 11
+Wed Nov 29
+  15:00  Nottingham Forest        2-0 (1-0)  Sheffield United
 
 
-Matchday 21
-[Sat Dec/2]
-  15.00  Sheffield Wednesday      5-2 (3-1)  Queens Park Rangers
+▪ Matchday 21
+Sat Dec 2
+  15:00  Sheffield Wednesday      5-2 (3-1)  Queens Park Rangers
          Stockport County         0-2 (0-1)  Sheffield United
          Burnley FC               1-0 (0-0)  Nottingham Forest
          Tranmere Rovers          1-1 (0-0)  Blackburn Rovers
@@ -379,18 +379,18 @@ Matchday 21
          Huddersfield Town        3-1 (0-1)  Crewe Alexandra
          Gillingham FC            1-2 (1-0)  Birmingham City
          Grimsby Town             2-2 (0-1)  Crystal Palace
-[Sun Dec/3]
-  13.00  Bolton Wanderers         2-1 (0-1)  Watford FC
+Sun Dec 3
+  13:00  Bolton Wanderers         2-1 (0-1)  Watford FC
 
 
-Matchday 11
-[Tue Dec/5]
-  19.45  Crystal Palace           3-1 (0-1)  Wimbledon FC
+▪ Matchday 11
+Tue Dec 5
+  19:45  Crystal Palace           3-1 (0-1)  Wimbledon FC
 
 
-Matchday 22
-[Sat Dec/9]
-  15.00  Nottingham Forest        2-0 (1-0)  Portsmouth FC
+▪ Matchday 22
+Sat Dec 9
+  15:00  Nottingham Forest        2-0 (1-0)  Portsmouth FC
          Huddersfield Town        3-0 (0-0)  Wolverhampton Wanderers
          Preston North End        2-1 (0-1)  Burnley FC
          Sheffield Wednesday      2-4 (2-2)  Stockport County
@@ -404,35 +404,35 @@ Matchday 22
          Crystal Palace           1-0 (0-0)  Watford FC
 
 
-Matchday 5
-[Wed Dec/13]
-  19.45  Nottingham Forest        1-3 (0-0)  Huddersfield Town
+▪ Matchday 5
+Wed Dec 13
+  19:45  Nottingham Forest        1-3 (0-0)  Huddersfield Town
          Wimbledon FC             2-2 (2-1)  Grimsby Town
 
 
-Matchday 23
-[Sat Dec/16]
-  15.00  Queens Park Rangers      1-0 (1-0)  Nottingham Forest
+▪ Matchday 23
+Sat Dec 16
+  15:00  Queens Park Rangers      1-0 (1-0)  Nottingham Forest
          Watford FC               3-3 (2-0)  West Bromwich Albion
          Stockport County         2-0 (0-0)  Barnsley FC
          Portsmouth FC            1-1 (0-1)  Huddersfield Town
          Wimbledon FC             0-1 (0-0)  Bolton Wanderers
-  11.30  Sheffield United         1-1 (0-0)  Sheffield Wednesday
-  15.00  Crewe Alexandra          1-1 (1-0)  Crystal Palace
+  11:30  Sheffield United         1-1 (0-0)  Sheffield Wednesday
+  15:00  Crewe Alexandra          1-1 (1-0)  Crystal Palace
          Fulham FC                3-1 (2-1)  Tranmere Rovers
          Gillingham FC            4-0 (2-0)  Preston North End
          Grimsby Town             2-0 (1-0)  Norwich City
-[Sun Dec/17]
-  16.00  Burnley FC               0-2 (0-1)  Blackburn Rovers
-  13.00  Wolverhampton Wanderers  0-1 (0-1)  Birmingham City
+Sun Dec 17
+  16:00  Burnley FC               0-2 (0-1)  Blackburn Rovers
+  13:00  Wolverhampton Wanderers  0-1 (0-1)  Birmingham City
 
 
-Matchday 24
-[Fri Dec/22]
-  19.45  Stockport County         2-2 (1-1)  Gillingham FC
+▪ Matchday 24
+Fri Dec 22
+  19:45  Stockport County         2-2 (1-1)  Gillingham FC
          Crystal Palace           2-3 (0-3)  Blackburn Rovers
-[Sat Dec/23]
-  15.00  West Bromwich Albion     3-0 (2-0)  Nottingham Forest
+Sat Dec 23
+  15:00  West Bromwich Albion     3-0 (2-0)  Nottingham Forest
          Tranmere Rovers          0-4 (0-1)  Wimbledon FC
          Sheffield Wednesday      0-1 (0-1)  Wolverhampton Wanderers
          Preston North End        1-2 (1-1)  Grimsby Town
@@ -444,27 +444,27 @@ Matchday 24
          Watford FC               1-2 (1-1)  Huddersfield Town
 
 
-Matchday 25
-[Tue Dec/26]
-  15.00  Sheffield United         2-0 (1-0)  West Bromwich Albion
+▪ Matchday 25
+Tue Dec 26
+  15:00  Sheffield United         2-0 (1-0)  West Bromwich Albion
          Wolverhampton Wanderers  0-1 (0-1)  Preston North End
          Huddersfield Town        3-0 (1-0)  Tranmere Rovers
          Grimsby Town             1-1 (0-1)  Stockport County
          Nottingham Forest        1-0 (1-0)  Crewe Alexandra
-  12.00  Fulham FC                5-0 (2-0)  Watford FC
+  12:00  Fulham FC                5-0 (2-0)  Watford FC
          Gillingham FC            4-1 (1-0)  Crystal Palace
          Queens Park Rangers      2-3 (2-1)  Norwich City
          Wimbledon FC             1-1 (0-1)  Portsmouth FC
-  15.00  Barnsley FC              1-0 (0-0)  Burnley FC
+  15:00  Barnsley FC              1-0 (0-0)  Burnley FC
          Blackburn Rovers         2-1 (0-0)  Birmingham City
          Bolton Wanderers         2-0 (1-0)  Sheffield Wednesday
 
 
-Matchday 26
-[Fri Dec/29]
-  19.45  Barnsley FC              0-1 (0-0)  Watford FC
-[Sat Dec/30]
-  15.00  Huddersfield Town        0-0  Sheffield Wednesday
+▪ Matchday 26
+Fri Dec 29
+  19:45  Barnsley FC              0-1 (0-0)  Watford FC
+Sat Dec 30
+  15:00  Huddersfield Town        0-0  Sheffield Wednesday
          Sheffield United         3-2 (1-2)  Preston North End
          Wolverhampton Wanderers  3-2 (3-1)  Stockport County
          Queens Park Rangers      1-1 (1-0)  Crystal Palace
@@ -473,29 +473,29 @@ Matchday 26
          Bolton Wanderers         0-1 (0-1)  West Bromwich Albion
 
 
-Matchday 27
-[Mon Jan/1]
-  12.00  Preston North End        0-2 (0-1)  Bolton Wanderers
-  15.00  West Bromwich Albion     1-0 (0-0)  Barnsley FC
+▪ Matchday 27
+Mon Jan 1
+  12:00  Preston North End        0-2 (0-1)  Bolton Wanderers
+  15:00  West Bromwich Albion     1-0 (0-0)  Barnsley FC
          Tranmere Rovers          1-0 (1-0)  Sheffield United
          Stockport County         2-0 (1-0)  Fulham FC
          Sheffield Wednesday      1-0 (0-0)  Grimsby Town
          Portsmouth FC            0-0  Gillingham FC
          Norwich City             1-1 (1-0)  Blackburn Rovers
          Birmingham City          0-2 (0-0)  Nottingham Forest
-  13.00  Burnley FC               1-2 (1-1)  Wolverhampton Wanderers
-[Tue Jan/2]
-  19.45  Watford FC               3-1 (3-1)  Wimbledon FC
+  13:00  Burnley FC               1-2 (1-1)  Wolverhampton Wanderers
+Tue Jan 2
+  19:45  Watford FC               3-1 (3-1)  Wimbledon FC
 
 
-Matchday 11
-[Wed Jan/10]
-  20.00  Blackburn Rovers         3-2 (3-0)  Preston North End
+▪ Matchday 11
+Wed Jan 10
+  20:00  Blackburn Rovers         3-2 (3-0)  Preston North End
 
 
-Matchday 28
-[Sat Jan/13]
-  15.00  Gillingham FC            0-0  Burnley FC
+▪ Matchday 28
+Sat Jan 13
+  15:00  Gillingham FC            0-0  Burnley FC
          Grimsby Town             1-3 (0-2)  Crewe Alexandra
          Sheffield United         0-1 (0-0)  Watford FC
          Queens Park Rangers      2-0 (1-0)  West Bromwich Albion
@@ -506,14 +506,14 @@ Matchday 28
          Blackburn Rovers         2-0 (2-0)  Sheffield Wednesday
          Wolverhampton Wanderers  1-1 (1-1)  Portsmouth FC
          Barnsley FC              2-3 (0-2)  Birmingham City
-[Sun Jan/14]
-  13.00  Nottingham Forest        0-3 (0-2)  Crystal Palace
+Sun Jan 14
+  13:00  Nottingham Forest        0-3 (0-2)  Crystal Palace
 
 
-Matchday 29
-[Sat Jan/20]
-  12.00  Watford FC               1-3 (0-0)  Fulham FC
-  15.00  Burnley FC               2-1 (1-0)  Barnsley FC
+▪ Matchday 29
+Sat Jan 20
+  12:00  Watford FC               1-3 (0-0)  Fulham FC
+  15:00  Burnley FC               2-1 (1-0)  Barnsley FC
          Norwich City             1-0 (1-0)  Queens Park Rangers
          West Bromwich Albion     2-1 (0-0)  Sheffield United
          Portsmouth FC            2-1 (2-1)  Wimbledon FC
@@ -522,29 +522,29 @@ Matchday 29
          Crystal Palace           2-2 (0-1)  Gillingham FC
 
 
-Matchday 26
-[Sat Jan/27]
-  15.00  Grimsby Town             2-1 (2-0)  Portsmouth FC
+▪ Matchday 26
+Sat Jan 27
+  15:00  Grimsby Town             2-1 (2-0)  Portsmouth FC
 
 
-Matchday 11
-[Sat Jan/27]
-  15.00  Norwich City             2-1 (0-0)  Watford FC
+▪ Matchday 11
+Sat Jan 27
+  15:00  Norwich City             2-1 (0-0)  Watford FC
 
 
-Matchday 26
-[Sat Jan/27]
-  15.00  Fulham FC                0-1 (0-0)  Birmingham City
+▪ Matchday 26
+Sat Jan 27
+  15:00  Fulham FC                0-1 (0-0)  Birmingham City
 
 
-Matchday 11
-[Wed Jan/31]
-  20.00  Queens Park Rangers      0-2 (0-1)  Fulham FC
+▪ Matchday 11
+Wed Jan 31
+  20:00  Queens Park Rangers      0-2 (0-1)  Fulham FC
 
 
-Matchday 30
-[Sat Feb/3]
-  15.00  Sheffield Wednesday      2-3 (2-2)  Watford FC
+▪ Matchday 30
+Sat Feb 3
+  15:00  Sheffield Wednesday      2-3 (2-2)  Watford FC
          Queens Park Rangers      1-1 (0-0)  Bolton Wanderers
          Crewe Alexandra          4-2 (3-1)  Burnley FC
          Wolverhampton Wanderers  1-1 (1-1)  Gillingham FC
@@ -554,13 +554,13 @@ Matchday 30
          Crystal Palace           2-2 (2-1)  West Bromwich Albion
          Blackburn Rovers         0-0  Barnsley FC
          Birmingham City          2-1 (1-0)  Norwich City
-[Sun Feb/4]
-  13.00  Fulham FC                1-1 (1-1)  Sheffield United
+Sun Feb 4
+  13:00  Fulham FC                1-1 (1-1)  Sheffield United
 
 
-Matchday 31
-[Sat Feb/10]
-  15.00  Tranmere Rovers          0-2 (0-1)  Wolverhampton Wanderers
+▪ Matchday 31
+Sat Feb 10
+  15:00  Tranmere Rovers          0-2 (0-1)  Wolverhampton Wanderers
          Sheffield United         3-1 (2-0)  Birmingham City
          Preston North End        5-0 (0-0)  Queens Park Rangers
          Nottingham Forest        2-1 (0-0)  Blackburn Rovers
@@ -574,13 +574,13 @@ Matchday 31
          Watford FC               2-2 (2-2)  Portsmouth FC
 
 
-Matchday 32
-[Tue Feb/13]
-  19.45  Sheffield Wednesday      1-0 (0-0)  Tranmere Rovers
+▪ Matchday 32
+Tue Feb 13
+  19:45  Sheffield Wednesday      1-0 (0-0)  Tranmere Rovers
          Stockport County         0-1 (0-0)  Preston North End
          Portsmouth FC            1-2 (0-0)  Bolton Wanderers
-[Sat Feb/17]
-  15.00  Birmingham City          2-1 (1-1)  West Bromwich Albion
+Sat Feb 17
+  15:00  Birmingham City          2-1 (1-1)  West Bromwich Albion
          Grimsby Town             1-0 (0-0)  Burnley FC
          Huddersfield Town        2-3 (2-2)  Gillingham FC
          Queens Park Rangers      2-0 (1-0)  Barnsley FC
@@ -589,9 +589,9 @@ Matchday 32
          Crewe Alexandra          2-0 (2-0)  Watford FC
 
 
-Matchday 33
-[Tue Feb/20]
-  19.45  West Bromwich Albion     2-2 (1-1)  Crewe Alexandra
+▪ Matchday 33
+Tue Feb 20
+  19:45  West Bromwich Albion     2-2 (1-1)  Crewe Alexandra
          Watford FC               0-1 (0-0)  Blackburn Rovers
          Sheffield United         1-0 (1-0)  Wolverhampton Wanderers
          Preston North End        0-2 (0-1)  Birmingham City
@@ -599,16 +599,16 @@ Matchday 33
          Gillingham FC            0-1 (0-0)  Queens Park Rangers
          Burnley FC               2-1 (0-0)  Fulham FC
          Barnsley FC              1-0 (1-0)  Crystal Palace
-  20.00  Bolton Wanderers         2-2 (0-1)  Grimsby Town
-[Wed Feb/21]
-  19.45  Nottingham Forest        0-1 (0-0)  Sheffield Wednesday
+  20:00  Bolton Wanderers         2-2 (0-1)  Grimsby Town
+Wed Feb 21
+  19:45  Nottingham Forest        0-1 (0-0)  Sheffield Wednesday
 
 
-Matchday 34
-[Fri Feb/23]
-  19.45  Bolton Wanderers         1-4 (0-1)  Blackburn Rovers
-[Sat Feb/24]
-  15.00  Wimbledon FC             5-0 (1-0)  Queens Park Rangers
+▪ Matchday 34
+Fri Feb 23
+  19:45  Bolton Wanderers         1-4 (0-1)  Blackburn Rovers
+Sat Feb 24
+  15:00  Wimbledon FC             5-0 (1-0)  Queens Park Rangers
          Gillingham FC            0-2 (0-0)  Fulham FC
          Burnley FC               1-0 (0-0)  Huddersfield Town
          Sheffield United         1-0 (0-0)  Crystal Palace
@@ -620,16 +620,16 @@ Matchday 34
          Preston North End        2-0 (0-0)  Sheffield Wednesday
 
 
-Matchday 29
-[Tue Feb/27]
-  19.45  Tranmere Rovers          2-0 (2-0)  Huddersfield Town
+▪ Matchday 29
+Tue Feb 27
+  19:45  Tranmere Rovers          2-0 (2-0)  Huddersfield Town
 
 
-Matchday 35
-[Fri Mar/2]
-  19.45  Birmingham City          2-0 (1-0)  Watford FC
-[Sat Mar/3]
-  15.00  Stockport County         2-2 (1-1)  Wimbledon FC
+▪ Matchday 35
+Fri Mar 2
+  19:45  Birmingham City          2-0 (1-0)  Watford FC
+Sat Mar 3
+  15:00  Stockport County         2-2 (1-1)  Wimbledon FC
          Sheffield Wednesday      2-1 (1-0)  Gillingham FC
          Queens Park Rangers      1-3 (1-0)  Sheffield United
          Portsmouth FC            2-0 (0-0)  Burnley FC
@@ -639,28 +639,28 @@ Matchday 35
          Grimsby Town             0-2 (0-1)  Barnsley FC
          Crystal Palace           0-2 (0-2)  Preston North End
          Crewe Alexandra          3-1 (0-1)  Tranmere Rovers
-[Sun Mar/4]
-  13.00  Fulham FC                1-1 (1-0)  Bolton Wanderers
+Sun Mar 4
+  13:00  Fulham FC                1-1 (1-0)  Bolton Wanderers
 
 
-Matchday 36
-[Tue Mar/6]
-  19.45  Tranmere Rovers          1-1 (0-1)  Preston North End
+▪ Matchday 36
+Tue Mar 6
+  19:45  Tranmere Rovers          1-1 (0-1)  Preston North End
          Stockport County         0-0  Burnley FC
          Crewe Alexandra          1-0 (0-0)  Sheffield United
          Norwich City             0-1 (0-1)  West Bromwich Albion
          Huddersfield Town        0-0  Grimsby Town
          Gillingham FC            0-0  Wimbledon FC
          Crystal Palace           1-2 (0-0)  Birmingham City
-[Wed Mar/7]
-  20.00  Queens Park Rangers      1-1 (0-0)  Watford FC
-  19.45  Sheffield Wednesday      0-0  Portsmouth FC
+Wed Mar 7
+  20:00  Queens Park Rangers      1-1 (0-0)  Watford FC
+  19:45  Sheffield Wednesday      0-0  Portsmouth FC
          Nottingham Forest        1-0 (1-0)  Barnsley FC
 
 
-Matchday 37
-[Sat Mar/10]
-  15.00  Sheffield United         1-3 (0-1)  Nottingham Forest
+▪ Matchday 37
+Sat Mar 10
+  15:00  Sheffield United         1-3 (0-1)  Nottingham Forest
          Portsmouth FC            2-1 (0-0)  Stockport County
          West Bromwich Albion     1-2 (1-1)  Sheffield Wednesday
          Wimbledon FC             1-0 (1-0)  Crystal Palace
@@ -672,39 +672,39 @@ Matchday 37
          Watford FC               4-1 (1-1)  Norwich City
 
 
-Matchday 29
-[Tue Mar/13]
-  19.45  Crewe Alexandra          1-0 (0-0)  Nottingham Forest
+▪ Matchday 29
+Tue Mar 13
+  19:45  Crewe Alexandra          1-0 (0-0)  Nottingham Forest
 
 
-Matchday 20
-[Tue Mar/13]
-  19.45  Watford FC               0-1 (0-0)  Burnley FC
+▪ Matchday 20
+Tue Mar 13
+  19:45  Watford FC               0-1 (0-0)  Burnley FC
 
 
-Matchday 30
-[Tue Mar/13]
-  19.45  Grimsby Town             1-1 (0-1)  Wimbledon FC
+▪ Matchday 30
+Tue Mar 13
+  19:45  Grimsby Town             1-1 (0-1)  Wimbledon FC
 
 
-Matchday 29
-[Wed Mar/14]
-  19.45  Preston North End        2-0 (1-0)  Wolverhampton Wanderers
+▪ Matchday 29
+Wed Mar 14
+  19:45  Preston North End        2-0 (1-0)  Wolverhampton Wanderers
 
 
-Matchday 33
-[Wed Mar/14]
-  19.45  Tranmere Rovers          1-1 (1-0)  Portsmouth FC
+▪ Matchday 33
+Wed Mar 14
+  19:45  Tranmere Rovers          1-1 (1-0)  Portsmouth FC
 
 
-Matchday 29
-[Wed Mar/14]
-  19.45  Birmingham City          0-2 (0-1)  Blackburn Rovers
+▪ Matchday 29
+Wed Mar 14
+  19:45  Birmingham City          0-2 (0-1)  Blackburn Rovers
 
 
-Matchday 38
-[Sat Mar/17]
-  15.00  Tranmere Rovers          2-3 (2-0)  Barnsley FC
+▪ Matchday 38
+Sat Mar 17
+  15:00  Tranmere Rovers          2-3 (2-0)  Barnsley FC
          Queens Park Rangers      0-1 (0-0)  Grimsby Town
          Nottingham Forest        0-2 (0-0)  Bolton Wanderers
          Huddersfield Town        2-1 (1-1)  Sheffield United
@@ -714,34 +714,34 @@ Matchday 38
          Crewe Alexandra          1-0 (1-0)  Portsmouth FC
          Crystal Palace           0-2 (0-1)  Fulham FC
          Blackburn Rovers         1-1 (0-0)  Wimbledon FC
-[Sun Mar/18]
-  13.00  Wolverhampton Wanderers  3-1 (2-0)  West Bromwich Albion
+Sun Mar 18
+  13:00  Wolverhampton Wanderers  3-1 (2-0)  West Bromwich Albion
 
 
-Matchday 18
-[Tue Mar/20]
-  19.45  Grimsby Town             1-1 (1-1)  Birmingham City
+▪ Matchday 18
+Tue Mar 20
+  19:45  Grimsby Town             1-1 (1-1)  Birmingham City
 
 
-Matchday 26
-[Tue Mar/20]
-  19.45  Gillingham FC            2-1 (1-1)  Tranmere Rovers
+▪ Matchday 26
+Tue Mar 20
+  19:45  Gillingham FC            2-1 (1-1)  Tranmere Rovers
 
 
-Matchday 39
-[Sat Mar/24]
-  15.00  Birmingham City          1-2 (0-1)  Sheffield Wednesday
-  13.00  Burnley FC               2-1 (2-0)  Queens Park Rangers
-[Sun Mar/25]
-  13.00  West Bromwich Albion     2-1 (1-0)  Tranmere Rovers
+▪ Matchday 39
+Sat Mar 24
+  15:00  Birmingham City          1-2 (0-1)  Sheffield Wednesday
+  13:00  Burnley FC               2-1 (2-0)  Queens Park Rangers
+Sun Mar 25
+  13:00  West Bromwich Albion     2-1 (1-0)  Tranmere Rovers
          Barnsley FC              3-1 (1-1)  Gillingham FC
 
 
-Matchday 40
-[Fri Mar/30]
-  19.45  Tranmere Rovers          1-4 (0-2)  Fulham FC
-[Sat Mar/31]
-  15.00  Crystal Palace           1-0 (0-0)  Crewe Alexandra
+▪ Matchday 40
+Fri Mar 30
+  19:45  Tranmere Rovers          1-4 (0-2)  Fulham FC
+Sat Mar 31
+  15:00  Crystal Palace           1-0 (0-0)  Crewe Alexandra
          Barnsley FC              0-2 (0-1)  Stockport County
          Preston North End        0-0  Gillingham FC
          Norwich City             2-1 (1-1)  Grimsby Town
@@ -749,34 +749,34 @@ Matchday 40
          Huddersfield Town        4-1 (0-1)  Portsmouth FC
          Bolton Wanderers         2-2 (1-1)  Wimbledon FC
          West Bromwich Albion     3-0 (0-0)  Watford FC
-[Sun Apr/1]
-  13.00  Birmingham City          0-1 (0-1)  Wolverhampton Wanderers
-  12.00  Blackburn Rovers         5-0 (2-0)  Burnley FC
-  14.00  Sheffield Wednesday      1-2 (0-0)  Sheffield United
+Sun Apr 1
+  13:00  Birmingham City          0-1 (0-1)  Wolverhampton Wanderers
+  12:00  Blackburn Rovers         5-0 (2-0)  Burnley FC
+  14:00  Sheffield Wednesday      1-2 (0-0)  Sheffield United
 
 
-Matchday 39
-[Tue Apr/3]
-  19.45  Watford FC               3-0 (1-0)  Nottingham Forest
-  20.00  Bolton Wanderers         1-1 (1-0)  Stockport County
+▪ Matchday 39
+Tue Apr 3
+  19:45  Watford FC               3-0 (1-0)  Nottingham Forest
+  20:00  Bolton Wanderers         1-1 (1-0)  Stockport County
 
 
-Matchday 27
-[Tue Apr/3]
-  19.45  Crystal Palace           0-0  Huddersfield Town
+▪ Matchday 27
+Tue Apr 3
+  19:45  Crystal Palace           0-0  Huddersfield Town
 
 
-Matchday 32
-[Wed Apr/4]
-  19.45  Wolverhampton Wanderers  0-1 (0-0)  Wimbledon FC
+▪ Matchday 32
+Wed Apr 4
+  19:45  Wolverhampton Wanderers  0-1 (0-0)  Wimbledon FC
          Blackburn Rovers         1-1 (1-0)  Sheffield United
 
 
-Matchday 41
-[Fri Apr/6]
-  19.45  Burnley FC               3-0 (2-0)  Preston North End
-[Sat Apr/7]
-  15.00  Gillingham FC            4-3 (2-0)  Norwich City
+▪ Matchday 41
+Fri Apr 6
+  19:45  Burnley FC               3-0 (2-0)  Preston North End
+Sat Apr 7
+  15:00  Gillingham FC            4-3 (2-0)  Norwich City
          Fulham FC                0-0  West Bromwich Albion
          Grimsby Town             3-1 (0-1)  Tranmere Rovers
          Portsmouth FC            0-2 (0-2)  Nottingham Forest
@@ -788,37 +788,37 @@ Matchday 41
          Wolverhampton Wanderers  0-1 (0-1)  Huddersfield Town
 
 
-Matchday 39
-[Tue Apr/10]
-  19.45  Preston North End        0-0  Huddersfield Town
+▪ Matchday 39
+Tue Apr 10
+  19:45  Preston North End        0-0  Huddersfield Town
          Sheffield United         1-1 (1-0)  Norwich City
 
 
-Matchday 34
-[Tue Apr/10]
-  19.45  Tranmere Rovers          1-0 (0-0)  Birmingham City
+▪ Matchday 34
+Tue Apr 10
+  19:45  Tranmere Rovers          1-0 (0-0)  Birmingham City
 
 
-Matchday 27
-[Tue Apr/10]
-  19.45  Crewe Alexandra          2-2 (0-2)  Queens Park Rangers
+▪ Matchday 27
+Tue Apr 10
+  19:45  Crewe Alexandra          2-2 (0-2)  Queens Park Rangers
 
 
-Matchday 26
-[Tue Apr/10]
-  19.45  Wimbledon FC             0-2 (0-2)  Burnley FC
+▪ Matchday 26
+Tue Apr 10
+  19:45  Wimbledon FC             0-2 (0-2)  Burnley FC
 
 
-Matchday 36
-[Wed Apr/11]
-  19.45  Blackburn Rovers         1-2 (1-1)  Fulham FC
+▪ Matchday 36
+Wed Apr 11
+  19:45  Blackburn Rovers         1-2 (1-1)  Fulham FC
 
 
-Matchday 42
-[Fri Apr/13]
-  19.45  Bolton Wanderers         2-2 (0-1)  Birmingham City
-[Sat Apr/14]
-  15.00  Stockport County         0-0  Blackburn Rovers
+▪ Matchday 42
+Fri Apr 13
+  19:45  Bolton Wanderers         2-2 (0-1)  Birmingham City
+Sat Apr 14
+  15:00  Stockport County         0-0  Blackburn Rovers
          Wimbledon FC             1-1 (1-0)  Barnsley FC
          Portsmouth FC            1-1 (1-0)  Queens Park Rangers
          Huddersfield Town        1-2 (0-0)  Fulham FC
@@ -831,9 +831,9 @@ Matchday 42
          Wolverhampton Wanderers  0-0  Crewe Alexandra
 
 
-Matchday 43
-[Mon Apr/16]
-  15.00  Barnsley FC              0-4 (0-2)  Preston North End
+▪ Matchday 43
+Mon Apr 16
+  15:00  Barnsley FC              0-4 (0-2)  Preston North End
          Birmingham City          0-0  Portsmouth FC
          Crewe Alexandra          2-1 (1-1)  Gillingham FC
          Crystal Palace           0-2 (0-1)  Bolton Wanderers
@@ -842,20 +842,20 @@ Matchday 43
          Nottingham Forest        1-0 (1-0)  Stockport County
          Queens Park Rangers      2-0 (1-0)  Tranmere Rovers
          West Bromwich Albion     0-1 (0-1)  Grimsby Town
-  12.00  Blackburn Rovers         2-0 (1-0)  Huddersfield Town
-[Tue Apr/17]
-  19.45  Sheffield United         0-1 (0-0)  Wimbledon FC
+  12:00  Blackburn Rovers         2-0 (1-0)  Huddersfield Town
+Tue Apr 17
+  19:45  Sheffield United         0-1 (0-0)  Wimbledon FC
          Watford FC               3-2 (2-1)  Wolverhampton Wanderers
 
 
-Matchday 41
-[Wed Apr/18]
-  19.45  Crewe Alexandra          2-1 (0-0)  Bolton Wanderers
+▪ Matchday 41
+Wed Apr 18
+  19:45  Crewe Alexandra          2-1 (0-0)  Bolton Wanderers
 
 
-Matchday 44
-[Sat Apr/21]
-  15.00  Portsmouth FC            1-1 (1-0)  Fulham FC
+▪ Matchday 44
+Sat Apr 21
+  15:00  Portsmouth FC            1-1 (1-0)  Fulham FC
          Sheffield Wednesday      2-1 (0-1)  Barnsley FC
          Stockport County         3-0 (0-0)  Crewe Alexandra
          Huddersfield Town        2-1 (1-1)  Queens Park Rangers
@@ -866,31 +866,31 @@ Matchday 44
          Bolton Wanderers         1-0 (0-0)  Norwich City
          Gillingham FC            1-2 (1-2)  West Bromwich Albion
          Burnley FC               0-0  Birmingham City
-[Sun Apr/22]
-  13.00  Preston North End        3-2 (2-1)  Watford FC
+Sun Apr 22
+  13:00  Preston North End        3-2 (2-1)  Watford FC
 
 
-Matchday 39
-[Tue Apr/24]
-  19.45  Grimsby Town             1-4 (0-2)  Blackburn Rovers
+▪ Matchday 39
+Tue Apr 24
+  19:45  Grimsby Town             1-4 (0-2)  Blackburn Rovers
          Fulham FC                2-0 (1-0)  Wolverhampton Wanderers
 
 
-Matchday 37
-[Tue Apr/24]
-  19.45  Burnley FC               2-1 (1-1)  Tranmere Rovers
+▪ Matchday 37
+Tue Apr 24
+  19:45  Burnley FC               2-1 (1-1)  Tranmere Rovers
 
 
-Matchday 39
-[Tue Apr/24]
-  19.45  Wimbledon FC             3-3 (2-1)  Crewe Alexandra
+▪ Matchday 39
+Tue Apr 24
+  19:45  Wimbledon FC             3-3 (2-1)  Crewe Alexandra
 
 
-Matchday 45
-[Sat Apr/28]
-  15.00  West Bromwich Albion     1-1 (1-1)  Huddersfield Town
-  18.00  Barnsley FC              0-1 (0-0)  Bolton Wanderers
-  15.00  Crewe Alexandra          1-3 (1-3)  Preston North End
+▪ Matchday 45
+Sat Apr 28
+  15:00  West Bromwich Albion     1-1 (1-1)  Huddersfield Town
+  18:00  Barnsley FC              0-1 (0-0)  Bolton Wanderers
+  15:00  Crewe Alexandra          1-3 (1-3)  Preston North End
          Sheffield United         2-0 (1-0)  Burnley FC
          Watford FC               1-1 (0-0)  Tranmere Rovers
          Birmingham City          1-0 (0-0)  Grimsby Town
@@ -899,38 +899,38 @@ Matchday 45
          Fulham FC                1-1 (0-0)  Wimbledon FC
          Norwich City             1-0 (1-0)  Sheffield Wednesday
          Queens Park Rangers      0-3 (0-0)  Stockport County
-[Sun Apr/29]
-  16.00  Blackburn Rovers         3-1 (0-1)  Portsmouth FC
+Sun Apr 29
+  16:00  Blackburn Rovers         3-1 (0-1)  Portsmouth FC
 
 
-Matchday 33
-[Tue May/1]
-  19.45  Wimbledon FC             1-1 (0-0)  Huddersfield Town
+▪ Matchday 33
+Tue May 1
+  19:45  Wimbledon FC             1-1 (0-0)  Huddersfield Town
 
 
-Matchday 36
-[Tue May/1]
-  19.45  Wolverhampton Wanderers  0-2 (0-1)  Bolton Wanderers
+▪ Matchday 36
+Tue May 1
+  19:45  Wolverhampton Wanderers  0-2 (0-1)  Bolton Wanderers
 
 
-Matchday 38
-[Tue May/1]
-  19.45  Gillingham FC            0-3 (0-0)  Watford FC
+▪ Matchday 38
+Tue May 1
+  19:45  Gillingham FC            0-3 (0-0)  Watford FC
 
 
-Matchday 39
-[Wed May/2]
-  19.45  Portsmouth FC            2-4 (1-3)  Crystal Palace
+▪ Matchday 39
+Wed May 2
+  19:45  Portsmouth FC            2-4 (1-3)  Crystal Palace
 
 
-Matchday 37
-[Wed May/2]
-  19.45  Preston North End        0-1 (0-0)  Blackburn Rovers
+▪ Matchday 37
+Wed May 2
+  19:45  Preston North End        0-1 (0-0)  Blackburn Rovers
 
 
-Matchday 46
-[Sun May/6]
-  13.30  Bolton Wanderers         1-1 (0-0)  Sheffield United
+▪ Matchday 46
+Sun May 6
+  13:30  Bolton Wanderers         1-1 (0-0)  Sheffield United
          Burnley FC               2-0 (0-0)  Watford FC
          Gillingham FC            1-1 (0-1)  Blackburn Rovers
          Grimsby Town             1-0 (1-0)  Fulham FC

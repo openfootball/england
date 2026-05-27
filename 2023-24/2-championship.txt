@@ -1,17 +1,17 @@
 = English Championship 2023/24
 
-# Date       Fri Aug/4 2023 - Sun May/26 2024 (296d)
+# Date       Fri Aug 4 2023 - Sun May 26 2024 (296d)
 # Teams      24
 # Matches    557
 # Stages     Regular (552)  Finals (5)
 
 
 
-Matchday 1
-[Fri Aug/4]
-  20.00  Sheffield Wednesday FC   1-2 (0-1)  Southampton FC
-[Sat Aug/5]
-  15.00  Blackburn Rovers FC      2-1 (2-0)  West Bromwich Albion FC
+▪ Matchday 1
+Fri Aug 4
+  20:00  Sheffield Wednesday FC   1-2 (0-1)  Southampton FC
+Sat Aug 5
+  15:00  Blackburn Rovers FC      2-1 (2-0)  West Bromwich Albion FC
          Bristol City FC          1-1 (0-0)  Preston North End FC
          Middlesbrough FC         0-1 (0-0)  Millwall FC
          Norwich City FC          2-1 (1-1)  Hull City AFC
@@ -19,16 +19,16 @@ Matchday 1
          Watford FC               4-0 (4-0)  Queens Park Rangers FC
          Stoke City FC            4-1 (3-0)  Rotherham United FC
          Swansea City AFC         1-1 (0-1)  Birmingham City FC
-[Sun Aug/6]
-  12.00  Leicester City FC        2-1 (0-0)  Coventry City FC
-  14.30  Leeds United FC          2-2 (0-2)  Cardiff City FC
-  17.00  Sunderland AFC           1-2 (0-1)  Ipswich Town FC
+Sun Aug 6
+  12:00  Leicester City FC        2-1 (0-0)  Coventry City FC
+  14:30  Leeds United FC          2-2 (0-2)  Cardiff City FC
+  17:00  Sunderland AFC           1-2 (0-1)  Ipswich Town FC
 
 
-Matchday 2
-[Sat Aug/12]
-  12.30  Coventry City FC         3-0 (1-0)  Middlesbrough FC
-  15.00  Birmingham City FC       1-0 (0-0)  Leeds United FC
+▪ Matchday 2
+Sat Aug 12
+  12:30  Coventry City FC         3-0 (1-0)  Middlesbrough FC
+  15:00  Birmingham City FC       1-0 (0-0)  Leeds United FC
          Cardiff City FC          1-2 (0-1)  Queens Park Rangers FC
          Millwall FC              0-1 (0-0)  Bristol City FC
          Southampton FC           4-4 (2-3)  Norwich City FC
@@ -41,12 +41,12 @@ Matchday 2
          West Bromwich Albion FC  3-2 (1-0)  Swansea City AFC
 
 
-Matchday 3
-[Fri Aug/18]
-  20.00  Leeds United FC          1-1 (0-0)  West Bromwich Albion FC
-[Sat Aug/19]
-  12.30  Plymouth Argyle FC       1-2 (0-0)  Southampton FC
-  15.00  Sunderland AFC           2-1 (1-1)  Rotherham United FC
+▪ Matchday 3
+Fri Aug 18
+  20:00  Leeds United FC          1-1 (0-0)  West Bromwich Albion FC
+Sat Aug 19
+  12:30  Plymouth Argyle FC       1-2 (0-0)  Southampton FC
+  15:00  Sunderland AFC           2-1 (1-1)  Rotherham United FC
          Blackburn Rovers FC      1-2 (0-0)  Hull City AFC
          Bristol City FC          0-2 (0-1)  Birmingham City FC
          Middlesbrough FC         1-1 (0-0)  Huddersfield Town AFC
@@ -55,15 +55,15 @@ Matchday 3
          Sheffield Wednesday FC   0-1 (0-0)  Preston North End FC
          Stoke City FC            1-0 (0-0)  Watford FC
          Swansea City AFC         1-1 (1-1)  Coventry City FC
-[Sun Aug/20]
-  12.00  Norwich City FC          3-1 (1-0)  Millwall FC
+Sun Aug 20
+  12:00  Norwich City FC          3-1 (1-0)  Millwall FC
 
 
-Matchday 4
-[Fri Aug/25]
-  19.30  Hull City AFC            1-1 (1-0)  Bristol City FC
-[Sat Aug/26]
-  15.00  Birmingham City FC       2-1 (1-0)  Plymouth Argyle FC
+▪ Matchday 4
+Fri Aug 25
+  19:30  Hull City AFC            1-1 (1-0)  Bristol City FC
+Sat Aug 26
+  15:00  Birmingham City FC       2-1 (1-0)  Plymouth Argyle FC
          Cardiff City FC          2-1 (0-0)  Sheffield Wednesday FC
          Coventry City FC         0-0  Sunderland AFC
          Millwall FC              1-0 (1-0)  Stoke City FC
@@ -73,16 +73,16 @@ Matchday 4
          Preston North End FC     2-1 (0-1)  Swansea City AFC
          Rotherham United FC      1-2 (0-1)  Leicester City FC
          West Bromwich Albion FC  4-2 (2-1)  Middlesbrough FC
-[Sun Aug/27]
-  12.00  Watford FC               0-1 (0-0)  Blackburn Rovers FC
+Sun Aug 27
+  12:00  Watford FC               0-1 (0-0)  Blackburn Rovers FC
 
 
-Matchday 5
-[Sat Sep/2]
-  12.30  Sunderland AFC           5-0 (3-0)  Southampton FC
+▪ Matchday 5
+Sat Sep 2
+  12:30  Sunderland AFC           5-0 (3-0)  Southampton FC
          Birmingham City FC       1-1 (0-1)  Millwall FC
          Swansea City AFC         1-2 (1-0)  Bristol City FC
-  15.00  Coventry City FC         3-3 (1-1)  Watford FC
+  15:00  Coventry City FC         3-3 (1-1)  Watford FC
          Middlesbrough FC         0-2 (0-1)  Queens Park Rangers FC
          Ipswich Town FC          3-2 (0-1)  Cardiff City FC
          Leeds United FC          0-0  Sheffield Wednesday FC
@@ -93,12 +93,12 @@ Matchday 5
          West Bromwich Albion FC  1-2 (0-1)  Huddersfield Town AFC
 
 
-Matchday 6
-[Fri Sep/15]
-  19.45  Hull City AFC            1-1 (0-1)  Coventry City FC
-  20.00  Southampton FC           1-4 (1-3)  Leicester City FC
-[Sat Sep/16]
-  15.00  Bristol City FC          0-0  West Bromwich Albion FC
+▪ Matchday 6
+Fri Sep 15
+  19:45  Hull City AFC            1-1 (0-1)  Coventry City FC
+  20:00  Southampton FC           1-4 (1-3)  Leicester City FC
+Sat Sep 16
+  15:00  Bristol City FC          0-0  West Bromwich Albion FC
          Watford FC               2-0 (0-0)  Birmingham City FC
          Huddersfield Town AFC    2-0 (1-0)  Rotherham United FC
          Norwich City FC          1-0 (1-0)  Stoke City FC
@@ -106,33 +106,33 @@ Matchday 6
          Queens Park Rangers FC   1-3 (1-1)  Sunderland AFC
          Sheffield Wednesday FC   0-1 (0-1)  Ipswich Town FC
          Blackburn Rovers FC      2-1 (1-0)  Middlesbrough FC
-  19.45  Cardiff City FC          2-0 (0-0)  Swansea City AFC
-[Sun Sep/17]
-  12.00  Millwall FC              0-3 (0-1)  Leeds United FC
+  19:45  Cardiff City FC          2-0 (0-0)  Swansea City AFC
+Sun Sep 17
+  12:00  Millwall FC              0-3 (0-1)  Leeds United FC
 
 
-Matchday 7
-[Tue Sep/19]
-  19.45  Bristol City FC          4-1 (3-1)  Plymouth Argyle FC
+▪ Matchday 7
+Tue Sep 19
+  19:45  Bristol City FC          4-1 (3-1)  Plymouth Argyle FC
          Cardiff City FC          3-2 (1-1)  Coventry City FC
          Southampton FC           0-1 (0-1)  Ipswich Town FC
          Preston North End FC     2-1 (0-0)  Birmingham City FC
          Queens Park Rangers FC   1-1 (0-1)  Swansea City AFC
-  20.00  Sheffield Wednesday FC   1-1 (1-0)  Middlesbrough FC
-[Wed Sep/20]
-  19.45  Blackburn Rovers FC      1-3 (1-2)  Sunderland AFC
+  20:00  Sheffield Wednesday FC   1-1 (1-0)  Middlesbrough FC
+Wed Sep 20
+  19:45  Blackburn Rovers FC      1-3 (1-2)  Sunderland AFC
          Millwall FC              3-0 (1-0)  Rotherham United FC
          Watford FC               2-2 (2-2)  West Bromwich Albion FC
          Huddersfield Town AFC    2-2 (1-1)  Stoke City FC
          Hull City AFC            0-0  Leeds United FC
-  20.00  Norwich City FC          0-2 (0-1)  Leicester City FC
+  20:00  Norwich City FC          0-2 (0-1)  Leicester City FC
 
 
-Matchday 8
-[Fri Sep/22]
-  20.00  Birmingham City FC       0-0  Queens Park Rangers FC
-[Sat Sep/23]
-  15.00  Middlesbrough FC         2-1 (1-1)  Southampton FC
+▪ Matchday 8
+Fri Sep 22
+  20:00  Birmingham City FC       0-0  Queens Park Rangers FC
+Sat Sep 23
+  15:00  Middlesbrough FC         2-1 (1-1)  Southampton FC
          Ipswich Town FC          4-3 (3-1)  Blackburn Rovers FC
          Leeds United FC          3-0 (0-0)  Watford FC
          Leicester City FC        1-0 (0-0)  Bristol City FC
@@ -140,19 +140,19 @@ Matchday 8
          Rotherham United FC      1-1 (1-1)  Preston North End FC
          Swansea City AFC         3-0 (1-0)  Sheffield Wednesday FC
          West Bromwich Albion FC  0-0  Millwall FC
-[Sun Sep/24]
-  12.00  Stoke City FC            1-3 (0-2)  Hull City AFC
-  15.00  Sunderland AFC           0-1 (0-0)  Cardiff City FC
-[Mon Sep/25]
-  20.00  Coventry City FC         1-1 (1-0)  Huddersfield Town AFC
+Sun Sep 24
+  12:00  Stoke City FC            1-3 (0-2)  Hull City AFC
+  15:00  Sunderland AFC           0-1 (0-0)  Cardiff City FC
+Mon Sep 25
+  20:00  Coventry City FC         1-1 (1-0)  Huddersfield Town AFC
 
 
-Matchday 9
-[Fri Sep/29]
-  20.00  Sheffield Wednesday FC   0-3 (0-3)  Sunderland AFC
-[Sat Sep/30]
-  12.30  Southampton FC           3-1 (3-0)  Leeds United FC
-  15.00  Millwall FC              0-3 (0-1)  Swansea City AFC
+▪ Matchday 9
+Fri Sep 29
+  20:00  Sheffield Wednesday FC   0-3 (0-3)  Sunderland AFC
+Sat Sep 30
+  12:30  Southampton FC           3-1 (3-0)  Leeds United FC
+  15:00  Millwall FC              0-3 (0-1)  Swansea City AFC
          Bristol City FC          2-3 (2-1)  Stoke City FC
          Cardiff City FC          2-0 (0-0)  Rotherham United FC
          Watford FC               2-3 (1-2)  Middlesbrough FC
@@ -161,33 +161,33 @@ Matchday 9
          Norwich City FC          2-0 (0-0)  Birmingham City FC
          Preston North End FC     0-4 (0-2)  West Bromwich Albion FC
          Queens Park Rangers FC   1-3 (0-0)  Coventry City FC
-[Sun Oct/1]
-  12.00  Blackburn Rovers FC      1-4 (1-2)  Leicester City FC
+Sun Oct 1
+  12:00  Blackburn Rovers FC      1-4 (1-2)  Leicester City FC
 
 
-Matchday 10
-[Tue Oct/3]
-  19.45  Birmingham City FC       4-1 (2-0)  Huddersfield Town AFC
+▪ Matchday 10
+Tue Oct 3
+  19:45  Birmingham City FC       4-1 (2-0)  Huddersfield Town AFC
          Middlesbrough FC         2-0 (0-0)  Cardiff City FC
          Ipswich Town FC          3-0 (2-0)  Hull City AFC
          Plymouth Argyle FC       0-2 (0-0)  Millwall FC
-  20.00  Stoke City FC            0-1 (0-1)  Southampton FC
+  20:00  Stoke City FC            0-1 (0-1)  Southampton FC
          West Bromwich Albion FC  1-0 (1-0)  Sheffield Wednesday FC
-[Wed Oct/4]
-  19.45  Sunderland AFC           2-0 (1-0)  Watford FC
+Wed Oct 4
+  19:45  Sunderland AFC           2-0 (1-0)  Watford FC
          Coventry City FC         1-0 (0-0)  Blackburn Rovers FC
          Leeds United FC          1-0 (1-0)  Queens Park Rangers FC
          Leicester City FC        3-0 (0-0)  Preston North End FC
          Swansea City AFC         2-1 (1-1)  Norwich City FC
-  20.00  Rotherham United FC      1-2 (0-0)  Bristol City FC
+  20:00  Rotherham United FC      1-2 (0-0)  Bristol City FC
 
 
-Matchday 11
-[Fri Oct/6]
-  20.00  Birmingham City FC       3-1 (2-1)  West Bromwich Albion FC
-[Sat Oct/7]
-  12.30  Sunderland AFC           0-4 (0-0)  Middlesbrough FC
-  15.00  Cardiff City FC          1-1 (1-0)  Watford FC
+▪ Matchday 11
+Fri Oct 6
+  20:00  Birmingham City FC       3-1 (2-1)  West Bromwich Albion FC
+Sat Oct 7
+  12:30  Sunderland AFC           0-4 (0-0)  Middlesbrough FC
+  15:00  Cardiff City FC          1-1 (1-0)  Watford FC
          Coventry City FC         1-1 (0-1)  Norwich City FC
          Millwall FC              2-2 (1-2)  Hull City AFC
          Southampton FC           1-1 (1-0)  Rotherham United FC
@@ -199,10 +199,10 @@ Matchday 11
          Sheffield Wednesday FC   0-0  Huddersfield Town AFC
 
 
-Matchday 12
-[Sat Oct/21]
-  12.30  Preston North End FC     1-1 (1-1)  Millwall FC
-  15.00  Blackburn Rovers FC      1-0 (0-0)  Cardiff City FC
+▪ Matchday 12
+Sat Oct 21
+  12:30  Preston North End FC     1-1 (1-1)  Millwall FC
+  15:00  Blackburn Rovers FC      1-0 (0-0)  Cardiff City FC
          Bristol City FC          1-0 (1-0)  Coventry City FC
          Middlesbrough FC         1-0 (0-0)  Birmingham City FC
          Watford FC               1-0 (0-0)  Sheffield Wednesday FC
@@ -214,28 +214,28 @@ Matchday 12
          West Bromwich Albion FC  0-0  Plymouth Argyle FC
 
 
-Matchday 13
-[Tue Oct/24]
-  19.45  Millwall FC              1-2 (1-1)  Blackburn Rovers FC
+▪ Matchday 13
+Tue Oct 24
+  19:45  Millwall FC              1-2 (1-1)  Blackburn Rovers FC
          Huddersfield Town AFC    0-4 (0-3)  Cardiff City FC
          Norwich City FC          1-2 (0-0)  Middlesbrough FC
          Swansea City AFC         0-1 (0-0)  Watford FC
-  20.00  Leicester City FC        1-0 (1-0)  Sunderland AFC
+  20:00  Leicester City FC        1-0 (1-0)  Sunderland AFC
          West Bromwich Albion FC  2-0 (0-0)  Queens Park Rangers FC
-[Wed Oct/25]
-  19.45  Birmingham City FC       0-2 (0-1)  Hull City AFC
+Wed Oct 25
+  19:45  Birmingham City FC       0-2 (0-1)  Hull City AFC
          Bristol City FC          0-1 (0-1)  Ipswich Town FC
          Plymouth Argyle FC       3-0 (2-0)  Sheffield Wednesday FC
          Preston North End FC     2-2 (0-1)  Southampton FC
          Rotherham United FC      2-0 (0-0)  Coventry City FC
-  20.00  Stoke City FC            1-0 (0-0)  Leeds United FC
+  20:00  Stoke City FC            1-0 (0-0)  Leeds United FC
 
 
-Matchday 14
-[Sat Oct/28]
-  12.30  Southampton FC           3-1 (2-0)  Birmingham City FC
+▪ Matchday 14
+Sat Oct 28
+  12:30  Southampton FC           3-1 (2-0)  Birmingham City FC
          Leeds United FC          4-1 (4-0)  Huddersfield Town AFC
-  15.00  Sunderland AFC           3-1 (2-1)  Norwich City FC
+  15:00  Sunderland AFC           3-1 (2-1)  Norwich City FC
          Blackburn Rovers FC      0-1 (0-1)  Swansea City AFC
          Cardiff City FC          2-0 (1-0)  Bristol City FC
          Middlesbrough FC         0-2 (0-2)  Stoke City FC
@@ -243,17 +243,17 @@ Matchday 14
          Hull City AFC            1-0 (0-0)  Preston North End FC
          Ipswich Town FC          3-2 (1-1)  Plymouth Argyle FC
          Queens Park Rangers FC   1-2 (1-1)  Leicester City FC
-[Sun Oct/29]
-  13.00  Sheffield Wednesday FC   2-0 (2-0)  Rotherham United FC
-[Mon Oct/30]
-  20.00  Coventry City FC         0-2 (0-1)  West Bromwich Albion FC
+Sun Oct 29
+  13:00  Sheffield Wednesday FC   2-0 (2-0)  Rotherham United FC
+Mon Oct 30
+  20:00  Coventry City FC         0-2 (0-1)  West Bromwich Albion FC
 
 
-Matchday 15
-[Fri Nov/3]
-  20.00  Leicester City FC        0-1 (0-0)  Leeds United FC
-[Sat Nov/4]
-  15.00  Birmingham City FC       2-2 (1-0)  Ipswich Town FC
+▪ Matchday 15
+Fri Nov 3
+  20:00  Leicester City FC        0-1 (0-0)  Leeds United FC
+Sat Nov 4
+  15:00  Birmingham City FC       2-2 (1-0)  Ipswich Town FC
          Bristol City FC          1-0 (0-0)  Sheffield Wednesday FC
          Millwall FC              0-1 (0-0)  Southampton FC
          Huddersfield Town AFC    0-0  Watford FC
@@ -263,21 +263,21 @@ Matchday 15
          Stoke City FC            0-0  Cardiff City FC
          Swansea City AFC         0-0  Sunderland AFC
          West Bromwich Albion FC  3-1 (1-1)  Hull City AFC
-[Sun Nov/5]
-  12.00  Norwich City FC          1-3 (0-2)  Blackburn Rovers FC
+Sun Nov 5
+  12:00  Norwich City FC          1-3 (0-2)  Blackburn Rovers FC
 
 
-Matchday 12
-[Tue Nov/7]
-  20.00  Rotherham United FC      2-2 (1-1)  Ipswich Town FC
+▪ Matchday 12
+Tue Nov 7
+  20:00  Rotherham United FC      2-2 (1-1)  Ipswich Town FC
 
 
-Matchday 16
-[Fri Nov/10]
-  20.00  Blackburn Rovers FC      1-2 (0-1)  Preston North End FC
-[Sat Nov/11]
-  12.30  Sunderland AFC           3-1 (1-1)  Birmingham City FC
-  15.00  Cardiff City FC          2-3 (2-1)  Norwich City FC
+▪ Matchday 16
+Fri Nov 10
+  20:00  Blackburn Rovers FC      1-2 (0-1)  Preston North End FC
+Sat Nov 11
+  12:30  Sunderland AFC           3-1 (1-1)  Birmingham City FC
+  15:00  Cardiff City FC          2-3 (2-1)  Norwich City FC
          Coventry City FC         0-0  Stoke City FC
          Middlesbrough FC         1-0 (0-0)  Leicester City FC
          Southampton FC           2-1 (1-0)  West Bromwich Albion FC
@@ -289,11 +289,11 @@ Matchday 16
          Sheffield Wednesday FC   0-4 (0-2)  Millwall FC
 
 
-Matchday 17
-[Fri Nov/24]
-  20.00  Rotherham United FC      1-1 (1-1)  Leeds United FC
-[Sat Nov/25]
-  15.00  Birmingham City FC       2-1 (1-1)  Sheffield Wednesday FC
+▪ Matchday 17
+Fri Nov 24
+  20:00  Rotherham United FC      1-1 (1-1)  Leeds United FC
+Sat Nov 25
+  15:00  Birmingham City FC       2-1 (1-1)  Sheffield Wednesday FC
          Bristol City FC          3-2 (2-0)  Middlesbrough FC
          Millwall FC              0-3 (0-1)  Coventry City FC
          Huddersfield Town AFC    1-1 (0-1)  Southampton FC
@@ -303,32 +303,32 @@ Matchday 17
          Preston North End FC     1-2 (0-0)  Cardiff City FC
          Stoke City FC            0-3 (0-1)  Blackburn Rovers FC
          Swansea City AFC         2-2 (2-0)  Hull City AFC
-  17.30  West Bromwich Albion FC  2-0 (1-0)  Ipswich Town FC
+  17:30  West Bromwich Albion FC  2-0 (1-0)  Ipswich Town FC
 
 
-Matchday 18
-[Tue Nov/28]
-  19.45  Cardiff City FC          0-1 (0-0)  West Bromwich Albion FC
+▪ Matchday 18
+Tue Nov 28
+  19:45  Cardiff City FC          0-1 (0-0)  West Bromwich Albion FC
          Coventry City FC         1-0 (0-0)  Plymouth Argyle FC
          Middlesbrough FC         4-0 (3-0)  Preston North End FC
          Hull City AFC            4-1 (3-0)  Rotherham United FC
          Queens Park Rangers FC   4-2 (1-1)  Stoke City FC
-  20.00  Watford FC               3-2 (2-2)  Norwich City FC
-[Wed Nov/29]
-  19.45  Sunderland AFC           1-2 (1-1)  Huddersfield Town AFC
+  20:00  Watford FC               3-2 (2-2)  Norwich City FC
+Wed Nov 29
+  19:45  Sunderland AFC           1-2 (1-1)  Huddersfield Town AFC
          Blackburn Rovers FC      4-2 (0-0)  Birmingham City FC
          Southampton FC           1-0 (0-0)  Bristol City FC
          Leeds United FC          3-1 (2-1)  Swansea City AFC
          Sheffield Wednesday FC   1-1 (0-1)  Leicester City FC
-  20.00  Ipswich Town FC          3-1 (3-0)  Millwall FC
+  20:00  Ipswich Town FC          3-1 (3-0)  Millwall FC
 
 
-Matchday 19
-[Fri Dec/1]
-  20.00  Preston North End FC     0-2 (0-0)  Queens Park Rangers FC
-[Sat Dec/2]
-  12.30  West Bromwich Albion FC  1-2 (0-0)  Leicester City FC
-  15.00  Birmingham City FC       0-0  Rotherham United FC
+▪ Matchday 19
+Fri Dec 1
+  20:00  Preston North End FC     0-2 (0-0)  Queens Park Rangers FC
+Sat Dec 2
+  12:30  West Bromwich Albion FC  1-2 (0-0)  Leicester City FC
+  15:00  Birmingham City FC       0-0  Rotherham United FC
          Millwall FC              1-1 (1-0)  Sunderland AFC
          Southampton FC           2-0 (2-0)  Cardiff City FC
          Hull City AFC            1-2 (1-1)  Watford FC
@@ -337,17 +337,17 @@ Matchday 19
          Plymouth Argyle FC       2-1 (1-1)  Stoke City FC
          Sheffield Wednesday FC   3-1 (1-0)  Blackburn Rovers FC
          Swansea City AFC         1-1 (0-1)  Huddersfield Town AFC
-[Sun Dec/3]
-  13.30  Bristol City FC          1-2 (1-0)  Norwich City FC
+Sun Dec 3
+  13:30  Bristol City FC          1-2 (1-0)  Norwich City FC
 
 
-Matchday 20
-[Fri Dec/8]
-  20.00  Coventry City FC         2-0 (1-0)  Birmingham City FC
-[Sat Dec/9]
-  12.30  Sunderland AFC           2-1 (0-0)  West Bromwich Albion FC
+▪ Matchday 20
+Fri Dec 8
+  20:00  Coventry City FC         2-0 (1-0)  Birmingham City FC
+Sat Dec 9
+  12:30  Sunderland AFC           2-1 (0-0)  West Bromwich Albion FC
          Blackburn Rovers FC      0-2 (0-1)  Leeds United FC
-  15.00  Cardiff City FC          1-0 (0-0)  Millwall FC
+  15:00  Cardiff City FC          1-0 (0-0)  Millwall FC
          Middlesbrough FC         0-2 (0-1)  Ipswich Town FC
          Watford FC               1-1 (0-0)  Southampton FC
          Huddersfield Town AFC    1-1 (1-0)  Bristol City FC
@@ -358,27 +358,27 @@ Matchday 20
          Stoke City FC            0-1 (0-0)  Sheffield Wednesday FC
 
 
-Matchday 21
-[Tue Dec/12]
-  19.45  Blackburn Rovers FC      2-1 (1-0)  Bristol City FC
+▪ Matchday 21
+Tue Dec 12
+  19:45  Blackburn Rovers FC      2-1 (1-0)  Bristol City FC
          Watford FC               1-2 (1-1)  Ipswich Town FC
          Huddersfield Town AFC    1-3 (0-2)  Preston North End FC
          Rotherham United FC      0-2 (0-0)  West Bromwich Albion FC
          Stoke City FC            1-1 (0-0)  Swansea City AFC
-  20.00  Sunderland AFC           1-0 (0-0)  Leeds United FC
-[Wed Dec/13]
-  19.45  Cardiff City FC          0-1 (0-1)  Birmingham City FC
+  20:00  Sunderland AFC           1-0 (0-0)  Leeds United FC
+Wed Dec 13
+  19:45  Cardiff City FC          0-1 (0-1)  Birmingham City FC
          Coventry City FC         1-1 (0-0)  Southampton FC
          Leicester City FC        3-2 (0-1)  Millwall FC
          Norwich City FC          3-1 (1-1)  Sheffield Wednesday FC
          Queens Park Rangers FC   0-0  Plymouth Argyle FC
-  20.00  Middlesbrough FC         1-2 (1-0)  Hull City AFC
+  20:00  Middlesbrough FC         1-2 (1-0)  Hull City AFC
 
 
-Matchday 22
-[Sat Dec/16]
-  12.30  Ipswich Town FC          2-2 (1-1)  Norwich City FC
-  15.00  Bristol City FC          1-0 (1-0)  Sunderland AFC
+▪ Matchday 22
+Sat Dec 16
+  12:30  Ipswich Town FC          2-2 (1-1)  Norwich City FC
+  15:00  Bristol City FC          1-0 (1-0)  Sunderland AFC
          Millwall FC              1-1 (0-0)  Huddersfield Town AFC
          Southampton FC           4-0 (1-0)  Blackburn Rovers FC
          Hull City AFC            3-0 (1-0)  Cardiff City FC
@@ -387,19 +387,19 @@ Matchday 22
          Preston North End FC     1-5 (1-1)  Watford FC
          Sheffield Wednesday FC   2-1 (0-1)  Queens Park Rangers FC
          Swansea City AFC         1-2 (0-1)  Middlesbrough FC
-[Sun Dec/17]
-  12.00  West Bromwich Albion FC  1-1 (1-1)  Stoke City FC
-[Mon Dec/18]
-  20.00  Birmingham City FC       2-3 (1-2)  Leicester City FC
+Sun Dec 17
+  12:00  West Bromwich Albion FC  1-1 (1-1)  Stoke City FC
+Mon Dec 18
+  20:00  Birmingham City FC       2-3 (1-2)  Leicester City FC
 
 
-Matchday 23
-[Fri Dec/22]
-  19.45  Bristol City FC          3-2 (1-2)  Hull City AFC
+▪ Matchday 23
+Fri Dec 22
+  19:45  Bristol City FC          3-2 (1-2)  Hull City AFC
          Swansea City AFC         2-1 (0-0)  Preston North End FC
-[Sat Dec/23]
-  12.30  Leeds United FC          4-0 (3-0)  Ipswich Town FC
-  15.00  Sunderland AFC           0-3 (0-1)  Coventry City FC
+Sat Dec 23
+  12:30  Leeds United FC          4-0 (3-0)  Ipswich Town FC
+  15:00  Sunderland AFC           0-3 (0-1)  Coventry City FC
          Blackburn Rovers FC      1-2 (1-0)  Watford FC
          Middlesbrough FC         1-0 (1-0)  West Bromwich Albion FC
          Leicester City FC        3-0 (0-0)  Rotherham United FC
@@ -410,11 +410,11 @@ Matchday 23
          Stoke City FC            0-0  Millwall FC
 
 
-Matchday 24
-[Tue Dec/26]
-  12.30  Preston North End FC     2-1 (0-0)  Leeds United FC
-  13.00  Millwall FC              2-0 (1-0)  Queens Park Rangers FC
-  15.00  Cardiff City FC          2-2 (1-1)  Plymouth Argyle FC
+▪ Matchday 24
+Tue Dec 26
+  12:30  Preston North End FC     2-1 (0-0)  Leeds United FC
+  13:00  Millwall FC              2-0 (1-0)  Queens Park Rangers FC
+  15:00  Cardiff City FC          2-2 (1-1)  Plymouth Argyle FC
          Coventry City FC         2-0 (1-0)  Sheffield Wednesday FC
          Southampton FC           5-0 (1-0)  Swansea City AFC
          Watford FC               1-4 (0-2)  Bristol City FC
@@ -422,14 +422,14 @@ Matchday 24
          Hull City AFC            0-1 (0-0)  Sunderland AFC
          Rotherham United FC      1-0 (0-0)  Middlesbrough FC
          West Bromwich Albion FC  1-0 (0-0)  Norwich City FC
-  17.15  Birmingham City FC       1-3 (0-2)  Stoke City FC
-  19.45  Ipswich Town FC          1-1 (0-1)  Leicester City FC
+  17:15  Birmingham City FC       1-3 (0-2)  Stoke City FC
+  19:45  Ipswich Town FC          1-1 (0-1)  Leicester City FC
 
 
-Matchday 25
-[Fri Dec/29]
-  18.00  Southampton FC           2-1 (0-0)  Plymouth Argyle FC
-  19.45  Birmingham City FC       0-0  Bristol City FC
+▪ Matchday 25
+Fri Dec 29
+  18:00  Southampton FC           2-1 (0-0)  Plymouth Argyle FC
+  19:45  Birmingham City FC       0-0  Bristol City FC
          Cardiff City FC          0-2 (0-1)  Leicester City FC
          Coventry City FC         2-2 (1-1)  Swansea City AFC
          Millwall FC              1-0 (1-0)  Norwich City FC
@@ -439,13 +439,13 @@ Matchday 25
          Ipswich Town FC          0-0  Queens Park Rangers FC
          Preston North End FC     0-1 (0-1)  Sheffield Wednesday FC
          Rotherham United FC      1-1 (0-0)  Sunderland AFC
-  20.15  West Bromwich Albion FC  1-0 (1-0)  Leeds United FC
+  20:15  West Bromwich Albion FC  1-0 (1-0)  Leeds United FC
 
 
-Matchday 26
-[Mon Jan/1]
-  12.30  Sunderland AFC           2-0 (2-0)  Preston North End FC
-  15.00  Blackburn Rovers FC      2-2 (1-1)  Rotherham United FC
+▪ Matchday 26
+Mon Jan 1
+  12:30  Sunderland AFC           2-0 (2-0)  Preston North End FC
+  15:00  Blackburn Rovers FC      2-2 (1-1)  Rotherham United FC
          Bristol City FC          0-1 (0-0)  Millwall FC
          Middlesbrough FC         1-3 (1-1)  Coventry City FC
          Leeds United FC          3-0 (2-0)  Birmingham City FC
@@ -455,15 +455,15 @@ Matchday 26
          Queens Park Rangers FC   1-2 (0-1)  Cardiff City FC
          Stoke City FC            0-0  Ipswich Town FC
          Swansea City AFC         1-0 (0-0)  West Bromwich Albion FC
-  17.15  Sheffield Wednesday FC   3-1 (0-0)  Hull City AFC
+  17:15  Sheffield Wednesday FC   3-1 (0-0)  Hull City AFC
 
 
-Matchday 27
-[Fri Jan/12]
-  20.00  Hull City AFC            1-2 (0-1)  Norwich City FC
-[Sat Jan/13]
-  12.30  Coventry City FC         3-1 (0-1)  Leicester City FC
-  15.00  Huddersfield Town AFC    1-1 (1-1)  Plymouth Argyle FC
+▪ Matchday 27
+Fri Jan 12
+  20:00  Hull City AFC            1-2 (0-1)  Norwich City FC
+Sat Jan 13
+  12:30  Coventry City FC         3-1 (0-1)  Leicester City FC
+  15:00  Huddersfield Town AFC    1-1 (1-1)  Plymouth Argyle FC
          Preston North End FC     2-0 (0-0)  Bristol City FC
          Rotherham United FC      0-1 (0-1)  Stoke City FC
          West Bromwich Albion FC  4-1 (3-0)  Blackburn Rovers FC
@@ -471,17 +471,17 @@ Matchday 27
          Cardiff City FC          0-3 (0-2)  Leeds United FC
          Millwall FC              1-3 (1-1)  Middlesbrough FC
          Southampton FC           4-0 (1-0)  Sheffield Wednesday FC
-  17.30  Ipswich Town FC          2-1 (1-1)  Sunderland AFC
-[Sun Jan/14]
-  12.00  Queens Park Rangers FC   1-2 (0-0)  Watford FC
+  17:30  Ipswich Town FC          2-1 (1-1)  Sunderland AFC
+Sun Jan 14
+  12:00  Queens Park Rangers FC   1-2 (0-0)  Watford FC
 
 
-Matchday 28
-[Fri Jan/19]
-  20.00  Sunderland AFC           0-1 (0-0)  Hull City AFC
-[Sat Jan/20]
-  12.30  Swansea City AFC         1-3 (1-3)  Southampton FC
-  15.00  Blackburn Rovers FC      1-1 (1-1)  Huddersfield Town AFC
+▪ Matchday 28
+Fri Jan 19
+  20:00  Sunderland AFC           0-1 (0-0)  Hull City AFC
+Sat Jan 20
+  12:30  Swansea City AFC         1-3 (1-3)  Southampton FC
+  15:00  Blackburn Rovers FC      1-1 (1-1)  Huddersfield Town AFC
          Bristol City FC          1-1 (1-1)  Watford FC
          Middlesbrough FC         1-1 (0-0)  Rotherham United FC
          Norwich City FC          2-0 (1-0)  West Bromwich Albion FC
@@ -489,32 +489,32 @@ Matchday 28
          Queens Park Rangers FC   2-0 (1-0)  Millwall FC
          Sheffield Wednesday FC   1-2 (0-1)  Coventry City FC
          Stoke City FC            1-2 (0-1)  Birmingham City FC
-[Sun Jan/21]
-  12.00  Leeds United FC          2-1 (1-1)  Preston North End FC
-[Mon Jan/22]
-  20.00  Leicester City FC        1-1 (1-0)  Ipswich Town FC
+Sun Jan 21
+  12:00  Leeds United FC          2-1 (1-1)  Preston North End FC
+Mon Jan 22
+  20:00  Leicester City FC        1-1 (1-0)  Ipswich Town FC
 
 
-Matchday 29
-[Wed Jan/24]
-  19.45  Leeds United FC          1-0 (1-0)  Norwich City FC
-[Sat Jan/27]
-  15.00  Sunderland AFC           3-1 (1-0)  Stoke City FC
+▪ Matchday 29
+Wed Jan 24
+  19:45  Leeds United FC          1-0 (1-0)  Norwich City FC
+Sat Jan 27
+  15:00  Sunderland AFC           3-1 (1-0)  Stoke City FC
          Millwall FC              1-1 (1-1)  Preston North End FC
-[Sun Jan/28]
-  13.30  Queens Park Rangers FC   1-1 (0-0)  Huddersfield Town AFC
-[Tue Jan/30]
-  19.45  Coventry City FC         2-2 (1-1)  Bristol City FC
+Sun Jan 28
+  13:30  Queens Park Rangers FC   1-1 (0-0)  Huddersfield Town AFC
+Tue Jan 30
+  19:45  Coventry City FC         2-2 (1-1)  Bristol City FC
          Leicester City FC        3-1 (1-0)  Swansea City AFC
-[Wed Jan/31]
-  19.45  Sheffield Wednesday FC   0-0  Watford FC
+Wed Jan 31
+  19:45  Sheffield Wednesday FC   0-0  Watford FC
 
 
-Matchday 30
-[Fri Feb/2]
-  20.00  Bristol City FC          0-1 (0-0)  Leeds United FC
-[Sat Feb/3]
-  15.00  Blackburn Rovers FC      1-2 (0-0)  Queens Park Rangers FC
+▪ Matchday 30
+Fri Feb 2
+  20:00  Bristol City FC          0-1 (0-0)  Leeds United FC
+Sat Feb 3
+  15:00  Blackburn Rovers FC      1-2 (0-0)  Queens Park Rangers FC
          Watford FC               0-1 (0-1)  Cardiff City FC
          Huddersfield Town AFC    4-0 (0-0)  Sheffield Wednesday FC
          Hull City AFC            1-0 (1-0)  Millwall FC
@@ -524,16 +524,16 @@ Matchday 30
          Stoke City FC            0-5 (0-2)  Leicester City FC
          Swansea City AFC         0-1 (0-1)  Plymouth Argyle FC
          West Bromwich Albion FC  1-0 (0-0)  Birmingham City FC
-[Sun Feb/4]
-  12.00  Middlesbrough FC         1-1 (0-0)  Sunderland AFC
+Sun Feb 4
+  12:00  Middlesbrough FC         1-1 (0-0)  Sunderland AFC
 
 
-Matchday 31
-[Fri Feb/9]
-  20.00  Sheffield Wednesday FC   2-0 (1-0)  Birmingham City FC
-[Sat Feb/10]
-  12.30  Ipswich Town FC          2-2 (0-1)  West Bromwich Albion FC
-  15.00  Sunderland AFC           3-1 (0-1)  Plymouth Argyle FC
+▪ Matchday 31
+Fri Feb 9
+  20:00  Sheffield Wednesday FC   2-0 (1-0)  Birmingham City FC
+Sat Feb 10
+  12:30  Ipswich Town FC          2-2 (0-1)  West Bromwich Albion FC
+  15:00  Sunderland AFC           3-1 (0-1)  Plymouth Argyle FC
          Blackburn Rovers FC      3-1 (3-1)  Stoke City FC
          Cardiff City FC          0-2 (0-2)  Preston North End FC
          Middlesbrough FC         1-2 (0-2)  Bristol City FC
@@ -542,33 +542,33 @@ Matchday 31
          Hull City AFC            0-1 (0-1)  Swansea City AFC
          Leeds United FC          3-0 (1-0)  Rotherham United FC
          Queens Park Rangers FC   2-2 (1-0)  Norwich City FC
-[Sun Feb/11]
-  12.00  Coventry City FC         2-1 (0-1)  Millwall FC
+Sun Feb 11
+  12:00  Coventry City FC         2-1 (0-1)  Millwall FC
 
 
-Matchday 32
-[Tue Feb/13]
-  19.45  Birmingham City FC       1-0 (0-0)  Blackburn Rovers FC
+▪ Matchday 32
+Tue Feb 13
+  19:45  Birmingham City FC       1-0 (0-0)  Blackburn Rovers FC
          Leicester City FC        2-0 (2-0)  Sheffield Wednesday FC
          Norwich City FC          4-2 (2-1)  Watford FC
          Rotherham United FC      1-2 (1-0)  Hull City AFC
          Swansea City AFC         0-4 (0-3)  Leeds United FC
-  20.00  Bristol City FC          3-1 (0-0)  Southampton FC
+  20:00  Bristol City FC          3-1 (0-0)  Southampton FC
          West Bromwich Albion FC  2-0 (1-0)  Cardiff City FC
-[Wed Feb/14]
-  19.45  Huddersfield Town AFC    1-0 (1-0)  Sunderland AFC
+Wed Feb 14
+  19:45  Huddersfield Town AFC    1-0 (1-0)  Sunderland AFC
          Plymouth Argyle FC       2-2 (0-0)  Coventry City FC
          Preston North End FC     2-1 (1-0)  Middlesbrough FC
          Stoke City FC            1-0 (1-0)  Queens Park Rangers FC
-  20.00  Millwall FC              0-4 (0-3)  Ipswich Town FC
+  20:00  Millwall FC              0-4 (0-3)  Ipswich Town FC
 
 
-Matchday 33
-[Fri Feb/16]
-  20.00  West Bromwich Albion FC  0-2 (0-1)  Southampton FC
-[Sat Feb/17]
-  12.30  Plymouth Argyle FC       0-2 (0-1)  Leeds United FC
-  15.00  Birmingham City FC       2-1 (0-1)  Sunderland AFC
+▪ Matchday 33
+Fri Feb 16
+  20:00  West Bromwich Albion FC  0-2 (0-1)  Southampton FC
+Sat Feb 17
+  12:30  Plymouth Argyle FC       0-2 (0-1)  Leeds United FC
+  15:00  Birmingham City FC       2-1 (0-1)  Sunderland AFC
          Bristol City FC          0-1 (0-1)  Queens Park Rangers FC
          Millwall FC              0-2 (0-2)  Sheffield Wednesday FC
          Huddersfield Town AFC    1-2 (0-1)  Hull City AFC
@@ -580,21 +580,21 @@ Matchday 33
          Swansea City AFC         1-2 (1-2)  Ipswich Town FC
 
 
-Matchday 29
-[Tue Feb/20]
-  19.45  Cardiff City FC          0-0  Blackburn Rovers FC
+▪ Matchday 29
+Tue Feb 20
+  19:45  Cardiff City FC          0-0  Blackburn Rovers FC
          Southampton FC           1-2 (0-2)  Hull City AFC
          Ipswich Town FC          4-3 (3-1)  Rotherham United FC
          Plymouth Argyle FC       0-3 (0-0)  West Bromwich Albion FC
 
 
-Matchday 34
-[Fri Feb/23]
-  19.45  Coventry City FC         0-3 (0-3)  Preston North End FC
-  20.00  Leeds United FC          3-1 (0-1)  Leicester City FC
-[Sat Feb/24]
-  12.30  Hull City AFC            1-1 (1-1)  West Bromwich Albion FC
-  15.00  Sunderland AFC           1-2 (0-2)  Swansea City AFC
+▪ Matchday 34
+Fri Feb 23
+  19:45  Coventry City FC         0-3 (0-3)  Preston North End FC
+  20:00  Leeds United FC          3-1 (0-1)  Leicester City FC
+Sat Feb 24
+  12:30  Hull City AFC            1-1 (1-1)  West Bromwich Albion FC
+  15:00  Sunderland AFC           1-2 (0-2)  Swansea City AFC
          Blackburn Rovers FC      1-1 (0-1)  Norwich City FC
          Cardiff City FC          2-1 (2-1)  Stoke City FC
          Middlesbrough FC         0-2 (0-2)  Plymouth Argyle FC
@@ -605,13 +605,13 @@ Matchday 34
          Sheffield Wednesday FC   2-1 (2-1)  Bristol City FC
 
 
-Matchday 35
-[Fri Mar/1]
-  20.00  West Bromwich Albion FC  2-1 (2-0)  Coventry City FC
-[Sat Mar/2]
-  12.30  Bristol City FC          0-1 (0-0)  Cardiff City FC
+▪ Matchday 35
+Fri Mar 1
+  20:00  West Bromwich Albion FC  2-1 (2-0)  Coventry City FC
+Sat Mar 2
+  12:30  Bristol City FC          0-1 (0-0)  Cardiff City FC
          Huddersfield Town AFC    1-1 (1-0)  Leeds United FC
-  15.00  Birmingham City FC       3-4 (2-1)  Southampton FC
+  15:00  Birmingham City FC       3-4 (2-1)  Southampton FC
          Millwall FC              1-0 (1-0)  Watford FC
          Leicester City FC        1-2 (0-1)  Queens Park Rangers FC
          Norwich City FC          1-0 (0-0)  Sunderland AFC
@@ -622,28 +622,28 @@ Matchday 35
          Swansea City AFC         2-1 (2-0)  Blackburn Rovers FC
 
 
-Matchday 36
-[Tue Mar/5]
-  19.45  Sunderland AFC           0-1 (0-1)  Leicester City FC
+▪ Matchday 36
+Tue Mar 5
+  19:45  Sunderland AFC           0-1 (0-1)  Leicester City FC
          Blackburn Rovers FC      1-1 (0-0)  Millwall FC
          Coventry City FC         5-0 (4-0)  Rotherham United FC
          Hull City AFC            1-1 (1-0)  Birmingham City FC
          Leeds United FC          1-0 (1-0)  Stoke City FC
          Sheffield Wednesday FC   1-0 (0-0)  Plymouth Argyle FC
-  20.00  Ipswich Town FC          3-2 (0-0)  Bristol City FC
-[Wed Mar/6]
-  19.45  Cardiff City FC          1-0 (1-0)  Huddersfield Town AFC
+  20:00  Ipswich Town FC          3-2 (0-0)  Bristol City FC
+Wed Mar 6
+  19:45  Cardiff City FC          1-0 (1-0)  Huddersfield Town AFC
          Middlesbrough FC         3-1 (2-1)  Norwich City FC
          Watford FC               1-1 (0-1)  Swansea City AFC
-  20.00  Queens Park Rangers FC   2-2 (1-2)  West Bromwich Albion FC
+  20:00  Queens Park Rangers FC   2-2 (1-2)  West Bromwich Albion FC
 
 
-Matchday 37
-[Fri Mar/8]
-  20.00  Sheffield Wednesday FC   0-2 (0-1)  Leeds United FC
-[Sat Mar/9]
-  12.30  Cardiff City FC          2-1 (0-0)  Ipswich Town FC
-  15.00  Blackburn Rovers FC      1-1 (1-0)  Plymouth Argyle FC
+▪ Matchday 37
+Fri Mar 8
+  20:00  Sheffield Wednesday FC   0-2 (0-1)  Leeds United FC
+Sat Mar 9
+  12:30  Cardiff City FC          2-1 (0-0)  Ipswich Town FC
+  15:00  Blackburn Rovers FC      1-1 (1-0)  Plymouth Argyle FC
          Millwall FC              1-0 (0-0)  Birmingham City FC
          Southampton FC           4-2 (2-0)  Sunderland AFC
          Watford FC               1-2 (1-1)  Coventry City FC
@@ -651,20 +651,20 @@ Matchday 37
          Norwich City FC          5-0 (4-0)  Rotherham United FC
          Preston North End FC     1-2 (0-0)  Stoke City FC
          Queens Park Rangers FC   0-2 (0-0)  Middlesbrough FC
-[Sun Mar/10]
-  12.00  Huddersfield Town AFC    1-4 (1-0)  West Bromwich Albion FC
-  12.30  Bristol City FC          1-0 (0-0)  Swansea City AFC
+Sun Mar 10
+  12:00  Huddersfield Town AFC    1-4 (1-0)  West Bromwich Albion FC
+  12:30  Bristol City FC          1-0 (0-0)  Swansea City AFC
 
 
-Matchday 29
-[Tue Mar/12]
-  19.45  Birmingham City FC       0-1 (0-1)  Middlesbrough FC
+▪ Matchday 29
+Tue Mar 12
+  19:45  Birmingham City FC       0-1 (0-1)  Middlesbrough FC
 
 
-Matchday 38
-[Sat Mar/16]
-  12.30  Swansea City AFC         2-0 (1-0)  Cardiff City FC
-  15.00  Sunderland AFC           0-0  Queens Park Rangers FC
+▪ Matchday 38
+Sat Mar 16
+  12:30  Swansea City AFC         2-0 (1-0)  Cardiff City FC
+  15:00  Sunderland AFC           0-0  Queens Park Rangers FC
          Birmingham City FC       0-1 (0-1)  Watford FC
          Middlesbrough FC         0-0  Blackburn Rovers FC
          Ipswich Town FC          6-0 (3-0)  Sheffield Wednesday FC
@@ -672,15 +672,15 @@ Matchday 38
          Rotherham United FC      0-0  Huddersfield Town AFC
          Stoke City FC            0-3 (0-2)  Norwich City FC
          West Bromwich Albion FC  2-0 (1-0)  Bristol City FC
-[Sun Mar/17]
-  15.00  Leeds United FC          2-0 (1-0)  Millwall FC
+Sun Mar 17
+  15:00  Leeds United FC          2-0 (1-0)  Millwall FC
 
 
-Matchday 39
-[Fri Mar/29]
-  12.30  Bristol City FC          1-0 (0-0)  Leicester City FC
-  13.00  Millwall FC              1-1 (1-0)  West Bromwich Albion FC
-  15.00  Cardiff City FC          0-2 (0-2)  Sunderland AFC
+▪ Matchday 39
+Fri Mar 29
+  12:30  Bristol City FC          1-0 (0-0)  Leicester City FC
+  13:00  Millwall FC              1-1 (1-0)  West Bromwich Albion FC
+  15:00  Cardiff City FC          0-2 (0-2)  Sunderland AFC
          Southampton FC           1-1 (1-0)  Middlesbrough FC
          Huddersfield Town AFC    1-3 (0-2)  Coventry City FC
          Hull City AFC            0-2 (0-0)  Stoke City FC
@@ -688,14 +688,14 @@ Matchday 39
          Preston North End FC     3-0 (3-0)  Rotherham United FC
          Queens Park Rangers FC   2-1 (0-0)  Birmingham City FC
          Sheffield Wednesday FC   1-1 (1-0)  Swansea City AFC
-  17.30  Blackburn Rovers FC      0-1 (0-1)  Ipswich Town FC
-  20.00  Watford FC               2-2 (2-1)  Leeds United FC
+  17:30  Blackburn Rovers FC      0-1 (0-1)  Ipswich Town FC
+  20:00  Watford FC               2-2 (2-1)  Leeds United FC
 
 
-Matchday 40
-[Mon Apr/1]
-  12.30  Leicester City FC        3-1 (1-1)  Norwich City FC
-  15.00  Sunderland AFC           1-5 (0-2)  Blackburn Rovers FC
+▪ Matchday 40
+Mon Apr 1
+  12:30  Leicester City FC        3-1 (1-1)  Norwich City FC
+  15:00  Sunderland AFC           1-5 (0-2)  Blackburn Rovers FC
          Birmingham City FC       1-0 (0-0)  Preston North End FC
          Coventry City FC         1-2 (1-1)  Cardiff City FC
          Middlesbrough FC         2-0 (1-0)  Sheffield Wednesday FC
@@ -704,16 +704,16 @@ Matchday 40
          Stoke City FC            1-1 (0-1)  Huddersfield Town AFC
          Swansea City AFC         0-1 (0-0)  Queens Park Rangers FC
          West Bromwich Albion FC  2-2 (0-0)  Watford FC
-  17.30  Ipswich Town FC          3-2 (1-2)  Southampton FC
-  20.00  Leeds United FC          3-1 (1-1)  Hull City AFC
+  17:30  Ipswich Town FC          3-2 (1-2)  Southampton FC
+  20:00  Leeds United FC          3-1 (1-1)  Hull City AFC
 
 
-Matchday 41
-[Fri Apr/5]
-  20.00  Rotherham United FC      0-1 (0-1)  Plymouth Argyle FC
-[Sat Apr/6]
-  12.30  Norwich City FC          1-0 (1-0)  Ipswich Town FC
-  15.00  Sunderland AFC           0-0  Bristol City FC
+▪ Matchday 41
+Fri Apr 5
+  20:00  Rotherham United FC      0-1 (0-1)  Plymouth Argyle FC
+Sat Apr 6
+  12:30  Norwich City FC          1-0 (1-0)  Ipswich Town FC
+  15:00  Sunderland AFC           0-0  Bristol City FC
          Blackburn Rovers FC      0-0  Southampton FC
          Cardiff City FC          1-3 (0-2)  Hull City AFC
          Coventry City FC         2-1 (1-0)  Leeds United FC
@@ -725,29 +725,29 @@ Matchday 41
          Stoke City FC            2-2 (0-1)  West Bromwich Albion FC
 
 
-Matchday 42
-[Tue Apr/9]
-  19.45  Millwall FC              1-0 (0-0)  Leicester City FC
+▪ Matchday 42
+Tue Apr 9
+  19:45  Millwall FC              1-0 (0-0)  Leicester City FC
          Southampton FC           2-1 (2-0)  Coventry City FC
          Plymouth Argyle FC       1-1 (0-0)  Queens Park Rangers FC
          Preston North End FC     4-1 (0-1)  Huddersfield Town AFC
          Sheffield Wednesday FC   2-2 (0-2)  Norwich City FC
-  20.00  Leeds United FC          0-0  Sunderland AFC
-[Wed Apr/10]
-  19.45  Birmingham City FC       0-1 (0-0)  Cardiff City FC
+  20:00  Leeds United FC          0-0  Sunderland AFC
+Wed Apr 10
+  19:45  Birmingham City FC       0-1 (0-0)  Cardiff City FC
          Bristol City FC          5-0 (2-0)  Blackburn Rovers FC
          Hull City AFC            2-2 (2-1)  Middlesbrough FC
          Ipswich Town FC          0-0  Watford FC
-  20.00  Swansea City AFC         3-0 (1-0)  Stoke City FC
+  20:00  Swansea City AFC         3-0 (1-0)  Stoke City FC
          West Bromwich Albion FC  2-0 (2-0)  Rotherham United FC
 
 
-Matchday 43
-[Fri Apr/12]
-  20.00  Plymouth Argyle FC       1-0 (1-0)  Leicester City FC
-[Sat Apr/13]
-  12.30  Leeds United FC          0-1 (0-0)  Blackburn Rovers FC
-  15.00  Birmingham City FC       3-0 (2-0)  Coventry City FC
+▪ Matchday 43
+Fri Apr 12
+  20:00  Plymouth Argyle FC       1-0 (1-0)  Leicester City FC
+Sat Apr 13
+  12:30  Leeds United FC          0-1 (0-0)  Blackburn Rovers FC
+  15:00  Birmingham City FC       3-0 (2-0)  Coventry City FC
          Bristol City FC          1-1 (0-0)  Huddersfield Town AFC
          Millwall FC              3-1 (2-1)  Cardiff City FC
          Southampton FC           3-2 (2-1)  Watford FC
@@ -759,40 +759,40 @@ Matchday 43
          West Bromwich Albion FC  0-1 (0-1)  Sunderland AFC
 
 
-Matchday 36
-[Tue Apr/16]
-  20.00  Southampton FC           3-0 (3-0)  Preston North End FC
+▪ Matchday 36
+Tue Apr 16
+  20:00  Southampton FC           3-0 (3-0)  Preston North End FC
 
 
-Matchday 44
-[Sat Apr/20]
-  12.30  Leicester City FC        2-1 (1-0)  West Bromwich Albion FC
-  15.00  Sunderland AFC           0-1 (0-0)  Millwall FC
+▪ Matchday 44
+Sat Apr 20
+  12:30  Leicester City FC        2-1 (1-0)  West Bromwich Albion FC
+  15:00  Sunderland AFC           0-1 (0-0)  Millwall FC
          Cardiff City FC          2-1 (0-1)  Southampton FC
          Watford FC               0-0  Hull City AFC
          Huddersfield Town AFC    0-4 (0-0)  Swansea City AFC
          Norwich City FC          1-1 (0-0)  Bristol City FC
          Rotherham United FC      0-0  Birmingham City FC
          Stoke City FC            3-0 (2-0)  Plymouth Argyle FC
-  17.15  Queens Park Rangers FC   1-0 (1-0)  Preston North End FC
-[Sun Apr/21]
-  12.30  Blackburn Rovers FC      1-3 (1-1)  Sheffield Wednesday FC
-[Mon Apr/22]
-  20.00  Middlesbrough FC         3-4 (2-3)  Leeds United FC
+  17:15  Queens Park Rangers FC   1-0 (1-0)  Preston North End FC
+Sun Apr 21
+  12:30  Blackburn Rovers FC      1-3 (1-1)  Sheffield Wednesday FC
+Mon Apr 22
+  20:00  Middlesbrough FC         3-4 (2-3)  Leeds United FC
 
 
-Matchday 38
-[Tue Apr/23]
-  20.00  Leicester City FC        5-0 (1-0)  Southampton FC
-[Wed Apr/24]
-  19.45  Coventry City FC         2-3 (1-2)  Hull City AFC
+▪ Matchday 38
+Tue Apr 23
+  20:00  Leicester City FC        5-0 (1-0)  Southampton FC
+Wed Apr 24
+  19:45  Coventry City FC         2-3 (1-2)  Hull City AFC
 
 
-Matchday 45
-[Fri Apr/26]
-  20.00  Queens Park Rangers FC   4-0 (2-0)  Leeds United FC
-[Sat Apr/27]
-  15.00  Blackburn Rovers FC      0-0  Coventry City FC
+▪ Matchday 45
+Fri Apr 26
+  20:00  Queens Park Rangers FC   4-0 (2-0)  Leeds United FC
+Sat Apr 27
+  15:00  Blackburn Rovers FC      0-0  Coventry City FC
          Bristol City FC          2-0 (1-0)  Rotherham United FC
          Cardiff City FC          1-4 (0-1)  Middlesbrough FC
          Millwall FC              1-0 (0-0)  Plymouth Argyle FC
@@ -801,19 +801,19 @@ Matchday 45
          Huddersfield Town AFC    1-1 (0-1)  Birmingham City FC
          Norwich City FC          2-2 (2-1)  Swansea City AFC
          Sheffield Wednesday FC   3-0 (1-0)  West Bromwich Albion FC
-  20.00  Hull City AFC            3-3 (1-2)  Ipswich Town FC
-[Mon Apr/29]
-  20.00  Preston North End FC     0-3 (0-1)  Leicester City FC
+  20:00  Hull City AFC            3-3 (1-2)  Ipswich Town FC
+Mon Apr 29
+  20:00  Preston North End FC     0-3 (0-1)  Leicester City FC
 
 
-Matchday 44
-[Tue Apr/30]
-  20.00  Coventry City FC         1-2 (0-1)  Ipswich Town FC
+▪ Matchday 44
+Tue Apr 30
+  20:00  Coventry City FC         1-2 (0-1)  Ipswich Town FC
 
 
-Matchday 46
-[Sat May/4]
-  12.30  Swansea City AFC         0-1 (0-0)  Millwall FC
+▪ Matchday 46
+Sat May 4
+  12:30  Swansea City AFC         0-1 (0-0)  Millwall FC
          Sunderland AFC           0-2 (0-2)  Sheffield Wednesday FC
          Birmingham City FC       1-0 (0-0)  Norwich City FC
          Coventry City FC         1-2 (0-2)  Queens Park Rangers FC
@@ -830,15 +830,15 @@ Matchday 46
 
 ▪ Finals
 ▪▪ Semifinals
-[Sun May/12]
-  12.00  Norwich City FC          0-0  Leeds United FC
-  14.15  West Bromwich Albion FC  0-0  Southampton FC
-[Thu May/16]
-  20.00  Leeds United FC          4-0 (3-0)  Norwich City FC
-[Fri May/17]
-  20.00  Southampton FC           3-1 (0-0)  West Bromwich Albion FC
+Sun May 12
+  12:00  Norwich City FC          0-0  Leeds United FC
+  14:15  West Bromwich Albion FC  0-0  Southampton FC
+Thu May 16
+  20:00  Leeds United FC          4-0 (3-0)  Norwich City FC
+Fri May 17
+  20:00  Southampton FC           3-1 (0-0)  West Bromwich Albion FC
 
 
 ▪▪ Final
-[Sun May/26]
-  15.00  Leeds United FC          0-1 (0-1)  Southampton FC
+Sun May 26
+  15:00  Leeds United FC          0-1 (0-1)  Southampton FC

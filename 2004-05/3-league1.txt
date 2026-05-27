@@ -1,14 +1,14 @@
 = English League One 2004/05
 
-# Date       Sat Aug/7 2004 - Sat May/7 2005 (273d)
+# Date       Sat Aug 7 2004 - Sat May 7 2005 (273d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/7]
-  15.00  Bristol City             1-1 (0-0)  Torquay United
+▪ Matchday 1
+Sat Aug 7
+  15:00  Bristol City             1-1 (0-0)  Torquay United
          Chesterfield FC          3-1 (1-0)  Brentford FC
          Doncaster Rovers         2-0 (1-0)  Blackpool FC
          Hartlepool United        2-1 (0-0)  Bradford City
@@ -22,9 +22,9 @@ Matchday 1
          Wrexham AFC              2-1 (1-0)  Swindon Town
 
 
-Matchday 2
-[Tue Aug/10]
-  19.45  Barnsley FC              2-1 (0-0)  Bristol City
+▪ Matchday 2
+Tue Aug 10
+  19:45  Barnsley FC              2-1 (0-0)  Bristol City
          Blackpool FC             1-2 (0-1)  Sheffield Wednesday
          AFC Bournemouth          2-2 (0-1)  Walsall FC
          Bradford City            2-2 (1-1)  Peterborough United
@@ -35,13 +35,13 @@ Matchday 2
          Port Vale FC             3-2 (1-1)  Milton Keynes Dons
          Torquay United           0-3 (0-2)  Hull City
          Tranmere Rovers          2-1 (1-1)  Hartlepool United
-[Wed Aug/11]
-  19.45  Swindon Town             2-3 (1-2)  Luton Town
+Wed Aug 11
+  19:45  Swindon Town             2-3 (1-2)  Luton Town
 
 
-Matchday 3
-[Sat Aug/14]
-  15.00  AFC Bournemouth          2-2 (1-0)  Bristol City
+▪ Matchday 3
+Sat Aug 14
+  15:00  AFC Bournemouth          2-2 (1-0)  Bristol City
          Barnsley FC              3-4 (1-3)  Luton Town
          Blackpool FC             0-4 (0-2)  Stockport County
          Bradford City            2-0 (2-0)  Doncaster Rovers
@@ -52,13 +52,13 @@ Matchday 3
          Swindon Town             2-1 (1-1)  Milton Keynes Dons
          Torquay United           2-4 (1-1)  Sheffield Wednesday
          Tranmere Rovers          1-0 (1-0)  Chesterfield FC
-[Mon Aug/16]
-  20.00  Huddersfield Town        0-2 (0-0)  Hartlepool United
+Mon Aug 16
+  20:00  Huddersfield Town        0-2 (0-0)  Hartlepool United
 
 
-Matchday 4
-[Sat Aug/21]
-  15.00  Bristol City             1-2 (1-1)  Swindon Town
+▪ Matchday 4
+Sat Aug 21
+  15:00  Bristol City             1-2 (1-1)  Swindon Town
          Chesterfield FC          2-1 (1-1)  Colchester United
          Doncaster Rovers         0-0  Tranmere Rovers
          Hartlepool United        1-1 (1-0)  Blackpool FC
@@ -72,11 +72,11 @@ Matchday 4
          Wrexham AFC              1-1 (0-0)  Port Vale FC
 
 
-Matchday 5
-[Fri Aug/27]
-  19.45  Tranmere Rovers          4-2 (3-2)  Sheffield Wednesday
-[Sat Aug/28]
-  15.00  AFC Bournemouth          1-0 (1-0)  Wrexham AFC
+▪ Matchday 5
+Fri Aug 27
+  19:45  Tranmere Rovers          4-2 (3-2)  Sheffield Wednesday
+Sat Aug 28
+  15:00  AFC Bournemouth          1-0 (1-0)  Wrexham AFC
          Barnsley FC              1-2 (1-0)  Hull City
          Blackpool FC             1-3 (1-0)  Luton Town
          Bradford City            2-3 (1-0)  Chesterfield FC
@@ -89,9 +89,9 @@ Matchday 5
          Torquay United           0-0  Walsall FC
 
 
-Matchday 6
-[Mon Aug/30]
-  15.00  Bristol City             4-1 (1-0)  Brentford FC
+▪ Matchday 6
+Mon Aug 30
+  15:00  Bristol City             4-1 (1-0)  Brentford FC
          Doncaster Rovers         2-1 (1-0)  Huddersfield Town
          Hartlepool United        2-1 (1-0)  Colchester United
          Luton Town               1-0 (0-0)  AFC Bournemouth
@@ -101,14 +101,14 @@ Matchday 6
          Stockport County         1-1 (0-0)  Tranmere Rovers
          Walsall FC               3-2 (2-2)  Swindon Town
          Wrexham AFC              2-1 (1-0)  Barnsley FC
-[Tue Aug/31]
-  19.45  Hull City                0-1 (0-0)  Bradford City
-  19.30  Chesterfield FC          1-0 (0-0)  Port Vale FC
+Tue Aug 31
+  19:45  Hull City                0-1 (0-0)  Bradford City
+  19:30  Chesterfield FC          1-0 (0-0)  Port Vale FC
 
 
-Matchday 7
-[Sat Sep/4]
-  15.00  Sheffield Wednesday      0-0  Luton Town
+▪ Matchday 7
+Sat Sep 4
+  15:00  Sheffield Wednesday      0-0  Luton Town
          Stockport County         0-2 (0-1)  Torquay United
          Bradford City            0-2 (0-1)  Port Vale FC
          Brentford FC             2-1 (1-0)  AFC Bournemouth
@@ -117,13 +117,13 @@ Matchday 7
          Doncaster Rovers         3-1 (1-0)  Walsall FC
          Hartlepool United        1-1 (0-1)  Barnsley FC
          Peterborough United      0-1 (0-0)  Bristol City
-[Sun Sep/5]
-  12.00  Huddersfield Town        4-0 (2-0)  Hull City
+Sun Sep 5
+  12:00  Huddersfield Town        4-0 (2-0)  Hull City
 
 
-Matchday 8
-[Sat Sep/11]
-  15.00  Walsall FC               1-1 (1-1)  Sheffield Wednesday
+▪ Matchday 8
+Sat Sep 11
+  15:00  Walsall FC               1-1 (1-1)  Sheffield Wednesday
          Wrexham AFC              1-0 (1-0)  Bradford City
          AFC Bournemouth          1-3 (0-2)  Colchester United
          Barnsley FC              0-0  Tranmere Rovers
@@ -137,16 +137,16 @@ Matchday 8
          Torquay United           2-2 (1-0)  Brentford FC
 
 
-Matchday 7
-[Tue Sep/14]
-  19.45  Tranmere Rovers          2-0 (0-0)  Oldham Athletic
+▪ Matchday 7
+Tue Sep 14
+  19:45  Tranmere Rovers          2-0 (0-0)  Oldham Athletic
 
 
-Matchday 9
-[Sat Sep/18]
-  15.00  Stockport County         1-3 (0-2)  Luton Town
-  13.00  Tranmere Rovers          1-1 (0-1)  Wrexham AFC
-  15.00  Blackpool FC             1-1 (1-0)  Swindon Town
+▪ Matchday 9
+Sat Sep 18
+  15:00  Stockport County         1-3 (0-2)  Luton Town
+  13:00  Tranmere Rovers          1-1 (0-1)  Wrexham AFC
+  15:00  Blackpool FC             1-1 (1-0)  Swindon Town
          Bradford City            4-1 (2-0)  Bristol City
          Brentford FC             1-0 (1-0)  Port Vale FC
          Chesterfield FC          1-0 (1-0)  Walsall FC
@@ -158,9 +158,9 @@ Matchday 9
          Sheffield Wednesday      0-1 (0-1)  AFC Bournemouth
 
 
-Matchday 10
-[Sat Sep/25]
-  15.00  Wrexham AFC              0-3 (0-1)  Sheffield Wednesday
+▪ Matchday 10
+Sat Sep 25
+  15:00  Wrexham AFC              0-3 (0-1)  Sheffield Wednesday
          AFC Bournemouth          5-0 (4-0)  Doncaster Rovers
          Barnsley FC              1-0 (0-0)  Chesterfield FC
          Bristol City             3-3 (1-2)  Huddersfield Town
@@ -174,9 +174,9 @@ Matchday 10
          Walsall FC               0-1 (0-1)  Brentford FC
 
 
-Matchday 11
-[Sat Oct/2]
-  15.00  Bradford City            1-0 (0-0)  Barnsley FC
+▪ Matchday 11
+Sat Oct 2
+  15:00  Bradford City            1-0 (0-0)  Barnsley FC
          Blackpool FC             3-3 (3-2)  AFC Bournemouth
          Stockport County         3-3 (0-2)  Swindon Town
          Brentford FC             2-0 (1-0)  Oldham Athletic
@@ -190,24 +190,24 @@ Matchday 11
          Tranmere Rovers          1-1 (1-0)  Luton Town
 
 
-Matchday 12
-[Fri Oct/8]
-  19.45  Port Vale FC             2-0 (2-0)  Doncaster Rovers
+▪ Matchday 12
+Fri Oct 8
+  19:45  Port Vale FC             2-0 (2-0)  Doncaster Rovers
          AFC Bournemouth          2-1 (2-0)  Stockport County
          Luton Town               3-0 (1-0)  Hartlepool United
          Milton Keynes Dons       1-2 (1-0)  Bradford City
-[Sat Oct/9]
-  13.00  Walsall FC               2-1 (0-0)  Colchester United
-  12.00  Barnsley FC              0-0  Brentford FC
-  13.00  Torquay United           2-1 (0-1)  Huddersfield Town
-[Sun Oct/10]
-  12.15  Hull City                1-0 (0-0)  Chesterfield FC
-  14.00  Oldham Athletic          1-2 (1-1)  Blackpool FC
+Sat Oct 9
+  13:00  Walsall FC               2-1 (0-0)  Colchester United
+  12:00  Barnsley FC              0-0  Brentford FC
+  13:00  Torquay United           2-1 (0-1)  Huddersfield Town
+Sun Oct 10
+  12:15  Hull City                1-0 (0-0)  Chesterfield FC
+  14:00  Oldham Athletic          1-2 (1-1)  Blackpool FC
 
 
-Matchday 13
-[Sat Oct/16]
-  15.00  Tranmere Rovers          4-5 (1-1)  Bradford City
+▪ Matchday 13
+Sat Oct 16
+  15:00  Tranmere Rovers          4-5 (1-1)  Bradford City
          Wrexham AFC              1-1 (1-0)  Walsall FC
          Swindon Town             1-0 (1-0)  Oldham Athletic
          Stockport County         1-0 (0-0)  Peterborough United
@@ -218,13 +218,13 @@ Matchday 13
          Hartlepool United        3-2 (2-1)  Chesterfield FC
          Luton Town               1-2 (0-2)  Huddersfield Town
          Milton Keynes Dons       0-0  Brentford FC
-[Sun Oct/17]
-  14.00  Sheffield Wednesday      1-0 (1-0)  Barnsley FC
+Sun Oct 17
+  14:00  Sheffield Wednesday      1-0 (1-0)  Barnsley FC
 
 
-Matchday 14
-[Tue Oct/19]
-  19.45  Peterborough United      1-1 (1-0)  Sheffield Wednesday
+▪ Matchday 14
+Tue Oct 19
+  19:45  Peterborough United      1-1 (1-0)  Sheffield Wednesday
          Oldham Athletic          0-0  Bristol City
          Port Vale FC             1-0 (0-0)  Swindon Town
          Walsall FC               2-0 (1-0)  Luton Town
@@ -233,15 +233,15 @@ Matchday 14
          Colchester United        1-2 (0-0)  Wrexham AFC
          Huddersfield Town        1-3 (1-1)  Tranmere Rovers
          Torquay United           1-2 (0-0)  AFC Bournemouth
-[Wed Oct/20]
-  19.30  Chesterfield FC          4-0 (2-0)  Stockport County
-  19.45  Hull City                3-2 (1-1)  Milton Keynes Dons
+Wed Oct 20
+  19:30  Chesterfield FC          4-0 (2-0)  Stockport County
+  19:45  Hull City                3-2 (1-1)  Milton Keynes Dons
          Barnsley FC              1-3 (0-1)  Doncaster Rovers
 
 
-Matchday 15
-[Sat Oct/23]
-  15.00  Port Vale FC             0-0  Stockport County
+▪ Matchday 15
+Sat Oct 23
+  15:00  Port Vale FC             0-0  Stockport County
          Walsall FC               1-2 (0-0)  Bristol City
          Chesterfield FC          0-0  Doncaster Rovers
          Peterborough United      3-0 (2-0)  Hartlepool United
@@ -254,16 +254,16 @@ Matchday 15
          Hull City                3-0 (3-0)  Luton Town
 
 
-Matchday 12
-[Tue Oct/26]
-  19.45  Wrexham AFC              1-1 (0-0)  Peterborough United
-[Wed Oct/27]
-  19.45  Swindon Town             3-2 (0-1)  Sheffield Wednesday
+▪ Matchday 12
+Tue Oct 26
+  19:45  Wrexham AFC              1-1 (0-0)  Peterborough United
+Wed Oct 27
+  19:45  Swindon Town             3-2 (0-1)  Sheffield Wednesday
 
 
-Matchday 16
-[Sat Oct/30]
-  15.00  Tranmere Rovers          1-0 (0-0)  Brentford FC
+▪ Matchday 16
+Sat Oct 30
+  15:00  Tranmere Rovers          1-0 (0-0)  Brentford FC
          Stockport County         1-2 (1-2)  Oldham Athletic
          Swindon Town             3-3 (3-1)  Torquay United
          AFC Bournemouth          1-3 (0-2)  Barnsley FC
@@ -277,9 +277,9 @@ Matchday 16
          Wrexham AFC              2-2 (2-1)  Hull City
 
 
-Matchday 17
-[Sat Nov/6]
-  15.00  Tranmere Rovers          2-1 (1-0)  Swindon Town
+▪ Matchday 17
+Sat Nov 6
+  15:00  Tranmere Rovers          2-1 (1-0)  Swindon Town
          Torquay United           2-0 (1-0)  Oldham Athletic
          Stockport County         0-3 (0-1)  Sheffield Wednesday
          Barnsley FC              1-2 (1-0)  Port Vale FC
@@ -290,25 +290,25 @@ Matchday 17
          Hull City                3-1 (3-0)  Walsall FC
          Luton Town               5-1 (4-0)  Wrexham AFC
          Peterborough United      0-1 (0-1)  AFC Bournemouth
-[Sun Nov/7]
-  15.00  Huddersfield Town        1-1 (0-0)  Brentford FC
+Sun Nov 7
+  15:00  Huddersfield Town        1-1 (0-0)  Brentford FC
 
 
-Matchday 12
-[Tue Nov/9]
-  19.45  Bristol City             4-0 (2-0)  Tranmere Rovers
+▪ Matchday 12
+Tue Nov 9
+  19:45  Bristol City             4-0 (2-0)  Tranmere Rovers
 
 
-Matchday 7
-[Tue Nov/9]
-  19.45  Blackpool FC             2-1 (0-1)  Wrexham AFC
+▪ Matchday 7
+Tue Nov 9
+  19:45  Blackpool FC             2-1 (0-1)  Wrexham AFC
 
 
-Matchday 18
-[Sat Nov/20]
-  15.00  Wrexham AFC              1-3 (0-2)  Bristol City
-  12.30  Milton Keynes Dons       1-4 (1-2)  Luton Town
-  15.00  AFC Bournemouth          0-0  Chesterfield FC
+▪ Matchday 18
+Sat Nov 20
+  15:00  Wrexham AFC              1-3 (0-2)  Bristol City
+  12:30  Milton Keynes Dons       1-4 (1-2)  Luton Town
+  15:00  AFC Bournemouth          0-0  Chesterfield FC
          Blackpool FC             0-1 (0-1)  Tranmere Rovers
          Brentford FC             1-2 (0-1)  Bradford City
          Colchester United        0-0  Huddersfield Town
@@ -320,14 +320,14 @@ Matchday 18
          Walsall FC               2-1 (0-1)  Peterborough United
 
 
-Matchday 15
-[Tue Nov/23]
-  19.45  Torquay United           1-0 (1-0)  Wrexham AFC
+▪ Matchday 15
+Tue Nov 23
+  19:45  Torquay United           1-0 (1-0)  Wrexham AFC
 
 
-Matchday 19
-[Sat Nov/27]
-  15.00  Barnsley FC              1-0 (0-0)  Blackpool FC
+▪ Matchday 19
+Sat Nov 27
+  15:00  Barnsley FC              1-0 (0-0)  Blackpool FC
          Bradford City            1-3 (1-1)  Oldham Athletic
          Bristol City             1-4 (0-1)  Sheffield Wednesday
          Chesterfield FC          1-0 (0-0)  Swindon Town
@@ -341,9 +341,9 @@ Matchday 19
          Tranmere Rovers          2-0 (0-0)  Milton Keynes Dons
 
 
-Matchday 20
-[Tue Dec/7]
-  19.45  AFC Bournemouth          2-0 (2-0)  Bradford City
+▪ Matchday 20
+Tue Dec 7
+  19:45  AFC Bournemouth          2-0 (2-0)  Bradford City
          Wrexham AFC              2-1 (1-1)  Stockport County
          Blackpool FC             4-0 (1-0)  Torquay United
          Brentford FC             2-0 (1-0)  Luton Town
@@ -353,16 +353,16 @@ Matchday 20
          Oldham Athletic          4-1 (2-0)  Chesterfield FC
          Port Vale FC             3-1 (2-0)  Tranmere Rovers
          Walsall FC               2-1 (0-1)  Hartlepool United
-[Wed Dec/8]
-  19.45  Swindon Town             1-2 (0-2)  Huddersfield Town
+Wed Dec 8
+  19:45  Swindon Town             1-2 (0-2)  Huddersfield Town
          Sheffield Wednesday      2-4 (1-3)  Hull City
 
 
-Matchday 21
-[Fri Dec/10]
-  19.45  Tranmere Rovers          2-0 (1-0)  AFC Bournemouth
-[Sat Dec/11]
-  15.00  Blackpool FC             1-1 (1-1)  Bristol City
+▪ Matchday 21
+Fri Dec 10
+  19:45  Tranmere Rovers          2-0 (1-0)  AFC Bournemouth
+Sat Dec 11
+  15:00  Blackpool FC             1-1 (1-1)  Bristol City
          Bradford City            1-1 (0-0)  Walsall FC
          Colchester United        1-2 (0-1)  Hull City
          Hartlepool United        3-1 (1-1)  Stockport County
@@ -375,10 +375,10 @@ Matchday 21
          Torquay United           0-1 (0-1)  Barnsley FC
 
 
-Matchday 22
-[Sat Dec/18]
-  12.00  Huddersfield Town        0-1 (0-1)  Bradford City
-  15.00  AFC Bournemouth          2-1 (0-0)  Swindon Town
+▪ Matchday 22
+Sat Dec 18
+  12:00  Huddersfield Town        0-1 (0-1)  Bradford City
+  15:00  AFC Bournemouth          2-1 (0-0)  Swindon Town
          Barnsley FC              4-0 (1-0)  Peterborough United
          Brentford FC             1-0 (1-0)  Colchester United
          Bristol City             1-2 (0-1)  Luton Town
@@ -388,14 +388,14 @@ Matchday 22
          Stockport County         3-1 (2-0)  Milton Keynes Dons
          Walsall FC               3-2 (1-1)  Blackpool FC
          Wrexham AFC              1-5 (1-4)  Hartlepool United
-[Sun Dec/19]
-  12.00  Doncaster Rovers         0-4 (0-2)  Sheffield Wednesday
+Sun Dec 19
+  12:00  Doncaster Rovers         0-4 (0-2)  Sheffield Wednesday
 
 
-Matchday 23
-[Sun Dec/26]
-  13.00  Brentford FC             1-3 (1-0)  Torquay United
-  15.00  Blackpool FC             0-2 (0-0)  Hull City
+▪ Matchday 23
+Sun Dec 26
+  13:00  Brentford FC             1-3 (1-0)  Torquay United
+  15:00  Blackpool FC             0-2 (0-0)  Hull City
          Bradford City            1-1 (0-0)  Wrexham AFC
          Chesterfield FC          0-1 (0-0)  Luton Town
          Doncaster Rovers         3-0 (1-0)  Milton Keynes Dons
@@ -407,9 +407,9 @@ Matchday 23
          Tranmere Rovers          1-1 (0-0)  Barnsley FC
 
 
-Matchday 24
-[Tue Dec/28]
-  15.00  Wrexham AFC              3-1 (2-1)  Chesterfield FC
+▪ Matchday 24
+Tue Dec 28
+  15:00  Wrexham AFC              3-1 (2-1)  Chesterfield FC
          AFC Bournemouth          2-2 (1-1)  Huddersfield Town
          Barnsley FC              3-3 (2-0)  Stockport County
          Bristol City             0-0  Hartlepool United
@@ -420,13 +420,13 @@ Matchday 24
          Swindon Town             3-0 (1-0)  Brentford FC
          Torquay United           0-0  Bradford City
          Walsall FC               0-2 (0-0)  Tranmere Rovers
-[Wed Dec/29]
-  19.45  Hull City                2-1 (1-1)  Doncaster Rovers
+Wed Dec 29
+  19:45  Hull City                2-1 (1-1)  Doncaster Rovers
 
 
-Matchday 25
-[Sat Jan/1]
-  15.00  Milton Keynes Dons       1-1 (1-0)  Chesterfield FC
+▪ Matchday 25
+Sat Jan 1
+  15:00  Milton Keynes Dons       1-1 (1-0)  Chesterfield FC
          AFC Bournemouth          3-2 (2-0)  Brentford FC
          Barnsley FC              0-0  Hartlepool United
          Bristol City             2-0 (2-0)  Peterborough United
@@ -440,11 +440,11 @@ Matchday 25
          Walsall FC               1-1 (1-1)  Doncaster Rovers
 
 
-Matchday 26
-[Mon Jan/3]
-  15.00  Tranmere Rovers          4-1 (1-1)  Torquay United
-  13.00  Chesterfield FC          2-2 (0-2)  Barnsley FC
-  15.00  Blackpool FC             0-2 (0-0)  Port Vale FC
+▪ Matchday 26
+Mon Jan 3
+  15:00  Tranmere Rovers          4-1 (1-1)  Torquay United
+  13:00  Chesterfield FC          2-2 (0-2)  Barnsley FC
+  15:00  Blackpool FC             0-2 (0-0)  Port Vale FC
          Bradford City            1-2 (0-0)  Swindon Town
          Brentford FC             1-0 (1-0)  Walsall FC
          Colchester United        0-0  Oldham Athletic
@@ -456,20 +456,20 @@ Matchday 26
          Stockport County         1-3 (1-1)  Hull City
 
 
-Matchday 27
-[Sat Jan/8]
-  15.00  Sheffield Wednesday      2-0 (1-0)  Swindon Town
+▪ Matchday 27
+Sat Jan 8
+  15:00  Sheffield Wednesday      2-0 (1-0)  Swindon Town
          Doncaster Rovers         2-0 (1-0)  Port Vale FC
          Huddersfield Town        1-1 (1-0)  Torquay United
-[Mon Jan/10]
-  19.45  Tranmere Rovers          0-1 (0-1)  Bristol City
-[Tue Jan/11]
-  19.45  Peterborough United      2-2 (2-1)  Wrexham AFC
+Mon Jan 10
+  19:45  Tranmere Rovers          0-1 (0-1)  Bristol City
+Tue Jan 11
+  19:45  Peterborough United      2-2 (2-1)  Wrexham AFC
 
 
-Matchday 28
-[Sat Jan/15]
-  15.00  Swindon Town             2-2 (2-1)  Blackpool FC
+▪ Matchday 28
+Sat Jan 15
+  15:00  Swindon Town             2-2 (2-1)  Blackpool FC
          Wrexham AFC              1-5 (0-2)  Tranmere Rovers
          Walsall FC               3-0 (2-0)  Chesterfield FC
          Torquay United           1-2 (1-0)  Hartlepool United
@@ -483,11 +483,11 @@ Matchday 28
          Hull City                2-2 (0-1)  Peterborough United
 
 
-Matchday 29
-[Fri Jan/21]
-  19.45  Sheffield Wednesday      1-0 (1-0)  Port Vale FC
-[Sat Jan/22]
-  15.00  Colchester United        0-0  Luton Town
+▪ Matchday 29
+Fri Jan 21
+  19:45  Sheffield Wednesday      1-0 (1-0)  Port Vale FC
+Sat Jan 22
+  15:00  Colchester United        0-0  Luton Town
          Doncaster Rovers         1-0 (0-0)  Hull City
          Hartlepool United        2-1 (1-1)  Bristol City
          Tranmere Rovers          2-1 (1-0)  Walsall FC
@@ -500,34 +500,34 @@ Matchday 29
          Brentford FC             2-1 (1-1)  Swindon Town
 
 
-Matchday 27
-[Tue Jan/25]
-  19.45  Brentford FC             1-1 (0-1)  Barnsley FC
+▪ Matchday 27
+Tue Jan 25
+  19:45  Brentford FC             1-1 (0-1)  Barnsley FC
          Colchester United        5-0 (4-0)  Walsall FC
 
 
-Matchday 30
-[Fri Jan/28]
-  19.45  Bristol City             2-3 (0-2)  Chesterfield FC
-[Sat Jan/29]
-  15.00  Walsall FC               4-3 (2-3)  Huddersfield Town
+▪ Matchday 30
+Fri Jan 28
+  19:45  Bristol City             2-3 (0-2)  Chesterfield FC
+Sat Jan 29
+  15:00  Walsall FC               4-3 (2-3)  Huddersfield Town
          Wrexham AFC              0-0  Doncaster Rovers
          Luton Town               1-1 (0-1)  Tranmere Rovers
          Milton Keynes Dons       2-2 (0-1)  Sheffield Wednesday
          Swindon Town             3-0 (0-0)  Stockport County
-[Mon Jan/31]
-  19.45  Barnsley FC              2-2 (0-2)  Bradford City
+Mon Jan 31
+  19:45  Barnsley FC              2-2 (0-2)  Bradford City
 
 
-Matchday 27
-[Tue Feb/1]
-  19.45  Stockport County         2-2 (1-1)  AFC Bournemouth
-  19.30  Chesterfield FC          1-1 (0-0)  Hull City
+▪ Matchday 27
+Tue Feb 1
+  19:45  Stockport County         2-2 (1-1)  AFC Bournemouth
+  19:30  Chesterfield FC          1-1 (0-0)  Hull City
 
 
-Matchday 31
-[Sat Feb/5]
-  15.00  Colchester United        0-1 (0-0)  Blackpool FC
+▪ Matchday 31
+Sat Feb 5
+  15:00  Colchester United        0-1 (0-0)  Blackpool FC
          Walsall FC               2-2 (2-2)  Wrexham AFC
          Torquay United           2-1 (2-0)  Doncaster Rovers
          Chesterfield FC          0-1 (0-0)  Hartlepool United
@@ -536,22 +536,22 @@ Matchday 31
          Peterborough United      2-1 (1-0)  Stockport County
          Oldham Athletic          1-2 (1-0)  Swindon Town
          Hull City                1-1 (0-0)  Bristol City
-  12.00  Barnsley FC              0-0  Sheffield Wednesday
-  15.00  Bradford City            1-1 (0-1)  Tranmere Rovers
+  12:00  Barnsley FC              0-0  Sheffield Wednesday
+  15:00  Bradford City            1-1 (0-1)  Tranmere Rovers
          Huddersfield Town        1-1 (0-1)  Luton Town
 
 
-Matchday 27
-[Tue Feb/8]
-  19.45  Bradford City            1-4 (0-2)  Milton Keynes Dons
+▪ Matchday 27
+Tue Feb 8
+  19:45  Bradford City            1-4 (0-2)  Milton Keynes Dons
          Blackpool FC             2-0 (0-0)  Oldham Athletic
 
 
-Matchday 32
-[Fri Feb/11]
-  19.45  Bristol City             0-1 (0-0)  Walsall FC
-[Sat Feb/12]
-  15.00  Swindon Town             2-1 (1-1)  Barnsley FC
+▪ Matchday 32
+Fri Feb 11
+  19:45  Bristol City             0-1 (0-0)  Walsall FC
+Sat Feb 12
+  15:00  Swindon Town             2-1 (1-1)  Barnsley FC
          Tranmere Rovers          1-1 (1-0)  Colchester United
          Luton Town               1-0 (0-0)  Hull City
          Milton Keynes Dons       2-1 (1-1)  Huddersfield Town
@@ -562,24 +562,24 @@ Matchday 32
          Doncaster Rovers         0-1 (0-0)  Chesterfield FC
 
 
-Matchday 23
-[Tue Feb/15]
-  19.45  Colchester United        3-1 (0-0)  AFC Bournemouth
+▪ Matchday 23
+Tue Feb 15
+  19:45  Colchester United        3-1 (0-0)  AFC Bournemouth
 
 
-Matchday 27
-[Tue Feb/15]
-  19.45  Hartlepool United        2-3 (0-1)  Luton Town
+▪ Matchday 27
+Tue Feb 15
+  19:45  Hartlepool United        2-3 (0-1)  Luton Town
 
 
-Matchday 30
-[Tue Feb/15]
-  19.45  Torquay United           2-1 (1-0)  Peterborough United
+▪ Matchday 30
+Tue Feb 15
+  19:45  Torquay United           2-1 (1-0)  Peterborough United
 
 
-Matchday 33
-[Sat Feb/19]
-  15.00  Torquay United           2-2 (1-1)  Swindon Town
+▪ Matchday 33
+Sat Feb 19
+  15:00  Torquay United           2-2 (1-1)  Swindon Town
          Walsall FC               0-0  Milton Keynes Dons
          Port Vale FC             0-1 (0-1)  Hartlepool United
          Peterborough United      0-2 (0-0)  Doncaster Rovers
@@ -592,9 +592,9 @@ Matchday 33
          Huddersfield Town        1-0 (1-0)  Blackpool FC
 
 
-Matchday 34
-[Tue Feb/22]
-  19.45  Milton Keynes Dons       1-1 (0-0)  Hull City
+▪ Matchday 34
+Tue Feb 22
+  19:45  Milton Keynes Dons       1-1 (0-0)  Hull City
          Stockport County         1-2 (1-0)  Chesterfield FC
          Tranmere Rovers          3-0 (2-0)  Huddersfield Town
          Wrexham AFC              2-2 (0-0)  Colchester United
@@ -604,14 +604,14 @@ Matchday 34
          AFC Bournemouth          3-0 (1-0)  Torquay United
          Blackpool FC             2-1 (0-0)  Bradford City
          Hartlepool United        3-1 (0-0)  Brentford FC
-[Wed Feb/23]
-  19.45  Swindon Town             1-0 (1-0)  Port Vale FC
+Wed Feb 23
+  19:45  Swindon Town             1-0 (1-0)  Port Vale FC
          Sheffield Wednesday      2-1 (1-1)  Peterborough United
 
 
-Matchday 35
-[Sat Feb/26]
-  15.00  Huddersfield Town        2-1 (2-0)  Oldham Athletic
+▪ Matchday 35
+Sat Feb 26
+  15:00  Huddersfield Town        2-1 (2-0)  Oldham Athletic
          Hull City                2-0 (2-0)  Colchester United
          Wrexham AFC              0-0  Milton Keynes Dons
          Walsall FC               1-1 (0-1)  Bradford City
@@ -625,9 +625,9 @@ Matchday 35
          Chesterfield FC          1-3 (1-2)  Peterborough United
 
 
-Matchday 36
-[Sat Mar/5]
-  15.00  Torquay United           2-2 (1-1)  Chesterfield FC
+▪ Matchday 36
+Sat Mar 5
+  15:00  Torquay United           2-2 (1-1)  Chesterfield FC
          Tranmere Rovers          1-3 (1-1)  Hull City
          Swindon Town             0-3 (0-1)  AFC Bournemouth
          Peterborough United      1-3 (0-0)  Barnsley FC
@@ -638,20 +638,20 @@ Matchday 36
          Bradford City            2-0 (1-0)  Huddersfield Town
          Colchester United        0-1 (0-0)  Brentford FC
          Hartlepool United        4-6 (2-3)  Wrexham AFC
-[Sun Mar/6]
-  14.00  Sheffield Wednesday      2-0 (1-0)  Doncaster Rovers
+Sun Mar 6
+  14:00  Sheffield Wednesday      2-0 (1-0)  Doncaster Rovers
 
 
-Matchday 30
-[Tue Mar/8]
-  19.45  Port Vale FC             0-0  Colchester United
+▪ Matchday 30
+Tue Mar 8
+  19:45  Port Vale FC             0-0  Colchester United
          Hull City                1-0 (1-0)  Hartlepool United
          AFC Bournemouth          2-3 (1-2)  Blackpool FC
 
 
-Matchday 37
-[Sat Mar/12]
-  15.00  Hartlepool United        0-1 (0-0)  Tranmere Rovers
+▪ Matchday 37
+Sat Mar 12
+  15:00  Hartlepool United        0-1 (0-0)  Tranmere Rovers
          Wrexham AFC              1-0 (0-0)  Oldham Athletic
          Walsall FC               1-2 (1-1)  AFC Bournemouth
          Stockport County         1-2 (1-1)  Colchester United
@@ -665,16 +665,16 @@ Matchday 37
          Peterborough United      2-2 (2-0)  Bradford City
 
 
-Matchday 30
-[Tue Mar/15]
-  19.45  Oldham Athletic          0-2 (0-0)  Brentford FC
+▪ Matchday 30
+Tue Mar 15
+  19:45  Oldham Athletic          0-2 (0-0)  Brentford FC
 
 
-Matchday 38
-[Fri Mar/18]
-  19.45  Tranmere Rovers          5-0 (3-0)  Peterborough United
-[Sat Mar/19]
-  15.00  Torquay United           0-4 (0-3)  Bristol City
+▪ Matchday 38
+Fri Mar 18
+  19:45  Tranmere Rovers          5-0 (3-0)  Peterborough United
+Sat Mar 19
+  15:00  Torquay United           0-4 (0-3)  Bristol City
          Swindon Town             4-2 (1-2)  Wrexham AFC
          Blackpool FC             1-1 (0-1)  Doncaster Rovers
          AFC Bournemouth          0-4 (0-2)  Hull City
@@ -687,29 +687,29 @@ Matchday 38
          Oldham Athletic          2-2 (1-1)  Luton Town
 
 
-Matchday 32
-[Tue Mar/22]
-  19.45  Blackpool FC             2-1 (2-0)  Brentford FC
+▪ Matchday 32
+Tue Mar 22
+  19:45  Blackpool FC             2-1 (2-0)  Brentford FC
 
 
-Matchday 39
-[Thu Mar/24]
-  19.45  Doncaster Rovers         1-1 (1-1)  Bradford City
-[Fri Mar/25]
-  19.45  Hartlepool United        0-1 (0-1)  Huddersfield Town
-  14.45  Luton Town               1-3 (0-3)  Barnsley FC
-  15.00  Peterborough United      0-3 (0-1)  Colchester United
+▪ Matchday 39
+Thu Mar 24
+  19:45  Doncaster Rovers         1-1 (1-1)  Bradford City
+Fri Mar 25
+  19:45  Hartlepool United        0-1 (0-1)  Huddersfield Town
+  14:45  Luton Town               1-3 (0-3)  Barnsley FC
+  15:00  Peterborough United      0-3 (0-1)  Colchester United
          Milton Keynes Dons       1-1 (1-1)  Swindon Town
-[Sat Mar/26]
-  13.00  Hull City                2-2 (1-1)  Port Vale FC
+Sat Mar 26
+  13:00  Hull City                2-2 (1-1)  Port Vale FC
          Walsall FC               0-1 (0-0)  Oldham Athletic
          Chesterfield FC          2-2 (1-0)  Tranmere Rovers
          Sheffield Wednesday      2-2 (0-1)  Torquay United
 
 
-Matchday 40
-[Mon Mar/28]
-  15.00  Blackpool FC             2-2 (1-2)  Hartlepool United
+▪ Matchday 40
+Mon Mar 28
+  15:00  Blackpool FC             2-2 (1-2)  Hartlepool United
          Tranmere Rovers          2-4 (2-2)  Doncaster Rovers
          Oldham Athletic          1-0 (0-0)  Hull City
          Colchester United        1-0 (0-0)  Chesterfield FC
@@ -718,15 +718,15 @@ Matchday 40
          Torquay United           1-4 (1-2)  Luton Town
          Barnsley FC              3-2 (1-0)  Walsall FC
          Bradford City            3-1 (2-1)  Stockport County
-[Tue Mar/29]
-  19.45  Huddersfield Town        1-0 (1-0)  Sheffield Wednesday
+Tue Mar 29
+  19:45  Huddersfield Town        1-0 (1-0)  Sheffield Wednesday
 
 
-Matchday 41
-[Fri Apr/1]
-  19.45  Doncaster Rovers         1-1 (0-1)  Colchester United
-[Sat Apr/2]
-  15.00  Stockport County         1-2 (0-0)  Brentford FC
+▪ Matchday 41
+Fri Apr 1
+  19:45  Doncaster Rovers         1-1 (0-1)  Colchester United
+Sat Apr 2
+  15:00  Stockport County         1-2 (0-0)  Brentford FC
          Walsall FC               1-1 (0-0)  Torquay United
          Wrexham AFC              1-2 (0-0)  AFC Bournemouth
          Peterborough United      1-2 (1-1)  Huddersfield Town
@@ -739,26 +739,26 @@ Matchday 41
          Hull City                2-1 (1-0)  Barnsley FC
 
 
-Matchday 42
-[Tue Apr/5]
-  19.45  Barnsley FC              2-2 (1-0)  Wrexham AFC
+▪ Matchday 42
+Tue Apr 5
+  19:45  Barnsley FC              2-2 (1-0)  Wrexham AFC
 
 
-Matchday 32
-[Tue Apr/5]
-  19.45  Hartlepool United        2-2 (2-0)  Peterborough United
+▪ Matchday 32
+Tue Apr 5
+  19:45  Hartlepool United        2-2 (2-0)  Peterborough United
 
 
-Matchday 39
-[Tue Apr/5]
-  19.45  Bristol City             0-2 (0-0)  AFC Bournemouth
+▪ Matchday 39
+Tue Apr 5
+  19:45  Bristol City             0-2 (0-0)  AFC Bournemouth
 
 
-Matchday 42
-[Fri Apr/8]
-  19.45  Tranmere Rovers          1-0 (0-0)  Stockport County
-[Sat Apr/9]
-  15.00  Huddersfield Town        3-1 (2-1)  Doncaster Rovers
+▪ Matchday 42
+Fri Apr 8
+  19:45  Tranmere Rovers          1-0 (0-0)  Stockport County
+Sat Apr 9
+  15:00  Huddersfield Town        3-1 (2-1)  Doncaster Rovers
          Oldham Athletic          1-1 (1-0)  Sheffield Wednesday
          Torquay United           1-0 (0-0)  Milton Keynes Dons
          Swindon Town             1-2 (0-1)  Walsall FC
@@ -767,30 +767,30 @@ Matchday 42
          Blackpool FC             0-1 (0-1)  Peterborough United
          Brentford FC             1-0 (1-0)  Bristol City
          Colchester United        1-1 (1-0)  Hartlepool United
-[Sun Apr/10]
-  13.00  Bradford City            0-2 (0-1)  Hull City
+Sun Apr 10
+  13:00  Bradford City            0-2 (0-1)  Hull City
 
 
-Matchday 33
-[Tue Apr/12]
-  19.45  Brentford FC             1-0 (0-0)  Tranmere Rovers
+▪ Matchday 33
+Tue Apr 12
+  19:45  Brentford FC             1-0 (0-0)  Tranmere Rovers
 
 
-Matchday 39
-[Tue Apr/12]
-  19.45  Stockport County         0-1 (0-1)  Blackpool FC
+▪ Matchday 39
+Tue Apr 12
+  19:45  Stockport County         0-1 (0-1)  Blackpool FC
 
 
-Matchday 40
-[Wed Apr/13]
-  19.45  Swindon Town             0-0  Bristol City
+▪ Matchday 40
+Wed Apr 13
+  19:45  Swindon Town             0-0  Bristol City
 
 
-Matchday 43
-[Fri Apr/15]
-  19.45  Hartlepool United        3-0 (2-0)  Sheffield Wednesday
-[Sat Apr/16]
-  15.00  Torquay United           1-0 (0-0)  Port Vale FC
+▪ Matchday 43
+Fri Apr 15
+  19:45  Hartlepool United        3-0 (2-0)  Sheffield Wednesday
+Sat Apr 16
+  15:00  Torquay United           1-0 (0-0)  Port Vale FC
          Stockport County         2-4 (2-1)  Doncaster Rovers
          Barnsley FC              2-2 (1-1)  Oldham Athletic
          Bradford City            4-1 (4-0)  Brentford FC
@@ -803,9 +803,9 @@ Matchday 43
          Tranmere Rovers          0-0  Blackpool FC
 
 
-Matchday 44
-[Sat Apr/23]
-  15.00  Wrexham AFC              1-2 (1-0)  Luton Town
+▪ Matchday 44
+Sat Apr 23
+  15:00  Wrexham AFC              1-2 (1-0)  Luton Town
          Walsall FC               3-0 (1-0)  Hull City
          AFC Bournemouth          0-1 (0-1)  Peterborough United
          Blackpool FC             1-0 (1-0)  Chesterfield FC
@@ -819,16 +819,16 @@ Matchday 44
          Swindon Town             2-1 (0-1)  Tranmere Rovers
 
 
-Matchday 40
-[Tue Apr/26]
-  19.45  Port Vale FC             0-2 (0-2)  Wrexham AFC
+▪ Matchday 40
+Tue Apr 26
+  19:45  Port Vale FC             0-2 (0-2)  Wrexham AFC
 
 
-Matchday 45
-[Fri Apr/29]
-  19.45  Tranmere Rovers          1-0 (1-0)  Port Vale FC
-[Sat Apr/30]
-  15.00  Torquay United           2-0 (1-0)  Blackpool FC
+▪ Matchday 45
+Fri Apr 29
+  19:45  Tranmere Rovers          1-0 (1-0)  Port Vale FC
+Sat Apr 30
+  15:00  Torquay United           2-0 (1-0)  Blackpool FC
          Barnsley FC              1-1 (1-0)  Colchester United
          Bradford City            4-2 (2-0)  AFC Bournemouth
          Bristol City             2-2 (0-1)  Doncaster Rovers
@@ -841,14 +841,14 @@ Matchday 45
          Stockport County         1-4 (1-4)  Wrexham AFC
 
 
-Matchday 39
-[Tue May/3]
-  19.45  Wrexham AFC              1-2 (1-0)  Brentford FC
+▪ Matchday 39
+Tue May 3
+  19:45  Wrexham AFC              1-2 (1-0)  Brentford FC
 
 
-Matchday 46
-[Sat May/7]
-  15.00  AFC Bournemouth          2-2 (2-1)  Hartlepool United
+▪ Matchday 46
+Sat May 7
+  15:00  AFC Bournemouth          2-2 (2-1)  Hartlepool United
          Blackpool FC             0-2 (0-1)  Barnsley FC
          Brentford FC             2-1 (1-1)  Hull City
          Colchester United        2-1 (1-0)  Torquay United

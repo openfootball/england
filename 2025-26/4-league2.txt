@@ -1,14 +1,14 @@
 = English League Two 2025/26
 
-# Date       Sat Aug/2 2025 - Sat May/2 2026 (273d)
+# Date       Sat Aug 2 2025 - Sat May 2 2026 (273d)
 # Teams      24
 # Matches    552
 
 
 
-» 1. Round
-  Sat Aug/2 2025
-    14.00  Accrington Stanley      v Gillingham FC            1-1 (0-0)
+▪ 1. Round
+  Sat Aug 2 2025
+    14:00  Accrington Stanley      v Gillingham FC            1-1 (0-0)
            Bristol Rovers          v Harrogate Town           0-1 (0-0)
            Cambridge United        v Cheltenham Town          1-0 (0-0)
            Colchester United       v Tranmere Rovers          1-1 (0-1)
@@ -22,11 +22,11 @@
            Walsall FC              v Swindon Town             2-1 (1-0)
 
 
-» 2. Round
-  Sat Aug/9
-    11.30  Notts County            v Salford City             1-2 (0-1)
+▪ 2. Round
+  Sat Aug 9
+    11:30  Notts County            v Salford City             1-2 (0-1)
            Tranmere Rovers         v Shrewsbury Town          4-0 (2-0)
-    14.00  Barrow AFC              v Milton Keynes Dons       0-2 (0-0)
+    14:00  Barrow AFC              v Milton Keynes Dons       0-2 (0-0)
            Bromley FC              v Barnet FC                2-0 (1-0)
            Cheltenham Town         v Chesterfield FC          0-2 (0-0)
            Crawley Town            v Newport County           1-2 (0-0)
@@ -38,11 +38,11 @@
            Swindon Town            v Cambridge United         3-2 (2-1)
 
 
-» 3. Round
-  Sat Aug/16
-    11.30  Chesterfield FC         v Bristol Rovers           3-1 (1-0)
+▪ 3. Round
+  Sat Aug 16
+    11:30  Chesterfield FC         v Bristol Rovers           3-1 (1-0)
            Oldham Athletic         v Swindon Town             1-2 (1-2)
-    14.00  Barrow AFC              v Notts County             2-1 (1-0)
+    14:00  Barrow AFC              v Notts County             2-1 (1-0)
            Bromley FC              v Fleetwood Town           2-2 (1-1)
            Cambridge United        v Harrogate Town           1-1 (1-0)
            Crewe Alexandra         v Crawley Town             1-0 (1-0)
@@ -54,10 +54,10 @@
            Tranmere Rovers         v Gillingham FC            1-1 (0-0)
 
 
-» 4. Round
-  Tue Aug/19
-    18.30  Newport County          v Salford City             0-1 (0-0)
-    18.45  Bristol Rovers          v Oldham Athletic          0-0
+▪ 4. Round
+  Tue Aug 19
+    18:30  Newport County          v Salford City             0-1 (0-0)
+    18:45  Bristol Rovers          v Oldham Athletic          0-0
            Cheltenham Town         v Bromley FC               1-2 (0-1)
            Colchester United       v Cambridge United         1-2 (1-2)
            Crawley Town            v Milton Keynes Dons       1-1 (1-0)
@@ -65,18 +65,18 @@
            Fleetwood Town          v Crewe Alexandra          1-4 (0-2)
            Harrogate Town          v Barrow AFC               1-0 (1-0)
            Swindon Town            v Barnet FC                0-2 (0-0)
-    19.00  Walsall FC              v Grimsby Town             0-1 (0-0)
-  Wed Aug/20
-    18.45  Notts County            v Shrewsbury Town          4-1 (2-1)
-  Tue Oct/28
-    18.45  Accrington Stanley      v Tranmere Rovers          1-1 (1-0)
+    19:00  Walsall FC              v Grimsby Town             0-1 (0-0)
+  Wed Aug 20
+    18:45  Notts County            v Shrewsbury Town          4-1 (2-1)
+  Tue Oct 28
+    18:45  Accrington Stanley      v Tranmere Rovers          1-1 (1-0)
 
 
-» 5. Round
-  Sat Aug/23
-    11.30  Newport County          v Milton Keynes Dons       1-2 (1-1)
+▪ 5. Round
+  Sat Aug 23
+    11:30  Newport County          v Milton Keynes Dons       1-2 (1-1)
            Walsall FC              v Salford City             1-0 (1-0)
-    14.00  Accrington Stanley      v Grimsby Town             1-1 (0-1)
+    14:00  Accrington Stanley      v Grimsby Town             1-1 (0-1)
            Bristol Rovers          v Cambridge United         1-0 (1-0)
            Cheltenham Town         v Barnet FC                0-1 (0-0)
            Colchester United       v Barrow AFC               0-2 (0-1)
@@ -88,13 +88,13 @@
            Swindon Town            v Shrewsbury Town          2-1 (1-0)
 
 
-» 6. Round
-  Fri Aug/29
-    18.45  Salford City            v Cheltenham Town          1-1 (0-0)
-  Sat Aug/30
-    11.30  Barrow AFC              v Fleetwood Town           0-1 (0-1)
+▪ 6. Round
+  Fri Aug 29
+    18:45  Salford City            v Cheltenham Town          1-1 (0-0)
+  Sat Aug 30
+    11:30  Barrow AFC              v Fleetwood Town           0-1 (0-1)
            Crewe Alexandra         v Swindon Town             0-3 (0-3)
-    14.00  Bromley FC              v Harrogate Town           2-0 (0-0)
+    14:00  Bromley FC              v Harrogate Town           2-0 (0-0)
            Cambridge United        v Newport County           2-0 (1-0)
            Barnet FC               v Colchester United        1-1 (0-1)
            Chesterfield FC         v Crawley Town             2-2 (0-2)
@@ -105,10 +105,10 @@
            Tranmere Rovers         v Notts County             1-2 (1-0)
 
 
-» 7. Round
-  Sat Sep/6
-    11.30  Newport County          v Bristol Rovers           2-3 (0-0)
-    14.00  Barrow AFC              v Swindon Town             1-3 (0-2)
+▪ 7. Round
+  Sat Sep 6
+    11:30  Newport County          v Bristol Rovers           2-3 (0-0)
+    14:00  Barrow AFC              v Swindon Town             1-3 (0-2)
            Cambridge United        v Oldham Athletic          0-1 (0-1)
            Cheltenham Town         v Accrington Stanley       1-0 (1-0)
            Colchester United       v Crewe Alexandra          1-1 (0-1)
@@ -118,14 +118,14 @@
            Notts County            v Fleetwood Town           1-0 (0-0)
            Salford City            v Tranmere Rovers          3-1 (0-0)
            Walsall FC              v Chesterfield FC          1-0 (1-0)
-    16.30  Bromley FC              v Gillingham FC            2-2 (2-0)
+    16:30  Bromley FC              v Gillingham FC            2-2 (2-0)
 
 
-» 8. Round
-  Sat Sep/13
-    11.30  Accrington Stanley      v Colchester United        1-0 (1-0)
+▪ 8. Round
+  Sat Sep 13
+    11:30  Accrington Stanley      v Colchester United        1-0 (1-0)
            Crawley Town            v Cheltenham Town          2-0 (0-0)
-    14.00  Bristol Rovers          v Barrow AFC               2-1 (2-0)
+    14:00  Bristol Rovers          v Barrow AFC               2-1 (2-0)
            Crewe Alexandra         v Barnet FC                1-2 (0-0)
            Chesterfield FC         v Milton Keynes Dons       1-1 (0-1)
            Gillingham FC           v Notts County             1-0 (0-0)
@@ -137,11 +137,11 @@
            Tranmere Rovers         v Newport County           1-1 (1-0)
 
 
-» 9. Round
-  Sat Sep/20
-    11.30  Cambridge United        v Fleetwood Town           2-1 (0-0)
+▪ 9. Round
+  Sat Sep 20
+    11:30  Cambridge United        v Fleetwood Town           2-1 (0-0)
            Harrogate Town          v Shrewsbury Town          2-0 (0-0)
-    14.00  Barrow AFC              v Crewe Alexandra          1-0 (0-0)
+    14:00  Barrow AFC              v Crewe Alexandra          1-0 (0-0)
            Bromley FC              v Chesterfield FC          2-2 (1-1)
            Cheltenham Town         v Oldham Athletic          0-3 (0-1)
            Colchester United       v Bristol Rovers           1-1 (0-1)
@@ -153,11 +153,11 @@
            Walsall FC              v Tranmere Rovers          4-2 (2-1)
 
 
-» 10. Round
-  Sat Sep/27
-    11.30  Crewe Alexandra         v Notts County             2-1 (1-1)
+▪ 10. Round
+  Sat Sep 27
+    11:30  Crewe Alexandra         v Notts County             2-1 (1-1)
            Oldham Athletic         v Barnet FC                1-1 (0-1)
-    14.00  Accrington Stanley      v Walsall FC               1-3 (0-0)
+    14:00  Accrington Stanley      v Walsall FC               1-3 (0-0)
            Bristol Rovers          v Salford City             2-1 (1-1)
            Crawley Town            v Barrow AFC               1-2 (0-2)
            Chesterfield FC         v Newport County           4-1 (2-0)
@@ -169,11 +169,11 @@
            Tranmere Rovers         v Cambridge United         0-0
 
 
-» 11. Round
-  Sat Oct/4
-    11.30  Milton Keynes Dons      v Gillingham FC            3-2 (1-0)
+▪ 11. Round
+  Sat Oct 4
+    11:30  Milton Keynes Dons      v Gillingham FC            3-2 (1-0)
            Newport County          v Swindon Town             0-1 (0-1)
-    14.00  Barrow AFC              v Shrewsbury Town          0-0
+    14:00  Barrow AFC              v Shrewsbury Town          0-0
            Bromley FC              v Tranmere Rovers          3-3 (2-1)
            Cambridge United        v Crawley Town             3-1 (1-0)
            Cheltenham Town         v Fleetwood Town           2-0 (0-0)
@@ -182,13 +182,13 @@
            Notts County            v Oldham Athletic          3-1 (2-0)
            Salford City            v Grimsby Town             0-2 (0-2)
            Walsall FC              v Bristol Rovers           2-1 (0-1)
-  Mon Oct/6
-    19.00  Harrogate Town          v Crewe Alexandra          1-2 (1-1)
+  Mon Oct 6
+    19:00  Harrogate Town          v Crewe Alexandra          1-2 (1-1)
 
 
-» 12. Round
-  Sat Oct/11
-    14.00  Accrington Stanley      v Newport County           0-1 (0-1)
+▪ 12. Round
+  Sat Oct 11
+    14:00  Accrington Stanley      v Newport County           0-1 (0-1)
            Bristol Rovers          v Milton Keynes Dons       0-4 (0-1)
            Crawley Town            v Walsall FC               1-1 (1-0)
            Crewe Alexandra         v Bromley FC               0-1 (0-0)
@@ -198,16 +198,16 @@
            Grimsby Town            v Colchester United        1-2 (1-1)
            Shrewsbury Town         v Cambridge United         2-0 (2-0)
            Tranmere Rovers         v Barnet FC                0-2 (0-2)
-    16.30  Oldham Athletic         v Barrow AFC               0-0
-  Tue Oct/21
-    18.45  Swindon Town            v Notts County             2-2 (1-1)
+    16:30  Oldham Athletic         v Barrow AFC               0-0
+  Tue Oct 21
+    18:45  Swindon Town            v Notts County             2-2 (1-1)
 
 
-» 13. Round
-  Sat Oct/18
-    11.30  Cambridge United        v Bromley FC               2-1 (2-0)
+▪ 13. Round
+  Sat Oct 18
+    11:30  Cambridge United        v Bromley FC               2-1 (2-0)
            Salford City            v Oldham Athletic          1-0 (1-0)
-    14.00  Accrington Stanley      v Swindon Town             4-0 (1-0)
+    14:00  Accrington Stanley      v Swindon Town             4-0 (1-0)
            Bristol Rovers          v Tranmere Rovers          1-4 (0-1)
            Colchester United       v Harrogate Town           3-1 (3-1)
            Barnet FC               v Notts County             0-1 (0-0)
@@ -219,11 +219,11 @@
            Walsall FC              v Barrow AFC               1-2 (0-1)
 
 
-» 14. Round
-  Sat Oct/25
-    11.30  Cheltenham Town         v Walsall FC               1-0 (0-0)
+▪ 14. Round
+  Sat Oct 25
+    11:30  Cheltenham Town         v Walsall FC               1-0 (0-0)
            Fleetwood Town          v Accrington Stanley       2-1 (0-1)
-    14.00  Barrow AFC              v Barnet FC                2-2 (1-0)
+    14:00  Barrow AFC              v Barnet FC                2-2 (1-0)
            Bromley FC              v Milton Keynes Dons       2-1 (0-1)
            Crawley Town            v Bristol Rovers           4-0 (1-0)
            Crewe Alexandra         v Grimsby Town             3-2 (2-2)
@@ -235,11 +235,11 @@
            Tranmere Rovers         v Chesterfield FC          1-1 (0-1)
 
 
-» 15. Round
-  Sat Nov/8
-    11.30  Colchester United       v Bromley FC             1-1 (0-1)
+▪ 15. Round
+  Sat Nov 8
+    11:30  Colchester United       v Bromley FC             1-1 (0-1)
            Crewe Alexandra         v Shrewsbury Town        2-0 (1-0)
-    14.00  Barrow AFC              v Grimsby Town           1-0 (0-0)
+    14:00  Barrow AFC              v Grimsby Town           1-0 (0-0)
            Bristol Rovers          v Gillingham FC          2-2 (1-1)
            Crawley Town            v Fleetwood Town         0-1 (0-1)
            Barnet FC               v Milton Keynes Dons     1-3 (0-2)
@@ -248,13 +248,13 @@
            Newport County          v Walsall FC             1-2 (0-1)
            Salford City            v Cambridge United       3-1 (2-0)
            Swindon Town            v Tranmere Rovers        1-1 (0-0)
-  Mon Nov/10
-    19.00  Cheltenham Town         v Notts County           0-2 (0-1)
+  Mon Nov 10
+    19:00  Cheltenham Town         v Notts County           0-2 (0-1)
 
 
-» 16. Round
-  Sat Nov/15
-    14.00  Accrington Stanley      v Bristol Rovers         0-2 (0-1)
+▪ 16. Round
+  Sat Nov 15
+    14:00  Accrington Stanley      v Bristol Rovers         0-2 (0-1)
            Bromley FC              v Barrow AFC             1-1 (0-0)
            Cambridge United        v Barnet FC              2-0 (1-0)
            Fleetwood Town          v Swindon Town           1-0 (0-0)
@@ -265,14 +265,14 @@
            Shrewsbury Town         v Newport County         1-1 (1-0)
            Tranmere Rovers         v Cheltenham Town        0-0
            Walsall FC              v Colchester United      2-1 (1-0)
-    16.30  Gillingham FC           v Crawley Town           2-1 (1-1)
+    16:30  Gillingham FC           v Crawley Town           2-1 (1-1)
 
 
-» 17. Round
-  Sat Nov/22
-    11.30  Gillingham FC           v Barnet FC              1-0 (0-0)
+▪ 17. Round
+  Sat Nov 22
+    11:30  Gillingham FC           v Barnet FC              1-0 (0-0)
            Harrogate Town          v Walsall FC             1-2 (0-1)
-    14.00  Barrow AFC              v Cambridge United       0-1 (0-0)
+    14:00  Barrow AFC              v Cambridge United       0-1 (0-0)
            Bromley FC              v Salford City           2-2 (1-1)
            Cheltenham Town         v Bristol Rovers         0-3 (0-2)
            Crawley Town            v Accrington Stanley     1-1 (1-0)
@@ -284,9 +284,9 @@
            Tranmere Rovers         v Milton Keynes Dons     0-2 (0-1)
 
 
-» 18. Round
-  Sat Nov/29
-    14.00  Accrington Stanley      v Oldham Athletic        1-0 (0-0)
+▪ 18. Round
+  Sat Nov 29
+    14:00  Accrington Stanley      v Oldham Athletic        1-0 (0-0)
            Bristol Rovers          v Notts County           1-1 (0-1)
            Cambridge United        v Crewe Alexandra        0-0
            Colchester United       v Cheltenham Town        2-1 (1-0)
@@ -300,9 +300,9 @@
            Walsall FC              v Bromley FC             1-1 (0-0)
 
 
-» 19. Round
-  Tue Dec/9
-    18.45  Barrow AFC              v Tranmere Rovers        1-0 (0-0)
+▪ 19. Round
+  Tue Dec 9
+    18:45  Barrow AFC              v Tranmere Rovers        1-0 (0-0)
            Bromley FC              v Crawley Town           2-0 (1-0)
            Cambridge United        v Chesterfield FC        1-1 (0-1)
            Colchester United       v Gillingham FC          0-2 (0-1)
@@ -316,9 +316,9 @@
            Swindon Town            v Cheltenham Town        3-1 (2-0)
 
 
-» 20. Round
-  Sat Dec/13
-    14.00  Accrington Stanley      v Bromley FC             1-1 (0-0)
+▪ 20. Round
+  Sat Dec 13
+    14:00  Accrington Stanley      v Bromley FC             1-1 (0-0)
            Bristol Rovers          v Swindon Town           2-0 (1-0)
            Cheltenham Town         v Harrogate Town         0-0
            Crawley Town            v Oldham Athletic        1-2 (0-1)
@@ -332,9 +332,9 @@
            Walsall FC              v Shrewsbury Town        2-1 (1-0)
 
 
-» 21. Round
-  Sat Dec/20
-    14.00  Barrow AFC              v Cheltenham Town        1-0 (0-0)
+▪ 21. Round
+  Sat Dec 20
+    14:00  Barrow AFC              v Cheltenham Town        1-0 (0-0)
            Bromley FC              v Grimsby Town           2-1 (1-0)
            Cambridge United        v Accrington Stanley     2-0 (1-0)
            Colchester United       v Newport County         1-1 (0-1)
@@ -348,9 +348,9 @@
            Swindon Town            v Crawley Town           1-0 (0-0)
 
 
-» 22. Round
-  Fri Dec/26
-    14.00  Accrington Stanley      v Barrow AFC             1-1 (1-0)
+▪ 22. Round
+  Fri Dec 26
+    14:00  Accrington Stanley      v Barrow AFC             1-1 (1-0)
            Bristol Rovers          v Bromley FC             2-0 (1-0)
            Cheltenham Town         v Shrewsbury Town        0-1 (0-0)
            Crawley Town            v Colchester United      1-2 (0-1)
@@ -364,10 +364,10 @@
            Walsall FC              v Crewe Alexandra        1-1 (0-0)
 
 
-» 23. Round
-  Mon Dec/29
-    18.30  Newport County          v Crewe Alexandra        1-2 (0-1)
-    18.45  Accrington Stanley      v Harrogate Town         1-0 (0-0)
+▪ 23. Round
+  Mon Dec 29
+    18:30  Newport County          v Crewe Alexandra        1-2 (0-1)
+    18:45  Accrington Stanley      v Harrogate Town         1-0 (0-0)
            Bristol Rovers          v Barnet FC              3-0 (1-0)
            Cheltenham Town         v Swindon Town           1-1 (0-0)
            Crawley Town            v Bromley FC             0-2 (0-1)
@@ -380,9 +380,9 @@
            Walsall FC              v Oldham Athletic        1-0 (0-0)
 
 
-» 24. Round
-  Thu Jan/1 2026
-    14.00  Barrow AFC              v Salford City
+▪ 24. Round
+  Thu Jan 1 2026
+    14:00  Barrow AFC              v Salford City
            Bromley FC              v Newport County
            Cambridge United        v Walsall FC
            Colchester United       v Milton Keynes Dons
@@ -396,9 +396,9 @@
            Swindon Town            v Gillingham FC
 
 
-» 24. Round
-  Thu Jan/1 2026
-    14.00  Barrow AFC              v Salford City
+▪ 24. Round
+  Thu Jan 1 2026
+    14:00  Barrow AFC              v Salford City
            Bromley FC              v Newport County
            Cambridge United        v Walsall FC
            Colchester United       v Milton Keynes Dons
@@ -412,9 +412,9 @@
            Swindon Town            v Gillingham FC
 
 
-» 25. Round
-  Sun Jan/4
-    14.00  Barrow AFC              v Bristol Rovers
+▪ 25. Round
+  Sun Jan 4
+    14:00  Barrow AFC              v Bristol Rovers
            Bromley FC              v Oldham Athletic
            Cambridge United        v Grimsby Town
            Cheltenham Town         v Crawley Town
@@ -428,9 +428,9 @@
            Walsall FC              v Fleetwood Town
 
 
-» 26. Round
-  Sat Jan/10
-    14.00  Accrington Stanley      v Barnet FC
+▪ 26. Round
+  Sat Jan 10
+    14:00  Accrington Stanley      v Barnet FC
            Bristol Rovers          v Walsall FC
            Crawley Town            v Cambridge United
            Crewe Alexandra         v Harrogate Town
@@ -444,9 +444,9 @@
            Tranmere Rovers         v Bromley FC
 
 
-» 27. Round
-  Sat Jan/17
-    14.00  Accrington Stanley      v Milton Keynes Dons
+▪ 27. Round
+  Sat Jan 17
+    14:00  Accrington Stanley      v Milton Keynes Dons
            Bristol Rovers          v Colchester United
            Crawley Town            v Notts County
            Crewe Alexandra         v Barrow AFC
@@ -460,9 +460,9 @@
            Tranmere Rovers         v Walsall FC
 
 
-» 28. Round
-  Sat Jan/24
-    14.00  Barrow AFC              v Crawley Town
+▪ 28. Round
+  Sat Jan 24
+    14:00  Barrow AFC              v Crawley Town
            Bromley FC              v Swindon Town
            Cambridge United        v Tranmere Rovers
            Cheltenham Town         v Grimsby Town
@@ -476,10 +476,10 @@
            Walsall FC              v Accrington Stanley
 
 
-» 29. Round
-  Tue Jan/27
-    18.30  Newport County          v Accrington Stanley
-    18.45  Barrow AFC              v Oldham Athletic
+▪ 29. Round
+  Tue Jan 27
+    18:30  Newport County          v Accrington Stanley
+    18:45  Barrow AFC              v Oldham Athletic
            Bromley FC              v Crewe Alexandra
            Cambridge United        v Shrewsbury Town
            Cheltenham Town         v Gillingham FC
@@ -492,9 +492,9 @@
            Walsall FC              v Crawley Town
 
 
-» 30. Round
-  Sat Jan/31
-    14.00  Accrington Stanley      v Cheltenham Town
+▪ 30. Round
+  Sat Jan 31
+    14:00  Accrington Stanley      v Cheltenham Town
            Bristol Rovers          v Newport County
            Crawley Town            v Harrogate Town
            Crewe Alexandra         v Colchester United
@@ -508,9 +508,9 @@
            Tranmere Rovers         v Salford City
 
 
-» 31. Round
-  Sat Feb/7
-    14.00  Accrington Stanley      v Salford City
+▪ 31. Round
+  Sat Feb 7
+    14:00  Accrington Stanley      v Salford City
            Bristol Rovers          v Chesterfield FC
            Cheltenham Town         v Milton Keynes Dons
            Colchester United       v Shrewsbury Town
@@ -524,9 +524,9 @@
            Walsall FC              v Barnet FC
 
 
-» 32. Round
-  Sat Feb/14
-    14.00  Barrow AFC              v Colchester United
+▪ 32. Round
+  Sat Feb 14
+    14:00  Barrow AFC              v Colchester United
            Bromley FC              v Notts County
            Cambridge United        v Bristol Rovers
            Crewe Alexandra         v Gillingham FC
@@ -540,9 +540,9 @@
            Tranmere Rovers         v Crawley Town
 
 
-» 33. Round
-  Tue Feb/17
-    18.45  Barrow AFC              v Harrogate Town
+▪ 33. Round
+  Tue Feb 17
+    18:45  Barrow AFC              v Harrogate Town
            Bromley FC              v Cheltenham Town
            Cambridge United        v Colchester United
            Crewe Alexandra         v Fleetwood Town
@@ -556,9 +556,9 @@
            Tranmere Rovers         v Accrington Stanley
 
 
-» 34. Round
-  Sat Feb/21
-    14.00  Accrington Stanley      v Shrewsbury Town
+▪ 34. Round
+  Sat Feb 21
+    14:00  Accrington Stanley      v Shrewsbury Town
            Bristol Rovers          v Grimsby Town
            Cheltenham Town         v Salford City
            Colchester United       v Barnet FC
@@ -572,9 +572,9 @@
            Walsall FC              v Milton Keynes Dons
 
 
-» 35. Round
-  Sat Feb/28
-    14.00  Barrow AFC              v Gillingham FC
+▪ 35. Round
+  Sat Feb 28
+    14:00  Barrow AFC              v Gillingham FC
            Bromley FC              v Accrington Stanley
            Cambridge United        v Milton Keynes Dons
            Colchester United       v Salford City
@@ -588,9 +588,9 @@
            Swindon Town            v Bristol Rovers
 
 
-» 36. Round
-  Sat Mar/7
-    14.00  Accrington Stanley      v Cambridge United
+▪ 36. Round
+  Sat Mar 7
+    14:00  Accrington Stanley      v Cambridge United
            Bristol Rovers          v Crewe Alexandra
            Cheltenham Town         v Barrow AFC
            Crawley Town            v Swindon Town
@@ -604,9 +604,9 @@
            Walsall FC              v Notts County
 
 
-» 37. Round
-  Sat Mar/14
-    14.00  Barrow AFC              v Accrington Stanley
+▪ 37. Round
+  Sat Mar 14
+    14:00  Barrow AFC              v Accrington Stanley
            Bromley FC              v Bristol Rovers
            Cambridge United        v Gillingham FC
            Colchester United       v Crawley Town
@@ -620,10 +620,10 @@
            Swindon Town            v Milton Keynes Dons
 
 
-» 38. Round
-  Tue Mar/17
-    18.30  Newport County          v Bromley FC
-    18.45  Accrington Stanley      v Notts County
+▪ 38. Round
+  Tue Mar 17
+    18:30  Newport County          v Bromley FC
+    18:45  Accrington Stanley      v Notts County
            Bristol Rovers          v Shrewsbury Town
            Cheltenham Town         v Crewe Alexandra
            Crawley Town            v Barnet FC
@@ -636,9 +636,9 @@
            Walsall FC              v Cambridge United
 
 
-» 39. Round
-  Sat Mar/21
-    14.00  Accrington Stanley      v Chesterfield FC
+▪ 39. Round
+  Sat Mar 21
+    14:00  Accrington Stanley      v Chesterfield FC
            Bromley FC              v Colchester United
            Cambridge United        v Salford City
            Gillingham FC           v Bristol Rovers
@@ -652,9 +652,9 @@
            Walsall FC              v Newport County
 
 
-» 40. Round
-  Sat Mar/28
-    14.00  Barrow AFC              v Bromley FC
+▪ 40. Round
+  Sat Mar 28
+    14:00  Barrow AFC              v Bromley FC
            Bristol Rovers          v Accrington Stanley
            Cheltenham Town         v Tranmere Rovers
            Colchester United       v Walsall FC
@@ -668,9 +668,9 @@
            Swindon Town            v Fleetwood Town
 
 
-» 41. Round
-  Fri Apr/3
-    14.00  Accrington Stanley      v Crewe Alexandra
+▪ 41. Round
+  Fri Apr 3
+    14:00  Accrington Stanley      v Crewe Alexandra
            Bristol Rovers          v Fleetwood Town
            Cambridge United        v Swindon Town
            Colchester United       v Oldham Athletic
@@ -684,9 +684,9 @@
            Walsall FC              v Gillingham FC
 
 
-» 42. Round
-  Mon Apr/6
-    14.00  Barrow AFC              v Chesterfield FC
+▪ 42. Round
+  Mon Apr 6
+    14:00  Barrow AFC              v Chesterfield FC
            Bromley FC              v Shrewsbury Town
            Cheltenham Town         v Cambridge United
            Crawley Town            v Grimsby Town
@@ -700,9 +700,9 @@
            Tranmere Rovers         v Colchester United
 
 
-» 43. Round
-  Sat Apr/11
-    14.00  Accrington Stanley      v Fleetwood Town
+▪ 43. Round
+  Sat Apr 11
+    14:00  Accrington Stanley      v Fleetwood Town
            Bristol Rovers          v Crawley Town
            Cambridge United        v Notts County
            Colchester United       v Swindon Town
@@ -716,9 +716,9 @@
            Walsall FC              v Cheltenham Town
 
 
-» 44. Round
-  Sat Apr/18
-    14.00  Barrow AFC              v Walsall FC
+▪ 44. Round
+  Sat Apr 18
+    14:00  Barrow AFC              v Walsall FC
            Bromley FC              v Cambridge United
            Cheltenham Town         v Newport County
            Crawley Town            v Shrewsbury Town
@@ -732,9 +732,9 @@
            Tranmere Rovers         v Bristol Rovers
 
 
-» 45. Round
-  Sat Apr/25
-    14.00  Accrington Stanley      v Crawley Town
+▪ 45. Round
+  Sat Apr 25
+    14:00  Accrington Stanley      v Crawley Town
            Bristol Rovers          v Cheltenham Town
            Cambridge United        v Barrow AFC
            Colchester United       v Notts County
@@ -748,9 +748,9 @@
            Walsall FC              v Harrogate Town
 
 
-» 46. Round
-  Sat May/2
-    14.00  Barrow AFC              v Newport County
+▪ 46. Round
+  Sat May 2
+    14:00  Barrow AFC              v Newport County
            Bromley FC              v Walsall FC
            Cheltenham Town         v Colchester United
            Crawley Town            v Salford City

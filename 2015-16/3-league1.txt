@@ -1,14 +1,14 @@
 = English League One 2015/16
 
-# Date       Sat Aug/8 2015 - Sun May/8 2016 (274d)
+# Date       Sat Aug 8 2015 - Sun May 8 2016 (274d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/8]
-  15.00  Burton Albion            2-1 (0-0)  Scunthorpe United
+▪ Matchday 1
+Sat Aug 8
+  15:00  Burton Albion            2-1 (0-0)  Scunthorpe United
          Chesterfield FC          3-1 (0-1)  Barnsley FC
          Colchester United        2-2 (1-2)  Blackpool FC
          Coventry City            2-0 (1-0)  Wigan Athletic
@@ -22,9 +22,9 @@ Matchday 1
          Walsall FC               1-1 (1-0)  Oldham Athletic
 
 
-Matchday 2
-[Sat Aug/15]
-  15.00  Barnsley FC              1-0 (0-0)  Burton Albion
+▪ Matchday 2
+Sat Aug 15
+  15:00  Barnsley FC              1-0 (0-0)  Burton Albion
          Blackpool FC             0-2 (0-0)  Rochdale AFC
          Bradford City            1-1 (1-0)  Shrewsbury Town
          Bury FC                  2-2 (1-0)  Swindon Town
@@ -35,14 +35,14 @@ Matchday 2
          Scunthorpe United        2-0 (1-0)  Crewe Alexandra
          Sheffield United         2-0 (1-0)  Chesterfield FC
          Southend United          0-2 (0-1)  Walsall FC
-[Sun Aug/16]
-  12.30  Wigan Athletic           0-0  Doncaster Rovers
+Sun Aug 16
+  12:30  Wigan Athletic           0-0  Doncaster Rovers
 
 
-Matchday 3
-[Tue Aug/18]
-  19.30  Peterborough United      1-3 (0-1)  Sheffield United
-  19.45  Blackpool FC             1-2 (1-0)  Burton Albion
+▪ Matchday 3
+Tue Aug 18
+  19:30  Peterborough United      1-3 (0-1)  Sheffield United
+  19:45  Blackpool FC             1-2 (1-0)  Burton Albion
          Bradford City            1-2 (1-0)  Gillingham FC
          Bury FC                  3-4 (2-2)  Fleetwood Town
          Colchester United        0-0  Oldham Athletic
@@ -51,14 +51,14 @@ Matchday 3
          Rochdale AFC             1-2 (0-0)  Walsall FC
          Shrewsbury Town          1-2 (0-0)  Chesterfield FC
          Swindon Town             2-2 (1-1)  Port Vale FC
-[Wed Aug/19]
-  19.45  Wigan Athletic           3-0 (2-0)  Scunthorpe United
+Wed Aug 19
+  19:45  Wigan Athletic           3-0 (2-0)  Scunthorpe United
          Doncaster Rovers         0-0  Southend United
 
 
-Matchday 4
-[Sat Aug/22]
-  15.00  Barnsley FC              0-0  Bradford City
+▪ Matchday 4
+Sat Aug 22
+  15:00  Barnsley FC              0-0  Bradford City
          Burton Albion            2-1 (1-0)  Peterborough United
          Chesterfield FC          0-0  Rochdale AFC
          Crewe Alexandra          3-3 (2-2)  Bury FC
@@ -72,9 +72,9 @@ Matchday 4
          Walsall FC               2-1 (1-0)  Coventry City
 
 
-Matchday 5
-[Sat Aug/29]
-  15.00  Blackpool FC             0-4 (0-1)  Walsall FC
+▪ Matchday 5
+Sat Aug 29
+  15:00  Blackpool FC             0-4 (0-1)  Walsall FC
          Bradford City            1-0 (0-0)  Port Vale FC
          Bury FC                  1-1 (0-1)  Oldham Athletic
          Colchester United        2-2 (1-2)  Scunthorpe United
@@ -85,14 +85,14 @@ Matchday 5
          Shrewsbury Town          0-1 (0-0)  Burton Albion
          Swindon Town             0-2 (0-0)  Sheffield United
          Wigan Athletic           1-0 (1-0)  Crewe Alexandra
-[Mon Aug/31]
-  19.45  Coventry City            2-2 (1-2)  Southend United
+Mon Aug 31
+  19:45  Coventry City            2-2 (1-2)  Southend United
 
 
-Matchday 6
-[Sat Sep/5]
-  12.05  Southend United          2-1 (1-0)  Peterborough United
-  15.00  Barnsley FC              1-2 (1-1)  Shrewsbury Town
+▪ Matchday 6
+Sat Sep 5
+  12:05  Southend United          2-1 (1-0)  Peterborough United
+  15:00  Barnsley FC              1-2 (1-1)  Shrewsbury Town
          Chesterfield FC          2-3 (0-0)  Wigan Athletic
          Crewe Alexandra          1-3 (0-0)  Swindon Town
          Fleetwood Town           1-1 (0-0)  Rochdale AFC
@@ -100,13 +100,13 @@ Matchday 6
          Oldham Athletic          1-2 (0-1)  Bradford City
          Scunthorpe United        0-1 (0-1)  Blackpool FC
          Walsall FC               0-1 (0-1)  Bury FC
-[Sun Sep/6]
-  14.30  Burton Albion            1-2 (1-1)  Coventry City
+Sun Sep 6
+  14:30  Burton Albion            1-2 (1-1)  Coventry City
 
 
-Matchday 7
-[Sat Sep/12]
-  15.00  Walsall FC               2-0 (0-0)  Doncaster Rovers
+▪ Matchday 7
+Sat Sep 12
+  15:00  Walsall FC               2-0 (0-0)  Doncaster Rovers
          Southend United          0-1 (0-0)  Shrewsbury Town
          Barnsley FC              4-1 (2-1)  Swindon Town
          Burton Albion            1-0 (1-0)  Rochdale AFC
@@ -120,15 +120,15 @@ Matchday 7
          Sheffield United         1-3 (0-0)  Bury FC
 
 
-Matchday 6
-[Tue Sep/15]
-  19.45  Port Vale FC             0-2 (0-0)  Millwall FC
+▪ Matchday 6
+Tue Sep 15
+  19:45  Port Vale FC             0-2 (0-0)  Millwall FC
          Sheffield United         2-3 (0-2)  Colchester United
 
 
-Matchday 8
-[Sat Sep/19]
-  15.00  Blackpool FC             1-1 (0-1)  Barnsley FC
+▪ Matchday 8
+Sat Sep 19
+  15:00  Blackpool FC             1-1 (0-1)  Barnsley FC
          Bury FC                  1-0 (0-0)  Port Vale FC
          Colchester United        2-1 (2-1)  Gillingham FC
          Coventry City            1-0 (0-0)  Chesterfield FC
@@ -139,13 +139,13 @@ Matchday 8
          Shrewsbury Town          0-1 (0-1)  Crewe Alexandra
          Swindon Town             0-1 (0-1)  Burton Albion
          Wigan Athletic           2-1 (1-0)  Fleetwood Town
-[Sun Sep/20]
-  12.00  Bradford City            2-2 (1-0)  Sheffield United
+Sun Sep 20
+  12:00  Bradford City            2-2 (1-0)  Sheffield United
 
 
-Matchday 9
-[Sat Sep/26]
-  15.00  Barnsley FC              2-0 (2-0)  Gillingham FC
+▪ Matchday 9
+Sat Sep 26
+  15:00  Barnsley FC              2-0 (2-0)  Gillingham FC
          Bradford City            0-2 (0-0)  Peterborough United
          Bury FC                  2-1 (1-0)  Coventry City
          Chesterfield FC          1-2 (1-0)  Burton Albion
@@ -159,9 +159,9 @@ Matchday 9
          Walsall FC               1-1 (1-1)  Crewe Alexandra
 
 
-Matchday 10
-[Tue Sep/29]
-  19.45  Blackpool FC             2-0 (1-0)  Chesterfield FC
+▪ Matchday 10
+Tue Sep 29
+  19:45  Blackpool FC             2-0 (1-0)  Chesterfield FC
          Burton Albion            0-0  Sheffield United
          Colchester United        2-0 (2-0)  Bradford City
          Crewe Alexandra          1-2 (0-0)  Southend United
@@ -174,9 +174,9 @@ Matchday 10
          Wigan Athletic           2-2 (0-0)  Millwall FC
 
 
-Matchday 11
-[Sat Oct/3]
-  15.00  Scunthorpe United        1-0 (0-0)  Fleetwood Town
+▪ Matchday 11
+Sat Oct 3
+  15:00  Scunthorpe United        1-0 (0-0)  Fleetwood Town
          Blackpool FC             1-0 (1-0)  Swindon Town
          Burton Albion            1-0 (0-0)  Southend United
          Colchester United        0-1 (0-0)  Bury FC
@@ -190,9 +190,9 @@ Matchday 11
          Wigan Athletic           0-0  Walsall FC
 
 
-Matchday 12
-[Sat Oct/10]
-  15.00  Walsall FC               2-0 (1-0)  Burton Albion
+▪ Matchday 12
+Sat Oct 10
+  15:00  Walsall FC               2-0 (1-0)  Burton Albion
          Barnsley FC              1-2 (1-1)  Crewe Alexandra
          Bury FC                  2-2 (1-0)  Wigan Athletic
          Chesterfield FC          1-3 (1-1)  Gillingham FC
@@ -204,9 +204,9 @@ Matchday 12
          Swindon Town             1-2 (0-1)  Peterborough United
 
 
-Matchday 13
-[Sat Oct/17]
-  15.00  Walsall FC               1-2 (0-1)  Chesterfield FC
+▪ Matchday 13
+Sat Oct 17
+  15:00  Walsall FC               1-2 (0-1)  Chesterfield FC
          Southend United          2-1 (2-1)  Barnsley FC
          Scunthorpe United        2-1 (0-1)  Shrewsbury Town
          Bury FC                  0-0  Rochdale AFC
@@ -220,9 +220,9 @@ Matchday 13
          Wigan Athletic           5-0 (4-0)  Colchester United
 
 
-Matchday 14
-[Tue Oct/20]
-  19.45  Shrewsbury Town          1-2 (1-1)  Doncaster Rovers
+▪ Matchday 14
+Tue Oct 20
+  19:45  Shrewsbury Town          1-2 (1-1)  Doncaster Rovers
          Sheffield United         3-0 (1-0)  Fleetwood Town
          Rochdale AFC             0-0  Coventry City
          Barnsley FC              0-2 (0-0)  Walsall FC
@@ -236,13 +236,13 @@ Matchday 14
          Swindon Town             1-2 (0-1)  Oldham Athletic
 
 
-Matchday 15
-[Sat Oct/24]
-  15.00  Bradford City            1-1 (0-0)  Wigan Athletic
+▪ Matchday 15
+Sat Oct 24
+  15:00  Bradford City            1-1 (0-0)  Wigan Athletic
          Swindon Town             2-2 (0-0)  Coventry City
          Shrewsbury Town          2-0 (1-0)  Bury FC
-  12.15  Sheffield United         1-2 (0-1)  Millwall FC
-  15.00  Barnsley FC              0-1 (0-1)  Fleetwood Town
+  12:15  Sheffield United         1-2 (0-1)  Millwall FC
+  15:00  Barnsley FC              0-1 (0-1)  Fleetwood Town
          Blackpool FC             2-0 (0-0)  Crewe Alexandra
          Rochdale AFC             0-0  Oldham Athletic
          Burton Albion            2-0 (0-0)  Port Vale FC
@@ -252,14 +252,14 @@ Matchday 15
          Peterborough United      4-0 (2-0)  Doncaster Rovers
 
 
-Matchday 12
-[Tue Oct/27]
-  19.45  Millwall FC              2-0 (2-0)  Doncaster Rovers
+▪ Matchday 12
+Tue Oct 27
+  19:45  Millwall FC              2-0 (2-0)  Doncaster Rovers
 
 
-Matchday 16
-[Sat Oct/31]
-  15.00  Walsall FC               3-2 (2-2)  Gillingham FC
+▪ Matchday 16
+Sat Oct 31
+  15:00  Walsall FC               3-2 (2-2)  Gillingham FC
          Fleetwood Town           0-1 (0-1)  Chesterfield FC
          Bury FC                  4-3 (4-2)  Blackpool FC
          Coventry City            3-2 (0-2)  Peterborough United
@@ -273,20 +273,20 @@ Matchday 16
          Southend United          2-2 (2-0)  Rochdale AFC
 
 
-Matchday 10
-[Tue Nov/3]
-  19.45  Coventry City            4-3 (2-0)  Barnsley FC
+▪ Matchday 10
+Tue Nov 3
+  19:45  Coventry City            4-3 (2-0)  Barnsley FC
 
 
-Matchday 12
-[Tue Nov/3]
-  19.45  Bradford City            1-0 (1-0)  Blackpool FC
+▪ Matchday 12
+Tue Nov 3
+  19:45  Bradford City            1-0 (1-0)  Blackpool FC
 
 
-Matchday 17
-[Sat Nov/14]
-  12.30  Rochdale AFC             0-2 (0-1)  Wigan Athletic
-  15.00  Barnsley FC              1-2 (0-1)  Port Vale FC
+▪ Matchday 17
+Sat Nov 14
+  12:30  Rochdale AFC             0-2 (0-1)  Wigan Athletic
+  15:00  Barnsley FC              1-2 (0-1)  Port Vale FC
          Blackpool FC             0-2 (0-2)  Doncaster Rovers
          Bradford City            2-0 (1-0)  Crewe Alexandra
          Chesterfield FC          1-2 (1-0)  Oldham Athletic
@@ -297,9 +297,9 @@ Matchday 17
          Swindon Town             2-1 (0-0)  Scunthorpe United
 
 
-Matchday 18
-[Sat Nov/21]
-  15.00  Wigan Athletic           1-0 (1-0)  Shrewsbury Town
+▪ Matchday 18
+Sat Nov 21
+  15:00  Wigan Athletic           1-0 (1-0)  Shrewsbury Town
          Walsall FC               1-1 (0-0)  Sheffield United
          Bury FC                  1-0 (1-0)  Burton Albion
          Coventry City            4-1 (4-0)  Gillingham FC
@@ -313,9 +313,9 @@ Matchday 18
          Southend United          1-0 (0-0)  Blackpool FC
 
 
-Matchday 19
-[Tue Nov/24]
-  19.45  Wigan Athletic           0-1 (0-0)  Burton Albion
+▪ Matchday 19
+Tue Nov 24
+  19:45  Wigan Athletic           0-1 (0-0)  Burton Albion
          Sheffield United         2-4 (1-3)  Shrewsbury Town
          Bradford City            0-0  Coventry City
          Bury FC                  1-2 (0-1)  Scunthorpe United
@@ -329,12 +329,12 @@ Matchday 19
          Swindon Town             2-1 (1-0)  Walsall FC
 
 
-Matchday 20
-[Sat Nov/28]
-  15.00  Southend United          0-0  Wigan Athletic
+▪ Matchday 20
+Sat Nov 28
+  15:00  Southend United          0-0  Wigan Athletic
          Walsall FC               2-1 (1-0)  Bradford City
-  12.15  Barnsley FC              1-1 (0-1)  Sheffield United
-  15.00  Blackpool FC             1-0 (1-0)  Fleetwood Town
+  12:15  Barnsley FC              1-1 (0-1)  Sheffield United
+  15:00  Blackpool FC             1-0 (1-0)  Fleetwood Town
          Burton Albion            5-1 (2-1)  Colchester United
          Chesterfield FC          0-4 (0-2)  Swindon Town
          Coventry City            2-2 (1-0)  Doncaster Rovers
@@ -345,15 +345,15 @@ Matchday 20
          Shrewsbury Town          2-2 (1-1)  Gillingham FC
 
 
-Matchday 17
-[Tue Dec/1]
-  19.45  Shrewsbury Town          1-3 (1-1)  Walsall FC
+▪ Matchday 17
+Tue Dec 1
+  19:45  Shrewsbury Town          1-3 (1-1)  Walsall FC
          Burton Albion            2-1 (2-0)  Millwall FC
 
 
-Matchday 21
-[Sat Dec/12]
-  15.00  Bury FC                  1-0 (0-0)  Chesterfield FC
+▪ Matchday 21
+Sat Dec 12
+  15:00  Bury FC                  1-0 (0-0)  Chesterfield FC
          Colchester United        2-3 (0-2)  Barnsley FC
          Doncaster Rovers         3-2 (1-1)  Crewe Alexandra
          Gillingham FC            0-3 (0-0)  Burton Albion
@@ -361,15 +361,15 @@ Matchday 21
          Port Vale FC             1-1 (1-1)  Scunthorpe United
          Swindon Town             2-1 (2-0)  Rochdale AFC
          Wigan Athletic           0-1 (0-1)  Blackpool FC
-[Sun Dec/13]
-  12.00  Sheffield United         1-0 (0-0)  Coventry City
+Sun Dec 13
+  12:00  Sheffield United         1-0 (0-0)  Coventry City
 
 
-Matchday 22
-[Fri Dec/18]
-  19.45  Southend United          4-1 (2-1)  Bury FC
-[Sat Dec/19]
-  15.00  Rochdale AFC             3-1 (2-1)  Colchester United
+▪ Matchday 22
+Fri Dec 18
+  19:45  Southend United          4-1 (2-1)  Bury FC
+Sat Dec 19
+  15:00  Rochdale AFC             3-1 (2-1)  Colchester United
          Scunthorpe United        0-1 (0-0)  Sheffield United
          Shrewsbury Town          0-1 (0-1)  Swindon Town
          Barnsley FC              0-2 (0-1)  Wigan Athletic
@@ -379,13 +379,13 @@ Matchday 22
          Coventry City            1-1 (0-0)  Oldham Athletic
          Crewe Alexandra          1-1 (1-1)  Fleetwood Town
          Millwall FC              0-3 (0-2)  Gillingham FC
-[Sun Dec/20]
-  12.00  Walsall FC               2-0 (0-0)  Port Vale FC
+Sun Dec 20
+  12:00  Walsall FC               2-0 (0-0)  Port Vale FC
 
 
-Matchday 23
-[Sat Dec/26]
-  15.00  Peterborough United      2-0 (1-0)  Chesterfield FC
+▪ Matchday 23
+Sat Dec 26
+  15:00  Peterborough United      2-0 (1-0)  Chesterfield FC
          Shrewsbury Town          1-1 (1-0)  Fleetwood Town
          Coventry City            1-0 (0-0)  Port Vale FC
          Colchester United        0-2 (0-0)  Southend United
@@ -394,9 +394,9 @@ Matchday 23
          Millwall FC              0-1 (0-1)  Walsall FC
 
 
-Matchday 24
-[Mon Dec/28]
-  15.00  Sheffield United         3-1 (1-0)  Bradford City
+▪ Matchday 24
+Mon Dec 28
+  15:00  Sheffield United         3-1 (1-0)  Bradford City
          Scunthorpe United        1-1 (1-1)  Rochdale AFC
          Walsall FC               2-0 (0-0)  Peterborough United
          Port Vale FC             1-0 (0-0)  Bury FC
@@ -404,15 +404,15 @@ Matchday 24
          Gillingham FC            1-0 (0-0)  Colchester United
          Fleetwood Town           1-3 (0-1)  Wigan Athletic
          Crewe Alexandra          1-2 (1-1)  Shrewsbury Town
-  13.00  Southend United          0-4 (0-3)  Millwall FC
-  15.00  Barnsley FC              4-2 (1-0)  Blackpool FC
+  13:00  Southend United          0-4 (0-3)  Millwall FC
+  15:00  Barnsley FC              4-2 (1-0)  Blackpool FC
          Burton Albion            1-0 (0-0)  Swindon Town
          Chesterfield FC          1-1 (1-0)  Coventry City
 
 
-Matchday 25
-[Sat Jan/2]
-  15.00  Scunthorpe United        1-1 (1-1)  Wigan Athletic
+▪ Matchday 25
+Sat Jan 2
+  15:00  Scunthorpe United        1-1 (1-1)  Wigan Athletic
          Walsall FC               0-3 (0-1)  Rochdale AFC
          Southend United          0-3 (0-1)  Doncaster Rovers
          Sheffield United         2-3 (1-1)  Peterborough United
@@ -425,40 +425,40 @@ Matchday 25
          Chesterfield FC          7-1 (3-0)  Shrewsbury Town
 
 
-Matchday 26
-[Thu Jan/7]
-  19.45  Wigan Athletic           3-2 (0-1)  Gillingham FC
+▪ Matchday 26
+Thu Jan 7
+  19:45  Wigan Athletic           3-2 (0-1)  Gillingham FC
 
 
-Matchday 43
-[Sat Jan/9]
-  15.00  Blackpool FC             0-1 (0-0)  Port Vale FC
+▪ Matchday 43
+Sat Jan 9
+  15:00  Blackpool FC             0-1 (0-0)  Port Vale FC
 
 
-Matchday 26
-[Sat Jan/9]
-  15.00  Swindon Town             4-2 (2-2)  Southend United
+▪ Matchday 26
+Sat Jan 9
+  15:00  Swindon Town             4-2 (2-2)  Southend United
          Rochdale AFC             2-3 (0-1)  Chesterfield FC
 
 
-Matchday 21
-[Sat Jan/9]
-  15.00  Oldham Athletic          1-2 (0-1)  Millwall FC
+▪ Matchday 21
+Sat Jan 9
+  15:00  Oldham Athletic          1-2 (0-1)  Millwall FC
 
 
-Matchday 23
-[Tue Jan/12]
-  19.45  Wigan Athletic           3-3 (2-0)  Sheffield United
+▪ Matchday 23
+Tue Jan 12
+  19:45  Wigan Athletic           3-3 (2-0)  Sheffield United
 
 
-Matchday 26
-[Tue Jan/12]
-  19.45  Coventry City            1-1 (1-0)  Walsall FC
+▪ Matchday 26
+Tue Jan 12
+  19:45  Coventry City            1-1 (1-0)  Walsall FC
 
 
-Matchday 27
-[Sat Jan/16]
-  15.00  Peterborough United      0-0  Southend United
+▪ Matchday 27
+Sat Jan 16
+  15:00  Peterborough United      0-0  Southend United
          Swindon Town             4-3 (1-3)  Crewe Alexandra
          Blackpool FC             5-0 (3-0)  Scunthorpe United
          Shrewsbury Town          0-3 (0-2)  Barnsley FC
@@ -468,18 +468,18 @@ Matchday 27
          Doncaster Rovers         2-2 (0-1)  Gillingham FC
          Coventry City            0-2 (0-0)  Burton Albion
          Bradford City            1-0 (0-0)  Oldham Athletic
-[Sun Jan/17]
-  15.00  Millwall FC              3-1 (3-0)  Port Vale FC
+Sun Jan 17
+  15:00  Millwall FC              3-1 (3-0)  Port Vale FC
 
 
-Matchday 26
-[Tue Jan/19]
-  19.45  Colchester United        1-1 (1-0)  Fleetwood Town
+▪ Matchday 26
+Tue Jan 19
+  19:45  Colchester United        1-1 (1-0)  Fleetwood Town
 
 
-Matchday 28
-[Sat Jan/23]
-  15.00  Scunthorpe United        3-0 (0-0)  Colchester United
+▪ Matchday 28
+Sat Jan 23
+  15:00  Scunthorpe United        3-0 (0-0)  Colchester United
          Oldham Athletic          0-1 (0-1)  Bury FC
          Gillingham FC            2-1 (0-1)  Peterborough United
          Chesterfield FC          1-2 (1-1)  Millwall FC
@@ -493,9 +493,9 @@ Matchday 28
          Southend United          3-0 (2-0)  Coventry City
 
 
-Matchday 26
-[Tue Jan/26]
-  19.45  Bradford City            0-1 (0-1)  Barnsley FC
+▪ Matchday 26
+Tue Jan 26
+  19:45  Bradford City            0-1 (0-1)  Barnsley FC
          Bury FC                  0-0  Crewe Alexandra
          Doncaster Rovers         1-2 (0-1)  Port Vale FC
          Peterborough United      0-1 (0-1)  Burton Albion
@@ -503,49 +503,49 @@ Matchday 26
          Blackpool FC             0-0  Sheffield United
 
 
-Matchday 29
-[Sat Jan/30]
-  15.00  Bradford City            2-1 (0-0)  Fleetwood Town
+▪ Matchday 29
+Sat Jan 30
+  15:00  Bradford City            2-1 (0-0)  Fleetwood Town
          Wigan Athletic           3-0 (2-0)  Port Vale FC
          Coventry City            1-2 (0-1)  Scunthorpe United
          Swindon Town             0-1 (0-0)  Barnsley FC
          Millwall FC              1-1 (0-0)  Crewe Alexandra
          Rochdale AFC             2-1 (2-0)  Burton Albion
          Blackpool FC             1-0 (1-0)  Gillingham FC
-[Tue Feb/2]
-  19.45  Shrewsbury Town          1-2 (0-1)  Southend United
+Tue Feb 2
+  19:45  Shrewsbury Town          1-2 (0-1)  Southend United
 
 
-Matchday 25
-[Tue Feb/2]
-  19.45  Port Vale FC             1-0 (1-0)  Swindon Town
+▪ Matchday 25
+Tue Feb 2
+  19:45  Port Vale FC             1-0 (1-0)  Swindon Town
 
 
-Matchday 29
-[Tue Feb/2]
-  19.45  Doncaster Rovers         1-2 (0-0)  Walsall FC
+▪ Matchday 29
+Tue Feb 2
+  19:45  Doncaster Rovers         1-2 (0-0)  Walsall FC
 
 
-Matchday 30
-[Sat Feb/6]
-  15.00  Gillingham FC            0-0  Swindon Town
+▪ Matchday 30
+Sat Feb 6
+  15:00  Gillingham FC            0-0  Swindon Town
          Sheffield United         0-2 (0-0)  Wigan Athletic
          Southend United          3-0 (0-0)  Colchester United
          Walsall FC               0-3 (0-0)  Millwall FC
          Crewe Alexandra          2-0 (2-0)  Rochdale AFC
          Burton Albion            3-1 (1-0)  Bradford City
          Chesterfield FC          0-1 (0-0)  Peterborough United
-[Sun Feb/7]
-  14.00  Port Vale FC             1-1 (0-1)  Coventry City
-  15.00  Barnsley FC              3-0 (1-0)  Bury FC
+Sun Feb 7
+  14:00  Port Vale FC             1-1 (0-1)  Coventry City
+  15:00  Barnsley FC              3-0 (1-0)  Bury FC
          Fleetwood Town           0-0  Shrewsbury Town
 
 
-Matchday 31
-[Fri Feb/12]
-  19.45  Burton Albion            1-0 (1-0)  Chesterfield FC
-[Sat Feb/13]
-  15.00  Port Vale FC             0-0  Fleetwood Town
+▪ Matchday 31
+Fri Feb 12
+  19:45  Burton Albion            1-0 (1-0)  Chesterfield FC
+Sat Feb 13
+  15:00  Port Vale FC             0-0  Fleetwood Town
          Coventry City            6-0 (4-0)  Bury FC
          Scunthorpe United        1-0 (1-0)  Southend United
          Blackpool FC             2-3 (1-3)  Shrewsbury Town
@@ -558,39 +558,39 @@ Matchday 31
          Doncaster Rovers         0-1 (0-1)  Sheffield United
 
 
-Matchday 23
-[Tue Feb/16]
-  19.45  Blackpool FC             0-0  Oldham Athletic
+▪ Matchday 23
+Tue Feb 16
+  19:45  Blackpool FC             0-0  Oldham Athletic
 
 
-Matchday 21
-[Tue Feb/16]
-  19.45  Bradford City            2-0 (1-0)  Southend United
+▪ Matchday 21
+Tue Feb 16
+  19:45  Bradford City            2-0 (1-0)  Southend United
 
 
-Matchday 26
-[Tue Feb/16]
-  19.45  Millwall FC              0-2 (0-1)  Scunthorpe United
+▪ Matchday 26
+Tue Feb 16
+  19:45  Millwall FC              0-2 (0-1)  Scunthorpe United
 
 
-Matchday 29
-[Tue Feb/16]
-  19.45  Colchester United        1-1 (0-0)  Chesterfield FC
+▪ Matchday 29
+Tue Feb 16
+  19:45  Colchester United        1-1 (0-0)  Chesterfield FC
 
 
-Matchday 23
-[Tue Feb/16]
-  19.45  Rochdale AFC             2-2 (2-2)  Crewe Alexandra
+▪ Matchday 23
+Tue Feb 16
+  19:45  Rochdale AFC             2-2 (2-2)  Crewe Alexandra
 
 
-Matchday 29
-[Tue Feb/16]
-  19.45  Bury FC                  1-0 (1-0)  Sheffield United
+▪ Matchday 29
+Tue Feb 16
+  19:45  Bury FC                  1-0 (1-0)  Sheffield United
 
 
-Matchday 32
-[Sat Feb/20]
-  15.00  Oldham Athletic          2-1 (0-1)  Gillingham FC
+▪ Matchday 32
+Sat Feb 20
+  15:00  Oldham Athletic          2-1 (0-1)  Gillingham FC
          Sheffield United         1-0 (0-0)  Port Vale FC
          Swindon Town             3-2 (1-1)  Blackpool FC
          Walsall FC               1-2 (0-1)  Wigan Athletic
@@ -600,30 +600,30 @@ Matchday 32
          Bradford City            2-2 (1-1)  Rochdale AFC
          Bury FC                  5-2 (1-2)  Colchester United
          Chesterfield FC          3-1 (2-1)  Crewe Alexandra
-[Mon Feb/22]
-  19.45  Southend United          3-1 (1-1)  Burton Albion
+Mon Feb 22
+  19:45  Southend United          3-1 (1-1)  Burton Albion
 
 
-Matchday 23
-[Tue Feb/23]
-  19.45  Bury FC                  0-0  Barnsley FC
+▪ Matchday 23
+Tue Feb 23
+  19:45  Bury FC                  0-0  Barnsley FC
 
 
-Matchday 29
-[Tue Feb/23]
-  19.45  Peterborough United      1-2 (1-1)  Oldham Athletic
+▪ Matchday 29
+Tue Feb 23
+  19:45  Peterborough United      1-2 (1-1)  Oldham Athletic
 
 
-Matchday 27
-[Tue Feb/23]
-  19.45  Rochdale AFC             1-0 (1-0)  Fleetwood Town
+▪ Matchday 27
+Tue Feb 23
+  19:45  Rochdale AFC             1-0 (1-0)  Fleetwood Town
 
 
-Matchday 33
-[Fri Feb/26]
-  19.45  Port Vale FC             3-1 (3-0)  Southend United
-[Sat Feb/27]
-  15.00  Scunthorpe United        1-1 (0-0)  Oldham Athletic
+▪ Matchday 33
+Fri Feb 26
+  19:45  Port Vale FC             3-1 (3-0)  Southend United
+Sat Feb 27
+  15:00  Scunthorpe United        1-1 (0-0)  Oldham Athletic
          Gillingham FC            1-2 (0-2)  Chesterfield FC
          Peterborough United      1-2 (1-0)  Swindon Town
          Rochdale AFC             2-0 (0-0)  Sheffield United
@@ -636,9 +636,9 @@ Matchday 33
          Wigan Athletic           3-0 (3-0)  Bury FC
 
 
-Matchday 34
-[Tue Mar/1]
-  19.45  Southend United          1-1 (0-0)  Crewe Alexandra
+▪ Matchday 34
+Tue Mar 1
+  19:45  Southend United          1-1 (0-0)  Crewe Alexandra
          Swindon Town             2-0 (1-0)  Doncaster Rovers
          Walsall FC               0-0  Scunthorpe United
          Shrewsbury Town          2-0 (2-0)  Rochdale AFC
@@ -652,9 +652,9 @@ Matchday 34
          Sheffield United         0-1 (0-0)  Burton Albion
 
 
-Matchday 35
-[Sat Mar/5]
-  15.00  Southend United          0-1 (0-0)  Chesterfield FC
+▪ Matchday 35
+Sat Mar 5
+  15:00  Southend United          0-1 (0-0)  Chesterfield FC
          Scunthorpe United        0-0  Gillingham FC
          Wigan Athletic           1-1 (0-0)  Peterborough United
          Port Vale FC             2-0 (1-0)  Colchester United
@@ -667,24 +667,24 @@ Matchday 35
          Walsall FC               1-3 (1-1)  Barnsley FC
 
 
-Matchday 23
-[Tue Mar/8]
-  19.45  Bradford City            2-0 (2-0)  Burton Albion
+▪ Matchday 23
+Tue Mar 8
+  19:45  Bradford City            2-0 (2-0)  Burton Albion
 
 
-Matchday 30
-[Tue Mar/8]
-  19.45  Scunthorpe United        2-0 (1-0)  Doncaster Rovers
+▪ Matchday 30
+Tue Mar 8
+  19:45  Scunthorpe United        2-0 (1-0)  Doncaster Rovers
 
 
-Matchday 32
-[Tue Mar/8]
-  19.45  Shrewsbury Town          2-1 (2-1)  Coventry City
+▪ Matchday 32
+Tue Mar 8
+  19:45  Shrewsbury Town          2-1 (2-1)  Coventry City
 
 
-Matchday 36
-[Sat Mar/12]
-  15.00  Swindon Town             2-2 (0-2)  Millwall FC
+▪ Matchday 36
+Sat Mar 12
+  15:00  Swindon Town             2-2 (0-2)  Millwall FC
          Sheffield United         3-0 (2-0)  Oldham Athletic
          Barnsley FC              0-2 (0-1)  Southend United
          Blackpool FC             0-1 (0-1)  Coventry City
@@ -698,19 +698,19 @@ Matchday 36
          Shrewsbury Town          2-2 (1-0)  Scunthorpe United
 
 
-Matchday 21
-[Tue Mar/15]
-  19.45  Fleetwood Town           0-1 (0-0)  Walsall FC
+▪ Matchday 21
+Tue Mar 15
+  19:45  Fleetwood Town           0-1 (0-0)  Walsall FC
 
 
-Matchday 30
-[Tue Mar/15]
-  19.45  Oldham Athletic          1-0 (0-0)  Blackpool FC
+▪ Matchday 30
+Tue Mar 15
+  19:45  Oldham Athletic          1-0 (0-0)  Blackpool FC
 
 
-Matchday 37
-[Sat Mar/19]
-  15.00  Bury FC                  2-2 (1-2)  Shrewsbury Town
+▪ Matchday 37
+Sat Mar 19
+  15:00  Bury FC                  2-2 (1-2)  Shrewsbury Town
          Coventry City            0-0  Swindon Town
          Crewe Alexandra          1-2 (0-1)  Blackpool FC
          Doncaster Rovers         1-2 (1-1)  Peterborough United
@@ -724,41 +724,41 @@ Matchday 37
          Wigan Athletic           1-0 (0-0)  Bradford City
 
 
-Matchday 38
-[Fri Mar/25]
-  15.00  Barnsley FC              0-0  Scunthorpe United
+▪ Matchday 38
+Fri Mar 25
+  15:00  Barnsley FC              0-0  Scunthorpe United
          Blackpool FC             1-1 (0-0)  Bury FC
          Colchester United        4-1 (0-1)  Doncaster Rovers
          Rochdale AFC             4-1 (1-1)  Southend United
          Sheffield United         3-2 (1-0)  Crewe Alexandra
          Shrewsbury Town          1-1 (0-0)  Port Vale FC
-  17.30  Swindon Town             1-4 (0-1)  Wigan Athletic
-  19.45  Peterborough United      3-1 (1-0)  Coventry City
-[Sat Mar/26]
-  15.00  Bradford City            1-0 (0-0)  Millwall FC
+  17:30  Swindon Town             1-4 (0-1)  Wigan Athletic
+  19:45  Peterborough United      3-1 (1-0)  Coventry City
+Sat Mar 26
+  15:00  Bradford City            1-0 (0-0)  Millwall FC
          Chesterfield FC          0-0  Fleetwood Town
-  12.30  Burton Albion            0-0  Oldham Athletic
+  12:30  Burton Albion            0-0  Oldham Athletic
 
 
-Matchday 39
-[Mon Mar/28]
-  19.45  Millwall FC              2-0 (2-0)  Burton Albion
-  13.30  Wigan Athletic           1-0 (0-0)  Rochdale AFC
-  15.00  Bury FC                  0-1 (0-1)  Gillingham FC
+▪ Matchday 39
+Mon Mar 28
+  19:45  Millwall FC              2-0 (2-0)  Burton Albion
+  13:30  Wigan Athletic           1-0 (0-0)  Rochdale AFC
+  15:00  Bury FC                  0-1 (0-1)  Gillingham FC
          Crewe Alexandra          0-1 (0-0)  Bradford City
          Doncaster Rovers         0-1 (0-0)  Blackpool FC
          Oldham Athletic          1-0 (0-0)  Chesterfield FC
          Port Vale FC             0-1 (0-1)  Barnsley FC
          Scunthorpe United        6-0 (2-0)  Swindon Town
-[Tue Mar/29]
-  19.45  Coventry City            0-1 (0-1)  Colchester United
-[Wed Mar/30]
-  19.45  Southend United          3-1 (1-1)  Sheffield United
+Tue Mar 29
+  19:45  Coventry City            0-1 (0-1)  Colchester United
+Wed Mar 30
+  19:45  Southend United          3-1 (1-1)  Sheffield United
 
 
-Matchday 40
-[Sat Apr/2]
-  15.00  Colchester United        0-0  Millwall FC
+▪ Matchday 40
+Sat Apr 2
+  15:00  Colchester United        0-0  Millwall FC
          Shrewsbury Town          1-5 (1-1)  Wigan Athletic
          Sheffield United         2-0 (2-0)  Walsall FC
          Blackpool FC             2-0 (0-0)  Southend United
@@ -771,19 +771,19 @@ Matchday 40
          Rochdale AFC             2-2 (1-0)  Doncaster Rovers
 
 
-Matchday 39
-[Tue Apr/5]
-  19.45  Fleetwood Town           2-0 (1-0)  Peterborough United
+▪ Matchday 39
+Tue Apr 5
+  19:45  Fleetwood Town           2-0 (1-0)  Peterborough United
 
 
-Matchday 35
-[Tue Apr/5]
-  19.45  Oldham Athletic          2-0 (1-0)  Swindon Town
+▪ Matchday 35
+Tue Apr 5
+  19:45  Oldham Athletic          2-0 (1-0)  Swindon Town
 
 
-Matchday 41
-[Sat Apr/9]
-  15.00  Wigan Athletic           1-0 (0-0)  Coventry City
+▪ Matchday 41
+Sat Apr 9
+  15:00  Wigan Athletic           1-0 (0-0)  Coventry City
          Southend United          2-2 (0-0)  Fleetwood Town
          Barnsley FC              1-2 (0-0)  Chesterfield FC
          Blackpool FC             0-1 (0-0)  Colchester United
@@ -797,20 +797,20 @@ Matchday 41
          Sheffield United         0-0  Gillingham FC
 
 
-Matchday 38
-[Tue Apr/12]
-  19.45  Gillingham FC            1-2 (0-0)  Walsall FC
+▪ Matchday 38
+Tue Apr 12
+  19:45  Gillingham FC            1-2 (0-0)  Walsall FC
 
 
-Matchday 40
-[Tue Apr/12]
-  19.45  Barnsley FC              2-1 (1-0)  Oldham Athletic
+▪ Matchday 40
+Tue Apr 12
+  19:45  Barnsley FC              2-1 (1-0)  Oldham Athletic
 
 
-Matchday 42
-[Sat Apr/16]
-  13.00  Chesterfield FC          0-3 (0-2)  Sheffield United
-  15.00  Burton Albion            0-0  Barnsley FC
+▪ Matchday 42
+Sat Apr 16
+  13:00  Chesterfield FC          0-3 (0-2)  Sheffield United
+  15:00  Burton Albion            0-0  Barnsley FC
          Colchester United        1-4 (0-1)  Peterborough United
          Coventry City            2-1 (0-1)  Millwall FC
          Crewe Alexandra          2-3 (1-1)  Scunthorpe United
@@ -823,9 +823,9 @@ Matchday 42
          Walsall FC               1-0 (0-0)  Southend United
 
 
-Matchday 43
-[Tue Apr/19]
-  19.45  Millwall FC              1-0 (0-0)  Fleetwood Town
+▪ Matchday 43
+Tue Apr 19
+  19:45  Millwall FC              1-0 (0-0)  Fleetwood Town
          Barnsley FC              1-0 (0-0)  Peterborough United
          Burton Albion            1-1 (1-1)  Wigan Athletic
          Chesterfield FC          1-1 (1-1)  Doncaster Rovers
@@ -838,11 +838,11 @@ Matchday 43
          Southend United          0-1 (0-0)  Oldham Athletic
 
 
-Matchday 44
-[Sat Apr/23]
-  15.00  Wigan Athletic           4-1 (3-0)  Southend United
-  12.30  Sheffield United         0-0  Barnsley FC
-  15.00  Bradford City            4-0 (0-0)  Walsall FC
+▪ Matchday 44
+Sat Apr 23
+  15:00  Wigan Athletic           4-1 (3-0)  Southend United
+  12:30  Sheffield United         0-0  Barnsley FC
+  15:00  Bradford City            4-0 (0-0)  Walsall FC
          Bury FC                  1-3 (1-2)  Millwall FC
          Colchester United        0-3 (0-1)  Burton Albion
          Doncaster Rovers         2-0 (2-0)  Coventry City
@@ -854,15 +854,15 @@ Matchday 44
          Swindon Town             1-0 (0-0)  Chesterfield FC
 
 
-Matchday 39
-[Tue Apr/26]
-  19.45  Walsall FC               2-1 (2-0)  Shrewsbury Town
+▪ Matchday 39
+Tue Apr 26
+  19:45  Walsall FC               2-1 (2-0)  Shrewsbury Town
 
 
-Matchday 45
-[Sat Apr/30]
-  12.30  Blackpool FC             0-4 (0-0)  Wigan Athletic
-  15.00  Barnsley FC              2-2 (0-1)  Colchester United
+▪ Matchday 45
+Sat Apr 30
+  12:30  Blackpool FC             0-4 (0-0)  Wigan Athletic
+  15:00  Barnsley FC              2-2 (0-1)  Colchester United
          Burton Albion            2-1 (1-0)  Gillingham FC
          Chesterfield FC          3-0 (2-0)  Bury FC
          Coventry City            3-1 (2-0)  Sheffield United
@@ -872,13 +872,13 @@ Matchday 45
          Scunthorpe United        1-0 (0-0)  Port Vale FC
          Shrewsbury Town          3-4 (0-1)  Peterborough United
          Southend United          0-1 (0-1)  Bradford City
-[Mon May/2]
-  12.15  Walsall FC               3-1 (2-0)  Fleetwood Town
+Mon May 2
+  12:15  Walsall FC               3-1 (2-0)  Fleetwood Town
 
 
-Matchday 46
-[Sun May/8]
-  12.30  Bradford City            2-0 (1-0)  Chesterfield FC
+▪ Matchday 46
+Sun May 8
+  12:30  Bradford City            2-0 (1-0)  Chesterfield FC
          Bury FC                  3-2 (2-2)  Southend United
          Colchester United        1-2 (0-1)  Rochdale AFC
          Doncaster Rovers         0-0  Burton Albion

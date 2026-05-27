@@ -1,14 +1,14 @@
 = English League Two 2014/15
 
-# Date       Sat Aug/9 2014 - Sat May/2 2015 (266d)
+# Date       Sat Aug 9 2014 - Sat May 2 2015 (266d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/9]
-  15.00  Accrington Stanley       0-1 (0-0)  Southend United
+▪ Matchday 1
+Sat Aug 9
+  15:00  Accrington Stanley       0-1 (0-0)  Southend United
          AFC Wimbledon            2-2 (1-1)  Shrewsbury Town
          Bury FC                  0-1 (0-1)  Cheltenham Town
          Cambridge United         1-0 (0-0)  Plymouth Argyle
@@ -22,9 +22,9 @@ Matchday 1
          Tranmere Rovers          1-1 (0-0)  York City
 
 
-Matchday 2
-[Sat Aug/16]
-  15.00  Burton Albion            2-1 (0-1)  Dagenham & Redbridge
+▪ Matchday 2
+Sat Aug 16
+  15:00  Burton Albion            2-1 (0-1)  Dagenham & Redbridge
          Cheltenham Town          2-1 (1-0)  Accrington Stanley
          Hartlepool United        0-2 (0-1)  Bury FC
          Luton Town               0-1 (0-1)  AFC Wimbledon
@@ -38,9 +38,9 @@ Matchday 2
          York City                1-1 (0-0)  Northampton Town
 
 
-Matchday 3
-[Tue Aug/19]
-  19.45  Burton Albion            1-0 (1-0)  Exeter City
+▪ Matchday 3
+Tue Aug 19
+  19:45  Burton Albion            1-0 (1-0)  Exeter City
          Cheltenham Town          0-0  Carlisle United
          Hartlepool United        0-2 (0-1)  Dagenham & Redbridge
          Luton Town               1-1 (0-0)  Bury FC
@@ -54,9 +54,9 @@ Matchday 3
          York City                2-2 (1-2)  Cambridge United
 
 
-Matchday 4
-[Sat Aug/23]
-  15.00  Accrington Stanley       2-2 (2-2)  Luton Town
+▪ Matchday 4
+Sat Aug 23
+  15:00  Accrington Stanley       2-2 (2-2)  Luton Town
          AFC Wimbledon            1-2 (1-0)  Hartlepool United
          Bury FC                  2-1 (2-0)  Plymouth Argyle
          Cambridge United         1-2 (0-1)  Morecambe FC
@@ -70,9 +70,9 @@ Matchday 4
          Tranmere Rovers          2-3 (2-0)  Cheltenham Town
 
 
-Matchday 5
-[Sat Aug/30]
-  15.00  AFC Wimbledon            2-3 (1-1)  Stevenage FC
+▪ Matchday 5
+Sat Aug 30
+  15:00  AFC Wimbledon            2-3 (1-1)  Stevenage FC
          Bury FC                  2-1 (1-1)  Accrington Stanley
          Cambridge United         5-0 (3-0)  Carlisle United
          Cheltenham Town          1-0 (0-0)  Hartlepool United
@@ -86,10 +86,10 @@ Matchday 5
          York City                0-0  Wycombe Wanderers
 
 
-Matchday 6
-[Sat Sep/6]
-  12.15  Luton Town               0-1 (0-0)  Plymouth Argyle
-  15.00  Accrington Stanley       3-2 (1-0)  Tranmere Rovers
+▪ Matchday 6
+Sat Sep 6
+  12:15  Luton Town               0-1 (0-0)  Plymouth Argyle
+  15:00  Accrington Stanley       3-2 (1-0)  Tranmere Rovers
          Carlisle United          4-4 (2-2)  AFC Wimbledon
          Dagenham & Redbridge     0-2 (0-2)  Northampton Town
          Exeter City              1-2 (0-2)  Mansfield Town
@@ -98,15 +98,15 @@ Matchday 6
          Southend United          1-1 (1-0)  Oxford United
          Stevenage FC             2-3 (0-2)  York City
          Wycombe Wanderers        0-0  Bury FC
-[Sun Sep/7]
-  12.15  Burton Albion            2-0 (1-0)  Portsmouth FC
-[Mon Sep/8]
-  19.45  Newport County           1-1 (0-0)  Cambridge United
+Sun Sep 7
+  12:15  Burton Albion            2-0 (1-0)  Portsmouth FC
+Mon Sep 8
+  19:45  Newport County           1-1 (0-0)  Cambridge United
 
 
-Matchday 7
-[Sat Sep/13]
-  15.00  Accrington Stanley       1-0 (0-0)  AFC Wimbledon
+▪ Matchday 7
+Sat Sep 13
+  15:00  Accrington Stanley       1-0 (0-0)  AFC Wimbledon
          Burton Albion            2-0 (0-0)  York City
          Carlisle United          0-3 (0-0)  Bury FC
          Dagenham & Redbridge     2-3 (1-0)  Cambridge United
@@ -120,9 +120,9 @@ Matchday 7
          Wycombe Wanderers        2-1 (1-1)  Mansfield Town
 
 
-Matchday 8
-[Tue Sep/16]
-  19.45  AFC Wimbledon            3-0 (2-0)  Burton Albion
+▪ Matchday 8
+Tue Sep 16
+  19:45  AFC Wimbledon            3-0 (2-0)  Burton Albion
          Bury FC                  2-1 (1-1)  Stevenage FC
          Cambridge United         1-2 (1-1)  Exeter City
          Cheltenham Town          0-1 (0-0)  Southend United
@@ -136,9 +136,9 @@ Matchday 8
          York City                0-0  Luton Town
 
 
-Matchday 9
-[Sat Sep/20]
-  15.00  AFC Wimbledon            1-0 (1-0)  Morecambe FC
+▪ Matchday 9
+Sat Sep 20
+  15:00  AFC Wimbledon            1-0 (1-0)  Morecambe FC
          Bury FC                  3-1 (0-0)  Burton Albion
          Cambridge United         0-1 (0-0)  Luton Town
          Cheltenham Town          1-1 (0-0)  Dagenham & Redbridge
@@ -152,9 +152,9 @@ Matchday 9
          York City                2-3 (1-1)  Southend United
 
 
-Matchday 10
-[Sat Sep/27]
-  15.00  Accrington Stanley       1-0 (1-0)  Plymouth Argyle
+▪ Matchday 10
+Sat Sep 27
+  15:00  Accrington Stanley       1-0 (1-0)  Plymouth Argyle
          Burton Albion            1-0 (1-0)  Cheltenham Town
          Carlisle United          1-0 (0-0)  Tranmere Rovers
          Dagenham & Redbridge     2-0 (1-0)  York City
@@ -168,12 +168,12 @@ Matchday 10
          Wycombe Wanderers        1-0 (0-0)  Cambridge United
 
 
-Matchday 11
-[Fri Oct/3]
-  19.45  Burton Albion            1-3 (0-1)  Cambridge United
+▪ Matchday 11
+Fri Oct 3
+  19:45  Burton Albion            1-3 (0-1)  Cambridge United
          Dagenham & Redbridge     1-2 (1-0)  Exeter City
-[Sat Oct/4]
-  15.00  Bury FC                  2-0 (0-0)  Tranmere Rovers
+Sat Oct 4
+  15:00  Bury FC                  2-0 (0-0)  Tranmere Rovers
          Cheltenham Town          1-1 (1-1)  AFC Wimbledon
          Hartlepool United        0-3 (0-0)  Carlisle United
          Mansfield Town           0-1 (0-1)  Accrington Stanley
@@ -185,11 +185,11 @@ Matchday 11
          York City                0-0  Portsmouth FC
 
 
-Matchday 12
-[Sat Oct/11]
-  12.15  Cambridge United         5-1 (2-1)  Oxford United
-  14.00  Northampton Town         1-2 (0-1)  Burton Albion
-  15.00  Accrington Stanley       1-2 (1-0)  Dagenham & Redbridge
+▪ Matchday 12
+Sat Oct 11
+  12:15  Cambridge United         5-1 (2-1)  Oxford United
+  14:00  Northampton Town         1-2 (0-1)  Burton Albion
+  15:00  Accrington Stanley       1-2 (1-0)  Dagenham & Redbridge
          AFC Wimbledon            3-2 (2-0)  Bury FC
          Carlisle United          3-0 (2-0)  Stevenage FC
          Exeter City              1-2 (0-0)  Hartlepool United
@@ -201,9 +201,9 @@ Matchday 12
          Tranmere Rovers          0-1 (0-1)  Plymouth Argyle
 
 
-Matchday 13
-[Sat Oct/18]
-  15.00  Burton Albion            0-2 (0-0)  Morecambe FC
+▪ Matchday 13
+Sat Oct 18
+  15:00  Burton Albion            0-2 (0-0)  Morecambe FC
          Bury FC                  3-0 (2-0)  Portsmouth FC
          Cheltenham Town          3-2 (1-0)  Northampton Town
          Dagenham & Redbridge     0-1 (0-0)  Newport County
@@ -217,9 +217,9 @@ Matchday 13
          York City                0-1 (0-0)  Shrewsbury Town
 
 
-Matchday 14
-[Tue Oct/21]
-  19.45  Accrington Stanley       3-1 (2-1)  Hartlepool United
+▪ Matchday 14
+Tue Oct 21
+  19:45  Accrington Stanley       3-1 (2-1)  Hartlepool United
          AFC Wimbledon            0-0  Plymouth Argyle
          Cambridge United         1-2 (1-1)  Cheltenham Town
          Carlisle United          3-4 (2-4)  Burton Albion
@@ -233,9 +233,9 @@ Matchday 14
          Tranmere Rovers          0-0  Mansfield Town
 
 
-Matchday 15
-[Sat Oct/25]
-  15.00  AFC Wimbledon            2-2 (2-1)  Tranmere Rovers
+▪ Matchday 15
+Sat Oct 25
+  15:00  AFC Wimbledon            2-2 (2-1)  Tranmere Rovers
          Cambridge United         2-1 (1-0)  Hartlepool United
          Carlisle United          2-1 (0-1)  Oxford United
          Luton Town               1-0 (0-0)  Northampton Town
@@ -246,15 +246,15 @@ Matchday 15
          Stevenage FC             1-0 (0-0)  Burton Albion
          Wycombe Wanderers        1-1 (0-0)  Dagenham & Redbridge
          York City                1-1 (1-0)  Mansfield Town
-[Sun Oct/26]
-  13.00  Morecambe FC             0-2 (0-1)  Exeter City
+Sun Oct 26
+  13:00  Morecambe FC             0-2 (0-1)  Exeter City
 
 
-Matchday 16
-[Fri Oct/31]
-  19.45  Accrington Stanley       2-1 (2-0)  Morecambe FC
-[Sat Nov/1]
-  15.00  Burton Albion            1-1 (1-0)  Plymouth Argyle
+▪ Matchday 16
+Fri Oct 31
+  19:45  Accrington Stanley       2-1 (2-0)  Morecambe FC
+Sat Nov 1
+  15:00  Burton Albion            1-1 (1-0)  Plymouth Argyle
          Bury FC                  2-0 (2-0)  Cambridge United
          Cheltenham Town          0-1 (0-1)  York City
          Dagenham & Redbridge     1-2 (1-0)  Shrewsbury Town
@@ -267,28 +267,28 @@ Matchday 16
          Tranmere Rovers          2-2 (0-1)  Stevenage FC
 
 
-Matchday 17
-[Fri Nov/14]
-  19.45  Cambridge United         2-1 (0-0)  Northampton Town
-[Sat Nov/15]
-  12.05  Plymouth Argyle          3-0 (3-0)  Portsmouth FC
-  14.30  Morecambe FC             1-0 (0-0)  Bury FC
-  15.00  AFC Wimbledon            1-0 (1-0)  Dagenham & Redbridge
+▪ Matchday 17
+Fri Nov 14
+  19:45  Cambridge United         2-1 (0-0)  Northampton Town
+Sat Nov 15
+  12:05  Plymouth Argyle          3-0 (3-0)  Portsmouth FC
+  14:30  Morecambe FC             1-0 (0-0)  Bury FC
+  15:00  AFC Wimbledon            1-0 (1-0)  Dagenham & Redbridge
          Carlisle United          1-0 (1-0)  Accrington Stanley
          Luton Town               1-0 (0-0)  Tranmere Rovers
          Shrewsbury Town          2-0 (0-0)  Mansfield Town
          Southend United          1-0 (0-0)  Hartlepool United
          Stevenage FC             5-1 (3-0)  Cheltenham Town
          York City                0-1 (0-1)  Oxford United
-[Sun Nov/16]
-  15.00  Newport County           2-2 (0-2)  Exeter City
-[Mon Nov/17]
-  19.45  Wycombe Wanderers        1-3 (0-1)  Burton Albion
+Sun Nov 16
+  15:00  Newport County           2-2 (0-2)  Exeter City
+Mon Nov 17
+  19:45  Wycombe Wanderers        1-3 (0-1)  Burton Albion
 
 
-Matchday 18
-[Sat Nov/22]
-  15.00  Accrington Stanley       2-1 (1-0)  Cambridge United
+▪ Matchday 18
+Sat Nov 22
+  15:00  Accrington Stanley       2-1 (1-0)  Cambridge United
          Burton Albion            1-0 (0-0)  Luton Town
          Bury FC                  1-3 (0-2)  Newport County
          Cheltenham Town          1-4 (1-2)  Wycombe Wanderers
@@ -302,11 +302,11 @@ Matchday 18
          Tranmere Rovers          1-2 (0-2)  Southend United
 
 
-Matchday 19
-[Fri Nov/28]
-  19.00  Accrington Stanley       2-3 (0-1)  Exeter City
-[Sat Nov/29]
-  15.00  AFC Wimbledon            1-2 (1-1)  Cambridge United
+▪ Matchday 19
+Fri Nov 28
+  19:00  Accrington Stanley       2-3 (0-1)  Exeter City
+Sat Nov 29
+  15:00  AFC Wimbledon            1-2 (1-1)  Cambridge United
          Bury FC                  0-2 (0-0)  Dagenham & Redbridge
          Carlisle United          2-3 (0-1)  Newport County
          Cheltenham Town          1-1 (0-0)  Oxford United
@@ -319,14 +319,14 @@ Matchday 19
          Tranmere Rovers          3-1 (1-0)  Portsmouth FC
 
 
-Matchday 34
-[Sat Dec/6]
-  15.00  Exeter City              1-1 (0-0)  Burton Albion
+▪ Matchday 34
+Sat Dec 6
+  15:00  Exeter City              1-1 (0-0)  Burton Albion
 
 
-Matchday 20
-[Sat Dec/13]
-  15.00  Cambridge United         0-0  Shrewsbury Town
+▪ Matchday 20
+Sat Dec 13
+  15:00  Cambridge United         0-0  Shrewsbury Town
          Dagenham & Redbridge     0-1 (0-0)  Tranmere Rovers
          Exeter City              2-0 (0-0)  Carlisle United
          Mansfield Town           1-1 (0-0)  Cheltenham Town
@@ -340,12 +340,12 @@ Matchday 20
          Burton Albion            4-0 (1-0)  Hartlepool United
 
 
-Matchday 21
-[Fri Dec/19]
-  19.45  Tranmere Rovers          1-1 (0-0)  Cambridge United
+▪ Matchday 21
+Fri Dec 19
+  19:45  Tranmere Rovers          1-1 (0-0)  Cambridge United
          Southend United          0-0  Burton Albion
-[Sat Dec/20]
-  15.00  Bury FC                  2-2 (0-0)  York City
+Sat Dec 20
+  15:00  Bury FC                  2-2 (0-0)  York City
          Carlisle United          2-1 (1-1)  Northampton Town
          AFC Wimbledon            0-1 (0-0)  Mansfield Town
          Accrington Stanley       1-1 (0-1)  Wycombe Wanderers
@@ -357,11 +357,11 @@ Matchday 21
          Cheltenham Town          1-1 (1-0)  Portsmouth FC
 
 
-Matchday 22
-[Fri Dec/26]
-  13.00  Portsmouth FC            0-2 (0-2)  AFC Wimbledon
-  14.00  Dagenham & Redbridge     0-2 (0-0)  Stevenage FC
-  15.00  Burton Albion            2-0 (2-0)  Tranmere Rovers
+▪ Matchday 22
+Fri Dec 26
+  13:00  Portsmouth FC            0-2 (0-2)  AFC Wimbledon
+  14:00  Dagenham & Redbridge     0-2 (0-0)  Stevenage FC
+  15:00  Burton Albion            2-0 (2-0)  Tranmere Rovers
          Exeter City              1-0 (0-0)  Cheltenham Town
          Mansfield Town           1-1 (1-0)  Hartlepool United
          Morecambe FC             0-1 (0-0)  Carlisle United
@@ -370,12 +370,12 @@ Matchday 22
          Oxford United            0-2 (0-2)  Shrewsbury Town
          Wycombe Wanderers        1-1 (1-1)  Luton Town
          York City                1-0 (1-0)  Accrington Stanley
-  13.00  Cambridge United         0-1 (0-0)  Southend United
+  13:00  Cambridge United         0-1 (0-0)  Southend United
 
 
-Matchday 23
-[Sun Dec/28]
-  15.00  Bury FC                  2-0 (1-0)  Mansfield Town
+▪ Matchday 23
+Sun Dec 28
+  15:00  Bury FC                  2-0 (1-0)  Mansfield Town
          Carlisle United          0-3 (0-1)  York City
          Cheltenham Town          0-1 (0-1)  Newport County
          Hartlepool United        0-2 (0-1)  Morecambe FC
@@ -388,9 +388,9 @@ Matchday 23
          AFC Wimbledon            4-1 (1-0)  Exeter City
 
 
-Matchday 24
-[Sat Jan/3]
-  15.00  Burton Albion            1-0 (0-0)  Shrewsbury Town
+▪ Matchday 24
+Sat Jan 3
+  15:00  Burton Albion            1-0 (0-0)  Shrewsbury Town
          Dagenham & Redbridge     1-0 (0-0)  Bury FC
          Exeter City              1-2 (1-0)  Accrington Stanley
          Morecambe FC             0-0  Stevenage FC
@@ -401,11 +401,11 @@ Matchday 24
          York City                0-0  Plymouth Argyle
 
 
-Matchday 25
-[Thu Jan/8]
-  19.45  Luton Town               0-0  Shrewsbury Town
-[Sat Jan/10]
-  15.00  Stevenage FC             2-1 (1-1)  AFC Wimbledon
+▪ Matchday 25
+Thu Jan 8
+  19:45  Luton Town               0-0  Shrewsbury Town
+Sat Jan 10
+  15:00  Stevenage FC             2-1 (1-1)  AFC Wimbledon
          Wycombe Wanderers        1-0 (0-0)  York City
          Hartlepool United        2-0 (1-0)  Cheltenham Town
          Burton Albion            2-1 (2-0)  Mansfield Town
@@ -417,11 +417,11 @@ Matchday 25
          Southend United          0-0  Plymouth Argyle
 
 
-Matchday 26
-[Fri Jan/16]
-  19.45  Cheltenham Town          1-1 (1-0)  Morecambe FC
-[Sat Jan/17]
-  15.00  York City                0-2 (0-1)  Stevenage FC
+▪ Matchday 26
+Fri Jan 16
+  19:45  Cheltenham Town          1-1 (1-0)  Morecambe FC
+Sat Jan 17
+  15:00  York City                0-2 (0-1)  Stevenage FC
          Portsmouth FC            1-1 (1-0)  Burton Albion
          Tranmere Rovers          3-0 (2-0)  Accrington Stanley
          Shrewsbury Town          3-0 (0-0)  Hartlepool United
@@ -434,9 +434,9 @@ Matchday 26
          Plymouth Argyle          0-1 (0-1)  Luton Town
 
 
-Matchday 27
-[Sat Jan/24]
-  15.00  Northampton Town         3-0 (2-0)  Newport County
+▪ Matchday 27
+Sat Jan 24
+  15:00  Northampton Town         3-0 (2-0)  Newport County
          York City                1-1 (0-0)  Burton Albion
          Tranmere Rovers          1-1 (1-1)  Hartlepool United
          Shrewsbury Town          3-2 (2-2)  Stevenage FC
@@ -449,19 +449,19 @@ Matchday 27
          Portsmouth FC            1-2 (1-1)  Southend United
 
 
-Matchday 25
-[Tue Jan/27]
-  19.45  Accrington Stanley       0-1 (0-0)  Bury FC
+▪ Matchday 25
+Tue Jan 27
+  19:45  Accrington Stanley       0-1 (0-0)  Bury FC
 
 
-Matchday 27
-[Tue Jan/27]
-  19.45  Cambridge United         1-1 (1-0)  Dagenham & Redbridge
+▪ Matchday 27
+Tue Jan 27
+  19:45  Cambridge United         1-1 (1-0)  Dagenham & Redbridge
 
 
-Matchday 28
-[Sat Jan/31]
-  15.00  Southend United          1-0 (0-0)  York City
+▪ Matchday 28
+Sat Jan 31
+  15:00  Southend United          1-0 (0-0)  York City
          Dagenham & Redbridge     3-1 (0-0)  Cheltenham Town
          Stevenage FC             0-2 (0-0)  Oxford United
          Accrington Stanley       1-5 (1-2)  Northampton Town
@@ -475,9 +475,9 @@ Matchday 28
          Wycombe Wanderers        0-0  Portsmouth FC
 
 
-Matchday 29
-[Sat Feb/7]
-  15.00  York City                0-2 (0-1)  Dagenham & Redbridge
+▪ Matchday 29
+Sat Feb 7
+  15:00  York City                0-2 (0-1)  Dagenham & Redbridge
          Shrewsbury Town          1-1 (0-0)  Southend United
          Tranmere Rovers          0-2 (0-0)  Carlisle United
          AFC Wimbledon            2-0 (1-0)  Newport County
@@ -491,9 +491,9 @@ Matchday 29
          Portsmouth FC            1-0 (0-0)  Hartlepool United
 
 
-Matchday 30
-[Tue Feb/10]
-  19.45  Southend United          2-0 (2-0)  Cheltenham Town
+▪ Matchday 30
+Tue Feb 10
+  19:45  Southend United          2-0 (2-0)  Cheltenham Town
          Stevenage FC             0-0  Bury FC
          Newport County           1-1 (0-1)  Tranmere Rovers
          Accrington Stanley       1-0 (0-0)  Oxford United
@@ -507,9 +507,9 @@ Matchday 30
          Wycombe Wanderers        0-2 (0-2)  Plymouth Argyle
 
 
-Matchday 31
-[Sat Feb/14]
-  15.00  Southend United          1-2 (0-0)  Accrington Stanley
+▪ Matchday 31
+Sat Feb 14
+  15:00  Southend United          1-2 (0-0)  Accrington Stanley
          York City                2-0 (1-0)  Tranmere Rovers
          Shrewsbury Town          2-0 (1-0)  AFC Wimbledon
          Burton Albion            2-0 (1-0)  Oxford United
@@ -520,23 +520,23 @@ Matchday 31
          Plymouth Argyle          2-0 (0-0)  Cambridge United
          Portsmouth FC            1-0 (0-0)  Exeter City
          Wycombe Wanderers        1-2 (0-1)  Newport County
-[Sun Feb/15]
-  13.00  Morecambe FC             2-3 (1-1)  Dagenham & Redbridge
+Sun Feb 15
+  13:00  Morecambe FC             2-3 (1-1)  Dagenham & Redbridge
 
 
-Matchday 24
-[Tue Feb/17]
-  19.45  Mansfield Town           1-0 (1-0)  Luton Town
+▪ Matchday 24
+Tue Feb 17
+  19:45  Mansfield Town           1-0 (1-0)  Luton Town
 
 
-Matchday 32
-[Fri Feb/20]
-  19.45  Accrington Stanley       1-1 (0-1)  Cheltenham Town
-[Sat Feb/21]
-  15.00  Oxford United            3-0 (1-0)  Mansfield Town
+▪ Matchday 32
+Fri Feb 20
+  19:45  Accrington Stanley       1-1 (0-1)  Cheltenham Town
+Sat Feb 21
+  15:00  Oxford United            3-0 (1-0)  Mansfield Town
          Tranmere Rovers          2-1 (2-0)  Shrewsbury Town
-  13.00  Exeter City              1-3 (1-1)  Plymouth Argyle
-  15.00  AFC Wimbledon            3-2 (2-1)  Luton Town
+  13:00  Exeter City              1-3 (1-1)  Plymouth Argyle
+  15:00  AFC Wimbledon            3-2 (2-1)  Luton Town
          Bury FC                  1-0 (0-0)  Hartlepool United
          Cambridge United         2-6 (1-4)  Portsmouth FC
          Carlisle United          2-3 (0-1)  Wycombe Wanderers
@@ -546,20 +546,20 @@ Matchday 32
          Stevenage FC             4-2 (1-0)  Southend United
 
 
-Matchday 24
-[Tue Feb/24]
-  19.45  Cambridge United         0-0  AFC Wimbledon
+▪ Matchday 24
+Tue Feb 24
+  19:45  Cambridge United         0-0  AFC Wimbledon
          Portsmouth FC            3-2 (0-1)  Tranmere Rovers
 
 
-Matchday 23
-[Tue Feb/24]
-  19.45  Accrington Stanley       1-0 (1-0)  Burton Albion
+▪ Matchday 23
+Tue Feb 24
+  19:45  Accrington Stanley       1-0 (1-0)  Burton Albion
 
 
-Matchday 33
-[Sat Feb/28]
-  15.00  Cheltenham Town          2-0 (1-0)  Tranmere Rovers
+▪ Matchday 33
+Sat Feb 28
+  15:00  Cheltenham Town          2-0 (1-0)  Tranmere Rovers
          Hartlepool United        1-0 (0-0)  AFC Wimbledon
          Luton Town               2-0 (1-0)  Accrington Stanley
          Mansfield Town           2-1 (0-0)  Dagenham & Redbridge
@@ -573,9 +573,9 @@ Matchday 33
          Burton Albion            0-1 (0-0)  Newport County
 
 
-Matchday 34
-[Tue Mar/3]
-  19.45  Accrington Stanley       1-2 (1-1)  Shrewsbury Town
+▪ Matchday 34
+Tue Mar 3
+  19:45  Accrington Stanley       1-2 (1-1)  Shrewsbury Town
          AFC Wimbledon            0-0  Southend United
          Bury FC                  1-0 (1-0)  Luton Town
          Cambridge United         0-3 (0-1)  York City
@@ -588,9 +588,9 @@ Matchday 34
          Tranmere Rovers          1-2 (1-2)  Wycombe Wanderers
 
 
-Matchday 35
-[Sat Mar/7]
-  15.00  Accrington Stanley       1-1 (1-1)  Portsmouth FC
+▪ Matchday 35
+Sat Mar 7
+  15:00  Accrington Stanley       1-1 (1-1)  Portsmouth FC
          AFC Wimbledon            2-1 (1-1)  York City
          Bury FC                  0-1 (0-0)  Oxford United
          Carlisle United          1-3 (1-1)  Exeter City
@@ -604,11 +604,11 @@ Matchday 35
          Tranmere Rovers          2-3 (1-1)  Dagenham & Redbridge
 
 
-Matchday 36
-[Fri Mar/13]
-  19.45  Newport County           1-1 (1-1)  Cheltenham Town
-[Sat Mar/14]
-  15.00  Burton Albion            3-0 (1-0)  Accrington Stanley
+▪ Matchday 36
+Fri Mar 13
+  19:45  Newport County           1-1 (1-1)  Cheltenham Town
+Sat Mar 14
+  15:00  Burton Albion            3-0 (1-0)  Accrington Stanley
          Cambridge United         1-1 (0-1)  Stevenage FC
          Dagenham & Redbridge     1-3 (1-2)  Southend United
          Exeter City              3-2 (0-1)  AFC Wimbledon
@@ -621,9 +621,9 @@ Matchday 36
          York City                0-0  Carlisle United
 
 
-Matchday 37
-[Tue Mar/17]
-  19.45  Cambridge United         1-2 (0-1)  Tranmere Rovers
+▪ Matchday 37
+Tue Mar 17
+  19:45  Cambridge United         1-2 (0-1)  Tranmere Rovers
          Dagenham & Redbridge     2-0 (1-0)  Plymouth Argyle
          Exeter City              0-0  Stevenage FC
          Mansfield Town           2-1 (0-0)  AFC Wimbledon
@@ -634,13 +634,13 @@ Matchday 37
          Portsmouth FC            2-2 (2-2)  Cheltenham Town
          Wycombe Wanderers        2-2 (1-1)  Accrington Stanley
          York City                0-1 (0-1)  Bury FC
-[Wed Mar/18]
-  19.45  Burton Albion            2-1 (0-1)  Southend United
+Wed Mar 18
+  19:45  Burton Albion            2-1 (0-1)  Southend United
 
 
-Matchday 38
-[Sat Mar/21]
-  15.00  Accrington Stanley       2-2 (0-0)  York City
+▪ Matchday 38
+Sat Mar 21
+  15:00  Accrington Stanley       2-2 (0-0)  York City
          AFC Wimbledon            1-0 (1-0)  Portsmouth FC
          Bury FC                  2-1 (0-1)  Northampton Town
          Carlisle United          1-1 (0-0)  Morecambe FC
@@ -651,15 +651,15 @@ Matchday 38
          Southend United          0-0  Cambridge United
          Stevenage FC             0-1 (0-0)  Dagenham & Redbridge
          Tranmere Rovers          1-4 (1-2)  Burton Albion
-[Tue Mar/24]
-  19.45  Luton Town               2-3 (2-3)  Wycombe Wanderers
+Tue Mar 24
+  19:45  Luton Town               2-3 (2-3)  Wycombe Wanderers
 
 
-Matchday 39
-[Fri Mar/27]
-  19.45  Accrington Stanley       0-2 (0-0)  Newport County
-[Sat Mar/28]
-  15.00  Cheltenham Town          0-3 (0-1)  Plymouth Argyle
+▪ Matchday 39
+Fri Mar 27
+  19:45  Accrington Stanley       0-2 (0-0)  Newport County
+Sat Mar 28
+  15:00  Cheltenham Town          0-3 (0-1)  Plymouth Argyle
          Dagenham & Redbridge     0-1 (0-0)  Wycombe Wanderers
          Exeter City              1-1 (0-1)  Morecambe FC
          Hartlepool United        2-1 (1-1)  Cambridge United
@@ -668,13 +668,13 @@ Matchday 39
          Oxford United            2-1 (1-1)  Carlisle United
          Portsmouth FC            0-2 (0-1)  Shrewsbury Town
          Tranmere Rovers          1-1 (0-1)  AFC Wimbledon
-[Mon Mar/30]
-  19.45  Burton Albion            1-1 (1-1)  Stevenage FC
+Mon Mar 30
+  19:45  Burton Albion            1-1 (1-1)  Stevenage FC
 
 
-Matchday 40
-[Fri Apr/3]
-  15.00  York City                1-0 (0-0)  Cheltenham Town
+▪ Matchday 40
+Fri Apr 3
+  15:00  York City                1-0 (0-0)  Cheltenham Town
          AFC Wimbledon            2-2 (0-0)  Northampton Town
          Cambridge United         0-2 (0-1)  Bury FC
          Carlisle United          2-2 (1-2)  Portsmouth FC
@@ -688,12 +688,12 @@ Matchday 40
          Wycombe Wanderers        2-3 (0-2)  Oxford United
 
 
-Matchday 41
-[Mon Apr/6]
-  15.00  Tranmere Rovers          0-1 (0-0)  Luton Town
-  13.00  Exeter City              2-0 (0-0)  Newport County
+▪ Matchday 41
+Mon Apr 6
+  15:00  Tranmere Rovers          0-1 (0-0)  Luton Town
+  13:00  Exeter City              2-0 (0-0)  Newport County
          Mansfield Town           0-1 (0-0)  Shrewsbury Town
-  15.00  Accrington Stanley       3-1 (1-0)  Carlisle United
+  15:00  Accrington Stanley       3-1 (1-0)  Carlisle United
          Burton Albion            1-0 (0-0)  Wycombe Wanderers
          Bury FC                  1-2 (1-0)  Morecambe FC
          Cheltenham Town          0-1 (0-0)  Stevenage FC
@@ -704,9 +704,9 @@ Matchday 41
          Portsmouth FC            2-1 (0-0)  Plymouth Argyle
 
 
-Matchday 42
-[Sat Apr/11]
-  15.00  York City                1-0 (0-0)  Hartlepool United
+▪ Matchday 42
+Sat Apr 11
+  15:00  York City                1-0 (0-0)  Hartlepool United
          AFC Wimbledon            0-0  Oxford United
          Cambridge United         2-2 (1-1)  Accrington Stanley
          Carlisle United          1-0 (0-0)  Dagenham & Redbridge
@@ -720,9 +720,9 @@ Matchday 42
          Wycombe Wanderers        2-1 (1-0)  Cheltenham Town
 
 
-Matchday 43
-[Tue Apr/14]
-  19.45  Oxford United            1-1 (0-1)  Northampton Town
+▪ Matchday 43
+Tue Apr 14
+  19:45  Oxford United            1-1 (0-1)  Northampton Town
          Bury FC                  1-0 (0-0)  Shrewsbury Town
          Cheltenham Town          3-1 (1-1)  Cambridge United
          Dagenham & Redbridge     0-0  Luton Town
@@ -733,13 +733,13 @@ Matchday 43
          Southend United          2-0 (1-0)  Newport County
          Stevenage FC             1-0 (1-0)  Portsmouth FC
          Wycombe Wanderers        2-1 (1-0)  Exeter City
-[Wed Apr/15]
-  19.45  Burton Albion            1-1 (0-1)  Carlisle United
+Wed Apr 15
+  19:45  Burton Albion            1-1 (0-1)  Carlisle United
 
 
-Matchday 44
-[Sat Apr/18]
-  15.00  Luton Town               3-0 (2-0)  Hartlepool United
+▪ Matchday 44
+Sat Apr 18
+  15:00  Luton Town               3-0 (2-0)  Hartlepool United
          Accrington Stanley       2-2 (2-1)  Stevenage FC
          AFC Wimbledon            0-0  Wycombe Wanderers
          Cambridge United         3-1 (2-0)  Mansfield Town
@@ -753,14 +753,14 @@ Matchday 44
          Tranmere Rovers          0-3 (0-0)  Oxford United
 
 
-Matchday 39
-[Tue Apr/21]
-  19.45  Bury FC                  0-1 (0-0)  Southend United
+▪ Matchday 39
+Tue Apr 21
+  19:45  Bury FC                  0-1 (0-0)  Southend United
 
 
-Matchday 45
-[Sat Apr/25]
-  15.00  Burton Albion            3-1 (3-0)  Northampton Town
+▪ Matchday 45
+Sat Apr 25
+  15:00  Burton Albion            3-1 (3-0)  Northampton Town
          Bury FC                  2-0 (1-0)  AFC Wimbledon
          Cheltenham Town          0-1 (0-1)  Shrewsbury Town
          Dagenham & Redbridge     4-0 (1-0)  Accrington Stanley
@@ -774,9 +774,9 @@ Matchday 45
          York City                0-2 (0-0)  Newport County
 
 
-Matchday 46
-[Sat May/2]
-  15.00  Accrington Stanley       2-1 (0-1)  Mansfield Town
+▪ Matchday 46
+Sat May 2
+  15:00  Accrington Stanley       2-1 (0-1)  Mansfield Town
          AFC Wimbledon            1-1 (1-1)  Cheltenham Town
          Cambridge United         2-3 (1-1)  Burton Albion
          Carlisle United          3-3 (3-0)  Hartlepool United

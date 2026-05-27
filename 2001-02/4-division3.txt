@@ -1,14 +1,14 @@
 = English Division Three 2001/02
 
-# Date       Sat Aug/11 2001 - Sat Apr/20 2002 (252d)
+# Date       Sat Aug 11 2001 - Sat Apr 20 2002 (252d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/11]
-  15.00  Bristol Rovers           1-0  Torquay United
+▪ Matchday 1
+Sat Aug 11
+  15:00  Bristol Rovers           1-0  Torquay United
          Carlisle United          0-2  Luton Town
          Cheltenham Town          1-1  Leyton Orient
          Exeter City              1-3  Hull City
@@ -22,11 +22,11 @@ Matchday 1
          York City                0-1  Rushden & Diamonds FC
 
 
-Matchday 2
-[Thu Aug/16]
-  19.45  Rushden & Diamonds FC    0-0  Lincoln City
-[Sat Aug/18]
-  15.00  Darlington FC            2-0  Kidderminster Harriers
+▪ Matchday 2
+Thu Aug 16
+  19:45  Rushden & Diamonds FC    0-0  Lincoln City
+Sat Aug 18
+  15:00  Darlington FC            2-0  Kidderminster Harriers
          Halifax Town             1-1  Exeter City
          Hull City                0-0  Plymouth Argyle
          Leyton Orient            0-0  Carlisle United
@@ -39,9 +39,9 @@ Matchday 2
          Torquay United           0-3  York City
 
 
-Matchday 3
-[Sat Aug/25]
-  15.00  Bristol Rovers           3-2  Luton Town
+▪ Matchday 3
+Sat Aug 25
+  15:00  Bristol Rovers           3-2  Luton Town
          Carlisle United          0-0  Hull City
          Cheltenham Town          2-3  Mansfield Town
          Exeter City              0-4  Scunthorpe United
@@ -55,9 +55,9 @@ Matchday 3
          York City                2-1  Leyton Orient
 
 
-Matchday 4
-[Mon Aug/27]
-  15.00  Darlington FC            1-0  Bristol Rovers
+▪ Matchday 4
+Mon Aug 27
+  15:00  Darlington FC            1-0  Bristol Rovers
          Halifax Town             0-2  Oxford United
          Hull City                2-1  Kidderminster Harriers
          Leyton Orient            2-0  Hartlepool United
@@ -68,15 +68,15 @@ Matchday 4
          Scunthorpe United        1-1  Lincoln City
          Swansea City             2-2  Cheltenham Town
          Torquay United           2-1  Carlisle United
-[Tue Aug/28]
-  19.45  Shrewsbury Town          3-2  York City
+Tue Aug 28
+  19:45  Shrewsbury Town          3-2  York City
 
 
-Matchday 5
-[Sat Sep/1]
-  12.00  Carlisle United          1-2  Rochdale AFC
-  13.00  Southend United          1-2  Leyton Orient
-  15.00  Bristol Rovers           0-0  Shrewsbury Town
+▪ Matchday 5
+Sat Sep 1
+  12:00  Carlisle United          1-2  Rochdale AFC
+  13:00  Southend United          1-2  Leyton Orient
+  15:00  Bristol Rovers           0-0  Shrewsbury Town
          Cheltenham Town          2-2  Torquay United
          Exeter City              2-2  Luton Town
          Kidderminster Harriers   1-1  Mansfield Town
@@ -86,12 +86,12 @@ Matchday 5
          York City                1-0  Halifax Town
 
 
-Matchday 6
-[Sat Sep/8]
-  15.00  Swansea City             4-2  Exeter City
+▪ Matchday 6
+Sat Sep 8
+  15:00  Swansea City             4-2  Exeter City
          Shrewsbury Town          2-1  Cheltenham Town
-  12.00  Torquay United           0-1  Plymouth Argyle
-  15.00  Darlington FC            2-2  Carlisle United
+  12:00  Torquay United           0-1  Plymouth Argyle
+  15:00  Darlington FC            2-2  Carlisle United
          Halifax Town             0-0  Macclesfield Town
          Hull City                4-0  York City
          Leyton Orient            3-1  Bristol Rovers
@@ -102,16 +102,16 @@ Matchday 6
          Scunthorpe United        1-0  Hartlepool United
 
 
-Matchday 5
-[Tue Sep/11]
-  19.45  Plymouth Argyle          3-1  Swansea City
+▪ Matchday 5
+Tue Sep 11
+  19:45  Plymouth Argyle          3-1  Swansea City
 
 
-Matchday 7
-[Fri Sep/14]
-  19.45  Mansfield Town           2-1  Shrewsbury Town
-[Sat Sep/15]
-  15.00  Torquay United           2-1  Darlington FC
+▪ Matchday 7
+Fri Sep 14
+  19:45  Mansfield Town           2-1  Shrewsbury Town
+Sat Sep 15
+  15:00  Torquay United           2-1  Darlington FC
          Cheltenham Town          2-0  Carlisle United
          Exeter City              3-2  Oxford United
          Kidderminster Harriers   0-0  Plymouth Argyle
@@ -124,12 +124,12 @@ Matchday 7
          York City                1-2  Luton Town
 
 
-Matchday 8
-[Tue Sep/18]
-  19.45  Shrewsbury Town          4-0  Kidderminster Harriers
-  19.30  Darlington FC            3-0  Leyton Orient
+▪ Matchday 8
+Tue Sep 18
+  19:45  Shrewsbury Town          4-0  Kidderminster Harriers
+  19:30  Darlington FC            3-0  Leyton Orient
          Scunthorpe United        2-2  Swansea City
-  19.45  Bristol Rovers           2-1  Southend United
+  19:45  Bristol Rovers           2-1  Southend United
          Carlisle United          2-1  York City
          Halifax Town             1-0  Mansfield Town
          Hartlepool United        0-1  Cheltenham Town
@@ -140,9 +140,9 @@ Matchday 8
          Rushden & Diamonds FC    0-0  Torquay United
 
 
-Matchday 9
-[Sat Sep/22]
-  15.00  Hull City                2-1  Swansea City
+▪ Matchday 9
+Sat Sep 22
+  15:00  Hull City                2-1  Swansea City
          Bristol Rovers           2-2  York City
          Carlisle United          2-2  Lincoln City
          Darlington FC            4-0  Exeter City
@@ -156,9 +156,9 @@ Matchday 9
          Scunthorpe United        0-0  Mansfield Town
 
 
-Matchday 10
-[Tue Sep/25]
-  19.45  Rochdale AFC             2-0  Halifax Town
+▪ Matchday 10
+Tue Sep 25
+  19:45  Rochdale AFC             2-0  Halifax Town
          Exeter City              1-1  Rushden & Diamonds FC
          Kidderminster Harriers   0-0  Oxford United
          Leyton Orient            1-3  Luton Town
@@ -171,11 +171,11 @@ Matchday 10
          York City                0-0  Plymouth Argyle
 
 
-Matchday 11
-[Fri Sep/28]
-  19.45  Southend United          0-1  Cheltenham Town
-[Sat Sep/29]
-  15.00  Scunthorpe United        3-1  Shrewsbury Town
+▪ Matchday 11
+Fri Sep 28
+  19:45  Southend United          0-1  Cheltenham Town
+Sat Sep 29
+  15:00  Scunthorpe United        3-1  Shrewsbury Town
          Rochdale AFC             3-1  Mansfield Town
          Bristol Rovers           1-1  Oxford United
          Darlington FC            0-0  Rushden & Diamonds FC
@@ -188,28 +188,28 @@ Matchday 11
          Plymouth Argyle          2-1  Luton Town
 
 
-Matchday 12
-[Fri Oct/5]
-  19.45  Torquay United           2-1  Southend United
+▪ Matchday 12
+Fri Oct 5
+  19:45  Torquay United           2-1  Southend United
          Shrewsbury Town          1-1  Hull City
          Cheltenham Town          2-1  Lincoln City
          Halifax Town             0-0  Scunthorpe United
          Luton Town               5-2  Darlington FC
          Mansfield Town           3-2  Leyton Orient
          Rushden & Diamonds FC    2-1  Hartlepool United
-[Sat Oct/6]
-  13.00  York City                2-3  Exeter City
+Sat Oct 6
+  13:00  York City                2-3  Exeter City
          Oxford United            1-1  Plymouth Argyle
-  15.00  Carlisle United          1-0  Bristol Rovers
-[Sun Oct/7]
-  14.00  Macclesfield Town        0-1  Kidderminster Harriers
-[Tue Oct/9]
-  19.45  Swansea City             0-1  Rochdale AFC
+  15:00  Carlisle United          1-0  Bristol Rovers
+Sun Oct 7
+  14:00  Macclesfield Town        0-1  Kidderminster Harriers
+Tue Oct 9
+  19:45  Swansea City             0-1  Rochdale AFC
 
 
-Matchday 13
-[Sat Oct/13]
-  15.00  Scunthorpe United        0-2  Luton Town
+▪ Matchday 13
+Sat Oct 13
+  15:00  Scunthorpe United        0-2  Luton Town
          Plymouth Argyle          3-0  Halifax Town
          Bristol Rovers           0-2  Macclesfield Town
          Darlington FC            0-1  Mansfield Town
@@ -223,9 +223,9 @@ Matchday 13
          Southend United          4-2  Swansea City
 
 
-Matchday 14
-[Sat Oct/20]
-  15.00  Torquay United           1-0  Hartlepool United
+▪ Matchday 14
+Sat Oct 20
+  15:00  Torquay United           1-0  Hartlepool United
          Swansea City             0-1  Leyton Orient
          Carlisle United          1-0  Kidderminster Harriers
          Cheltenham Town          3-1  Exeter City
@@ -238,13 +238,13 @@ Matchday 14
          York City                2-1  Southend United
 
 
-Matchday 15
-[Tue Oct/23]
-  19.45  Swansea City             2-0  Darlington FC
+▪ Matchday 15
+Tue Oct 23
+  19:45  Swansea City             2-0  Darlington FC
          Halifax Town             2-4  Luton Town
          Shrewsbury Town          0-2  Rushden & Diamonds FC
-  19.30  Scunthorpe United        2-0  Southend United
-  19.45  Exeter City              1-0  Bristol Rovers
+  19:30  Scunthorpe United        2-0  Southend United
+  19:45  Exeter City              1-0  Bristol Rovers
          Rochdale AFC             2-2  Cheltenham Town
          Hull City                1-1  Leyton Orient
          Kidderminster Harriers   4-1  York City
@@ -254,9 +254,9 @@ Matchday 15
          Plymouth Argyle          2-0  Lincoln City
 
 
-Matchday 16
-[Sat Oct/27]
-  15.00  Leyton Orient            4-2  Rochdale AFC
+▪ Matchday 16
+Sat Oct 27
+  15:00  Leyton Orient            4-2  Rochdale AFC
          York City                1-0  Macclesfield Town
          Torquay United           2-1  Shrewsbury Town
          Carlisle United          0-0  Halifax Town
@@ -267,13 +267,13 @@ Matchday 16
          Lincoln City             0-0  Exeter City
          Luton Town               3-0  Swansea City
          Southend United          1-0  Kidderminster Harriers
-[Sun Oct/28]
-  14.15  Bristol Rovers           1-2  Plymouth Argyle
+Sun Oct 28
+  14:15  Bristol Rovers           1-2  Plymouth Argyle
 
 
-Matchday 17
-[Sat Nov/3]
-  15.00  Scunthorpe United        4-1  Leyton Orient
+▪ Matchday 17
+Sat Nov 3
+  15:00  Scunthorpe United        4-1  Leyton Orient
          Swansea City             0-0  Rushden & Diamonds FC
          Shrewsbury Town          1-1  Lincoln City
          Exeter City              2-1  Southend United
@@ -287,42 +287,42 @@ Matchday 17
          Rochdale AFC             2-0  Torquay United
 
 
-Matchday 5
-[Tue Nov/6]
-  19.45  Hartlepool United        4-0  Hull City
+▪ Matchday 5
+Tue Nov 6
+  19:45  Hartlepool United        4-0  Hull City
 
 
-Matchday 10
-[Tue Nov/6]
-  19.45  Cheltenham Town          0-0  Bristol Rovers
+▪ Matchday 10
+Tue Nov 6
+  19:45  Cheltenham Town          0-0  Bristol Rovers
 
 
-Matchday 14
-[Tue Nov/6]
-  19.45  Shrewsbury Town          3-0  Darlington FC
+▪ Matchday 14
+Tue Nov 6
+  19:45  Shrewsbury Town          3-0  Darlington FC
 
 
-Matchday 18
-[Fri Nov/9]
-  19.45  Cheltenham Town          0-0  Plymouth Argyle
+▪ Matchday 18
+Fri Nov 9
+  19:45  Cheltenham Town          0-0  Plymouth Argyle
          Luton Town               1-0  Shrewsbury Town
          Southend United          3-0  Macclesfield Town
          York City                0-2  Scunthorpe United
-[Sat Nov/10]
-  13.00  Bristol Rovers           0-2  Rochdale AFC
+Sat Nov 10
+  13:00  Bristol Rovers           0-2  Rochdale AFC
          Darlington FC            1-0  Oxford United
          Hartlepool United        2-0  Exeter City
          Rushden & Diamonds FC    2-1  Halifax Town
-  15.00  Leyton Orient            1-3  Kidderminster Harriers
+  15:00  Leyton Orient            1-3  Kidderminster Harriers
          Lincoln City             2-1  Hull City
          Torquay United           1-2  Swansea City
-  12.00  Carlisle United          0-1  Mansfield Town
+  12:00  Carlisle United          0-1  Mansfield Town
 
 
-Matchday 19
-[Tue Nov/20]
-  19.30  Darlington FC            1-0  Rochdale AFC
-  19.45  Bristol Rovers           0-1  Mansfield Town
+▪ Matchday 19
+Tue Nov 20
+  19:30  Darlington FC            1-0  Rochdale AFC
+  19:45  Bristol Rovers           0-1  Mansfield Town
          Carlisle United          0-1  Shrewsbury Town
          Cheltenham Town          4-1  Macclesfield Town
          Hartlepool United        3-0  Halifax Town
@@ -335,12 +335,12 @@ Matchday 19
          York City                0-2  Swansea City
 
 
-Matchday 20
-[Fri Nov/23]
-  19.45  Swansea City             0-1  Hartlepool United
+▪ Matchday 20
+Fri Nov 23
+  19:45  Swansea City             0-1  Hartlepool United
          Mansfield Town           1-1  York City
-[Sat Nov/24]
-  15.00  Exeter City              0-0  Leyton Orient
+Sat Nov 24
+  15:00  Exeter City              0-0  Leyton Orient
          Halifax Town             2-0  Torquay United
          Hull City                0-0  Bristol Rovers
          Kidderminster Harriers   3-0  Rushden & Diamonds FC
@@ -352,11 +352,11 @@ Matchday 20
          Shrewsbury Town          2-0  Southend United
 
 
-Matchday 21
-[Fri Nov/30]
-  19.45  Hartlepool United        1-1  Rochdale AFC
-[Sat Dec/1]
-  15.00  Carlisle United          3-0  Scunthorpe United
+▪ Matchday 21
+Fri Nov 30
+  19:45  Hartlepool United        1-1  Rochdale AFC
+Sat Dec 1
+  15:00  Carlisle United          3-0  Scunthorpe United
          Cheltenham Town          2-1  Halifax Town
          Darlington FC            3-1  York City
          Hull City                3-0  Oxford United
@@ -368,14 +368,14 @@ Matchday 21
          Torquay United           1-2  Macclesfield Town
 
 
-Matchday 30
-[Sat Dec/8]
-  15.00  Hartlepool United        1-2  Luton Town
+▪ Matchday 30
+Sat Dec 8
+  15:00  Hartlepool United        1-2  Luton Town
 
 
-Matchday 22
-[Sat Dec/15]
-  15.00  Exeter City              2-1  Kidderminster Harriers
+▪ Matchday 22
+Sat Dec 15
+  15:00  Exeter City              2-1  Kidderminster Harriers
          Halifax Town             1-2  Shrewsbury Town
          Lincoln City             0-0  Torquay United
          Luton Town               1-0  Rushden & Diamonds FC
@@ -388,35 +388,35 @@ Matchday 22
          York City                1-3  Cheltenham Town
 
 
-Matchday 23
-[Fri Dec/21]
-  19.45  Hull City                0-0  Southend United
+▪ Matchday 23
+Fri Dec 21
+  19:45  Hull City                0-0  Southend United
          Mansfield Town           0-1  Exeter City
          Shrewsbury Town          1-1  Macclesfield Town
          Swansea City             2-1  Bristol Rovers
-[Sat Dec/22]
-  15.00  Leyton Orient            5-0  Lincoln City
+Sat Dec 22
+  15:00  Leyton Orient            5-0  Lincoln City
          Torquay United           3-3  Oxford United
          Luton Town               2-2  Hartlepool United
          Rushden & Diamonds FC    3-1  Carlisle United
          Scunthorpe United        2-1  Plymouth Argyle
 
 
-Matchday 24
-[Wed Dec/26]
-  15.00  Oxford United            1-2  Luton Town
+▪ Matchday 24
+Wed Dec 26
+  15:00  Oxford United            1-2  Luton Town
          Macclesfield Town        1-1  Halifax Town
          Cheltenham Town          1-0  Shrewsbury Town
          Bristol Rovers           5-3  Leyton Orient
-  12.00  Southend United          4-2  Rushden & Diamonds FC
-  13.00  Exeter City              0-3  Swansea City
+  12:00  Southend United          4-2  Rushden & Diamonds FC
+  13:00  Exeter City              0-3  Swansea City
          Kidderminster Harriers   4-1  Rochdale AFC
          Plymouth Argyle          2-2  Torquay United
 
 
-Matchday 25
-[Sat Dec/29]
-  15.00  York City                1-1  Shrewsbury Town
+▪ Matchday 25
+Sat Dec 29
+  15:00  York City                1-1  Shrewsbury Town
          Southend United          1-2  Luton Town
          Plymouth Argyle          1-0  Rushden & Diamonds FC
          Oxford United            6-1  Halifax Town
@@ -429,27 +429,27 @@ Matchday 25
          Exeter City              1-1  Rochdale AFC
 
 
-Matchday 26
-[Tue Jan/1]
-  15.00  Torquay United           0-1  Cheltenham Town
+▪ Matchday 26
+Tue Jan 1
+  15:00  Torquay United           0-1  Cheltenham Town
 
 
-Matchday 27
-[Sat Jan/5]
-  15.00  Torquay United           1-4  Kidderminster Harriers
+▪ Matchday 27
+Sat Jan 5
+  15:00  Torquay United           1-4  Kidderminster Harriers
          Swansea City             0-0  Lincoln City
-[Tue Jan/8]
-  19.45  Shrewsbury Town          1-0  Oxford United
+Tue Jan 8
+  19:45  Shrewsbury Town          1-0  Oxford United
 
 
-Matchday 21
-[Tue Jan/8]
-  19.45  Kidderminster Harriers   1-4  Luton Town
+▪ Matchday 21
+Tue Jan 8
+  19:45  Kidderminster Harriers   1-4  Luton Town
 
 
-Matchday 28
-[Sat Jan/12]
-  15.00  Bristol Rovers           1-1  Scunthorpe United
+▪ Matchday 28
+Sat Jan 12
+  15:00  Bristol Rovers           1-1  Scunthorpe United
          Carlisle United          6-1  Leyton Orient
          Oxford United            2-1  Swansea City
          Southend United          1-0  Mansfield Town
@@ -463,25 +463,25 @@ Matchday 28
          Cheltenham Town          1-1  Luton Town
 
 
-Matchday 27
-[Tue Jan/15]
-  19.30  Scunthorpe United        3-4  Exeter City
+▪ Matchday 27
+Tue Jan 15
+  19:30  Scunthorpe United        3-4  Exeter City
 
 
-Matchday 26
-[Tue Jan/15]
-  19.45  Shrewsbury Town          0-1  Bristol Rovers
+▪ Matchday 26
+Tue Jan 15
+  19:45  Shrewsbury Town          0-1  Bristol Rovers
 
 
-Matchday 27
-[Tue Jan/15]
-  19.45  Hull City                0-1  Carlisle United
+▪ Matchday 27
+Tue Jan 15
+  19:45  Hull City                0-1  Carlisle United
 
 
-Matchday 29
-[Sat Jan/19]
-  12.00  Torquay United           2-1  Bristol Rovers
-  15.00  Darlington FC            2-2  Southend United
+▪ Matchday 29
+Sat Jan 19
+  12:00  Torquay United           2-1  Bristol Rovers
+  15:00  Darlington FC            2-2  Southend United
          Halifax Town             3-0  Lincoln City
          Hull City                2-0  Exeter City
          Rochdale AFC             1-1  Oxford United
@@ -494,9 +494,9 @@ Matchday 29
          Mansfield Town           3-0  Hartlepool United
 
 
-Matchday 30
-[Tue Jan/22]
-  19.45  York City                0-0  Rochdale AFC
+▪ Matchday 30
+Tue Jan 22
+  19:45  York City                0-0  Rochdale AFC
          Carlisle United          3-0  Rushden & Diamonds FC
          Exeter City              0-1  Mansfield Town
          Kidderminster Harriers   2-0  Halifax Town
@@ -506,13 +506,13 @@ Matchday 30
          Plymouth Argyle          2-1  Scunthorpe United
          Southend United          2-0  Hull City
          Bristol Rovers           4-1  Swansea City
-[Wed Jan/23]
-  19.45  Cheltenham Town          0-0  Darlington FC
+Wed Jan 23
+  19:45  Cheltenham Town          0-0  Darlington FC
 
 
-Matchday 31
-[Sat Jan/26]
-  15.00  Hull City                3-0  Shrewsbury Town
+▪ Matchday 31
+Sat Jan 26
+  15:00  Hull City                3-0  Shrewsbury Town
          Plymouth Argyle          4-2  Oxford United
          Rochdale AFC             2-0  Swansea City
          Scunthorpe United        4-0  Halifax Town
@@ -521,36 +521,36 @@ Matchday 31
          Hartlepool United        5-1  Rushden & Diamonds FC
 
 
-Matchday 24
-[Tue Jan/29]
-  19.45  York City                2-1  Hull City
+▪ Matchday 24
+Tue Jan 29
+  19:45  York City                2-1  Hull City
 
 
-Matchday 26
-[Tue Jan/29]
-  19.45  Mansfield Town           1-1  Kidderminster Harriers
-  19.30  Darlington FC            2-1  Lincoln City
+▪ Matchday 26
+Tue Jan 29
+  19:45  Mansfield Town           1-1  Kidderminster Harriers
+  19:30  Darlington FC            2-1  Lincoln City
 
 
-Matchday 24
-[Tue Jan/29]
-  19.45  Hartlepool United        3-2  Scunthorpe United
+▪ Matchday 24
+Tue Jan 29
+  19:45  Hartlepool United        3-2  Scunthorpe United
 
 
-Matchday 26
-[Tue Jan/29]
-  19.45  Rochdale AFC             1-1  Carlisle United
+▪ Matchday 26
+Tue Jan 29
+  19:45  Rochdale AFC             1-1  Carlisle United
 
 
-Matchday 27
-[Tue Jan/29]
-  19.45  Rushden & Diamonds FC    2-0  Macclesfield Town
+▪ Matchday 27
+Tue Jan 29
+  19:45  Rushden & Diamonds FC    2-0  Macclesfield Town
          Halifax Town             1-1  Southend United
 
 
-Matchday 32
-[Sat Feb/2]
-  15.00  Luton Town               2-0  Plymouth Argyle
+▪ Matchday 32
+Sat Feb 2
+  15:00  Luton Town               2-0  Plymouth Argyle
          Halifax Town             0-1  Hull City
          Rushden & Diamonds FC    2-1  Darlington FC
          Shrewsbury Town          2-2  Scunthorpe United
@@ -560,30 +560,30 @@ Matchday 32
          Macclesfield Town        1-2  Exeter City
 
 
-Matchday 26
-[Tue Feb/5]
-  19.45  Swansea City             0-1  Plymouth Argyle
+▪ Matchday 26
+Tue Feb 5
+  19:45  Swansea City             0-1  Plymouth Argyle
 
 
-Matchday 23
-[Tue Feb/5]
-  19.45  Rochdale AFC             5-4  York City
+▪ Matchday 23
+Tue Feb 5
+  19:45  Rochdale AFC             5-4  York City
 
 
-Matchday 26
-[Tue Feb/5]
-  19.45  Rushden & Diamonds FC    2-1  Oxford United
+▪ Matchday 26
+Tue Feb 5
+  19:45  Rushden & Diamonds FC    2-1  Oxford United
          Hull City                1-1  Hartlepool United
 
 
-Matchday 24
-[Tue Feb/5]
-  19.45  Carlisle United          1-3  Darlington FC
+▪ Matchday 24
+Tue Feb 5
+  19:45  Carlisle United          1-3  Darlington FC
 
 
-Matchday 33
-[Sat Feb/9]
-  15.00  Kidderminster Harriers   2-2  Carlisle United
+▪ Matchday 33
+Sat Feb 9
+  15:00  Kidderminster Harriers   2-2  Carlisle United
          Hartlepool United        4-1  Torquay United
          Exeter City              0-2  Cheltenham Town
          Darlington FC            3-3  Shrewsbury Town
@@ -597,37 +597,37 @@ Matchday 33
          Hull City                2-1  Rushden & Diamonds FC
 
 
-Matchday 32
-[Tue Feb/12]
-  19.45  Swansea City             2-1  Kidderminster Harriers
+▪ Matchday 32
+Tue Feb 12
+  19:45  Swansea City             2-1  Kidderminster Harriers
 
 
-Matchday 22
-[Tue Feb/12]
-  19.45  Bristol Rovers           0-1  Hartlepool United
+▪ Matchday 22
+Tue Feb 12
+  19:45  Bristol Rovers           0-1  Hartlepool United
 
 
-Matchday 26
-[Tue Feb/12]
-  19.45  Halifax Town             1-1  York City
-  19.30  Scunthorpe United        1-1  Macclesfield Town
+▪ Matchday 26
+Tue Feb 12
+  19:45  Halifax Town             1-1  York City
+  19:30  Scunthorpe United        1-1  Macclesfield Town
 
 
-Matchday 23
-[Tue Feb/12]
-  19.30  Darlington FC            0-2  Cheltenham Town
+▪ Matchday 23
+Tue Feb 12
+  19:30  Darlington FC            0-2  Cheltenham Town
 
 
-Matchday 24
-[Tue Feb/12]
-  19.45  Lincoln City             1-4  Mansfield Town
+▪ Matchday 24
+Tue Feb 12
+  19:45  Lincoln City             1-4  Mansfield Town
 
 
-Matchday 34
-[Fri Feb/15]
-  19.45  Swansea City             3-2  Southend United
-[Sat Feb/16]
-  15.00  Shrewsbury Town          1-0  Leyton Orient
+▪ Matchday 34
+Fri Feb 15
+  19:45  Swansea City             3-2  Southend United
+Sat Feb 16
+  15:00  Shrewsbury Town          1-0  Leyton Orient
          Macclesfield Town        2-1  Bristol Rovers
          Carlisle United          1-0  Exeter City
          Rushden & Diamonds FC    1-1  Rochdale AFC
@@ -639,45 +639,45 @@ Matchday 34
          Halifax Town             0-2  Plymouth Argyle
 
 
-Matchday 31
-[Tue Feb/19]
-  19.45  Kidderminster Harriers   0-1  Macclesfield Town
+▪ Matchday 31
+Tue Feb 19
+  19:45  Kidderminster Harriers   0-1  Macclesfield Town
 
 
-Matchday 27
-[Tue Feb/19]
-  19.45  Leyton Orient            1-2  York City
+▪ Matchday 27
+Tue Feb 19
+  19:45  Leyton Orient            1-2  York City
 
 
-Matchday 32
-[Tue Feb/19]
-  19.45  Cheltenham Town          1-1  Southend United
+▪ Matchday 32
+Tue Feb 19
+  19:45  Cheltenham Town          1-1  Southend United
 
 
-Matchday 27
-[Tue Feb/19]
-  19.30  Darlington FC            1-1  Hartlepool United
+▪ Matchday 27
+Tue Feb 19
+  19:30  Darlington FC            1-1  Hartlepool United
 
 
-Matchday 25
-[Tue Feb/19]
-  19.45  Carlisle United          2-0  Torquay United
+▪ Matchday 25
+Tue Feb 19
+  19:45  Carlisle United          2-0  Torquay United
 
 
-Matchday 27
-[Tue Feb/19]
-  19.45  Luton Town               3-0  Bristol Rovers
+▪ Matchday 27
+Tue Feb 19
+  19:45  Luton Town               3-0  Bristol Rovers
 
 
-Matchday 35
-[Fri Feb/22]
-  19.45  Hull City                0-1  Macclesfield Town
-[Sat Feb/23]
-  15.00  Hartlepool United        5-1  Southend United
+▪ Matchday 35
+Fri Feb 22
+  19:45  Hull City                0-1  Macclesfield Town
+Sat Feb 23
+  15:00  Hartlepool United        5-1  Southend United
          Scunthorpe United        2-1  Rochdale AFC
          Halifax Town             0-1  Swansea City
-  16.00  Plymouth Argyle          2-1  Kidderminster Harriers
-  15.00  Shrewsbury Town          3-0  Mansfield Town
+  16:00  Plymouth Argyle          2-1  Kidderminster Harriers
+  15:00  Shrewsbury Town          3-0  Mansfield Town
          Darlington FC            1-3  Torquay United
          Bristol Rovers           1-2  Lincoln City
          Luton Town               2-1  York City
@@ -685,9 +685,9 @@ Matchday 35
          Oxford United            1-2  Exeter City
 
 
-Matchday 36
-[Tue Feb/26]
-  19.45  Leyton Orient            0-0  Darlington FC
+▪ Matchday 36
+Tue Feb 26
+  19:45  Leyton Orient            0-0  Darlington FC
          Mansfield Town           2-1  Halifax Town
          Macclesfield Town        0-1  Oxford United
          Lincoln City             0-1  Luton Town
@@ -699,11 +699,11 @@ Matchday 36
          Southend United          2-1  Bristol Rovers
 
 
-Matchday 37
-[Fri Mar/1]
-  19.45  Swansea City             1-0  Hull City
-[Sat Mar/2]
-  15.00  Rochdale AFC             1-0  Shrewsbury Town
+▪ Matchday 37
+Fri Mar 1
+  19:45  Swansea City             1-0  Hull City
+Sat Mar 2
+  15:00  Rochdale AFC             1-0  Shrewsbury Town
          Torquay United           0-1  Luton Town
          Cheltenham Town          1-1  Rushden & Diamonds FC
          Exeter City              4-2  Darlington FC
@@ -715,12 +715,12 @@ Matchday 37
          Southend United          2-2  Oxford United
 
 
-Matchday 38
-[Tue Mar/5]
-  19.45  Rushden & Diamonds FC    2-1  Exeter City
+▪ Matchday 38
+Tue Mar 5
+  19:45  Rushden & Diamonds FC    2-1  Exeter City
          Plymouth Argyle          1-0  York City
-  19.30  Darlington FC            0-1  Macclesfield Town
-  19.45  Oxford United            1-1  Kidderminster Harriers
+  19:30  Darlington FC            0-1  Macclesfield Town
+  19:45  Oxford United            1-1  Kidderminster Harriers
          Luton Town               3-0  Leyton Orient
          Shrewsbury Town          3-0  Swansea City
          Hull City                4-1  Mansfield Town
@@ -728,12 +728,12 @@ Matchday 38
          Halifax Town             1-2  Rochdale AFC
          Carlisle United          0-0  Southend United
          Bristol Rovers           1-2  Cheltenham Town
-  19.30  Scunthorpe United        1-0  Torquay United
+  19:30  Scunthorpe United        1-0  Torquay United
 
 
-Matchday 39
-[Sat Mar/9]
-  15.00  Cheltenham Town          4-0  York City
+▪ Matchday 39
+Sat Mar 9
+  15:00  Cheltenham Town          4-0  York City
          Hartlepool United        1-1  Bristol Rovers
          Hull City                0-1  Scunthorpe United
          Carlisle United          3-1  Swansea City
@@ -746,26 +746,26 @@ Matchday 39
          Southend United          0-0  Rochdale AFC
 
 
-Matchday 23
-[Tue Mar/12]
-  19.45  Halifax Town             1-0  Kidderminster Harriers
+▪ Matchday 23
+Tue Mar 12
+  19:45  Halifax Town             1-0  Kidderminster Harriers
 
 
-Matchday 26
-[Tue Mar/12]
-  19.45  Luton Town               3-0  Exeter City
+▪ Matchday 26
+Tue Mar 12
+  19:45  Luton Town               3-0  Exeter City
          Leyton Orient            2-1  Southend United
 
 
-Matchday 31
-[Tue Mar/12]
-  19.45  Bristol Rovers           0-0  Carlisle United
+▪ Matchday 31
+Tue Mar 12
+  19:45  Bristol Rovers           0-0  Carlisle United
          Lincoln City             0-1  Cheltenham Town
 
 
-Matchday 40
-[Sat Mar/16]
-  15.00  Oxford United            1-0  Hull City
+▪ Matchday 40
+Sat Mar 16
+  15:00  Oxford United            1-0  Hull City
          York City                2-0  Darlington FC
          Swansea City             2-0  Mansfield Town
          Scunthorpe United        2-1  Carlisle United
@@ -779,26 +779,26 @@ Matchday 40
          Luton Town               1-0  Kidderminster Harriers
 
 
-Matchday 31
-[Tue Mar/19]
-  19.45  Leyton Orient            2-0  Mansfield Town
+▪ Matchday 31
+Tue Mar 19
+  19:45  Leyton Orient            2-0  Mansfield Town
 
 
-Matchday 32
-[Tue Mar/19]
-  19.45  Carlisle United          0-2  Hartlepool United
+▪ Matchday 32
+Tue Mar 19
+  19:45  Carlisle United          0-2  Hartlepool United
 
 
-Matchday 31
-[Tue Mar/19]
-  19.45  Exeter City              2-1  York City
+▪ Matchday 31
+Tue Mar 19
+  19:45  Exeter City              2-1  York City
 
 
-Matchday 41
-[Fri Mar/22]
-  19.45  Hartlepool United        1-2  Macclesfield Town
-[Sat Mar/23]
-  15.00  Carlisle United          2-1  Oxford United
+▪ Matchday 41
+Fri Mar 22
+  19:45  Hartlepool United        1-2  Macclesfield Town
+Sat Mar 23
+  15:00  Carlisle United          2-1  Oxford United
          Leyton Orient            0-0  Hull City
          York City                0-1  Kidderminster Harriers
          Darlington FC            0-0  Swansea City
@@ -811,26 +811,26 @@ Matchday 41
          Lincoln City             0-1  Plymouth Argyle
 
 
-Matchday 32
-[Tue Mar/26]
-  19.45  York City                2-0  Lincoln City
+▪ Matchday 32
+Tue Mar 26
+  19:45  York City                2-0  Lincoln City
 
 
-Matchday 27
-[Tue Mar/26]
-  19.45  Rochdale AFC             1-3  Plymouth Argyle
+▪ Matchday 27
+Tue Mar 26
+  19:45  Rochdale AFC             1-3  Plymouth Argyle
 
 
-Matchday 34
-[Tue Mar/26]
-  19.45  Cheltenham Town          2-1  Kidderminster Harriers
+▪ Matchday 34
+Tue Mar 26
+  19:45  Cheltenham Town          2-1  Kidderminster Harriers
 
 
-Matchday 42
-[Fri Mar/29]
-  19.45  Halifax Town             2-2  Carlisle United
-[Sat Mar/30]
-  15.00  Shrewsbury Town          0-1  Torquay United
+▪ Matchday 42
+Fri Mar 29
+  19:45  Halifax Town             2-2  Carlisle United
+Sat Mar 30
+  15:00  Shrewsbury Town          0-1  Torquay United
          Scunthorpe United        1-2  Cheltenham Town
          Rochdale AFC             3-0  Leyton Orient
          Plymouth Argyle          1-0  Bristol Rovers
@@ -843,14 +843,14 @@ Matchday 42
          Swansea City             1-3  Luton Town
 
 
-Matchday 43
-[Mon Apr/1]
-  15.00  Rushden & Diamonds FC    4-0  Swansea City
+▪ Matchday 43
+Mon Apr 1
+  15:00  Rushden & Diamonds FC    4-0  Swansea City
          Southend United          3-1  Exeter City
          Torquay United           3-0  Rochdale AFC
          York City                1-0  Oxford United
-  12.30  Luton Town               5-3  Mansfield Town
-  15.00  Lincoln City             1-2  Shrewsbury Town
+  12:30  Luton Town               5-3  Mansfield Town
+  15:00  Lincoln City             1-2  Shrewsbury Town
          Leyton Orient            0-0  Scunthorpe United
          Bristol Rovers           2-1  Kidderminster Harriers
          Carlisle United          3-2  Macclesfield Town
@@ -859,9 +859,9 @@ Matchday 43
          Hartlepool United        1-0  Plymouth Argyle
 
 
-Matchday 44
-[Sat Apr/6]
-  15.00  Shrewsbury Town          1-0  Carlisle United
+▪ Matchday 44
+Sat Apr 6
+  15:00  Shrewsbury Town          1-0  Carlisle United
          Swansea City             0-1  York City
          Scunthorpe United        1-1  Rushden & Diamonds FC
          Rochdale AFC             3-1  Darlington FC
@@ -872,28 +872,28 @@ Matchday 44
          Kidderminster Harriers   1-1  Lincoln City
          Macclesfield Town        1-0  Cheltenham Town
          Mansfield Town           2-0  Bristol Rovers
-[Sun Apr/7]
-  14.15  Exeter City              0-0  Torquay United
+Sun Apr 7
+  14:15  Exeter City              0-0  Torquay United
 
 
-Matchday 36
-[Tue Apr/9]
-  19.45  Rochdale AFC             3-2  Hull City
+▪ Matchday 36
+Tue Apr 9
+  19:45  Rochdale AFC             3-2  Hull City
 
 
-Matchday 27
-[Tue Apr/9]
-  19.45  Mansfield Town           2-1  Cheltenham Town
+▪ Matchday 27
+Tue Apr 9
+  19:45  Mansfield Town           2-1  Cheltenham Town
 
 
-Matchday 36
-[Tue Apr/9]
-  19.45  York City                0-0  Carlisle United
+▪ Matchday 36
+Tue Apr 9
+  19:45  York City                0-0  Carlisle United
 
 
-Matchday 45
-[Sat Apr/13]
-  15.00  Torquay United           2-4  Halifax Town
+▪ Matchday 45
+Sat Apr 13
+  15:00  Torquay United           2-4  Halifax Town
          York City                3-1  Mansfield Town
          Southend United          0-2  Shrewsbury Town
          Bristol Rovers           1-1  Hull City
@@ -907,24 +907,24 @@ Matchday 45
          Rushden & Diamonds FC    0-2  Kidderminster Harriers
 
 
-Matchday 39
-[Mon Apr/15]
-  19.30  Darlington FC            1-4  Plymouth Argyle
+▪ Matchday 39
+Mon Apr 15
+  19:30  Darlington FC            1-4  Plymouth Argyle
 
 
-Matchday 37
-[Tue Apr/16]
-  19.45  York City                3-0  Bristol Rovers
+▪ Matchday 37
+Tue Apr 16
+  19:45  York City                3-0  Bristol Rovers
 
 
-Matchday 35
-[Tue Apr/16]
-  19.45  Carlisle United          0-0  Cheltenham Town
+▪ Matchday 35
+Tue Apr 16
+  19:45  Carlisle United          0-0  Cheltenham Town
 
 
-Matchday 46
-[Sat Apr/20]
-  15.00  Exeter City              0-2  Hartlepool United
+▪ Matchday 46
+Sat Apr 20
+  15:00  Exeter City              0-2  Hartlepool United
          Halifax Town             2-4  Rushden & Diamonds FC
          Hull City                1-1  Lincoln City
          Kidderminster Harriers   0-1  Leyton Orient

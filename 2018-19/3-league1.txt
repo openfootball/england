@@ -1,15 +1,15 @@
 = English League One 2018/19
 
-# Date       Sat Aug/4 2018 - Sat May/4 2019 (273d)
+# Date       Sat Aug 4 2018 - Sat May 4 2019 (273d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/4]
-  12.30  Sunderland AFC           2-1 (0-1)  Charlton Athletic
-  15.00  Accrington Stanley       0-2 (0-2)  Gillingham FC
+▪ Matchday 1
+Sat Aug 4
+  12:30  Sunderland AFC           2-1 (0-1)  Charlton Athletic
+  15:00  Accrington Stanley       0-2 (0-2)  Gillingham FC
          Barnsley FC              4-0 (2-0)  Oxford United
          Burton Albion            1-2 (0-2)  Rochdale AFC
          Coventry City            1-2 (0-0)  Scunthorpe United
@@ -22,9 +22,9 @@ Matchday 1
          Wycombe Wanderers        0-0  Blackpool FC
 
 
-Matchday 2
-[Sat Aug/11]
-  15.00  AFC Wimbledon            0-0  Coventry City
+▪ Matchday 2
+Sat Aug 11
+  15:00  AFC Wimbledon            0-0  Coventry City
          Blackpool FC             1-2 (0-1)  Portsmouth FC
          Bradford City            0-2 (0-1)  Barnsley FC
          Bristol Rovers           1-2 (0-1)  Accrington Stanley
@@ -38,9 +38,9 @@ Matchday 2
          Scunthorpe United        1-1 (0-0)  Walsall FC
 
 
-Matchday 3
-[Sat Aug/18]
-  15.00  Accrington Stanley       1-1 (0-1)  Charlton Athletic
+▪ Matchday 3
+Sat Aug 18
+  15:00  Accrington Stanley       1-1 (0-1)  Charlton Athletic
          Barnsley FC              0-0  AFC Wimbledon
          Burton Albion            1-0 (0-0)  Doncaster Rovers
          Coventry City            1-0 (1-0)  Plymouth Argyle
@@ -51,13 +51,13 @@ Matchday 3
          Southend United          2-0 (0-0)  Bradford City
          Walsall FC               2-1 (2-0)  Gillingham FC
          Wycombe Wanderers        1-2 (0-2)  Bristol Rovers
-[Sun Aug/19]
-  15.00  Sunderland AFC           3-0 (3-0)  Scunthorpe United
+Sun Aug 19
+  15:00  Sunderland AFC           3-0 (3-0)  Scunthorpe United
 
 
-Matchday 4
-[Tue Aug/21]
-  19.45  AFC Wimbledon            1-3 (0-1)  Walsall FC
+▪ Matchday 4
+Tue Aug 21
+  19:45  AFC Wimbledon            1-3 (0-1)  Walsall FC
          Blackpool FC             2-0 (0-0)  Coventry City
          Bradford City            1-0 (1-0)  Burton Albion
          Bristol Rovers           1-2 (0-1)  Portsmouth FC
@@ -67,14 +67,14 @@ Matchday 4
          Oxford United            2-3 (1-1)  Accrington Stanley
          Plymouth Argyle          1-1 (1-0)  Wycombe Wanderers
          Rochdale AFC             0-4 (0-2)  Barnsley FC
-[Wed Aug/22]
-  19.45  Gillingham FC            1-4 (1-3)  Sunderland AFC
+Wed Aug 22
+  19:45  Gillingham FC            1-4 (1-3)  Sunderland AFC
          Scunthorpe United        0-5 (0-4)  Fleetwood Town
 
 
-Matchday 5
-[Sat Aug/25]
-  15.00  AFC Wimbledon            1-2 (1-0)  Sunderland AFC
+▪ Matchday 5
+Sat Aug 25
+  15:00  AFC Wimbledon            1-2 (1-0)  Sunderland AFC
          Blackpool FC             1-1 (0-0)  Accrington Stanley
          Bradford City            1-2 (0-1)  Wycombe Wanderers
          Bristol Rovers           0-1 (0-1)  Southend United
@@ -88,9 +88,9 @@ Matchday 5
          Scunthorpe United        2-2 (1-0)  Barnsley FC
 
 
-Matchday 6
-[Sat Sep/1]
-  15.00  Accrington Stanley       1-1 (0-0)  Scunthorpe United
+▪ Matchday 6
+Sat Sep 1
+  15:00  Accrington Stanley       1-1 (0-0)  Scunthorpe United
          Barnsley FC              2-1 (2-0)  Gillingham FC
          Burton Albion            3-0 (1-0)  AFC Wimbledon
          Coventry City            0-1 (0-0)  Rochdale AFC
@@ -104,10 +104,10 @@ Matchday 6
          Wycombe Wanderers        1-1 (1-0)  Luton Town
 
 
-Matchday 7
-[Sat Sep/8]
-  13.30  Bristol Rovers           0-0  Plymouth Argyle
-  15.00  Accrington Stanley       1-1 (0-1)  Burton Albion
+▪ Matchday 7
+Sat Sep 8
+  13:30  Bristol Rovers           0-0  Plymouth Argyle
+  15:00  Accrington Stanley       1-1 (0-1)  Burton Albion
          Barnsley FC              1-1 (0-0)  Walsall FC
          Blackpool FC             3-2 (0-0)  Bradford City
          Charlton Athletic        3-2 (1-1)  Wycombe Wanderers
@@ -117,13 +117,13 @@ Matchday 7
          Scunthorpe United        3-3 (2-0)  Rochdale AFC
          Southend United          2-3 (0-1)  Peterborough United
          Sunderland AFC           1-1 (1-1)  Fleetwood Town
-[Sun Sep/9]
-  12.00  Oxford United            1-2 (0-0)  Coventry City
+Sun Sep 9
+  12:00  Oxford United            1-2 (0-0)  Coventry City
 
 
-Matchday 8
-[Sat Sep/15]
-  15.00  AFC Wimbledon            2-3 (0-2)  Scunthorpe United
+▪ Matchday 8
+Sat Sep 15
+  15:00  AFC Wimbledon            2-3 (0-2)  Scunthorpe United
          Bradford City            0-2 (0-1)  Charlton Athletic
          Burton Albion            2-1 (2-0)  Sunderland AFC
          Coventry City            1-0 (0-0)  Barnsley FC
@@ -137,9 +137,9 @@ Matchday 8
          Wycombe Wanderers        0-0  Oxford United
 
 
-Matchday 9
-[Sat Sep/22]
-  15.00  Accrington Stanley       2-1 (1-0)  AFC Wimbledon
+▪ Matchday 9
+Sat Sep 22
+  15:00  Accrington Stanley       2-1 (1-0)  AFC Wimbledon
          Blackpool FC             0-0  Luton Town
          Bristol Rovers           3-1 (3-1)  Coventry City
          Charlton Athletic        2-1 (1-1)  Plymouth Argyle
@@ -152,11 +152,11 @@ Matchday 9
          Sunderland AFC           4-1 (3-0)  Rochdale AFC
 
 
-Matchday 10
-[Sat Sep/29]
-  15.00  Wycombe Wanderers        2-3 (0-1)  Southend United
-  12.30  Coventry City            1-1 (0-0)  Sunderland AFC
-  15.00  AFC Wimbledon            2-1 (2-1)  Oxford United
+▪ Matchday 10
+Sat Sep 29
+  15:00  Wycombe Wanderers        2-3 (0-1)  Southend United
+  12:30  Coventry City            1-1 (0-0)  Sunderland AFC
+  15:00  AFC Wimbledon            2-1 (2-1)  Oxford United
          Bradford City            0-0  Bristol Rovers
          Burton Albion            0-0  Scunthorpe United
          Fleetwood Town           1-3 (1-2)  Barnsley FC
@@ -168,9 +168,9 @@ Matchday 10
          Walsall FC               0-1 (0-1)  Accrington Stanley
 
 
-Matchday 11
-[Tue Oct/2]
-  19.45  Walsall FC               0-0  Shrewsbury Town
+▪ Matchday 11
+Tue Oct 2
+  19:45  Walsall FC               0-0  Shrewsbury Town
          AFC Wimbledon            0-1 (0-1)  Bradford City
          Accrington Stanley       1-0 (0-0)  Doncaster Rovers
          Barnsley FC              1-1 (1-1)  Plymouth Argyle
@@ -183,9 +183,9 @@ Matchday 11
          Sunderland AFC           2-2 (1-0)  Peterborough United
 
 
-Matchday 12
-[Sat Oct/6]
-  15.00  Wycombe Wanderers        2-1 (2-0)  Burton Albion
+▪ Matchday 12
+Sat Oct 6
+  15:00  Wycombe Wanderers        2-1 (2-0)  Burton Albion
          Southend United          0-0  Oxford United
          Blackpool FC             2-2 (2-1)  Rochdale AFC
          Bradford City            1-2 (0-1)  Sunderland AFC
@@ -199,12 +199,12 @@ Matchday 12
          Shrewsbury Town          1-0 (0-0)  Accrington Stanley
 
 
-Matchday 13
-[Sat Oct/13]
-  15.00  Coventry City            1-0 (0-0)  Wycombe Wanderers
+▪ Matchday 13
+Sat Oct 13
+  15:00  Coventry City            1-0 (0-0)  Wycombe Wanderers
          Rochdale AFC             2-3 (0-1)  Doncaster Rovers
-  12.00  Barnsley FC              3-2 (2-1)  Luton Town
-  15.00  AFC Wimbledon            1-2 (0-2)  Portsmouth FC
+  12:00  Barnsley FC              3-2 (2-1)  Luton Town
+  15:00  AFC Wimbledon            1-2 (0-2)  Portsmouth FC
          Accrington Stanley       3-1 (1-0)  Bradford City
          Burton Albion            1-0 (0-0)  Bristol Rovers
          Scunthorpe United        0-2 (0-0)  Peterborough United
@@ -213,9 +213,9 @@ Matchday 13
          Oxford United            2-0 (1-0)  Plymouth Argyle
 
 
-Matchday 14
-[Sat Oct/20]
-  15.00  Wycombe Wanderers        3-2 (1-2)  Scunthorpe United
+▪ Matchday 14
+Sat Oct 20
+  15:00  Wycombe Wanderers        3-2 (1-2)  Scunthorpe United
          Shrewsbury Town          0-2 (0-0)  Sunderland AFC
          Southend United          1-2 (0-1)  Coventry City
          Portsmouth FC            1-0 (0-0)  Fleetwood Town
@@ -229,9 +229,9 @@ Matchday 14
          Plymouth Argyle          2-3 (2-2)  Burton Albion
 
 
-Matchday 15
-[Tue Oct/23]
-  19.45  Wycombe Wanderers        3-0 (1-0)  Rochdale AFC
+▪ Matchday 15
+Tue Oct 23
+  19:45  Wycombe Wanderers        3-0 (1-0)  Rochdale AFC
          Southend United          3-0 (1-0)  Walsall FC
          Shrewsbury Town          3-1 (2-0)  Barnsley FC
          Luton Town               4-1 (1-1)  Accrington Stanley
@@ -245,9 +245,9 @@ Matchday 15
          Plymouth Argyle          3-1 (2-0)  Gillingham FC
 
 
-Matchday 16
-[Sat Oct/27]
-  15.00  Coventry City            2-1 (2-0)  Doncaster Rovers
+▪ Matchday 16
+Sat Oct 27
+  15:00  Coventry City            2-1 (2-0)  Doncaster Rovers
          Sunderland AFC           3-0 (1-0)  Southend United
          Scunthorpe United        1-4 (0-2)  Plymouth Argyle
          Rochdale AFC             1-0 (1-0)  Charlton Athletic
@@ -261,9 +261,9 @@ Matchday 16
          Oxford United            3-0 (2-0)  Shrewsbury Town
 
 
-Matchday 17
-[Sat Nov/3]
-  15.00  Scunthorpe United        3-3 (0-1)  Oxford United
+▪ Matchday 17
+Sat Nov 3
+  15:00  Scunthorpe United        3-3 (0-1)  Oxford United
          Rochdale AFC             0-0  Luton Town
          Wycombe Wanderers        1-0 (0-0)  Peterborough United
          Walsall FC               1-3 (0-2)  Burton Albion
@@ -277,22 +277,22 @@ Matchday 17
          Plymouth Argyle          0-2 (0-0)  Sunderland AFC
 
 
-Matchday 13
-[Tue Nov/6]
-  19.45  Walsall FC               0-2 (0-1)  Charlton Athletic
+▪ Matchday 13
+Tue Nov 6
+  19:45  Walsall FC               0-2 (0-1)  Charlton Athletic
 
 
-Matchday 11
-[Tue Nov/6]
-  19.45  Gillingham FC            0-1 (0-0)  Blackpool FC
+▪ Matchday 11
+Tue Nov 6
+  19:45  Gillingham FC            0-1 (0-0)  Blackpool FC
 
 
-Matchday 18
-[Sat Nov/17]
-  15.00  Sunderland AFC           1-1 (0-0)  Wycombe Wanderers
+▪ Matchday 18
+Sat Nov 17
+  15:00  Sunderland AFC           1-1 (0-0)  Wycombe Wanderers
          Southend United          1-2 (0-1)  Blackpool FC
-  12.00  Fleetwood Town           0-0  Walsall FC
-  15.00  Accrington Stanley       0-2 (0-1)  Barnsley FC
+  12:00  Fleetwood Town           0-0  Walsall FC
+  15:00  Accrington Stanley       0-2 (0-1)  Barnsley FC
          Bristol Rovers           1-2 (1-1)  Scunthorpe United
          Burton Albion            1-0 (0-0)  Coventry City
          Doncaster Rovers         2-1 (1-1)  AFC Wimbledon
@@ -302,11 +302,11 @@ Matchday 18
          Shrewsbury Town          3-2 (1-1)  Rochdale AFC
 
 
-Matchday 19
-[Fri Nov/23]
-  19.45  Coventry City            1-1 (0-0)  Peterborough United
-[Sat Nov/24]
-  15.00  Rochdale AFC             1-0 (0-0)  Accrington Stanley
+▪ Matchday 19
+Fri Nov 23
+  19:45  Coventry City            1-1 (0-0)  Peterborough United
+Sat Nov 24
+  15:00  Rochdale AFC             1-0 (0-0)  Accrington Stanley
          Scunthorpe United        1-2 (0-2)  Portsmouth FC
          Walsall FC               2-2 (0-0)  Sunderland AFC
          AFC Wimbledon            2-1 (1-1)  Southend United
@@ -319,9 +319,9 @@ Matchday 19
          Wycombe Wanderers        3-2 (2-1)  Shrewsbury Town
 
 
-Matchday 20
-[Tue Nov/27]
-  19.45  Southend United          2-0 (1-0)  Scunthorpe United
+▪ Matchday 20
+Tue Nov 27
+  19:45  Southend United          2-0 (1-0)  Scunthorpe United
          Shrewsbury Town          2-0 (1-0)  Plymouth Argyle
          Portsmouth FC            2-0 (1-0)  Walsall FC
          Accrington Stanley       1-2 (1-0)  Wycombe Wanderers
@@ -335,9 +335,9 @@ Matchday 20
          Sunderland AFC           4-2 (3-1)  Barnsley FC
 
 
-Matchday 21
-[Sat Dec/8]
-  15.00  Luton Town               2-0 (1-0)  Fleetwood Town
+▪ Matchday 21
+Sat Dec 8
+  15:00  Luton Town               2-0 (1-0)  Fleetwood Town
          Wycombe Wanderers        1-0 (0-0)  Barnsley FC
          Walsall FC               2-1 (0-1)  Coventry City
          AFC Wimbledon            1-1 (0-1)  Rochdale AFC
@@ -350,18 +350,18 @@ Matchday 21
          Portsmouth FC            2-0 (2-0)  Southend United
 
 
-Matchday 18
-[Tue Dec/11]
-  19.45  Portsmouth FC            1-2 (0-2)  Charlton Athletic
+▪ Matchday 18
+Tue Dec 11
+  19:45  Portsmouth FC            1-2 (0-2)  Charlton Athletic
 
 
-Matchday 22
-[Sat Dec/15]
-  15.00  Coventry City            1-2 (0-1)  Luton Town
+▪ Matchday 22
+Sat Dec 15
+  15:00  Coventry City            1-2 (0-1)  Luton Town
          Southend United          3-0 (2-0)  Accrington Stanley
          Shrewsbury Town          2-2 (1-1)  Peterborough United
-  12.15  Doncaster Rovers         3-0 (2-0)  Scunthorpe United
-  15.00  Barnsley FC              1-1 (0-1)  Portsmouth FC
+  12:15  Doncaster Rovers         3-0 (2-0)  Scunthorpe United
+  15:00  Barnsley FC              1-1 (0-1)  Portsmouth FC
          Bradford City            4-0 (1-0)  Walsall FC
          Charlton Athletic        2-0 (0-0)  AFC Wimbledon
          Sunderland AFC           2-1 (1-1)  Bristol Rovers
@@ -371,9 +371,9 @@ Matchday 22
          Rochdale AFC             1-2 (0-0)  Plymouth Argyle
 
 
-Matchday 23
-[Sat Dec/22]
-  15.00  Southend United          1-2 (0-1)  Rochdale AFC
+▪ Matchday 23
+Sat Dec 22
+  15:00  Southend United          1-2 (0-1)  Rochdale AFC
          Wycombe Wanderers        1-2 (0-1)  AFC Wimbledon
          Shrewsbury Town          1-0 (0-0)  Coventry City
          Blackpool FC             0-1 (0-0)  Barnsley FC
@@ -387,13 +387,13 @@ Matchday 23
          Portsmouth FC            3-1 (0-0)  Sunderland AFC
 
 
-Matchday 24
-[Wed Dec/26]
-  15.00  Walsall FC               1-3 (1-2)  Bristol Rovers
+▪ Matchday 24
+Wed Dec 26
+  15:00  Walsall FC               1-3 (1-2)  Bristol Rovers
          Sunderland AFC           1-0 (1-0)  Bradford City
          Scunthorpe United        0-2 (0-1)  Luton Town
-  13.00  Gillingham FC            2-0 (1-0)  Portsmouth FC
-  15.00  AFC Wimbledon            2-1 (1-1)  Plymouth Argyle
+  13:00  Gillingham FC            2-0 (1-0)  Portsmouth FC
+  15:00  AFC Wimbledon            2-1 (1-1)  Plymouth Argyle
          Accrington Stanley       2-1 (2-0)  Shrewsbury Town
          Barnsley FC              2-0 (1-0)  Peterborough United
          Burton Albion            3-1 (3-1)  Wycombe Wanderers
@@ -403,13 +403,13 @@ Matchday 24
          Rochdale AFC             2-1 (1-1)  Blackpool FC
 
 
-Matchday 25
-[Sat Dec/29]
-  15.00  Burton Albion            1-1 (1-0)  Plymouth Argyle
+▪ Matchday 25
+Sat Dec 29
+  15:00  Burton Albion            1-1 (1-0)  Plymouth Argyle
          Sunderland AFC           1-1 (1-1)  Shrewsbury Town
          Scunthorpe United        1-0 (1-0)  Wycombe Wanderers
-  13.00  Oxford United            0-2 (0-1)  Bristol Rovers
-  15.00  AFC Wimbledon            0-0  Blackpool FC
+  13:00  Oxford United            0-2 (0-1)  Bristol Rovers
+  15:00  AFC Wimbledon            0-0  Blackpool FC
          Accrington Stanley       0-4 (0-2)  Peterborough United
          Barnsley FC              2-1 (2-0)  Charlton Athletic
          Walsall FC               2-2 (1-0)  Luton Town
@@ -419,9 +419,9 @@ Matchday 25
          Rochdale AFC             0-4 (0-1)  Bradford City
 
 
-Matchday 26
-[Tue Jan/1]
-  15.00  Wycombe Wanderers        0-2 (0-1)  Coventry City
+▪ Matchday 26
+Tue Jan 1
+  15:00  Wycombe Wanderers        0-2 (0-1)  Coventry City
          Southend United          2-0 (1-0)  Gillingham FC
          Shrewsbury Town          0-0  Fleetwood Town
          Blackpool FC             0-1 (0-1)  Sunderland AFC
@@ -435,16 +435,16 @@ Matchday 26
          Portsmouth FC            2-1 (1-0)  AFC Wimbledon
 
 
-Matchday 27
-[Sat Jan/5]
-  15.00  Rochdale AFC             0-4 (0-2)  Burton Albion
+▪ Matchday 27
+Sat Jan 5
+  15:00  Rochdale AFC             0-4 (0-2)  Burton Albion
          Charlton Athletic        1-1 (0-1)  Sunderland AFC
          Scunthorpe United        2-1 (0-0)  Coventry City
 
 
-Matchday 28
-[Sat Jan/12]
-  15.00  Walsall FC               1-2 (0-1)  Scunthorpe United
+▪ Matchday 28
+Sat Jan 12
+  15:00  Walsall FC               1-2 (0-1)  Scunthorpe United
          Fleetwood Town           2-2 (2-0)  Oxford United
          Sunderland AFC           1-1 (1-0)  Luton Town
          Southend United          2-3 (0-1)  Plymouth Argyle
@@ -458,9 +458,9 @@ Matchday 28
          Wycombe Wanderers        3-2 (0-0)  Doncaster Rovers
 
 
-Matchday 29
-[Sat Jan/19]
-  15.00  Blackpool FC             0-0  Shrewsbury Town
+▪ Matchday 29
+Sat Jan 19
+  15:00  Blackpool FC             0-0  Shrewsbury Town
          Bradford City            0-4 (0-2)  Southend United
          Bristol Rovers           0-1 (0-0)  Wycombe Wanderers
          Charlton Athletic        1-0 (0-0)  Accrington Stanley
@@ -474,15 +474,15 @@ Matchday 29
          AFC Wimbledon            1-4 (1-1)  Barnsley FC
 
 
-Matchday 27
-[Tue Jan/22]
-  19.45  Plymouth Argyle          2-1 (0-0)  Walsall FC
+▪ Matchday 27
+Tue Jan 22
+  19:45  Plymouth Argyle          2-1 (0-0)  Walsall FC
          AFC Wimbledon            0-3 (0-2)  Fleetwood Town
 
 
-Matchday 30
-[Sat Jan/26]
-  15.00  Coventry City            0-2 (0-0)  Blackpool FC
+▪ Matchday 30
+Sat Jan 26
+  15:00  Coventry City            0-2 (0-0)  Blackpool FC
          Burton Albion            1-1 (1-0)  Bradford City
          Barnsley FC              2-1 (0-0)  Rochdale AFC
          Wycombe Wanderers        1-0 (1-0)  Plymouth Argyle
@@ -491,9 +491,9 @@ Matchday 30
          Southend United          0-1 (0-1)  Luton Town
 
 
-Matchday 27
-[Tue Jan/29]
-  19.45  Blackpool FC             2-2 (0-1)  Wycombe Wanderers
+▪ Matchday 27
+Tue Jan 29
+  19:45  Blackpool FC             2-2 (0-1)  Wycombe Wanderers
          Oxford United            2-2 (1-0)  Barnsley FC
          Luton Town               3-2 (1-0)  Portsmouth FC
          Bradford City            4-3 (2-1)  Shrewsbury Town
@@ -501,9 +501,9 @@ Matchday 27
          Gillingham FC            0-0  Accrington Stanley
 
 
-Matchday 31
-[Sat Feb/2]
-  15.00  Sunderland AFC           1-0 (0-0)  AFC Wimbledon
+▪ Matchday 31
+Sat Feb 2
+  15:00  Sunderland AFC           1-0 (0-0)  AFC Wimbledon
          Wycombe Wanderers        0-0  Bradford City
          Walsall FC               1-2 (1-1)  Rochdale AFC
          Southend United          1-2 (1-2)  Bristol Rovers
@@ -516,9 +516,9 @@ Matchday 31
          Burton Albion            0-0  Oxford United
 
 
-Matchday 32
-[Sat Feb/9]
-  15.00  Bristol Rovers           1-1 (0-1)  Shrewsbury Town
+▪ Matchday 32
+Sat Feb 9
+  15:00  Bristol Rovers           1-1 (0-1)  Shrewsbury Town
          Charlton Athletic        1-1 (0-1)  Southend United
          Doncaster Rovers         3-1 (0-1)  Peterborough United
          Gillingham FC            1-4 (0-2)  Barnsley FC
@@ -532,79 +532,79 @@ Matchday 32
          Blackpool FC             2-0 (1-0)  Walsall FC
 
 
-Matchday 13
-[Tue Feb/12]
-  19.45  Sunderland AFC           1-1 (0-1)  Blackpool FC
+▪ Matchday 13
+Tue Feb 12
+  19:45  Sunderland AFC           1-1 (0-1)  Blackpool FC
 
 
-Matchday 27
-[Tue Feb/12]
-  19.45  Doncaster Rovers         3-0 (1-0)  Southend United
+▪ Matchday 27
+Tue Feb 12
+  19:45  Doncaster Rovers         3-0 (1-0)  Southend United
 
 
-Matchday 30
-[Tue Feb/12]
-  19.45  Walsall FC               0-1 (0-0)  AFC Wimbledon
+▪ Matchday 30
+Tue Feb 12
+  19:45  Walsall FC               0-1 (0-0)  AFC Wimbledon
 
 
-Matchday 33
-[Fri Feb/15]
-  19.45  Sunderland AFC           2-2 (0-1)  Accrington Stanley
-[Sat Feb/16]
-  15.00  Fleetwood Town           1-2 (0-1)  Luton Town
+▪ Matchday 33
+Fri Feb 15
+  19:45  Sunderland AFC           2-2 (0-1)  Accrington Stanley
+Sat Feb 16
+  15:00  Fleetwood Town           1-2 (0-1)  Luton Town
          Charlton Athletic        0-0  Blackpool FC
          Oxford United            0-1 (0-0)  Peterborough United
          Bradford City            0-0  Plymouth Argyle
          Shrewsbury Town          1-1 (1-1)  Burton Albion
          Gillingham FC            1-0 (1-0)  Scunthorpe United
          Coventry City            3-0 (2-0)  Walsall FC
-  12.30  Southend United          3-3 (1-3)  Portsmouth FC
-  15.00  Barnsley FC              2-1 (1-0)  Wycombe Wanderers
-[Tue Feb/19]
-  19.45  Rochdale AFC             3-4 (2-1)  AFC Wimbledon
+  12:30  Southend United          3-3 (1-3)  Portsmouth FC
+  15:00  Barnsley FC              2-1 (1-0)  Wycombe Wanderers
+Tue Feb 19
+  19:45  Rochdale AFC             3-4 (2-1)  AFC Wimbledon
 
 
-Matchday 30
-[Tue Feb/19]
-  19.45  Accrington Stanley       4-2 (1-0)  Oxford United
+▪ Matchday 30
+Tue Feb 19
+  19:45  Accrington Stanley       4-2 (1-0)  Oxford United
          Portsmouth FC            1-1 (0-1)  Bristol Rovers
          Sunderland AFC           4-2 (2-2)  Gillingham FC
 
 
-Matchday 9
-[Tue Feb/19]
-  19.45  Barnsley FC              0-0  Burton Albion
+▪ Matchday 9
+Tue Feb 19
+  19:45  Barnsley FC              0-0  Burton Albion
 
 
-Matchday 34
-[Sat Feb/23]
-  15.00  Wycombe Wanderers        0-1 (0-0)  Gillingham FC
+▪ Matchday 34
+Sat Feb 23
+  15:00  Wycombe Wanderers        0-1 (0-0)  Gillingham FC
          Peterborough United      1-2 (1-2)  Shrewsbury Town
          Walsall FC               3-2 (1-1)  Bradford City
          Portsmouth FC            0-0  Barnsley FC
-  13.00  Scunthorpe United        1-1 (0-1)  Doncaster Rovers
-  15.00  AFC Wimbledon            1-2 (1-0)  Charlton Athletic
+  13:00  Scunthorpe United        1-1 (0-1)  Doncaster Rovers
+  15:00  AFC Wimbledon            1-2 (1-0)  Charlton Athletic
          Accrington Stanley       1-1 (0-1)  Southend United
          Blackpool FC             0-1 (0-1)  Oxford United
          Bristol Rovers           0-2 (0-1)  Sunderland AFC
          Burton Albion            0-1 (0-0)  Fleetwood Town
          Plymouth Argyle          5-1 (1-0)  Rochdale AFC
-[Sun Feb/24]
-  12.00  Luton Town               1-1 (1-1)  Coventry City
+Sun Feb 24
+  12:00  Luton Town               1-1 (1-1)  Coventry City
 
 
-Matchday 30
-[Tue Feb/26]
-  19.45  Shrewsbury Town          2-0 (2-0)  Doncaster Rovers
+▪ Matchday 30
+Tue Feb 26
+  19:45  Shrewsbury Town          2-0 (2-0)  Doncaster Rovers
 
 
-Matchday 35
-[Sat Mar/2]
-  15.00  Shrewsbury Town          0-0  AFC Wimbledon
+▪ Matchday 35
+Sat Mar 2
+  15:00  Shrewsbury Town          0-0  AFC Wimbledon
          Sunderland AFC           2-0 (1-0)  Plymouth Argyle
          Portsmouth FC            5-1 (2-0)  Bradford City
-  12.30  Southend United          0-3 (0-0)  Barnsley FC
-  15.00  Accrington Stanley       0-1 (0-0)  Coventry City
+  12:30  Southend United          0-3 (0-0)  Barnsley FC
+  15:00  Accrington Stanley       0-1 (0-0)  Coventry City
          Bristol Rovers           4-0 (2-0)  Blackpool FC
          Burton Albion            0-0  Walsall FC
          Doncaster Rovers         1-1 (0-0)  Charlton Athletic
@@ -614,18 +614,18 @@ Matchday 35
          Peterborough United      4-2 (3-2)  Wycombe Wanderers
 
 
-Matchday 31
-[Tue Mar/5]
-  19.45  Accrington Stanley       1-2 (1-1)  Blackpool FC
+▪ Matchday 31
+Tue Mar 5
+  19:45  Accrington Stanley       1-2 (1-1)  Blackpool FC
 
 
-Matchday 36
-[Fri Mar/8]
-  19.45  Coventry City            1-2 (0-1)  Burton Albion
-[Sat Mar/9]
-  15.00  Walsall FC               2-0 (0-0)  Fleetwood Town
-  17.30  Charlton Athletic        2-1 (1-1)  Portsmouth FC
-  15.00  AFC Wimbledon            2-0 (0-0)  Doncaster Rovers
+▪ Matchday 36
+Fri Mar 8
+  19:45  Coventry City            1-2 (0-1)  Burton Albion
+Sat Mar 9
+  15:00  Walsall FC               2-0 (0-0)  Fleetwood Town
+  17:30  Charlton Athletic        2-1 (1-1)  Portsmouth FC
+  15:00  AFC Wimbledon            2-0 (0-0)  Doncaster Rovers
          Barnsley FC              2-0 (2-0)  Accrington Stanley
          Blackpool FC             2-2 (1-1)  Southend United
          Bradford City            3-1 (0-0)  Peterborough United
@@ -636,9 +636,9 @@ Matchday 36
          Wycombe Wanderers        1-1 (1-0)  Sunderland AFC
 
 
-Matchday 37
-[Tue Mar/12]
-  19.45  Wycombe Wanderers        1-3 (1-1)  Accrington Stanley
+▪ Matchday 37
+Tue Mar 12
+  19:45  Wycombe Wanderers        1-3 (1-1)  Accrington Stanley
          Rochdale AFC             0-0  Oxford United
          AFC Wimbledon            1-0 (0-0)  Peterborough United
          Barnsley FC              0-0  Sunderland AFC
@@ -652,11 +652,11 @@ Matchday 37
          Scunthorpe United        4-1 (1-1)  Southend United
 
 
-Matchday 38
-[Fri Mar/15]
-  19.45  Doncaster Rovers         0-0  Barnsley FC
-[Sat Mar/16]
-  15.00  Sunderland AFC           2-1 (1-1)  Walsall FC
+▪ Matchday 38
+Fri Mar 15
+  19:45  Doncaster Rovers         0-0  Barnsley FC
+Sat Mar 16
+  15:00  Sunderland AFC           2-1 (1-1)  Walsall FC
          Burton Albion            3-0 (2-0)  Blackpool FC
          Bristol Rovers           0-0  Charlton Athletic
          Southend United          0-1 (0-0)  AFC Wimbledon
@@ -668,13 +668,13 @@ Matchday 38
          Shrewsbury Town          2-1 (0-0)  Wycombe Wanderers
 
 
-Matchday 39
-[Sat Mar/23]
-  15.00  Bradford City            1-4 (0-1)  Blackpool FC
+▪ Matchday 39
+Sat Mar 23
+  15:00  Bradford City            1-4 (0-1)  Blackpool FC
          Shrewsbury Town          0-2 (0-1)  Portsmouth FC
          Rochdale AFC             3-1 (1-1)  Scunthorpe United
-  12.00  Walsall FC               0-1 (0-0)  Barnsley FC
-  15.00  AFC Wimbledon            2-4 (1-2)  Gillingham FC
+  12:00  Walsall FC               0-1 (0-0)  Barnsley FC
+  15:00  AFC Wimbledon            2-4 (1-2)  Gillingham FC
          Plymouth Argyle          2-2 (0-0)  Bristol Rovers
          Burton Albion            5-2 (1-2)  Accrington Stanley
          Coventry City            0-1 (0-0)  Oxford United
@@ -682,14 +682,14 @@ Matchday 39
          Peterborough United      2-0 (1-0)  Southend United
 
 
-Matchday 33
-[Tue Mar/26]
-  19.45  Doncaster Rovers         4-1 (3-0)  Bristol Rovers
+▪ Matchday 33
+Tue Mar 26
+  19:45  Doncaster Rovers         4-1 (3-0)  Bristol Rovers
 
 
-Matchday 40
-[Sat Mar/30]
-  15.00  Southend United          0-2 (0-0)  Shrewsbury Town
+▪ Matchday 40
+Sat Mar 30
+  15:00  Southend United          0-2 (0-0)  Shrewsbury Town
          Doncaster Rovers         3-1 (3-1)  Walsall FC
          Scunthorpe United        1-2 (0-2)  AFC Wimbledon
          Oxford United            2-1 (1-1)  Wycombe Wanderers
@@ -701,14 +701,14 @@ Matchday 40
          Gillingham FC            1-1 (1-1)  Rochdale AFC
 
 
-Matchday 21
-[Wed Apr/3]
-  19.45  Accrington Stanley       0-3 (0-2)  Sunderland AFC
+▪ Matchday 21
+Wed Apr 3
+  19:45  Accrington Stanley       0-3 (0-2)  Sunderland AFC
 
 
-Matchday 41
-[Sat Apr/6]
-  15.00  Walsall FC               1-3 (1-1)  Oxford United
+▪ Matchday 41
+Sat Apr 6
+  15:00  Walsall FC               1-3 (1-1)  Oxford United
          Wycombe Wanderers        2-3 (0-1)  Portsmouth FC
          Shrewsbury Town          1-1 (0-1)  Scunthorpe United
          Rochdale AFC             1-2 (1-0)  Sunderland AFC
@@ -719,28 +719,28 @@ Matchday 41
          Fleetwood Town           2-2 (0-1)  Southend United
          Luton Town               2-2 (1-1)  Blackpool FC
          Peterborough United      2-0 (0-0)  Gillingham FC
-[Sun Apr/7]
-  15.00  Coventry City            0-0  Bristol Rovers
+Sun Apr 7
+  15:00  Coventry City            0-0  Bristol Rovers
 
 
-Matchday 38
-[Tue Apr/9]
-  19.45  Accrington Stanley       0-1 (0-0)  Rochdale AFC
+▪ Matchday 38
+Tue Apr 9
+  19:45  Accrington Stanley       0-1 (0-0)  Rochdale AFC
 
 
-Matchday 39
-[Tue Apr/9]
-  19.45  Wycombe Wanderers        0-1 (0-1)  Charlton Athletic
+▪ Matchday 39
+Tue Apr 9
+  19:45  Wycombe Wanderers        0-1 (0-1)  Charlton Athletic
 
 
-Matchday 40
-[Tue Apr/9]
-  19.45  Sunderland AFC           1-1 (1-1)  Burton Albion
+▪ Matchday 40
+Tue Apr 9
+  19:45  Sunderland AFC           1-1 (1-1)  Burton Albion
 
 
-Matchday 42
-[Sat Apr/13]
-  15.00  Sunderland AFC           4-5 (3-3)  Coventry City
+▪ Matchday 42
+Sat Apr 13
+  15:00  Sunderland AFC           4-5 (3-3)  Coventry City
          Southend United          0-2 (0-0)  Wycombe Wanderers
          Accrington Stanley       2-1 (1-1)  Walsall FC
          Barnsley FC              4-2 (2-0)  Fleetwood Town
@@ -754,43 +754,43 @@ Matchday 42
          Scunthorpe United        0-3 (0-1)  Burton Albion
 
 
-Matchday 43
-[Fri Apr/19]
-  15.00  Walsall FC               1-1 (0-1)  Southend United
-  17.15  Sunderland AFC           2-0 (2-0)  Doncaster Rovers
-  13.00  Coventry City            2-0 (1-0)  Bradford City
+▪ Matchday 43
+Fri Apr 19
+  15:00  Walsall FC               1-1 (0-1)  Southend United
+  17:15  Sunderland AFC           2-0 (2-0)  Doncaster Rovers
+  13:00  Coventry City            2-0 (1-0)  Bradford City
          Oxford United            2-1 (2-1)  Charlton Athletic
-  15.00  AFC Wimbledon            1-1 (1-0)  Bristol Rovers
+  15:00  AFC Wimbledon            1-1 (1-0)  Bristol Rovers
          Barnsley FC              2-1 (1-1)  Shrewsbury Town
          Burton Albion            1-2 (0-1)  Portsmouth FC
          Fleetwood Town           1-1 (0-0)  Peterborough United
          Gillingham FC            3-1 (0-1)  Plymouth Argyle
          Rochdale AFC             1-0 (0-0)  Wycombe Wanderers
          Scunthorpe United        0-0  Blackpool FC
-[Sat Apr/20]
-  17.30  Accrington Stanley       0-3 (0-1)  Luton Town
+Sat Apr 20
+  17:30  Accrington Stanley       0-3 (0-1)  Luton Town
 
 
-Matchday 44
-[Mon Apr/22]
-  15.00  Plymouth Argyle          0-3 (0-3)  Barnsley FC
+▪ Matchday 44
+Mon Apr 22
+  15:00  Plymouth Argyle          0-3 (0-3)  Barnsley FC
          Wycombe Wanderers        1-0 (0-0)  Walsall FC
-  12.30  Portsmouth FC            2-1 (0-1)  Coventry City
-  13.00  Southend United          3-2 (1-0)  Burton Albion
-  15.00  Blackpool FC             2-1 (1-1)  Fleetwood Town
+  12:30  Portsmouth FC            2-1 (0-1)  Coventry City
+  13:00  Southend United          3-2 (1-0)  Burton Albion
+  15:00  Blackpool FC             2-1 (1-1)  Fleetwood Town
          Bradford City            1-1 (1-0)  Gillingham FC
          Bristol Rovers           0-1 (0-0)  Rochdale AFC
          Charlton Athletic        4-0 (1-0)  Scunthorpe United
          Peterborough United      1-1 (0-0)  Sunderland AFC
          Shrewsbury Town          2-3 (2-1)  Oxford United
-[Tue Apr/23]
-  19.45  Luton Town               2-2 (2-1)  AFC Wimbledon
+Tue Apr 23
+  19:45  Luton Town               2-2 (2-1)  AFC Wimbledon
          Doncaster Rovers         1-2 (0-2)  Accrington Stanley
 
 
-Matchday 45
-[Sat Apr/27]
-  15.00  Fleetwood Town           0-0  Bristol Rovers
+▪ Matchday 45
+Sat Apr 27
+  15:00  Fleetwood Town           0-0  Bristol Rovers
          Walsall FC               3-0 (1-0)  Peterborough United
          AFC Wimbledon            2-1 (1-0)  Wycombe Wanderers
          Accrington Stanley       5-1 (3-0)  Plymouth Argyle
@@ -801,23 +801,23 @@ Matchday 45
          Oxford United            2-2 (1-1)  Doncaster Rovers
          Rochdale AFC             1-0 (0-0)  Southend United
          Scunthorpe United        2-3 (0-3)  Bradford City
-[Sun Apr/28]
-  15.00  Coventry City            1-1 (1-0)  Shrewsbury Town
+Sun Apr 28
+  15:00  Coventry City            1-1 (1-0)  Shrewsbury Town
 
 
-Matchday 39
-[Tue Apr/30]
-  19.45  Fleetwood Town           2-1 (0-1)  Sunderland AFC
+▪ Matchday 39
+Tue Apr 30
+  19:45  Fleetwood Town           2-1 (0-1)  Sunderland AFC
 
 
-Matchday 40
-[Tue Apr/30]
-  19.45  Portsmouth FC            2-3 (1-2)  Peterborough United
+▪ Matchday 40
+Tue Apr 30
+  19:45  Portsmouth FC            2-3 (1-2)  Peterborough United
 
 
-Matchday 46
-[Sat May/4]
-  17.30  Blackpool FC             0-3 (0-3)  Gillingham FC
+▪ Matchday 46
+Sat May 4
+  17:30  Blackpool FC             0-3 (0-3)  Gillingham FC
          Bradford City            0-0  AFC Wimbledon
          Bristol Rovers           2-1 (0-1)  Barnsley FC
          Charlton Athletic        4-0 (3-0)  Rochdale AFC

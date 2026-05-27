@@ -1,15 +1,15 @@
 = English National League 2019/20
 
-# Date       Sat Aug/3 2019 - Sat Apr/25 2020 (266d)
+# Date       Sat Aug 3 2019 - Sat Apr 25 2020 (266d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/3]
-  12.30  Stockport County         0-1 (0-0)  Maidenhead United
-  15.00  Aldershot Town           1-2 (0-1)  AFC Fylde
+▪ Matchday 1
+Sat Aug 3
+  12:30  Stockport County         0-1 (0-0)  Maidenhead United
+  15:00  Aldershot Town           1-2 (0-1)  AFC Fylde
          Barnet FC                1-0 (0-0)  Yeovil Town
          Chesterfield FC          1-2 (0-0)  Dover Athletic
          Chorley FC               0-0  Bromley FC
@@ -22,9 +22,9 @@ Matchday 1
          Wrexham AFC              2-1 (0-1)  Barrow AFC
 
 
-Matchday 2
-[Tue Aug/6]
-  19.45  AFC Fylde                0-0  Chorley FC
+▪ Matchday 2
+Tue Aug 6
+  19:45  AFC Fylde                0-0  Chorley FC
          Barrow AFC               0-3 (0-1)  Harrogate Town
          Boreham Wood             2-2 (0-1)  Wrexham AFC
          Bromley FC               3-1 (2-0)  Ebbsfleet United
@@ -38,9 +38,9 @@ Matchday 2
          Yeovil Town              1-0 (1-0)  Eastleigh FC
 
 
-Matchday 3
-[Sat Aug/10]
-  15.00  AFC Fylde                1-0 (1-0)  Ebbsfleet United
+▪ Matchday 3
+Sat Aug 10
+  15:00  AFC Fylde                1-0 (1-0)  Ebbsfleet United
          Barrow AFC               2-0 (0-0)  Eastleigh FC
          Boreham Wood             2-2 (1-2)  Chesterfield FC
          Bromley FC               3-3 (2-1)  Torquay United
@@ -51,12 +51,12 @@ Matchday 3
          Sutton United            2-2 (1-2)  Chorley FC
          Woking FC                1-0 (1-0)  Harrogate Town
          Yeovil Town              1-1 (1-0)  Stockport County
-  17.20  Notts County             1-2 (1-1)  Barnet FC
+  17:20  Notts County             1-2 (1-1)  Barnet FC
 
 
-Matchday 4
-[Tue Aug/13]
-  19.45  Aldershot Town           0-1 (0-1)  Bromley FC
+▪ Matchday 4
+Tue Aug 13
+  19:45  Aldershot Town           0-1 (0-1)  Bromley FC
          Barnet FC                0-1 (0-0)  Dover Athletic
          Chesterfield FC          1-2 (0-0)  Woking FC
          Chorley FC               1-6 (0-2)  Solihull Moors
@@ -70,9 +70,9 @@ Matchday 4
          Wrexham AFC              1-0 (0-0)  Halifax Town
 
 
-Matchday 5
-[Sat Aug/17]
-  15.00  AFC Fylde                1-4 (0-2)  Woking FC
+▪ Matchday 5
+Sat Aug 17
+  15:00  AFC Fylde                1-4 (0-2)  Woking FC
          Aldershot Town           1-1 (1-0)  Halifax Town
          Barnet FC                2-2 (1-1)  Chesterfield FC
          Boreham Wood             0-1 (0-0)  Sutton United
@@ -82,14 +82,14 @@ Matchday 5
          Maidenhead United        4-1 (2-1)  Chorley FC
          Solihull Moors           2-1 (1-1)  Ebbsfleet United
          Stockport County         2-0 (0-0)  Eastleigh FC
-  17.20  Barrow AFC               1-0 (0-0)  Yeovil Town
-[Sun Aug/18]
-  15.00  Notts County             1-1 (0-0)  Wrexham AFC
+  17:20  Barrow AFC               1-0 (0-0)  Yeovil Town
+Sun Aug 18
+  15:00  Notts County             1-1 (0-0)  Wrexham AFC
 
 
-Matchday 6
-[Sat Aug/24]
-  15.00  Bromley FC               1-0 (1-0)  Boreham Wood
+▪ Matchday 6
+Sat Aug 24
+  15:00  Bromley FC               1-0 (1-0)  Boreham Wood
          Chesterfield FC          2-2 (1-2)  Barrow AFC
          Chorley FC               0-0  Hartlepool United
          Eastleigh FC             1-1 (0-1)  Dagenham & Redbridge
@@ -100,12 +100,12 @@ Matchday 6
          Woking FC                2-0 (2-0)  Solihull Moors
          Wrexham AFC              1-1 (1-1)  Barnet FC
          Yeovil Town              1-2 (0-0)  Maidenhead United
-  17.20  Torquay United           2-0 (1-0)  Aldershot Town
+  17:20  Torquay United           2-0 (1-0)  Aldershot Town
 
 
-Matchday 7
-[Mon Aug/26]
-  15.00  AFC Fylde                0-0  Harrogate Town
+▪ Matchday 7
+Mon Aug 26
+  15:00  AFC Fylde                0-0  Harrogate Town
          Aldershot Town           1-1 (0-0)  Sutton United
          Barnet FC                2-2 (0-2)  Torquay United
          Barrow AFC               1-2 (1-0)  Halifax Town
@@ -116,12 +116,12 @@ Matchday 7
          Maidenhead United        1-2 (0-0)  Bromley FC
          Notts County             5-1 (1-1)  Chorley FC
          Stockport County         2-0 (0-0)  Chesterfield FC
-  19.45  Solihull Moors           1-2 (0-1)  Eastleigh FC
+  19:45  Solihull Moors           1-2 (0-1)  Eastleigh FC
 
 
-Matchday 8
-[Sat Aug/31]
-  15.00  Bromley FC               2-2 (1-2)  AFC Fylde
+▪ Matchday 8
+Sat Aug 31
+  15:00  Bromley FC               2-2 (1-2)  AFC Fylde
          Chesterfield FC          1-1 (0-1)  Dagenham & Redbridge
          Eastleigh FC             1-2 (0-1)  Barnet FC
          Ebbsfleet United         1-2 (0-1)  Aldershot Town
@@ -132,12 +132,12 @@ Matchday 8
          Woking FC                3-2 (0-1)  Barrow AFC
          Wrexham AFC              1-2 (0-2)  Stockport County
          Yeovil Town              3-1 (1-0)  Notts County
-  17.20  Chorley FC               1-3 (0-2)  Boreham Wood
+  17:20  Chorley FC               1-3 (0-2)  Boreham Wood
 
 
-Matchday 9
-[Tue Sep/3]
-  19.45  Barrow AFC               0-1 (0-0)  Hartlepool United
+▪ Matchday 9
+Tue Sep 3
+  19:45  Barrow AFC               0-1 (0-0)  Hartlepool United
          Chesterfield FC          2-3 (0-2)  Halifax Town
          Dover Athletic           1-1 (0-1)  Ebbsfleet United
          Eastleigh FC             2-0 (1-0)  Boreham Wood
@@ -147,13 +147,13 @@ Matchday 9
          Woking FC                1-1 (0-0)  Torquay United
          Wrexham AFC              2-2 (1-1)  Maidenhead United
          Yeovil Town              1-0 (0-0)  Sutton United
-[Wed Sep/4]
-  19.45  Dagenham & Redbridge     1-1 (1-0)  Bromley FC
+Wed Sep 4
+  19:45  Dagenham & Redbridge     1-1 (1-0)  Bromley FC
 
 
-Matchday 10
-[Sat Sep/7]
-  15.00  Torquay United           4-2 (0-1)  Harrogate Town
+▪ Matchday 10
+Sat Sep 7
+  15:00  Torquay United           4-2 (0-1)  Harrogate Town
          Aldershot Town           1-2 (0-1)  Barrow AFC
          Boreham Wood             3-1 (2-1)  Dover Athletic
          Bromley FC               2-1 (1-0)  Chesterfield FC
@@ -162,15 +162,15 @@ Matchday 10
          Halifax Town             0-2 (0-1)  Yeovil Town
          Maidenhead United        0-1 (0-0)  Dagenham & Redbridge
          Sutton United            1-1 (1-0)  Notts County
-  19.30  Hartlepool United        1-1 (1-0)  Woking FC
+  19:30  Hartlepool United        1-1 (1-0)  Woking FC
 
 
-Matchday 11
-[Sat Sep/14]
-  15.00  Yeovil Town              3-2 (2-0)  AFC Fylde
+▪ Matchday 11
+Sat Sep 14
+  15:00  Yeovil Town              3-2 (2-0)  AFC Fylde
          Woking FC                2-2 (1-0)  Ebbsfleet United
-  17.20  Wrexham AFC              1-1 (0-0)  Sutton United
-  15.00  Barnet FC                1-0 (0-0)  Maidenhead United
+  17:20  Wrexham AFC              1-1 (0-0)  Sutton United
+  15:00  Barnet FC                1-0 (0-0)  Maidenhead United
          Barrow AFC               3-0 (2-0)  Solihull Moors
          Chesterfield FC          1-0 (1-0)  Torquay United
          Dagenham & Redbridge     3-1 (1-0)  Hartlepool United
@@ -181,16 +181,16 @@ Matchday 11
          Stockport County         1-2 (0-2)  Aldershot Town
 
 
-Matchday 9
-[Tue Sep/17]
-  19.45  Barnet FC                2-0 (0-0)  Aldershot Town
+▪ Matchday 9
+Tue Sep 17
+  19:45  Barnet FC                2-0 (0-0)  Aldershot Town
 
 
-Matchday 12
-[Sat Sep/21]
-  15.00  Torquay United           0-0  Dagenham & Redbridge
-  17.20  AFC Fylde                3-1 (1-0)  Eastleigh FC
-  15.00  Aldershot Town           1-0 (0-0)  Wrexham AFC
+▪ Matchday 12
+Sat Sep 21
+  15:00  Torquay United           0-0  Dagenham & Redbridge
+  17:20  AFC Fylde                3-1 (1-0)  Eastleigh FC
+  15:00  Aldershot Town           1-0 (0-0)  Wrexham AFC
          Boreham Wood             4-0 (3-0)  Stockport County
          Bromley FC               2-1 (1-1)  Notts County
          Chorley FC               1-1 (1-1)  Woking FC
@@ -202,9 +202,9 @@ Matchday 12
          Sutton United            4-0 (2-0)  Chesterfield FC
 
 
-Matchday 13
-[Tue Sep/24]
-  19.45  Torquay United           2-3 (1-0)  Eastleigh FC
+▪ Matchday 13
+Tue Sep 24
+  19:45  Torquay United           2-3 (1-0)  Eastleigh FC
          Solihull Moors           2-0 (0-0)  Stockport County
          AFC Fylde                3-2 (1-2)  Wrexham AFC
          Aldershot Town           1-3 (1-2)  Yeovil Town
@@ -218,11 +218,11 @@ Matchday 13
          Sutton United            0-2 (0-2)  Dagenham & Redbridge
 
 
-Matchday 14
-[Sat Sep/28]
-  15.00  Yeovil Town              3-1 (1-1)  Bromley FC
-  17.20  Dover Athletic           0-2 (0-1)  Halifax Town
-  15.00  Barnet FC                0-0  Solihull Moors
+▪ Matchday 14
+Sat Sep 28
+  15:00  Yeovil Town              3-1 (1-1)  Bromley FC
+  17:20  Dover Athletic           0-2 (0-1)  Halifax Town
+  15:00  Barnet FC                0-0  Solihull Moors
          Barrow AFC               2-0 (1-0)  Maidenhead United
          Chesterfield FC          2-1 (1-1)  Aldershot Town
          Dagenham & Redbridge     0-0  Chorley FC
@@ -234,15 +234,15 @@ Matchday 14
          Wrexham AFC              1-0 (0-0)  Ebbsfleet United
 
 
-Matchday 10
-[Tue Oct/1]
-  19.45  Solihull Moors           3-1 (2-0)  Wrexham AFC
+▪ Matchday 10
+Tue Oct 1
+  19:45  Solihull Moors           3-1 (2-0)  Wrexham AFC
          AFC Fylde                0-4 (0-1)  Barnet FC
 
 
-Matchday 15
-[Sat Oct/5]
-  15.00  Boreham Wood             1-0 (0-0)  Solihull Moors
+▪ Matchday 15
+Sat Oct 5
+  15:00  Boreham Wood             1-0 (0-0)  Solihull Moors
          Bromley FC               1-2 (0-1)  Barrow AFC
          Chesterfield FC          1-2 (1-1)  Eastleigh FC
          Chorley FC               0-0  Aldershot Town
@@ -253,12 +253,12 @@ Matchday 15
          Sutton United            0-0  Stockport County
          Torquay United           2-1 (1-0)  AFC Fylde
          Woking FC                1-1 (0-0)  Wrexham AFC
-  17.20  Harrogate Town           2-0 (1-0)  Ebbsfleet United
+  17:20  Harrogate Town           2-0 (1-0)  Ebbsfleet United
 
 
-Matchday 16
-[Tue Oct/8]
-  19.45  AFC Fylde                1-3 (0-0)  Chesterfield FC
+▪ Matchday 16
+Tue Oct 8
+  19:45  AFC Fylde                1-3 (0-0)  Chesterfield FC
          Aldershot Town           4-0 (2-0)  Dover Athletic
          Barnet FC                1-2 (1-1)  Bromley FC
          Barrow AFC               3-1 (2-1)  Boreham Wood
@@ -269,28 +269,28 @@ Matchday 16
          Solihull Moors           2-0 (1-0)  Sutton United
          Wrexham AFC              1-1 (1-0)  Harrogate Town
          Yeovil Town              3-1 (3-0)  Woking FC
-[Wed Oct/9]
-  19.45  Stockport County         2-1 (2-0)  Hartlepool United
+Wed Oct 9
+  19:45  Stockport County         2-1 (2-0)  Hartlepool United
 
 
-Matchday 17
-[Sat Oct/12]
-  15.00  Aldershot Town           0-3 (0-1)  Hartlepool United
+▪ Matchday 17
+Sat Oct 12
+  15:00  Aldershot Town           0-3 (0-1)  Hartlepool United
          Barnet FC                2-2 (0-1)  Woking FC
          Eastleigh FC             0-0  Chorley FC
          Ebbsfleet United         1-2 (1-1)  Maidenhead United
          Halifax Town             0-2 (0-1)  Boreham Wood
          Notts County             2-0 (1-0)  Torquay United
          Yeovil Town              1-2 (0-0)  Harrogate Town
-  15.15  Solihull Moors           2-1 (1-0)  Bromley FC
-[Tue Oct/15]
-  19.45  Wrexham AFC              0-1 (0-1)  Chesterfield FC
+  15:15  Solihull Moors           2-1 (1-0)  Bromley FC
+Tue Oct 15
+  19:45  Wrexham AFC              0-1 (0-1)  Chesterfield FC
 
 
-Matchday 18
-[Sat Oct/26]
-  17.20  Chesterfield FC          1-0 (1-0)  Notts County
-  15.00  Woking FC                1-1 (0-0)  Eastleigh FC
+▪ Matchday 18
+Sat Oct 26
+  17:20  Chesterfield FC          1-0 (1-0)  Notts County
+  15:00  Woking FC                1-1 (0-0)  Eastleigh FC
          Torquay United           4-2 (2-1)  Barrow AFC
          Boreham Wood             0-2 (0-1)  AFC Fylde
          Bromley FC               5-0 (0-0)  Halifax Town
@@ -303,9 +303,9 @@ Matchday 18
          Sutton United            2-3 (1-1)  Ebbsfleet United
 
 
-Matchday 19
-[Tue Oct/29]
-  19.45  Dagenham & Redbridge     0-2 (0-2)  Barrow AFC
+▪ Matchday 19
+Tue Oct 29
+  19:45  Dagenham & Redbridge     0-2 (0-2)  Barrow AFC
          Torquay United           1-0 (0-0)  Wrexham AFC
          Sutton United            0-1 (0-0)  Halifax Town
          Boreham Wood             0-0  Aldershot Town
@@ -317,9 +317,9 @@ Matchday 19
          Maidenhead United        1-1 (0-0)  AFC Fylde
 
 
-Matchday 20
-[Sat Nov/2]
-  15.00  Stockport County         1-3 (0-1)  Woking FC
+▪ Matchday 20
+Sat Nov 2
+  15:00  Stockport County         1-3 (0-1)  Woking FC
          Wrexham AFC              1-0 (0-0)  Bromley FC
          Solihull Moors           2-1 (1-1)  Dagenham & Redbridge
          Yeovil Town              1-1 (1-0)  Boreham Wood
@@ -333,21 +333,21 @@ Matchday 20
          Halifax Town             2-4 (0-2)  Torquay United
 
 
-Matchday 19
-[Tue Nov/5]
-  19.45  Hartlepool United        0-1 (0-0)  Solihull Moors
+▪ Matchday 19
+Tue Nov 5
+  19:45  Hartlepool United        0-1 (0-0)  Solihull Moors
 
 
-Matchday 17
-[Sat Nov/9]
-  15.00  Stockport County         1-0 (0-0)  Dagenham & Redbridge
+▪ Matchday 17
+Sat Nov 9
+  15:00  Stockport County         1-0 (0-0)  Dagenham & Redbridge
 
 
-Matchday 21
-[Sat Nov/16]
-  15.00  Dagenham & Redbridge     6-1 (4-0)  Aldershot Town
-  17.20  Yeovil Town              0-1 (0-0)  Dover Athletic
-  15.00  Woking FC                0-0  Halifax Town
+▪ Matchday 21
+Sat Nov 16
+  15:00  Dagenham & Redbridge     6-1 (4-0)  Aldershot Town
+  17:20  Yeovil Town              0-1 (0-0)  Dover Athletic
+  15:00  Woking FC                0-0  Halifax Town
          Barnet FC                1-2 (0-0)  Stockport County
          Boreham Wood             2-1 (0-0)  Maidenhead United
          Bromley FC               3-3 (1-3)  Harrogate Town
@@ -358,9 +358,9 @@ Matchday 21
          Solihull Moors           3-1 (3-1)  AFC Fylde
 
 
-Matchday 22
-[Sat Nov/23]
-  15.00  Dover Athletic           1-1 (1-1)  Solihull Moors
+▪ Matchday 22
+Sat Nov 23
+  15:00  Dover Athletic           1-1 (1-1)  Solihull Moors
          Wrexham AFC              3-3 (2-2)  Yeovil Town
          Sutton United            0-2 (0-1)  Bromley FC
          Stockport County         1-1 (0-1)  Ebbsfleet United
@@ -368,15 +368,15 @@ Matchday 22
          Aldershot Town           2-1 (2-1)  Notts County
          Barrow AFC               2-1 (2-0)  Barnet FC
          Chorley FC               1-0 (1-0)  Torquay United
-  17.20  Maidenhead United        2-3 (0-2)  Woking FC
-  15.00  Halifax Town             1-1 (1-0)  Eastleigh FC
+  17:20  Maidenhead United        2-3 (0-2)  Woking FC
+  15:00  Halifax Town             1-1 (1-0)  Eastleigh FC
          Harrogate Town           3-1 (1-1)  Chesterfield FC
          Hartlepool United        2-2 (0-1)  Boreham Wood
 
 
-Matchday 23
-[Tue Nov/26]
-  19.45  Wrexham AFC              0-1 (0-1)  AFC Fylde
+▪ Matchday 23
+Tue Nov 26
+  19:45  Wrexham AFC              0-1 (0-1)  AFC Fylde
          Woking FC                2-1 (1-1)  Bromley FC
          Yeovil Town              2-2 (1-1)  Aldershot Town
          Stockport County         1-4 (1-0)  Solihull Moors
@@ -390,9 +390,9 @@ Matchday 23
          Notts County             2-2 (2-1)  Boreham Wood
 
 
-Matchday 24
-[Sat Nov/30]
-  15.00  Maidenhead United        0-4 (0-1)  Barrow AFC
+▪ Matchday 24
+Sat Nov 30
+  15:00  Maidenhead United        0-4 (0-1)  Barrow AFC
          Torquay United           1-5 (0-0)  Stockport County
          Sutton United            3-1 (1-0)  Harrogate Town
          Ebbsfleet United         2-1 (1-1)  Wrexham AFC
@@ -402,14 +402,14 @@ Matchday 24
          Chorley FC               1-0 (0-0)  Dagenham & Redbridge
 
 
-Matchday 21
-[Tue Dec/3]
-  19.45  Eastleigh FC             0-2 (0-2)  Wrexham AFC
+▪ Matchday 21
+Tue Dec 3
+  19:45  Eastleigh FC             0-2 (0-2)  Wrexham AFC
 
 
-Matchday 25
-[Sat Dec/7]
-  15.00  Yeovil Town              2-0 (1-0)  Halifax Town
+▪ Matchday 25
+Sat Dec 7
+  15:00  Yeovil Town              2-0 (1-0)  Halifax Town
          Wrexham AFC              2-0 (2-0)  Solihull Moors
          Woking FC                2-1 (0-1)  Hartlepool United
          Stockport County         4-2 (2-1)  Chorley FC
@@ -420,22 +420,22 @@ Matchday 25
          Chesterfield FC          1-2 (1-0)  Bromley FC
          Dagenham & Redbridge     1-2 (0-1)  Maidenhead United
          Dover Athletic           0-2 (0-1)  Boreham Wood
-  17.20  Barnet FC                2-1 (1-0)  AFC Fylde
+  17:20  Barnet FC                2-1 (1-0)  AFC Fylde
 
 
-Matchday 17
-[Tue Dec/10]
-  19.45  AFC Fylde                0-0  Sutton United
+▪ Matchday 17
+Tue Dec 10
+  19:45  AFC Fylde                0-0  Sutton United
 
 
-Matchday 19
-[Tue Dec/10]
-  19.45  Chesterfield FC          1-2 (0-2)  Yeovil Town
+▪ Matchday 19
+Tue Dec 10
+  19:45  Chesterfield FC          1-2 (0-2)  Yeovil Town
 
 
-Matchday 26
-[Sat Dec/21]
-  15.00  Sutton United            3-1 (2-0)  Wrexham AFC
+▪ Matchday 26
+Sat Dec 21
+  15:00  Sutton United            3-1 (2-0)  Wrexham AFC
          Torquay United           0-3 (0-1)  Chesterfield FC
          Maidenhead United        1-4 (1-2)  Barnet FC
          Hartlepool United        1-0 (0-0)  Dagenham & Redbridge
@@ -447,23 +447,23 @@ Matchday 26
          Chorley FC               1-1 (0-0)  Dover Athletic
 
 
-Matchday 27
-[Thu Dec/26]
-  13.00  Woking FC                0-2 (0-2)  Sutton United
-  15.00  Wrexham AFC              3-1 (2-0)  Chorley FC
+▪ Matchday 27
+Thu Dec 26
+  13:00  Woking FC                0-2 (0-2)  Sutton United
+  15:00  Wrexham AFC              3-1 (2-0)  Chorley FC
          Stockport County         5-1 (2-0)  Halifax Town
          Notts County             3-0 (3-0)  Maidenhead United
          Harrogate Town           4-1 (0-0)  Hartlepool United
          Dover Athletic           3-0 (2-0)  Bromley FC
          Chesterfield FC          2-2 (2-1)  Solihull Moors
-  13.00  Dagenham & Redbridge     1-1 (0-0)  Ebbsfleet United
-  15.00  Yeovil Town              6-2 (3-1)  Torquay United
+  13:00  Dagenham & Redbridge     1-1 (0-0)  Ebbsfleet United
+  15:00  Yeovil Town              6-2 (3-1)  Torquay United
          Barrow AFC               1-1 (0-0)  AFC Fylde
 
 
-Matchday 28
-[Sat Dec/28]
-  15.00  Ebbsfleet United         0-1 (0-1)  Dover Athletic
+▪ Matchday 28
+Sat Dec 28
+  15:00  Ebbsfleet United         0-1 (0-1)  Dover Athletic
          Torquay United           4-1 (2-1)  Woking FC
          Solihull Moors           0-1 (0-0)  Notts County
          Maidenhead United        2-0 (1-0)  Wrexham AFC
@@ -472,14 +472,14 @@ Matchday 28
          Chorley FC               0-2 (0-1)  Harrogate Town
          Bromley FC               3-0 (1-0)  Dagenham & Redbridge
          Boreham Wood             2-2 (1-1)  Eastleigh FC
-  12.30  Sutton United            3-2 (2-2)  Yeovil Town
-  15.00  AFC Fylde                1-2 (1-0)  Stockport County
+  12:30  Sutton United            3-2 (2-2)  Yeovil Town
+  15:00  AFC Fylde                1-2 (1-0)  Stockport County
          Aldershot Town           0-0  Barnet FC
 
 
-Matchday 29
-[Wed Jan/1]
-  15.00  Hartlepool United        0-1 (0-0)  Harrogate Town
+▪ Matchday 29
+Wed Jan 1
+  15:00  Hartlepool United        0-1 (0-0)  Harrogate Town
          Sutton United            6-2 (5-0)  Woking FC
          Solihull Moors           3-0 (1-0)  Chesterfield FC
          Maidenhead United        0-0  Notts County
@@ -493,9 +493,9 @@ Matchday 29
          Torquay United           0-2 (0-1)  Yeovil Town
 
 
-Matchday 30
-[Sat Jan/4]
-  15.00  Dagenham & Redbridge     0-0  Torquay United
+▪ Matchday 30
+Sat Jan 4
+  15:00  Dagenham & Redbridge     0-0  Torquay United
          Harrogate Town           1-0 (0-0)  Maidenhead United
          Notts County             2-1 (1-0)  Bromley FC
          Stockport County         1-3 (0-3)  Boreham Wood
@@ -507,34 +507,34 @@ Matchday 30
          Barnet FC                1-1 (0-1)  Halifax Town
 
 
-Matchday 24
-[Tue Jan/7]
-  19.45  Hartlepool United        2-1 (0-0)  Eastleigh FC
+▪ Matchday 24
+Tue Jan 7
+  19:45  Hartlepool United        2-1 (0-0)  Eastleigh FC
 
 
-Matchday 30
-[Sat Jan/11]
-  15.00  Dover Athletic           1-1 (0-1)  Hartlepool United
+▪ Matchday 30
+Sat Jan 11
+  15:00  Dover Athletic           1-1 (0-1)  Hartlepool United
 
 
-Matchday 31
-[Sat Jan/18]
-  15.00  Ebbsfleet United         0-2 (0-1)  Harrogate Town
+▪ Matchday 31
+Sat Jan 18
+  15:00  Ebbsfleet United         0-2 (0-1)  Harrogate Town
          Halifax Town             5-2 (1-1)  Maidenhead United
          Notts County             0-0  Dover Athletic
          Solihull Moors           0-2 (0-1)  Boreham Wood
          Stockport County         0-0  Sutton United
          Wrexham AFC              3-0 (1-0)  Woking FC
          Yeovil Town              2-2 (2-1)  Hartlepool United
-  17.20  Barrow AFC               2-0 (1-0)  Bromley FC
-  15.00  Eastleigh FC             0-2 (0-0)  Chesterfield FC
+  17:20  Barrow AFC               2-0 (1-0)  Bromley FC
+  15:00  Eastleigh FC             0-2 (0-0)  Chesterfield FC
          AFC Fylde                2-3 (1-2)  Torquay United
          Aldershot Town           3-3 (2-2)  Chorley FC
 
 
-Matchday 32
-[Sat Jan/25]
-  15.00  Chorley FC               0-1 (0-0)  Halifax Town
+▪ Matchday 32
+Sat Jan 25
+  15:00  Chorley FC               0-1 (0-0)  Halifax Town
          Woking FC                1-0 (1-0)  Yeovil Town
          Torquay United           0-0  Ebbsfleet United
          Sutton United            0-0  Solihull Moors
@@ -548,26 +548,26 @@ Matchday 32
          Bromley FC               1-2 (1-1)  Barnet FC
 
 
-Matchday 26
-[Tue Jan/28]
-  19.45  Solihull Moors           0-0  Barrow AFC
+▪ Matchday 26
+Tue Jan 28
+  19:45  Solihull Moors           0-0  Barrow AFC
          Ebbsfleet United         2-1 (0-0)  Woking FC
 
 
-Matchday 24
-[Tue Jan/28]
-  19.45  Halifax Town             4-2 (2-1)  Dover Athletic
+▪ Matchday 24
+Tue Jan 28
+  19:45  Halifax Town             4-2 (2-1)  Dover Athletic
 
 
-Matchday 27
-[Tue Jan/28]
-  19.45  Eastleigh FC             0-0  Aldershot Town
+▪ Matchday 27
+Tue Jan 28
+  19:45  Eastleigh FC             0-0  Aldershot Town
 
 
-Matchday 33
-[Sat Feb/1]
-  17.20  Notts County             3-0 (0-0)  Chesterfield FC
-  15.00  Wrexham AFC              0-0  Dagenham & Redbridge
+▪ Matchday 33
+Sat Feb 1
+  17:20  Notts County             3-0 (0-0)  Chesterfield FC
+  15:00  Wrexham AFC              0-0  Dagenham & Redbridge
          Solihull Moors           0-2 (0-0)  Maidenhead United
          Stockport County         0-2 (0-0)  Dover Athletic
          Yeovil Town              1-1 (0-1)  Chorley FC
@@ -580,122 +580,122 @@ Matchday 33
          Ebbsfleet United         1-1 (1-0)  Sutton United
 
 
-Matchday 34
-[Tue Feb/4]
-  19.45  Dover Athletic           2-1 (1-0)  Barrow AFC
-[Sat Feb/8]
-  15.00  Dagenham & Redbridge     1-1 (0-0)  Stockport County
+▪ Matchday 34
+Tue Feb 4
+  19:45  Dover Athletic           2-1 (1-0)  Barrow AFC
+Sat Feb 8
+  15:00  Dagenham & Redbridge     1-1 (0-0)  Stockport County
          Bromley FC               2-2 (0-0)  Solihull Moors
-  13.00  Chesterfield FC          3-2 (1-1)  Wrexham AFC
-  15.00  Hartlepool United        2-0 (2-0)  Aldershot Town
+  13:00  Chesterfield FC          3-2 (1-1)  Wrexham AFC
+  15:00  Hartlepool United        2-0 (2-0)  Aldershot Town
 
 
-Matchday 30
-[Tue Feb/11]
-  19.45  Eastleigh FC             2-2 (0-2)  AFC Fylde
+▪ Matchday 30
+Tue Feb 11
+  19:45  Eastleigh FC             2-2 (0-2)  AFC Fylde
 
 
-Matchday 24
-[Tue Feb/11]
-  19.45  Solihull Moors           1-0 (1-0)  Barnet FC
+▪ Matchday 24
+Tue Feb 11
+  19:45  Solihull Moors           1-0 (1-0)  Barnet FC
 
 
-Matchday 34
-[Tue Feb/11]
-  19.45  Harrogate Town           3-0 (1-0)  Yeovil Town
+▪ Matchday 34
+Tue Feb 11
+  19:45  Harrogate Town           3-0 (1-0)  Yeovil Town
 
 
-Matchday 35
-[Sat Feb/15]
-  15.00  Stockport County         1-0 (0-0)  Bromley FC
+▪ Matchday 35
+Sat Feb 15
+  15:00  Stockport County         1-0 (0-0)  Bromley FC
          Ebbsfleet United         1-0 (0-0)  Chorley FC
          Notts County             1-1 (0-0)  Woking FC
 
 
-Matchday 17
-[Tue Feb/18]
-  19.45  Barrow AFC               1-0 (0-0)  Dover Athletic
+▪ Matchday 17
+Tue Feb 18
+  19:45  Barrow AFC               1-0 (0-0)  Dover Athletic
 
 
-Matchday 36
-[Sat Feb/22]
-  15.00  Torquay United           1-0 (0-0)  Halifax Town
+▪ Matchday 36
+Sat Feb 22
+  15:00  Torquay United           1-0 (0-0)  Halifax Town
          Maidenhead United        1-2 (0-2)  Aldershot Town
          Hartlepool United        2-0 (0-0)  Notts County
          Harrogate Town           3-0 (2-0)  Eastleigh FC
          Dagenham & Redbridge     2-0 (2-0)  Solihull Moors
          Chorley FC               0-1 (0-1)  Barnet FC
          Woking FC                1-1 (1-1)  Stockport County
-  17.20  Sutton United            2-2 (1-2)  Barrow AFC
-  15.00  Dover Athletic           5-1 (2-1)  AFC Fylde
+  17:20  Sutton United            2-2 (1-2)  Barrow AFC
+  15:00  Dover Athletic           5-1 (2-1)  AFC Fylde
          Chesterfield FC          4-0 (0-0)  Ebbsfleet United
          Bromley FC               0-2 (0-1)  Wrexham AFC
          Boreham Wood             1-0 (0-0)  Yeovil Town
 
 
-Matchday 34
-[Tue Feb/25]
-  19.45  Maidenhead United        1-3 (1-3)  Ebbsfleet United
+▪ Matchday 34
+Tue Feb 25
+  19:45  Maidenhead United        1-3 (1-3)  Ebbsfleet United
 
 
-Matchday 35
-[Tue Feb/25]
-  19.45  Aldershot Town           3-2 (0-1)  Boreham Wood
+▪ Matchday 35
+Tue Feb 25
+  19:45  Aldershot Town           3-2 (0-1)  Boreham Wood
 
 
-Matchday 37
-[Sat Feb/29]
-  15.00  Woking FC                2-0 (0-0)  Maidenhead United
+▪ Matchday 37
+Sat Feb 29
+  15:00  Woking FC                2-0 (0-0)  Maidenhead United
          Bromley FC               0-1 (0-1)  Sutton United
          Solihull Moors           3-0 (1-0)  Dover Athletic
          Boreham Wood             1-1 (1-0)  Hartlepool United
 
 
-Matchday 35
-[Sat Feb/29]
-  15.00  Barrow AFC               2-1 (2-1)  Dagenham & Redbridge
+▪ Matchday 35
+Sat Feb 29
+  15:00  Barrow AFC               2-1 (2-1)  Dagenham & Redbridge
 
 
-Matchday 37
-[Sat Feb/29]
-  15.00  Torquay United           2-0 (1-0)  Chorley FC
+▪ Matchday 37
+Sat Feb 29
+  15:00  Torquay United           2-0 (1-0)  Chorley FC
          Yeovil Town              3-0 (1-0)  Wrexham AFC
          Ebbsfleet United         0-1 (0-0)  Stockport County
 
 
-Matchday 35
-[Tue Mar/3]
-  19.45  Halifax Town             1-0 (0-0)  Sutton United
+▪ Matchday 35
+Tue Mar 3
+  19:45  Halifax Town             1-0 (0-0)  Sutton United
 
 
-Matchday 37
-[Tue Mar/3]
-  19.45  Chesterfield FC          3-4 (2-2)  Harrogate Town
+▪ Matchday 37
+Tue Mar 3
+  19:45  Chesterfield FC          3-4 (2-2)  Harrogate Town
 
 
-Matchday 27
-[Tue Mar/3]
-  19.45  Barnet FC                2-2 (1-0)  Boreham Wood
+▪ Matchday 27
+Tue Mar 3
+  19:45  Barnet FC                2-2 (1-0)  Boreham Wood
 
 
-Matchday 24
-[Tue Mar/3]
-  19.45  AFC Fylde                1-2 (1-1)  Notts County
+▪ Matchday 24
+Tue Mar 3
+  19:45  AFC Fylde                1-2 (1-1)  Notts County
 
 
-Matchday 34
-[Tue Mar/3]
-  19.45  Chorley FC               1-2 (1-0)  Eastleigh FC
+▪ Matchday 34
+Tue Mar 3
+  19:45  Chorley FC               1-2 (1-0)  Eastleigh FC
 
 
-Matchday 35
-[Tue Mar/3]
-  19.45  Solihull Moors           0-1 (0-0)  Hartlepool United
+▪ Matchday 35
+Tue Mar 3
+  19:45  Solihull Moors           0-1 (0-0)  Hartlepool United
 
 
-Matchday 38
-[Sat Mar/7]
-  15.00  Sutton United            2-0 (2-0)  Torquay United
+▪ Matchday 38
+Sat Mar 7
+  15:00  Sutton United            2-0 (2-0)  Torquay United
          Chorley FC               1-2 (0-1)  Chesterfield FC
          Dover Athletic           0-1 (0-0)  Yeovil Town
          Halifax Town             0-2 (0-2)  Woking FC
@@ -704,31 +704,31 @@ Matchday 38
          Stockport County         1-1 (1-1)  Barnet FC
          AFC Fylde                0-0  Solihull Moors
          Wrexham AFC              0-0  Eastleigh FC
-  17.20  Harrogate Town           1-1 (0-0)  Bromley FC
-  15.00  Aldershot Town           0-1 (0-0)  Dagenham & Redbridge
+  17:20  Harrogate Town           1-1 (0-0)  Bromley FC
+  15:00  Aldershot Town           0-1 (0-0)  Dagenham & Redbridge
          Barrow AFC               0-2 (0-0)  Notts County
 
 
-Matchday 37
-[Tue Mar/10]
-  19.45  Dagenham & Redbridge     1-2 (0-0)  AFC Fylde
+▪ Matchday 37
+Tue Mar 10
+  19:45  Dagenham & Redbridge     1-2 (0-0)  AFC Fylde
 
 
-Matchday 34
-[Tue Mar/10]
-  19.45  Woking FC                1-3 (0-1)  Barnet FC
+▪ Matchday 34
+Tue Mar 10
+  19:45  Woking FC                1-3 (0-1)  Barnet FC
 
 
-Matchday 37
-[Tue Mar/10]
-  19.45  Notts County             3-1 (1-1)  Aldershot Town
+▪ Matchday 37
+Tue Mar 10
+  19:45  Notts County             3-1 (1-1)  Aldershot Town
 
 
-Matchday 39
-[Fri Mar/13]
+▪ Matchday 39
+Fri Mar 13
   Solihull Moors           -  Harrogate Town           [cancelled]
-[Sat Mar/14]
-  15.00  Sutton United            1-1 (1-0)  Hartlepool United
+Sat Mar 14
+  15:00  Sutton United            1-1 (1-0)  Hartlepool United
          Notts County             4-0 (1-0)  Eastleigh FC
          Maidenhead United        1-2 (1-0)  Stockport County
          Dover Athletic           1-1 (0-0)  Chesterfield FC
@@ -738,28 +738,28 @@ Matchday 39
   Bromley FC               -  Chorley FC               [cancelled]
   Boreham Wood             -  Torquay United           [cancelled]
   Barrow AFC               -  Wrexham AFC              [cancelled]
-  17.20  Halifax Town             0-1 (0-1)  Ebbsfleet United
+  17:20  Halifax Town             0-1 (0-1)  Ebbsfleet United
 
 
-Matchday 35
-[Tue Mar/17]
+▪ Matchday 35
+Tue Mar 17
   Eastleigh FC             -  Dover Athletic           [cancelled]
 
 
-Matchday 37
-[Tue Mar/17]
+▪ Matchday 37
+Tue Mar 17
   Barnet FC                -  Barrow AFC               [cancelled]
 
 
-Matchday 34
-[Tue Mar/17]
+▪ Matchday 34
+Tue Mar 17
   Boreham Wood             -  Halifax Town             [cancelled]
   Sutton United            -  AFC Fylde                [cancelled]
   Torquay United           -  Notts County             [cancelled]
 
 
-Matchday 40
-[Sat Mar/21]
+▪ Matchday 40
+Sat Mar 21
   Dagenham & Redbridge     -  Dover Athletic           [cancelled]
   Hartlepool United        -  Halifax Town             [cancelled]
   Eastleigh FC             -  Yeovil Town              [cancelled]
@@ -772,24 +772,24 @@ Matchday 40
   Chorley FC               -  AFC Fylde                [cancelled]
 
 
-Matchday 35
-[Tue Mar/24]
+▪ Matchday 35
+Tue Mar 24
   Wrexham AFC              -  Torquay United           [cancelled]
   AFC Fylde                -  Maidenhead United        [cancelled]
 
 
-Matchday 40
-[Tue Mar/24]
+▪ Matchday 40
+Tue Mar 24
   Stockport County         -  Notts County             [cancelled]
 
 
-Matchday 35
-[Tue Mar/24]
+▪ Matchday 35
+Tue Mar 24
   Yeovil Town              -  Chesterfield FC          [cancelled]
 
 
-Matchday 41
-[Sat Mar/28]
+▪ Matchday 41
+Sat Mar 28
   Yeovil Town              -  Ebbsfleet United         [cancelled]
   Solihull Moors           -  Chorley FC               [cancelled]
   Maidenhead United        -  Torquay United           [cancelled]
@@ -803,23 +803,23 @@ Matchday 41
   Sutton United            -  Eastleigh FC             [cancelled]
 
 
-Matchday 35
-[Tue Mar/31]
+▪ Matchday 35
+Tue Mar 31
   Barnet FC                -  Harrogate Town           [cancelled]
 
 
-Matchday 37
-[Tue Mar/31]
+▪ Matchday 37
+Tue Mar 31
   Eastleigh FC             -  Halifax Town             [cancelled]
 
 
-Matchday 40
-[Wed Apr/1]
+▪ Matchday 40
+Wed Apr 1
   Harrogate Town           -  Barrow AFC               [cancelled]
 
 
-Matchday 42
-[Sat Apr/4]
+▪ Matchday 42
+Sat Apr 4
   Torquay United           -  Bromley FC               [cancelled]
   Stockport County         -  Yeovil Town              [cancelled]
   Aldershot Town           -  Solihull Moors           [cancelled]
@@ -834,18 +834,18 @@ Matchday 42
   Wrexham AFC              -  Dover Athletic           [cancelled]
 
 
-Matchday 31
-[Tue Apr/7]
+▪ Matchday 31
+Tue Apr 7
   Barnet FC                -  Dagenham & Redbridge     [cancelled]
 
 
-Matchday 41
-[Tue Apr/7]
+▪ Matchday 41
+Tue Apr 7
   Notts County             -  Harrogate Town           [cancelled]
 
 
-Matchday 43
-[Fri Apr/10]
+▪ Matchday 43
+Fri Apr 10
   Bromley FC               -  Maidenhead United        [cancelled]
   Chesterfield FC          -  Stockport County         [cancelled]
   Chorley FC               -  Notts County             [cancelled]
@@ -860,8 +860,8 @@ Matchday 43
   Yeovil Town              -  Dagenham & Redbridge     [cancelled]
 
 
-Matchday 44
-[Mon Apr/13]
+▪ Matchday 44
+Mon Apr 13
   AFC Fylde                -  Halifax Town             [cancelled]
   Aldershot Town           -  Torquay United           [cancelled]
   Barnet FC                -  Wrexham AFC              [cancelled]
@@ -876,8 +876,8 @@ Matchday 44
   Stockport County         -  Harrogate Town           [cancelled]
 
 
-Matchday 45
-[Sat Apr/18]
+▪ Matchday 45
+Sat Apr 18
   Bromley FC               -  Hartlepool United        [cancelled]
   Chesterfield FC          -  Barnet FC                [cancelled]
   Chorley FC               -  Maidenhead United        [cancelled]
@@ -892,8 +892,8 @@ Matchday 45
   Yeovil Town              -  Barrow AFC               [cancelled]
 
 
-Matchday 46
-[Sat Apr/25]
+▪ Matchday 46
+Sat Apr 25
   AFC Fylde                -  Bromley FC               [cancelled]
   Aldershot Town           -  Ebbsfleet United         [cancelled]
   Barnet FC                -  Eastleigh FC             [cancelled]

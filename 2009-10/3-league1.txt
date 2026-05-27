@@ -1,16 +1,16 @@
 = English League One 2009/10
 
-# Date       Sat Aug/8 2009 - Sat May/8 2010 (273d)
+# Date       Sat Aug 8 2009 - Sat May 8 2010 (273d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/8]
-  12.30  Gillingham FC            5-0 (1-0)  Swindon Town
-  12.45  Southampton FC           1-1 (0-0)  Millwall FC
-  15.00  Brighton & Hove Albion   0-1 (0-1)  Walsall FC
+▪ Matchday 1
+Sat Aug 8
+  12:30  Gillingham FC            5-0 (1-0)  Swindon Town
+  12:45  Southampton FC           1-1 (0-0)  Millwall FC
+  15:00  Brighton & Hove Albion   0-1 (0-1)  Walsall FC
          Bristol Rovers           1-2 (1-1)  Leyton Orient
          Carlisle United          1-3 (1-1)  Brentford FC
          Charlton Athletic        3-2 (2-1)  Wycombe Wanderers
@@ -22,9 +22,9 @@ Matchday 1
          Yeovil Town              2-0 (1-0)  Tranmere Rovers
 
 
-Matchday 2
-[Sat Aug/15]
-  15.00  Brentford FC             0-0  Brighton & Hove Albion
+▪ Matchday 2
+Sat Aug 15
+  15:00  Brentford FC             0-0  Brighton & Hove Albion
          Colchester United        2-1 (2-0)  Yeovil Town
          Exeter City              1-1 (0-0)  Norwich City
          Hartlepool United        0-2 (0-2)  Charlton Athletic
@@ -38,9 +38,9 @@ Matchday 2
          Wycombe Wanderers        0-1 (0-0)  Leeds United
 
 
-Matchday 3
-[Tue Aug/18]
-  19.45  Brentford FC             2-1 (0-0)  Norwich City
+▪ Matchday 3
+Tue Aug 18
+  19:45  Brentford FC             2-1 (0-0)  Norwich City
          Colchester United        2-1 (1-1)  Gillingham FC
          Exeter City              1-1 (1-0)  Yeovil Town
          Hartlepool United        1-2 (1-2)  Bristol Rovers
@@ -54,11 +54,11 @@ Matchday 3
          Wycombe Wanderers        1-1 (1-1)  Southend United
 
 
-Matchday 4
-[Fri Aug/21]
-  19.45  Southend United          0-0  Millwall FC
-[Sat Aug/22]
-  15.00  Brighton & Hove Albion   2-4 (1-1)  Stockport County
+▪ Matchday 4
+Fri Aug 21
+  19:45  Southend United          0-0  Millwall FC
+Sat Aug 22
+  15:00  Brighton & Hove Albion   2-4 (1-1)  Stockport County
          Bristol Rovers           1-0 (0-0)  Huddersfield Town
          Carlisle United          0-1 (0-0)  Exeter City
          Charlton Athletic        2-0 (1-0)  Walsall FC
@@ -71,12 +71,12 @@ Matchday 4
          Yeovil Town              3-3 (2-2)  Leyton Orient
 
 
-Matchday 5
-[Fri Aug/28]
-  19.45  Millwall FC              1-1 (1-0)  Brighton & Hove Albion
-[Sat Aug/29]
-  12.00  Huddersfield Town        2-1 (1-1)  Yeovil Town
-  15.00  Brentford FC             1-1 (1-0)  Oldham Athletic
+▪ Matchday 5
+Fri Aug 28
+  19:45  Millwall FC              1-1 (1-0)  Brighton & Hove Albion
+Sat Aug 29
+  12:00  Huddersfield Town        2-1 (1-1)  Yeovil Town
+  15:00  Brentford FC             1-1 (1-0)  Oldham Athletic
          Colchester United        1-2 (0-0)  Leeds United
          Exeter City              1-2 (0-2)  Milton Keynes Dons
          Hartlepool United        0-2 (0-1)  Norwich City
@@ -88,13 +88,13 @@ Matchday 5
          Wycombe Wanderers        2-1 (1-1)  Bristol Rovers
 
 
-Matchday 6
-[Fri Sep/4]
-  19.45  Southend United          3-0 (0-0)  Leyton Orient
+▪ Matchday 6
+Fri Sep 4
+  19:45  Southend United          3-0 (0-0)  Leyton Orient
          Oldham Athletic          0-3 (0-2)  Hartlepool United
-[Sat Sep/5]
-  12.15  Charlton Athletic        2-0 (2-0)  Brentford FC
-  15.00  Brighton & Hove Albion   1-0 (0-0)  Wycombe Wanderers
+Sat Sep 5
+  12:15  Charlton Athletic        2-0 (2-0)  Brentford FC
+  15:00  Brighton & Hove Albion   1-0 (0-0)  Wycombe Wanderers
          Bristol Rovers           2-0 (1-0)  Millwall FC
          Carlisle United          3-0 (0-0)  Tranmere Rovers
          Gillingham FC            3-0 (1-0)  Exeter City
@@ -105,12 +105,12 @@ Matchday 6
          Yeovil Town              0-1 (0-1)  Swindon Town
 
 
-Matchday 7
-[Fri Sep/11]
-  19.45  Southend United          0-0  Leeds United
-[Sat Sep/12]
-  12.30  Gillingham FC            2-0 (2-0)  Millwall FC
-  15.00  Bristol Rovers           1-0 (0-0)  Oldham Athletic
+▪ Matchday 7
+Fri Sep 11
+  19:45  Southend United          0-0  Leeds United
+Sat Sep 12
+  12:30  Gillingham FC            2-0 (2-0)  Millwall FC
+  15:00  Bristol Rovers           1-0 (0-0)  Oldham Athletic
          Carlisle United          0-2 (0-1)  Brighton & Hove Albion
          Charlton Athletic        1-1 (0-1)  Southampton FC
          Hartlepool United        1-1 (0-0)  Wycombe Wanderers
@@ -119,13 +119,13 @@ Matchday 7
          Swindon Town             1-1 (1-1)  Colchester United
          Tranmere Rovers          2-3 (1-1)  Walsall FC
          Yeovil Town              2-2 (1-2)  Stockport County
-[Mon Sep/14]
-  19.45  Milton Keynes Dons       2-1 (0-1)  Norwich City
+Mon Sep 14
+  19:45  Milton Keynes Dons       2-1 (0-1)  Norwich City
 
 
-Matchday 8
-[Sat Sep/19]
-  15.00  Brentford FC             1-3 (0-3)  Bristol Rovers
+▪ Matchday 8
+Sat Sep 19
+  15:00  Brentford FC             1-3 (0-3)  Bristol Rovers
          Brighton & Hove Albion   2-3 (2-2)  Southend United
          Colchester United        2-0 (1-0)  Hartlepool United
          Exeter City              2-1 (1-0)  Tranmere Rovers
@@ -139,9 +139,9 @@ Matchday 8
          Wycombe Wanderers        0-1 (0-1)  Milton Keynes Dons
 
 
-Matchday 9
-[Sat Sep/26]
-  15.00  Bristol Rovers           1-1 (0-0)  Brighton & Hove Albion
+▪ Matchday 9
+Sat Sep 26
+  15:00  Bristol Rovers           1-1 (0-0)  Brighton & Hove Albion
          Carlisle United          1-1 (0-0)  Southampton FC
          Charlton Athletic        2-1 (1-0)  Exeter City
          Gillingham FC            1-1 (1-0)  Norwich City
@@ -155,9 +155,9 @@ Matchday 9
          Yeovil Town              2-0 (1-0)  Brentford FC
 
 
-Matchday 10
-[Tue Sep/29]
-  19.45  Brentford FC             2-1 (0-1)  Southend United
+▪ Matchday 10
+Tue Sep 29
+  19:45  Brentford FC             2-1 (0-1)  Southend United
          Colchester United        3-0 (2-0)  Charlton Athletic
          Exeter City              1-1 (0-0)  Swindon Town
          Leeds United             1-1 (1-0)  Carlisle United
@@ -170,9 +170,9 @@ Matchday 10
          Wycombe Wanderers        0-1 (0-1)  Tranmere Rovers
 
 
-Matchday 11
-[Sat Oct/3]
-  15.00  Wycombe Wanderers        0-1 (0-0)  Leyton Orient
+▪ Matchday 11
+Sat Oct 3
+  15:00  Wycombe Wanderers        0-1 (0-0)  Leyton Orient
          Brentford FC             2-3 (0-2)  Swindon Town
          Brighton & Hove Albion   0-1 (0-0)  Milton Keynes Dons
          Colchester United        1-0 (0-0)  Huddersfield Town
@@ -186,12 +186,12 @@ Matchday 11
          Walsall FC               2-2 (1-1)  Carlisle United
 
 
-Matchday 12
-[Fri Oct/9]
-  19.45  Hartlepool United        0-0  Brentford FC
+▪ Matchday 12
+Fri Oct 9
+  19:45  Hartlepool United        0-0  Brentford FC
          Southend United          1-3 (1-3)  Southampton FC
-[Sat Oct/10]
-  15.00  Yeovil Town              2-2 (1-2)  Brighton & Hove Albion
+Sat Oct 10
+  15:00  Yeovil Town              2-2 (1-2)  Brighton & Hove Albion
          Carlisle United          0-1 (0-1)  Norwich City
          Charlton Athletic        0-0  Oldham Athletic
          Gillingham FC            3-2 (2-1)  Wycombe Wanderers
@@ -199,18 +199,18 @@ Matchday 12
          Leyton Orient            0-1 (0-0)  Colchester United
          Milton Keynes Dons       1-0 (1-0)  Walsall FC
          Swindon Town             1-1 (1-0)  Millwall FC
-[Mon Oct/12]
-  19.45  Tranmere Rovers          0-1 (0-0)  Stockport County
+Mon Oct 12
+  19:45  Tranmere Rovers          0-1 (0-0)  Stockport County
 
 
-Matchday 10
-[Tue Oct/13]
-  19.45  Brighton & Hove Albion   2-0 (1-0)  Gillingham FC
+▪ Matchday 10
+Tue Oct 13
+  19:45  Brighton & Hove Albion   2-0 (1-0)  Gillingham FC
 
 
-Matchday 13
-[Sat Oct/17]
-  15.00  Wycombe Wanderers        1-1 (0-1)  Colchester United
+▪ Matchday 13
+Sat Oct 17
+  15:00  Wycombe Wanderers        1-1 (0-1)  Colchester United
          Charlton Athletic        2-1 (1-1)  Huddersfield Town
          Leyton Orient            2-1 (1-1)  Brentford FC
          Milton Keynes Dons       2-0 (0-0)  Gillingham FC
@@ -221,13 +221,13 @@ Matchday 13
          Tranmere Rovers          2-1 (1-0)  Brighton & Hove Albion
          Walsall FC               3-0 (2-0)  Exeter City
          Yeovil Town              3-1 (2-0)  Carlisle United
-[Mon Oct/19]
-  19.45  Leeds United             2-1 (1-1)  Norwich City
+Mon Oct 19
+  19:45  Leeds United             2-1 (1-1)  Norwich City
 
 
-Matchday 14
-[Sat Oct/24]
-  15.00  Gillingham FC            1-1 (0-0)  Charlton Athletic
+▪ Matchday 14
+Sat Oct 24
+  15:00  Gillingham FC            1-1 (0-0)  Charlton Athletic
          Brentford FC             2-0 (1-0)  Stockport County
          Brighton & Hove Albion   0-2 (0-0)  Oldham Athletic
          Bristol Rovers           1-2 (0-0)  Yeovil Town
@@ -241,16 +241,16 @@ Matchday 14
          Southampton FC           3-1 (0-1)  Milton Keynes Dons
 
 
-Matchday 12
-[Tue Oct/27]
-  19.45  Bristol Rovers           0-4 (0-1)  Leeds United
+▪ Matchday 12
+Tue Oct 27
+  19:45  Bristol Rovers           0-4 (0-1)  Leeds United
 
 
-Matchday 15
-[Fri Oct/30]
-  19.45  Southend United          1-0 (0-0)  Gillingham FC
-[Sat Oct/31]
-  15.00  Brighton & Hove Albion   3-3 (2-3)  Hartlepool United
+▪ Matchday 15
+Fri Oct 30
+  19:45  Southend United          1-0 (0-0)  Gillingham FC
+Sat Oct 31
+  15:00  Brighton & Hove Albion   3-3 (2-3)  Hartlepool United
          Carlisle United          3-1 (1-1)  Charlton Athletic
          Exeter City              3-0 (2-0)  Brentford FC
          Leeds United             4-0 (1-0)  Yeovil Town
@@ -260,14 +260,14 @@ Matchday 15
          Stockport County         1-3 (0-1)  Norwich City
          Tranmere Rovers          1-4 (0-2)  Swindon Town
          Wycombe Wanderers        2-3 (2-0)  Walsall FC
-[Sun Nov/1]
-  14.00  Oldham Athletic          0-1 (0-0)  Huddersfield Town
+Sun Nov 1
+  14:00  Oldham Athletic          0-1 (0-0)  Huddersfield Town
 
 
-Matchday 16
-[Sat Nov/14]
-  12.05  Huddersfield Town        6-0 (2-0)  Wycombe Wanderers
-  15.00  Brentford FC             2-2 (2-1)  Millwall FC
+▪ Matchday 16
+Sat Nov 14
+  12:05  Huddersfield Town        6-0 (2-0)  Wycombe Wanderers
+  15:00  Brentford FC             2-2 (2-1)  Millwall FC
          Bristol Rovers           3-2 (1-1)  Carlisle United
          Charlton Athletic        5-1 (2-1)  Milton Keynes Dons
          Colchester United        2-2 (1-2)  Exeter City
@@ -276,15 +276,15 @@ Matchday 16
          Norwich City             2-0 (0-0)  Tranmere Rovers
          Walsall FC               2-0 (1-0)  Stockport County
          Yeovil Town              1-0 (0-0)  Southend United
-[Sun Nov/15]
-  16.30  Southampton FC           1-3 (1-2)  Brighton & Hove Albion
+Sun Nov 15
+  16:30  Southampton FC           1-3 (1-2)  Brighton & Hove Albion
 
 
-Matchday 17
-[Fri Nov/20]
-  19.45  Southend United          2-1 (1-1)  Milton Keynes Dons
-[Sat Nov/21]
-  15.00  Yeovil Town              1-1 (1-0)  Charlton Athletic
+▪ Matchday 17
+Fri Nov 20
+  19:45  Southend United          2-1 (1-1)  Milton Keynes Dons
+Sat Nov 21
+  15:00  Yeovil Town              1-1 (1-0)  Charlton Athletic
          Brentford FC             1-1 (1-0)  Walsall FC
          Brighton & Hove Albion   0-3 (0-2)  Leeds United
          Bristol Rovers           2-1 (1-1)  Gillingham FC
@@ -297,9 +297,9 @@ Matchday 17
          Stockport County         1-3 (0-1)  Exeter City
 
 
-Matchday 18
-[Tue Nov/24]
-  19.45  Wycombe Wanderers        1-0 (0-0)  Brentford FC
+▪ Matchday 18
+Tue Nov 24
+  19:45  Wycombe Wanderers        1-0 (0-0)  Brentford FC
          Charlton Athletic        4-2 (2-1)  Bristol Rovers
          Colchester United        2-0 (2-0)  Stockport County
          Exeter City              1-1 (0-1)  Millwall FC
@@ -313,9 +313,9 @@ Matchday 18
          Walsall FC               3-0 (2-0)  Oldham Athletic
 
 
-Matchday 19
-[Tue Dec/1]
-  19.45  Leyton Orient            3-1 (2-1)  Gillingham FC
+▪ Matchday 19
+Tue Dec 1
+  19:45  Leyton Orient            3-1 (2-1)  Gillingham FC
          Brentford FC             1-0 (1-0)  Colchester United
          Brighton & Hove Albion   0-2 (0-2)  Charlton Athletic
          Bristol Rovers           1-0 (1-0)  Exeter City
@@ -328,12 +328,12 @@ Matchday 19
          Southend United          0-3 (0-0)  Norwich City
 
 
-Matchday 20
-[Sat Dec/5]
-  15.00  Wycombe Wanderers        2-1 (0-0)  Stockport County
+▪ Matchday 20
+Sat Dec 5
+  15:00  Wycombe Wanderers        2-1 (0-0)  Stockport County
          Walsall FC               1-3 (0-2)  Southampton FC
-  12.15  Leeds United             2-2 (1-0)  Huddersfield Town
-  15.00  Charlton Athletic        1-0 (1-0)  Southend United
+  12:15  Leeds United             2-2 (1-0)  Huddersfield Town
+  15:00  Charlton Athletic        1-0 (1-0)  Southend United
          Colchester United        1-0 (1-0)  Bristol Rovers
          Exeter City              0-1 (0-0)  Brighton & Hove Albion
          Gillingham FC            0-0  Carlisle United
@@ -344,11 +344,11 @@ Matchday 20
          Tranmere Rovers          1-0 (0-0)  Brentford FC
 
 
-Matchday 21
-[Fri Dec/11]
-  19.45  Brighton & Hove Albion   1-2 (1-2)  Colchester United
-[Sat Dec/12]
-  15.00  Huddersfield Town        2-1 (2-1)  Gillingham FC
+▪ Matchday 21
+Fri Dec 11
+  19:45  Brighton & Hove Albion   1-2 (1-2)  Colchester United
+Sat Dec 12
+  15:00  Huddersfield Town        2-1 (2-1)  Gillingham FC
          Yeovil Town              3-3 (1-0)  Norwich City
          Brentford FC             0-0  Leeds United
          Bristol Rovers           3-0 (3-0)  Swindon Town
@@ -361,9 +361,9 @@ Matchday 21
          Southend United          3-2 (0-2)  Hartlepool United
 
 
-Matchday 22
-[Sat Dec/19]
-  15.00  Leeds United             1-0 (0-0)  Southampton FC
+▪ Matchday 22
+Sat Dec 19
+  15:00  Leeds United             1-0 (0-0)  Southampton FC
          Walsall FC               2-2 (0-2)  Leyton Orient
          Charlton Athletic        4-4 (2-2)  Millwall FC
          Exeter City              1-0 (1-0)  Southend United
@@ -376,49 +376,49 @@ Matchday 22
          Tranmere Rovers          2-0 (1-0)  Bristol Rovers
 
 
-Matchday 23
-[Sat Dec/26]
-  15.00  Yeovil Town              4-0 (1-0)  Wycombe Wanderers
+▪ Matchday 23
+Sat Dec 26
+  15:00  Yeovil Town              4-0 (1-0)  Wycombe Wanderers
          Southampton FC           3-1 (2-0)  Exeter City
          Milton Keynes Dons       4-1 (2-0)  Stockport County
-  12.30  Gillingham FC            0-1 (0-1)  Brentford FC
-  12.45  Norwich City             2-0 (1-0)  Millwall FC
-  13.00  Brighton & Hove Albion   0-0  Leyton Orient
+  12:30  Gillingham FC            0-1 (0-1)  Brentford FC
+  12:45  Norwich City             2-0 (1-0)  Millwall FC
+  13:00  Brighton & Hove Albion   0-0  Leyton Orient
          Charlton Athletic        2-2 (1-0)  Swindon Town
          Southend United          1-2 (0-0)  Colchester United
-  15.00  Leeds United             3-1 (2-1)  Hartlepool United
+  15:00  Leeds United             3-1 (2-1)  Hartlepool United
 
 
-Matchday 24
-[Mon Dec/28]
-  15.00  Tranmere Rovers          0-0  Carlisle United
+▪ Matchday 24
+Mon Dec 28
+  15:00  Tranmere Rovers          0-0  Carlisle United
          Wycombe Wanderers        2-5 (2-1)  Brighton & Hove Albion
          Swindon Town             3-1 (2-1)  Yeovil Town
          Millwall FC              2-0 (0-0)  Bristol Rovers
          Leyton Orient            1-2 (0-0)  Southend United
          Huddersfield Town        1-0 (1-0)  Milton Keynes Dons
-  12.00  Stockport County         2-4 (1-1)  Leeds United
-  15.00  Brentford FC             1-1 (0-0)  Charlton Athletic
+  12:00  Stockport County         2-4 (1-1)  Leeds United
+  15:00  Brentford FC             1-1 (0-0)  Charlton Athletic
          Colchester United        2-1 (1-0)  Southampton FC
          Exeter City              1-1 (0-0)  Gillingham FC
-[Sat Jan/2]
-  15.00  Hartlepool United        2-1 (2-0)  Oldham Athletic
+Sat Jan 2
+  15:00  Hartlepool United        2-1 (2-0)  Oldham Athletic
 
 
-Matchday 25
-[Sat Jan/2]
-  15.00  Wycombe Wanderers        0-1 (0-0)  Norwich City
+▪ Matchday 25
+Sat Jan 2
+  15:00  Wycombe Wanderers        0-1 (0-0)  Norwich City
 
 
-Matchday 26
-[Sat Jan/9]
-  15.00  Leeds United             1-1 (1-0)  Wycombe Wanderers
+▪ Matchday 26
+Sat Jan 9
+  15:00  Leeds United             1-1 (1-0)  Wycombe Wanderers
          Norwich City             3-1 (1-0)  Exeter City
 
 
-Matchday 27
-[Sat Jan/16]
-  15.00  Exeter City              2-0 (1-0)  Leeds United
+▪ Matchday 27
+Sat Jan 16
+  15:00  Exeter City              2-0 (1-0)  Leeds United
          Colchester United        0-5 (0-2)  Norwich City
          Brentford FC             3-1 (1-0)  Carlisle United
          Hartlepool United        0-5 (0-2)  Milton Keynes Dons
@@ -429,30 +429,30 @@ Matchday 27
          Swindon Town             3-1 (1-0)  Gillingham FC
 
 
-Matchday 25
-[Tue Jan/19]
-  19.45  Leyton Orient            2-0 (1-0)  Yeovil Town
+▪ Matchday 25
+Tue Jan 19
+  19:45  Leyton Orient            2-0 (1-0)  Yeovil Town
          Huddersfield Town        0-0  Bristol Rovers
 
 
-Matchday 26
-[Tue Jan/19]
-  19.45  Charlton Athletic        2-1 (1-0)  Hartlepool United
+▪ Matchday 26
+Tue Jan 19
+  19:45  Charlton Athletic        2-1 (1-0)  Hartlepool United
 
 
-Matchday 19
-[Tue Jan/19]
-  19.45  Stockport County         0-1 (0-0)  Swindon Town
+▪ Matchday 19
+Tue Jan 19
+  19:45  Stockport County         0-1 (0-0)  Swindon Town
 
 
-Matchday 23
-[Wed Jan/20]
-  19.45  Oldham Athletic          0-0  Tranmere Rovers
+▪ Matchday 23
+Wed Jan 20
+  19:45  Oldham Athletic          0-0  Tranmere Rovers
 
 
-Matchday 28
-[Sat Jan/23]
-  15.00  Oldham Athletic          0-1 (0-0)  Millwall FC
+▪ Matchday 28
+Sat Jan 23
+  15:00  Oldham Athletic          0-1 (0-0)  Millwall FC
          Norwich City             1-0 (0-0)  Brentford FC
          Carlisle United          0-0  Stockport County
          Bristol Rovers           2-0 (1-0)  Hartlepool United
@@ -460,42 +460,42 @@ Matchday 28
          Gillingham FC            0-0  Colchester United
          Southend United          1-1 (0-0)  Wycombe Wanderers
          Yeovil Town              2-1 (2-1)  Exeter City
-[Mon Jan/25]
-  19.45  Charlton Athletic        0-1 (0-0)  Leyton Orient
+Mon Jan 25
+  19:45  Charlton Athletic        0-1 (0-0)  Leyton Orient
 
 
-Matchday 24
-[Tue Jan/26]
-  19.45  Walsall FC               1-2 (1-0)  Norwich City
+▪ Matchday 24
+Tue Jan 26
+  19:45  Walsall FC               1-2 (1-0)  Norwich City
 
 
-Matchday 25
-[Tue Jan/26]
-  19.45  Hartlepool United        1-1 (0-0)  Gillingham FC
+▪ Matchday 25
+Tue Jan 26
+  19:45  Hartlepool United        1-1 (0-0)  Gillingham FC
 
 
-Matchday 27
-[Tue Jan/26]
-  19.45  Tranmere Rovers          2-1 (0-0)  Yeovil Town
+▪ Matchday 27
+Tue Jan 26
+  19:45  Tranmere Rovers          2-1 (0-0)  Yeovil Town
 
 
-Matchday 25
-[Tue Jan/26]
-  19.45  Brentford FC             1-1 (0-1)  Southampton FC
+▪ Matchday 25
+Tue Jan 26
+  19:45  Brentford FC             1-1 (0-1)  Southampton FC
          Colchester United        2-0 (1-0)  Milton Keynes Dons
          Exeter City              2-3 (0-2)  Carlisle United
          Millwall FC              2-0 (1-0)  Southend United
          Stockport County         1-1 (0-0)  Brighton & Hove Albion
 
 
-Matchday 16
-[Tue Jan/26]
-  19.45  Swindon Town             3-0 (1-0)  Leeds United
+▪ Matchday 16
+Tue Jan 26
+  19:45  Swindon Town             3-0 (1-0)  Leeds United
 
 
-Matchday 29
-[Sat Jan/30]
-  15.00  Bristol Rovers           2-3 (2-1)  Wycombe Wanderers
+▪ Matchday 29
+Sat Jan 30
+  15:00  Bristol Rovers           2-3 (2-1)  Wycombe Wanderers
          Milton Keynes Dons       1-1 (0-0)  Exeter City
          Leeds United             2-0 (1-0)  Colchester United
          Charlton Athletic        1-1 (0-0)  Tranmere Rovers
@@ -508,24 +508,24 @@ Matchday 29
          Gillingham FC            0-0  Walsall FC
 
 
-Matchday 25
-[Tue Feb/2]
-  19.45  Walsall FC               1-1 (1-1)  Charlton Athletic
+▪ Matchday 25
+Tue Feb 2
+  19:45  Walsall FC               1-1 (1-1)  Charlton Athletic
 
 
-Matchday 27
-[Tue Feb/2]
-  19.45  Leyton Orient            5-0 (1-0)  Bristol Rovers
+▪ Matchday 27
+Tue Feb 2
+  19:45  Leyton Orient            5-0 (1-0)  Bristol Rovers
 
 
-Matchday 22
-[Tue Feb/2]
-  19.45  Colchester United        2-1 (0-1)  Carlisle United
+▪ Matchday 22
+Tue Feb 2
+  19:45  Colchester United        2-1 (0-1)  Carlisle United
 
 
-Matchday 30
-[Sat Feb/6]
-  15.00  Leyton Orient            1-1 (0-1)  Brighton & Hove Albion
+▪ Matchday 30
+Sat Feb 6
+  15:00  Leyton Orient            1-1 (0-1)  Brighton & Hove Albion
          Stockport County         1-3 (1-1)  Milton Keynes Dons
          Hartlepool United        2-2 (0-1)  Leeds United
          Wycombe Wanderers        1-4 (0-1)  Yeovil Town
@@ -536,33 +536,33 @@ Matchday 30
          Tranmere Rovers          0-1 (0-1)  Oldham Athletic
          Walsall FC               0-0  Bristol Rovers
          Swindon Town             1-1 (0-0)  Charlton Athletic
-[Mon Feb/8]
-  19.45  Colchester United        2-0 (1-0)  Southend United
+Mon Feb 8
+  19:45  Colchester United        2-0 (1-0)  Southend United
 
 
-Matchday 25
-[Tue Feb/9]
-  19.45  Swindon Town             4-2 (2-0)  Oldham Athletic
+▪ Matchday 25
+Tue Feb 9
+  19:45  Swindon Town             4-2 (2-0)  Oldham Athletic
 
 
-Matchday 28
-[Tue Feb/9]
-  19.45  Brighton & Hove Albion   0-0  Huddersfield Town
+▪ Matchday 28
+Tue Feb 9
+  19:45  Brighton & Hove Albion   0-0  Huddersfield Town
 
 
-Matchday 26
-[Tue Feb/9]
-  19.45  Gillingham FC            0-1 (0-0)  Tranmere Rovers
+▪ Matchday 26
+Tue Feb 9
+  19:45  Gillingham FC            0-1 (0-0)  Tranmere Rovers
 
 
-Matchday 23
-[Tue Feb/9]
-  19.45  Bristol Rovers           0-1 (0-1)  Walsall FC
+▪ Matchday 23
+Tue Feb 9
+  19:45  Bristol Rovers           0-1 (0-1)  Walsall FC
 
 
-Matchday 31
-[Sat Feb/13]
-  15.00  Stockport County         2-2 (1-2)  Colchester United
+▪ Matchday 31
+Sat Feb 13
+  15:00  Stockport County         2-2 (1-2)  Colchester United
          Brentford FC             1-1 (0-1)  Wycombe Wanderers
          Yeovil Town              0-0  Gillingham FC
          Brighton & Hove Albion   1-2 (1-0)  Norwich City
@@ -572,28 +572,28 @@ Matchday 31
          Leyton Orient            1-1 (0-0)  Leeds United
          Huddersfield Town        2-2 (1-2)  Swindon Town
          Southend United          1-1 (1-0)  Tranmere Rovers
-[Mon Feb/15]
-  19.45  Bristol Rovers           2-1 (1-0)  Charlton Athletic
+Mon Feb 15
+  19:45  Bristol Rovers           2-1 (1-0)  Charlton Athletic
 
 
-Matchday 28
-[Tue Feb/16]
-  19.45  Leeds United             1-2 (0-0)  Walsall FC
+▪ Matchday 28
+Tue Feb 16
+  19:45  Leeds United             1-2 (0-0)  Walsall FC
 
 
-Matchday 23
-[Tue Feb/16]
-  19.45  Carlisle United          1-2 (0-1)  Huddersfield Town
+▪ Matchday 23
+Tue Feb 16
+  19:45  Carlisle United          1-2 (0-1)  Huddersfield Town
 
 
-Matchday 26
-[Tue Feb/16]
-  19.45  Yeovil Town              0-1 (0-1)  Colchester United
+▪ Matchday 26
+Tue Feb 16
+  19:45  Yeovil Town              0-1 (0-1)  Colchester United
 
 
-Matchday 32
-[Sat Feb/20]
-  15.00  Wycombe Wanderers        1-0 (1-0)  Millwall FC
+▪ Matchday 32
+Sat Feb 20
+  15:00  Wycombe Wanderers        1-0 (1-0)  Millwall FC
          Walsall FC               2-1 (1-1)  Brentford FC
          Tranmere Rovers          2-1 (2-0)  Leyton Orient
          Swindon Town             2-0 (1-0)  Carlisle United
@@ -607,9 +607,9 @@ Matchday 32
          Charlton Athletic        2-0 (1-0)  Yeovil Town
 
 
-Matchday 33
-[Tue Feb/23]
-  19.45  Wycombe Wanderers        0-0  Southampton FC
+▪ Matchday 33
+Tue Feb 23
+  19:45  Wycombe Wanderers        0-0  Southampton FC
          Tranmere Rovers          0-2 (0-1)  Huddersfield Town
          Swindon Town             4-1 (2-1)  Stockport County
          Norwich City             2-1 (0-1)  Southend United
@@ -621,33 +621,33 @@ Matchday 33
          Walsall FC               0-1 (0-1)  Yeovil Town
 
 
-Matchday 34
-[Fri Feb/26]
-  19.45  Southend United          1-2 (1-0)  Charlton Athletic
-[Sat Feb/27]
-  15.00  Stockport County         4-3 (2-0)  Wycombe Wanderers
+▪ Matchday 34
+Fri Feb 26
+  19:45  Southend United          1-2 (1-0)  Charlton Athletic
+Sat Feb 27
+  15:00  Stockport County         4-3 (2-0)  Wycombe Wanderers
          Millwall FC              1-0 (1-0)  Hartlepool United
          Leyton Orient            0-0  Swindon Town
          Carlisle United          2-0 (1-0)  Gillingham FC
          Bristol Rovers           3-2 (1-1)  Colchester United
          Brighton & Hove Albion   2-0 (1-0)  Exeter City
-  12.30  Huddersfield Town        2-2 (1-0)  Leeds United
-  15.00  Oldham Athletic          0-1 (0-0)  Norwich City
+  12:30  Huddersfield Town        2-2 (1-0)  Leeds United
+  15:00  Oldham Athletic          0-1 (0-0)  Norwich City
          Yeovil Town              1-0 (1-0)  Milton Keynes Dons
          Southampton FC           5-1 (3-1)  Walsall FC
 
 
-Matchday 26
-[Tue Mar/2]
-  19.45  Bristol Rovers           1-0 (1-0)  Stockport County
+▪ Matchday 26
+Tue Mar 2
+  19:45  Bristol Rovers           1-0 (1-0)  Stockport County
          Southampton FC           5-0 (3-0)  Huddersfield Town
 
 
-Matchday 35
-[Sat Mar/6]
-  15.00  Wycombe Wanderers        0-0  Carlisle United
-  13.00  Swindon Town             0-4 (0-3)  Bristol Rovers
-  15.00  Charlton Athletic        2-0 (2-0)  Stockport County
+▪ Matchday 35
+Sat Mar 6
+  15:00  Wycombe Wanderers        0-0  Carlisle United
+  13:00  Swindon Town             0-4 (0-3)  Bristol Rovers
+  15:00  Charlton Athletic        2-0 (2-0)  Stockport County
          Walsall FC               2-2 (2-1)  Millwall FC
          Tranmere Rovers          2-1 (1-1)  Southampton FC
          Norwich City             3-0 (1-0)  Yeovil Town
@@ -656,25 +656,25 @@ Matchday 35
          Hartlepool United        3-0 (2-0)  Southend United
          Gillingham FC            2-0 (1-0)  Huddersfield Town
          Exeter City              1-1 (0-0)  Oldham Athletic
-[Mon Mar/8]
-  19.45  Colchester United        0-0  Brighton & Hove Albion
+Mon Mar 8
+  19:45  Colchester United        0-0  Brighton & Hove Albion
 
 
-Matchday 26
-[Tue Mar/9]
-  19.45  Carlisle United          1-3 (0-1)  Millwall FC
+▪ Matchday 26
+Tue Mar 9
+  19:45  Carlisle United          1-3 (0-1)  Millwall FC
          Milton Keynes Dons       2-1 (2-0)  Swindon Town
          Oldham Athletic          2-0 (1-0)  Leyton Orient
 
 
-Matchday 25
-[Tue Mar/9]
-  19.45  Tranmere Rovers          1-4 (1-3)  Leeds United
+▪ Matchday 25
+Tue Mar 9
+  19:45  Tranmere Rovers          1-4 (1-3)  Leeds United
 
 
-Matchday 36
-[Sat Mar/13]
-  15.00  Southampton FC           1-0 (1-0)  Leeds United
+▪ Matchday 36
+Sat Mar 13
+  15:00  Southampton FC           1-0 (1-0)  Leeds United
          Leyton Orient            2-0 (0-0)  Walsall FC
          Carlisle United          2-1 (0-0)  Colchester United
          Southend United          0-0  Exeter City
@@ -688,36 +688,36 @@ Matchday 36
          Bristol Rovers           0-0  Tranmere Rovers
 
 
-Matchday 38
-[Tue Mar/16]
-  19.45  Carlisle United          1-0 (0-0)  Yeovil Town
+▪ Matchday 38
+Tue Mar 16
+  19:45  Carlisle United          1-0 (0-0)  Yeovil Town
 
 
-Matchday 28
-[Tue Mar/16]
-  19.45  Southampton FC           0-1 (0-0)  Swindon Town
+▪ Matchday 28
+Tue Mar 16
+  19:45  Southampton FC           0-1 (0-0)  Swindon Town
 
 
-Matchday 27
-[Tue Mar/16]
-  19.45  Stockport County         0-1 (0-1)  Oldham Athletic
+▪ Matchday 27
+Tue Mar 16
+  19:45  Stockport County         0-1 (0-1)  Oldham Athletic
 
 
-Matchday 26
-[Tue Mar/16]
-  19.45  Brighton & Hove Albion   3-0 (1-0)  Brentford FC
+▪ Matchday 26
+Tue Mar 16
+  19:45  Brighton & Hove Albion   3-0 (1-0)  Brentford FC
 
 
-Matchday 33
-[Wed Mar/17]
-  19.45  Exeter City              1-0 (0-0)  Bristol Rovers
+▪ Matchday 33
+Wed Mar 17
+  19:45  Exeter City              1-0 (0-0)  Bristol Rovers
 
 
-Matchday 37
-[Fri Mar/19]
-  19.45  Tranmere Rovers          0-0  Hartlepool United
-[Sat Mar/20]
-  15.00  Stockport County         0-1 (0-0)  Brentford FC
+▪ Matchday 37
+Fri Mar 19
+  19:45  Tranmere Rovers          0-0  Hartlepool United
+Sat Mar 20
+  15:00  Stockport County         0-1 (0-0)  Brentford FC
          Yeovil Town              0-3 (0-3)  Bristol Rovers
          Swindon Town             1-1 (0-0)  Norwich City
          Walsall FC               1-0 (0-0)  Colchester United
@@ -727,28 +727,28 @@ Matchday 37
          Oldham Athletic          0-2 (0-1)  Brighton & Hove Albion
          Southend United          2-2 (2-2)  Carlisle United
          Wycombe Wanderers        2-2 (0-0)  Exeter City
-[Mon Mar/22]
-  19.45  Leeds United             0-2 (0-1)  Millwall FC
+Mon Mar 22
+  19:45  Leeds United             0-2 (0-1)  Millwall FC
 
 
-Matchday 31
-[Tue Mar/23]
-  19.45  Southampton FC           3-2 (2-1)  Hartlepool United
+▪ Matchday 31
+Tue Mar 23
+  19:45  Southampton FC           3-2 (2-1)  Hartlepool United
 
 
-Matchday 26
-[Tue Mar/23]
-  19.45  Southend United          3-0 (1-0)  Walsall FC
+▪ Matchday 26
+Tue Mar 23
+  19:45  Southend United          3-0 (1-0)  Walsall FC
 
 
-Matchday 33
-[Tue Mar/23]
-  19.45  Colchester United        3-3 (2-2)  Brentford FC
+▪ Matchday 33
+Tue Mar 23
+  19:45  Colchester United        3-3 (2-2)  Brentford FC
 
 
-Matchday 38
-[Sat Mar/27]
-  15.00  Gillingham FC            2-2 (1-2)  Milton Keynes Dons
+▪ Matchday 38
+Sat Mar 27
+  15:00  Gillingham FC            2-2 (1-2)  Milton Keynes Dons
          Norwich City             1-0 (0-0)  Leeds United
          Brentford FC             1-0 (1-0)  Leyton Orient
          Brighton & Hove Albion   3-0 (2-0)  Tranmere Rovers
@@ -760,21 +760,21 @@ Matchday 38
          Millwall FC              5-0 (3-0)  Stockport County
 
 
-Matchday 29
-[Tue Mar/30]
-  19.45  Oldham Athletic          2-3 (1-1)  Brentford FC
+▪ Matchday 29
+Tue Mar 30
+  19:45  Oldham Athletic          2-3 (1-1)  Brentford FC
 
 
-Matchday 39
-[Thu Apr/1]
-  19.45  Brighton & Hove Albion   2-2 (1-1)  Southampton FC
-[Fri Apr/2]
-  19.45  Millwall FC              1-1 (0-1)  Brentford FC
+▪ Matchday 39
+Thu Apr 1
+  19:45  Brighton & Hove Albion   2-2 (1-1)  Southampton FC
+Fri Apr 2
+  19:45  Millwall FC              1-1 (0-1)  Brentford FC
          Tranmere Rovers          3-1 (3-0)  Norwich City
-  15.00  Carlisle United          3-1 (0-0)  Bristol Rovers
+  15:00  Carlisle United          3-1 (0-0)  Bristol Rovers
          Exeter City              2-0 (1-0)  Colchester United
-[Sat Apr/3]
-  15.00  Milton Keynes Dons       0-1 (0-0)  Charlton Athletic
+Sat Apr 3
+  15:00  Milton Keynes Dons       0-1 (0-0)  Charlton Athletic
          Stockport County         1-1 (1-0)  Walsall FC
          Leeds United             0-3 (0-1)  Swindon Town
          Leyton Orient            1-3 (0-3)  Hartlepool United
@@ -783,26 +783,26 @@ Matchday 39
          Southend United          0-0  Yeovil Town
 
 
-Matchday 40
-[Mon Apr/5]
-  15.00  Walsall FC               2-1 (2-0)  Wycombe Wanderers
+▪ Matchday 40
+Mon Apr 5
+  15:00  Walsall FC               2-1 (2-0)  Wycombe Wanderers
          Southampton FC           2-1 (1-1)  Leyton Orient
-  12.30  Yeovil Town              1-2 (0-2)  Leeds United
-  13.00  Colchester United        1-2 (0-1)  Millwall FC
-  15.00  Brentford FC             0-0  Exeter City
+  12:30  Yeovil Town              1-2 (0-2)  Leeds United
+  13:00  Colchester United        1-2 (0-1)  Millwall FC
+  15:00  Brentford FC             0-0  Exeter City
          Bristol Rovers           1-0 (0-0)  Milton Keynes Dons
          Charlton Athletic        1-0 (1-0)  Carlisle United
          Gillingham FC            3-0 (0-0)  Southend United
          Hartlepool United        2-0 (0-0)  Brighton & Hove Albion
          Norwich City             2-1 (2-1)  Stockport County
          Swindon Town             3-0 (2-0)  Tranmere Rovers
-[Tue Apr/6]
-  19.45  Huddersfield Town        2-0 (1-0)  Oldham Athletic
+Tue Apr 6
+  19:45  Huddersfield Town        2-0 (1-0)  Oldham Athletic
 
 
-Matchday 41
-[Sat Apr/10]
-  15.00  Wycombe Wanderers        2-0 (0-0)  Hartlepool United
+▪ Matchday 41
+Sat Apr 10
+  15:00  Wycombe Wanderers        2-0 (0-0)  Hartlepool United
          Walsall FC               2-1 (1-1)  Tranmere Rovers
          Brentford FC             3-0 (0-0)  Huddersfield Town
          Brighton & Hove Albion   1-2 (0-1)  Carlisle United
@@ -816,11 +816,11 @@ Matchday 41
          Stockport County         1-3 (0-2)  Yeovil Town
 
 
-Matchday 42
-[Mon Apr/12]
-  19.45  Swindon Town             1-1 (0-1)  Exeter City
-[Tue Apr/13]
-  19.45  Gillingham FC            1-1 (0-1)  Brighton & Hove Albion
+▪ Matchday 42
+Mon Apr 12
+  19:45  Swindon Town             1-1 (0-1)  Exeter City
+Tue Apr 13
+  19:45  Gillingham FC            1-1 (0-1)  Brighton & Hove Albion
          Yeovil Town              1-1 (1-0)  Millwall FC
          Bristol Rovers           1-5 (1-2)  Southampton FC
          Carlisle United          1-3 (1-1)  Leeds United
@@ -833,11 +833,11 @@ Matchday 42
          Southend United          2-2 (0-1)  Brentford FC
 
 
-Matchday 43
-[Fri Apr/16]
-  19.45  Huddersfield Town        1-0 (1-0)  Millwall FC
-[Sat Apr/17]
-  15.00  Swindon Town             1-1 (0-1)  Walsall FC
+▪ Matchday 43
+Fri Apr 16
+  19:45  Huddersfield Town        1-0 (1-0)  Millwall FC
+Sat Apr 17
+  15:00  Swindon Town             1-1 (0-1)  Walsall FC
          Yeovil Town              0-1 (0-0)  Southampton FC
          Bristol Rovers           0-0  Brentford FC
          Carlisle United          1-2 (0-0)  Oldham Athletic
@@ -850,19 +850,19 @@ Matchday 43
          Tranmere Rovers          3-1 (1-0)  Exeter City
 
 
-Matchday 34
-[Tue Apr/20]
-  19.45  Brentford FC             2-1 (0-0)  Tranmere Rovers
+▪ Matchday 34
+Tue Apr 20
+  19:45  Brentford FC             2-1 (0-0)  Tranmere Rovers
 
 
-Matchday 38
-[Tue Apr/20]
-  19.45  Southampton FC           0-0  Oldham Athletic
+▪ Matchday 38
+Tue Apr 20
+  19:45  Southampton FC           0-0  Oldham Athletic
 
 
-Matchday 44
-[Sat Apr/24]
-  15.00  Brentford FC             1-1 (0-1)  Yeovil Town
+▪ Matchday 44
+Sat Apr 24
+  15:00  Brentford FC             1-1 (0-1)  Yeovil Town
          Brighton & Hove Albion   2-1 (1-1)  Bristol Rovers
          Colchester United        1-1 (1-1)  Tranmere Rovers
          Exeter City              1-1 (0-0)  Charlton Athletic
@@ -876,9 +876,9 @@ Matchday 44
          Wycombe Wanderers        2-2 (1-0)  Swindon Town
 
 
-Matchday 45
-[Sat May/1]
-  15.00  Bristol Rovers           0-3 (0-2)  Norwich City
+▪ Matchday 45
+Sat May 1
+  15:00  Bristol Rovers           0-3 (0-2)  Norwich City
          Carlisle United          1-1 (1-1)  Walsall FC
          Charlton Athletic        1-0 (0-0)  Leeds United
          Gillingham FC            2-1 (1-0)  Southampton FC
@@ -892,9 +892,9 @@ Matchday 45
          Yeovil Town              3-0 (1-0)  Oldham Athletic
 
 
-Matchday 46
-[Sat May/8]
-  15.00  Brentford FC             0-0  Hartlepool United
+▪ Matchday 46
+Sat May 8
+  15:00  Brentford FC             0-0  Hartlepool United
          Brighton & Hove Albion   1-0 (1-0)  Yeovil Town
          Colchester United        1-0 (0-0)  Leyton Orient
          Exeter City              2-1 (1-1)  Huddersfield Town

@@ -1,17 +1,17 @@
 = English FA Cup 2018/19
 
-# Date       Fri Nov/9 2018 - Sat May/18 2019 (190d)
+# Date       Fri Nov 9 2018 - Sat May 18 2019 (190d)
 # Teams      124
 # Matches    150
 
 
 
-» Round 1
-  Fri Nov/9 2018
-    19.55  Haringey Borough        v AFC Wimbledon            0-1 (0-0)
-  Sat Nov/10
-    12.30  Maidenhead United       v Portsmouth FC            0-4 (0-1)
-    15.00  Maidstone United        v Macclesfield Town        2-1 (0-1)
+▪ Round 1
+  Fri Nov 9 2018
+    19:55  Haringey Borough        v AFC Wimbledon            0-1 (0-0)
+  Sat Nov 10
+    12:30  Maidenhead United       v Portsmouth FC            0-4 (0-1)
+    15:00  Maidstone United        v Macclesfield Town        2-1 (0-1)
            Ebbsfleet United        v Cheltenham Town          0-0
            Swindon Town            v York City                2-1 (1-1)
            Torquay United          v Woking FC                0-1 (0-0)
@@ -39,8 +39,8 @@
            Morecambe FC            v Halifax Town             0-0
            Crewe Alexandra         v Carlisle United          0-1 (0-0)
            Southend United         v Crawley Town             1-1 (1-0)
-  Sun Nov/11
-    12.45  Mansfield Town          v Charlton Athletic        1-1 (1-0)
+  Sun Nov 11
+    12:45  Mansfield Town          v Charlton Athletic        1-1 (1-0)
            Chorley FC              v Doncaster Rovers         2-2 (2-1)
            Alfreton Town           v Fleetwood Town           1-4 (0-2)
            Barnet FC               v Bristol Rovers           1-1 (1-0)
@@ -48,11 +48,11 @@
            Hitchin Town            v Solihull Moors           0-2 (0-0)
            Guiseley AFC            v Cambridge United         4-3 (2-0)
            Weston-super-Mare AFC   v Wrexham AFC              0-2 (0-0)
-    14.30  Port Vale FC            v Sunderland AFC           1-2 (1-2)
-  Mon Nov/12
-    19.45  Hampton & Richmond Borough v Oldham Athletic          1-2 (1-0)
-  Tue Nov/20
-    19.45  Cheltenham Town         v Ebbsfleet United         2-0 (0-0)
+    14:30  Port Vale FC            v Sunderland AFC           1-2 (1-2)
+  Mon Nov 12
+    19:45  Hampton & Richmond Borough v Oldham Athletic          1-2 (1-0)
+  Tue Nov 20
+    19:45  Cheltenham Town         v Ebbsfleet United         2-0 (0-0)
            Bradford City           v Aldershot Town           4-1 pen. 1-1 a.e.t. (0-0)
            Billericay Town         v Chesterfield FC          1-3 (0-1)
            Forest Green Rovers     v Oxford United            0-3 (0-1)
@@ -62,18 +62,18 @@
            Crawley Town            v Southend United          2-6 a.e.t. (2-2, 0-2)
            Charlton Athletic       v Mansfield Town           5-0 (1-0)
            Doncaster Rovers        v Chorley FC               7-0 (5-0)
-  Wed Nov/21
-    19.45  Hartlepool United       v Gillingham FC            3-4 a.e.t. (2-2, 2-0)
+  Wed Nov 21
+    19:45  Hartlepool United       v Gillingham FC            3-4 a.e.t. (2-2, 2-0)
            Salford City            v Shrewsbury Town          1-3 (0-1)
            Bristol Rovers          v Barnet FC                1-2 (0-0)
 
 
-» Round 2
-  Fri Nov/30
-    19.55  Solihull Moors          v Blackpool FC             0-0
-  Sat Dec/1
-    12.30  Halifax Town            v AFC Wimbledon            1-3 (0-1)
-    15.00  Southend United         v Barnsley FC              2-4 (1-1)
+▪ Round 2
+  Fri Nov 30
+    19:55  Solihull Moors          v Blackpool FC             0-0
+  Sat Dec 1
+    12:30  Halifax Town            v AFC Wimbledon            1-3 (0-1)
+    15:00  Southend United         v Barnsley FC              2-4 (1-1)
            Peterborough United     v Bradford City            2-2 (2-0)
            Maidstone United        v Oldham Athletic          0-2 (0-1)
            Lincoln City            v Carlisle United          2-0 (1-0)
@@ -81,9 +81,9 @@
            Walsall FC              v Sunderland AFC           1-1 (0-1)
            Accrington Stanley      v Cheltenham Town          3-1 (0-0)
            Charlton Athletic       v Doncaster Rovers         0-2 (0-0)
-    20.00  Wrexham AFC             v Newport County           0-0
-  Sun Dec/2
-    14.00  Bury FC                 v Luton Town               0-1 (0-1)
+    20:00  Wrexham AFC             v Newport County           0-0
+  Sun Dec 2
+    14:00  Bury FC                 v Luton Town               0-1 (0-1)
            Tranmere Rovers         v Southport FC             1-1 (1-0)
            Shrewsbury Town         v Scunthorpe United        1-0 (1-0)
            Chesterfield FC         v Grimsby Town             0-2 (0-1)
@@ -91,30 +91,30 @@
            Barnet FC               v Stockport County         1-0 (1-0)
            Rochdale AFC            v Portsmouth FC            0-1 (0-0)
            Slough Town             v Gillingham FC            0-1 (0-0)
-  Mon Dec/3
-    20.00  Guiseley AFC            v Fleetwood Town           1-2 (1-2)
-  Tue Dec/11
-    19.45  Bradford City           v Peterborough United      2-3 pen. 4-4 a.e.t. (4-4, 1-3)
+  Mon Dec 3
+    20:00  Guiseley AFC            v Fleetwood Town           1-2 (1-2)
+  Tue Dec 11
+    19:45  Bradford City           v Peterborough United      2-3 pen. 4-4 a.e.t. (4-4, 1-3)
            Sunderland AFC          v Walsall FC               0-1 (0-0)
            Newport County          v Wrexham AFC              4-0 (0-0)
-  Mon Dec/17
-    19.45  Southport FC            v Tranmere Rovers          0-2 (0-2)
-  Tue Dec/18
-    19.45  Blackpool FC            v Solihull Moors           3-2 a.e.t. (2-2, 2-1)
+  Mon Dec 17
+    19:45  Southport FC            v Tranmere Rovers          0-2 (0-2)
+  Tue Dec 18
+    19:45  Blackpool FC            v Solihull Moors           3-2 a.e.t. (2-2, 2-1)
 
 
-» Round 3
-  Fri Jan/4 2019
-    19.45  Tranmere Rovers         v Tottenham Hotspur        0-7 (0-1)
-  Sat Jan/5
-    12.30  Sheffield Wednesday     v Luton Town               0-0
+▪ Round 3
+  Fri Jan 4 2019
+    19:45  Tranmere Rovers         v Tottenham Hotspur        0-7 (0-1)
+  Sat Jan 5
+    12:30  Sheffield Wednesday     v Luton Town               0-0
            Manchester United       v Reading FC               2-0 (2-0)
            West Bromwich Albion    v Wigan Athletic           1-0 (1-0)
            Shrewsbury Town         v Stoke City               1-1 (1-0)
            AFC Bournemouth         v Brighton & Hove Albion   1-3 (0-2)
            West Ham United         v Birmingham City          2-0 (1-0)
            Burnley FC              v Barnsley FC              1-0 (0-0)
-    15.00  Bolton Wanderers        v Walsall FC               5-2 (0-1)
+    15:00  Bolton Wanderers        v Walsall FC               5-2 (0-1)
            Brentford FC            v Oxford United            1-0 (0-0)
            Chelsea FC              v Nottingham Forest        2-0 (0-0)
            Fleetwood Town          v AFC Wimbledon            2-3 (0-1)
@@ -124,37 +124,37 @@
            Everton FC              v Lincoln City             2-1 (2-1)
            Derby County            v Southampton FC           2-2 (0-1)
            Accrington Stanley      v Ipswich Town             1-0 (0-0)
-    17.30  Newcastle United        v Blackburn Rovers         1-1 (0-0)
+    17:30  Newcastle United        v Blackburn Rovers         1-1 (0-0)
            Crystal Palace          v Grimsby Town             1-0 (0-0)
            Bristol City            v Huddersfield Town        1-0 (0-0)
            Blackpool FC            v Arsenal FC               0-3 (0-2)
            Norwich City            v Portsmouth FC            0-1 (0-0)
-  Sun Jan/6
-    14.00  Millwall FC             v Hull City                2-1 (0-0)
+  Sun Jan 6
+    14:00  Millwall FC             v Hull City                2-1 (0-0)
            Preston North End       v Doncaster Rovers         1-3 (0-1)
            Fulham FC               v Oldham Athletic          1-2 (0-0)
            Manchester City         v Rotherham United         7-0 (3-0)
            Woking FC               v Watford FC               0-2 (0-1)
            Queens Park Rangers     v Leeds United             2-1 (1-1)
            Sheffield United        v Barnet FC                0-1 (0-1)
-    16.30  Newport County          v Leicester City           2-1 (1-0)
-  Mon Jan/7
-    19.45  Wolverhampton Wanderers v Liverpool FC             2-1 (1-0)
-  Tue Jan/15
-    19.45  Luton Town              v Sheffield Wednesday      0-1 (0-0)
+    16:30  Newport County          v Leicester City           2-1 (1-0)
+  Mon Jan 7
+    19:45  Wolverhampton Wanderers v Liverpool FC             2-1 (1-0)
+  Tue Jan 15
+    19:45  Luton Town              v Sheffield Wednesday      0-1 (0-0)
            Blackburn Rovers        v Newcastle United         2-4 a.e.t. (2-2, 2-2)
-    20.00  Stoke City              v Shrewsbury Town          2-3 (2-0)
-  Wed Jan/16
-    19.45  Southampton FC          v Derby County             3-5 pen. 2-2 a.e.t. (2-2, 0-0)
+    20:00  Stoke City              v Shrewsbury Town          2-3 (2-0)
+  Wed Jan 16
+    19:45  Southampton FC          v Derby County             3-5 pen. 2-2 a.e.t. (2-2, 0-0)
 
 
-» Round 4
-  Fri Jan/25
-    19.45  Bristol City            v Bolton Wanderers         2-1 (2-1)
-    19.55  Arsenal FC              v Manchester United        1-3 (1-2)
-  Sat Jan/26
-    12.30  Accrington Stanley      v Derby County             0-1 (0-0)
-    15.00  Swansea City            v Gillingham FC            4-1 (2-0)
+▪ Round 4
+  Fri Jan 25
+    19:45  Bristol City            v Bolton Wanderers         2-1 (2-1)
+    19:55  Arsenal FC              v Manchester United        1-3 (1-2)
+  Sat Jan 26
+    12:30  Accrington Stanley      v Derby County             0-1 (0-0)
+    15:00  Swansea City            v Gillingham FC            4-1 (2-0)
            Shrewsbury Town         v Wolverhampton Wanderers  2-2 (0-0)
            Brighton & Hove Albion  v West Bromwich Albion     0-0
            Doncaster Rovers        v Oldham Athletic          2-1 (0-0)
@@ -162,53 +162,53 @@
            Middlesbrough FC        v Newport County           1-1 (0-0)
            Manchester City         v Burnley FC               5-0 (1-0)
            Portsmouth FC           v Queens Park Rangers      1-1 (0-0)
-    17.30  Millwall FC             v Everton FC               3-2 (1-1)
-    19.45  AFC Wimbledon           v West Ham United          4-2 (2-0)
-  Sun Jan/27
-    16.00  Crystal Palace          v Tottenham Hotspur        2-0 (2-0)
-    18.00  Chelsea FC              v Sheffield Wednesday      3-0 (1-0)
-  Mon Jan/28
-    19.45  Barnet FC               v Brentford FC             3-3 (0-1)
-  Tue Feb/5
-    19.45  Wolverhampton Wanderers v Shrewsbury Town          3-2 (2-2)
+    17:30  Millwall FC             v Everton FC               3-2 (1-1)
+    19:45  AFC Wimbledon           v West Ham United          4-2 (2-0)
+  Sun Jan 27
+    16:00  Crystal Palace          v Tottenham Hotspur        2-0 (2-0)
+    18:00  Chelsea FC              v Sheffield Wednesday      3-0 (1-0)
+  Mon Jan 28
+    19:45  Barnet FC               v Brentford FC             3-3 (0-1)
+  Tue Feb 5
+    19:45  Wolverhampton Wanderers v Shrewsbury Town          3-2 (2-2)
            Newport County          v Middlesbrough FC         2-0 (0-0)
            Queens Park Rangers     v Portsmouth FC            2-0 (0-0)
            Brentford FC            v Barnet FC                3-1 (2-0)
-  Wed Feb/6
-    20.05  West Bromwich Albion    v Brighton & Hove Albion   1-3 a.e.t. (1-1, 0-0)
+  Wed Feb 6
+    20:05  West Bromwich Albion    v Brighton & Hove Albion   1-3 a.e.t. (1-1, 0-0)
 
 
-» Round of 16
-  Fri Feb/15
-    19.45  Queens Park Rangers     v Watford FC               0-1 (0-1)
-  Sat Feb/16
-    12.30  Brighton & Hove Albion  v Derby County             2-1 (2-0)
-    15.00  AFC Wimbledon           v Millwall FC              0-1 (0-1)
-    17.30  Newport County          v Manchester City          1-4 (0-0)
-  Sun Feb/17
-    13.00  Bristol City            v Wolverhampton Wanderers  0-1 (0-1)
-    16.00  Doncaster Rovers        v Crystal Palace           0-2 (0-2)
+▪ Round of 16
+  Fri Feb 15
+    19:45  Queens Park Rangers     v Watford FC               0-1 (0-1)
+  Sat Feb 16
+    12:30  Brighton & Hove Albion  v Derby County             2-1 (2-0)
+    15:00  AFC Wimbledon           v Millwall FC              0-1 (0-1)
+    17:30  Newport County          v Manchester City          1-4 (0-0)
+  Sun Feb 17
+    13:00  Bristol City            v Wolverhampton Wanderers  0-1 (0-1)
+    16:00  Doncaster Rovers        v Crystal Palace           0-2 (0-2)
            Swansea City            v Brentford FC             4-1 (0-1)
-  Mon Feb/18
-    19.30  Chelsea FC              v Manchester United        0-2 (0-2)
+  Mon Feb 18
+    19:30  Chelsea FC              v Manchester United        0-2 (0-2)
 
 
-» Quarterfinals
-  Sat Mar/16
-    12.15  Watford FC              v Crystal Palace           2-1 (1-0)
-    17.20  Swansea City            v Manchester City          2-3 (2-0)
-    19.55  Wolverhampton Wanderers v Manchester United        2-1 (0-0)
-  Sun Mar/17
-    14.00  Millwall FC             v Brighton & Hove Albion   4-5 pen. 2-2 a.e.t. (2-2, 0-0)
+▪ Quarterfinals
+  Sat Mar 16
+    12:15  Watford FC              v Crystal Palace           2-1 (1-0)
+    17:20  Swansea City            v Manchester City          2-3 (2-0)
+    19:55  Wolverhampton Wanderers v Manchester United        2-1 (0-0)
+  Sun Mar 17
+    14:00  Millwall FC             v Brighton & Hove Albion   4-5 pen. 2-2 a.e.t. (2-2, 0-0)
 
 
-» Semifinals
-  Sat Apr/6
-    17.30  Manchester City         v Brighton & Hove Albion   1-0 (1-0)
-  Sun Apr/7
-    16.00  Watford FC              v Wolverhampton Wanderers  3-2 a.e.t. (2-2, 0-1)
+▪ Semifinals
+  Sat Apr 6
+    17:30  Manchester City         v Brighton & Hove Albion   1-0 (1-0)
+  Sun Apr 7
+    16:00  Watford FC              v Wolverhampton Wanderers  3-2 a.e.t. (2-2, 0-1)
 
 
-» Final
-  Sat May/18
-    17.00  Manchester City         v Watford FC               6-0 (2-0)
+▪ Final
+  Sat May 18
+    17:00  Manchester City         v Watford FC               6-0 (2-0)

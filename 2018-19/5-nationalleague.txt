@@ -1,15 +1,15 @@
 = English National League 2018/19
 
-# Date       Sat Aug/4 2018 - Sat Apr/27 2019 (266d)
+# Date       Sat Aug 4 2018 - Sat Apr 27 2019 (266d)
 # Teams      24
 # Matches    552
 
 
 
-Matchday 1
-[Sat Aug/4]
-  12.30  Salford City             1-1 (0-0)  Leyton Orient
-  15.00  AFC Fylde                2-1 (1-0)  Bromley FC
+▪ Matchday 1
+Sat Aug 4
+  12:30  Salford City             1-1 (0-0)  Leyton Orient
+  15:00  AFC Fylde                2-1 (1-0)  Bromley FC
          Aldershot Town           0-0  Barnet FC
          Barrow AFC               3-0 (1-0)  Havant & Waterlooville
          Boreham Wood             1-0 (0-0)  Dagenham & Redbridge
@@ -22,9 +22,9 @@ Matchday 1
          Maidstone United         1-1 (1-1)  Hartlepool United
 
 
-Matchday 2
-[Tue Aug/7]
-  19.45  Barnet FC                1-1 (0-1)  Braintree Town
+▪ Matchday 2
+Tue Aug 7
+  19:45  Barnet FC                1-1 (0-1)  Braintree Town
          Bromley FC               2-2 (1-1)  Dover Athletic
          Chesterfield FC          3-0 (2-0)  Aldershot Town
          Dagenham & Redbridge     1-2 (0-1)  Maidstone United
@@ -38,10 +38,10 @@ Matchday 2
          Wrexham AFC              0-0  AFC Fylde
 
 
-Matchday 3
-[Sat Aug/11]
-  12.35  Wrexham AFC              3-0 (1-0)  Boreham Wood
-  15.00  Barnet FC                1-2 (0-1)  Eastleigh FC
+▪ Matchday 3
+Sat Aug 11
+  12:35  Wrexham AFC              3-0 (1-0)  Boreham Wood
+  15:00  Barnet FC                1-2 (0-1)  Eastleigh FC
          Bromley FC               1-1 (1-0)  Harrogate Town
          Chesterfield FC          1-0 (0-0)  Braintree Town
          Dagenham & Redbridge     2-2 (0-1)  Maidenhead United
@@ -54,9 +54,9 @@ Matchday 3
          Sutton United            2-1 (1-1)  Salford City
 
 
-Matchday 4
-[Tue Aug/14]
-  19.45  AFC Fylde                3-1 (2-0)  Solihull Moors
+▪ Matchday 4
+Tue Aug 14
+  19:45  AFC Fylde                3-1 (2-0)  Solihull Moors
          Aldershot Town           2-1 (1-0)  Dagenham & Redbridge
          Barrow AFC               3-2 (1-1)  Chesterfield FC
          Boreham Wood             1-1 (1-0)  Gateshead FC
@@ -70,9 +70,9 @@ Matchday 4
          Salford City             2-1 (1-0)  Halifax Town
 
 
-Matchday 5
-[Sat Aug/18]
-  15.00  AFC Fylde                4-0 (1-0)  Dover Athletic
+▪ Matchday 5
+Sat Aug 18
+  15:00  AFC Fylde                4-0 (1-0)  Dover Athletic
          Aldershot Town           0-2 (0-0)  Harrogate Town
          Barnet FC                0-3 (0-1)  Ebbsfleet United
          Braintree Town           3-4 (2-2)  Havant & Waterlooville
@@ -86,10 +86,10 @@ Matchday 5
          Solihull Moors           2-2 (0-1)  Sutton United
 
 
-Matchday 6
-[Sat Aug/25]
-  12.35  Maidenhead United        3-2 (1-1)  Maidstone United
-  15.00  Barrow AFC               1-0 (1-0)  Braintree Town
+▪ Matchday 6
+Sat Aug 25
+  12:35  Maidenhead United        3-2 (1-1)  Maidstone United
+  15:00  Barrow AFC               1-0 (1-0)  Braintree Town
          Boreham Wood             2-1 (0-0)  Halifax Town
          Chesterfield FC          0-1 (0-0)  Barnet FC
          Dagenham & Redbridge     1-2 (1-0)  Hartlepool United
@@ -102,9 +102,9 @@ Matchday 6
          Wrexham AFC              2-2 (1-0)  Bromley FC
 
 
-Matchday 7
-[Mon Aug/27]
-  15.00  Aldershot Town           2-1 (1-0)  Sutton United
+▪ Matchday 7
+Mon Aug 27
+  15:00  Aldershot Town           2-1 (1-0)  Sutton United
          Barnet FC                2-1 (1-1)  Dagenham & Redbridge
          Braintree Town           0-2 (0-2)  Maidenhead United
          Bromley FC               4-0 (2-0)  Havant & Waterlooville
@@ -115,12 +115,12 @@ Matchday 7
          Maidstone United         1-2 (1-0)  Boreham Wood
          Salford City             3-1 (1-1)  Barrow AFC
          Solihull Moors           1-0 (0-0)  Wrexham AFC
-  17.15  AFC Fylde                0-0  Harrogate Town
+  17:15  AFC Fylde                0-0  Harrogate Town
 
 
-Matchday 8
-[Sat Sep/1]
-  15.00  Barrow AFC               1-2 (0-0)  Solihull Moors
+▪ Matchday 8
+Sat Sep 1
+  15:00  Barrow AFC               1-2 (0-0)  Solihull Moors
          Boreham Wood             1-1 (1-0)  Braintree Town
          Chesterfield FC          0-1 (0-0)  Leyton Orient
          Dagenham & Redbridge     0-0  Salford City
@@ -134,9 +134,9 @@ Matchday 8
          Wrexham AFC              2-0 (0-0)  Aldershot Town
 
 
-Matchday 9
-[Tue Sep/4]
-  19.45  AFC Fylde                0-2 (0-1)  Salford City
+▪ Matchday 9
+Tue Sep 4
+  19:45  AFC Fylde                0-2 (0-1)  Salford City
          Boreham Wood             1-0 (1-0)  Chesterfield FC
          Bromley FC               0-1 (0-1)  Barnet FC
          Dagenham & Redbridge     1-0 (0-0)  Braintree Town
@@ -147,13 +147,13 @@ Matchday 9
          Maidenhead United        2-0 (2-0)  Eastleigh FC
          Maidstone United         0-1 (0-1)  Sutton United
          Wrexham AFC              0-0  Halifax Town
-[Wed Sep/5]
-  19.45  Havant & Waterlooville   2-1 (1-0)  Aldershot Town
+Wed Sep 5
+  19:45  Havant & Waterlooville   2-1 (1-0)  Aldershot Town
 
 
-Matchday 10
-[Sat Sep/8]
-  15.00  Aldershot Town           3-2 (1-2)  Bromley FC
+▪ Matchday 10
+Sat Sep 8
+  15:00  Aldershot Town           3-2 (1-2)  Bromley FC
          Barnet FC                1-0 (1-0)  Maidenhead United
          Barrow AFC               0-1 (0-0)  Dagenham & Redbridge
          Braintree Town           0-1 (0-0)  Wrexham AFC
@@ -163,12 +163,12 @@ Matchday 10
          Harrogate Town           3-2 (1-1)  Havant & Waterlooville
          Salford City             1-0 (0-0)  Maidstone United
          Solihull Moors           0-1 (0-0)  Hartlepool United
-  17.15  Ebbsfleet United         0-1 (0-1)  Gateshead FC
+  17:15  Ebbsfleet United         0-1 (0-1)  Gateshead FC
 
 
-Matchday 11
-[Sat Sep/15]
-  15.00  Wrexham AFC              4-1 (4-0)  Ebbsfleet United
+▪ Matchday 11
+Sat Sep 15
+  15:00  Wrexham AFC              4-1 (4-0)  Ebbsfleet United
          AFC Fylde                3-0 (2-0)  Aldershot Town
          Boreham Wood             1-1 (0-0)  Barrow AFC
          Bromley FC               0-2 (0-1)  Salford City
@@ -182,15 +182,15 @@ Matchday 11
          Maidstone United         0-2 (0-2)  Harrogate Town
 
 
-Matchday 10
-[Tue Sep/18]
-  19.45  Sutton United            0-4 (0-3)  Boreham Wood
+▪ Matchday 10
+Tue Sep 18
+  19:45  Sutton United            0-4 (0-3)  Boreham Wood
 
 
-Matchday 12
-[Sat Sep/22]
-  12.35  Eastleigh FC             1-0 (0-0)  Dagenham & Redbridge
-  15.00  Aldershot Town           2-0 (1-0)  Dover Athletic
+▪ Matchday 12
+Sat Sep 22
+  12:35  Eastleigh FC             1-0 (0-0)  Dagenham & Redbridge
+  15:00  Aldershot Town           2-0 (1-0)  Dover Athletic
          Barnet FC                1-1 (1-1)  AFC Fylde
          Barrow AFC               2-0 (1-0)  Maidenhead United
          Braintree Town           0-1 (0-0)  Maidstone United
@@ -203,9 +203,9 @@ Matchday 12
          Sutton United            3-0 (2-0)  Wrexham AFC
 
 
-Matchday 13
-[Tue Sep/25]
-  19.45  Aldershot Town           0-1 (0-1)  Maidstone United
+▪ Matchday 13
+Tue Sep 25
+  19:45  Aldershot Town           0-1 (0-1)  Maidstone United
          Barnet FC                2-2 (1-0)  Havant & Waterlooville
          Barrow AFC               1-2 (1-1)  Gateshead FC
          Braintree Town           1-5 (1-2)  Leyton Orient
@@ -219,9 +219,9 @@ Matchday 13
          Sutton United            2-2 (2-1)  Dover Athletic
 
 
-Matchday 14
-[Sat Sep/29]
-  15.00  AFC Fylde                3-0 (1-0)  Braintree Town
+▪ Matchday 14
+Sat Sep 29
+  15:00  AFC Fylde                3-0 (1-0)  Braintree Town
          Boreham Wood             2-4 (1-1)  Harrogate Town
          Bromley FC               2-2 (1-0)  Halifax Town
          Dagenham & Redbridge     1-3 (1-2)  Ebbsfleet United
@@ -235,9 +235,9 @@ Matchday 14
          Wrexham AFC              1-0 (1-0)  Barnet FC
 
 
-Matchday 15
-[Sat Oct/6]
-  15.00  Aldershot Town           3-0 (2-0)  Halifax Town
+▪ Matchday 15
+Sat Oct 6
+  15:00  Aldershot Town           3-0 (2-0)  Halifax Town
          Barnet FC                2-0 (0-0)  Solihull Moors
          Barrow AFC               2-1 (2-0)  Sutton United
          Braintree Town           1-2 (0-2)  Eastleigh FC
@@ -251,9 +251,9 @@ Matchday 15
          Wrexham AFC              1-0 (1-0)  Havant & Waterlooville
 
 
-Matchday 16
-[Sat Oct/13]
-  15.00  AFC Fylde                2-0 (0-0)  Maidstone United
+▪ Matchday 16
+Sat Oct 13
+  15:00  AFC Fylde                2-0 (0-0)  Maidstone United
          Boreham Wood             3-1 (1-0)  Maidenhead United
          Bromley FC               2-1 (1-0)  Barrow AFC
          Dagenham & Redbridge     1-2 (1-1)  Wrexham AFC
@@ -263,12 +263,12 @@ Matchday 16
          Leyton Orient            0-0  Hartlepool United
          Salford City             2-2 (1-1)  Braintree Town
          Solihull Moors           2-1 (1-0)  Ebbsfleet United
-  17.15  Halifax Town             1-1 (0-0)  Chesterfield FC
+  17:15  Halifax Town             1-1 (0-0)  Chesterfield FC
 
 
-Matchday 17
-[Sat Oct/27]
-  15.00  Maidstone United         1-3 (1-2)  Solihull Moors
+▪ Matchday 17
+Sat Oct 27
+  15:00  Maidstone United         1-3 (1-2)  Solihull Moors
          Barrow AFC               0-2 (0-2)  Barnet FC
          Boreham Wood             2-1 (1-1)  Bromley FC
          Braintree Town           2-1 (1-0)  Dover Athletic
@@ -282,9 +282,9 @@ Matchday 17
          Salford City             1-1 (1-1)  Ebbsfleet United
 
 
-Matchday 18
-[Tue Oct/30]
-  19.45  Wrexham AFC              1-0 (1-0)  Hartlepool United
+▪ Matchday 18
+Tue Oct 30
+  19:45  Wrexham AFC              1-0 (1-0)  Hartlepool United
          AFC Fylde                1-0 (0-0)  Gateshead FC
          Aldershot Town           1-1 (1-0)  Boreham Wood
          Barnet FC                1-3 (1-1)  Salford City
@@ -298,9 +298,9 @@ Matchday 18
          Sutton United            1-1 (1-0)  Chesterfield FC
 
 
-Matchday 19
-[Sat Nov/3]
-  15.00  Wrexham AFC              3-1 (1-0)  Gateshead FC
+▪ Matchday 19
+Sat Nov 3
+  15:00  Wrexham AFC              3-1 (1-0)  Gateshead FC
          AFC Fylde                1-3 (1-2)  Leyton Orient
          Aldershot Town           1-0 (0-0)  Braintree Town
          Barnet FC                0-2 (0-1)  Maidstone United
@@ -314,11 +314,11 @@ Matchday 19
          Sutton United            1-0 (0-0)  Dagenham & Redbridge
 
 
-Matchday 20
-[Sat Nov/17]
-  15.00  Dagenham & Redbridge     2-1 (1-1)  AFC Fylde
-  12.30  Braintree Town           0-3 (0-0)  Solihull Moors
-  15.00  Barrow AFC               0-3 (0-2)  Eastleigh FC
+▪ Matchday 20
+Sat Nov 17
+  15:00  Dagenham & Redbridge     2-1 (1-1)  AFC Fylde
+  12:30  Braintree Town           0-3 (0-0)  Solihull Moors
+  15:00  Barrow AFC               0-3 (0-2)  Eastleigh FC
          Boreham Wood             0-0  Ebbsfleet United
          Chesterfield FC          0-0  Havant & Waterlooville
          Salford City             4-0 (2-0)  Aldershot Town
@@ -326,13 +326,13 @@ Matchday 20
          Gateshead FC             0-0  Sutton United
          Leyton Orient            3-1 (0-1)  Bromley FC
          Maidstone United         1-1 (0-0)  Wrexham AFC
-[Sun Nov/18]
-  16.30  Hartlepool United        1-3 (1-2)  Barnet FC
+Sun Nov 18
+  16:30  Hartlepool United        1-3 (1-2)  Barnet FC
 
 
-Matchday 21
-[Sat Nov/24]
-  15.00  Bromley FC               0-2 (0-1)  Dagenham & Redbridge
+▪ Matchday 21
+Sat Nov 24
+  15:00  Bromley FC               0-2 (0-1)  Dagenham & Redbridge
          Wrexham AFC              0-2 (0-0)  Leyton Orient
          AFC Fylde                2-1 (0-0)  Boreham Wood
          Aldershot Town           0-2 (0-1)  Barrow AFC
@@ -346,9 +346,9 @@ Matchday 21
          Solihull Moors           0-0  Salford City
 
 
-Matchday 22
-[Tue Nov/27]
-  19.45  Maidenhead United        1-1 (0-1)  Ebbsfleet United
+▪ Matchday 22
+Tue Nov 27
+  19:45  Maidenhead United        1-1 (0-1)  Ebbsfleet United
          Maidstone United         1-3 (0-1)  Eastleigh FC
          Barrow AFC               0-0  Wrexham AFC
          Boreham Wood             0-1 (0-0)  Dover Athletic
@@ -360,99 +360,99 @@ Matchday 22
          Salford City             3-2 (2-2)  Harrogate Town
 
 
-Matchday 20
-[Sat Dec/1]
-  15.00  Maidenhead United        1-2 (1-1)  Harrogate Town
+▪ Matchday 20
+Sat Dec 1
+  15:00  Maidenhead United        1-2 (1-1)  Harrogate Town
 
 
-Matchday 23
-[Sat Dec/1]
-  15.00  Hartlepool United        1-2 (1-0)  Dagenham & Redbridge
+▪ Matchday 23
+Sat Dec 1
+  15:00  Hartlepool United        1-2 (1-0)  Dagenham & Redbridge
          Salford City             3-0 (2-0)  Havant & Waterlooville
          Leyton Orient            2-0 (0-0)  Gateshead FC
          AFC Fylde                2-2 (1-0)  Sutton United
          Aldershot Town           0-2 (0-0)  Ebbsfleet United
          Braintree Town           0-2 (0-1)  Barrow AFC
          Eastleigh FC             2-2 (1-1)  Dover Athletic
-[Tue Dec/4]
-  19.45  Solihull Moors           2-0 (1-0)  Harrogate Town
+Tue Dec 4
+  19:45  Solihull Moors           2-0 (1-0)  Harrogate Town
 
 
-Matchday 24
-[Sat Dec/8]
-  15.00  Sutton United            2-2 (1-1)  Solihull Moors
+▪ Matchday 24
+Sat Dec 8
+  15:00  Sutton United            2-2 (1-1)  Solihull Moors
          Wrexham AFC              2-0 (1-0)  Eastleigh FC
          Maidenhead United        0-1 (0-1)  Hartlepool United
          Havant & Waterlooville   2-1 (0-0)  Braintree Town
          Harrogate Town           4-1 (1-1)  Aldershot Town
          Gateshead FC             2-0 (1-0)  Bromley FC
          Ebbsfleet United         1-0 (0-0)  Barnet FC
-  12.35  Boreham Wood             1-0 (1-0)  Leyton Orient
-  15.00  Barrow AFC               1-0 (0-0)  Maidstone United
+  12:35  Boreham Wood             1-0 (1-0)  Leyton Orient
+  15:00  Barrow AFC               1-0 (0-0)  Maidstone United
          Chesterfield FC          2-0 (1-0)  Salford City
          Dagenham & Redbridge     1-1 (0-0)  Halifax Town
          Dover Athletic           2-1 (0-1)  AFC Fylde
 
 
-Matchday 23
-[Tue Dec/18]
-  19.45  Halifax Town             1-1 (1-1)  Boreham Wood
+▪ Matchday 23
+Tue Dec 18
+  19:45  Halifax Town             1-1 (1-1)  Boreham Wood
 
 
-Matchday 25
-[Sat Dec/22]
-  15.00  Maidstone United         2-3 (0-2)  Gateshead FC
+▪ Matchday 25
+Sat Dec 22
+  15:00  Maidstone United         2-3 (0-2)  Gateshead FC
          Salford City             1-2 (1-1)  Dagenham & Redbridge
          Aldershot Town           0-0  Wrexham AFC
          Leyton Orient            3-1 (1-1)  Chesterfield FC
          Hartlepool United        1-1 (1-1)  Havant & Waterlooville
          Halifax Town             0-1 (0-0)  Sutton United
-  12.35  Barnet FC                2-0 (0-0)  Dover Athletic
-  15.00  AFC Fylde                2-0 (1-0)  Ebbsfleet United
+  12:35  Barnet FC                2-0 (0-0)  Dover Athletic
+  15:00  AFC Fylde                2-0 (1-0)  Ebbsfleet United
          Solihull Moors           0-1 (0-0)  Barrow AFC
          Braintree Town           1-1 (1-0)  Boreham Wood
          Bromley FC               1-0 (1-0)  Maidenhead United
          Eastleigh FC             2-1 (1-1)  Harrogate Town
 
 
-Matchday 26
-[Wed Dec/26]
-  15.00  Gateshead FC             2-1 (2-0)  Hartlepool United
+▪ Matchday 26
+Wed Dec 26
+  15:00  Gateshead FC             2-1 (2-0)  Hartlepool United
          Havant & Waterlooville   2-2 (0-2)  Eastleigh FC
          Sutton United            1-0 (0-0)  Bromley FC
          Wrexham AFC              5-1 (3-0)  Salford City
          Harrogate Town           1-2 (1-0)  Halifax Town
          Ebbsfleet United         4-2 (3-1)  Braintree Town
-  12.30  Maidenhead United        4-3 (1-1)  Aldershot Town
-  13.00  Boreham Wood             1-0 (0-0)  Barnet FC
+  12:30  Maidenhead United        4-3 (1-1)  Aldershot Town
+  13:00  Boreham Wood             1-0 (0-0)  Barnet FC
          Dagenham & Redbridge     2-1 (0-0)  Leyton Orient
-  15.00  Barrow AFC               1-1 (0-1)  AFC Fylde
+  15:00  Barrow AFC               1-1 (0-1)  AFC Fylde
          Chesterfield FC          0-4 (0-2)  Solihull Moors
          Dover Athletic           3-1 (0-1)  Maidstone United
 
 
-Matchday 27
-[Sat Dec/29]
-  15.00  Dagenham & Redbridge     0-1 (0-1)  Barnet FC
+▪ Matchday 27
+Sat Dec 29
+  15:00  Dagenham & Redbridge     0-1 (0-1)  Barnet FC
          Sutton United            2-1 (2-1)  Aldershot Town
          Maidenhead United        0-1 (0-0)  Braintree Town
          Havant & Waterlooville   0-3 (0-1)  Bromley FC
          Harrogate Town           1-2 (0-0)  AFC Fylde
          Gateshead FC             1-1 (0-1)  Halifax Town
-  12.35  Barrow AFC               3-2 (1-0)  Salford City
-  15.00  Boreham Wood             0-1 (0-1)  Maidstone United
+  12:35  Barrow AFC               3-2 (1-0)  Salford City
+  15:00  Boreham Wood             0-1 (0-1)  Maidstone United
          Chesterfield FC          1-1 (0-1)  Hartlepool United
          Wrexham AFC              1-0 (0-0)  Solihull Moors
          Dover Athletic           0-0  Leyton Orient
          Ebbsfleet United         3-0 (3-0)  Eastleigh FC
 
 
-Matchday 28
-[Tue Jan/1]
-  15.00  Salford City             2-0 (1-0)  Wrexham AFC
+▪ Matchday 28
+Tue Jan 1
+  15:00  Salford City             2-0 (1-0)  Wrexham AFC
          Maidstone United         0-1 (0-0)  Dover Athletic
-  19.45  Bromley FC               2-1 (1-1)  Sutton United
-  15.00  Leyton Orient            1-0 (1-0)  Dagenham & Redbridge
+  19:45  Bromley FC               2-1 (1-1)  Sutton United
+  15:00  Leyton Orient            1-0 (1-0)  Dagenham & Redbridge
          Hartlepool United        2-1 (1-0)  Gateshead FC
          Solihull Moors           2-2 (1-0)  Chesterfield FC
          AFC Fylde                0-0  Barrow AFC
@@ -463,9 +463,9 @@ Matchday 28
          Halifax Town             1-1 (0-1)  Harrogate Town
 
 
-Matchday 29
-[Sat Jan/5]
-  15.00  Havant & Waterlooville   2-0 (0-0)  Barrow AFC
+▪ Matchday 29
+Sat Jan 5
+  15:00  Havant & Waterlooville   2-0 (0-0)  Barrow AFC
          Leyton Orient            0-3 (0-2)  Salford City
          Sutton United            2-1 (1-0)  Harrogate Town
          Wrexham AFC              0-1 (0-0)  Dover Athletic
@@ -478,26 +478,26 @@ Matchday 29
          Gateshead FC             0-1 (0-1)  Maidenhead United
 
 
-Matchday 22
-[Tue Jan/8]
-  19.45  Gateshead FC             1-2 (0-1)  Solihull Moors
+▪ Matchday 22
+Tue Jan 8
+  19:45  Gateshead FC             1-2 (0-1)  Solihull Moors
 
 
-Matchday 23
-[Tue Jan/8]
-  19.45  Bromley FC               2-0 (2-0)  Wrexham AFC
-[Tue Jan/15]
-  19.45  Maidstone United         2-4 (1-3)  Maidenhead United
+▪ Matchday 23
+Tue Jan 8
+  19:45  Bromley FC               2-0 (2-0)  Wrexham AFC
+Tue Jan 15
+  19:45  Maidstone United         2-4 (1-3)  Maidenhead United
 
 
-Matchday 30
-[Sat Jan/19]
-  15.00  Ebbsfleet United         2-0 (1-0)  Leyton Orient
+▪ Matchday 30
+Sat Jan 19
+  15:00  Ebbsfleet United         2-0 (1-0)  Leyton Orient
          Maidstone United         0-3 (0-1)  Dagenham & Redbridge
          Maidenhead United        1-2 (1-1)  Solihull Moors
          Eastleigh FC             3-2 (1-1)  Sutton United
-  12.35  Harrogate Town           3-1 (1-0)  Hartlepool United
-  15.00  AFC Fylde                2-0 (1-0)  Wrexham AFC
+  12:35  Harrogate Town           3-1 (1-0)  Hartlepool United
+  15:00  AFC Fylde                2-0 (1-0)  Wrexham AFC
          Aldershot Town           0-2 (0-1)  Chesterfield FC
          Barrow AFC               0-0  Halifax Town
          Boreham Wood             1-3 (0-2)  Havant & Waterlooville
@@ -506,9 +506,9 @@ Matchday 30
          Salford City             1-1 (1-1)  Gateshead FC
 
 
-Matchday 31
-[Sat Jan/26]
-  15.00  Leyton Orient            3-0 (1-0)  Maidstone United
+▪ Matchday 31
+Sat Jan 26
+  15:00  Leyton Orient            3-0 (1-0)  Maidstone United
          Wrexham AFC              1-0 (0-0)  Maidenhead United
          Sutton United            1-0 (0-0)  Ebbsfleet United
          Solihull Moors           1-2 (0-0)  AFC Fylde
@@ -521,14 +521,14 @@ Matchday 31
          Havant & Waterlooville   0-0  Dover Athletic
 
 
-Matchday 32
-[Sat Feb/2]
-  15.00  Dover Athletic           1-2 (1-0)  Gateshead FC
+▪ Matchday 32
+Sat Feb 2
+  15:00  Dover Athletic           1-2 (1-0)  Gateshead FC
 
 
-Matchday 33
-[Sat Feb/9]
-  15.00  Ebbsfleet United         0-1 (0-0)  Solihull Moors
+▪ Matchday 33
+Sat Feb 9
+  15:00  Ebbsfleet United         0-1 (0-0)  Solihull Moors
          Gateshead FC             0-0  Havant & Waterlooville
          Chesterfield FC          1-0 (0-0)  Halifax Town
          Dover Athletic           2-3 (0-1)  Harrogate Town
@@ -542,14 +542,14 @@ Matchday 33
          Wrexham AFC              1-0 (0-0)  Dagenham & Redbridge
 
 
-Matchday 32
-[Tue Feb/12]
-  19.45  Aldershot Town           0-3 (0-1)  Solihull Moors
+▪ Matchday 32
+Tue Feb 12
+  19:45  Aldershot Town           0-3 (0-1)  Solihull Moors
 
 
-Matchday 34
-[Sat Feb/16]
-  15.00  Bromley FC               2-0 (1-0)  Maidstone United
+▪ Matchday 34
+Sat Feb 16
+  15:00  Bromley FC               2-0 (1-0)  Maidstone United
          Dagenham & Redbridge     0-2 (0-1)  Gateshead FC
          Eastleigh FC             2-1 (2-1)  Braintree Town
          Halifax Town             0-0  Aldershot Town
@@ -563,22 +563,22 @@ Matchday 34
          Salford City             1-3 (1-1)  Dover Athletic
 
 
-Matchday 32
-[Tue Feb/19]
-  19.45  Ebbsfleet United         0-0  Hartlepool United
+▪ Matchday 32
+Tue Feb 19
+  19:45  Ebbsfleet United         0-0  Hartlepool United
          AFC Fylde                6-2 (2-1)  Havant & Waterlooville
          Boreham Wood             0-2 (0-0)  Wrexham AFC
          Maidstone United         0-1 (0-0)  Halifax Town
 
 
-Matchday 16
-[Tue Feb/19]
-  19.45  Sutton United            0-0  Barnet FC
+▪ Matchday 16
+Tue Feb 19
+  19:45  Sutton United            0-0  Barnet FC
 
 
-Matchday 35
-[Sat Feb/23]
-  15.00  Gateshead FC             1-1 (1-0)  Wrexham AFC
+▪ Matchday 35
+Sat Feb 23
+  15:00  Gateshead FC             1-1 (1-0)  Wrexham AFC
          Dagenham & Redbridge     1-0 (0-0)  Sutton United
          Barrow AFC               0-0  Ebbsfleet United
          Chesterfield FC          0-1 (0-1)  Harrogate Town
@@ -589,14 +589,14 @@ Matchday 35
          Salford City             0-2 (0-1)  Eastleigh FC
 
 
-Matchday 23
-[Tue Feb/26]
-  19.45  Barnet FC                0-2 (0-1)  Chesterfield FC
+▪ Matchday 23
+Tue Feb 26
+  19:45  Barnet FC                0-2 (0-1)  Chesterfield FC
 
 
-Matchday 36
-[Sat Mar/2]
-  15.00  Eastleigh FC             0-1 (0-0)  Halifax Town
+▪ Matchday 36
+Sat Mar 2
+  15:00  Eastleigh FC             0-1 (0-0)  Halifax Town
          Wrexham AFC              1-0 (0-0)  Chesterfield FC
          Sutton United            2-2 (1-0)  Hartlepool United
          Havant & Waterlooville   1-2 (0-1)  Leyton Orient
@@ -607,45 +607,45 @@ Matchday 36
          Barnet FC                3-1 (1-0)  Barrow AFC
          Aldershot Town           0-2 (0-0)  Gateshead FC
          AFC Fylde                2-1 (1-1)  Maidenhead United
-  17.20  Solihull Moors           5-0 (4-0)  Maidstone United
+  17:20  Solihull Moors           5-0 (4-0)  Maidstone United
 
 
-Matchday 32
-[Tue Mar/5]
-  19.45  Maidenhead United        1-1 (0-0)  Dagenham & Redbridge
+▪ Matchday 32
+Tue Mar 5
+  19:45  Maidenhead United        1-1 (0-0)  Dagenham & Redbridge
          Harrogate Town           1-0 (0-0)  Bromley FC
 
 
-Matchday 22
-[Tue Mar/5]
-  19.45  Halifax Town             3-0 (1-0)  Barnet FC
+▪ Matchday 22
+Tue Mar 5
+  19:45  Halifax Town             3-0 (1-0)  Barnet FC
 
 
-Matchday 32
-[Tue Mar/5]
-  19.45  Braintree Town           1-3 (0-2)  Chesterfield FC
+▪ Matchday 32
+Tue Mar 5
+  19:45  Braintree Town           1-3 (0-2)  Chesterfield FC
          Barrow AFC               2-3 (0-1)  Leyton Orient
          Salford City             2-0 (1-0)  Sutton United
 
 
-Matchday 37
-[Sat Mar/9]
-  15.00  Hartlepool United        3-2 (0-2)  Dover Athletic
+▪ Matchday 37
+Sat Mar 9
+  15:00  Hartlepool United        3-2 (0-2)  Dover Athletic
          Gateshead FC             2-1 (0-1)  Barnet FC
          Dagenham & Redbridge     3-0 (2-0)  Bromley FC
          Maidenhead United        1-0 (0-0)  Sutton United
          Maidstone United         2-0 (2-0)  Havant & Waterlooville
          Chesterfield FC          2-3 (1-1)  Eastleigh FC
-  12.35  Leyton Orient            1-0 (0-0)  Wrexham AFC
-  15.00  Barrow AFC               2-1 (1-0)  Aldershot Town
+  12:35  Leyton Orient            1-0 (0-0)  Wrexham AFC
+  15:00  Barrow AFC               2-1 (1-0)  Aldershot Town
          Boreham Wood             1-1 (0-1)  AFC Fylde
          Braintree Town           0-4 (0-3)  Harrogate Town
          Salford City             2-0 (0-0)  Solihull Moors
 
 
-Matchday 38
-[Tue Mar/12]
-  19.45  Solihull Moors           1-0 (0-0)  Gateshead FC
+▪ Matchday 38
+Tue Mar 12
+  19:45  Solihull Moors           1-0 (0-0)  Gateshead FC
          Sutton United            0-3 (0-0)  Braintree Town
          Dover Athletic           1-1 (1-1)  Boreham Wood
          Wrexham AFC              1-3 (0-3)  Barrow AFC
@@ -658,9 +658,9 @@ Matchday 38
          Bromley FC               3-3 (0-1)  Chesterfield FC
 
 
-Matchday 39
-[Sat Mar/16]
-  15.00  Ebbsfleet United         3-2 (2-1)  Boreham Wood
+▪ Matchday 39
+Sat Mar 16
+  15:00  Ebbsfleet United         3-2 (2-1)  Boreham Wood
          Sutton United            4-2 (0-1)  Gateshead FC
          Solihull Moors           2-1 (1-1)  Braintree Town
          Havant & Waterlooville   1-2 (1-0)  Chesterfield FC
@@ -672,62 +672,62 @@ Matchday 39
          Wrexham AFC              1-0 (0-0)  Maidstone United
 
 
-Matchday 31
-[Tue Mar/19]
-  19.45  Barnet FC                1-0 (1-0)  Harrogate Town
+▪ Matchday 31
+Tue Mar 19
+  19:45  Barnet FC                1-0 (1-0)  Harrogate Town
 
 
-Matchday 40
-[Sat Mar/23]
-  15.00  Hartlepool United        1-0 (1-0)  Wrexham AFC
+▪ Matchday 40
+Sat Mar 23
+  15:00  Hartlepool United        1-0 (1-0)  Wrexham AFC
          Salford City             0-0  Barnet FC
          Halifax Town             2-0 (1-0)  Solihull Moors
-  12.30  Chesterfield FC          3-0 (1-0)  Sutton United
-  15.00  Barrow AFC               2-2 (2-0)  Harrogate Town
+  12:30  Chesterfield FC          3-0 (1-0)  Sutton United
+  15:00  Barrow AFC               2-2 (2-0)  Harrogate Town
          Boreham Wood             0-2 (0-0)  Aldershot Town
          Maidstone United         0-2 (0-1)  Ebbsfleet United
          Braintree Town           2-4 (0-3)  Bromley FC
 
 
-Matchday 35
-[Tue Mar/26]
-  19.45  Leyton Orient            2-0 (2-0)  AFC Fylde
+▪ Matchday 35
+Tue Mar 26
+  19:45  Leyton Orient            2-0 (2-0)  AFC Fylde
 
 
-Matchday 40
-[Tue Mar/26]
-  19.45  Dagenham & Redbridge     1-3 (0-2)  Dover Athletic
+▪ Matchday 40
+Tue Mar 26
+  19:45  Dagenham & Redbridge     1-3 (0-2)  Dover Athletic
 
 
-Matchday 37
-[Tue Mar/26]
-  19.45  Halifax Town             0-0  Ebbsfleet United
+▪ Matchday 37
+Tue Mar 26
+  19:45  Halifax Town             0-0  Ebbsfleet United
 
 
-Matchday 35
-[Tue Mar/26]
-  19.45  Boreham Wood             2-2 (1-1)  Solihull Moors
+▪ Matchday 35
+Tue Mar 26
+  19:45  Boreham Wood             2-2 (1-1)  Solihull Moors
 
 
-Matchday 29
-[Tue Mar/26]
-  19.45  Barnet FC                2-0 (0-0)  Aldershot Town
+▪ Matchday 29
+Tue Mar 26
+  19:45  Barnet FC                2-0 (0-0)  Aldershot Town
 
 
-Matchday 40
-[Tue Mar/26]
-  19.45  Maidenhead United        2-1 (0-0)  Havant & Waterlooville
+▪ Matchday 40
+Tue Mar 26
+  19:45  Maidenhead United        2-1 (0-0)  Havant & Waterlooville
 
 
-Matchday 38
-[Wed Mar/27]
-  19.45  Harrogate Town           0-1 (0-0)  Salford City
+▪ Matchday 38
+Wed Mar 27
+  19:45  Harrogate Town           0-1 (0-0)  Salford City
 
 
-Matchday 41
-[Sat Mar/30]
-  12.35  Aldershot Town           0-0  AFC Fylde
-  15.00  Sutton United            2-2 (1-1)  Havant & Waterlooville
+▪ Matchday 41
+Sat Mar 30
+  12:35  Aldershot Town           0-0  AFC Fylde
+  15:00  Sutton United            2-2 (1-1)  Havant & Waterlooville
          Halifax Town             0-1 (0-0)  Maidenhead United
          Ebbsfleet United         4-2 (3-0)  Wrexham AFC
          Solihull Moors           2-2 (1-2)  Dover Athletic
@@ -740,20 +740,20 @@ Matchday 41
          Harrogate Town           2-2 (1-1)  Maidstone United
 
 
-Matchday 39
-[Tue Apr/2]
-  19.45  AFC Fylde                1-1 (1-1)  Dagenham & Redbridge
+▪ Matchday 39
+Tue Apr 2
+  19:45  AFC Fylde                1-1 (1-1)  Dagenham & Redbridge
          Bromley FC               2-1 (0-1)  Leyton Orient
 
 
-Matchday 32
-[Tue Apr/2]
-  19.45  Eastleigh FC             0-3 (0-1)  Barnet FC
+▪ Matchday 32
+Tue Apr 2
+  19:45  Eastleigh FC             0-3 (0-1)  Barnet FC
 
 
-Matchday 42
-[Sat Apr/6]
-  15.00  Maidstone United         0-2 (0-2)  Salford City
+▪ Matchday 42
+Sat Apr 6
+  15:00  Maidstone United         0-2 (0-2)  Salford City
          Maidenhead United        0-1 (0-1)  Barnet FC
          Leyton Orient            2-2 (1-2)  Halifax Town
          AFC Fylde                4-2 (1-2)  Eastleigh FC
@@ -767,21 +767,21 @@ Matchday 42
          Wrexham AFC              3-1 (1-1)  Braintree Town
 
 
-Matchday 40
-[Tue Apr/9]
-  19.45  Leyton Orient            3-2 (1-2)  Eastleigh FC
+▪ Matchday 40
+Tue Apr 9
+  19:45  Leyton Orient            3-2 (1-2)  Eastleigh FC
          Gateshead FC             0-1 (0-1)  AFC Fylde
 
 
-Matchday 35
-[Tue Apr/9]
-  19.45  Maidstone United         2-1 (0-1)  Barnet FC
+▪ Matchday 35
+Tue Apr 9
+  19:45  Maidstone United         2-1 (0-1)  Barnet FC
 
 
-Matchday 43
-[Sat Apr/13]
-  12.35  Salford City             3-0 (3-0)  Maidenhead United
-  15.00  Aldershot Town           1-1 (1-0)  Hartlepool United
+▪ Matchday 43
+Sat Apr 13
+  12:35  Salford City             3-0 (3-0)  Maidenhead United
+  15:00  Aldershot Town           1-1 (1-0)  Hartlepool United
          Barnet FC                1-2 (0-0)  Wrexham AFC
          Barrow AFC               2-3 (1-0)  Dover Athletic
          Braintree Town           2-1 (1-0)  AFC Fylde
@@ -794,9 +794,9 @@ Matchday 43
          Sutton United            1-2 (0-0)  Leyton Orient
 
 
-Matchday 44
-[Fri Apr/19]
-  15.00  AFC Fylde                1-0 (1-0)  Barnet FC
+▪ Matchday 44
+Fri Apr 19
+  15:00  AFC Fylde                1-0 (1-0)  Barnet FC
          Boreham Wood             2-3 (1-2)  Salford City
          Bromley FC               0-2 (0-1)  Solihull Moors
          Dagenham & Redbridge     2-0 (1-0)  Eastleigh FC
@@ -810,9 +810,9 @@ Matchday 44
          Wrexham AFC              1-0 (0-0)  Sutton United
 
 
-Matchday 45
-[Mon Apr/22]
-  15.00  Aldershot Town           2-0 (2-0)  Havant & Waterlooville
+▪ Matchday 45
+Mon Apr 22
+  15:00  Aldershot Town           2-0 (2-0)  Havant & Waterlooville
          Barnet FC                1-1 (0-0)  Bromley FC
          Barrow AFC               1-0 (1-0)  Hartlepool United
          Braintree Town           2-0 (0-0)  Dagenham & Redbridge
@@ -826,9 +826,9 @@ Matchday 45
          Sutton United            2-2 (1-0)  Maidstone United
 
 
-Matchday 46
-[Sat Apr/27]
-  12.30  AFC Fylde                0-2 (0-2)  Halifax Town
+▪ Matchday 46
+Sat Apr 27
+  12:30  AFC Fylde                0-2 (0-2)  Halifax Town
          Boreham Wood             3-3 (1-1)  Eastleigh FC
          Bromley FC               5-1 (1-0)  Ebbsfleet United
          Dagenham & Redbridge     1-1 (0-0)  Solihull Moors
