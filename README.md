@@ -89,7 +89,7 @@ Example:
 
 ## Build Your Own `england.db` Database or `england.json/.csv` Datasets
 
-Yes, you can. See [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
 
 
 <!--
