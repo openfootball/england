@@ -1,620 +1,1099 @@
-= English Premier League 2025/26
-
-# Date       Fri Aug 15 2025 - Sun May 24 2026 (282d)
-# Teams      20
-# Matches    380
-
-
-
-▪ Matchday 1
-  Fri Aug 15 2025
-    20:00  Liverpool FC            v AFC Bournemouth          4-2 (1-0)
-  Sat Aug 16
-    12:30  Aston Villa FC          v Newcastle United FC      0-0
-    15:00  Brighton & Hove Albion FC v Fulham FC                1-1 (0-0)
-           Sunderland AFC          v West Ham United FC       3-0 (0-0)
-           Tottenham Hotspur FC    v Burnley FC               3-0 (1-0)
-    17:30  Wolverhampton Wanderers FC v Manchester City FC       0-4 (0-2)
-  Sun Aug 17
-    14:00  Nottingham Forest FC    v Brentford FC             3-1 (3-0)
-           Chelsea FC              v Crystal Palace FC        0-0
-    16:30  Manchester United FC    v Arsenal FC               0-1 (0-1)
-  Mon Aug 18
-    20:00  Leeds United FC         v Everton FC               1-0 (0-0)
-
-
-▪ Matchday 2
-  Fri Aug 22
-    20:00  West Ham United FC      v Chelsea FC               1-5 (1-3)
-  Sat Aug 23
-    12:30  Manchester City FC      v Tottenham Hotspur FC     0-2 (0-2)
-    15:00  AFC Bournemouth         v Wolverhampton Wanderers FC  1-0 (1-0)
-           Brentford FC            v Aston Villa FC           1-0 (1-0)
-           Burnley FC              v Sunderland AFC           2-0 (0-0)
-    17:30  Arsenal FC              v Leeds United FC          5-0 (2-0)
-  Sun Aug 24
-    14:00  Crystal Palace FC       v Nottingham Forest FC     1-1 (1-0)
-           Everton FC              v Brighton & Hove Albion FC  2-0 (1-0)
-    16:30  Fulham FC               v Manchester United FC     1-1 (0-0)
-  Mon Aug 25
-    20:00  Newcastle United FC     v Liverpool FC             2-3 (0-1)
-
-
-▪ Matchday 3
-  Sat Aug 30
-    12:30  Chelsea FC              v Fulham FC                2-0 (1-0)
-    15:00  Sunderland AFC          v Brentford FC             2-1 (0-0)
-           Manchester United FC    v Burnley FC               3-2 (1-0)
-           Tottenham Hotspur FC    v AFC Bournemouth          0-1 (0-1)
-           Wolverhampton Wanderers FC v Everton FC               2-3 (1-2)
-    17:30  Leeds United FC         v Newcastle United FC      0-0
-  Sun Aug 31
-    14:00  Brighton & Hove Albion FC v Manchester City FC       2-1 (0-1)
-           Nottingham Forest FC    v West Ham United FC       0-3 (0-0)
-    16:30  Liverpool FC            v Arsenal FC               1-0 (0-0)
-    19:00  Aston Villa FC          v Crystal Palace FC        0-3 (0-1)
-
-
-▪ Matchday 4
-  Sat Sep 13
-    12:30  Arsenal FC              v Nottingham Forest FC     3-0 (1-0)
-    15:00  AFC Bournemouth         v Brighton & Hove Albion FC  2-1 (1-0)
-           Crystal Palace FC       v Sunderland AFC           0-0
-           Everton FC              v Aston Villa FC           0-0
-           Fulham FC               v Leeds United FC          1-0 (0-0)
-           Newcastle United FC     v Wolverhampton Wanderers FC  1-0 (1-0)
-    17:30  West Ham United FC      v Tottenham Hotspur FC     0-3 (0-0)
-    20:00  Brentford FC            v Chelsea FC               2-2 (1-0)
-  Sun Sep 14
-    14:00  Burnley FC              v Liverpool FC             0-1 (0-0)
-    16:30  Manchester City FC      v Manchester United FC     3-0 (1-0)
-
-
-▪ Matchday 5
-  Sat Sep 20
-    12:30  Liverpool FC            v Everton FC               2-1 (2-0)
-    15:00  Brighton & Hove Albion FC v Tottenham Hotspur FC     2-2 (2-1)
-           Burnley FC              v Nottingham Forest FC     1-1 (1-1)
-           West Ham United FC      v Crystal Palace FC        1-2 (0-1)
-           Wolverhampton Wanderers FC v Leeds United FC          1-3 (1-3)
-    17:30  Manchester United FC    v Chelsea FC               2-1 (2-0)
-    20:00  Fulham FC               v Brentford FC             3-1 (2-1)
-  Sun Sep 21
-    14:00  AFC Bournemouth         v Newcastle United FC      0-0
-           Sunderland AFC          v Aston Villa FC           1-1 (0-0)
-    16:30  Arsenal FC              v Manchester City FC       1-1 (0-1)
-
-
-▪ Matchday 6
-  Sat Sep 27
-    12:30  Brentford FC            v Manchester United FC     3-1 (2-1)
-    15:00  Crystal Palace FC       v Liverpool FC             2-1 (1-0)
-           Chelsea FC              v Brighton & Hove Albion FC  1-3 (1-0)
-           Leeds United FC         v AFC Bournemouth          2-2 (1-1)
-           Manchester City FC      v Burnley FC               5-1 (1-1)
-    17:30  Nottingham Forest FC    v Sunderland AFC           0-1 (0-1)
-    20:00  Tottenham Hotspur FC    v Wolverhampton Wanderers FC  1-1 (0-0)
-  Sun Sep 28
-    14:00  Aston Villa FC          v Fulham FC                3-1 (1-1)
-    16:30  Newcastle United FC     v Arsenal FC               1-2 (1-0)
-  Mon Sep 29
-    20:00  Everton FC              v West Ham United FC       1-1 (1-0)
-
-
-▪ Matchday 7
-  Fri Oct 3
-    20:00  AFC Bournemouth         v Fulham FC                3-1 (0-0)
-  Sat Oct 4
-    12:30  Leeds United FC         v Tottenham Hotspur FC     1-2 (1-1)
-    15:00  Arsenal FC              v West Ham United FC       2-0 (1-0)
-           Manchester United FC    v Sunderland AFC           2-0 (2-0)
-    17:30  Chelsea FC              v Liverpool FC             2-1 (1-0)
-  Sun Oct 5
-    14:00  Aston Villa FC          v Burnley FC               2-1 (1-0)
-           Everton FC              v Crystal Palace FC        2-1 (0-1)
-           Newcastle United FC     v Nottingham Forest FC     2-0 (0-0)
-           Wolverhampton Wanderers FC v Brighton & Hove Albion FC  1-1 (1-0)
-    16:30  Brentford FC            v Manchester City FC       0-1 (0-1)
-
-
-▪ Matchday 8
-  Sat Oct 18
-    12:30  Nottingham Forest FC    v Chelsea FC               0-3 (0-0)
-    15:00  Brighton & Hove Albion FC v Newcastle United FC      2-1 (1-0)
-           Crystal Palace FC       v AFC Bournemouth          3-3 (0-2)
-           Burnley FC              v Leeds United FC          2-0 (1-0)
-           Manchester City FC      v Everton FC               2-0 (0-0)
-           Sunderland AFC          v Wolverhampton Wanderers FC  2-0 (1-0)
-    17:30  Fulham FC               v Arsenal FC               0-1 (0-0)
-  Sun Oct 19
-    14:00  Tottenham Hotspur FC    v Aston Villa FC           1-2 (1-1)
-    16:30  Liverpool FC            v Manchester United FC     1-2 (0-1)
-  Mon Oct 20
-    20:00  West Ham United FC      v Brentford FC             0-2 (0-1)
-
-
-▪ Matchday 9
-  Fri Oct 24
-    20:00  Leeds United FC         v West Ham United FC       2-1 (2-0)
-  Sat Oct 25
-    15:00  Chelsea FC              v Sunderland AFC           1-2 (1-1)
-           Newcastle United FC     v Fulham FC                2-1 (1-0)
-    17:30  Manchester United FC    v Brighton & Hove Albion FC  4-2 (2-0)
-    20:00  Brentford FC            v Liverpool FC             3-2 (2-1)
-  Sun Oct 26
-    14:00  AFC Bournemouth         v Nottingham Forest FC     2-0 (2-0)
-           Aston Villa FC          v Manchester City FC       1-0 (1-0)
-           Arsenal FC              v Crystal Palace FC        1-0 (1-0)
-           Wolverhampton Wanderers FC v Burnley FC               2-3 (2-2)
-    16:30  Everton FC              v Tottenham Hotspur FC     0-3 (0-2)
-
-
-▪ Matchday 10
-  Sat Nov 1
-    15:00  Brighton & Hove Albion FC v Leeds United FC          3-0 (1-0)
-           Crystal Palace FC       v Brentford FC             2-0 (1-0)
-           Burnley FC              v Arsenal FC               0-2 (0-2)
-           Fulham FC               v Wolverhampton Wanderers FC  3-0 (1-0)
-           Nottingham Forest FC    v Manchester United FC     2-2 (0-1)
-    17:30  Tottenham Hotspur FC    v Chelsea FC               0-1 (0-1)
-    20:00  Liverpool FC            v Aston Villa FC           2-0 (1-0)
-  Sun Nov 2
-    14:00  West Ham United FC      v Newcastle United FC      3-1 (2-1)
-    16:30  Manchester City FC      v AFC Bournemouth          3-1 (2-1)
-  Mon Nov 3
-    20:00  Sunderland AFC          v Everton FC               1-1 (0-1)
-
-
-▪ Matchday 11
-  Sat Nov 8
-    12:30  Tottenham Hotspur FC    v Manchester United FC     2-2 (0-1)
-    15:00  Everton FC              v Fulham FC                2-0 (1-0)
-           West Ham United FC      v Burnley FC               3-2 (1-1)
-    17:30  Sunderland AFC          v Arsenal FC               2-2 (1-0)
-    20:00  Chelsea FC              v Wolverhampton Wanderers FC  3-0 (0-0)
-  Sun Nov 9
-    14:00  Aston Villa FC          v AFC Bournemouth          4-0 (2-0)
-           Crystal Palace FC       v Brighton & Hove Albion FC  0-0
-           Brentford FC            v Newcastle United FC      3-1 (0-1)
-           Nottingham Forest FC    v Leeds United FC          3-1 (1-1)
-    16:30  Manchester City FC      v Liverpool FC             3-0 (2-0)
-
-
-▪ Matchday 12
-  Sat Nov 22
-    12:30  Burnley FC              v Chelsea FC               0-2 (0-1)
-    15:00  AFC Bournemouth         v West Ham United FC       2-2 (0-2)
-           Brighton & Hove Albion FC v Brentford FC             2-1 (0-1)
-           Fulham FC               v Sunderland AFC           1-0 (0-0)
-           Liverpool FC            v Nottingham Forest FC     0-3 (0-1)
-           Wolverhampton Wanderers FC v Crystal Palace FC        0-2 (0-0)
-    17:30  Newcastle United FC     v Manchester City FC       2-1 (0-0)
-  Sun Nov 23
-    14:00  Leeds United FC         v Aston Villa FC           1-2 (1-0)
-    16:30  Arsenal FC              v Tottenham Hotspur FC     4-1 (2-0)
-  Mon Nov 24
-    20:00  Manchester United FC    v Everton FC               0-1 (0-1)
-
-
-▪ Matchday 13
-  Sat Nov 29
-    15:00  Sunderland AFC          v AFC Bournemouth          3-2 (1-2)
-           Brentford FC            v Burnley FC               3-1 (0-0)
-           Manchester City FC      v Leeds United FC          3-2 (2-0)
-    17:30  Everton FC              v Newcastle United FC      1-4 (0-3)
-    20:00  Tottenham Hotspur FC    v Fulham FC                1-2 (0-2)
-  Sun Nov 30
-    12:00  Crystal Palace FC       v Manchester United FC     1-2 (1-0)
-    14:05  Aston Villa FC          v Wolverhampton Wanderers FC  1-0 (0-0)
-           Nottingham Forest FC    v Brighton & Hove Albion FC  0-2 (0-1)
-           West Ham United FC      v Liverpool FC             0-2 (0-0)
-    16:30  Chelsea FC              v Arsenal FC               1-1 (0-0)
-
-
-▪ Matchday 14
-  Tue Dec 2
-    19:30  AFC Bournemouth         v Everton FC               0-1 (0-0)
-           Fulham FC               v Manchester City FC       4-5 (1-3)
-    20:15  Newcastle United FC     v Tottenham Hotspur FC     2-2 (0-0)
-  Wed Dec 3
-    19:30  Brighton & Hove Albion FC v Aston Villa FC           3-4 (2-2)
-           Arsenal FC              v Brentford FC             2-0 (1-0)
-           Burnley FC              v Crystal Palace FC        0-1 (0-1)
-           Wolverhampton Wanderers FC v Nottingham Forest FC     0-1 (0-0)
-    20:15  Liverpool FC            v Sunderland AFC           1-1 (0-0)
-           Leeds United FC         v Chelsea FC               3-1 (2-0)
-  Thu Dec 4
-    20:00  Manchester United FC    v West Ham United FC       1-1 (0-0)
-
-
-▪ Matchday 15
-  Sat Dec 6
-    12:30  Aston Villa FC          v Arsenal FC               2-1 (1-0)
-    15:00  AFC Bournemouth         v Chelsea FC               0-0
-           Everton FC              v Nottingham Forest FC     3-0 (2-0)
-           Manchester City FC      v Sunderland AFC           3-0 (2-0)
-           Newcastle United FC     v Burnley FC               2-1 (2-0)
-           Tottenham Hotspur FC    v Brentford FC             2-0 (2-0)
-    17:30  Leeds United FC         v Liverpool FC             3-3 (0-0)
-  Sun Dec 7
-    14:00  Brighton & Hove Albion FC v West Ham United FC       1-1 (0-0)
-    16:30  Fulham FC               v Crystal Palace FC        1-2 (1-1)
-  Mon Dec 8
-    20:00  Wolverhampton Wanderers FC v Manchester United FC     1-4 (1-1)
-
-
-▪ Matchday 16
-  Sat Dec 13
-    15:00  Chelsea FC              v Everton FC               2-0 (2-0)
-           Liverpool FC            v Brighton & Hove Albion FC  2-0 (1-0)
-    17:30  Burnley FC              v Fulham FC                2-3 (1-2)
-    20:00  Arsenal FC              v Wolverhampton Wanderers FC  2-1 (0-0)
-  Sun Dec 14
-    14:00  Sunderland AFC          v Newcastle United FC      1-0 (0-0)
-           Crystal Palace FC       v Manchester City FC       0-3 (0-1)
-           Nottingham Forest FC    v Tottenham Hotspur FC     3-0 (1-0)
-           West Ham United FC      v Aston Villa FC           2-3 (2-1)
-    16:30  Brentford FC            v Leeds United FC          1-1 (0-0)
-  Mon Dec 15
-    20:00  Manchester United FC    v AFC Bournemouth          4-4 (2-1)
-
-
-▪ Matchday 17
-  Sat Dec 20
-    12:30  Newcastle United FC     v Chelsea FC               2-2 (2-0)
-    15:00  AFC Bournemouth         v Burnley FC               1-1 (0-0)
-           Brighton & Hove Albion FC v Sunderland AFC           0-0
-           Manchester City FC      v West Ham United FC       3-0 (2-0)
-           Wolverhampton Wanderers FC v Brentford FC             0-2 (0-0)
-    17:30  Tottenham Hotspur FC    v Liverpool FC             1-2 (0-0)
-    20:00  Everton FC              v Arsenal FC               0-1 (0-1)
-           Leeds United FC         v Crystal Palace FC        4-1 (2-0)
-  Sun Dec 21
-    16:30  Aston Villa FC          v Manchester United FC     2-1 (1-1)
-  Mon Dec 22
-    20:00  Fulham FC               v Nottingham Forest FC     1-0 (1-0)
-
-
-▪ Matchday 18
-  Fri Dec 26
-    20:00  Manchester United FC    v Newcastle United FC      1-0 (1-0)
-  Sat Dec 27
-    12:30  Nottingham Forest FC    v Manchester City FC       1-2 (0-0)
-    15:00  Arsenal FC              v Brighton & Hove Albion FC  2-1 (1-0)
-           Brentford FC            v AFC Bournemouth          4-1 (2-0)
-           Burnley FC              v Everton FC               0-0
-           Liverpool FC            v Wolverhampton Wanderers FC  2-1 (2-0)
-           West Ham United FC      v Fulham FC                0-1 (0-0)
-    17:30  Chelsea FC              v Aston Villa FC           1-2 (1-0)
-  Sun Dec 28
-    14:00  Sunderland AFC          v Leeds United FC          1-1 (1-0)
-    16:30  Crystal Palace FC       v Tottenham Hotspur FC     0-1 (0-1)
-
-
-▪ Matchday 19
-  Tue Dec 30
-    19:30  Burnley FC              v Newcastle United FC      1-3 (1-2)
-           Chelsea FC              v AFC Bournemouth          2-2 (2-2)
-           Nottingham Forest FC    v Everton FC               0-2 (0-1)
-           West Ham United FC      v Brighton & Hove Albion FC  2-2 (2-1)
-    20:15  Arsenal FC              v Aston Villa FC           4-1 (0-0)
-           Manchester United FC    v Wolverhampton Wanderers FC  1-1 (1-1)
-  Thu Jan 1 2026
-    17:30  Crystal Palace FC       v Fulham FC                1-1 (1-0)
-           Liverpool FC            v Leeds United FC          0-0
-    20:00  Sunderland AFC          v Manchester City FC       0-0
-           Brentford FC            v Tottenham Hotspur FC     0-0
-
-
-▪ Matchday 20
-  Sat Jan 3
-    12:30  Aston Villa FC          v Nottingham Forest FC     3-1 (1-0)
-    15:00  Brighton & Hove Albion FC v Burnley FC               2-0 (1-0)
-           Wolverhampton Wanderers FC v West Ham United FC       3-0 (3-0)
-    17:30  AFC Bournemouth         v Arsenal FC               2-3 (1-1)
-  Sun Jan 4
-    12:30  Leeds United FC         v Manchester United FC     1-1 (0-0)
-    15:00  Everton FC              v Brentford FC             2-4 (0-1)
-           Newcastle United FC     v Crystal Palace FC        2-0 (0-0)
-           Tottenham Hotspur FC    v Sunderland AFC           1-1 (1-0)
-    15:15  Fulham FC               v Liverpool FC             2-2 (1-0)
-    17:30  Manchester City FC      v Chelsea FC               1-1 (1-0)
-
-
-▪ Matchday 21
-  Tue Jan 6
-    20:00  West Ham United FC      v Nottingham Forest FC     1-2 (1-0)
-  Wed Jan 7
-    19:30  AFC Bournemouth         v Tottenham Hotspur FC     3-2 (2-1)
-           Crystal Palace FC       v Aston Villa FC           0-0
-           Brentford FC            v Sunderland AFC           3-0 (1-0)
-           Everton FC              v Wolverhampton Wanderers FC  1-1 (1-0)
-           Fulham FC               v Chelsea FC               2-1 (0-0)
-           Manchester City FC      v Brighton & Hove Albion FC  1-1 (1-0)
-    20:15  Burnley FC              v Manchester United FC     2-2 (1-0)
-           Newcastle United FC     v Leeds United FC          4-3 (1-2)
-  Thu Jan 8
-    20:00  Arsenal FC              v Liverpool FC             0-0
-
-
-▪ Matchday 22
-  Sat Jan 17
-    12:30  Manchester United FC    v Manchester City FC       2-0 (0-0)
-    15:00  Sunderland AFC          v Crystal Palace FC        2-1 (1-1)
-           Chelsea FC              v Brentford FC             2-0 (1-0)
-           Liverpool FC            v Burnley FC               1-1 (1-0)
-           Leeds United FC         v Fulham FC                1-0 (0-0)
-           Tottenham Hotspur FC    v West Ham United FC       1-2 (0-1)
-    17:30  Nottingham Forest FC    v Arsenal FC               0-0
-  Sun Jan 18
-    14:00  Wolverhampton Wanderers FC v Newcastle United FC      0-0
-    16:30  Aston Villa FC          v Everton FC               0-1 (0-0)
-  Mon Jan 19
-    20:00  Brighton & Hove Albion FC v AFC Bournemouth          1-1 (0-1)
-
-
-▪ Matchday 23
-  Sat Jan 24
-    12:30  West Ham United FC      v Sunderland AFC           3-1 (3-0)
-    15:00  Burnley FC              v Tottenham Hotspur FC     2-2 (1-1)
-           Fulham FC               v Brighton & Hove Albion FC  2-1 (0-1)
-           Manchester City FC      v Wolverhampton Wanderers FC  2-0 (2-0)
-    17:30  AFC Bournemouth         v Liverpool FC             3-2 (2-1)
-  Sun Jan 25
-    14:00  Crystal Palace FC       v Chelsea FC               1-3 (0-1)
-           Brentford FC            v Nottingham Forest FC     0-2 (0-1)
-           Newcastle United FC     v Aston Villa FC           0-2 (0-1)
-    16:30  Arsenal FC              v Manchester United FC     2-3 (1-1)
-  Mon Jan 26
-    20:00  Everton FC              v Leeds United FC          1-1 (0-1)
-
-
-▪ Matchday 24
-  Sat Jan 31
-    15:00  Brighton & Hove Albion FC v Everton FC               1-1 (0-0)
-           Leeds United FC         v Arsenal FC               0-4 (0-2)
-           Wolverhampton Wanderers FC v AFC Bournemouth          0-2 (0-1)
-    17:30  Chelsea FC              v West Ham United FC       3-2 (0-2)
-    20:00  Liverpool FC            v Newcastle United FC      4-1 (2-1)
-  Sun Feb 1
-    14:00  Aston Villa FC          v Brentford FC             0-1 (0-1)
-           Manchester United FC    v Fulham FC                3-2 (1-0)
-           Nottingham Forest FC    v Crystal Palace FC        1-1 (1-1)
-    16:30  Tottenham Hotspur FC    v Manchester City FC       2-2 (0-2)
-  Mon Feb 2
-    20:00  Sunderland AFC          v Burnley FC               3-0 (2-0)
-
-
-▪ Matchday 25
-  Fri Feb 6
-    20:00  Leeds United FC         v Nottingham Forest FC     3-1 (2-0)
-  Sat Feb 7
-    12:30  Manchester United FC    v Tottenham Hotspur FC     2-0 (1-0)
-    15:00  AFC Bournemouth         v Aston Villa FC           1-1 (0-1)
-           Arsenal FC              v Sunderland AFC           3-0 (1-0)
-           Burnley FC              v West Ham United FC       0-2 (0-2)
-           Fulham FC               v Everton FC               1-2 (1-0)
-           Wolverhampton Wanderers FC v Chelsea FC               1-3 (0-3)
-    17:30  Newcastle United FC     v Brentford FC             2-3 (1-2)
-  Sun Feb 8
-    14:00  Brighton & Hove Albion FC v Crystal Palace FC        0-1 (0-0)
-    16:30  Liverpool FC            v Manchester City FC       1-2 (0-0)
-
-
-▪ Matchday 26
-  Tue Feb 10
-    19:30  Chelsea FC              v Leeds United FC          2-2 (1-0)
-           Everton FC              v AFC Bournemouth          1-2 (1-0)
-           Tottenham Hotspur FC    v Newcastle United FC      1-2 (0-1)
-    20:15  West Ham United FC      v Manchester United FC     1-1 (0-0)
-  Wed Feb 11
-    19:30  Aston Villa FC          v Brighton & Hove Albion FC  1-0 (0-0)
-           Manchester City FC      v Fulham FC                3-0 (3-0)
-           Nottingham Forest FC    v Wolverhampton Wanderers FC  0-0
-    19:40  Crystal Palace FC       v Burnley FC               2-3 (2-3)
-    20:15  Sunderland AFC          v Liverpool FC             0-1 (0-0)
-  Thu Feb 12
-    20:00  Brentford FC            v Arsenal FC               1-1 (0-0)
-
-
-▪ Matchday 31
-  Wed Feb 18
-    20:00  Wolverhampton Wanderers FC v Arsenal FC               2-2 (0-1)
-
-
-▪ Matchday 27
-  Sat Feb 21
-    15:00  Aston Villa FC          v Leeds United FC          1-1 (0-1)
-           Brentford FC            v Brighton & Hove Albion FC  0-2 (0-2)
-           Chelsea FC              v Burnley FC               1-1 (1-0)
-    17:30  West Ham United FC      v AFC Bournemouth          0-0
-    20:00  Manchester City FC      v Newcastle United FC      2-1 (2-1)
-  Sun Feb 22
-    14:00  Sunderland AFC          v Fulham FC                1-3 (0-0)
-           Crystal Palace FC       v Wolverhampton Wanderers FC  1-0 (0-0)
-           Nottingham Forest FC    v Liverpool FC             0-1 (0-0)
-    16:30  Tottenham Hotspur FC    v Arsenal FC               1-4 (1-1)
-  Mon Feb 23
-    20:00  Everton FC              v Manchester United FC     0-1 (0-0)
-
-
-▪ Matchday 28
-  Fri Feb 27
-    20:00  Wolverhampton Wanderers FC v Aston Villa FC           2-0 (0-0)
-  Sat Feb 28
-    12:30  AFC Bournemouth         v Sunderland AFC           1-1 (0-1)
-    15:00  Burnley FC              v Brentford FC             3-4 (1-3)
-           Liverpool FC            v West Ham United FC       5-2 (3-0)
-           Newcastle United FC     v Everton FC               2-3 (1-2)
-    17:30  Leeds United FC         v Manchester City FC       0-1 (0-1)
-  Sun Mar 1
-    14:00  Brighton & Hove Albion FC v Nottingham Forest FC     2-1 (2-1)
-           Fulham FC               v Tottenham Hotspur FC     2-1 (2-0)
-           Manchester United FC    v Crystal Palace FC        2-1 (0-1)
-    16:30  Arsenal FC              v Chelsea FC               2-1 (1-1)
-
-
-▪ Matchday 29
-  Tue Mar 3
-    19:30  AFC Bournemouth         v Brentford FC             0-0
-           Everton FC              v Burnley FC               2-0 (1-0)
-           Leeds United FC         v Sunderland AFC           0-1 (0-0)
-    20:15  Wolverhampton Wanderers FC v Liverpool FC             2-1 (0-0)
-  Wed Mar 4
-    19:30  Aston Villa FC          v Chelsea FC               1-4 (1-2)
-           Brighton & Hove Albion FC v Arsenal FC               0-1 (0-1)
-           Fulham FC               v West Ham United FC       0-1 (0-0)
-           Manchester City FC      v Nottingham Forest FC     2-2 (1-0)
-    20:15  Newcastle United FC     v Manchester United FC     2-1 (1-1)
-  Thu Mar 5
-    20:00  Tottenham Hotspur FC    v Crystal Palace FC        1-3 (1-3)
-
-
-▪ Matchday 30
-  Sat Mar 14
-    15:00  Sunderland AFC          v Brighton & Hove Albion FC  0-1 (0-0)
-           Burnley FC              v AFC Bournemouth          0-0
-    17:30  Arsenal FC              v Everton FC               2-0 (0-0)
-           Chelsea FC              v Newcastle United FC      0-1 (0-1)
-    20:00  West Ham United FC      v Manchester City FC       1-1 (1-1)
-  Sun Mar 15
-    14:00  Crystal Palace FC       v Leeds United FC          0-0
-           Manchester United FC    v Aston Villa FC           3-1 (0-0)
-           Nottingham Forest FC    v Fulham FC                0-0
-    16:30  Liverpool FC            v Tottenham Hotspur FC     1-1 (1-0)
-  Mon Mar 16
-    20:00  Brentford FC            v Wolverhampton Wanderers FC  2-2 (2-1)
-
-
-▪ Matchday 31
-  Fri Mar 20
-    20:00  AFC Bournemouth         v Manchester United FC     2-2 (0-0)
-  Sat Mar 21
-    12:45  Brighton & Hove Albion FC v Liverpool FC             2-1 (1-1)
-    15:00  Fulham FC               v Burnley FC               3-1 (0-0)
-    17:30  Everton FC              v Chelsea FC               3-0 (1-0)
-    20:00  Leeds United FC         v Brentford FC             0-0
-  Sun Mar 22
-    12:00  Newcastle United FC     v Sunderland AFC           1-2 (1-0)
-    14:15  Aston Villa FC          v West Ham United FC       2-0 (1-0)
-           Tottenham Hotspur FC    v Nottingham Forest FC     0-3 (0-1)
-
-
-▪ Matchday 32
-  Fri Apr 10
-    20:00  West Ham United FC      v Wolverhampton Wanderers FC  4-0 (1-0)
-  Sat Apr 11
-    12:30  Arsenal FC              v AFC Bournemouth          1-2 (1-1)
-    15:00  Brentford FC            v Everton FC               2-2 (1-1)
-           Burnley FC              v Brighton & Hove Albion FC  0-2 (0-1)
-    17:30  Liverpool FC            v Fulham FC                2-0 (2-0)
-  Sun Apr 12
-    14:00  Sunderland AFC          v Tottenham Hotspur FC     1-0 (0-0)
-           Crystal Palace FC       v Newcastle United FC      2-1 (0-1)
-           Nottingham Forest FC    v Aston Villa FC           1-1 (1-1)
-    16:30  Chelsea FC              v Manchester City FC       0-3 (0-0)
-  Mon Apr 13
-    20:00  Manchester United FC    v Leeds United FC          1-2 (0-2)
-
-
-▪ Matchday 33
-  Sat Apr 18
-    12:30  Brentford FC            v Fulham FC                0-0
-    15:00  Newcastle United FC     v AFC Bournemouth          1-2 (0-1)
-           Leeds United FC         v Wolverhampton Wanderers FC  3-0 (2-0)
-    17:30  Tottenham Hotspur FC    v Brighton & Hove Albion FC  2-2 (1-1)
-    20:00  Chelsea FC              v Manchester United FC     0-1 (0-1)
-  Sun Apr 19
-    14:00  Nottingham Forest FC    v Burnley FC               4-1 (0-1)
-           Aston Villa FC          v Sunderland AFC           4-3 (2-1)
-           Everton FC              v Liverpool FC             1-2 (0-1)
-    16:30  Manchester City FC      v Arsenal FC               2-1 (1-1)
-  Mon Apr 20
-    20:00  Crystal Palace FC       v West Ham United FC       0-0
-
-
-▪ Matchday 34
-  Tue Apr 21
-    20:00  Brighton & Hove Albion FC v Chelsea FC               3-0 (1-0)
-  Wed Apr 22
-    20:00  AFC Bournemouth         v Leeds United FC          2-2 (0-0)
-           Burnley FC              v Manchester City FC       0-1 (0-1)
-  Fri Apr 24
-    20:00  Sunderland AFC          v Nottingham Forest FC     0-5 (0-4)
-  Sat Apr 25
-    12:30  Fulham FC               v Aston Villa FC           1-0 (1-0)
-    15:00  Liverpool FC            v Crystal Palace FC        3-1 (2-0)
-           West Ham United FC      v Everton FC               2-1 (0-0)
-           Wolverhampton Wanderers FC v Tottenham Hotspur FC     0-1 (0-0)
-    17:30  Arsenal FC              v Newcastle United FC      1-0 (1-0)
-  Mon Apr 27
-    20:00  Manchester United FC    v Brentford FC             2-1 (2-0)
-
-
-▪ Matchday 35
-  Fri May 1
-    20:00  Leeds United FC         v Burnley FC               3-1 (1-0)
-  Sat May 2
-    15:00  Brentford FC            v West Ham United FC       3-0 (1-0)
-           Newcastle United FC     v Brighton & Hove Albion FC  3-1 (2-0)
-           Wolverhampton Wanderers FC v Sunderland AFC           1-1 (0-1)
-    17:30  Arsenal FC              v Fulham FC                3-0 (3-0)
-  Sun May 3
-    14:00  AFC Bournemouth         v Crystal Palace FC        3-0 (2-0)
-    15:30  Manchester United FC    v Liverpool FC             3-2 (2-0)
-    19:00  Aston Villa FC          v Tottenham Hotspur FC     1-2 (0-2)
-  Mon May 4
-    15:00  Chelsea FC              v Nottingham Forest FC     1-3 (0-2)
-    20:00  Everton FC              v Manchester City FC       3-3 (0-1)
-
-
-▪ Matchday 36
-  Sat May 9
-    12:30  Liverpool FC            v Chelsea FC               1-1 (1-1)
-    15:00  Sunderland AFC          v Manchester United FC     0-0
-           Brighton & Hove Albion FC v Wolverhampton Wanderers FC  3-0 (2-0)
-           Fulham FC               v AFC Bournemouth          0-1 (0-0)
-    17:30  Manchester City FC      v Brentford FC             3-0 (0-0)
-  Sun May 10
-    14:00  Crystal Palace FC       v Everton FC               2-2 (1-1)
-           Burnley FC              v Aston Villa FC           2-2 (1-1)
-           Nottingham Forest FC    v Newcastle United FC      1-1 (0-0)
-    16:30  West Ham United FC      v Arsenal FC               0-1 (0-0)
-  Mon May 11
-    20:00  Tottenham Hotspur FC    v Leeds United FC          1-1 (0-0)
-
-
-▪ Matchday 31
-  Wed May 13
-    20:00  Manchester City FC      v Crystal Palace FC        3-0 (2-0)
-
-
-▪ Matchday 37
-  Fri May 15
-    20:00  Aston Villa FC          v Liverpool FC             4-2 (1-0)
-  Sun May 17
-    12:30  Manchester United FC    v Nottingham Forest FC     3-2 (1-0)
-    15:00  Brentford FC            v Crystal Palace FC        2-2 (1-1)
-           Everton FC              v Sunderland AFC           1-3 (1-0)
-           Leeds United FC         v Brighton & Hove Albion FC  1-0 (0-0)
-           Wolverhampton Wanderers FC v Fulham FC                1-1 (1-1)
-    17:30  Newcastle United FC     v West Ham United FC       3-1 (2-0)
-  Mon May 18
-    20:00  Arsenal FC              v Burnley FC               1-0 (1-0)
-  Tue May 19
-    19:30  AFC Bournemouth         v Manchester City FC       1-1 (1-0)
-    20:15  Chelsea FC              v Tottenham Hotspur FC     2-1 (1-0)
-
-
-▪ Matchday 38
-  Sun May 24
-    16:00  Sunderland AFC          v Chelsea FC               2-1 (1-0)
-           Brighton & Hove Albion FC v Manchester United FC     0-3 (0-2)
-           Crystal Palace FC       v Arsenal FC               1-2 (0-1)
-           Burnley FC              v Wolverhampton Wanderers FC  1-1 (0-1)
-           Fulham FC               v Newcastle United FC      2-0 (1-0)
-           Liverpool FC            v Brentford FC             1-1 (0-0)
-           Manchester City FC      v Aston Villa FC           1-2 (1-0)
-           Nottingham Forest FC    v AFC Bournemouth          1-1 (1-0)
-           Tottenham Hotspur FC    v Everton FC               1-0 (1-0)
-           West Ham United FC      v Leeds United FC          3-0 (0-0)
+= England | Premier League 2025/26
+
+# Dates    Fri Aug 15 2025 - Sun May 24 2026 (282d)
+# Teams    20
+# Matches  380
+
+
+▪ Regular Season - 1
+Fri Aug 15 2025
+  19:00   Liverpool  4-2 (1-0)  Bournemouth   
+                  (Hugo EKITIKE 37', Cody GAKPO 49', Federico Chiesa 88', MOHAMED SALAH 90+4';
+                   Antoine SEMENYO 64', 76')
+Sat Aug 16
+  12:30   Aston Villa  0-0 (0-0)  Newcastle United   
+  14:00   Sunderland  3-0 (0-0)  West Ham United   
+                  (Eliezer Mayenda 61', Daniel BALLARD 73', Wilson Isidor 90+2')
+  15:00   Brighton & Hove Albion  1-1 (0-0)  Fulham   
+                  (Matt ORILEY 55'(p); RODRIGO MUNIZ 90+7')
+  15:00   Tottenham Hotspur  3-0 (1-0)  Burnley   
+                  (RICHARLISON 10', 60', Brennan JOHNSON 66')
+  17:30   Wolverhampton Wanderers  0-4 (0-2)  Manchester City   
+                  (Erling HAALAND 34', 61', Tijjani REIJNDERS 37', Rayan CHERKI 81')
+Sun Aug 17
+  14:00   Chelsea FC  0-0 (0-0)  Crystal Palace   
+  14:00   Nottingham Forest  3-1 (3-0)  Brentford   
+                  (Chris WOOD 5', 45+2', Dan NDOYE 42';
+                   IGOR THIAGO 78'(p))
+  16:30   Manchester United  0-1 (0-1)  Arsenal   
+                  (Riccardo Calafiori 13')
+Mon Aug 18
+  20:00   Leeds United  1-0 (0-0)  Everton   
+                  (Lukas NMECHA 84'(p))
+
+▪ Regular Season - 2
+Fri Aug 22
+  20:00   West Ham United  1-5 (1-3)  Chelsea FC   
+                  (LUCAS PAQUETA 6';
+                   JOAO PEDRO 15', PEDRO NETO 23', Enzo FERNANDEZ 34', Moises CAICEDO 54', Trevoh CHALOBAH 58')
+Sat Aug 23
+  12:30   Manchester City  0-2 (0-2)  Tottenham Hotspur   
+                  (Brennan JOHNSON 35', JOAO PALHINHA 45+2')
+  15:00   Burnley  2-0 (0-0)  Sunderland   
+                  (Joshua CULLEN 47', Jaidon Anthony 88')
+  15:00   Brentford  1-0 (1-0)  Aston Villa   
+                  (Dango OUATTARA 12')
+  15:00   Bournemouth  1-0 (1-0)  Wolverhampton Wanderers   
+                  (Marcus Tavernier 4')
+  17:30   Arsenal  5-0 (2-0)  Leeds United   
+                  (Jurrien TIMBER 34', 56', Bukayo SAKA 45+1', Viktor GYOKERES 48', 90+5'(p))
+Sun Aug 24
+  14:00   Crystal Palace  1-1 (1-0)  Nottingham Forest   
+                  (Ismaila SARR 37'; Callum HUDSON-ODOI 57')
+  13:00   Everton  2-0 (1-0)  Brighton & Hove Albion   
+                  (Iliman NDIAYE 23', James Garner 52')
+  16:30   Fulham  1-1 (0-0)  Manchester United   
+                  (Emile Smith Rowe 73'; RODRIGO MUNIZ 58'(og))
+Mon Aug 25
+  20:00   Newcastle United  2-3 (0-1)  Liverpool   
+                  (BRUNO GUIMARAES 57', William Osula 88';
+                   Ryan GRAVENBERCH 35', Hugo EKITIKE 46', Rio Ngumoha 90+10')
+
+▪ Regular Season - 3
+Sat Aug 30
+  12:30   Chelsea FC  2-0 (1-0)  Fulham   
+                  (JOAO PEDRO 45+9', Enzo FERNANDEZ 56'(p))
+  15:00   Tottenham Hotspur  0-1 (0-1)  Bournemouth   
+                  (Francisco Evanilson de Lima Barbosa 5')
+  14:00   Sunderland  2-1 (0-0)  Brentford   
+                  (Enzo LE FEE 82'(p), Wilson Isidor 90+6';
+                   IGOR THIAGO 77')
+  15:00   Manchester United  3-2 (1-0)  Burnley   
+                  (Joshua CULLEN 27'(og), Bryan MBEUMO 57', BRUNO FERNANDES 90+7'(p);
+                   Lyle FOSTER 55', Jaidon Anthony 66')
+  15:00   Wolverhampton Wanderers  2-3 (1-2)  Everton   
+                  (HWANG Heechan 21', Rodrigo Gomes 79';
+                   BETO 7', Iliman NDIAYE 33', Kiernan Dewsbury-Hall 55')
+  17:30   Leeds United  0-0 (0-0)  Newcastle United   
+Sun Aug 31
+  14:00   Brighton & Hove Albion  2-1 (0-1)  Manchester City   
+                  (James MILNER 67'(p), Brajan Gruda 89';
+                   Erling HAALAND 34')
+  14:00   Nottingham Forest  0-3 (0-0)  West Ham United   
+                  (Jarrod BOWEN 84', LUCAS PAQUETA 88'(p), Callum Wilson 90+1')
+  15:30   Liverpool  1-0 (0-0)  Arsenal   
+                  (Dominik Szoboszlai 83')
+  19:00   Aston Villa  0-3 (0-1)  Crystal Palace   
+                  (Jean-Philippe MATETA 21'(p), Marc GUEHI 68', Ismaila SARR 78')
+
+▪ Regular Season - 4
+Sat Sep 13
+  12:30   Arsenal  3-0 (1-0)  Nottingham Forest   
+                  (Martin ZUBIMENDI 32', 79', Viktor GYOKERES 46')
+  15:00   Newcastle United  1-0 (1-0)  Wolverhampton Wanderers   
+                  (Nick WOLTEMADE 29')
+  15:00   Bournemouth  2-1 (1-0)  Brighton & Hove Albion   
+                  (Alex Scott 18', Antoine SEMENYO 61'(p);
+                   Kaoru MITOMA 48')
+  15:00   Crystal Palace  0-0 (0-0)  Sunderland   
+  15:00   Fulham  1-0 (0-0)  Leeds United   
+                  (Gabriel GUDMUNDSSON 90+4'(og))
+  14:00   Everton  0-0 (0-0)  Aston Villa   
+  17:30   West Ham United  0-3 (0-0)  Tottenham Hotspur   
+                  (Pape Matar SARR 47', Lucas BERGVALL 57', Micky VAN DE VEN 64')
+  20:00   Brentford  2-2 (1-0)  Chelsea FC   
+                  (Kevin SCHADE 35', Fábio Carvalho 90+3';
+                   Cole PALMER 61', Moises CAICEDO 85')
+Sun Sep 14
+  14:00   Burnley  0-1 (0-0)  Liverpool   
+                  (MOHAMED SALAH 90+5'(p))
+  16:30   Manchester City  3-0 (1-0)  Manchester United   
+                  (Phil FODEN 18', Erling HAALAND 53', 68')
+
+▪ Regular Season - 5
+Sat Sep 20
+  11:30   Liverpool  2-1 (2-0)  Everton   
+                  (Ryan GRAVENBERCH 10', Hugo EKITIKE 29';
+                   Idrissa Gana GUEYE 58')
+  15:00   Burnley  1-1 (1-1)  Nottingham Forest   
+                  (Jaidon Anthony 20'; Neco WILLIAMS 2')
+  15:00   Brighton & Hove Albion  2-2 (2-1)  Tottenham Hotspur   
+                  (Yankuba MINTEH 8', Yasin AYARI 31';
+                   RICHARLISON 43', Jan Paul VAN HECKE 82'(og))
+  15:00   Wolverhampton Wanderers  1-3 (1-3)  Leeds United   
+                  (Ladislav KREJCI 8';
+                   Dominic Calvert-Lewin 31', Anton STACH 39', Noah OKAFOR 45')
+  15:00   West Ham United  1-2 (0-1)  Crystal Palace   
+                  (Jarrod BOWEN 49';
+                   Jean-Philippe MATETA 37', Tyrick Mitchell 68')
+  17:30   Manchester United  2-1 (2-0)  Chelsea FC   
+                  (BRUNO FERNANDES 14', CASEMIRO 37';
+                   Trevoh CHALOBAH 80')
+  20:00   Fulham  3-1 (2-1)  Brentford   
+                  (Alex IWOBI 38', Harry WILSON 40', Ethan PINNOCK 50'(og);
+                   Mikkel DAMSGAARD 20')
+Sun Sep 21
+  13:00   Sunderland  1-1 (0-0)  Aston Villa   
+                  (Wilson Isidor 75'; Matty CASH 67')
+  14:00   Bournemouth  0-0 (0-0)  Newcastle United   
+  16:30   Arsenal  1-1 (0-1)  Manchester City   
+                  (GABRIEL MARTINELLI 90+3'; Erling HAALAND 9')
+
+▪ Regular Season - 6
+Sat Sep 27
+  12:30   Brentford  3-1 (2-1)  Manchester United   
+                  (IGOR THIAGO 8', 20', Mathias JENSEN 90+5';
+                   Benjamin SESKO 26')
+  15:00   Crystal Palace  2-1 (1-0)  Liverpool   
+                  (Ismaila SARR 9', Eddie Nketiah 90+7';
+                   Federico Chiesa 87')
+  15:00   Chelsea FC  1-3 (1-0)  Brighton & Hove Albion   
+                  (Enzo FERNANDEZ 24';
+                   Danny WELBECK 77', 90+10', Maxim DE CUYPER 90+2')
+  15:00   Manchester City  5-1 (1-1)  Burnley   
+                  (Maxime ESTEVE 12'(og), 65'(og), MATHEUS NUNES 61', Erling HAALAND 90', 90+3';
+                   Jaidon Anthony 38')
+  15:00   Leeds United  2-2 (1-1)  Bournemouth   
+                  (Joe RODON 37', Sean Longstaff 54';
+                   Antoine SEMENYO 26', Eli Junior KROUPI 90+3')
+  17:30   Nottingham Forest  0-1 (0-1)  Sunderland   
+                  (Omar ALDERETE 38')
+  20:00   Tottenham Hotspur  1-1 (0-0)  Wolverhampton Wanderers   
+                  (JOAO PALHINHA 90+4'; Santiago BUENO 54')
+Sun Sep 28
+  14:00   Aston Villa  3-1 (1-1)  Fulham   
+                  (Ollie WATKINS 37', John McGinn 49', Emiliano BUENDIA 51';
+                   Raul JIMENEZ 3')
+  16:30   Newcastle United  1-2 (1-0)  Arsenal   
+                  (Nick WOLTEMADE 34';
+                   Mikel MERINO 84', GABRIEL MAGALHAES 90+6')
+Mon Sep 29
+  19:00   Everton  1-1 (1-0)  West Ham United   
+                  (Michael Keane 18'; Jarrod BOWEN 65')
+
+▪ Regular Season - 7
+Fri Oct 3
+  20:00   Bournemouth  3-1 (0-0)  Fulham   
+                  (Antoine SEMENYO 78', 90+6', Justin KLUIVERT 84';
+                   Kouassi Ryan Sessegnon 70')
+Sat Oct 4
+  12:30   Leeds United  1-2 (1-1)  Tottenham Hotspur   
+                  (Noah OKAFOR 34';
+                   Mathys TEL 23', Mohammed KUDUS 57')
+  15:00   Manchester United  2-0 (2-0)  Sunderland   
+                  (Mason MOUNT 8', Benjamin SESKO 31')
+  15:00   Arsenal  2-0 (1-0)  West Ham United   
+                  (Declan RICE 38', Bukayo SAKA 67'(p))
+  17:30   Chelsea FC  2-1 (1-0)  Liverpool   
+                  (Moises CAICEDO 14', ESTEVAO 90+5';
+                   Cody GAKPO 63')
+Sun Oct 5
+  14:00   Newcastle United  2-0 (0-0)  Nottingham Forest   
+                  (BRUNO GUIMARAES 58', Nick WOLTEMADE 84'(p))
+  14:00   Aston Villa  2-1 (1-0)  Burnley   
+                  (Donyell Malen 25', 63';
+                   Lesley UGOCHUKWU 78')
+  14:00   Wolverhampton Wanderers  1-1 (1-0)  Brighton & Hove Albion   
+                  (Bart Verbruggen 21'(og); Jan Paul VAN HECKE 86')
+  13:00   Everton  2-1 (0-1)  Crystal Palace   
+                  (Iliman NDIAYE 76'(p), Jack GREALISH 90+3';
+                   Daniel MUNOZ 37')
+  16:30   Brentford  0-1 (0-1)  Manchester City   
+                  (Erling HAALAND 9')
+
+▪ Regular Season - 8
+Sat Oct 18
+  12:30   Nottingham Forest  0-3 (0-0)  Chelsea FC   
+                  (Josh Acheampong 49', PEDRO NETO 52', Reece JAMES 84')
+  14:00   Sunderland  2-0 (1-0)  Wolverhampton Wanderers   
+                  (Nordi MUKIELE 16', Ladislav KREJCI 90+2'(og))
+  15:00   Brighton & Hove Albion  2-1 (1-0)  Newcastle United   
+                  (Danny WELBECK 41', 84';
+                   Nick WOLTEMADE 76')
+  15:00   Manchester City  2-0 (0-0)  Everton   
+                  (Erling HAALAND 58', 63')
+  15:00   Crystal Palace  3-3 (0-2)  Bournemouth   
+                  (Jean-Philippe MATETA 64', 69', 90+7'(p);
+                   Eli Junior KROUPI 7', 38', Ryan Christie 89')
+  15:00   Burnley  2-0 (1-0)  Leeds United   
+                  (Lesley UGOCHUKWU 18', Loum TCHAOUNA 68')
+  17:30   Fulham  0-1 (0-0)  Arsenal   
+                  (Leandro TROSSARD 58')
+Sun Oct 19
+  14:00   Tottenham Hotspur  1-2 (1-1)  Aston Villa   
+                  (Rodrigo BENTANCUR 5';
+                   Morgan ROGERS 37', Emiliano BUENDIA 77')
+  15:30   Liverpool  1-2 (0-1)  Manchester United   
+                  (Cody GAKPO 78';
+                   Bryan MBEUMO 2', Harry MAGUIRE 84')
+Mon Oct 20
+  20:00   West Ham United  0-2 (0-1)  Brentford   
+                  (IGOR THIAGO 43', Mathias JENSEN 90+4')
+
+▪ Regular Season - 9
+Fri Oct 24
+  20:00   Leeds United  2-1 (2-0)  West Ham United   
+                  (Brenden AARONSON 3', Joe RODON 15';
+                   Mateus Fernandes 90')
+Sat Oct 25
+  15:00   Chelsea FC  1-2 (1-1)  Sunderland   
+                  (Alejandro GARNACHO 4';
+                   Wilson Isidor 22', Chemsdine TALBI 90+3')
+  15:00   Newcastle United  2-1 (1-0)  Fulham   
+                  (Jacob Murphy 18', BRUNO GUIMARAES 90';
+                   Sasa LUKIC 56')
+  17:30   Manchester United  4-2 (2-0)  Brighton & Hove Albion   
+                  (MATHEUS CUNHA 24', CASEMIRO 34', Bryan MBEUMO 61', 90+6';
+                   Danny WELBECK 74', Charalampos Kostoulas 90+2')
+  20:00   Brentford  3-2 (2-1)  Liverpool   
+                  (Dango OUATTARA 5', Kevin SCHADE 45', IGOR THIAGO 60'(p);
+                   Milos KERKEZ 45+5', MOHAMED SALAH 89')
+Sun Oct 26
+  14:00   Aston Villa  1-0 (1-0)  Manchester City   
+                  (Matty CASH 19')
+  14:00   Arsenal  1-0 (1-0)  Crystal Palace   
+                  (Eberechi EZE 39')
+  14:00   Wolverhampton Wanderers  2-3 (2-2)  Burnley   
+                  (Jorgen STRAND LARSEN 42'(p), Marshall MUNETSI 45+4';
+                   Zian Flemming 14', 30', Lyle FOSTER 90+5')
+  14:00   Bournemouth  2-0 (2-0)  Nottingham Forest   
+                  (Marcus Tavernier 25', Eli Junior KROUPI 40')
+  16:30   Everton  0-3 (0-2)  Tottenham Hotspur   
+                  (Micky VAN DE VEN 19', 45+6', Pape Matar SARR 89')
+
+▪ Regular Season - 10
+Sat Nov 1
+  15:00   Fulham  3-0 (1-0)  Wolverhampton Wanderers   
+                  (Kouassi Ryan Sessegnon 9', Harry WILSON 62', Yerson MOSQUERA 75'(og))
+  15:00   Crystal Palace  2-0 (1-0)  Brentford   
+                  (Jean-Philippe MATETA 30', Nathan COLLINS 51'(og))
+  15:00   Nottingham Forest  2-2 (0-1)  Manchester United   
+                  (Morgan GIBBS WHITE 48', Nicolo SAVONA 50';
+                   CASEMIRO 34', Amad DIALLO 81')
+  15:00   Burnley  0-2 (0-2)  Arsenal   
+                  (Viktor GYOKERES 14', Declan RICE 35')
+  15:00   Brighton & Hove Albion  3-0 (1-0)  Leeds United   
+                  (Danny WELBECK 11', Diego GOMEZ 64', 70')
+  17:30   Tottenham Hotspur  0-1 (0-1)  Chelsea FC   
+                  (JOAO PEDRO 34')
+  20:00   Liverpool  2-0 (1-0)  Aston Villa   
+                  (MOHAMED SALAH 45+1', Ryan GRAVENBERCH 58')
+Sun Nov 2
+  14:00   West Ham United  3-1 (2-1)  Newcastle United   
+                  (LUCAS PAQUETA 35', Sven Botman 45+5'(og), Tomas SOUCEK 90+7';
+                   Jacob Murphy 4')
+  16:30   Manchester City  3-1 (2-1)  Bournemouth   
+                  (Erling HAALAND 17', 33', Nico OREILLY 60';
+                   Tyler ADAMS 25')
+Mon Nov 3
+  20:00   Sunderland  1-1 (0-1)  Everton   
+                  (Granit XHAKA 46'; Iliman NDIAYE 15')
+
+▪ Regular Season - 11
+Sat Nov 8
+  12:30   Tottenham Hotspur  2-2 (0-1)  Manchester United   
+                  (Mathys TEL 84', RICHARLISON 90+1';
+                   Bryan MBEUMO 32', Matthijs DE LIGT 90+6')
+  15:00   Everton  2-0 (1-0)  Fulham   
+                  (Idrissa Gana GUEYE 45+4', Michael Keane 81')
+  15:00   West Ham United  3-2 (1-1)  Burnley   
+                  (Callum Wilson 44', Tomas SOUCEK 77', Kyle Walker-Peters 87';
+                   Zian Flemming 35', Joshua CULLEN 90+7')
+  17:30   Sunderland  2-2 (1-0)  Arsenal   
+                  (Daniel BALLARD 36', Brian BROBBEY 90+4';
+                   Bukayo SAKA 54', Leandro TROSSARD 74')
+  20:00   Chelsea FC  3-0 (0-0)  Wolverhampton Wanderers   
+                  (Malo GUSTO 51', JOAO PEDRO 65', PEDRO NETO 73')
+Sun Nov 9
+  14:00   Nottingham Forest  3-1 (1-1)  Leeds United   
+                  (Ibrahim SANGARE 15', Morgan GIBBS WHITE 68', Elliot ANDERSON 90+1'(p);
+                   Lukas NMECHA 13')
+  14:00   Aston Villa  4-0 (2-0)  Bournemouth   
+                  (Emiliano BUENDIA 28', Amadou ONANA 40', Ross Barkley 77', Donyell Malen 82')
+  14:00   Brentford  3-1 (0-1)  Newcastle United   
+                  (Kevin SCHADE 56', IGOR THIAGO 78'(p), 90+5';
+                   Harvey Barnes 27')
+  14:00   Crystal Palace  0-0 (0-0)  Brighton & Hove Albion   
+  16:30   Manchester City  3-0 (2-0)  Liverpool   
+                  (Erling HAALAND 29', Nico GONZALEZ 45+3', Jeremy DOKU 63')
+
+▪ Regular Season - 12
+Sat Nov 22
+  12:30   Burnley  0-2 (0-1)  Chelsea FC   
+                  (PEDRO NETO 37', Enzo FERNANDEZ 88')
+  15:00   Liverpool  0-3 (0-1)  Nottingham Forest   
+                  (MURILLO 33', Nicolo SAVONA 46', Morgan GIBBS WHITE 78')
+  15:00   Wolverhampton Wanderers  0-2 (0-0)  Crystal Palace   
+                  (Daniel MUNOZ 63', Yeremy PINO 69')
+  15:00   Fulham  1-0 (0-0)  Sunderland   
+                  (Raul JIMENEZ 84')
+  15:00   Bournemouth  2-2 (0-2)  West Ham United   
+                  (Marcus Tavernier 69'(p), Enes UNAL 81';
+                   Callum Wilson 11', 35')
+  15:00   Brighton & Hove Albion  2-1 (0-1)  Brentford   
+                  (Danny WELBECK 71', Jack Hinshelwood 84';
+                   IGOR THIAGO 29'(p))
+  17:30   Newcastle United  2-1 (0-0)  Manchester City   
+                  (Harvey Barnes 63', 70';
+                   RUBEN DIAS 68')
+Sun Nov 23
+  14:00   Leeds United  1-2 (1-0)  Aston Villa   
+                  (Lukas NMECHA 8';
+                   Morgan ROGERS 48', 75')
+  16:30   Arsenal  4-1 (2-0)  Tottenham Hotspur   
+                  (Leandro TROSSARD 36', Eberechi EZE 41', 46', 76';
+                   RICHARLISON 55')
+Mon Nov 24
+  20:00   Manchester United  0-1 (0-1)  Everton   
+                  (Kiernan Dewsbury-Hall 29')
+
+▪ Regular Season - 13
+Sat Nov 29
+  15:00   Sunderland  3-2 (1-2)  Bournemouth   
+                  (Enzo LE FEE 30'(p), Bertrand TRAORE 46', Brian BROBBEY 69';
+                   Amine Adli 7', Tyler ADAMS 15')
+  15:00   Manchester City  3-2 (2-0)  Leeds United   
+                  (Phil FODEN 1', 90+1', Josko GVARDIOL 25';
+                   Dominic Calvert-Lewin 49', Lukas NMECHA 68')
+  15:00   Brentford  3-1 (0-0)  Burnley   
+                  (IGOR THIAGO 81'(p), 86', Dango OUATTARA 90+2';
+                   Zian Flemming 85'(p))
+  17:30   Everton  1-4 (0-3)  Newcastle United   
+                  (Kiernan Dewsbury-Hall 69';
+                   Malick THIAW 1', 58', Lewis Miley 25', Nick WOLTEMADE 45')
+  20:00   Tottenham Hotspur  1-2 (0-2)  Fulham   
+                  (Mohammed KUDUS 59';
+                   Kenny TETE 4', Harry WILSON 6')
+Sun Nov 30
+  12:00   Crystal Palace  1-2 (1-0)  Manchester United   
+                  (Jean-Philippe MATETA 36'(p);
+                   Joshua ZIRKZEE 54', Mason MOUNT 63')
+  14:05   West Ham United  0-2 (0-0)  Liverpool   
+                  (Alexander Isak 60', Cody GAKPO 90+2')
+  14:05   Aston Villa  1-0 (0-0)  Wolverhampton Wanderers   
+                  (Boubacar KAMARA 67')
+  14:05   Nottingham Forest  0-2 (0-1)  Brighton & Hove Albion   
+                  (Maxim DE CUYPER 45+1', Stefanos Tzimas 88')
+  16:30   Chelsea FC  1-1 (0-0)  Arsenal   
+                  (Trevoh CHALOBAH 48'; Mikel MERINO 59')
+
+▪ Regular Season - 14
+Tue Dec 2
+  19:30   Bournemouth  0-1 (0-0)  Everton   
+                  (Jack GREALISH 78')
+  19:30   Fulham  4-5 (1-3)  Manchester City   
+                  (Emile Smith Rowe 45+2', Alex IWOBI 57', Samuel CHUKWUEZE 72', 78';
+                   Erling HAALAND 17', Tijjani REIJNDERS 37', Phil FODEN 44', 48', Sander BERGE 54'(og))
+  20:15   Newcastle United  2-2 (0-0)  Tottenham Hotspur   
+                  (BRUNO GUIMARAES 71', Anthony GORDON 86'(p);
+                   Cristian ROMERO 78', 90+5')
+Wed Dec 3
+  19:30   Wolverhampton Wanderers  0-1 (0-0)  Nottingham Forest   
+                  (IGOR JESUS 72')
+  19:30   Arsenal  2-0 (1-0)  Brentford   
+                  (Mikel MERINO 11', Bukayo SAKA 90+1')
+  19:30   Brighton & Hove Albion  3-4 (2-2)  Aston Villa   
+                  (Jan Paul VAN HECKE 9', 83', Pau TORRES 29'(og);
+                   Ollie WATKINS 37', 45+7', Amadou ONANA 60', Donyell Malen 78')
+  19:30   Burnley  0-1 (0-1)  Crystal Palace   
+                  (Daniel MUNOZ 44')
+  20:15   Leeds United  3-1 (2-0)  Chelsea FC   
+                  (Jaka Bijol 6', Ao TANAKA 43', Dominic Calvert-Lewin 72';
+                   PEDRO NETO 50')
+  20:15   Liverpool  1-1 (0-0)  Sunderland   
+                  (Nordi MUKIELE 81'(og); Chemsdine TALBI 67')
+Thu Dec 4
+  20:00   Manchester United  1-1 (0-0)  West Ham United   
+                  (DIOGO DALOT 58'; Soungoutou MAGASSA 83')
+
+▪ Regular Season - 15
+Sat Dec 6
+  12:30   Aston Villa  2-1 (1-0)  Arsenal   
+                  (Matty CASH 36', Emiliano BUENDIA 90+5';
+                   Leandro TROSSARD 52')
+  15:00   Bournemouth  0-0 (0-0)  Chelsea FC   
+  15:00   Manchester City  3-0 (2-0)  Sunderland   
+                  (RUBEN DIAS 31', Josko GVARDIOL 35', Phil FODEN 65')
+  15:00   Everton  3-0 (2-0)  Nottingham Forest   
+                  (Nikola MILENKOVIC 2'(og), Thierno Barry 45+3', Kiernan Dewsbury-Hall 80')
+  15:00   Tottenham Hotspur  2-0 (2-0)  Brentford   
+                  (RICHARLISON 25', Xavi SIMONS 43')
+  15:00   Newcastle United  2-1 (2-0)  Burnley   
+                  (BRUNO GUIMARAES 31', Anthony GORDON 45+8'(p);
+                   Zian Flemming 90+4'(p))
+  17:30   Leeds United  3-3 (0-0)  Liverpool   
+                  (Dominic Calvert-Lewin 73'(p), Anton STACH 75', Ao TANAKA 90+6';
+                   Hugo EKITIKE 48', 50', Dominik Szoboszlai 80')
+Sun Dec 7
+  14:00   Brighton & Hove Albion  1-1 (0-0)  West Ham United   
+                  (Georginio Rutter 90+1'; Jarrod BOWEN 73')
+  16:30   Fulham  1-2 (1-1)  Crystal Palace   
+                  (Harry WILSON 38';
+                   Eddie Nketiah 20', Marc GUEHI 87')
+Mon Dec 8
+  20:00   Wolverhampton Wanderers  1-4 (1-1)  Manchester United   
+                  (Jean-Ricner Bellegarde 45+2';
+                   BRUNO FERNANDES 25', 82'(p), Bryan MBEUMO 51', Mason MOUNT 62')
+
+▪ Regular Season - 16
+Sat Dec 13
+  15:00   Chelsea FC  2-0 (2-0)  Everton   
+                  (Cole PALMER 21', Malo GUSTO 45')
+  15:00   Liverpool  2-0 (1-0)  Brighton & Hove Albion   
+                  (Hugo EKITIKE 1', 60')
+  17:30   Burnley  2-3 (1-2)  Fulham   
+                  (Lesley UGOCHUKWU 21', Oliver SONNE 86';
+                   Emile Smith Rowe 9', Calvin BASSEY 31', Harry WILSON 58')
+  20:00   Arsenal  2-1 (0-0)  Wolverhampton Wanderers   
+                  (Sam Johnstone 70'(og), Yerson MOSQUERA 90+4'(og);
+                   Tolu AROKODARE 90')
+Sun Dec 14
+  14:00   Nottingham Forest  3-0 (1-0)  Tottenham Hotspur   
+                  (Callum HUDSON-ODOI 28', 50', Ibrahim SANGARE 79')
+  14:00   Sunderland  1-0 (0-0)  Newcastle United   
+                  (Nick WOLTEMADE 46'(og))
+  14:00   Crystal Palace  0-3 (0-1)  Manchester City   
+                  (Erling HAALAND 41', 89'(p), Phil FODEN 69')
+  14:00   West Ham United  2-3 (2-1)  Aston Villa   
+                  (Mateus Fernandes 1', Jarrod BOWEN 24';
+                   Konstantinos Mavropanos 9'(og), Morgan ROGERS 50', 79')
+  16:30   Brentford  1-1 (0-0)  Leeds United   
+                  (Jordan HENDERSON 70'; Dominic Calvert-Lewin 82')
+Mon Dec 15
+  20:00   Manchester United  4-4 (2-1)  Bournemouth   
+                  (Amad DIALLO 13', CASEMIRO 45+4', BRUNO FERNANDES 77', MATHEUS CUNHA 79';
+                   Antoine SEMENYO 40', Francisco Evanilson de Lima Barbosa 46', Marcus Tavernier 52', Eli Junior KROUPI 84')
+
+▪ Regular Season - 17
+Sat Dec 20
+  12:30   Newcastle United  2-2 (2-0)  Chelsea FC   
+                  (Nick WOLTEMADE 4', 20';
+                   Reece JAMES 49', JOAO PEDRO 66')
+  15:00   Bournemouth  1-1 (0-0)  Burnley   
+                  (Antoine SEMENYO 67'; Armando Broja 90')
+  15:00   Wolverhampton Wanderers  0-2 (0-0)  Brentford   
+                  (Keane Lewis-Potter 63', 83')
+  15:00   Brighton & Hove Albion  0-0 (0-0)  Sunderland   
+  15:00   Manchester City  3-0 (2-0)  West Ham United   
+                  (Erling HAALAND 5', 69', Tijjani REIJNDERS 38')
+  17:30   Tottenham Hotspur  1-2 (0-0)  Liverpool   
+                  (RICHARLISON 83';
+                   Alexander Isak 56', Hugo EKITIKE 66')
+  20:00   Leeds United  4-1 (2-0)  Crystal Palace   
+                  (Dominic Calvert-Lewin 38', 45+4', Ethan AMPADU 60', Anton STACH 90+11';
+                   Justin DEVENNY 90+2'(p))
+  20:00   Everton  0-1 (0-1)  Arsenal   
+                  (Viktor GYOKERES 27'(p))
+Sun Dec 21
+  16:30   Aston Villa  2-1 (1-1)  Manchester United   
+                  (Morgan ROGERS 45', 57';
+                   MATHEUS CUNHA 45+3')
+Mon Dec 22
+  20:00   Fulham  1-0 (1-0)  Nottingham Forest   
+                  (Raul JIMENEZ 45+5'(p))
+
+▪ Regular Season - 18
+Fri Dec 26
+  20:00   Manchester United  1-0 (1-0)  Newcastle United   
+                  (Patrick DORGU 24')
+Sat Dec 27
+  12:30   Nottingham Forest  1-2 (0-0)  Manchester City   
+                  (Omari HUTCHINSON 54';
+                   Tijjani REIJNDERS 48', Rayan CHERKI 83')
+  15:00   West Ham United  0-1 (0-0)  Fulham   
+                  (Raul JIMENEZ 85')
+  15:00   Brentford  4-1 (2-0)  Bournemouth   
+                  (Kevin SCHADE 7', 51', 90+6', Djordje PETROVIC 39'(og);
+                   Antoine SEMENYO 75')
+  15:00   Arsenal  2-1 (1-0)  Brighton & Hove Albion   
+                  (Martin ODEGAARD 14', Georginio Rutter 52'(og);
+                   Diego GOMEZ 64')
+  15:00   Liverpool  2-1 (2-0)  Wolverhampton Wanderers   
+                  (Ryan GRAVENBERCH 41', Florian WIRTZ 42';
+                   Santiago BUENO 51')
+  15:00   Burnley  0-0 (0-0)  Everton   
+  17:30   Chelsea FC  1-2 (1-0)  Aston Villa   
+                  (JOAO PEDRO 37';
+                   Ollie WATKINS 63', 84')
+Sun Dec 28
+  14:00   Sunderland  1-1 (1-0)  Leeds United   
+                  (Simon ADINGRA 28'; Dominic Calvert-Lewin 47')
+  16:30   Crystal Palace  0-1 (0-1)  Tottenham Hotspur   
+                  (Archie Gray 42')
+
+▪ Regular Season - 19
+Tue Dec 30
+  19:30   Burnley  1-3 (1-2)  Newcastle United   
+                  (Josh Laurent 23';
+                   JOELINTON 2', Yoane WISSA 7', BRUNO GUIMARAES 90+3')
+  19:30   West Ham United  2-2 (2-1)  Brighton & Hove Albion   
+                  (Jarrod BOWEN 10', LUCAS PAQUETA 45+4'(p);
+                   Danny WELBECK 32'(p), Joel VELTMAN 61')
+  19:30   Nottingham Forest  0-2 (0-1)  Everton   
+                  (James Garner 19', Thierno Barry 79')
+  19:30   Chelsea FC  2-2 (2-2)  Bournemouth   
+                  (Cole PALMER 15'(p), Enzo FERNANDEZ 23';
+                   David BROOKS 6', Justin KLUIVERT 27')
+  20:15   Manchester United  1-1 (1-1)  Wolverhampton Wanderers   
+                  (Joshua ZIRKZEE 27'; Ladislav KREJCI 45')
+  20:15   Arsenal  4-1 (0-0)  Aston Villa   
+                  (GABRIEL MAGALHAES 48', Martin ZUBIMENDI 52', Leandro TROSSARD 69', GABRIEL JESUS 78';
+                   Ollie WATKINS 90+4')
+Thu Jan 1 2026
+  17:30   Liverpool  0-0 (0-0)  Leeds United   
+  17:30   Crystal Palace  1-1 (1-0)  Fulham   
+                  (Jean-Philippe MATETA 39'; Thomas CAIRNEY 80')
+  20:00   Sunderland  0-0 (0-0)  Manchester City   
+  20:00   Brentford  0-0 (0-0)  Tottenham Hotspur   
+
+▪ Regular Season - 20
+Sat Jan 3
+  12:30   Aston Villa  3-1 (1-0)  Nottingham Forest   
+                  (Ollie WATKINS 45+1', John McGinn 49', 73';
+                   Morgan GIBBS WHITE 61')
+  15:00   Wolverhampton Wanderers  3-0 (3-0)  West Ham United   
+                  (Jhon ARIAS 4', HWANG Heechan 31'(p), Mateus Mané 41')
+  15:00   Brighton & Hove Albion  2-0 (1-0)  Burnley   
+                  (Georginio Rutter 29', Yasin AYARI 47')
+  17:30   Bournemouth  2-3 (1-1)  Arsenal   
+                  (Francisco Evanilson de Lima Barbosa 10', Eli Junior KROUPI 76';
+                   GABRIEL MAGALHAES 16', Declan RICE 54', 71')
+Sun Jan 4
+  12:30   Leeds United  1-1 (0-0)  Manchester United   
+                  (Brenden AARONSON 62'; MATHEUS CUNHA 65')
+  15:00   Tottenham Hotspur  1-1 (1-0)  Sunderland   
+                  (Ben DAVIES 30'; Brian BROBBEY 80')
+  15:00   Newcastle United  2-0 (0-0)  Crystal Palace   
+                  (BRUNO GUIMARAES 71', Malick THIAW 78')
+  15:00   Everton  2-4 (0-1)  Brentford   
+                  (BETO 66', Thierno Barry 90+1';
+                   IGOR THIAGO 11', 51', 88', Nathan COLLINS 50')
+  15:15   Fulham  2-2 (1-0)  Liverpool   
+                  (Harry WILSON 17', Harrison Reed 90+7';
+                   Florian WIRTZ 57', Cody GAKPO 90+4')
+  17:30   Manchester City  1-1 (1-0)  Chelsea FC   
+                  (Tijjani REIJNDERS 42'; Enzo FERNANDEZ 90+4')
+
+▪ Regular Season - 21
+Tue Jan 6
+  20:00   West Ham United  1-2 (1-0)  Nottingham Forest   
+                  (MURILLO 13'(og);
+                   Nicolas DOMINGUEZ 55', Morgan GIBBS WHITE 89'(p))
+Wed Jan 7
+  19:30   Fulham  2-1 (0-0)  Chelsea FC   
+                  (Raul JIMENEZ 55', Harry WILSON 81';
+                   Liam Delap 72')
+  19:30   Brentford  3-0 (1-0)  Sunderland   
+                  (IGOR THIAGO 30', 65', Yehor YARMOLIUK 73')
+  19:30   Bournemouth  3-2 (2-1)  Tottenham Hotspur   
+                  (Francisco Evanilson de Lima Barbosa 22', Eli Junior KROUPI 36', Antoine SEMENYO 90+5';
+                   Mathys TEL 5', JOAO PALHINHA 78')
+  19:30   Manchester City  1-1 (1-0)  Brighton & Hove Albion   
+                  (Erling HAALAND 41'(p); Kaoru MITOMA 60')
+  19:30   Everton  1-1 (1-0)  Wolverhampton Wanderers   
+                  (Michael Keane 17'; Mateus Mané 69')
+  19:30   Crystal Palace  0-0 (0-0)  Aston Villa   
+  20:15   Burnley  2-2 (1-0)  Manchester United   
+                  (Ayden Heaven 13'(og), Jaidon Anthony 66';
+                   Benjamin SESKO 50', 60')
+  20:15   Newcastle United  4-3 (1-2)  Leeds United   
+                  (Harvey Barnes 36', 90+12', JOELINTON 54', BRUNO GUIMARAES 90+1'(p);
+                   Brenden AARONSON 32', 79', Dominic Calvert-Lewin 45+5'(p))
+Thu Jan 8
+  20:00   Arsenal  0-0 (0-0)  Liverpool   
+
+▪ Regular Season - 22
+Sat Jan 17
+  12:30   Manchester United  2-0 (0-0)  Manchester City   
+                  (Bryan MBEUMO 65', Patrick DORGU 76')
+  15:00   Tottenham Hotspur  1-2 (0-1)  West Ham United   
+                  (Cristian ROMERO 64';
+                   Crysencio SUMMERVILLE 15', Callum Wilson 90+3')
+  15:00   Leeds United  1-0 (0-0)  Fulham   
+                  (Lukas NMECHA 90+1')
+  15:00   Chelsea FC  2-0 (1-0)  Brentford   
+                  (JOAO PEDRO 26', Cole PALMER 76'(p))
+  15:00   Sunderland  2-1 (1-1)  Crystal Palace   
+                  (Enzo LE FEE 33', Brian BROBBEY 71';
+                   Yeremy PINO 30')
+  15:00   Liverpool  1-1 (1-0)  Burnley   
+                  (Florian WIRTZ 42'; Marcus Edwards 65')
+  17:30   Nottingham Forest  0-0 (0-0)  Arsenal   
+Sun Jan 18
+  14:00   Wolverhampton Wanderers  0-0 (0-0)  Newcastle United   
+  16:30   Aston Villa  0-1 (0-0)  Everton   
+                  (Thierno Barry 59')
+Mon Jan 19
+  20:00   Brighton & Hove Albion  1-1 (0-1)  Bournemouth   
+                  (Charalampos Kostoulas 90+1'; Marcus Tavernier 32'(p))
+
+▪ Regular Season - 23
+Sat Jan 24
+  12:30   West Ham United  3-1 (3-0)  Sunderland   
+                  (Crysencio SUMMERVILLE 14', Jarrod BOWEN 28'(p), Mateus Fernandes 43';
+                   Brian BROBBEY 66')
+  15:00   Manchester City  2-0 (2-0)  Wolverhampton Wanderers   
+                  (OMAR MARMOUSH 6', Antoine SEMENYO 45+2')
+  15:00   Fulham  2-1 (0-1)  Brighton & Hove Albion   
+                  (Samuel CHUKWUEZE 72', Harry WILSON 90+2';
+                   Yasin AYARI 28')
+  15:00   Burnley  2-2 (1-1)  Tottenham Hotspur   
+                  (Axel Tuanzebe 45', Lyle FOSTER 76';
+                   Micky VAN DE VEN 38', Cristian ROMERO 90')
+  17:30   Bournemouth  3-2 (2-1)  Liverpool   
+                  (Francisco Evanilson de Lima Barbosa 26', Álex Jiménez 33', Amine Adli 90+5';
+                   Virgil VAN DIJK 45', Dominik Szoboszlai 80')
+Sun Jan 25
+  14:00   Brentford  0-2 (0-1)  Nottingham Forest   
+                  (IGOR JESUS 12', Taiwo Awoniyi 79')
+  14:00   Newcastle United  0-2 (0-1)  Aston Villa   
+                  (Emiliano BUENDIA 19', Ollie WATKINS 88')
+  14:00   Crystal Palace  1-3 (0-1)  Chelsea FC   
+                  (Chris RICHARDS 88';
+                   ESTEVAO 34', JOAO PEDRO 50', Enzo FERNANDEZ 64'(p))
+  16:30   Arsenal  2-3 (1-1)  Manchester United   
+                  (Lisandro MARTINEZ 29'(og), Mikel MERINO 84';
+                   Bryan MBEUMO 37', Patrick DORGU 50', MATHEUS CUNHA 87')
+Mon Jan 26
+  20:00   Everton  1-1 (0-1)  Leeds United   
+                  (Thierno Barry 76'; James Justin 28')
+
+▪ Regular Season - 24
+Sat Jan 31
+  15:00   Leeds United  0-4 (0-2)  Arsenal   
+                  (Martin ZUBIMENDI 27', Noni MADUEKE 38', Viktor GYOKERES 69', GABRIEL JESUS 86')
+  15:00   Brighton & Hove Albion  1-1 (0-0)  Everton   
+                  (Pascal GROSS 73'; BETO 90+7')
+  15:00   Wolverhampton Wanderers  0-2 (0-1)  Bournemouth   
+                  (Eli Junior KROUPI 33', Alex Scott 90+1')
+  17:30   Chelsea FC  3-2 (0-2)  West Ham United   
+                  (JOAO PEDRO 57', Marc CUCURELLA 70', Enzo FERNANDEZ 90+2';
+                   Jarrod BOWEN 7', Crysencio SUMMERVILLE 36')
+  20:00   Liverpool  4-1 (2-1)  Newcastle United   
+                  (Hugo EKITIKE 41', 43', Florian WIRTZ 67', Ibrahima KONATE 90+3';
+                   Anthony GORDON 36')
+Sun Feb 1
+  14:00   Nottingham Forest  1-1 (1-1)  Crystal Palace   
+                  (Morgan GIBBS WHITE 5'; Ismaila SARR 45+2'(p))
+  14:00   Manchester United  3-2 (1-0)  Fulham   
+                  (CASEMIRO 19', MATHEUS CUNHA 56', Benjamin SESKO 90+4';
+                   Raul JIMENEZ 85'(p), Kevin 90+1')
+  14:00   Aston Villa  0-1 (0-1)  Brentford   
+                  (Dango OUATTARA 45+1')
+  16:30   Tottenham Hotspur  2-2 (0-2)  Manchester City   
+                  (Dominic Solanke 53', 70';
+                   Rayan CHERKI 11', Antoine SEMENYO 44')
+Mon Feb 2
+  20:00   Sunderland  3-0 (2-0)  Burnley   
+                  (Axel Tuanzebe 9'(og), Habib DIARRA 32', Chemsdine TALBI 72')
+
+▪ Regular Season - 25
+Fri Feb 6
+  20:00   Leeds United  3-1 (2-0)  Nottingham Forest   
+                  (Jayden Bogle 26', Noah OKAFOR 30', Dominic Calvert-Lewin 49';
+                   Lorenzo LUCCA 86')
+Sat Feb 7
+  12:30   Manchester United  2-0 (1-0)  Tottenham Hotspur   
+                  (Bryan MBEUMO 38', BRUNO FERNANDES 81')
+  15:00   Burnley  0-2 (0-2)  West Ham United   
+                  (Crysencio SUMMERVILLE 13', Valentin CASTELLANOS 26')
+  15:00   Fulham  1-2 (1-0)  Everton   
+                  (Vitaliy MYKOLENKO 18'(og);
+                   Kiernan Dewsbury-Hall 75', Bernd Leno 83'(og))
+  15:00   Wolverhampton Wanderers  1-3 (0-3)  Chelsea FC   
+                  (Tolu AROKODARE 54';
+                   Cole PALMER 13'(p), 35'(p), 38')
+  15:00   Bournemouth  1-1 (0-1)  Aston Villa   
+                  (RAYAN 55'; Morgan ROGERS 22')
+  15:00   Arsenal  3-0 (1-0)  Sunderland   
+                  (Martin ZUBIMENDI 42', Viktor GYOKERES 66', 90+3')
+  17:30   Newcastle United  2-3 (1-2)  Brentford   
+                  (Sven Botman 24', BRUNO GUIMARAES 79'(p);
+                   Vitaly Janelt 37', IGOR THIAGO 45+2'(p), Dango OUATTARA 85')
+Sun Feb 8
+  14:00   Brighton & Hove Albion  0-1 (0-0)  Crystal Palace   
+                  (Ismaila SARR 61')
+  16:30   Liverpool  1-2 (0-0)  Manchester City   
+                  (Dominik Szoboszlai 74';
+                   BERNARDO SILVA 84', Erling HAALAND 90+3'(p))
+
+▪ Regular Season - 26
+Tue Feb 10
+  19:30   Chelsea FC  2-2 (1-0)  Leeds United   
+                  (JOAO PEDRO 24', Cole PALMER 58'(p);
+                   Lukas NMECHA 67'(p), Noah OKAFOR 73')
+  19:30   Tottenham Hotspur  1-2 (0-1)  Newcastle United   
+                  (Archie Gray 64';
+                   Malick THIAW 45+5', Jacob Ramsey 68')
+  19:30   Everton  1-2 (1-0)  Bournemouth   
+                  (Iliman NDIAYE 42'(p);
+                   RAYAN 61', Amine Adli 64')
+  20:15   West Ham United  1-1 (0-0)  Manchester United   
+                  (Tomas SOUCEK 50'; Benjamin SESKO 90+6')
+Wed Feb 11
+  19:30   Aston Villa  1-0 (0-0)  Brighton & Hove Albion   
+                  (Jack Hinshelwood 86'(og))
+  19:30   Manchester City  3-0 (3-0)  Fulham   
+                  (Antoine SEMENYO 24', Nico OREILLY 30', Erling HAALAND 39')
+  19:30   Nottingham Forest  0-0 (0-0)  Wolverhampton Wanderers   
+  19:40   Crystal Palace  2-3 (2-3)  Burnley   
+                  (Jorgen STRAND LARSEN 17', 33';
+                   Hannibal MEJBRI 40', Jaidon Anthony 44', Jefferson LERMA 45+2'(og))
+  20:15   Sunderland  0-1 (0-0)  Liverpool   
+                  (Virgil VAN DIJK 61')
+Thu Feb 12
+  20:00   Brentford  1-1 (0-0)  Arsenal   
+                  (Keane Lewis-Potter 71'; Noni MADUEKE 61')
+
+▪ Regular Season - 31
+Wed Feb 18
+  20:00   Wolverhampton Wanderers  2-2 (0-1)  Arsenal   
+                  (Hugo BUENO 61', Tom Edozie 90+4';
+                   Bukayo SAKA 5', Piero HINCAPIE 56')
+
+▪ Regular Season - 27
+Sat Feb 21
+  15:00   Aston Villa  1-1 (0-1)  Leeds United   
+                  (Tammy ABRAHAM 88'; Anton STACH 31')
+  15:00   Chelsea FC  1-1 (1-0)  Burnley   
+                  (JOAO PEDRO 4'; Zian Flemming 90+3')
+  15:00   Brentford  0-2 (0-2)  Brighton & Hove Albion   
+                  (Diego GOMEZ 30', Danny WELBECK 45+1')
+  17:30   West Ham United  0-0 (0-0)  Bournemouth   
+  20:00   Manchester City  2-1 (2-1)  Newcastle United   
+                  (Nico OREILLY 14', 27';
+                   Lewis Hall 22')
+Sun Feb 22
+  14:00   Nottingham Forest  0-1 (0-0)  Liverpool   
+                  (Alexis MAC ALLISTER 90+7')
+  14:00   Sunderland  1-3 (0-0)  Fulham   
+                  (Enzo LE FEE 76'(p);
+                   Raul JIMENEZ 54', 61'(p), Alex IWOBI 85')
+  14:00   Crystal Palace  1-0 (0-0)  Wolverhampton Wanderers   
+                  (Evann GUESSAND 90')
+  16:30   Tottenham Hotspur  1-4 (1-1)  Arsenal   
+                  (Randal KOLO MUANI 34';
+                   Eberechi EZE 32', 61', Viktor GYOKERES 47', 90+4')
+Mon Feb 23
+  20:00   Everton  0-1 (0-0)  Manchester United   
+                  (Benjamin SESKO 71')
+
+▪ Regular Season - 28
+Fri Feb 27
+  20:00   Wolverhampton Wanderers  2-0 (0-0)  Aston Villa   
+                  (JOAO GOMES 61', Rodrigo Gomes 90+8')
+Sat Feb 28
+  12:30   Bournemouth  1-1 (0-1)  Sunderland   
+                  (Francisco Evanilson de Lima Barbosa 63'; Eliezer Mayenda 18')
+  15:00   Burnley  3-4 (1-3)  Brentford   
+                  (Michael Kayode 45+3'(og), Jaidon Anthony 47', Zian Flemming 60';
+                   Mikkel DAMSGAARD 9', 90+3', IGOR THIAGO 25', Kevin SCHADE 34')
+  15:00   Liverpool  5-2 (3-0)  West Ham United   
+                  (Hugo EKITIKE 5', Virgil VAN DIJK 24', Alexis MAC ALLISTER 43', Cody GAKPO 70', Axel DISASI 82'(og);
+                   Tomas SOUCEK 49', Valentin CASTELLANOS 75')
+  15:00   Newcastle United  2-3 (1-2)  Everton   
+                  (Jacob Ramsey 32', Jacob Murphy 82';
+                   Jarrad BRANTHWAITE 19', BETO 34', Thierno Barry 83')
+  17:30   Leeds United  0-1 (0-1)  Manchester City   
+                  (Antoine SEMENYO 45+2')
+Sun Mar 1
+  14:00   Manchester United  2-1 (0-1)  Crystal Palace   
+                  (BRUNO FERNANDES 57'(p), Benjamin SESKO 65';
+                   Maxence Lacroix 4')
+  14:00   Brighton & Hove Albion  2-1 (2-1)  Nottingham Forest   
+                  (Diego GOMEZ 6', Danny WELBECK 15';
+                   Morgan GIBBS WHITE 13')
+  14:00   Fulham  2-1 (2-0)  Tottenham Hotspur   
+                  (Harry WILSON 7', Alex IWOBI 34';
+                   RICHARLISON 66')
+  16:30   Arsenal  2-1 (1-1)  Chelsea FC   
+                  (William SALIBA 21', Jurrien TIMBER 66';
+                   Piero HINCAPIE 45+2'(og))
+
+▪ Regular Season - 29
+Tue Mar 3
+  19:30   Everton  2-0 (1-0)  Burnley   
+                  (James Tarkowski 32', Kiernan Dewsbury-Hall 60')
+  19:30   Bournemouth  0-0 (0-0)  Brentford   
+  19:30   Leeds United  0-1 (0-0)  Sunderland   
+                  (Habib DIARRA 70'(p))
+  20:15   Wolverhampton Wanderers  2-1 (0-0)  Liverpool   
+                  (Rodrigo Gomes 78', ANDRE 90+4';
+                   MOHAMED SALAH 83')
+Wed Mar 4
+  19:30   Manchester City  2-2 (1-0)  Nottingham Forest   
+                  (Antoine SEMENYO 31', RODRI 62';
+                   Morgan GIBBS WHITE 56', Elliot ANDERSON 76')
+  19:30   Fulham  0-1 (0-0)  West Ham United   
+                  (Crysencio SUMMERVILLE 65')
+  19:30   Brighton & Hove Albion  0-1 (0-1)  Arsenal   
+                  (Bukayo SAKA 9')
+  19:30   Aston Villa  1-4 (1-2)  Chelsea FC   
+                  (DOUGLAS LUIZ 2';
+                   JOAO PEDRO 35', 45+6', 64', Cole PALMER 55')
+  20:15   Newcastle United  2-1 (1-1)  Manchester United   
+                  (Anthony GORDON 45+6'(p), William Osula 90';
+                   CASEMIRO 45+9')
+Thu Mar 5
+  20:00   Tottenham Hotspur  1-3 (1-3)  Crystal Palace   
+                  (Dominic Solanke 34';
+                   Ismaila SARR 40'(p), 45+7', Jorgen STRAND LARSEN 45+1')
+
+▪ Regular Season - 30
+Sat Mar 14
+  15:00   Sunderland  0-1 (0-0)  Brighton & Hove Albion   
+                  (Yankuba MINTEH 58')
+  15:00   Burnley  0-0 (0-0)  Bournemouth   
+  17:30   Chelsea FC  0-1 (0-1)  Newcastle United   
+                  (Anthony GORDON 18')
+  17:30   Arsenal  2-0 (0-0)  Everton   
+                  (Viktor GYOKERES 89', Max Dowman 90+7')
+  20:00   West Ham United  1-1 (1-1)  Manchester City   
+                  (Konstantinos Mavropanos 35'; BERNARDO SILVA 31')
+Sun Mar 15
+  14:00   Manchester United  3-1 (0-0)  Aston Villa   
+                  (CASEMIRO 53', MATHEUS CUNHA 71', Benjamin SESKO 81';
+                   Ross Barkley 64')
+  14:00   Crystal Palace  0-0 (0-0)  Leeds United   
+  14:00   Nottingham Forest  0-0 (0-0)  Fulham   
+  16:30   Liverpool  1-1 (1-0)  Tottenham Hotspur   
+                  (Dominik Szoboszlai 18'; RICHARLISON 90')
+Mon Mar 16
+  20:00   Brentford  2-2 (2-1)  Wolverhampton Wanderers   
+                  (Michael Kayode 22', IGOR THIAGO 37';
+                   Adam Armstrong 44', Tolu AROKODARE 77')
+
+▪ Regular Season - 31
+Fri Mar 20
+  20:00   Bournemouth  2-2 (0-0)  Manchester United   
+                  (Ryan Christie 67', Eli Junior KROUPI 81'(p);
+                   BRUNO FERNANDES 61'(p), James Hill 71'(og))
+Sat Mar 21
+  12:45   Brighton & Hove Albion  2-1 (1-1)  Liverpool   
+                  (Danny WELBECK 14', 56';
+                   Milos KERKEZ 30')
+  15:00   Fulham  3-1 (0-0)  Burnley   
+                  (Josh King 67', Harry WILSON 73', Raul JIMENEZ 90+5'(p);
+                   Zian Flemming 60')
+  17:30   Everton  3-0 (1-0)  Chelsea FC   
+                  (BETO 33', 62', Iliman NDIAYE 76')
+  20:00   Leeds United  0-0 (0-0)  Brentford   
+Sun Mar 22
+  12:00   Newcastle United  1-2 (1-0)  Sunderland   
+                  (Anthony GORDON 10';
+                   Chemsdine TALBI 57', Brian BROBBEY 90')
+  14:15   Tottenham Hotspur  0-3 (0-1)  Nottingham Forest   
+                  (IGOR JESUS 45', Morgan GIBBS WHITE 62', Taiwo Awoniyi 87')
+  14:15   Aston Villa  2-0 (1-0)  West Ham United   
+                  (John McGinn 15', Ollie WATKINS 68')
+
+▪ Regular Season - 32
+Fri Apr 10
+  20:00   West Ham United  4-0 (1-0)  Wolverhampton Wanderers   
+                  (Konstantinos Mavropanos 42', 83', Valentin CASTELLANOS 66', 68')
+Sat Apr 11
+  12:30   Arsenal  1-2 (1-1)  Bournemouth   
+                  (Viktor GYOKERES 35'(p);
+                   Eli Junior KROUPI 17', Alex Scott 74')
+  15:00   Burnley  0-2 (0-1)  Brighton & Hove Albion   
+                  (Mats WIEFFER 43', 89')
+  15:00   Brentford  2-2 (1-1)  Everton   
+                  (IGOR THIAGO 3'(p), 76';
+                   BETO 26', Kiernan Dewsbury-Hall 90+1')
+  16:30   Liverpool  2-0 (2-0)  Fulham   
+                  (Rio Ngumoha 36', MOHAMED SALAH 40')
+Sun Apr 12
+  14:00   Crystal Palace  2-1 (0-1)  Newcastle United   
+                  (Jean-Philippe MATETA 80', 90+4'(p);
+                   William Osula 43')
+  14:00   Nottingham Forest  1-1 (1-1)  Aston Villa   
+                  (Neco WILLIAMS 38'; MURILLO 23'(og))
+  13:00   Sunderland  1-0 (0-0)  Tottenham Hotspur   
+                  (Nordi MUKIELE 61')
+  16:30   Chelsea FC  0-3 (0-0)  Manchester City   
+                  (Nico OREILLY 51', Marc GUEHI 57', Jeremy DOKU 68')
+Mon Apr 13
+  20:00   Manchester United  1-2 (0-2)  Leeds United   
+                  (CASEMIRO 69';
+                   Noah OKAFOR 5', 29')
+
+▪ Regular Season - 33
+Sat Apr 18
+  12:30   Brentford  0-0 (0-0)  Fulham   
+  15:00   Leeds United  3-0 (2-0)  Wolverhampton Wanderers   
+                  (James Justin 18', Noah OKAFOR 20', Dominic Calvert-Lewin 90+5'(p))
+  15:00   Newcastle United  1-2 (0-1)  Bournemouth   
+                  (William Osula 68';
+                   Marcus Tavernier 32', Adrien TRUFFERT 85')
+  17:30   Tottenham Hotspur  2-2 (1-1)  Brighton & Hove Albion   
+                  (Pedro PORRO 39', Xavi SIMONS 77';
+                   Kaoru MITOMA 45+3', Georginio Rutter 90+5')
+  20:00   Chelsea FC  0-1 (0-1)  Manchester United   
+                  (MATHEUS CUNHA 43')
+Sun Apr 19
+  14:00   Aston Villa  4-3 (2-1)  Sunderland   
+                  (Ollie WATKINS 2', 36', Morgan ROGERS 46', Tammy ABRAHAM 90+3';
+                   Chris Rigg 9', Trai HUME 86', Wilson Isidor 87')
+  13:00   Everton  1-2 (0-1)  Liverpool   
+                  (BETO 54';
+                   MOHAMED SALAH 29', Virgil VAN DIJK 90+10')
+  14:00   Nottingham Forest  4-1 (0-1)  Burnley   
+                  (Morgan GIBBS WHITE 62', 69', 77', IGOR JESUS 90+8';
+                   Zian Flemming 45+2')
+  16:30   Manchester City  2-1 (1-1)  Arsenal   
+                  (Rayan CHERKI 16', Erling HAALAND 65';
+                   Kai HAVERTZ 18')
+Mon Apr 20
+  20:00   Crystal Palace  0-0 (0-0)  West Ham United   
+
+▪ Regular Season - 34
+Tue Apr 21
+  20:00   Brighton & Hove Albion  3-0 (1-0)  Chelsea FC   
+                  (Ferdi KADIOGLU 3', Jack Hinshelwood 56', Danny WELBECK 90+1')
+Wed Apr 22
+  20:00   Bournemouth  2-2 (0-0)  Leeds United   
+                  (Eli Junior KROUPI 60', RAYAN 85';
+                   James Hill 68'(og), Sean Longstaff 90+7')
+  20:00   Burnley  0-1 (0-1)  Manchester City   
+                  (Erling HAALAND 5')
+Fri Apr 24
+  19:00   Sunderland  0-5 (0-4)  Nottingham Forest   
+                  (Trai HUME 17'(og), Chris WOOD 31', Morgan GIBBS WHITE 34', IGOR JESUS 37', Elliot ANDERSON 90+5')
+Sat Apr 25
+  12:30   Fulham  1-0 (1-0)  Aston Villa   
+                  (Kouassi Ryan Sessegnon 43')
+  14:00   Liverpool  3-1 (2-0)  Crystal Palace   
+                  (Alexander Isak 35', Andy ROBERTSON 40', Florian WIRTZ 90+6';
+                   Daniel MUNOZ 71')
+  15:00   Wolverhampton Wanderers  0-1 (0-0)  Tottenham Hotspur   
+                  (JOAO PALHINHA 82')
+  15:00   West Ham United  2-1 (0-0)  Everton   
+                  (Tomas SOUCEK 51', Callum Wilson 90+2';
+                   Kiernan Dewsbury-Hall 88')
+  17:30   Arsenal  1-0 (1-0)  Newcastle United   
+                  (Eberechi EZE 9')
+Mon Apr 27
+  20:00   Manchester United  2-1 (2-0)  Brentford   
+                  (CASEMIRO 11', Benjamin SESKO 43';
+                   Mathias JENSEN 87')
+
+▪ Regular Season - 35
+Fri May 1
+  20:00   Leeds United  3-1 (1-0)  Burnley   
+                  (Anton STACH 8', Noah OKAFOR 52', Dominic Calvert-Lewin 56';
+                   Loum TCHAOUNA 71')
+Sat May 2
+  15:00   Newcastle United  3-1 (2-0)  Brighton & Hove Albion   
+                  (William Osula 12', Dan BURN 24', Harvey Barnes 90+5';
+                   Jack Hinshelwood 61')
+  15:00   Brentford  3-0 (1-0)  West Ham United   
+                  (Konstantinos Mavropanos 15'(og), IGOR THIAGO 54'(p), Mikkel DAMSGAARD 82')
+  15:00   Wolverhampton Wanderers  1-1 (0-1)  Sunderland   
+                  (Santiago BUENO 54'; Nordi MUKIELE 17')
+  17:30   Arsenal  3-0 (3-0)  Fulham   
+                  (Viktor GYOKERES 9', 45+4', Bukayo SAKA 40')
+Sun May 3
+  14:00   Bournemouth  3-0 (2-0)  Crystal Palace   
+                  (Jefferson LERMA 10'(og), Eli Junior KROUPI 32'(p), RAYAN 77')
+  15:30   Manchester United  3-2 (2-0)  Liverpool   
+                  (MATHEUS CUNHA 6', Benjamin SESKO 14', Kobbie MAINOO 77';
+                   Dominik Szoboszlai 47', Cody GAKPO 56')
+  19:00   Aston Villa  1-2 (0-2)  Tottenham Hotspur   
+                  (Emiliano BUENDIA 90+6';
+                   Conor GALLAGHER 12', RICHARLISON 25')
+Mon May 4
+  15:00   Chelsea FC  1-3 (0-2)  Nottingham Forest   
+                  (JOAO PEDRO 90+3';
+                   Taiwo Awoniyi 2', 52', IGOR JESUS 15'(p))
+  19:00   Everton  3-3 (0-1)  Manchester City   
+                  (Thierno Barry 68', 81', Jake OBRIEN 73';
+                   Jeremy DOKU 43', 90+7', Erling HAALAND 83')
+
+▪ Regular Season - 36
+Sat May 9
+  11:30   Liverpool  1-1 (1-1)  Chelsea FC   
+                  (Ryan GRAVENBERCH 6'; Enzo FERNANDEZ 35')
+  14:00   Sunderland  0-0 (0-0)  Manchester United   
+  15:00   Brighton & Hove Albion  3-0 (2-0)  Wolverhampton Wanderers   
+                  (Jack Hinshelwood 1', Lewis Dunk 5', Yankuba MINTEH 86')
+  15:00   Fulham  0-1 (0-0)  Bournemouth   
+                  (RAYAN 53')
+  17:30   Manchester City  3-0 (0-0)  Brentford   
+                  (Jeremy DOKU 60', Erling HAALAND 75', OMAR MARMOUSH 90+2')
+Sun May 10
+  14:00   Nottingham Forest  1-1 (0-0)  Newcastle United   
+                  (Elliot ANDERSON 88'; Harvey Barnes 74')
+  14:00   Burnley  2-2 (1-1)  Aston Villa   
+                  (Jaidon Anthony 8', Zian Flemming 58';
+                   Ross Barkley 42', Ollie WATKINS 56')
+  14:00   Crystal Palace  2-2 (1-1)  Everton   
+                  (Ismaila SARR 34', Jean-Philippe MATETA 77';
+                   James Tarkowski 6', BETO 47')
+  16:30   West Ham United  0-1 (0-0)  Arsenal   
+                  (Leandro TROSSARD 83')
+Mon May 11
+  20:00   Tottenham Hotspur  1-1 (0-0)  Leeds United   
+                  (Mathys TEL 50'; Dominic Calvert-Lewin 74'(p))
+
+▪ Regular Season - 31
+Wed May 13
+  20:00   Manchester City  3-0 (2-0)  Crystal Palace   
+                  (Antoine SEMENYO 32', OMAR MARMOUSH 40', SAVINHO 84')
+
+▪ Regular Season - 37
+Fri May 15
+  20:00   Aston Villa  4-2 (1-0)  Liverpool   
+                  (Morgan ROGERS 42', Ollie WATKINS 57', 73', John McGinn 89';
+                   Virgil VAN DIJK 52', 90+2')
+Sun May 17
+  12:30   Manchester United  3-2 (1-0)  Nottingham Forest   
+                  (Luke SHAW 5', MATHEUS CUNHA 55', Bryan MBEUMO 76';
+                   Morato 53', Morgan GIBBS WHITE 78')
+  15:00   Brentford  2-2 (1-1)  Crystal Palace   
+                  (Dango OUATTARA 40', 88';
+                   Ismaila SARR 6'(p), Adam Wharton 52')
+  15:00   Wolverhampton Wanderers  1-1 (1-1)  Fulham   
+                  (Mateus Mané 25'; Antonee ROBINSON 45+3'(p))
+  14:00   Everton  1-3 (1-0)  Sunderland   
+                  (Merlin Röhl 43';
+                   Brian BROBBEY 59', Enzo LE FEE 81', Wilson Isidor 90+1')
+  15:00   Leeds United  1-0 (0-0)  Brighton & Hove Albion   
+                  (Dominic Calvert-Lewin 90+6')
+  17:30   Newcastle United  3-1 (2-0)  West Ham United   
+                  (Nick WOLTEMADE 15', William Osula 19', 65';
+                   Valentin CASTELLANOS 69')
+Mon May 18
+  20:00   Arsenal  1-0 (1-0)  Burnley   
+                  (Kai HAVERTZ 37')
+Tue May 19
+  19:30   Bournemouth  1-1 (1-0)  Manchester City   
+                  (Eli Junior KROUPI 39'; Erling HAALAND 90+5')
+  20:15   Chelsea FC  2-1 (1-0)  Tottenham Hotspur   
+                  (Enzo FERNANDEZ 18', ANDREY SANTOS 67';
+                   RICHARLISON 74')
+
+▪ Regular Season - 38
+Sun May 24
+  15:00   Sunderland  2-1 (1-0)  Chelsea FC   
+                  (Trai HUME 25', Malo GUSTO 50'(og);
+                   Cole PALMER 56')
+  16:00   Nottingham Forest  1-1 (1-0)  Bournemouth   
+                  (Morgan GIBBS WHITE 34'; Marcus Tavernier 54')
+  16:00   Brighton & Hove Albion  0-3 (0-2)  Manchester United   
+                  (Patrick DORGU 33', Bryan MBEUMO 44', BRUNO FERNANDES 48')
+  15:00   Liverpool  1-1 (0-0)  Brentford   
+                  (Curtis Jones 58'; Kevin SCHADE 64')
+  16:00   Crystal Palace  1-2 (0-1)  Arsenal   
+                  (Jean-Philippe MATETA 89';
+                   GABRIEL JESUS 42', Noni MADUEKE 48')
+  16:00   Manchester City  1-2 (1-0)  Aston Villa   
+                  (Antoine SEMENYO 23';
+                   Ollie WATKINS 47', 61')
+  16:00   Fulham  2-0 (1-0)  Newcastle United   
+                  (Issa Diop 20', Thomas CAIRNEY 80')
+  16:00   West Ham United  3-0 (0-0)  Leeds United   
+                  (Valentin CASTELLANOS 67', Jarrod BOWEN 79', Callum Wilson 90+4')
+  16:00   Tottenham Hotspur  1-0 (1-0)  Everton   
+                  (JOAO PALHINHA 43')
+  16:00   Burnley  1-1 (0-1)  Wolverhampton Wanderers   
+                  (Zian Flemming 47'; Adam Armstrong 5'(p))
