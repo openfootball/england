@@ -1,4 +1,4 @@
-name: Generate and deploy json datasets
+name:  legacy (v0) - Generate and deploy json datasets
 
 on:
   workflow_dispatch:
@@ -22,19 +22,19 @@ jobs:
 
     - name: Run install
       run: |
-        gem install fbtxt2json 
-   
+        gem install fbtxt2json
+
     - name: Build datasets
       run: |
         fbtxt2json . -o ./_site --summary
-   
+
 #    - name: Add .htaccess file
 #      run: |
 #        echo 'AddType application/json .json' > ./_site/.htaccess
-   
+
     - name: Upload static files as artifact
       id: deployment
-      uses: actions/upload-pages-artifact@v3  
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./_site
 
@@ -58,4 +58,3 @@ jobs:
         uses: actions/deploy-pages@v4
         # with:
         #  token: ${{ secrets.GITHUB_TOKEN }}
-

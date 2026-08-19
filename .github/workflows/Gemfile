@@ -15,7 +15,7 @@
 ##   try
 
 
-##   $ bundle install ----gemfile=.github/workflows/Gemfile
+##   $ bundle install --gemfile=.github/workflows/Gemfile
 ##   $ bundle lock --add-platform=x86_64-linux --gemfile=.github/workflows/Gemfile
 
 
@@ -23,4 +23,4 @@ source "https://rubygems.org"
 
 ### gem "yorobot",   "2026.6.14"
 
-gem "fbtok"      ## incl. Fbtxt::Pathspec   (used in mkpages)
+gem "fbtok",  "0.9.1"      ## incl. Fbtxt::Pathspec   (used in mkpages)
