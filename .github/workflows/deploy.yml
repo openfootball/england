@@ -49,7 +49,7 @@ jobs:
     - name: setup scripts
       run: |
          git clone https://github.com/sportdb/sport.db.v2.git
-         ls sport.db.v2.git
+         ls sport.db.v2
          ls
          pwd
 
