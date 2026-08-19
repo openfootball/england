@@ -1,0 +1,26 @@
+##
+##  tip for github actions
+##
+##   $ bundle install    -- generates Gemfile.lock BUT incl. only local platform
+##                                          (e.g. x64-mingw-ucrt)
+##  add github actions linux platform and "generic" ruby
+##    $ bundle lock --add-platform ruby
+##    $ bundle lock --add-platform x86_64-linux
+
+##
+## plus try with
+##  bundle lock --add-platform PLATFORM
+##   to pre-generate lock file
+##  platform for ubuntu-latest is:  x86_64-linux
+##   try
+
+
+##   $ bundle install ----gemfile=.github/workflows/Gemfile
+##   $ bundle lock --add-platform=x86_64-linux --gemfile=.github/workflows/Gemfile
+
+
+source "https://rubygems.org"
+
+### gem "yorobot",   "2026.6.14"
+
+gem "fbtok"      ## incl. Fbtxt::Pathspec   (used in mkpages)

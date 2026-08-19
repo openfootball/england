@@ -1,4 +1,4 @@
-name: Generate and deploy html pages & json datasets
+name: Generate and deploy json datasets
 
 on:
   workflow_dispatch:
@@ -10,57 +10,31 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
-      BUNDLE_GEMFILE: ${{ github.workspace }}/.github/workflows/Gemfile
-
-
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v3
 
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
-        bundler-cache: true  # runs 'bundle install' and caches installed gems automatically
 
-    - name: try misc debug stuff
+    - name: Run install
       run: |
-          echo 'env via printenv:'
-          printenv
-          echo 'github workspace:'
-          echo ${{ github.workspace }}
-          echo $GITHUB_WORKSPACE
-          echo "Repository name: $GITHUB_REPOSITORY"
-          echo "Branch name: $GITHUB_REF"
-          gem list
-          gem env
-          echo 'loadpath setup v1:'
-          ruby -e 'pp $:'
-          echo 'loadpath setup v2:'
-          ruby -r 'bundler/setup' -e 'pp $:'
-          echo 'loadpath setup v3:'
-          bundle exec ruby -e 'pp $:'
-          echo $BUNDLE_GEMFILE
-  #=> ??
-  #=> ??
-
-    - name: setup scripts
+        gem install fbtxt2json 
+   
+    - name: Build datasets
       run: |
-         git clone https://github.com/sportdb/sport.db.v2.git
-
-    - name: Build pages & datasets
-      run: |
-        ruby sport.db.v2/mkpages/mkpages.rb --outdir=./_site --rootdir=. --baseurl=https://github.com/openfootball/england
-
+        fbtxt2json . -o ./_site --summary
+   
 #    - name: Add .htaccess file
 #      run: |
 #        echo 'AddType application/json .json' > ./_site/.htaccess
-
+   
     - name: Upload static files as artifact
       id: deployment
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v3  
       with:
         path: ./_site
 
@@ -84,3 +58,4 @@ jobs:
         uses: actions/deploy-pages@v4
         # with:
         #  token: ${{ secrets.GITHUB_TOKEN }}
+
