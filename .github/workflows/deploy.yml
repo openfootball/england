@@ -49,10 +49,14 @@ jobs:
     - name: setup scripts
       run: |
          git clone https://github.com/sportdb/sport.db.v2.git
+         ls sport.db.v2.git
+         ls
+         pwd
+
 
     - name: Build pages & datasets
       run: |
-        ruby sport.db.v2/mkpages/mkpages.rb --outdir=./_site --rootdir=. --baseurl=https://github.com/openfootball/england
+        bundle exec ruby sport.db.v2/mkpages/mkpages.rb --outdir=./_site --rootdir=. --baseurl=https://github.com/openfootball/england
 
 #    - name: Add .htaccess file
 #      run: |
