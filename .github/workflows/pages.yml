@@ -1,0 +1,14 @@
+name: Build (& deploy) html pages & json datasets
+
+on:
+  workflow_dispatch:
+
+
+
+jobs:
+  deploy:
+    uses: sportdb/sport.db.v2/.github/workflows/pages.yml@master
+    permissions:
+      contents: read
+      pages:    write
+      id-token: write
