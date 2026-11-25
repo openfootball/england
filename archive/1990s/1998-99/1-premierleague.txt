@@ -49,8 +49,7 @@ Sun Aug 30
 
 ▪ Matchday 4
 Tue Sep 8
-  19:00  Manchester United        4-1 (2-1)  Charlton Athletic FC
-         Leeds United FC          3-0 (1-0)  Southampton FC
+  19:00  Leeds United FC          3-0 (1-0)  Southampton FC
          Nottingham Forest FC     0-2 (0-0)  Everton FC
 Wed Sep 9
   18:45  Tottenham Hotspur FC     2-1 (1-1)  Blackburn Rovers FC
@@ -60,6 +59,7 @@ Wed Sep 9
          Aston Villa FC           1-0 (0-0)  Newcastle United FC
          Derby County FC          1-0 (1-0)  Sheffield Wednesday
          Leicester City FC        0-1 (0-1)  Middlesbrough FC
+         Manchester United        4-1 (2-1)  Charlton Athletic FC
 
 
 ▪ Matchday 5
@@ -239,7 +239,7 @@ Sat Dec 5
          Wimbledon FC             2-1 (0-0)  Coventry City FC
          Derby County FC          0-0  Arsenal FC
          Blackburn Rovers FC      1-0 (0-0)  Charlton Athletic FC
-         Leicester City FC        2-0 (1-0)  Southampton FC
+         Leicester City FC        2-0 (0-0)  Southampton FC
          Everton FC               0-0  Chelsea FC
          Leeds United FC          4-0 (1-0)  West Ham United FC
          Aston Villa FC           1-1 (0-0)  Manchester United
